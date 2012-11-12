@@ -3,8 +3,17 @@
 // Get selected papers from post
 $selected = $_POST["papers"];
 
+<<<<<<< HEAD:app/views/schedule.php
 // Get json data 
 $source	= file_get_contents("/assets/data/data.json");
+=======
+// echo "<PRE>";
+// print_r($selected);
+// echo "</PRE>";
+
+// Get json data
+$source	= file_get_contents("js/data.json");
+>>>>>>> a7a67f8246305ee5cf22460d0e8773bec623194a:schedule.php
 $json	= json_decode($source);
 
 // Get list of selected papers with metadata from json
@@ -45,9 +54,12 @@ header( 'Location: '.$temp_output.'.pdf' ) ;
  */
 function get_papers($json, $selected) {
 	$result = array();
-	foreach ($selected as $id) {
-		$result[$id] = $json[$id];
-		$result[$id]->index = $id;
+	// For each paper in the list
+	foreach ($json as $p) {
+		// For each selected paper
+		foreach ($selected as $id) {
+			if ($p->id == $id) $result[$id] = $p;
+		}
 	}
 	return $result;
 }

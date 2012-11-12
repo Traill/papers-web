@@ -72,7 +72,7 @@ case class Node(id : Int, title : String, authors : String, pdf : String, date :
   }
 }
 
-case class Edge(from : Int, to : Int, weight : Int) {
+case class Edge(from : Int, to : Int, weight : Double) {
   override def toString : String = "{\"source\":" + from + ",\"target\":" + to + ",\"value\":" + weight + "}"
 }
 

@@ -7,28 +7,28 @@
 
 <!-- Personal Graph Link -->
 <script type="text/javascript">
-	%{out.print('var personalLink =' + link + ';');
-	}%
-</script>
+	var personalLink = "@{link}";
 
-<!-- Util -->
+</script>
+<!--
+<!-- Util --
 <script src="@routes.Assets.at("js/util.js")" type="text/javascript"></script>
 
-<!-- D3 -->
+<!-- D3 --
 <script src="@routes.Assets.at("lib/d3/d3.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("lib/d3/d3.geom.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("lib/d3/d3.layout.js")" type="text/javascript"></script>
 
-<!-- JQuery -->
+<!-- JQuery --
 <script src="@routes.Assets.at("lib/jquery/jquery.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("lib/jquery/jquery.asmselect.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("lib/jquery/jquery-ui.js")" type="text/javascript"></script>
 <script src="@routes.Assets.at("lib/jquery/jquery-svgpan.min.js")" type="text/javascript"></script>
 <link rel="stylesheet" href="@routes.Assets.at("lib/jquery/ui-lightness/jquery-ui-1.8.18.custom.css")">
 
-<!-- Site -->
+<!-- Site --
 <script src="@routes.Assets.at("js/cookie.js")" type="text/javascript"></script>
-<script src="@routes.Assets.at("js/ui.js")" type="text/javascript"></script>
+<script src="@routes.Assets.at("js/ui.js")" type="text/javascript"></script>-->
 
 <link rel="stylesheet" href="@routes.Assets.at("stylesheets/reset.css")">
 <link rel="stylesheet" href="@routes.Assets.at("stylesheets/graph.css")">
@@ -37,6 +37,35 @@
 </head>
 
 <body>
+
+<!-- Loading curl -->
+<script type="text/javascript" src="js/lib/curl/curl.js"></script>
+<script>
+
+// Set up curl
+curl(
+
+	// Set up the configuration
+	{
+		baseUrl: 'js',
+		paths: {
+			"jquery": "lib/jquery/jquery",
+			"jquery/lib": "lib/jquery",
+			"radio": "lib/radio/radio"
+		},
+	}, 
+
+	// Set up the required modules
+	["controllers/controller"],
+
+	// The call back function
+	function(controller) {
+		// Do nothing
+	}
+)
+
+</script>
+
 	<div id="content">
 
 	<div id="header">
@@ -152,7 +181,7 @@
 		
 		
 		<div class="desc leftMargin" id="personalgraph">
-			<p>Once you have performed some modifications in you graph or the scehdule, 
+			<p>Once you have performed some modifications in you graph or the schedule, 
 			you can create your personal page and continue graph modifications the next time 
 			you visit this site. You just have to enter your email address and you will receive
 			an email with the link of your personal graph.</p><br/>
@@ -192,14 +221,63 @@
 		</select>
 	}
 
-
-
+	<div id="tabs" class="text">
+		
+		<ul id="tabhead">
+		        
+		        <li><a href="#tabs-2">Schedule</a></li>
+		        <li><a href="#tabs-1">Info</a></li>
+		        <li><a href="#tabs-3">Filters</a></li>
+		</ul>
+		<div id="tabs-2">
+			<div class="toolbar">
+				<a href="#"><div class="downpdf"><img alt="Download Paper" src="img/icons/download.png"/>Download</div></a>
+				<a href="#"><div class="removeall"><img alt="Download Paper" src="img/icons/remove.png"/>Remove All</div></a>
+			</div>
+	
+			<div id="downloadType" class="scheduleSelect">
+				<p>Include Abstract?</p>
+				<p class="click" id="getLarge">Yes</p>
+				<p>/</p>
+				<p class="click" id="getSmall">no</p>
+				<input type="hidden" name="abstract" value="0"/>
+			</div>
+	
+			<div id="sure" class="scheduleSelect">
+				<p>Are you sure?</p>
+				<p class="click" id="sureYes">Yes</p>
+				<p>/</p>
+				<p class="click" id="sureNo">no</p>
+			</div>
+	
+			<ul id="sidebar">
+				<li id="listItemTemplate" class="listItem">
+					<a href="#" class="listItemRemove">
+						<img src="img/icons/remove.png" />
+					</a>
+					<a class="listItemPdfLink" href="#" target="_blank">
+					
+						<span class="listItemLabel">
+							<div class="clear" style="height: 8px;"></div>
+							<img src="img/icons/paper.png" />
+							<p class="listItemText">List item</p>
+							<div class="clear" style="height: 8px;"></div>
+						</span>
+					</a>
+					<input type="hidden" name="papers[]" value="" />
+				</li>
+			</ul>
+		</div>
+		<div id="tab-1"></div>
+		<div id="tab-3"></div>
+		
 	</div>
 
 </div>
 
 
-<script src="@routes.Assets.at("js/graph.js")" type="text/javascript"></script>
+<!--<script src="@routes.Assets.at("js/graph.js")" type="text/javascript"></script>-->
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];

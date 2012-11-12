@@ -12,7 +12,7 @@ object TaskProcessGenerator {
 		return if(task.equals("abstract")) getAbstract(path) else "Task not recognized"
 	}
 	
-	private def getAbstract(pdf: String): String = {		
+	private def getAbstract(pdf: String): String = {
 		val array = List[(String, String)](("&ucirc;", "fi"), ("&quot;d", "&le;"), ("&iuml;&not;", "fi"), ("&acirc;‰&curren;", "&le;"), ("&ordm;", "&#954;"),
 											("&acute;", "&#948;"), ("&quot;&yen;", "&#8869;"), ("&quot;H", "&#8776;"), ("&quot;", "&#9827;"), ("&sup3;", "&#947;"), ("&Aacute;", "&#961;"), 
 											("&Auml;", "&#964;"), ("&raquo;", "&#955;"))

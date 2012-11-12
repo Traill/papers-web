@@ -20,7 +20,7 @@ object XMLParser extends Parsers with TitleExtractor1
    // This method returns the xml representation of the text contained in the Source object
    def getXMLObject(in: Source): Option[Elem] = {
 	  // String generation and illegal xml characters removing
-	  val text = in.mkString.replace("" + '\uffff', "").replace("" + "\u001f", "").replace("\u0010", "").replace("\u000b", "").replace("\u000c", "")
+	  val text = in.mkString.replace("" + '\uffff', "").replace("" + "\u001f", "")
       // This instruction is important, otherwise the xml file can't be deleted
       in.close
       

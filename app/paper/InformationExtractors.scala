@@ -85,8 +85,7 @@ trait AbstractExtractor1 extends InformationExtractor{
     // - It is entirely contained in the first page
 	def extractAbstract(paper: Paper, xml: XMLDocument, paragraphs: List[XMLParagraph]): (List[XMLParagraph], Paper) = {
 		val list = findFirstOf(paragraphs, (p: XMLParagraph) => p.hasOption(XMLParagraphOptions.JUSTIFY) && p.getPosition.getWidth >= xml.getPage(1).getPosition.getWidth / 3)
-		
-		if(list.length == 0) return (paragraphs, paper)
+		if(list.isEmpty) return (paragraphs, paper)
 		val xmlFont = xml.getFontsContainer.getXMLFont(list.head.getFontID)
 		val abstractList = filterAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY)).map((p: XMLParagraph) => p.getText.replaceAll("\n", " "))
 		val remainingList = discardAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY))

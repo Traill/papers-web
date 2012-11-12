@@ -130,7 +130,7 @@ trait LoadPaper {
     val orig = new File(name)
 
     // Check that directory or file exists
-    if (!orig.exists) println("Something is wrong with the file or directory in the argument : " + name)
+    if (!orig.exists) sys.error("Something is wrong with the file or directory in the argument")
 
     // If exists, set name and file
     // In case it's a directory, let the file array contain all the files of the directory (regex utilization)

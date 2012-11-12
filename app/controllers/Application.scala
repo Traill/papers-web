@@ -1,5 +1,5 @@
 package controllers
-
+import play._
 import play.api._
 import play.api.mvc._
 import java.io.File
@@ -9,7 +9,7 @@ import generators._
 object Application extends Controller { 
   
   def index = Action {
-    Ok(views.html.index(""))
+    Ok(views.html.index.render(""))
   }
   
   def generateSchedulePdf = Action { request =>
@@ -29,15 +29,20 @@ object Application extends Controller {
   }
   
   def generatePersonalGraph(link: String) = Action {
-	Ok(views.html.index(link))
+	Ok(views.html.index.render(link))
   }
   
   def generateLink = Action { request =>
 	val body = request.body.asFormUrlEncoded
 	if(body != None) {
-		val email = body.get("useremail").toList
-	}
-	// TODO
+		val emailAddress = body.get("useremail").toList
+		/*
+		MailGenerator.send("trailhead@epfl.ch", 
+							emailAddress.head,
+							"Graph Personal Link",
+							"Your personal graph link is :\nTrailHead.epfl.ch/personalGraph/" + LinkGenerator.generateLink)*/
+	} 
+	
 	Redirect(routes.Application.index)
   }
   
