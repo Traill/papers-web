@@ -8,7 +8,8 @@ GET		/taskProcess/:task/:path			controllers.Application.generateTaskProcess(task
 POST	/generateSchedulePdf				controllers.Application.generateSchedulePdf
 GET		/personalGraph/:link				controllers.Application.generatePersonalGraph(link: String)
 POST	/generateLink						controllers.Application.generateLink
-POST	/getGraphData/:link					controllers.Application.getGraphData(link: String)
+POST	/getGraphData/:field/:link			controllers.Application.getGraphData(link: String, field: String)
+POST	/setGraphData/:field/:link/:data	controllers.Application.setGraphData(link: String, field: String, data: String)
 
 
 

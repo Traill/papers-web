@@ -21,27 +21,27 @@ define(["jquery", "util/cookie", "util/array", "radio"], function($, cookie, arr
 	// Save scheduled ids
 	session.saveScheduled = function(scheduled) {
 		var string = scheduled.join(",");
-		cookie("scheduled", string, session.options);
-
-		// Test to see if it was saved
-		return cookie;
+		$.post("setGraphData/schedulePapers/" + selectedLink + "/" + string, function (data) { });
+		
 	}
 
 
 	// Save focused
 	session.saveFocused = function(focused) {
-		
-		cookie("focused", cur, { expires: 365 });
-
 		// If there is no focused, delete focused cookie
-		if (cur == undefined) cookie("focused", null);
+		if (cur == undefined) $.post("setGraphData/focusPaper/" + selectedLink + "/", function (data) { });
+		else $.post("setGraphData/focusPaper/" + selectedLink + "/" + cur, function (data) { });
 	}
 
 
 	// Load scheduled papers
 	session.loadScheduled = function() {
 		// get strings
-		var txt = cookie("scheduled");
+		var txt;
+		$.post("getGraphData/schedulePapers/" + selectedLink, function (data) { 
+				txt = data;
+		});
+		
 		var ids = txt ? txt.split(",") : [];
 
 		// Parse scheduled and filter the NaN
@@ -53,8 +53,12 @@ define(["jquery", "util/cookie", "util/array", "radio"], function($, cookie, arr
 
 	// Load focused paper
 	session.loadFocused = function() {
-		var cur = cookie("focused")
-		return (cur == null) ? null : parseInt(cur);
+		var output;
+		$.post("getGraphData/focusPaper/" + selectedLink, function (data) { 
+				output = parseInt(data);
+		});
+		
+		return output;
 	}
 
 	

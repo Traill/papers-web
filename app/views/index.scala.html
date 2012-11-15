@@ -186,9 +186,9 @@ curl(
 			you visit this site. You just have to enter your email address and you will receive
 			an email with the link of your personal graph.</p><br/>
 			<p>
-			@form(routes.Application.generateLink, 'target -> "blank", 'name -> "personalGraph", 'method -> "post") {
+			@form(routes.Application.generateLink, 'name -> "personalGraph", 'method -> "post") {
 				<p>Email Address : <input type="text" name="useremail" value="" id="useremailId" class="useremailClass"/></p><br/>
-				<a href="#">Send Personal Graph Link</a>
+				<input type="submit" value="Generate Personal Link">
 			}
 			</p>
 		</div>

@@ -1,7 +1,8 @@
-/*package generators;
+package generators;
 
 import java.util.Properties;
- 
+
+
 import javax.mail.Message;
 import javax.mail.MessagingException;
 import javax.mail.Session;
@@ -13,7 +14,7 @@ import javax.mail.internet.MimeMessage;
  
 public class MailGenerator {
 
-    public static void send(String from, String to, String subject, String text){
+    public static boolean send(String from, String to, String subject, String text) {
  
         Properties props = new Properties();
         props.put("mail.smtp.host", "smtp.gmail.com");
@@ -28,8 +29,7 @@ public class MailGenerator {
             fromAddress = new InternetAddress(from);
             toAddress = new InternetAddress(to);
         } catch (AddressException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            return false;
         }
  
         try {
@@ -40,8 +40,9 @@ public class MailGenerator {
  
             Transport.send(simpleMessage);
         } catch (MessagingException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+        	return false;
         }
+        
+        return true;
     }
-}*/
+}

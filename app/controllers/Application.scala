@@ -5,6 +5,8 @@ import play.api.mvc._
 import java.io.File
 import paper.Analyze
 import generators._
+import java.sql.Connection
+import play.db.DB
 
 object Application extends Controller { 
   
@@ -34,20 +36,45 @@ object Application extends Controller {
   
   def generateLink = Action { request =>
 	val body = request.body.asFormUrlEncoded
+
 	if(body != None) {
 		val emailAddress = body.get("useremail").toList
-		/*
-		MailGenerator.send("trailhead@epfl.ch", 
-							emailAddress.head,
-							"Graph Personal Link",
-							"Your personal graph link is :\nTrailHead.epfl.ch/personalGraph/" + LinkGenerator.generateLink)*/
-	} 
+		
+		if(!emailAddress.isEmpty) {
+			val mail = new MailSender("trailhead@epfl.ch", "Graph Personal Link",
+			    "Your personal graph link is :\nTrailHead.epfl.ch/personalGraph/" + LinkGenerator.generateLink,
+			    emailAddress.head);
+			Ok(mail.send())
+			//if(mail.send(emailAddress.head)) Redirect(routes.Application.index)
+			//else Ok("Email not sent")
+		} else Ok("Email empty")
+	} else Ok("Body not present")
 	
-	Redirect(routes.Application.index)
   }
   
-  def getGraphData(link: String) = Action {
-	Ok("")	// TODO
+  def getGraphData(link: String, field: String) = Action {
+	val conn = DB.getConnection()
+	// SQL injection !!!
+	val result = conn.createStatement().executeQuery("SELECT " + field + " FROM tgraphs WHERE link = '" + link + "'")
+	
+	if(result.next()) {
+	  Ok(result.getString(field))
+	} else Ok("Graph not found")
+  }
+  
+  def setGraphData(link: String, field: String, data: String) = Action {
+	val conn = DB.getConnection()
+	// SQL injection !!!
+	val result = conn.createStatement().executeQuery("SELECT " + field + " FROM tgraphs WHERE link = '" + link + "'")
+	
+	if(result.next()) {
+	  val result = conn.createStatement().executeQuery("UPDATE tgraph SET " + field + "=" + data + " WHERE link = '" + link + "'")
+	  Ok("Row updated")
+	} 
+	else {
+	  val result = conn.createStatement().executeQuery("INSERT INTO tgraphs (\""+ field + "\") VALUES (\"" + data +"\") WHERE link = '" + link + "'")
+	  Ok("Row inserted")
+	}
   }
   
   private def utf8URLDecode(url: String): String = {

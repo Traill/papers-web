@@ -201,7 +201,7 @@ define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie
 
 		// If not, then fetch abstract from server
 		else {
-			$.get("ajax/abstract/" + encodeURIComponent(d.pdf), function (data) { 
+			$.get("taskProcess/abstract/" + encodeURIComponent(d.pdf), function (data) { 
 				n.abstract = data;
 				if (callback != undefined) callback(data);
 			});
