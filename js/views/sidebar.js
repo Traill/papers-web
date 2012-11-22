@@ -1,4 +1,4 @@
-define(["jquery", "radio", "util/truncate", "util/array", "util/screen", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order'], function($, radio, truncate, arrrr, screen, tabbbb) {
+define(["jquery", "radio", "util/truncate", "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order'], function($, radio, truncate, arrrr, tabbbb) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -59,6 +59,13 @@ define(["jquery", "radio", "util/truncate", "util/array", "util/screen", 'js!lib
 		
 		// Show the sidebar
 		radio("sidebar:show").subscribe(show);
+		
+		
+		// When the windows is resized, change UI
+		radio("window:resize").subscribe(resize);
+		
+		// When the dom is ready, update the UI:
+		radio("domready").subscribe(resize);
 
 	}
 
@@ -90,10 +97,7 @@ define(["jquery", "radio", "util/truncate", "util/array", "util/screen", 'js!lib
 		sidebar.events();
 		
 		// Set the UI height:
-		$('#tabs').css('height', screen.height()-38);
-		$('#tabs .scrollable').css('height', screen.height()-150);
-		$('#tabs-1 .scrollable').css('height', screen.height()-150);
-		$('#tabs-3 .scrollable').css('height', screen.height()-430);
+		resize();
 		
 		// Init the tabs:
 		$('#tabs').tabs();
@@ -268,7 +272,18 @@ define(["jquery", "radio", "util/truncate", "util/array", "util/screen", 'js!lib
 	 	$('#closeSidebar div').transition({ rotate: '180deg' });
 	 }
 	
-
+	
+	/**
+	 * Update the UI of the tabs accordingly of the windows height:
+	 */
+	var resize = function(w, h){
+	
+		$('#tabs').css('height', h-38);
+		$('#tabs .scrollable').css('height', h-150);
+		$('#tabs-1 .scrollable').css('height', h-150);
+		$('#tabs-3 .scrollable').css('height', h-430);
+		
+	}
 	// Export the controller
 	sidebar.init();
 	return sidebar;
