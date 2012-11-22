@@ -6,7 +6,7 @@
  * TODO: Change every event to pass id and not the complete node object!
  */
 
-define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "models/nodeList", "params"], function(d3, screen, radio, levenshtein, zoom, nodeList, config) {
+define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "models/nodeList", "params", "views/loader"], function(d3, screen, radio, levenshtein, zoom, nodeList, config, loader) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -122,7 +122,11 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 				var e = d3.event;
 				radio("node:mouseout").broadcast(node, e) 
 			});
-		});						
+		});
+		
+		
+		// When it has been loaded, remove the curtain
+		radio("loader:hide").broadcast();			
 
 	}
 
