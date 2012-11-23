@@ -14,7 +14,7 @@ trait BagOfWordsLSI {
 
  // error is here:
   def compareBoWLSI(paperPos: String, papers : List[Paper], limit : Int) : List[Paper] = {
-	  val loadedPapers = if(papers == []) CacheLoader.load(paperPos, Cache.extended) else papers
+	  val loadedPapers = if(papers == List()) CacheLoader.load(paperPos, Cache.extended) else papers
 	  val matrixOfWeights: breeze.linalg.DenseMatrix[Int] = createTDMatrix(loadedPapers,loadedPapers.length)
 			loadedPapers.map(p => {
 				// Check that paper isn't already linked
@@ -161,7 +161,7 @@ trait BagOfWordsLSI {
 			//building dictionary:
 			//find unique words in texts
 			val textsLength = textsList.length
-			val dictionary = textsList.removeDuplicates.sort(_<_)
+			val dictionary = textsList.distinct.sortWith(_<_)
 			println(dictionary)
 			// we compute the Matrix of scores for the vectors of words for every document
 		    //construct it as a vector to convert it as a Matrix
@@ -312,7 +312,7 @@ trait BagOfWordsLSI {
 			}
 
 			val newtermDocMatrix = matchApproximation(approximation)
-			val distanceMat = Math.sqrt((newrecomposedMatrix.toList.zip(tfidfVector.toList) foldLeft 0.0)((sum,t) => 
+			val distanceMat = scala.math.sqrt((newrecomposedMatrix.toList.zip(tfidfVector.toList) foldLeft 0.0)((sum,t) => 
 					  					 sum + (t._2-t._1)*(t._2-t._1)))			
 			//compute cosine similarity:
 			//println(newtermDocMatrix.toString)
@@ -419,9 +419,9 @@ def getScores(matrixOfScores: DenseMatrix[Double], column: Int): List[Double] ={
 		if(listOfIndex.length < k){
 			val maxofArray = inputVector.max
 				if (maxofArray != 0){
-					var newlistOfIndex = listOfIndex:::List(inputVector.findIndexOf(x => x == maxofArray))				
+					var newlistOfIndex = listOfIndex:::List(inputVector.indexWhere(x => x == maxofArray))				
 					//set maximal value to 0 so it does not get taken into account again
-					inputVector(inputVector.findIndexOf(x => x == maxofArray)) = 0
+					inputVector(inputVector.indexWhere(x => x == maxofArray)) = 0
 					findKMax(inputVector,k, newlistOfIndex)
 
 				}else{
@@ -458,7 +458,7 @@ def getScores(matrixOfScores: DenseMatrix[Double], column: Int): List[Double] ={
 		var len = 0
 		xs foreach { e =>
 						if (len < n || e > min) {
-						ss = (xs.findIndexOf(x=>x==e) :: ss).sorted
+						ss = (xs.indexWhere(x=>x==e) :: ss).sorted
 						min = ss.head
 						len += 1
 						}
