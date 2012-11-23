@@ -9,12 +9,12 @@ import breeze.linalg.support.{CanCopy}
 
 
 
-trait bagOfWordsLSI {
+trait BagOfWordsLSI {
 
 
  // error is here:
-  def compareBoWLSI(paperPos: String, papers : Option[List[Paper]], limit : Int) : List[Paper] = {
-	  val loadedPapers = if(papers == None) CacheLoader.load(paperPos, Cache.extended) else papers.get
+  def compareBoWLSI(paperPos: String, papers : List[Paper], limit : Int) : List[Paper] = {
+	  val loadedPapers = if(papers == []) CacheLoader.load(paperPos, Cache.extended) else papers
 	  val matrixOfWeights: breeze.linalg.DenseMatrix[Int] = createTDMatrix(loadedPapers,loadedPapers.length)
 			loadedPapers.map(p => {
 				// Check that paper isn't already linked
