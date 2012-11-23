@@ -118,6 +118,7 @@ define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie
 				// nodeList.nodes[link.target].links.push({source: link.target, target: link.source, value: link.value, domlink: null}); 
 		});
 		
+		nodeList.links = json.links;
 
 		// Load session
 		// Load the node that are already scheduled

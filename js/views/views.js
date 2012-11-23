@@ -37,6 +37,8 @@ define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox
 		  		radio("window:resize").broadcast(w, h, e);
 			});
 			
+			
+			
 	
 	}
 	

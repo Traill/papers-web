@@ -1,4 +1,4 @@
-define(["data/position", "util/merge"], function(position, merge) {
+define(["data/position", "util/merge", "params"], function(position, merge, config) {
 
 
 	//////////////////////////////////////////////
@@ -37,7 +37,12 @@ define(["data/position", "util/merge"], function(position, merge) {
 					// Properties
 					domNode:	null,
 					links:		new Array(),
-					pos:		position[index],
+					//pos:		initPosition(index) ,
+					
+					//to be complient with force layout:
+					x:			initPosition(index).x,
+					y:			initPosition(index).y,
+					weight:		1,
 					index:		index,
 
 					// Methods
@@ -103,7 +108,21 @@ define(["data/position", "util/merge"], function(position, merge) {
 		//if(this.links != []) console.log(this.links);
 		return targets.indexOf(target) != -1;
 	}
-
+	
+	// Find initial position of the node, else create it.
+	var initPosition = function(index) {
+		var pos = {};
+		if(position[index] == null){
+			
+			pos.x = config['graph_width']*Math.random();
+			pos.y = config['graph_height']*Math.random();
+			
+		}else {
+			pos = position[index];
+		}
+		return pos;
+	
+	}
 	// Return the nodeFactory
 	return nodeFactory;
 })

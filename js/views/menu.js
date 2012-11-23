@@ -1,4 +1,4 @@
-define(["jquery", "radio", "models/nodeList"], function($, radio, nodeList) {
+define(["jquery", "radio", "models/nodeList", "models/graph"], function($, radio, nodeList, graph) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -47,7 +47,13 @@ define(["jquery", "radio", "models/nodeList"], function($, radio, nodeList) {
 		// Make menu work
 		$("#menulist li").click(function () { show($(this)); return false; });
 
-
+		// Attach UI
+		// TODO: do it somewhere else...
+		
+		$('.render .menuLink').click(function(){
+			//e.stop();
+			graph.render();
+		});
 	}
 	
 

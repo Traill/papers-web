@@ -84,7 +84,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	
 		 // Compute the direction offset:
 		 // Get the vector:
-		 var rx  = parseFloat(link.target.pos.x) - parseFloat(source.pos.x), ry  = parseFloat(link.target.pos.y) - parseFloat(source.pos.y);
+		 var rx  = parseFloat(link.target.x) - parseFloat(source.x), ry  = parseFloat(link.target.y) - parseFloat(source.y);
 		 		 
 		 // Normalize it:
 		 rxn = rx / Math.sqrt(rx*rx+ry*ry);
@@ -96,7 +96,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		 dst = Math.sqrt(rx*rx+ry*ry);
 		 randomfact =  10+ Math.sqrt(dst) + 10*Math.random();
 		 
-		 var posx  = parseFloat(source.pos.x) + randomfact*rxn-2, posy  = parseFloat(source.pos.y) + randomfact*ryn-2;
+		 var posx  = parseFloat(source.x) + randomfact*rxn-2, posy  = parseFloat(source.y) + randomfact*ryn-2;
 		 
 		 // Correction of the mean of the point:
 		 posy = posy+2;
@@ -122,7 +122,6 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 				var e = d3.event;
 				radio('node:deselect').broadcast(source, e);
 				
-				
 				radio('node:select').broadcast(link.target, e);
 				radio('node:setfocus').broadcast(link.target, e);
 				
@@ -132,6 +131,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 
 	// remove all the clickable item of the old node.
 	var deselect = function(node) {
+	if(node.links != null )
 		node.links.forEach(function(link){
 			if(link.domLink) {
 				var e = d3.event;
