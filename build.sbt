@@ -25,14 +25,6 @@ resolvers ++= Seq(
             "Sonatype Snapshots" at "https://oss.sonatype.org/content/repositories/snapshots/"
 )
 
-initialCommands := """
-  import System.{currentTimeMillis => now}
-  def time[T](f: => T): T = {
-    val start = now
-    try { f } finally { println("Elapsed: " + (now - start)/1000.0 + " s") }
-  }
-"""
-
 // The main class
 mainClass in (Compile, run) := Some("web.Server")
 

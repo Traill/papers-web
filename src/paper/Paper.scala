@@ -64,31 +64,31 @@ case class Paper(val id :       Int,
     return Paper(id, index, title, authors, abstr, body, newRefs, meta, links)
 }
 
-case class Title(t: String) extends Term {
+case class Title(t: String) {
   override def toString: String = t
   
   def getText: String = t
 }
 
-case class Author(name: String) extends Term {
+case class Author(name: String) {
   override def toString: String = name
   
   def getName: String = name
 }
 
-case class Abstract(text: String) extends Term {
+case class Abstract(text: String) {
   override def toString : String = "Abstract:\t" + text.take(40) + " ... "
   
   def getText: String = text
 }
 
-case class Body(text: String) extends Term {
+case class Body(text: String) {
   override def toString: String = "Body:\t\t" + text.take(100) ++ " ... \n"
   
   def getText: String = text
 }
 
-case class Reference(authors: List[Author], title: Title) extends Term {
+case class Reference(authors: List[Author], title: Title) {
   def clean : Reference = return Reference(authors.filter(a => a.name.stripMargin.length > 0), title)
   override def toString : String = authors.mkString("\n") + "\n--\n" + title
   
@@ -96,7 +96,7 @@ case class Reference(authors: List[Author], title: Title) extends Term {
   def getTitle: Title = title
 }
 
-case class Link(index : Int, weight : Int) extends Term {
+case class Link(index : Int, weight : Int) {
   override def toString : String = index + " " + weight
 }
 
