@@ -33,36 +33,50 @@ object Paper {
     val as = p.authors ::: p.refs.flatMap(r => r.authors)
     as.map(a => a.name).distinct
   }
+}
+
+
+// Abstract class for implementing a few helper methods
+abstract class AbstractPaper {
+  val id : Int;
+  val index : Int;
+  val title : Title;
+  val authors : List[Author];
+  val abstr : Abstract;
+  val body : Body;
+  val refs : List[Reference];
+  val meta : Map[String, String];
+  val links : List[Link];
 
   // A series of functions to modify a paper
-  def setMeta(p : Paper, m : (String, String)) : Paper = 
-    Paper(p.id, p.index, p.title, p.authors, p.abstr, p.body, p.refs, p.meta + m, p.links)
+  def setMeta(m : (String, String)) : Paper = 
+    Paper(id, index, title, authors, abstr, body, refs, meta + m, links)
 
-  def setTitle(p : Paper, t : Title) : Paper =
-    Paper(p.id, p.index, t, p.authors, p.abstr, p.body, p.refs, p.meta, p.links)
+  def setTitle(t : Title) : Paper =
+    Paper(id, index, t, authors, abstr, body, refs, meta, links)
 
-  def setAuthors(p : Paper, as : List[Author]) : Paper =
-    Paper(p.id, p.index, p.title, as, p.abstr, p.body, p.refs, p.meta, p.links)
+  def setAuthors(as : List[Author]) : Paper =
+    Paper(id, index, title, as, abstr, body, refs, meta, links)
 
-  def hasMeta(p : Paper, l : String) : Boolean = p.meta.contains(l)
+  def hasMeta(l : String) : Boolean = meta.contains(l)
 
-  def setId(p : Paper, newId : Int) : Paper = 
-    Paper(newId, p.index, p.title, p.authors, p.abstr, p.body, p.refs, p.meta, p.links)
+  def setId(newId : Int) : Paper = 
+    Paper(newId, index, title, authors, abstr, body, refs, meta, links)
 
-  def setIndex(p : Paper, newIndex : Int) : Paper = 
-    Paper(p.id, newIndex, p.title, p.authors, p.abstr, p.body, p.refs, p.meta, p.links)
+  def setIndex(newIndex : Int) : Paper = 
+    Paper(id, newIndex, title, authors, abstr, body, refs, meta, links)
 
-  def setLinks(p : Paper, newLinks : List[Link]) : Paper = 
-    Paper(p.id, p.index, p.title, p.authors, p.abstr, p.body, p.refs, p.meta, newLinks)
+  def setLinks(newLinks : List[Link]) : Paper = 
+    Paper(id, index, title, authors, abstr, body, refs, meta, newLinks)
     
-  def setAbstract(p : Paper, newAbstract : Abstract) : Paper = 
-    Paper(p.id, p.index, p.title, p.authors, newAbstract, p.body, p.refs, p.meta, p.links)
+  def setAbstract(newAbstract : Abstract) : Paper = 
+    Paper(id, index, title, authors, newAbstract, body, refs, meta, links)
     
-  def setBody(p : Paper, newBody : Body) : Paper = 
-    Paper(p.id, p.index, p.title, p.authors, p.abstr, newBody, p.refs, p.meta, p.links)
+  def setBody(newBody : Body) : Paper = 
+    Paper(id, index, title, authors, abstr, newBody, refs, meta, links)
     
-  def setReferences(p : Paper, newRefs : List[Reference]) : Paper = 
-    Paper(p.id, p.index, p.title, p.authors, p.abstr, p.body, newRefs, p.meta, p.links)
+  def setReferences(newRefs : List[Reference]) : Paper = 
+    Paper(id, index, title, authors, abstr, body, newRefs, meta, links)
 }
 
 
@@ -76,7 +90,7 @@ case class Paper(val id :       Int,
                  val body:      Body, 
                  val refs:      List[Reference], 
                  val meta:      Map[String, String],
-                 val links :    List[Link]) {
+                 val links :    List[Link]) extends AbstractPaper {
 
 
 

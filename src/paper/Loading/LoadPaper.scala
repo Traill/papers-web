@@ -146,7 +146,7 @@ trait LoadPaper {
     val finalPapers = somePapers.zip(files).map(p => if (p._1 == None) loadFromFile(p._2, parser, loader) else p._1)
 
     // Filter papers for None's and set index
-    val papers : List[Paper] = finalPapers.filter(p => p != None).zipWithIndex.map({case Pair(p,i) => Paper.setIndex(p.get, i) }).toList
+    val papers : List[Paper] = finalPapers.filter(p => p != None).zipWithIndex.map({case Pair(p,i) => p.get.setIndex(i) }).toList
 
     println("END OF PARSING")
     

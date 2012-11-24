@@ -80,20 +80,18 @@ trait XMLScheduleParser {
   // Putting the xml in a paper
   def setXMLData(xmlObject : Option[Elem], paper : Paper) : Paper = {
       val xml = xmlObject.get
-      var result = paper
-      result = Paper.setMeta(paper, ("xmldate"        -> getDate(xml)))
-      result = Paper.setMeta(paper, ("xmlroom"        -> getRoom(xml \\ "room")))
-      result = Paper.setMeta(paper, ("xmlsession"     -> (xml \\ "sess").text))
-      result = Paper.setMeta(paper, ("xmlstarttime"   -> (xml \\ "starttime").text))
-      result = Paper.setMeta(paper, ("xmlendtime"     -> (xml \\ "endtime").text))
-      result = Paper.setMeta(paper, ("xmlpaperid"     -> (xml \\ "paperid").text))
-      result = Paper.setMeta(paper, ("xmlsessionid"   -> (xml \\ "sessionid").text))
-      result = Paper.setMeta(paper, ("xmlpapertitle"  -> (xml \\ "papertitle").text))
+      paper.setMeta("xmldate"        -> getDate(xml))
+           .setMeta("xmlroom"        -> getRoom(xml \\ "room"))
+           .setMeta("xmlsession"     -> (xml \\ "sess").text)
+           .setMeta("xmlstarttime"   -> (xml \\ "starttime").text)
+           .setMeta("xmlendtime"     -> (xml \\ "endtime").text)
+           .setMeta("xmlpaperid"     -> (xml \\ "paperid").text)
+           .setMeta("xmlsessionid"   -> (xml \\ "sessionid").text)
+           .setMeta("xmlpapertitle"  -> (xml \\ "papertitle").text)
+           .setMeta("xmlauthors"     -> getAuthors(xml \\ "authors").mkString(", "))
+           .setTitle(Title((xml \\ "papertitle").text))
+           .setAuthors(getAuthors(xml \\ "authors").map(a => Author(formatAuthors(a))))
       //result = Paper.setMeta(paper, ("xmlabstract"    -> (xml \\ "abstract").text))
-      result = Paper.setMeta(paper, ("xmlauthors"     -> getAuthors(xml \\ "authors").mkString(", ")))
-      result = Paper.setTitle(paper, Title((xml \\ "papertitle").text))
-      result = Paper.setAuthors(paper, getAuthors(xml \\ "authors").map(a => Author(formatAuthors(a))))
-      return result
   }
 
   // Converts an authors XML note to string
