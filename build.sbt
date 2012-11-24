@@ -37,6 +37,10 @@ initialCommands := """
 mainClass in (Compile, run) := Some("web.Server")
 
 // The sources to be watched
-// watchSources <+= baseDirectory map { _ / "../paper" }
+watchSources <+= baseDirectory map { _ / "paper" }
+watchSources <+= baseDirectory map { _ / "web" }
+watchSources <+= baseDirectory map { _ / "paper/Linking" }
+watchSources <+= baseDirectory map { _ / "paper/Loading" }
+watchSources <+= baseDirectory map { _ / "paper/Parsing" }
 
 //watchSources <+= baseDirectory map { _ / "parser" }
