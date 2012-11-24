@@ -72,7 +72,7 @@ object XMLParser extends Parsers with TitleExtractor1
 		  val paper = extract(extractionOrder, (xmlDocument.get, Some(cleanPaper), xmlDocument.get.getParagraphs))
 		    
 	      if(paper._2 == None) None
-	      else	Some(paper._2.get.setMeta("parsed" -> "yes"))
+	      else	Some(Paper.setMeta(paper._2.get, ("parsed" -> "yes")))
 	  }
    }
 

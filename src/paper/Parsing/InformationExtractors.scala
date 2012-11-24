@@ -72,7 +72,7 @@ trait AuthorsExtractor1 extends InformationExtractor{
 		val authorsList = authors.map((s: String) => new Author(ExtractionRegexes.authorsSeparator.r.replaceAllIn(s, "")))
 	
 		   
-		if(authorsList.length != 0) (remainingList, paper.setAuthors(authorsList))
+		if(authorsList.length != 0) (remainingList, Paper.setAuthors(paper, authorsList))
 		else (paragraphs, paper)
 		   
 	}
@@ -90,7 +90,7 @@ trait AbstractExtractor1 extends InformationExtractor{
 		val abstractList = filterAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY)).map((p: XMLParagraph) => p.getText.replaceAll("\n", " "))
 		val remainingList = discardAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY))
 			
-		if(abstractList.length != 0) (remainingList, paper.setAbstract(new Abstract(concatText(abstractList))))
+		if(abstractList.length != 0) (remainingList, Paper.setAbstract(paper, Abstract(concatText(abstractList))))
 		else (paragraphs, paper)
 	}
 }
@@ -118,7 +118,7 @@ trait TitleExtractor1 extends InformationExtractor {
 		val maxSizeIDFont = xml.getFontsContainer.getXMLFont(findMaxSizeID(paragraphs.take(10)))
         val title = findFirstOf(paragraphs, p => maxSizeIDFont.get.checkID(p.getFontID) || p.hasOption(XMLParagraphOptions.PAGE_CENTERED))
 
-        if(title.length != 0) (title.tail, paper.setTitle(new Title(title.head.getText.replace("\n", " "))))
+        if(title.length != 0) (title.tail, Paper.setTitle(paper, Title(title.head.getText.replace("\n", " "))))
         else (paragraphs, paper)
 	}
 }
@@ -142,7 +142,7 @@ trait BodyExtractor1 extends InformationExtractor {
 		val bodyList = bodyListWithReturn.map((p: XMLParagraph) => p.getText.replaceAll("\n", " "))
         val remainingList = findFirstOf(paragraphs, (p:XMLParagraph) => p.getText.equals(lastBodyParagraph.getText)).tail
          
-		if(bodyList.length != 0) (remainingList, paper.setBody(new Body(concatText(bodyList))))
+		if(bodyList.length != 0) (remainingList, Paper.setBody(paper, Body(concatText(bodyList))))
 		else (paragraphs, paper)
 	}
 }
@@ -173,7 +173,7 @@ trait ReferencesExtractor1 extends InformationExtractor {
         
         val refList = makeReferences(referencesStringList, List()).reverse
         
-    	if(refList.length != 0) (List(), paper.setReferences(refList))
+    	if(refList.length != 0) (List(), Paper.setReferences(paper, refList))
 		else (paragraphs, paper)
 	}
 }

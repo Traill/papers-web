@@ -76,7 +76,7 @@ trait ParsePaper {
     def parse(file : Source) : Option[Paper] = {
       paper(getText(file)) match {
         case Failure(msg, rest)       => println("Failure: " + msg); None
-        case Success(result, rest)    => Some(result.setMeta("parsed" -> "yes"))
+        case Success(result, rest)    => Some(Paper.setMeta(result, ("parsed" -> "yes")))
       }
     }
   }

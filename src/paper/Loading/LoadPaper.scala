@@ -146,7 +146,7 @@ trait LoadPaper {
     val finalPapers = somePapers.zip(files).map(p => if (p._1 == None) loadFromFile(p._2, parser, loader) else p._1)
 
     // Filter papers for None's and set index
-    val papers : List[Paper] = finalPapers.filter(p => p != None).zipWithIndex.map({case Pair(p,i) => p.get.setIndex(i) }).toList
+    val papers : List[Paper] = finalPapers.filter(p => p != None).zipWithIndex.map({case Pair(p,i) => Paper.setIndex(p.get, i) }).toList
 
     println("END OF PARSING")
     
@@ -164,7 +164,7 @@ trait LoadPaper {
     
     // If paper doesn't exist and didn't parse, let's not parse it again
     if(result == None) return isBadFile(file)
-    else Cache.save(result.get.clean, Cache.parsed)          // Save and return
+    else Cache.save(Paper.clean(result.get), Cache.parsed)          // Save and return
     
     return result
   }

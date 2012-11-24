@@ -1,5 +1,72 @@
 package paper
 
+import net.liftweb.json._
+
+// Singleton with some utility functions
+object Paper {
+
+
+  // Convert Paper to Json
+  def toJSON(p : Paper) = JObject(List(
+                            JField("id", JInt(p.id)),
+                            JField("title", JString(p.title.t)),
+                            JField("authors", JArray(p.authors.map(a => JString(a.name)))),
+                            JField("abstract", JString(p.abstr.text)),
+                            JField("body", JString(p.body.text)),
+                            JField("refs", JArray(p.refs.map(r => refToJSON(r)))),
+                            JField("links", JArray(p.links.map(l => JObject(List(JField("id",JInt(l.index)), JField("w",JInt(l.weight))))))),
+                            JField("meta", JObject(p.meta.map(m => JField(m._1, JString(m._2))).toList))
+  ))
+  def refToJSON(r : Reference) = JObject(List(
+                               JField("authors", JArray(r.authors.map(a => JString(a.name)))),
+                               JField("title", JString(r.title.t))
+  ))
+
+
+  // Try to clean the data a little
+  def clean(p : Paper) = Paper(p.id, p.index, p.title, p.authors.filter(a => a.name.length > 4), p.abstr, p.body, cleanRefs(p.refs), p.meta, p.links)
+  def cleanRefs(refs : List[Reference]) = refs.map(r => Reference(r.authors.filter(a => a.name.stripMargin.length > 0), r.title))
+
+
+  // Get a list of all the distinct names in the paper authors and references
+  def getDistinctNames(p : Paper) : List[String] = {
+    val as = p.authors ::: p.refs.flatMap(r => r.authors)
+    as.map(a => a.name).distinct
+  }
+
+  // A series of functions to modify a paper
+  def setMeta(p : Paper, m : (String, String)) : Paper = 
+    Paper(p.id, p.index, p.title, p.authors, p.abstr, p.body, p.refs, p.meta + m, p.links)
+
+  def setTitle(p : Paper, t : Title) : Paper =
+    Paper(p.id, p.index, t, p.authors, p.abstr, p.body, p.refs, p.meta, p.links)
+
+  def setAuthors(p : Paper, as : List[Author]) : Paper =
+    Paper(p.id, p.index, p.title, as, p.abstr, p.body, p.refs, p.meta, p.links)
+
+  def hasMeta(p : Paper, l : String) : Boolean = p.meta.contains(l)
+
+  def setId(p : Paper, newId : Int) : Paper = 
+    Paper(newId, p.index, p.title, p.authors, p.abstr, p.body, p.refs, p.meta, p.links)
+
+  def setIndex(p : Paper, newIndex : Int) : Paper = 
+    Paper(p.id, newIndex, p.title, p.authors, p.abstr, p.body, p.refs, p.meta, p.links)
+
+  def setLinks(p : Paper, newLinks : List[Link]) : Paper = 
+    Paper(p.id, p.index, p.title, p.authors, p.abstr, p.body, p.refs, p.meta, newLinks)
+    
+  def setAbstract(p : Paper, newAbstract : Abstract) : Paper = 
+    Paper(p.id, p.index, p.title, p.authors, newAbstract, p.body, p.refs, p.meta, p.links)
+    
+  def setBody(p : Paper, newBody : Body) : Paper = 
+    Paper(p.id, p.index, p.title, p.authors, p.abstr, newBody, p.refs, p.meta, p.links)
+    
+  def setReferences(p : Paper, newRefs : List[Reference]) : Paper = 
+    Paper(p.id, p.index, p.title, p.authors, p.abstr, p.body, newRefs, p.meta, p.links)
+}
+
+
+
 // Try to keep this immutable
 case class Paper(val id :       Int, 
                  val index :    Int,
@@ -11,92 +78,18 @@ case class Paper(val id :       Int,
                  val meta:      Map[String, String],
                  val links :    List[Link]) {
 
-                 // Add a field that contains options, such as parsed and linked
 
-  val parsed : Boolean = false
-  val linked : Boolean = false
 
-  override def toString: String = title + "\n" + authors.mkString(", ") + "\n" + abstr + "\n" + body  + "\n" + refs.mkString("\n")
-
-  def getDistinctNames : List[String] = {
-    val as = authors ::: refs.flatMap(r => r.authors)
-    val names = as.map(a => a.toString)
-    return names.distinct
-  }
-
-  def getTitle : Title = title
-  
-  def getAuthors : List[Author] = authors
-  def getAbstract : Abstract = abstr
-  def getBody : Body = body
-  def getReferences : List[Reference] = refs
-  
-  def clean : Paper =
-    return Paper(id, index, title, authors.filter(a => a.name.length > 4), abstr, body, refs.map(r => r.clean), meta, links)
-
-  def setMeta(p : (String, String)) : Paper = 
-    return Paper(id, index, title, authors, abstr, body, refs, meta + p, links)
-
-  def setTitle(t : Title) : Paper =
-    return Paper(id, index, t, authors, abstr, body, refs, meta, links)
-
-  def setAuthors(as : List[Author]) : Paper =
-    return Paper(id, index, title, as, abstr, body, refs, meta, links)
-
-  def hasMeta(l : String) : Boolean = (meta.get(l) != None)
-
-  def setId(newId : Int) : Paper = 
-    return Paper(newId, index, title, authors, abstr, body, refs, meta, links)
-
-  def setIndex(newIndex : Int) : Paper = 
-    return Paper(id, newIndex, title, authors, abstr, body, refs, meta, links)
-
-  def setLinks(newLinks : List[Link]) : Paper = 
-    return Paper(id, index, title, authors, abstr, body, refs, meta, newLinks)
-    
-  def setAbstract(newAbstract : Abstract) : Paper = 
-    return Paper(id, index, title, authors, newAbstract, body, refs, meta, links)
-    
-  def setBody(newBody : Body) : Paper = 
-    return Paper(id, index, title, authors, abstr, newBody, refs, meta, links)
-    
-  def setReferences(newRefs : List[Reference]) : Paper = 
-    return Paper(id, index, title, authors, abstr, body, newRefs, meta, links)
 }
 
-case class Title(t: String) {
-  override def toString: String = t
-  
-  def getText: String = t
-}
+case class Title(t: String)
 
-case class Author(name: String) {
-  override def toString: String = name
-  
-  def getName: String = name
-}
+case class Author(name: String)
 
-case class Abstract(text: String) {
-  override def toString : String = "Abstract:\t" + text.take(40) + " ... "
-  
-  def getText: String = text
-}
+case class Abstract(text: String)
 
-case class Body(text: String) {
-  override def toString: String = "Body:\t\t" + text.take(100) ++ " ... \n"
-  
-  def getText: String = text
-}
+case class Body(text: String)
 
-case class Reference(authors: List[Author], title: Title) {
-  def clean : Reference = return Reference(authors.filter(a => a.name.stripMargin.length > 0), title)
-  override def toString : String = authors.mkString("\n") + "\n--\n" + title
-  
-  def getAuthors: List[Author] = authors
-  def getTitle: Title = title
-}
+case class Reference(authors: List[Author], title: Title)
 
-case class Link(index : Int, weight : Int) {
-  override def toString : String = index + " " + weight
-}
-
+case class Link(index : Int, weight : Int)

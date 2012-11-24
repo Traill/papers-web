@@ -26,7 +26,7 @@ import scala.collection.immutable.List
                     println(links)
 
 					// Add links to paper, and set it as linked
-					val result = p.setLinks(links).setMeta("linked", "yes")
+					val result = Paper.setMeta(Paper.setLinks(p, links), ("linked", "yes"))
 
 					// Save result
 					Cache.save(result, Cache.linked)
@@ -73,7 +73,7 @@ import scala.collection.immutable.List
 
 						//source(k) = scala.io.Source.fromFile(papers(k))
 						//text(k) = source(k).mkString
-					    text(k) = papers(k).getAbstract.getText
+					    text(k) = papers(k).abstr.text
 						//leave out unecessary characters from the analysis
 						text(k) = clean(text(k))
 						//Splitting the string into words to add stemming to every single word

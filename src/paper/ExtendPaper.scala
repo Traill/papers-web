@@ -87,8 +87,8 @@ trait ExtendPaper {
       var result : Paper = p
 
       // For each source, check if it's already added, and if not, add it
-      for (s <- sources if !p.hasMeta(s.getLabel)) {
-        result = result.setMeta(s.getLabel, s.getInfo(p))
+      for (s <- sources if !Paper.hasMeta(p, s.getLabel)) {
+        result = Paper.setMeta(result, (s.getLabel -> s.getInfo(p)))
       }
 
       // Save result

@@ -22,7 +22,7 @@ trait ComparePaper {
         val links = for ((p,w) <- otherPapers.zip(weights) if w >= 1) yield Link(p.index,w)
 
         // Add links to paper, and set it as linked
-        val result = p.setLinks(links).setMeta("linked", "yes")
+        val result = Paper.setMeta(Paper.setLinks(p,links),("linked", "yes"))
 
         // Save result
         Cache.save(result, Cache.linked)
@@ -37,8 +37,8 @@ trait ComparePaper {
 
   def getWeight(p : Paper, o : Paper) : Int = {
     // Get names
-    val pNames = p.getDistinctNames
-    val oNames = o.getDistinctNames
+    val pNames = Paper.getDistinctNames(p)
+    val oNames = Paper.getDistinctNames(o)
 
     // For each auther in p, check if he/she exists in other
     var matches = (for (name <- pNames if oNames.contains(name)) yield 1).sum

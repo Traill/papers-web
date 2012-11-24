@@ -42,7 +42,7 @@ trait FileLoader {
 		      var id = (SystemHelper.name(file.getName())).toInt
 		
 		      // Set filename and id
-		      val finalPaper : Paper = paper.get.setMeta("file" -> file.getPath).setId(id)
+		      val finalPaper : Paper = Paper.setId(Paper.setMeta(paper.get, ("file" -> file.getPath)) , id)
 		
 		      return Some(finalPaper)
 		  }catch {

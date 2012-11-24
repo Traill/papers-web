@@ -30,7 +30,7 @@ trait BagOfWordsLSI {
 					val links = for ((p,w) <- otherPapers.zip(weights) if w >= limit) yield Link(p.id,w)
 
 					// Add links to paper, and set it as linked
-					val result = p.setLinks(links).setMeta("linked", "yes")
+					val result = Paper.setMeta(Paper.setLinks(p,links),("linked", "yes"))
 
 					// Save result
 					Cache.save(result, Cache.linked)
@@ -113,7 +113,7 @@ trait BagOfWordsLSI {
 			for (k <- 0 to papers.length-1){
 				//source(k) = scala.io.Source.fromFile(filesList(k))
 				//text(k) = source(k).mkString	
-			    text(k) = papers(k).getAbstract.getText
+			    text(k) = papers(k).abstr.text
 				//leave out unecessary characters from the analysis
 				text(k) = clean(text(k))
 				//Splitting the string into words to add stemming to every single word
