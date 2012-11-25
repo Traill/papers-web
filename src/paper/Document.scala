@@ -7,7 +7,7 @@ import java.io.File
 case class Document(paper : Paper, 
                     file : File, 
                     links : List[Link], 
-                    meta : Map[String, String])
+                    meta : Map[String, String]) extends AbstractDocument
 
 // TODO: delete meta
 case class Paper(title:     Title, 
@@ -31,10 +31,13 @@ case class Reference(authors: List[Author], title: Title)
 
 case class Link(id : String, weight : Int)
 
-object Paper {
+object Document {
+
+  // Empty document for initialization
+  val emptyDoc = Document(emptyPaper, new File(""), List(), (Map.empty : Map[String,String]))
 
   // Empty paper for initialization
-  val empty = Paper(Title(""), List(), Abstract(""), Body(""), List(), Map.empty, List())
+  val emptyPaper = Paper(Title(""), List(), Abstract(""), Body(""), List(), Map.empty, List())
 
   // Convert Paper to Json
   def toJSON(p : Paper) = JObject(List(
@@ -97,7 +100,7 @@ object Paper {
 
     // Check if we have a JObject
     json match {
-      case JObject(fs)  => fields(fs, empty)
+      case JObject(fs)  => fields(fs, emptyPaper)
       case otherwise    => throw new Exception("Can't parse JSON " + otherwise)
     }
   }
@@ -113,6 +116,18 @@ object Paper {
     val as = p.authors ::: p.refs.flatMap(r => r.authors)
     as.map(a => a.name).distinct
   }
+}
+
+abstract class AbstractDocument {
+  val paper : Paper
+  val file : File
+  val links : List[Link]
+  val meta : Map[String, String]
+
+  def setPaper(p : Paper) : Document = Document(p, file, links, meta)
+  def setFile(f : File) : Document = Document(paper, f, links, meta)
+  def setLinks(ls : List[Link]) : Document = Document(paper, file, ls, meta)
+  def setMeta(m : (String, String)) : Document = Document(paper, file, links, meta + m)
 }
 
 

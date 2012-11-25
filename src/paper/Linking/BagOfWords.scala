@@ -95,7 +95,6 @@ trait BagOfWords extends ComparePaper {
 					// we compute the array of scores for the vectors of words for every document
 					val tfidfArray = new Array[Array[Double]](dictionary.length,datasetSize)
 
-					println("Computing tfidf array... ")
 					for (i <- 0 to dictionary.length -1){
 						for (j <- 0 to datasetSize -1){
 							//compute tfidf value for word i and document j
@@ -103,7 +102,6 @@ trait BagOfWords extends ComparePaper {
 							//println(tfidfArray(i)(j))
 						}
 					}
-					println("Computing tfidf array: Complete...")
 					//once we have the scores we can compute the absolute distance between papers and classify them
 					//This is performed computing a scalar product on the score vectors for every document
 					//Computation might take some time
@@ -116,7 +114,6 @@ trait BagOfWords extends ComparePaper {
 					val tfidfTranspose = tfidfArray.transpose
 			
 					val normalisationTerm = 1
-					println("Computing scalar product array")
 					for (i <- 0 to datasetSize -1){
 						//println(i)
 						for (j <- 0 to datasetSize -1){
@@ -140,10 +137,8 @@ trait BagOfWords extends ComparePaper {
 						}
 			         }
 					//return array of scores
-					println("Computing scalar product array: Done...")			
 					// map every score with the paper ID
 					//for every paper sort according to scores
-					println("Sorting accordingly...")
 					val a = 0 until datasetSize
 					var positions = new Array[List[(Double,Int)]](datasetSize)
 					for(k <- 0 to datasetSize-1){

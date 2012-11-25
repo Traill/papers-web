@@ -22,7 +22,7 @@ trait XMLParser extends TitleExtractor1
 
 	  if(xml == None) None
 	  else {
-		  val cleanPaper = Paper.empty
+		  val cleanPaper = Document.emptyPaper
 		  val xmlDocument = XMLObjectsManager.constructXMLDocument(xml.get, "\n")
 
 		  // print

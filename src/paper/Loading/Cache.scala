@@ -13,7 +13,7 @@ object Cache {
 
   // Save a document to cache
   def save(id : String, doc : Document) : String = {
-    val json = Paper.toJSON(doc.paper)
+    val json = Document.toJSON(doc.paper)
     val filename = dir + id + suffix
 
     // Make sure directory exists
@@ -46,7 +46,7 @@ object Cache {
     // Now parse json
     val content : String = Source.fromFile(file).getLines.mkString
     val json = parse(content)
-    Some(Paper.fromJSON(json))
+    Some(Document.fromJSON(json))
   }
 
 
