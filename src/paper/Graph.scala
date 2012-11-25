@@ -4,12 +4,11 @@ trait Graphs {
 
   def getGraph(paperPos:String, papers : List[Paper]) : Graph = {
     println("BEGIN OF GRAPH CREATION")
-    val loadedPapers = if(papers == List()) CacheLoader.load(paperPos, Cache.linked) else papers
     // Add all papers as nodes
-    val nodes : List[Node] = for (p <- loadedPapers) yield makeNode(p)
+    val nodes : List[Node] = for (p <- papers) yield makeNode(p)
 
     // Then create all edges
-    val edges : List[Edge] = for (p <- loadedPapers; e <- makeEdges(p, nodes)) yield e
+    val edges : List[Edge] = for (p <- papers; e <- makeEdges(p, nodes)) yield e
 
     println("END OF GRAPH CREATION")
     return new Graph(nodes, edges)

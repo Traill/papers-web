@@ -81,8 +81,7 @@ trait ExtendPaper {
 
   def extend(paperPos: String, papers : List[Paper], sources : List[PaperSource]) : List[Paper] = {
     println("BEGIN OF PAPERS EXTENSION")
-	val loadedPapers = if(papers == List()) CacheLoader.load(paperPos, Cache.scheduled) else papers
-    val finalPapers = loadedPapers.map(p => {
+    val finalPapers = papers.map(p => {
 
       var result : Paper = p
 
@@ -92,7 +91,7 @@ trait ExtendPaper {
       }
 
       // Save result
-      Cache.save(result, Cache.extended)
+      Cache.save(result)
 
       // return result
       result

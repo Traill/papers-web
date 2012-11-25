@@ -11,6 +11,8 @@ object Analyze {
     }
 
     else {
+
+      // Get options
       val options = readOptions(args.last)
 
       // Then go ahead
@@ -65,15 +67,12 @@ object Analyze {
 class Analyzer extends Object with LoadPaper
                               with ParsePaper 
                               with ExtendPaper
-                              with BagOfWordsLSI
+                              with BagOfWords
                               with XMLScheduleParser
                               with Graphs {
 
   // Set a limit in percent for when papers get an edge between them
   val limit : Int = 1
-
-  // Get cached papers in this order
-  val cache : List[String] = List(Cache.linked, Cache.extended, Cache.scheduled, Cache.parsed)
 
   // Set sources we want to extend with
   //val sources : List[PaperSource] = List(TalkDates, TalkRooms, PdfLink)
@@ -86,7 +85,7 @@ class Analyzer extends Object with LoadPaper
 
     // Get a list of parsed papers
     if (options("parse") == true) {
-      papers = loadAndParse(paperPos, cache, XMLParser, XMLConverterLoader)
+      papers = loadAndParse(paperPos, XMLParser, XMLConverterLoader)
     }
 
     // Mix in the schedule XML data
@@ -101,7 +100,7 @@ class Analyzer extends Object with LoadPaper
 
     // Compare the papers individually
     if (options("link") == true) {
-      papers = compareBoWLSI(paperPos, papers, limit)
+      papers = compareBoW(paperPos, papers, limit)
     }
 
     // Create graph

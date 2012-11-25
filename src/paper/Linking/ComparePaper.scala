@@ -6,13 +6,12 @@ trait ComparePaper {
 
   def compare(paperPos:String, papers : List[Paper], limit : Int) : List[Paper] = {
     println("BEGIN OF PAPERS COMPARISION")
-	val loadedPapers = if(papers == List()) CacheLoader.load(paperPos, Cache.extended) else papers
     
-	val finalPapers = loadedPapers.map(p => {
+	val finalPapers = papers.map(p => {
       // Check that paper isn't already linked
       if (p.meta.get("linked") == None) {
         // Get list of papers that aren't current paper
-        val otherPapers = loadedPapers.filter(p != _)
+        val otherPapers = papers.filter(p != _)
 
         // Compare to every other paper
         val weights : List[Int] = for (other <- otherPapers) yield getWeight(p, other)
@@ -25,7 +24,7 @@ trait ComparePaper {
         val result = p.setLinks(links).setMeta("linked","yes")
 
         // Save result
-        Cache.save(result, Cache.linked)
+        Cache.save(result)
 
         result
       }

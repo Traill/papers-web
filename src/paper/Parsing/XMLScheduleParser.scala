@@ -14,16 +14,12 @@ trait XMLScheduleParser {
     // Check if the schedule exists
     if (!(new File(path)).exists()) throw new Exception("No file called schedule.xml exists in papers path");
 	
-    // If no paper exists, load from cache
-    var loadedPapers = papers
-    if (papers == List()) loadedPapers = CacheLoader.load(paperPos, Cache.parsed)
-	
     // Parse schedule
     val xml : Map[Int, Elem] = parse(path)
 
     println("END OF XML SCHEDULING")
     // match schedule with papers
-    return matchXML(xml, loadedPapers)
+    return matchXML(xml, papers)
   }
 
 
@@ -63,7 +59,7 @@ trait XMLScheduleParser {
 	        val result = setXMLData(data, p)
 	
 	        // Save result
-	        Cache.save(result, Cache.scheduled)
+	        Cache.save(result)
 	
 	        // Return result
 	        result
