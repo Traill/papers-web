@@ -30,7 +30,7 @@ trait PDFLoader {
 
     // The command, params and path used to process the pdf to xml
     val command = if (isWindows) "tools\\windows\\pdfToxmlConverter.exe" else "pdftohtml"
-    val path = List(file.getAbsolutePath())
+    val path = List(file.getAbsolutePath)
     val params = List("-xml", "-q", "-enc", "UTF-8")
 
     // Transform pdf to xml
@@ -40,7 +40,7 @@ trait PDFLoader {
     if(process.waitFor() != 0) throw new Exception("Can't convert pdf file to xml")
 
     // Return a fileHandle for the newly created xml file
-    new File(file.getName.split('.').head + ".xml")
+    new File(file.getAbsolutePath.split('.').head + ".xml")
   }
 
 }

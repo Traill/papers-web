@@ -2,49 +2,34 @@ package paper
 import java.io._
 import scala.io.Source
 
-trait ComparePaper {
+abstract trait ComparePaper {
 
-  def compare(paperPos:String, papers : List[Paper], limit : Int) : List[Paper] = {
-    println("BEGIN OF PAPERS COMPARISION")
-    
-	val finalPapers = papers.map(p => {
-      // Check that paper isn't already linked
-      if (p.meta.get("linked") == None) {
-        // Get list of papers that aren't current paper
-        val otherPapers = papers.filter(p != _)
+  // If there is anything to be initialized it is done here
+  def init(papers : List[Paper]) : Unit = ()
 
-        // Compare to every other paper
-        val weights : List[Int] = for (other <- otherPapers) yield getWeight(p, other)
+  // Returns a weight between 0 and 100
+  def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int
 
-        // Make links
-        //val links = for ((p,w) <- otherPapers.zip(weights) if w >= limit) yield Link(p.id,w)
-        val links = for ((p,w) <- otherPapers.zip(weights) if w >= 1) yield Link(p.index,w)
+  // Creates a list of links
+  def makeLinks(papers : Map[String, Paper]) : Map[String, List[Link]] = {
 
-        // Add links to paper, and set it as linked
-        val result = p.setLinks(links).setMeta("linked","yes")
+    // We need an indexed version of the papers
+    val (ids, ps) = papers.unzip
 
-        // Save result
-        Cache.save(result)
+    // Before we make the links, the init function is called
+    init(ps.toList)
 
-        result
-      }
-      else p
-    })
-    println("END OF PAPERS COMPARISION")
-    finalPapers
+    val links = for (((p, i), id) <- ps.zipWithIndex.zip(ids)) yield {
+
+      // Compare to every other paper
+      val weights = for (((op, oi), oid) <- ps.zipWithIndex.zip(ids);
+                                       w = getWeight(p, op, i, oi)
+                                       if (oi != i) && (w > 0)) yield Link(oid, w)
+
+      // Return a map from id to links
+      (id -> weights.toList)
+    }
+
+    return links.toMap
   }
-
-  def getWeight(p : Paper, o : Paper) : Int = {
-    // Get names
-    val pNames = Paper.getDistinctNames(p)
-    val oNames = Paper.getDistinctNames(o)
-
-    // For each auther in p, check if he/she exists in other
-    var matches = (for (name <- pNames if oNames.contains(name)) yield 1).sum
-
-    // return result
-    return (100 * matches.toDouble / pNames.length.toDouble).toInt
-
-  }
-
 }

@@ -6,19 +6,22 @@ object Main {
     // create analyzer
     val A : Analyzer = Analyzer(Map.empty)
 
-    // Check that a directory is supplied (there is an argument)
-    if (args.length == 0 || args.length > 2) {
-      println("You should provide at least a path and at most a path and an option. Type -h for help.");
-    }
+    var t = A.initialize("resources/isit2012test").parse
+    println(t)
 
-    else {
+    // // Check that a directory is supplied (there is an argument)
+    // if (args.length == 0 || args.length > 2) {
+    //   println("You should provide at least a path and at most a path and an option. Type -h for help.");
+    // }
 
-      // Get options
-      val options = readOptions(args.last)
+    // else {
 
-      // Then go ahead
-      //A.analyze(args(0), options)
-    }
+    //   // Get options
+    //   val options = readOptions(args.last)
+
+    //   // Then go ahead
+    //   //A.analyze(args(0), options)
+    // }
   }
 
   // Reads in the options and converts them to a map of options

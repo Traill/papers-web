@@ -7,15 +7,15 @@ case class Analyzer(docs : Map[String, Document]) {
 
 
   // Set directory where the pdf's are located
-  def initalize(location : String) : Analyzer = {
+  def initialize(location : String) : Analyzer = {
 
     // Utility function for getting a document
     val empty : Map[String,String] = Map.empty
     def doc(f : File) = Document(Paper.empty, f, List(), empty)
 
     // Create new Analyze object
-    val ds = Analyzer.getFiles(location).map(f => (f._1 -> doc(f._2)))
-    return Analyzer(docs)
+    val ds = for ((id, f) <- Analyzer.getFiles(location)) yield (id -> doc(f))
+    return Analyzer(ds)
   }
 
 
@@ -31,11 +31,10 @@ case class Analyzer(docs : Map[String, Document]) {
     }
 
     // Parse every document
-    val ds = docs.map(d => (d._1 -> doc(d._2.file)))
+    val ds = for ((id, d) <- docs; 
+                        n = doc(d.file) if (n.paper != Paper.empty)) yield (id -> n)
 
-    // Filter every document that was correctly parsed
-    val es = ds.filter(_._2.paper != Paper.empty)
-    return Analyzer(es)
+    return Analyzer(ds)
   }
 
 }

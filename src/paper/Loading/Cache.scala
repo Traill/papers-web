@@ -11,10 +11,10 @@ object Cache {
   val suffix = ".cache"
 
 
-  // Save a paper to cache
-  def save(p : Paper) : String = {
-    val json = Paper.toJSON(p)
-    val filename = dir + p.id + suffix
+  // Save a document to cache
+  def save(id : String, doc : Document) : String = {
+    val json = Paper.toJSON(doc.paper)
+    val filename = dir + id + suffix
 
     // Make sure directory exists
     val d = new File(dir)
@@ -36,7 +36,7 @@ object Cache {
 
 
   // Given an id a paper will be loaded
-  def load(id : Int) : Option[Paper] = {
+  def load(id : String) : Option[Paper] = {
 
     // Get file handle and check that it exists
     val filename = dir + id + suffix
@@ -51,7 +51,6 @@ object Cache {
 
 
   // remove cached file of paper or id
-  def clean(p : Paper) : Unit = clean(p.id)
   def clean(id : Int) : Unit = {
     
     val filename = dir + id + suffix

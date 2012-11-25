@@ -2,33 +2,31 @@ package paper
 
 trait Graphs {
 
-  def getGraph(paperPos:String, papers : List[Paper]) : Graph = {
-    println("BEGIN OF GRAPH CREATION")
+  def getGraph(papers : List[Paper]) : Graph = {
     // Add all papers as nodes
     val nodes : List[Node] = for (p <- papers) yield makeNode(p)
 
     // Then create all edges
     val edges : List[Edge] = for (p <- papers; e <- makeEdges(p, nodes)) yield e
 
-    println("END OF GRAPH CREATION")
     return new Graph(nodes, edges)
   }
 
   // MODIFICATION
  def makeNode(paper : Paper) : Node = {
-    println("Making node for " + paper.id)
-    Node(paper.id, paper.meta("xmlpapertitle"), paper.meta("xmlauthors"), paper.meta("pdf"), paper.meta("xmldate"), paper.meta("xmlroom"))
+    Node(paper.meta("xmlpapertitle"), paper.meta("xmlauthors"), paper.meta("pdf"), paper.meta("xmldate"), paper.meta("xmlroom"))
   }
   
   def makeEdges(paper : Paper, nodes : List[Node]) : List[Edge] = {
     // make edge
-    val edges = for (link <- paper.links) yield (makeEdge(paper.index, link))
+    //val edges = for (link <- paper.links) yield (makeEdge(paper.index, link))
+    val edges : List[Edge] = List()
     // Sort edges by weight and pick the n biggest
     val l = math.min(4, edges.length)
     return edges.sortWith(_.weight > _.weight).take(l)
   }
 
-  def makeEdge(index : Int, link : Link) : Edge = Edge(index, link.index, link.weight)
+  //def makeEdge(index : Int, link : Link) : Edge = Edge(index, link.index, link.weight)
 
 }
 
@@ -60,10 +58,10 @@ class Graph(nodes : List[Node], edges : List[Edge]) {
   }
 }
 
-case class Node(id : Int, title : String, authors : String, pdf : String, date : String, room : String) {
+case class Node(title : String, authors : String, pdf : String, date : String, room : String) {
   override def toString : String = {
     var ret : String = "{"
-    ret += "\"id\":" + id + ",\n   "
+    //ret += "\"id\":" + id + ",\n   "
     ret += "\"title\":\"" + Escape(title) + "\",\n   "
     ret += "\"authors\":\"" + Escape(authors) + "\",\n   "
     ret += "\"pdf\":\"" + Escape(pdf) + "\",\n   "

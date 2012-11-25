@@ -10,9 +10,7 @@ case class Document(paper : Paper,
                     meta : Map[String, String])
 
 // TODO: delete meta
-case class Paper(id :       Int, 
-                 index :    Int,
-                 title:     Title, 
+case class Paper(title:     Title, 
                  authors:   List[Author], 
                  abstr:     Abstract, 
                  body:      Body, 
@@ -31,22 +29,20 @@ case class Body(text: String)
 
 case class Reference(authors: List[Author], title: Title)
 
-case class Link(index : Int, weight : Int)
+case class Link(id : String, weight : Int)
 
 object Paper {
 
   // Empty paper for initialization
-  val empty = Paper(0, 0, Title(""), List(), Abstract(""), Body(""), List(), Map.empty, List())
+  val empty = Paper(Title(""), List(), Abstract(""), Body(""), List(), Map.empty, List())
 
   // Convert Paper to Json
   def toJSON(p : Paper) = JObject(List(
-                            JField("id", JInt(p.id)),
-                            JField("title", JString(p.title.t)),
                             JField("authors", JArray(p.authors.map(a => JString(a.name)))),
                             JField("abstract", JString(p.abstr.text)),
                             JField("body", JString(p.body.text)),
                             JField("refs", JArray(p.refs.map(r => refToJSON(r)))),
-                            JField("links", JArray(p.links.map(l => JObject(List(JField("id",JInt(l.index)), JField("w",JInt(l.weight))))))),
+                            JField("links", JArray(p.links.map(l => JObject(List(JField("id",JString(l.id)), JField("w",JInt(l.weight))))))),
                             JField("meta", JObject(p.meta.map(m => JField(m._1, JString(m._2))).toList))
   ))
   def refToJSON(r : Reference) = JObject(List(
@@ -61,8 +57,6 @@ object Paper {
 
     def fields(fs : List[JField], p : Paper) : Paper = fs match {
       case Nil                                    => p
-      case JField("id", JInt(t)) :: rest          => fields(rest, p.setId(t.toInt))
-      case JField("index", JInt(t)) :: rest       => fields(rest, p.setIndex(t.toInt))
       case JField("title", JString(t)) :: rest    => fields(rest, p.setTitle(t))
       case JField("authors", JArray(t)) :: rest   => fields(rest, p.setAuthors(authors(t)))
       case JField("abstract", JString(t)) :: rest    => fields(rest, p.setAbstract(t))
@@ -90,8 +84,8 @@ object Paper {
     // Extract Links from JSON
     def links(ls : List[JValue]) = ls.map(l => link(l))
     def link(l : JValue) = l match {
-      case JObject(List(JField("id", JInt(id)), JField("w", JInt(weight)))) => Link(id.toInt, weight.toInt)
-      case otherwise                                                        => throw new Exception("malformed link: " + otherwise)
+      case JObject(List(JField("id", JString(id)), JField("w", JInt(weight)))) => Link(id, weight.toInt)
+      case otherwise                                                           => throw new Exception("malformed link: " + otherwise)
     }
 
     // Extract Meta from JSON
@@ -110,7 +104,7 @@ object Paper {
 
 
   // Try to clean the data a little
-  def clean(p : Paper) = Paper(p.id, p.index, p.title, p.authors.filter(a => a.name.length > 4), p.abstr, p.body, cleanRefs(p.refs), p.meta, p.links)
+  //def clean(p : Paper) = Paper(p.title, p.authors.filter(a => a.name.length > 4), p.abstr, p.body, cleanRefs(p.refs), p.meta, p.links)
   def cleanRefs(refs : List[Reference]) = refs.map(r => Reference(r.authors.filter(a => a.name.stripMargin.length > 0), r.title))
 
 
@@ -124,8 +118,6 @@ object Paper {
 
 // Abstract class for implementing a few helper methods
 abstract class AbstractPaper {
-  val id : Int;
-  val index : Int;
   val title : Title;
   val authors : List[Author];
   val abstr : Abstract;
@@ -134,39 +126,35 @@ abstract class AbstractPaper {
   val meta : Map[String, String];
   val links : List[Link];
 
+  override def toString : String = "Paper: " + title
+
   // A series of functions to modify a paper
   def setMeta(m : (String, String)) : Paper = 
-    Paper(id, index, title, authors, abstr, body, refs, meta + m, links)
+    Paper(title, authors, abstr, body, refs, meta + m, links)
 
   def setTitle(t : String) : Paper =
-    Paper(id, index, Title(t), authors, abstr, body, refs, meta, links)
+    Paper(Title(t), authors, abstr, body, refs, meta, links)
   def setTitle(t : Title) : Paper =
-    Paper(id, index, t, authors, abstr, body, refs, meta, links)
+    Paper(t, authors, abstr, body, refs, meta, links)
 
   def setAuthors(as : List[Author]) : Paper =
-    Paper(id, index, title, as, abstr, body, refs, meta, links)
+    Paper(title, as, abstr, body, refs, meta, links)
 
   def hasMeta(l : String) : Boolean = meta.contains(l)
 
-  def setId(newId : Int) : Paper = 
-    Paper(newId, index, title, authors, abstr, body, refs, meta, links)
-
-  def setIndex(newIndex : Int) : Paper = 
-    Paper(id, newIndex, title, authors, abstr, body, refs, meta, links)
-
   def setLinks(newLinks : List[Link]) : Paper = 
-    Paper(id, index, title, authors, abstr, body, refs, meta, newLinks)
+    Paper(title, authors, abstr, body, refs, meta, newLinks)
     
   def setAbstract(newAbstract : String) : Paper = 
-    Paper(id, index, title, authors, Abstract(newAbstract), body, refs, meta, links)
+    Paper(title, authors, Abstract(newAbstract), body, refs, meta, links)
   def setAbstract(newAbstract : Abstract) : Paper = 
-    Paper(id, index, title, authors, newAbstract, body, refs, meta, links)
+    Paper(title, authors, newAbstract, body, refs, meta, links)
     
   def setBody(newBody : String) : Paper = 
-    Paper(id, index, title, authors, abstr, Body(newBody), refs, meta, links)
+    Paper(title, authors, abstr, Body(newBody), refs, meta, links)
   def setBody(newBody : Body) : Paper = 
-    Paper(id, index, title, authors, abstr, newBody, refs, meta, links)
+    Paper(title, authors, abstr, newBody, refs, meta, links)
     
   def setReferences(newRefs : List[Reference]) : Paper = 
-    Paper(id, index, title, authors, abstr, body, newRefs, meta, links)
+    Paper(title, authors, abstr, body, newRefs, meta, links)
 }

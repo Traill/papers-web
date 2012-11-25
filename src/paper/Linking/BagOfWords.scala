@@ -1,40 +1,18 @@
 package paper
-import scala.collection.immutable.List
 
 
- trait BagOfWords {
+trait BagOfWords extends ComparePaper {
+
+  var matrixOfWeights : Array[Array[Int]] = Array()
+
+  override def init(papers : List[Paper]) : Unit = { 
+    matrixOfWeights = getMatrixOfScores(papers.values.toList) 
+  }
+
+  def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights, i1)(i2)
 
 
-	//compare based on scores and return List[Paper]
-	def compareBoW(paperPos: String, papers : List[Paper], limit : Int) : List[Paper] = {
-	  val matrixOfWeights: Array[Array[Int]] = getMatrixOfScores(papers)
-			papers.map(p => {
-				// Check that paper isn't already linked
-				if (p.meta.get("linked") == None) {
-                    println("Getting linked")
-					// Get list of papers that aren't current paper
-					val otherPapers = papers.filter(p != _)
 
-					// Compare to every other paper
-					// Test					
-					val weights : List[Int] = for (other <- otherPapers) yield getScores(matrixOfWeights, p.index)(other.index)
-                    println("weights: " + weights.mkString(", "))
-					// Make links
-					//val links = for ((p,w) <- otherPapers.zip(weights) if w >= limit) yield Link(p.id,w)
-					val links = for ((p,w) <- otherPapers.zip(weights) if w >= limit) yield Link(p.id,w)
-                    println(links)
-
-					// Add links to paper, and set it as linked
-					val result = p.setLinks(links).setMeta(("linked", "yes"))
-
-					// Save result
-					Cache.save(result)
-
-					result
-				}
-				else p
-			})
-	}
 
 	def getScores(matrixOfScores: Array[Array[Int]], column: Int): List[Int] ={
 	  

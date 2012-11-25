@@ -9,32 +9,17 @@ import breeze.linalg.support.{CanCopy}
 
 
 
-trait BagOfWordsLSI {
+trait BagOfWordsLSI extends ComparePaper {
+
+  var matrixOfWeights : breeze.linalg.DenseMatrix[Int] = breeze.linalg.DenseMatrix.zeros[Int](0,0)
+
+  override def init(papers : List[Paper]) : Unit = {
+    matrixOfWeights = createTDMatrix(papers,papers.length)
+  }
+
+  def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights,i1).valueAt(i2)
 
 
- // error is here:
- def compareBoWLSI(paperPos: String, papers : List[Paper], limit : Int) : List[Paper] = {
-   val matrixOfWeights: breeze.linalg.DenseMatrix[Int] = createTDMatrix(papers,papers.length)
-   papers.map(p => {
-       // Get list of papers that aren't current paper
-       val otherPapers = papers.filter(p != _)
-       println(getScores(matrixOfWeights, p.index).toString)
-       // Compare to every other paper
-       // Problem is in this line			
-       val weights : List[Int] = for (other <- otherPapers) yield getScores(matrixOfWeights,p.index).valueAt(other.index)
-       // Make links
-       //val links = for ((p,w) <- otherPapers.zip(weights) if w >= limit) yield Link(p.id,w)
-       val links = for ((p,w) <- otherPapers.zip(weights) if w >= limit) yield Link(p.id,w)
-
-       // Add links to paper, and set it as linked
-       val result = p.setMeta("linked", "yes").setLinks(links)
-
-       // Save result
-       Cache.save(result)
-
-       result
-   })
- }
   
   def getScores(matrixOfScores: breeze.linalg.DenseMatrix[Int], column: Int): DenseVector[Int] ={
 

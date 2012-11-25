@@ -23,9 +23,9 @@ trait ParsePaper {
     def paper : Parser[Paper] = (
       //title ~ authors ~ dropLinesUntil("R EFERENCES") ~ references
       dropLinesUntil("R EFERENCES") ~ references
-        ^^ { case b~r => Paper(0,0,Title(""),Nil,Abstract("Not saved"),Body("Not saved"),r,Map.empty,List()) }
+        ^^ { case b~r => Paper(Title(""),Nil,Abstract("Not saved"),Body("Not saved"),r,Map.empty,List()) }
      | dropLinesUntil("References") ~ references
-        ^^ { case b~r => Paper(0,0,Title(""),Nil,Abstract("Not saved"),Body("Not saved"),r,Map.empty,List()) })
+        ^^ { case b~r => Paper(Title(""),Nil,Abstract("Not saved"),Body("Not saved"),r,Map.empty,List()) })
 
 
     def title : Parser[Title] = (

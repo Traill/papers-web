@@ -90,9 +90,6 @@ trait ExtendPaper {
         result = result.setMeta((s.getLabel -> s.getInfo(p)))
       }
 
-      // Save result
-      Cache.save(result)
-
       // return result
       result
     })
