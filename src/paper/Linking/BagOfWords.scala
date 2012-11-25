@@ -6,7 +6,7 @@ trait BagOfWords extends ComparePaper {
   var matrixOfWeights : Array[Array[Int]] = Array()
 
   override def init(papers : List[Paper]) : Unit = { 
-    matrixOfWeights = getMatrixOfScores(papers.values.toList) 
+    matrixOfWeights = getMatrixOfScores(papers) 
   }
 
   def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights, i1)(i2)
