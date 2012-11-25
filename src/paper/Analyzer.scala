@@ -5,12 +5,16 @@ import scala.io.Source
 
 case class Analyzer(docs : Map[String, Document]) {
 
+  // Empty map
+  val empty : Map[String,String] = Map.empty
 
-  // Set directory where the pdf's are located
+
+  /**
+   * Set directory where the pdf's are located
+   */
   def initialize(location : String) : Analyzer = {
 
     // Utility function for getting a document
-    val empty : Map[String,String] = Map.empty
     def doc(f : File) = Document(Paper.empty, f, List(), empty)
 
     // Create new Analyze object
@@ -19,13 +23,14 @@ case class Analyzer(docs : Map[String, Document]) {
   }
 
 
-  // Parse a paper
+  /**
+   * Parse a paper
+   */
   def parse : Analyzer = { 
 
-    val empty : Map[String,String] = Map.empty
-    def doc(f : File) = Document(toPaper(Analyzer.load(f)), f, List(), empty)
+    def doc(f : File) = Document(toPaper(f), f, List(), empty)
 
-    def toPaper(s : Source) = Analyzer.parse(s) match {
+    def toPaper(f : File) = Analyzer.parse(Analyzer.toXML(f)) match {
       case Some(p)  => p
       case None     => Paper.empty
     }
@@ -36,6 +41,23 @@ case class Analyzer(docs : Map[String, Document]) {
 
     return Analyzer(ds)
   }
+
+
+  /**
+   * Links all the papers
+   */
+  def link : Analyzer = {
+    
+    // Get a map of papers and pass it to makeLinks
+    val ps = for ((id, d) <- docs) yield (id -> d.paper)
+    val links = Analyzer.makeLinks(ps)
+
+    // Now add links to each document
+    val ds = for ((id, d) <- docs) yield (id -> Document(d.paper, d.file, links(id), empty))
+
+    return Analyzer(ds)
+  }
+
 
 }
 

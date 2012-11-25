@@ -6,7 +6,7 @@ object Main {
     // create analyzer
     val A : Analyzer = Analyzer(Map.empty)
 
-    var t = A.initialize("resources/isit2012test").parse
+    var t = A.initialize("resources/isit2012test").parse.link
     println(t)
 
     // // Check that a directory is supplied (there is an argument)

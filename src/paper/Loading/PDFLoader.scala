@@ -5,12 +5,6 @@ import scala.io.Source
 trait PDFLoader {
 
 
-  // Abstract load method to be implemented in sub classes
-  def load(file : File) : Source = {
-    Source.fromFile(convertToXML(file))
-  }
-
-
   // The apps is on Windows
   private def isWindows: Boolean = sys.props.get("os.name") match {
     case Some(s) => """.*Windows.*""".r.findFirstIn(s.toString()).isDefined
@@ -26,7 +20,7 @@ trait PDFLoader {
 
 
   // Converts pdf file to XML
-  private def convertToXML(file : File): File = {
+  def toXML(file : File): File = {
 
     // The command, params and path used to process the pdf to xml
     val command = if (isWindows) "tools\\windows\\pdfToxmlConverter.exe" else "pdftohtml"

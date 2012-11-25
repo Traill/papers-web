@@ -1,5 +1,6 @@
 package paper
 import scala.io.Source
+import java.io.File
 import scala.xml.XML
 import scala.xml.Elem
 import scala.xml.NodeSeq
@@ -13,6 +14,27 @@ trait XMLParser extends TitleExtractor1
                    with AbstractExtractor1
                    with BodyExtractor1
                    with ReferencesExtractor1 {
+
+   // The function for actually parsing a paper
+   def parse(f : File) : Option[Paper] = {
+      val xml = getXMLObject(Source.fromFile(f))
+      f.delete
+
+	  if(xml == None) None
+	  else {
+		  val cleanPaper = Paper.empty
+		  val xmlDocument = XMLObjectsManager.constructXMLDocument(xml.get, "\n")
+
+		  // print
+		  //xmlDocument.get.getParagraphs.foreach((p : XMLParagraph) => println(p.getText + "\n" + p.getOptionsValue + "\n" + p.getEnumerationFormat + "\n\n\n"))
+
+		  if(xmlDocument == None) return None
+		  val paper = extract(extractionOrder, (xmlDocument.get, Some(cleanPaper), xmlDocument.get.getParagraphs))
+
+	      if(paper._2 == None) None
+	      else	Some(paper._2.get.setMeta(("parsed" -> "yes")))
+	  }
+   }
 
    private val extractionOrder: List[(Paper, XMLDocument, List[XMLParagraph]) => (List[XMLParagraph], Paper)] = List(extractTitle, extractAuthors, extractAbstract, extractBody, extractReferences)
 	
@@ -54,26 +76,6 @@ trait XMLParser extends TitleExtractor1
 	   }
 
 	   extract0(extractors.reverse, t)
-   }
-
-   // The function for actually parsing a paper
-   def parse(in : Source) : Option[Paper] = {
-      val xml = getXMLObject(in)
-
-	  if(xml == None) None
-	  else {
-		  val cleanPaper = Paper.empty
-		  val xmlDocument = XMLObjectsManager.constructXMLDocument(xml.get, "\n")
-
-		  // print
-		  //xmlDocument.get.getParagraphs.foreach((p : XMLParagraph) => println(p.getText + "\n" + p.getOptionsValue + "\n" + p.getEnumerationFormat + "\n\n\n"))
-
-		  if(xmlDocument == None) return None
-		  val paper = extract(extractionOrder, (xmlDocument.get, Some(cleanPaper), xmlDocument.get.getParagraphs))
-
-	      if(paper._2 == None) None
-	      else	Some(paper._2.get.setMeta(("parsed" -> "yes")))
-	  }
    }
 
 }
