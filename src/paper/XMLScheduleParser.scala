@@ -7,30 +7,27 @@ trait XMLScheduleParser {
   import scala.collection.immutable.Map._
 
   // Overall function that loads the xml schedule and returns the papers with the extra data
-  def getXMLSchedule(paperPos : String, papers : List[Paper]) : List[Paper] = {
-    println("BEGIN OF XML SCHEDULING")
-	val path = paperPos + Paths.sep + "schedule.xml"
+  def getXMLSchedule(path : String) : Map[String, Map[String,String]] = {
 	
     // Check if the schedule exists
     if (!(new File(path)).exists()) throw new Exception("No file called schedule.xml exists in papers path");
 	
     // Parse schedule
-    val xml : Map[Int, Elem] = parse(path)
+    val xml : Map[String, Elem] = parse(path)
 
-    println("END OF XML SCHEDULING")
-    // match schedule with papers
-    return matchXML(xml, papers)
+    // Create map from xml
+    return xml.map(x => (x._1 -> toMap(x._2)))
   }
 
 
   // Function for taking care of parsing the xml
-  def parse(paperPos : String) : Map[Int, Elem] = {
+  private def parse(paperPos : String) : Map[String, Elem] = {
 
     // Load schedule file
     val schedule : Elem = XML.loadFile(paperPos)
 
     // Initialize Map
-    var data : Map[Int, Elem] = Map.empty
+    var data : Map[String, Elem] = Map.empty
 
     // For each session record room, date, session
     (schedule \\ "session") foreach (session => {
@@ -44,7 +41,7 @@ trait XMLScheduleParser {
         // Create a hunk of xml containing all the data
         var xml = <session><date>{ date }</date><room>{ room }</room><sess>{ sess }</sess><info>{ paper }</info></session>
         var id = (paper \\ "paperid").text
-        data = data + (id.toInt -> xml)
+        data = data + (id -> xml)
       })
     })
 
@@ -52,29 +49,25 @@ trait XMLScheduleParser {
     return data
   }
 
-  // Function for putting the xml in the right paper
-  def matchXML(xml : Map[Int, Elem], papers : List[Paper]) : List[Paper]= {
-    def apply(p: Paper, data: Option[Elem] ): Paper = {
-      	        // Get resulting paper
-	        val result = setXMLData(data, p)
-	
-	        // Save result
-	        Cache.save(result)
-	
-	        // Return result
-	        result
-    }
-    
-    // Loop through all papers and add the xml elements the appropriate one
-    return for (p <- papers) yield {
-    	val xmlObject = xml.get(p.id)
-    	if (xmlObject == None) { println("No schedule data for paper with id: " + p.id); p}
-    	else apply(p, xmlObject)
-    }
+
+  // Transforms the xml to a map of the interesting values
+  private def toMap(xml : Elem) : Map[String, String] = {
+
+    val m : Map[String, String] = Map.empty
+    return (m + ("xmldate"        -> getDate(xml))
+              + ("xmlroom"        -> getRoom(xml \\ "room"))
+              + ("xmlsession"     -> (xml \\ "sess").text)
+              + ("xmlstarttime"   -> (xml \\ "starttime").text)
+              + ("xmlendtime"     -> (xml \\ "endtime").text)
+              + ("xmlpaperid"     -> (xml \\ "paperid").text)
+              + ("xmlsessionid"   -> (xml \\ "sessionid").text)
+              + ("xmlpapertitle"  -> (xml \\ "papertitle").text)
+              + ("xmlauthors"     -> getAuthors(xml \\ "authors").mkString(", ")))
   }
 
+
   // Putting the xml in a paper
-  def setXMLData(xmlObject : Option[Elem], paper : Paper) : Paper = {
+  private def setXMLData(xmlObject : Option[Elem], paper : Paper) : Paper = {
       val xml = xmlObject.get
       paper.setMeta("xmldate"        -> getDate(xml))
            .setMeta("xmlroom"        -> getRoom(xml \\ "room"))
@@ -91,11 +84,11 @@ trait XMLScheduleParser {
   }
 
   // Converts an authors XML note to string
-  def getAuthors(authors : NodeSeq) : List[String] = {
+  private def getAuthors(authors : NodeSeq) : List[String] = {
     return (for (a <- (authors \ "author")) yield (a \\ "name").text).toList
   }
 
-  def getRoom(room : NodeSeq) : String = {
+  private def getRoom(room : NodeSeq) : String = {
     room.text match {
       case "Track 1"              => "Kresge Rehearsal B (030)"
       case "Track 2"              => "Kresge Auditorium (109)"
@@ -109,7 +102,7 @@ trait XMLScheduleParser {
     }
   }
 
-  def getDate(xml : Elem) : String = {
+  private def getDate(xml : Elem) : String = {
     import java.util.Calendar
     import java.sql.Timestamp
 
@@ -134,7 +127,7 @@ trait XMLScheduleParser {
     return t
   }
 
-  def formatAuthors(name : String) : String = {
+  private def formatAuthors(name : String) : String = {
     var result = ""
     var names = name.split(" ").filter(n => n.length > 0)
     if (names.length > 0) {

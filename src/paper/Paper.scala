@@ -1,22 +1,25 @@
 package paper
 
 import net.liftweb.json._
+import java.io.File
 
 
-// Try to keep this immutable
-case class Paper(val id :       Int, 
-                 val index :    Int,
-                 val title:     Title, 
-                 val authors:   List[Author], 
-                 val abstr:     Abstract, 
-                 val body:      Body, 
-                 val refs:      List[Reference], 
-                 val meta:      Map[String, String],
-                 val links :    List[Link]) extends AbstractPaper {
+case class Document(paper : Paper, 
+                    file : File, 
+                    links : List[Link], 
+                    meta : Map[String, String])
 
+// TODO: delete meta
+case class Paper(id :       Int, 
+                 index :    Int,
+                 title:     Title, 
+                 authors:   List[Author], 
+                 abstr:     Abstract, 
+                 body:      Body, 
+                 refs:      List[Reference], 
+                 meta:      Map[String, String],
+                 links :    List[Link]) extends AbstractPaper
 
-
-}
 
 case class Title(t: String)
 
@@ -30,14 +33,10 @@ case class Reference(authors: List[Author], title: Title)
 
 case class Link(index : Int, weight : Int)
 
-
-
-
-// Singleton with some utility functions
 object Paper {
 
+  // Empty paper for initialization
   val empty = Paper(0, 0, Title(""), List(), Abstract(""), Body(""), List(), Map.empty, List())
-
 
   // Convert Paper to Json
   def toJSON(p : Paper) = JObject(List(
