@@ -9,13 +9,13 @@ case class Analyzer(docs : Map[String, Document]) {
   /**
    * Set directory where the pdf's are located
    */
-  def initialize(location : String) : Analyzer = {
+  def initialize(path : String) : Analyzer = {
 
     // Utility function for getting a document
     def doc(f : File) = Document.emptyDoc.setFile(f)
 
     // Create new Analyze object
-    val ds = for ((id, f) <- Analyzer.getFiles(location)) yield (id -> doc(f))
+    val ds = for ((id, f) <- Analyzer.getFiles(path)) yield (id -> doc(f))
     return Analyzer(ds)
   }
 
@@ -50,6 +50,19 @@ case class Analyzer(docs : Map[String, Document]) {
 
     // Now add links to each document
     val ds = for ((id, d) <- docs) yield (id -> d.setLinks(links(id)))
+
+    return Analyzer(ds)
+  }
+
+
+  // Adds data from a schedule to all papers
+  def schedule(path : String) : Analyzer = {
+
+    // get map of values
+    val s = Analyzer.getXMLSchedule(path)
+
+    // For each paper add these values to the corresponding paper
+    val ds = for ((id, d) <- docs) yield (id -> d.setMeta(s.getOrElse(id,Map.empty)))
 
     return Analyzer(ds)
   }

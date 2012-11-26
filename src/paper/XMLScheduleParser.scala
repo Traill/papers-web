@@ -65,26 +65,6 @@ trait XMLScheduleParser {
               + ("authors"     -> getAuthors(xml \\ "authors").mkString(", ")))
   }
 
-
-  // Putting the xml in a paper
-  private def setXMLData(xmlObject : Option[Elem], doc : paper.Document) : paper.Document = {
-      val xml = xmlObject.get
-      doc.setMeta("xmldate"        -> getDate(xml))
-         .setMeta("xmlroom"        -> getRoom(xml \\ "room"))
-         .setMeta("xmlsession"     -> (xml \\ "sess").text)
-         .setMeta("xmlstarttime"   -> (xml \\ "starttime").text)
-         .setMeta("xmlendtime"     -> (xml \\ "endtime").text)
-         .setMeta("xmlpaperid"     -> (xml \\ "paperid").text)
-         .setMeta("xmlsessionid"   -> (xml \\ "sessionid").text)
-         .setMeta("xmlpapertitle"  -> (xml \\ "papertitle").text)
-         .setMeta("xmlauthors"     -> getAuthors(xml \\ "authors").mkString(", "))
-         .paper.setTitle(Title((xml \\ "papertitle").text))
-               .setAuthors(getAuthors(xml \\ "authors").map(a => Author(formatAuthors(a))))
-
-      return doc
-      //result = Paper.setMeta(paper, ("xmlabstract"    -> (xml \\ "abstract").text))
-  }
-
   // Converts an authors XML note to string
   private def getAuthors(authors : NodeSeq) : List[String] = {
     return (for (a <- (authors \ "author")) yield (a \\ "name").text).toList

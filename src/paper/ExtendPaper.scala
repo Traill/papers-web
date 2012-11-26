@@ -90,5 +90,5 @@ trait ExtendPaper {
     // return result
     result
   }
-  
+
 }

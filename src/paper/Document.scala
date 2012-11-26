@@ -143,6 +143,7 @@ abstract class AbstractDocument {
   def setFile(f : File) : Document = Document(paper, f, links, meta)
   def setLinks(ls : List[Link]) : Document = Document(paper, file, ls, meta)
   def setMeta(m : (String, String)) : Document = Document(paper, file, links, meta + m)
+  def setMeta(m : Map[String, String]) : Document = Document(paper, file, links, meta ++ m)
   def hasMeta(l : String) : Boolean = meta.contains(l)
 }
 
