@@ -16,7 +16,7 @@ object Graph {
 
   // Creates a node given a document
   private def makeNode(id : String, d : Document) : Node = {
-    Node(id, d.paper.title.text, d.paper.authors.map(_.name), d.meta("room"), d.meta("time"))
+    Node(id, d.paper.title.text, d.paper.authors.map(_.name), d.meta("room"), d.meta("starttime"))
   }
 
 

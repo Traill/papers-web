@@ -20,7 +20,7 @@ trait PDFLoader {
 
 
   // Converts pdf file to XML
-  def toXML(file : File): File = {
+  def pdfToXML(file : File): File = {
 
     // The command, params and path used to process the pdf to xml
     val command = if (isWindows) "tools\\windows\\pdfToxmlConverter.exe" else "pdftohtml"

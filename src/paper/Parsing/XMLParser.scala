@@ -16,7 +16,7 @@ trait XMLParser extends TitleExtractor1
                    with ReferencesExtractor1 {
 
    // The function for actually parsing a paper
-   def parse(f : File) : Option[Paper] = {
+   def parseFile(f : File) : Option[Paper] = {
       val xml = getXMLObject(Source.fromFile(f))
       f.delete
 

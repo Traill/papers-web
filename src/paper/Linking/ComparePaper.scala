@@ -24,7 +24,7 @@ abstract trait ComparePaper {
       // Compare to every other paper
       val weights = for (((op, oi), oid) <- ps.zipWithIndex.zip(ids);
                                        w = getWeight(p, op, i, oi)
-                                       if (oi != i) && (w > 0)) yield Link(oid, w)
+                                       if (oi != i) && (w > 1)) yield Link(oid, w)
 
       // Return a map from id to links
       (id -> weights.toList)

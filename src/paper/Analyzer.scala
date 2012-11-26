@@ -3,7 +3,12 @@ package paper
 import java.io.File
 import scala.io.Source
 
-case class Analyzer(docs : Map[String, Document]) {
+case class Analyzer(docs : Map[String, Document]) extends GetFiles
+                                                     with PDFLoader
+                                                     with XMLParser 
+                                                     with ExtendPaper
+                                                     with BagOfWords
+                                                     with XMLScheduleParser {
 
 
   /**
@@ -15,7 +20,7 @@ case class Analyzer(docs : Map[String, Document]) {
     def doc(f : File) = Document.emptyDoc.setFile(f)
 
     // Create new Analyze object
-    val ds = for ((id, f) <- Analyzer.getFiles(path)) yield (id -> doc(f))
+    val ds = for ((id, f) <- getFiles(path)) yield (id -> doc(f))
     return Analyzer(ds)
   }
 
@@ -25,7 +30,7 @@ case class Analyzer(docs : Map[String, Document]) {
    */
   def parse(doc : Document) : Document = {
 
-    def toPaper(f : File) = Analyzer.parse(Analyzer.toXML(f)) match {
+    def toPaper(f : File) = parseFile(pdfToXML(f)) match {
       case Some(p)  => p
       case None     => doc.paper
     }
@@ -54,7 +59,7 @@ case class Analyzer(docs : Map[String, Document]) {
     
     // Get a map of papers and pass it to makeLinks
     val ps = for ((id, d) <- docs if (d.paper != Document.emptyPaper)) yield (id -> d.paper)
-    val links = Analyzer.makeLinks(ps)
+    val links = makeLinks(ps)
 
     // Now add links to each document
     val ds = for ((id, d) <- docs) yield (id -> d.setLinks(links(id)))
@@ -69,7 +74,7 @@ case class Analyzer(docs : Map[String, Document]) {
   def schedule(path : String) : Analyzer = {
 
     // get map of values
-    val s = Analyzer.getXMLSchedule(path)
+    val s = getXMLSchedule(path)
 
     // For each paper add these values to the corresponding paper
     val ds = for ((id, d) <- docs) yield (id -> d.setMeta(s.getOrElse(id,Map.empty)))
@@ -81,37 +86,44 @@ case class Analyzer(docs : Map[String, Document]) {
   /**
    * Save to cache
    */
-   def save : Analyzer = {
+  def save : Analyzer = {
 
-     // Save all documents
-     for ((id, d) <- docs) Cache.save(id, d)
+    // Save all documents
+    for ((id, d) <- docs) Cache.save(id, d)
 
-     return this
-   }
+    return this
+  }
 
 
   /**
    * Load from cache and if document isn't found, parse it
    */
-   def load : Analyzer = {
+  def load : Analyzer = {
 
-     // Load all documents
-     val docOption = for ((id, _) <- docs) yield (id -> Cache.load(id))
+    // Load all documents
+    val docOption = for ((id, _) <- docs) yield (id -> Cache.load(id))
 
-     // Parse all those that weren't found
-     val ds = for ((id, d) <- docs) yield { 
-       if (docOption(id) == None) (id -> parse(d))
-       else (id -> docOption(id).get)
-     }
+    // Parse all those that weren't found
+    val ds = for ((id, d) <- docs) yield { 
+      if (docOption(id) == None) (id -> parse(d))
+      else (id -> docOption(id).get)
+    }
 
-     return Analyzer(ds)
-   }
+    return Analyzer(ds)
+  }
+
+
+  /**
+   * Output graph.js with a full graph of the data
+   */
+  def graph(path : String) : Analyzer = {
+
+    // Make graph
+    val graph = Graph.make(docs)
+
+    // Print graph
+    Graph.print(graph, path)
+
+    return this
+  }
 }
-
-object Analyzer extends GetFiles
-                   with PDFLoader
-                   //with LoadPaper
-                   with XMLParser 
-                   with ExtendPaper
-                   with BagOfWords
-                   with XMLScheduleParser
