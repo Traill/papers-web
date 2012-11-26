@@ -1,11 +1,11 @@
 package paper
 
-abstract class PaperSource {
-  def getInfo(p : Paper) : String
+abstract class DocSource {
+  def getInfo(d : Document) : String
   def getLabel : String
 }
 
-object TalkDates extends PaperSource {
+object TalkDates extends DocSource {
 
   import scala.util.Random
   import java.util.Date
@@ -13,7 +13,7 @@ object TalkDates extends PaperSource {
   import java.util.Calendar
 
   // TODO: This is just a temporary implementation
-  def getInfo(p : Paper) : String = {
+  def getInfo(d : Document) : String = {
 
     // Get Calendar and Random
     var c = Calendar.getInstance
@@ -45,12 +45,12 @@ object TalkDates extends PaperSource {
 
 
 // Adds the link of the pdf to the paper
-object PdfLink extends PaperSource {
+object PdfLink extends DocSource {
   import scala.util.Random
 
-  def getInfo(p : Paper) : String = {
+  def getInfo(d : Document) : String = {
 
-    var f : String = p.meta("file")
+    var f : String = d.meta("file")
     var pdf : String = f.takeWhile(_!='.').concat(".pdf")
     return pdf;
   }
@@ -59,11 +59,11 @@ object PdfLink extends PaperSource {
 }
 
 
-object TalkRooms extends PaperSource {
+object TalkRooms extends DocSource {
   import scala.util.Random
 
   // TODO: This is also just a temporary thing
-  def getInfo(p : Paper) : String = {
+  def getInfo(d : Document) : String = {
     
     // Return a random room between 1 and 10 
     return (new Random().nextDouble * 10).toInt.toString
@@ -79,23 +79,16 @@ object TalkRooms extends PaperSource {
  */
 trait ExtendPaper {
 
-  def extend(paperPos: String, papers : List[Paper], sources : List[PaperSource]) : List[Paper] = {
-    println("BEGIN OF PAPERS EXTENSION")
-    val finalPapers = papers.map(p => {
+  def extend(document : Document, sources : List[DocSource]) : Document = {
+    var result : Document = document
 
-      var result : Paper = p
+    // For each source, check if it's already added, and if not, add it
+    for (s <- sources if !document.hasMeta(s.getLabel)) {
+      result = result.setMeta((s.getLabel -> s.getInfo(document)))
+    }
 
-      // For each source, check if it's already added, and if not, add it
-      for (s <- sources if !p.hasMeta(s.getLabel)) {
-        result = result.setMeta((s.getLabel -> s.getInfo(p)))
-      }
-
-      // return result
-      result
-    })
-    
-    println("END OF PAPERS EXTENSION")
-    finalPapers
+    // return result
+    result
   }
   
 }

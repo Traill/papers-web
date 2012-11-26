@@ -14,9 +14,7 @@ case class Paper(title:     Title,
                  authors:   List[Author], 
                  abstr:     Abstract, 
                  body:      Body, 
-                 refs:      List[Reference], 
-                 meta:      Map[String, String],
-                 links :    List[Link]) extends AbstractPaper
+                 refs:      List[Reference]) extends AbstractPaper
 
 
 case class Title(t: String)
@@ -37,36 +35,53 @@ object Document {
   val emptyDoc = Document(emptyPaper, new File(""), List(), (Map.empty : Map[String,String]))
 
   // Empty paper for initialization
-  val emptyPaper = Paper(Title(""), List(), Abstract(""), Body(""), List(), Map.empty, List())
+  val emptyPaper = Paper(Title(""), List(), Abstract(""), Body(""), List())
 
-  // Convert Paper to Json
-  def toJSON(p : Paper) = JObject(List(
-                            JField("authors", JArray(p.authors.map(a => JString(a.name)))),
-                            JField("abstract", JString(p.abstr.text)),
-                            JField("body", JString(p.body.text)),
-                            JField("refs", JArray(p.refs.map(r => refToJSON(r)))),
-                            JField("links", JArray(p.links.map(l => JObject(List(JField("id",JString(l.id)), JField("w",JInt(l.weight))))))),
-                            JField("meta", JObject(p.meta.map(m => JField(m._1, JString(m._2))).toList))
-  ))
-  def refToJSON(r : Reference) = JObject(List(
-                               JField("authors", JArray(r.authors.map(a => JString(a.name)))),
-                               JField("title", JString(r.title.t))
-  ))
+  // Hint for File
+  val hints = new ShortTypeHints(classOf[File] :: Nil) {
+    override def serialize: PartialFunction[Any, JObject] = {
+      case (f: File) => JObject(JField("file", JString(f.getAbsolutePath)) :: Nil)
+    }
+  }
+
+
+  // Implicit values so we can write out a paper
+  implicit val formats = DefaultFormats.withHints(hints)
+
+  // Convert document to JSON
+  def toJSON(d : Document) : String = Serialization.write(d)
 
 
   // Convert JSON to paper
-  def fromJSON(json : String) : Paper = fromJSON(parse(json))
-  def fromJSON(json : JValue) : Paper = {
+  def fromJSON(json : String) : Document = fromJSON(parse(json))
+  def fromJSON(json : JValue) : Document = {
 
-    def fields(fs : List[JField], p : Paper) : Paper = fs match {
+    // Parse document from JSON
+    def doc(fs : List[JField], d : Document) : Document = fs match {
+      case Nil                                  => d
+      case JField("paper", JObject(p)) :: rest  => doc(rest, d.setPaper(paper(p, emptyPaper)))
+      case JField("file", f) :: rest            => doc(rest, d.setFile(file(f)))
+      case JField("links", JArray(ls)) :: rest  => doc(rest, d.setLinks(links(ls)))
+      case JField("meta", JObject(m)) :: rest   => doc(rest, meta(m, d))
+      case other                                => throw new Exception("No match in document for field: " + other)
+    }
+
+
+    // Parse file from JSON
+    def file(json : JValue) : File = json match {
+      case JObject(_::JField("file",JString(path))::Nil) => new File(path)
+      case other                                         => throw new Exception("No match in file for field: " + other)
+    }
+
+
+
+    def paper(fs : List[JField], p : Paper) : Paper = fs match {
       case Nil                                    => p
-      case JField("title", JString(t)) :: rest    => fields(rest, p.setTitle(t))
-      case JField("authors", JArray(t)) :: rest   => fields(rest, p.setAuthors(authors(t)))
-      case JField("abstract", JString(t)) :: rest    => fields(rest, p.setAbstract(t))
-      case JField("body", JString(t)) :: rest     => fields(rest, p.setBody(t))
-      case JField("refs", JArray(t)) :: rest      => fields(rest, p.setReferences(refs(t)))
-      case JField("meta", JObject(t)) :: rest     => fields(rest, meta(t, p))
-      case JField("links", JArray(t)) :: rest     => fields(rest, p.setLinks(links(t)))
+      case JField("title", JString(t)) :: rest    => paper(rest, p.setTitle(t))
+      case JField("authors", JArray(t)) :: rest   => paper(rest, p.setAuthors(authors(t)))
+      case JField("abstract", JString(t)) :: rest => paper(rest, p.setAbstract(t))
+      case JField("body", JString(t)) :: rest     => paper(rest, p.setBody(t))
+      case JField("refs", JArray(t)) :: rest      => paper(rest, p.setReferences(refs(t)))
       case other                                  => throw new Exception("No match for field: " + other)
     }
 
@@ -92,15 +107,15 @@ object Document {
     }
 
     // Extract Meta from JSON
-    def meta(ms : List[JField], p : Paper) : Paper = ms match {
-      case Nil                                  => p
-      case JField(key, JString(value)) :: rest  => meta(rest, p.setMeta(key -> value))
+    def meta(ms : List[JField], d : Document) : Document = ms match {
+      case Nil                                  => d
+      case JField(key, JString(value)) :: rest  => meta(rest, d.setMeta(key -> value))
       case otherwise                            => throw new Exception("Wrong meta format: " + otherwise)
     }
 
     // Check if we have a JObject
     json match {
-      case JObject(fs)  => fields(fs, emptyPaper)
+      case JObject(fs)  => doc(fs, emptyDoc)
       case otherwise    => throw new Exception("Can't parse JSON " + otherwise)
     }
   }
@@ -128,6 +143,7 @@ abstract class AbstractDocument {
   def setFile(f : File) : Document = Document(paper, f, links, meta)
   def setLinks(ls : List[Link]) : Document = Document(paper, file, ls, meta)
   def setMeta(m : (String, String)) : Document = Document(paper, file, links, meta + m)
+  def hasMeta(l : String) : Boolean = meta.contains(l)
 }
 
 
@@ -138,38 +154,27 @@ abstract class AbstractPaper {
   val abstr : Abstract;
   val body : Body;
   val refs : List[Reference];
-  val meta : Map[String, String];
-  val links : List[Link];
 
   override def toString : String = "Paper: " + title
 
-  // A series of functions to modify a paper
-  def setMeta(m : (String, String)) : Paper = 
-    Paper(title, authors, abstr, body, refs, meta + m, links)
-
   def setTitle(t : String) : Paper =
-    Paper(Title(t), authors, abstr, body, refs, meta, links)
+    Paper(Title(t), authors, abstr, body, refs)
   def setTitle(t : Title) : Paper =
-    Paper(t, authors, abstr, body, refs, meta, links)
+    Paper(t, authors, abstr, body, refs)
 
   def setAuthors(as : List[Author]) : Paper =
-    Paper(title, as, abstr, body, refs, meta, links)
+    Paper(title, as, abstr, body, refs)
 
-  def hasMeta(l : String) : Boolean = meta.contains(l)
-
-  def setLinks(newLinks : List[Link]) : Paper = 
-    Paper(title, authors, abstr, body, refs, meta, newLinks)
-    
   def setAbstract(newAbstract : String) : Paper = 
-    Paper(title, authors, Abstract(newAbstract), body, refs, meta, links)
+    Paper(title, authors, Abstract(newAbstract), body, refs)
   def setAbstract(newAbstract : Abstract) : Paper = 
-    Paper(title, authors, newAbstract, body, refs, meta, links)
+    Paper(title, authors, newAbstract, body, refs)
     
   def setBody(newBody : String) : Paper = 
-    Paper(title, authors, abstr, Body(newBody), refs, meta, links)
+    Paper(title, authors, abstr, Body(newBody), refs)
   def setBody(newBody : Body) : Paper = 
-    Paper(title, authors, abstr, newBody, refs, meta, links)
+    Paper(title, authors, abstr, newBody, refs)
     
   def setReferences(newRefs : List[Reference]) : Paper = 
-    Paper(title, authors, abstr, body, newRefs, meta, links)
+    Paper(title, authors, abstr, body, newRefs)
 }

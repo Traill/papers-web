@@ -1,80 +1,67 @@
 package paper
 
-trait Graphs {
+import net.liftweb.json._
+import java.io.File
 
-  def getGraph(papers : List[Paper]) : Graph = {
-    // Add all papers as nodes
-    val nodes : List[Node] = for (p <- papers) yield makeNode(p)
 
-    // Then create all edges
-    val edges : List[Edge] = for (p <- papers; e <- makeEdges(p, nodes)) yield e
+case class Graph(nodes : List[Node], edges : List[Edge])
+case class Node(id : String, title : String, authors : List[String], room : String, time : String)
+case class Edge(from : String, to : String, w : Int)
 
-    return new Graph(nodes, edges)
+object Graph {
+
+  // Number of edges we take from each node
+  private val nEdges = 4
+
+
+  // Creates a node given a document
+  private def makeNode(id : String, d : Document) : Node = {
+    Node(id, d.paper.title.t, d.paper.authors.map(_.name), d.meta("room"), d.meta("time"))
   }
 
-  // MODIFICATION
- def makeNode(paper : Paper) : Node = {
-    Node(paper.meta("xmlpapertitle"), paper.meta("xmlauthors"), paper.meta("pdf"), paper.meta("xmldate"), paper.meta("xmlroom"))
-  }
-  
-  def makeEdges(paper : Paper, nodes : List[Node]) : List[Edge] = {
-    // make edge
-    //val edges = for (link <- paper.links) yield (makeEdge(paper.index, link))
-    val edges : List[Edge] = List()
-    // Sort edges by weight and pick the n biggest
-    val l = math.min(4, edges.length)
-    return edges.sortWith(_.weight > _.weight).take(l)
+
+  // Creates a list of edges given a document
+  private def makeEdges(id : String, d : Document) : List[Edge] = {
+    val ls = d.links.sortWith((l1,l2) => l1.weight > l2.weight)
+    for (Link(to, w) <- ls.take(nEdges)) yield Edge(id, to, w)
   }
 
-  //def makeEdge(index : Int, link : Link) : Edge = Edge(index, link.index, link.weight)
 
-}
+  // From a map of nodes, create a graph
+  def make(docs : Map[String, Document]) : Graph = {
 
-class Graph(nodes : List[Node], edges : List[Edge]) {
+    // Make nodes
+    val nodes = for ((id, d) <- docs) yield makeNode(id, d)
 
-  def save : Unit = {
-    val f = new java.io.File("graph.js")
+    // Make edges
+    val edges = for ((id, d) <- docs; e <- makeEdges(id, d)) yield e
+
+    // TODO: trim edges so there is only one edge between two nodes
+    return Graph(nodes.toList, edges.toList)
+  }
+
+
+  // Save graph
+  def print(graph : Graph, path : String) : Unit = {
+
+    // Open printWriter
+    val f = new java.io.File(path)
     val p = new java.io.PrintWriter(f)
-    p.println(toString)
-    p.close
-  }
 
-  override def toString : String = {
-    var ret : String = ""
+    // Implicit values so we can write out a paper
+    implicit val formats = DefaultFormats
 
-    // Add define
-    ret += "define([], function () {\n\ndata = {"
-
-    // add nodes
-    ret += "\"nodes\":" + nodes.mkString("[\n  ",",\n  ","\n],") + "\n"
-
-    // add edges
-    ret += "\"links\":" + edges.mkString("[\n  ",",\n  ","\n]") + "\n\n"
+    // Print as AMD with json
+    var ret  = "define([], function () {\n\ndata = "
+        ret += Serialization.writePretty(graph)
+        ret += "\n\nreturn data;\n})"
 
     // End
-    ret += "}\n\nreturn data;\n})"
-
-    return ret
+    p.println(ret)
+    p.close
   }
 }
 
-case class Node(title : String, authors : String, pdf : String, date : String, room : String) {
-  override def toString : String = {
-    var ret : String = "{"
-    //ret += "\"id\":" + id + ",\n   "
-    ret += "\"title\":\"" + Escape(title) + "\",\n   "
-    ret += "\"authors\":\"" + Escape(authors) + "\",\n   "
-    ret += "\"pdf\":\"" + Escape(pdf) + "\",\n   "
-    ret += "\"date\":\"" + Escape(date) + "\",\n   "
-    ret += "\"room\":\"" + Escape(room) + "\""
-    ret += "}"
-    return ret
-  }
-}
-
-case class Edge(from : Int, to : Int, weight : Double) {
-  override def toString : String = "{\"source\":" + from + ",\"target\":" + to + ",\"value\":" + weight + "}"
-}
 
 /** Escapes a raw string for use in HTML.*/
 object Escape

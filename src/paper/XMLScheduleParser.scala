@@ -54,32 +54,34 @@ trait XMLScheduleParser {
   private def toMap(xml : Elem) : Map[String, String] = {
 
     val m : Map[String, String] = Map.empty
-    return (m + ("xmldate"        -> getDate(xml))
-              + ("xmlroom"        -> getRoom(xml \\ "room"))
-              + ("xmlsession"     -> (xml \\ "sess").text)
-              + ("xmlstarttime"   -> (xml \\ "starttime").text)
-              + ("xmlendtime"     -> (xml \\ "endtime").text)
-              + ("xmlpaperid"     -> (xml \\ "paperid").text)
-              + ("xmlsessionid"   -> (xml \\ "sessionid").text)
-              + ("xmlpapertitle"  -> (xml \\ "papertitle").text)
-              + ("xmlauthors"     -> getAuthors(xml \\ "authors").mkString(", ")))
+    return (m + ("date"        -> getDate(xml))
+              + ("room"        -> getRoom(xml \\ "room"))
+              + ("session"     -> (xml \\ "sess").text)
+              + ("starttime"   -> (xml \\ "starttime").text)
+              + ("endtime"     -> (xml \\ "endtime").text)
+              + ("paperid"     -> (xml \\ "paperid").text)
+              + ("sessionid"   -> (xml \\ "sessionid").text)
+              + ("papertitle"  -> (xml \\ "papertitle").text)
+              + ("authors"     -> getAuthors(xml \\ "authors").mkString(", ")))
   }
 
 
   // Putting the xml in a paper
-  private def setXMLData(xmlObject : Option[Elem], paper : Paper) : Paper = {
+  private def setXMLData(xmlObject : Option[Elem], doc : paper.Document) : paper.Document = {
       val xml = xmlObject.get
-      paper.setMeta("xmldate"        -> getDate(xml))
-           .setMeta("xmlroom"        -> getRoom(xml \\ "room"))
-           .setMeta("xmlsession"     -> (xml \\ "sess").text)
-           .setMeta("xmlstarttime"   -> (xml \\ "starttime").text)
-           .setMeta("xmlendtime"     -> (xml \\ "endtime").text)
-           .setMeta("xmlpaperid"     -> (xml \\ "paperid").text)
-           .setMeta("xmlsessionid"   -> (xml \\ "sessionid").text)
-           .setMeta("xmlpapertitle"  -> (xml \\ "papertitle").text)
-           .setMeta("xmlauthors"     -> getAuthors(xml \\ "authors").mkString(", "))
-           .setTitle(Title((xml \\ "papertitle").text))
-           .setAuthors(getAuthors(xml \\ "authors").map(a => Author(formatAuthors(a))))
+      doc.setMeta("xmldate"        -> getDate(xml))
+         .setMeta("xmlroom"        -> getRoom(xml \\ "room"))
+         .setMeta("xmlsession"     -> (xml \\ "sess").text)
+         .setMeta("xmlstarttime"   -> (xml \\ "starttime").text)
+         .setMeta("xmlendtime"     -> (xml \\ "endtime").text)
+         .setMeta("xmlpaperid"     -> (xml \\ "paperid").text)
+         .setMeta("xmlsessionid"   -> (xml \\ "sessionid").text)
+         .setMeta("xmlpapertitle"  -> (xml \\ "papertitle").text)
+         .setMeta("xmlauthors"     -> getAuthors(xml \\ "authors").mkString(", "))
+         .paper.setTitle(Title((xml \\ "papertitle").text))
+               .setAuthors(getAuthors(xml \\ "authors").map(a => Author(formatAuthors(a))))
+
+      return doc
       //result = Paper.setMeta(paper, ("xmlabstract"    -> (xml \\ "abstract").text))
   }
 

@@ -13,7 +13,7 @@ object Cache {
 
   // Save a document to cache
   def save(id : String, doc : Document) : String = {
-    val json = Document.toJSON(doc.paper)
+    val json = Document.toJSON(doc)
     val filename = dir + id + suffix
 
     // Make sure directory exists
@@ -26,7 +26,7 @@ object Cache {
 
     // Write out JSON to file
     val w = new PrintWriter(f)
-    w.println(pretty(render(json)))
+    w.println(json)
 
     // Close handles
     w.close
@@ -36,7 +36,7 @@ object Cache {
 
 
   // Given an id a paper will be loaded
-  def load(id : String) : Option[Paper] = {
+  def load(id : String) : Option[Document] = {
 
     // Get file handle and check that it exists
     val filename = dir + id + suffix

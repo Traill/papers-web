@@ -64,4 +64,3 @@ object Analyzer extends GetFiles
                    with ExtendPaper
                    with BagOfWords
                    with XMLScheduleParser
-                   with Graphs
