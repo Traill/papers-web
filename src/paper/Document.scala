@@ -17,7 +17,7 @@ case class Paper(title:     Title,
                  refs:      List[Reference]) extends AbstractPaper
 
 
-case class Title(t: String)
+case class Title(text: String)
 
 case class Author(name: String)
 
@@ -77,26 +77,33 @@ object Document {
 
     def paper(fs : List[JField], p : Paper) : Paper = fs match {
       case Nil                                    => p
-      case JField("title", JString(t)) :: rest    => paper(rest, p.setTitle(t))
+      case JField("title", JObject(t)) :: rest    => paper(rest, p.setTitle(text(t)))
       case JField("authors", JArray(t)) :: rest   => paper(rest, p.setAuthors(authors(t)))
-      case JField("abstract", JString(t)) :: rest => paper(rest, p.setAbstract(t))
-      case JField("body", JString(t)) :: rest     => paper(rest, p.setBody(t))
+      case JField("abstr", JObject(t)) :: rest => paper(rest, p.setAbstract(text(t)))
+      case JField("body", JObject(t)) :: rest     => paper(rest, p.setBody(text(t)))
       case JField("refs", JArray(t)) :: rest      => paper(rest, p.setReferences(refs(t)))
-      case other                                  => throw new Exception("No match for field: " + other)
+      case other                                  => throw new Exception("No match in paper for field: " + other)
+    }
+
+
+    // Getting text out of title, abstract and body
+    def text(fs : List[JField]) = fs match {
+      case JField("text", JString(t)) :: rest        => t
+      case other                                  => throw new Exception("No match in textfield (title, abstract, body) for field: " + other)
     }
 
     // Extracts Authors from JSON
     def authors(as : List[JValue]) : List[Author] = as match {
-      case Nil                  => Nil
-      case JString(t) :: rest   => Author(t) :: authors(rest)
-      case otherwise            => throw new Exception("Authors have to be a JString")
+      case Nil                                          => Nil
+      case JObject(JField(_,JString(t)) :: _) :: rest   => Author(t) :: authors(rest)
+      case other                                        => throw new Exception("Authors have to be a JString: " + other)
     }
 
     // Extract References from JSON
     def refs(rs : List[JValue]) = rs.map(r => ref(r))
     def ref(r : JValue) = r match {
-      case JObject(List(JField("authors", JArray(as)), JField("title", JString(title))))    => Reference(authors(as), Title(title))
-      case otherwise                                                                        => throw new Exception("malformed link: " + otherwise)
+      case JObject(List(JField("authors", JArray(as)), JField("title", JObject(t))))    => Reference(authors(as), Title(text(t)))
+      case otherwise                                                                    => throw new Exception("malformed reference: " + otherwise)
     }
 
     // Extract Links from JSON

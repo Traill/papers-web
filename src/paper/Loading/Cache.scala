@@ -7,7 +7,7 @@ import scala.io.Source
 object Cache {
 
   // Constants
-  val dir = "cache" + File.pathSeparator
+  val dir = "cache" + File.separator
   val suffix = ".cache"
 
 
