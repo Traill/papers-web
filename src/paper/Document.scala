@@ -4,7 +4,8 @@ import net.liftweb.json._
 import java.io.File
 
 
-case class Document(paper : Paper, 
+case class Document(id : String,
+                    paper : Paper, 
                     file : File, 
                     links : List[Link], 
                     meta : Map[String, String]) extends AbstractDocument
@@ -32,7 +33,7 @@ case class Link(id : String, weight : Int)
 object Document {
 
   // Empty document for initialization
-  val emptyDoc = Document(emptyPaper, new File(""), List(), (Map.empty : Map[String,String]))
+  val emptyDoc = Document("", emptyPaper, new File(""), List(), (Map.empty : Map[String,String]))
 
   // Empty paper for initialization
   val emptyPaper = Paper(Title(""), List(), Abstract(""), Body(""), List())
@@ -141,16 +142,18 @@ object Document {
 }
 
 abstract class AbstractDocument {
+  val id : String
   val paper : Paper
   val file : File
   val links : List[Link]
   val meta : Map[String, String]
 
-  def setPaper(p : Paper) : Document = Document(p, file, links, meta)
-  def setFile(f : File) : Document = Document(paper, f, links, meta)
-  def setLinks(ls : List[Link]) : Document = Document(paper, file, ls, meta)
-  def setMeta(m : (String, String)) : Document = Document(paper, file, links, meta + m)
-  def setMeta(m : Map[String, String]) : Document = Document(paper, file, links, meta ++ m)
+  def setId(newId : String) : Document = Document(newId, paper, file, links, meta)
+  def setPaper(p : Paper) : Document = Document(id, p, file, links, meta)
+  def setFile(f : File) : Document = Document(id, paper, f, links, meta)
+  def setLinks(ls : List[Link]) : Document = Document(id, paper, file, ls, meta)
+  def setMeta(m : (String, String)) : Document = Document(id, paper, file, links, meta + m)
+  def setMeta(m : Map[String, String]) : Document = Document(id, paper, file, links, meta ++ m)
   def hasMeta(l : String) : Boolean = meta.contains(l)
 }
 

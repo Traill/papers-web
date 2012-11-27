@@ -17,8 +17,9 @@ object Server {
     // Initialize Server
     val srv = unfiltered.jetty.Http(testPort).resources(resourceDir.toURI.toURL)
     
-    // Add filters
-    // val filtered = srv.filter(Index)
+    // Add plans
+    //val plans : List[Plan] = List(Ajax)
+    //val filtered = plans.foldLeft(src)(_ filter _)
 
     // Run server
     srv.run()
@@ -26,10 +27,11 @@ object Server {
 }
 
 
-// This is redundandt
-object Index extends unfiltered.filter.Plan {
-  
-  def intent = {
-    case Path(Seg("/" :: Nil)) => Redirect("index.html")
-  }
-}
+// Plan for ajax calls
+// object Ajax extends unfiltered.filter.Plan {
+//   
+//   def intent = {
+//     // Get abstract
+//     case Path(Seg("ajax" :: "abstract" :: id)) => ()
+//   }
+// }

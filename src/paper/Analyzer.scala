@@ -17,10 +17,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   def initialize(path : String) : Analyzer = {
 
     // Utility function for getting a document
-    def doc(f : File) = Document.emptyDoc.setFile(f)
+    def doc(id : String, f : File) = Document.emptyDoc.setFile(f).setId(id)
 
     // Create new Analyze object
-    val ds = for ((id, f) <- getFiles(path)) yield (id -> doc(f))
+    val ds = for ((id, f) <- getFiles(path)) yield (id -> doc(id, f))
     return Analyzer(ds)
   }
 

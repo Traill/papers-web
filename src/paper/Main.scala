@@ -6,22 +6,46 @@ object Main {
     // create analyzer
     val A : Analyzer = Analyzer(Map.empty)
 
-    var t = A.initialize("resources/isit2012test").parse.link
-    println(t)
+    var t = A.initialize("resources/isit2012test").load.link
 
-    // // Check that a directory is supplied (there is an argument)
-    // if (args.length == 0 || args.length > 2) {
-    //   println("You should provide at least a path and at most a path and an option. Type -h for help.");
-    // }
+    val c = Cluster(t)
 
-    // else {
+  }
 
-    //   // Get options
-    //   val options = readOptions(args.last)
+  // So far this is just whatever code I happen to be testing
+  case class Cluster(a : Analyzer) {
 
-    //   // Then go ahead
-    //   //A.analyze(args(0), options)
-    // }
+    // Get some linear algebra on the line
+    import breeze.linalg._
+
+    lazy val n : Int = links.size
+
+    // Map from id's to indices
+    lazy val idToIndex : Map[String,Int] = for (((id, _), index) <- a.docs.zipWithIndex) yield (id -> index)
+
+    // Convenient format for Links
+    lazy val links : Map[Int,Map[Int,Int]] = (for (Document(id, _, _, ls, _) <- a.docs.values) yield (idToIndex(id) -> linksToIndex(ls))).toMap
+
+    // Adjecency Matrix
+    lazy val W : DenseMatrix[Double] = DenseMatrix.eye[Double](n).mapPairs({ case ((i, j),t) => if (links(i).contains(j)) (links(i)(j)).toFloat/100 else 0.0 } )
+
+    // Degree Matrix
+    lazy val D : DenseMatrix[Double] = diag((adjecencyMat * DenseVector.ones[Double](links.size)))
+
+    // Inverse square root of degree matrix
+    lazy val sqrtInvD : DenseMatrix[Double] = inv(D.map(t => scala.math.sqrt(t)))
+
+    // Laplacian
+    lazy val L : DenseMatrix[Double] = DenseMatrix.eye[Double](links.size) - sqrtInvD * W * sqrtInvD
+
+    // Because of numerical inaccuracies I need to make my matrix explicitly symmetric
+    lazy val Lsym : DenseMatrix[Double] = lowerTriangular(L).t + lowerTriangular(L) - DenseMatrix.eye[Double](n)
+
+    // Compute the eigenvalues and vectors of the Lsym matrix
+    val (eigVal, Some(eigVec)) = eigSym(Lsym, true)
+
+   
+
   }
 
   // Reads in the options and converts them to a map of options
