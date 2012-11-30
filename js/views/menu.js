@@ -52,6 +52,7 @@ define(["jquery", "radio", "models/nodeList", "models/graph"], function($, radio
 		
 		$('.render .menuLink').click(function(){
 			//e.stop();
+			graph.randomizePosition();
 			graph.render();
 		});
 	}

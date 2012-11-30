@@ -40,8 +40,8 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 					//pos:		initPosition(index) ,
 					
 					//to be complient with force layout:
-					x:			initPosition(index).x,
-					y:			initPosition(index).y,
+					x:			initPosition(data.id).x,
+					y:			initPosition(data.id).y,
 					weight:		1,
 					index:		index,
 
@@ -110,15 +110,15 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	}
 	
 	// Find initial position of the node, else create it.
-	var initPosition = function(index) {
+	var initPosition = function(id) {
 		var pos = {};
-		if(position[index] == null){
+		if(position[id] == null){
 			
 			pos.x = config['graph_width']*Math.random();
 			pos.y = config['graph_height']*Math.random();
 			
 		}else {
-			pos = position[index];
+			pos = position[id];
 		}
 		return pos;
 	

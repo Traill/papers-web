@@ -205,9 +205,11 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 	
 	}
 	
-	graph.render = function(treshold) {
+	graph.render = function(treshold, nbTotIter) {
 		
+		// Define some conditions to stop:
 		if(treshold == null) treshold = 3.4; //3.1 is ideal
+		if(nbTotIter == null) nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Remove selected box:
 		if(nodeList.selected != null && nodeList.selected != undefined)
@@ -215,8 +217,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 		
 		// Avoid user interaction:
 		radio("loader:show").broadcast();
+		// Count number of iterarion
+		var nbIter = 0;
 		
-
+		// Delay the execution to have the curtains over
 		setTimeout(function() {
 				
 				
@@ -225,7 +229,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 				// Remove the edges for faster UI:
 				graph.clearEdges();
 				
-				var nbIter = 0;
+				
 				
 				function recursive() {
 					
@@ -236,11 +240,17 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 					graph.force.tick()
 					graph.force.stop();
 					
-					if(nbChanges() > treshold){
+					if(nbChanges() > treshold && nbIter < nbTotIter){ 
 						setTimeout(recursive, 1);
 					}else {
+						// Stats:
+						console.log("Nb of iteration done: "+nbIter);
+						//console.log(JSON.stringify(getPositions())  );
+						savePositions();
 						
 						setTimeout(function() {
+							
+							
 							//graph.moveNodes();
 							graph.drawEdges();
 						
@@ -258,8 +268,21 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 				
 			
 			}, 100);
+			
+			
 		
 	
+	}
+	
+	// If we want to re-render the graph,
+	// let's randomize the position of each node:
+	graph.randomizePosition = function(){
+		
+		nodes.forEach(function(el){
+			el.x = config['graph_width']*Math.random();
+			el.y = config['graph_height']*Math.random();
+		});
+		
 	}
 
 	//////////////////////////////////////////////
@@ -296,6 +319,23 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 		
 	}
 	
+	var getPositions = function() {
+		
+		positions = {};
+		
+		nodes.forEach(function(el){
+					positions[el.id] = {x: el.x, y: el.y};
+				});
+				
+		return positions;
+	}
+	
+	var savePositions = function(){
+	
+		var JSONPosition = getPositions();
+		
+		// Then send it; Nothing now. 
+	}
 	
 	
 
