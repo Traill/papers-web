@@ -36,7 +36,7 @@ define(["jquery", "radio", 'params'], function ($, radio, config) {
 	//////////////////////////////////////////////
 	
 	var show = function() {
-		loader.dom.fadeIn();
+		loader.dom.fadeIn(null, function() { radio("loader:isShowed").broadcast(); });
 	}
 	
 	

@@ -8,7 +8,7 @@ object Main {
 
     var t = A.initialize("resources/isit2012test").load.schedule("resources/isit2012test/schedule.xml").link
 
-    t.graph("resources/js/data/graph.js")
+    //t.graph("resources/js/data/graph.js")
 
   }
 

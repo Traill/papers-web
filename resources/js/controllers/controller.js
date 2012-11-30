@@ -1,4 +1,4 @@
-define(["models/nodeList", "models/search", "models/graph", "views/views"], function (nodeList, views) {
+define(["radio", "models/nodeList", "models/search", "models/graph", "views/views"], function (radio, nodeList, views) {
 
 
 	//////////////////////////////////////////////
@@ -21,7 +21,6 @@ define(["models/nodeList", "models/search", "models/graph", "views/views"], func
 
 	// Add selected and current node(s) from last session
 	controller.model.broadcastScheduled();
-
 
 	// Return the controller
 	return controller;
