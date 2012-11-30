@@ -19,6 +19,7 @@ object Main {
 
     // Initialize data
     Data.init("resources/isit2012test")
+    Data.printIds
 
     // Fetch the server
     val srv = Server.init
@@ -34,13 +35,15 @@ object Main {
 // Later it will also include links to graphs etc
 object Data {
 
-  private val A : Analyzer = Analyzer(Map.empty)
+  private var A : Analyzer = Analyzer(Map.empty)
 
   // Must be called to initialize all data from disk
-  def init(path : String) : Unit = A.initialize(path).load
+  def init(path : String) : Unit = { A = A.initialize(path).load }
 
   // Function for getting an abstract
   def getAbstract(id : String) : Option[String] = A.get(id).map(_.paper.abstr.text)
+
+  def printIds : Unit = for ((id, _) <- A.docs) println(id)
 }
 
 
