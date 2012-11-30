@@ -1,12 +1,53 @@
 package web
 
+// Paper support
 import paper._
+
+// Unfiltered
 import unfiltered.jetty._
 import unfiltered.request._
 import unfiltered.response._
 
-object Server {
+// JSON
+import net.liftweb.json._
+import net.liftweb.json.JsonDSL._
+
+
+object Main {
+
   def main(args : Array[String]): Unit= {
+
+    // Initialize data
+    Data.init("resources/isit2012test")
+
+    // Fetch the server
+    val srv = Server.init
+
+    // Run the server
+    srv.run
+  }
+
+}
+
+
+// Right now this is just the papers
+// Later it will also include links to graphs etc
+object Data {
+
+  private val A : Analyzer = Analyzer(Map.empty)
+
+  // Must be called to initialize all data from disk
+  def init(path : String) : Unit = A.initialize(path).load
+
+  // Function for getting an abstract
+  def getAbstract(id : String) : Option[String] = A.get(id).map(_.paper.abstr.text)
+}
+
+
+
+object Server {
+
+  def init : unfiltered.jetty.Http = {
 
     // Where files for the web server are located
     val resourceDir = new java.io.File("resources/")
@@ -17,21 +58,23 @@ object Server {
     // Initialize Server
     val srv = unfiltered.jetty.Http(testPort).resources(resourceDir.toURI.toURL)
     
-    // Add plans
-    //val plans : List[Plan] = List(Ajax)
-    //val filtered = plans.foldLeft(src)(_ filter _)
-
     // Run server
-    srv.run()
+    srv.filter(Ajax)
   }
+
 }
 
 
 // Plan for ajax calls
-// object Ajax extends unfiltered.filter.Plan {
-//   
-//   def intent = {
-//     // Get abstract
-//     case Path(Seg("ajax" :: "abstract" :: id)) => ()
-//   }
-// }
+object Ajax extends unfiltered.filter.Plan {
+  
+  def intent = {
+
+    // Get abstract
+    case Path(Seg("ajax" :: "abstract" :: id :: Nil)) => Data.getAbstract(id) match {
+      case Some(t)  => Json(("success" -> true) ~ ("id" -> id) ~ ("abstract" -> t))
+      case None     => Json(("success" -> false) ~ ("id" -> id))
+    }
+
+  }
+}

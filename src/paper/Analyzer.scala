@@ -126,4 +126,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
     return this
   }
+
+
+  /**
+   * Returns a paper from the collection
+   */
+  def get(id : String) : Option[Document] = docs.get(id)
 }

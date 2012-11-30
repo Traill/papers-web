@@ -5,7 +5,7 @@ import java.io.File
 
 
 case class Graph(nodes : List[Node], edges : List[Edge])
-case class Node(id : String, title : String, authors : List[String], room : String, time : String)
+case class Node(id : String, title : String, authors : List[String], location : String, time : String)
 case class Edge(from : String, to : String, w : Int)
 
 object Graph {

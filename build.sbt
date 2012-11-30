@@ -26,8 +26,8 @@ resolvers ++= Seq(
 )
 
 // The main class
-//mainClass in (Compile, run) := Some("web.Server")
-mainClass in (Compile, run) := Some("paper.Main")
+mainClass in (Compile, run) := Some("web.Main")
+//mainClass in (Compile, run) := Some("paper.Main")
 
 // The sources to be watched
 // watchSources <+= baseDirectory map { _ / "paper" }
