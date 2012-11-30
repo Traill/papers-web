@@ -19,7 +19,6 @@ object Main {
 
     // Initialize data
     Data.init("resources/isit2012test")
-    Data.printIds
 
     // Fetch the server
     val srv = Server.init
@@ -43,6 +42,7 @@ object Data {
   // Function for getting an abstract
   def getAbstract(id : String) : Option[String] = A.get(id).map(_.paper.abstr.text)
 
+  // For debugging purposes
   def printIds : Unit = for ((id, _) <- A.docs) println(id)
 }
 

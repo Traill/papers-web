@@ -110,7 +110,7 @@ define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie
 		nodeList.nodes = json.nodes.map(nodeFactory.new);
 		
 		// Load links
-		json.links.forEach( function(link, i) {
+		json.edges.forEach( function(link, i) {
 				// TODO: verify it is not already in!
 				nodeList.nodes[link.source].addLink(nodeList.nodes[link.target]  , link.value);
 				nodeList.nodes[link.target].addLink(nodeList.nodes[link.source]  , link.value);

@@ -83,9 +83,14 @@ define(["data/position", "util/merge"], function(position, merge) {
 
 		// If not, then fetch abstract from server
 		else {
-			$.get("ajax.php", { task: "abstract", id: this.id }, function (data) { 
-				this.abstract = data;
-				if (callback != undefined) callback(data);
+			$.get("ajax/abstract/" + id, {}, function (data) { 
+				if (data.success == true) {
+					this.abstract = data.abstract;
+				} else {
+					this.abstract = "Not found";
+				}
+
+				if (callback != undefined) callback(this.abstract);
 			});
 		}
 	}
