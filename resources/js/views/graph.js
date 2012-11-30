@@ -32,7 +32,7 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		radio("node:mouseout").subscribe(hoverOut);
 
 		// On node click, we want to try a new interface: focus on the node	
-		radio("node:click").subscribe(setFocus);
+		//radio("node:click").subscribe(setFocus);
 
 		// On node click, we want to try a new interface: focus on the node	
 		radio("node:setfocus").subscribe(setFocus);
@@ -159,6 +159,8 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 	
 	// What happends when we deselect a node
 	var deselect = function(node) {
+		
+		
 		// Get node
 		var domNode = node.domNode;
 
@@ -198,7 +200,7 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 	
 	// Focus on a particular node
 	var setFocus = function(node) {
-				
+		
 		// Dimension
 		var w = screen.width(),
 			h = screen.height();
@@ -206,7 +208,7 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		// What is the scale?
 		var factor = zoom.pos.s;
 		// Compute the translation coeff
-		var transx = factor * node.pos.x - w/2, transy = factor * node.pos.y - h/2;
+		var transx = factor * node.x - w/2, transy = factor * node.y - h/2;
 			
 			
 		zoom.transitionTo(factor, [-transx, -transy] );
