@@ -116,15 +116,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Output graph.js with a full graph of the data
    */
-  def graph(path : String) : Analyzer = {
+  def graph : Graph = {
 
     // Make graph
-    val graph = Graph.make(docs)
-
-    // Print graph
-    Graph.print(graph, path)
-
-    return this
+    return Graph.make(docs)
   }
 
 

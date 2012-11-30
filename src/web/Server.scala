@@ -10,7 +10,6 @@ import unfiltered.response._
 
 // JSON
 import net.liftweb.json._
-import net.liftweb.json.JsonDSL._
 
 
 object Main {
@@ -34,7 +33,15 @@ object Main {
 // Later it will also include links to graphs etc
 object Data {
 
+  // The main datastructure
   private var A : Analyzer = Analyzer(Map.empty)
+
+  // Json nodes and edges ready to be served
+  private var nodes : String = ""
+  private var edges : String = ""
+
+  // Implicit val for JSON conversion
+  private implicit val formats = DefaultFormats
 
   // Must be called to initialize all data from disk
   def init(path : String) : Unit = { A = A.initialize(path).load }
@@ -42,8 +49,24 @@ object Data {
   // Function for getting an abstract
   def getAbstract(id : String) : Option[String] = A.get(id).map(_.paper.abstr.text)
 
+  // Function for getting a json of all the nodes
+  def getJsonNodes : String = {
+    if (nodes == "") nodes = Serialization.write(A.graph.nodes)
+    return nodes
+  }
+
+  // Function for getting a json of all the nodes
+  def getJsonEdges : String = {
+    if (edges == "") edges = Serialization.write(A.graph.edges)
+    return edges
+  }
+
   // For debugging purposes
   def printIds : Unit = for ((id, _) <- A.docs) println(id)
+
+  // Changes the path of the analyzer
+  // We should check if the path is valid. Also this shouldn't be too exposed
+  def setPath(path : String) : Unit = A.initialize(path).load
 }
 
 
@@ -68,16 +91,3 @@ object Server {
 }
 
 
-// Plan for ajax calls
-object Ajax extends unfiltered.filter.Plan {
-  
-  def intent = {
-
-    // Get abstract
-    case Path(Seg("ajax" :: "abstract" :: id :: Nil)) => Data.getAbstract(id) match {
-      case Some(t)  => Json(("success" -> true) ~ ("id" -> id) ~ ("abstract" -> t))
-      case None     => Json(("success" -> false) ~ ("id" -> id))
-    }
-
-  }
-}
