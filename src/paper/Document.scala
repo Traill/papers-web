@@ -64,6 +64,7 @@ object Document {
       case JField("file", f) :: rest            => doc(rest, d.setFile(file(f)))
       case JField("links", JArray(ls)) :: rest  => doc(rest, d.setLinks(links(ls)))
       case JField("meta", JObject(m)) :: rest   => doc(rest, meta(m, d))
+      case JField("id", JString(t)) :: rest     => doc(rest, d.setId(t))
       case other                                => throw new Exception("No match in document for field: " + other)
     }
 
@@ -110,7 +111,7 @@ object Document {
     // Extract Links from JSON
     def links(ls : List[JValue]) = ls.map(l => link(l))
     def link(l : JValue) = l match {
-      case JObject(List(JField("id", JString(id)), JField("w", JInt(weight)))) => Link(id, weight.toInt)
+      case JObject(List(JField("id", JString(id)), JField("weight", JInt(weight)))) => Link(id, weight.toInt)
       case otherwise                                                           => throw new Exception("malformed link: " + otherwise)
     }
 
