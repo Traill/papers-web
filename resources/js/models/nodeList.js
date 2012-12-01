@@ -1,4 +1,4 @@
-define(["data/nodes", "data/links", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
+define(["ajax/nodes", "ajax/edges", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
 	   function(nodes, links, radio, session, arrrr, cookie, position, nodeFactory) {
 
 /* TRAILHEAD MODEL
@@ -130,7 +130,9 @@ define(["data/nodes", "data/links", "radio", "controllers/session", "util/array"
 		// Load session
 		// Load the node that are already scheduled
 		//nodeList.scheduled = session.loadSelected();
-		nodeList.scheduled = session.loadScheduled().map(nodeList.getNodeFromIndex);
+		nodeList.scheduled = session.loadScheduled()
+									.map(nodeList.getNodeFromIndex)
+									.filter(function(n) { return n != undefined; });
 		
 		/*  TODO: This loading should be done in 
 		 *	the future by looking session
@@ -161,6 +163,7 @@ define(["data/nodes", "data/links", "radio", "controllers/session", "util/array"
 
 	// Returns true if the id is selected and false if it isn't
 	nodeList.isScheduled = function(node) {
+		console.debug(node)
 		return (nodeList.scheduled.indexOf(node.index) != -1);
 	}
 
@@ -185,8 +188,8 @@ define(["data/nodes", "data/links", "radio", "controllers/session", "util/array"
 	// Finally this function is not a hack anymore. Returns the data 
 	// based on an id of a node. Look in graph.js for it's companion 
 	// 'getNodeFromId'
-	nodeList.getNodeFromIndex = function(id) {
-		return nodeList.nodes[id];
+	nodeList.getNodeFromIndex = function(index) {
+		return nodeList.nodes[index];
 	}
 	
 	// Go through all the nodes to find the nodes that have the ID.
