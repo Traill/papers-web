@@ -244,8 +244,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 						setTimeout(recursive, 1);
 					}else {
 						// Stats:
-						console.log("Nb of iteration done: "+nbIter);
-						//console.log(JSON.stringify(getPositions())  );
+						//console.log("Nb of iteration done: "+nbIter);
 						savePositions();
 						
 						setTimeout(function() {
@@ -334,6 +333,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "mo
 	
 		var JSONPosition = getPositions();
 		
+		//console.log(JSONPosition);
 		// Then send it; Nothing now. 
 	}
 	

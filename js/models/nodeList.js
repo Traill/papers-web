@@ -196,6 +196,8 @@ define(["data/nodes", "data/links", "radio", "controllers/session", "util/array"
 				if(node.id == id ) nodeFound = nodeList.nodes[node.index];
 			});
 		
+		// Use the nodeMap
+		
 		return nodeFound;
 	}
 
