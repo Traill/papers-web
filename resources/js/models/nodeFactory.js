@@ -88,7 +88,7 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 
 		// If not, then fetch abstract from server
 		else {
-			$.get("ajax/abstract/" + id, {}, function (data) { 
+			$.get("ajax/abstract/" + this.id, {}, function (data) { 
 				if (data.success == true) {
 					this.abstract = data.abstract;
 				} else {
@@ -103,7 +103,7 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 
 	// Get date from node
 	var getDateFun = function() {
-		var date		= new Date(parseInt(this.date) + (new Date()).getTimezoneOffset()*60000)
+		var date		= new Date(parseInt(this.time) + (new Date()).getTimezoneOffset()*60000)
 		return date;
 	}
 
