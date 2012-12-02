@@ -1,5 +1,5 @@
-define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
-	   function(json, radio, session, arrrr, cookie, position, nodeFactory) {
+define(["ajax/nodes", "ajax/edges", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
+	   function(nodes, links, radio, session, arrrr, cookie, position, nodeFactory) {
 
 /* TRAILHEAD MODEL
  * ---------------------------------------------------
@@ -107,22 +107,32 @@ define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie
 		// all the related information
 		
 		// Load nodeList
-		nodeList.nodes = json.nodes.map(nodeFactory.new);
+		nodeList.nodes = nodes.map(nodeFactory.new);
+		nodeList.links = new Array();
 		
 		// Load links
-		json.links.forEach( function(link, i) {
-				// TODO: verify it is not already in!
-				nodeList.nodes[link.source].addLink(nodeList.nodes[link.target]  , link.value);
-				nodeList.nodes[link.target].addLink(nodeList.nodes[link.source]  , link.value);
-				// nodeList.nodes[link.source].links.push({source: link.source, target: link.target, value: link.value, domlink: null});
-				// nodeList.nodes[link.target].links.push({source: link.target, target: link.source, value: link.value, domlink: null}); 
+		links.forEach( function(link, i) {
+				
+				// Retrieve index: 
+				nodeSource = nodeList.getNodeFromID(link.source).index;
+				nodeTarget = nodeList.getNodeFromID(link.target).index;
+				
+				nodeList.nodes[nodeSource].addLink(nodeList.nodes[nodeTarget]  , link.value);
+				nodeList.nodes[nodeTarget].addLink(nodeList.nodes[nodeSource]  , link.value);
+				
+				nodeList.links.push({"source": nodeSource, "target": nodeTarget, "value": link.value});
+				
+				
+				
 		});
-		
 
+		
 		// Load session
 		// Load the node that are already scheduled
 		//nodeList.scheduled = session.loadSelected();
-		nodeList.scheduled = session.loadScheduled().map(nodeList.getNodeFromIndex);
+		nodeList.scheduled = session.loadScheduled()
+									.map(nodeList.getNodeFromIndex)
+									.filter(function(n) { return n != undefined; });
 		
 		/*  TODO: This loading should be done in 
 		 *	the future by looking session
@@ -153,6 +163,7 @@ define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie
 
 	// Returns true if the id is selected and false if it isn't
 	nodeList.isScheduled = function(node) {
+		console.debug(node)
 		return (nodeList.scheduled.indexOf(node.index) != -1);
 	}
 
@@ -177,8 +188,18 @@ define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie
 	// Finally this function is not a hack anymore. Returns the data 
 	// based on an id of a node. Look in graph.js for it's companion 
 	// 'getNodeFromId'
-	nodeList.getNodeFromIndex = function(id) {
-		return nodeList.nodes[id];
+	nodeList.getNodeFromIndex = function(index) {
+		return nodeList.nodes[index];
+	}
+	
+	// Go through all the nodes to find the nodes that have the ID.
+	nodeList.getNodeFromID = function(id) {
+		var nodeFound = null;
+		nodeList.nodes.forEach(function(node){
+				if(node.id == id ) nodeFound = nodeList.nodes[node.index];
+			});
+		
+		return nodeFound;
 	}
 
 
@@ -212,7 +233,6 @@ define(["data/graph", "radio", "controllers/session", "util/array", "util/cookie
 
 		return nodeList.stats;
 	}
-
 
 
 

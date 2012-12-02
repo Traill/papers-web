@@ -82,16 +82,15 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 
 	// Shows the small box that selectBoxs the graph when you click on a 
 	// node
-	var showselectBox = function(selected_node, e) {
+	var showselectBox = function(node, e) {
 		
 		// Register the node position:
-		node = selected_node;
 		nodeIndex = node.index;
 		
 		// the select box is shown
 		isShown = true;
 		
-		pos = svg2domPosition(node.pos, zoom.pos);
+		pos = svg2domPosition(node.x, node.y, zoom.pos);
 		
 		// set select image
 		if (nodeList.isScheduled(node)) { unschedule(nodeIndex); }
@@ -113,7 +112,7 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	var moveselectBox = function(zoom, e) {
 		if(isShown){ 
-			pos = svg2domPosition(node.pos, zoom.pos);
+			pos = svg2domPosition(node.x, node.y, zoom.pos);
 			$("#clickwrap").css("left",pos[0] + "px")
 						   .css("top", pos[1] + "px");
 		}
@@ -121,8 +120,8 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	}
 	
-	var hideselectBox = function(node, e) {
-		if(nodeIndex == node.index ){
+	var hideselectBox = function(selected_node, e) {
+		if(selected_node != null && nodeIndex == selected_node.index ){
 			// Register the node position:
 			node = null;
 			nodeIndex = 0;
@@ -166,9 +165,9 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	// COmpute the position of the selected box relatively to the browser cordinate system
 	// from the position of the node relatively to the SVG canvas.
-	var svg2domPosition = function(posSVG, trans, e) {
-		var posx = posSVG.x*trans.s+trans.x, 
-			posy = posSVG.y*trans.s+trans.y;
+	var svg2domPosition = function(posvgx, posvgy, trans) {
+		var posx = posvgx*trans.s+trans.x, 
+			posy = posvgy*trans.s+trans.y;
 		
 		
 		return [posx, posy];

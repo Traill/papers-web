@@ -1,4 +1,4 @@
-define(["data/position", "util/merge"], function(position, merge) {
+define(["data/position", "util/merge", "params"], function(position, merge, config) {
 
 
 	//////////////////////////////////////////////
@@ -37,7 +37,12 @@ define(["data/position", "util/merge"], function(position, merge) {
 					// Properties
 					domNode:	null,
 					links:		new Array(),
-					pos:		position[index],
+					//pos:		initPosition(index) ,
+					
+					//to be complient with force layout:
+					x:			initPosition(data.id).x,
+					y:			initPosition(data.id).y,
+					weight:		1,
 					index:		index,
 
 					// Methods
@@ -83,9 +88,14 @@ define(["data/position", "util/merge"], function(position, merge) {
 
 		// If not, then fetch abstract from server
 		else {
-			$.get("ajax.php", { task: "abstract", id: this.id }, function (data) { 
-				this.abstract = data;
-				if (callback != undefined) callback(data);
+			$.get("ajax/abstract/" + this.id, {}, function (data) { 
+				if (data.success == true) {
+					this.abstract = data.abstract;
+				} else {
+					this.abstract = "Not found";
+				}
+
+				if (callback != undefined) callback(this.abstract);
 			});
 		}
 	}
@@ -93,7 +103,7 @@ define(["data/position", "util/merge"], function(position, merge) {
 
 	// Get date from node
 	var getDateFun = function() {
-		var date		= new Date(parseInt(this.date) + (new Date()).getTimezoneOffset()*60000)
+		var date		= new Date(parseInt(this.time) + (new Date()).getTimezoneOffset()*60000)
 		return date;
 	}
 
@@ -103,7 +113,21 @@ define(["data/position", "util/merge"], function(position, merge) {
 		//if(this.links != []) console.log(this.links);
 		return targets.indexOf(target) != -1;
 	}
-
+	
+	// Find initial position of the node, else create it.
+	var initPosition = function(id) {
+		var pos = {};
+		if(position[id] == null){
+			
+			pos.x = config['graph_width']*Math.random();
+			pos.y = config['graph_height']*Math.random();
+			
+		}else {
+			pos = position[id];
+		}
+		return pos;
+	
+	}
 	// Return the nodeFactory
 	return nodeFactory;
 })
