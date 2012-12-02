@@ -43,6 +43,7 @@ object Document {
   val hints = new ShortTypeHints(classOf[File] :: Nil) {
     override def serialize: PartialFunction[Any, JObject] = {
       case (f: File) => JObject(JField("file", JString(f.getAbsolutePath)) :: Nil)
+      case (m : Map[Int,Int]) => JObject(m.map({ case(t1,t2) => JField(t1.toString, JString(t2.toString)) }).toList)
     }
   }
 
@@ -120,6 +121,7 @@ object Document {
     // Extract Meta from JSON
     def meta(ms : List[JField], d : Document) : Document = ms match {
       case Nil                                  => d
+      case JField("jsonClass",_) :: rest        => meta(rest, d)
       case JField(key, JString(value)) :: rest  => meta(rest, d.setMeta(key -> value))
       case otherwise                            => throw new Exception("Wrong meta format: " + otherwise)
     }
@@ -127,7 +129,8 @@ object Document {
     // Extract Cluster from JSON
     def cluster(ms : List[JField], d : Document) : Document = ms match {
       case Nil                                  => d
-      case JField(key, JInt(value)) :: rest     => cluster(rest, d.setCluster(key.toInt -> value.toInt))
+      case JField("jsonClass",_) :: rest        => cluster(rest, d)
+      case JField(key, JString(value)) :: rest  => cluster(rest, d.setCluster(key.toInt -> value.toInt))
       case otherwise                            => throw new Exception("Wrong cluster format: " + otherwise)
     }
 

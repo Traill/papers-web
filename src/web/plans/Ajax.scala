@@ -15,14 +15,24 @@ object Ajax extends unfiltered.filter.Plan {
       case None     => Json(("success" -> false) ~ ("id" -> id))
     }
 
+    // Get nodes
     case Path(Seg("ajax" :: "nodes.js" :: Nil)) => {
       val json : String = Data.getJsonNodes
       JsonContent ~> ResponseString("define(function() { return " + json + "; })")
     }
 
+    // Get edges
     case Path(Seg("ajax" :: "edges.js" :: Nil)) => {
       val json : String = Data.getJsonEdges
       JsonContent ~> ResponseString("define(function() { return " + json + "; })")
+    }
+
+    // Get cluser of size k
+    case Path(Seg("ajax" :: "clusters" :: k :: Nil)) => {
+      var n = 2
+      try { n = k.toInt } catch { case _ => () }
+      val json : String = Data.getClusters(n)
+      JsonContent ~> ResponseString(json)
     }
 
   }

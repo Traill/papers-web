@@ -5,18 +5,18 @@ import breeze.linalg._
 abstract class Cluster {
 
   // The analyzer given as an argument in implementing classes
-  val a : Analyzer
+  val docs : Map[String, Document]
 
   lazy val n : Int = links.size
 
   // Map from id's to indices
-  lazy val idToIndex : Map[String,Int] = for (((id, _), index) <- a.docs.zipWithIndex) yield (id -> index)
-  lazy val indexToId : Map[Int,String] = for (((id, _), index) <- a.docs.zipWithIndex) yield (index -> id)
+  lazy val idToIndex : Map[String,Int] = for (((id, _), index) <- docs.zipWithIndex) yield (id -> index)
+  lazy val indexToId : Map[Int,String] = for (((id, _), index) <- docs.zipWithIndex) yield (index -> id)
 
   lazy val linksToIndex : List[Link] => Map[Int,Int] = (ls : List[Link]) => (for (Link(id, weight) <- ls) yield (idToIndex(id) -> weight)).toMap
 
   // Convenient format for Links
-  lazy val links : Map[Int,Map[Int,Int]] = (for (Document(id, _, _, ls, _, _) <- a.docs.values) yield (idToIndex(id) -> linksToIndex(ls))).toMap
+  lazy val links : Map[Int,Map[Int,Int]] = (for (Document(id, _, _, ls, _, _) <- docs.values) yield (idToIndex(id) -> linksToIndex(ls))).toMap
 
   // Adjecency Matrix
   lazy val W : DenseMatrix[Double] = DenseMatrix.eye[Double](n).mapPairs({ case ((i, j),t) => if (links(i).contains(j)) (links(i)(j)).toFloat/100 else 0.0 } )
@@ -29,7 +29,7 @@ abstract class Cluster {
 
 
 // Code for spectral clustering, k is the maximum amount of clusters
-case class Spectral(a : Analyzer, k : Int) extends Cluster {
+case class Spectral(docs : Map[String, Document], k : Int) extends Cluster {
 
   // Inverse square root of degree matrix
   lazy val sqrtInvD : DenseMatrix[Double] = diag(diag(D).map(t => 1.0/scala.math.sqrt(t)))
