@@ -102,9 +102,11 @@ case class KMeans(T : DenseMatrix[Double]) {
     inits #:: meanStream.map(means => getGroups(means))
   }
 
-  // Lazy stream that calculates the means. It's corecursive with 
+  // Lazy stream that calculates the means. It's corecursive with groupStream
   val meanStream : Stream[Map[Int, Seq[Double]]] = {
     groupStream.map(grouping => getMeans(grouping))
   }
+
+  // fips = 0 : 1 : fips zip $ (fips tail) map $ \(i1,i2) -> i1 + i2 
 
 }

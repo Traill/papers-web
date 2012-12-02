@@ -44,7 +44,9 @@ object Data {
   private implicit val formats = DefaultFormats
 
   // Must be called to initialize all data from disk
-  def init(path : String) : Unit = { A = A.initialize(path).load }
+  def init(path : String) : Unit = { 
+    A = A.initialize(path).load
+  }
 
   // Function for getting an abstract
   def getAbstract(id : String) : Option[String] = A.get(id).map(_.paper.abstr.text)

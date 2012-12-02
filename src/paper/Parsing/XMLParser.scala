@@ -18,7 +18,7 @@ trait XMLParser extends TitleExtractor1
    // The function for actually parsing a paper
    def parseFile(f : File) : Option[Paper] = {
       val xml = getXMLObject(Source.fromFile(f))
-      f.delete
+      //f.delete
 
 	  if(xml == None) None
 	  else {
@@ -44,14 +44,7 @@ trait XMLParser extends TitleExtractor1
 	  val text = in.mkString.replace("" + '\uffff', "").replace("" + "\u001f", "")
       // This instruction is important, otherwise the xml file can't be deleted
       in.close
-
-      try {
-    	  // The replacement of the <b> and <i> tags is important because loadString sometimes generate an exception about these tags
-    	  // Of course, some information is lost, but not really an important one
-    	  Some(XML.loadString("""</?[bi]>""".r.replaceAllIn(text, "")))
-      } catch {
-      	case _ => println("Couldn't load the XML file."); None
-      }
+      Some(XML.loadString("""</?[bi]>""".r.replaceAllIn(text, "")))
    }
 
 
