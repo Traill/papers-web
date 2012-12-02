@@ -8,7 +8,8 @@ case class Document(id : String,
                     paper : Paper, 
                     file : File, 
                     links : List[Link], 
-                    meta : Map[String, String]) extends AbstractDocument
+                    meta : Map[String, String],
+                    cluster : Map[Int, Int]) extends AbstractDocument
 
 // TODO: delete meta
 case class Paper(title:     Title, 
@@ -33,7 +34,7 @@ case class Link(id : String, weight : Int)
 object Document {
 
   // Empty document for initialization
-  val emptyDoc = Document("", emptyPaper, new File(""), List(), (Map.empty : Map[String,String]))
+  val emptyDoc = Document("", emptyPaper, new File(""), List(), Map.empty, Map.empty)
 
   // Empty paper for initialization
   val emptyPaper = Paper(Title(""), List(), Abstract(""), Body(""), List())
@@ -59,13 +60,14 @@ object Document {
 
     // Parse document from JSON
     def doc(fs : List[JField], d : Document) : Document = fs match {
-      case Nil                                  => d
-      case JField("paper", JObject(p)) :: rest  => doc(rest, d.setPaper(paper(p, emptyPaper)))
-      case JField("file", f) :: rest            => doc(rest, d.setFile(file(f)))
-      case JField("links", JArray(ls)) :: rest  => doc(rest, d.setLinks(links(ls)))
-      case JField("meta", JObject(m)) :: rest   => doc(rest, meta(m, d))
-      case JField("id", JString(t)) :: rest     => doc(rest, d.setId(t))
-      case other                                => throw new Exception("No match in document for field: " + other)
+      case Nil                                      => d
+      case JField("paper", JObject(p)) :: rest      => doc(rest, d.setPaper(paper(p, emptyPaper)))
+      case JField("file", f) :: rest                => doc(rest, d.setFile(file(f)))
+      case JField("links", JArray(ls)) :: rest      => doc(rest, d.setLinks(links(ls)))
+      case JField("meta", JObject(m)) :: rest       => doc(rest, meta(m, d))
+      case JField("id", JString(t)) :: rest         => doc(rest, d.setId(t))
+      case JField("cluster", JObject(m)) :: rest    => doc(rest, cluster(m, d))
+      case other                                    => throw new Exception("No match in document for field: " + other)
     }
 
 
@@ -81,7 +83,7 @@ object Document {
       case Nil                                    => p
       case JField("title", JObject(t)) :: rest    => paper(rest, p.setTitle(text(t)))
       case JField("authors", JArray(t)) :: rest   => paper(rest, p.setAuthors(authors(t)))
-      case JField("abstr", JObject(t)) :: rest => paper(rest, p.setAbstract(text(t)))
+      case JField("abstr", JObject(t)) :: rest    => paper(rest, p.setAbstract(text(t)))
       case JField("body", JObject(t)) :: rest     => paper(rest, p.setBody(text(t)))
       case JField("refs", JArray(t)) :: rest      => paper(rest, p.setReferences(refs(t)))
       case other                                  => throw new Exception("No match in paper for field: " + other)
@@ -122,6 +124,13 @@ object Document {
       case otherwise                            => throw new Exception("Wrong meta format: " + otherwise)
     }
 
+    // Extract Cluster from JSON
+    def cluster(ms : List[JField], d : Document) : Document = ms match {
+      case Nil                                  => d
+      case JField(key, JInt(value)) :: rest     => cluster(rest, d.setCluster(key.toInt -> value.toInt))
+      case otherwise                            => throw new Exception("Wrong cluster format: " + otherwise)
+    }
+
     // Check if we have a JObject
     json match {
       case JObject(fs)  => doc(fs, emptyDoc)
@@ -148,13 +157,16 @@ abstract class AbstractDocument {
   val file : File
   val links : List[Link]
   val meta : Map[String, String]
+  val cluster : Map[Int, Int]
 
-  def setId(newId : String) : Document = Document(newId, paper, file, links, meta)
-  def setPaper(p : Paper) : Document = Document(id, p, file, links, meta)
-  def setFile(f : File) : Document = Document(id, paper, f, links, meta)
-  def setLinks(ls : List[Link]) : Document = Document(id, paper, file, ls, meta)
-  def setMeta(m : (String, String)) : Document = Document(id, paper, file, links, meta + m)
-  def setMeta(m : Map[String, String]) : Document = Document(id, paper, file, links, meta ++ m)
+  def setId(newId : String) : Document = Document(newId, paper, file, links, meta, cluster)
+  def setPaper(p : Paper) : Document = Document(id, p, file, links, meta, cluster)
+  def setFile(f : File) : Document = Document(id, paper, f, links, meta, cluster)
+  def setLinks(ls : List[Link]) : Document = Document(id, paper, file, ls, meta, cluster)
+  def setMeta(m : (String, String)) : Document = Document(id, paper, file, links, meta + m, cluster)
+  def setMeta(m : Map[String, String]) : Document = Document(id, paper, file, links, meta ++ m, cluster)
+  def setCluster(c : Map[Int,Int]) : Document = Document(id, paper, file, links, meta, c)
+  def setCluster(c : (Int,Int)) : Document = Document(id, paper, file, links, meta, cluster + c)
   def hasMeta(l : String) : Boolean = meta.contains(l)
 }
 

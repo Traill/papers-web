@@ -8,7 +8,7 @@ object Main {
 
     var t = A.initialize("resources/isit2012test").load.schedule("resources/isit2012test/schedule.xml").link.save
 
-    lazy val c = Spectral(t)
+    lazy val c = Spectral(t, 3)
 
   }
 

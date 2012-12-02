@@ -11,11 +11,12 @@ abstract class Cluster {
 
   // Map from id's to indices
   lazy val idToIndex : Map[String,Int] = for (((id, _), index) <- a.docs.zipWithIndex) yield (id -> index)
+  lazy val indexToId : Map[Int,String] = for (((id, _), index) <- a.docs.zipWithIndex) yield (index -> id)
 
   lazy val linksToIndex : List[Link] => Map[Int,Int] = (ls : List[Link]) => (for (Link(id, weight) <- ls) yield (idToIndex(id) -> weight)).toMap
 
   // Convenient format for Links
-  lazy val links : Map[Int,Map[Int,Int]] = (for (Document(id, _, _, ls, _) <- a.docs.values) yield (idToIndex(id) -> linksToIndex(ls))).toMap
+  lazy val links : Map[Int,Map[Int,Int]] = (for (Document(id, _, _, ls, _, _) <- a.docs.values) yield (idToIndex(id) -> linksToIndex(ls))).toMap
 
   // Adjecency Matrix
   lazy val W : DenseMatrix[Double] = DenseMatrix.eye[Double](n).mapPairs({ case ((i, j),t) => if (links(i).contains(j)) (links(i)(j)).toFloat/100 else 0.0 } )
@@ -27,10 +28,8 @@ abstract class Cluster {
 
 
 
-// Code for spectral clustering
-case class Spectral(a : Analyzer) extends Cluster {
-
-  lazy val k : Int = 2 // Let's test with a graph partition for now
+// Code for spectral clustering, k is the maximum amount of clusters
+case class Spectral(a : Analyzer, k : Int) extends Cluster {
 
   // Inverse square root of degree matrix
   lazy val sqrtInvD : DenseMatrix[Double] = diag(diag(D).map(t => 1.0/scala.math.sqrt(t)))
@@ -44,21 +43,26 @@ case class Spectral(a : Analyzer) extends Cluster {
   // Compute the eigenvalues and vectors of the Lsym matrix
   lazy val (eigVal, Some(eigVec)) = eigSym(Lsym, true)
 
+  // To avoid calculating the eigen vectors multiple times for different
+  // cluster sizes, I've included a parameter 'm' to decide the cluster size
+
   // Get Matrix of the amount of eigenvectors needed
-  lazy val U : DenseMatrix[Double] = eigVec(0 to (n - 1), 0 to (k - 1))
+  def U(size : Int) : DenseMatrix[Double] = eigVec(0 to (n - 1), 0 to (size - 1))
 
   // Get a vector with all the normalization values of U
-  lazy val Unorm : DenseVector[Double] = DenseVector.zeros[Double](U.rows).mapPairs( { case (k,v) => math.sqrt(U(k,0 to (U.cols - 1)).map(x => x*x).sum) })
+  def Unorm(size : Int) : DenseVector[Double] = DenseVector.zeros[Double](U(size).rows).mapPairs( { case (k,v) => math.sqrt(U(size)(k,0 to (U(size).cols - 1)).map(x => x*x).sum) })
 
   // Normalize each row of U
-  lazy val T : DenseMatrix[Double] = U.mapPairs({ case((i,j),k) => k/Unorm(j) })
+  def T(size : Int) : DenseMatrix[Double] = U(size).mapPairs({ case((i,j),k) => k/Unorm(size)(j) })
 
+  // cluster
+  lazy val cluster = for (size <- (2 to k); (group, ids) <- KMeans(T(size)).result; index <- ids) yield (indexToId(index) -> (size -> group))
 }
 
 
 case class KMeans(T : DenseMatrix[Double]) {
 
-  import scala.util.Random.nextBoolean
+  import scala.util.Random.nextDouble
 
   // Shorthand for the rows and columns of the matrix
   val n : Int = T.rows
@@ -67,8 +71,8 @@ case class KMeans(T : DenseMatrix[Double]) {
   val js : Range = 0 to (k - 1)
 
   // The initialized grouping (I could also import random and use 'shuffle')
-  //val inits : Map[Int, Seq[Int]] = is.groupBy(i => i % 2)
-  val inits : Map[Int, Seq[Int]] = is.groupBy(_ => if (nextBoolean) 0 else 1)
+  val inits : Map[Int, Seq[Int]] = is.groupBy(i => i % k)
+  //val inits : Map[Int, Seq[Int]] = is.groupBy(_ => (nextDouble * k).toInt)
 
 
   // calculate the new means giving the cluster assignments
@@ -87,7 +91,7 @@ case class KMeans(T : DenseMatrix[Double]) {
   def assign(row : Int, means : Map[Int, Seq[Double]]) : Int = {
 
     // Calculate a list of differences
-    val distanceList = for (j <- js) yield (j, distance(row, means(j)))
+    val distanceList = for (j <- js if means.contains(j)) yield (j, distance(row, means(j)))
 
     // Find the minimum distance and return the index
     distanceList.reduce((a,b) => if (a._2 < b._2) a else b)._1

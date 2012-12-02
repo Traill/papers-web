@@ -114,12 +114,32 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
 
   /**
-   * Output graph.js with a full graph of the data
+   * Generate a graph for use on the frontend
    */
   def graph : Graph = {
 
     // Make graph
     return Graph.make(docs)
+  }
+
+
+  /**
+   * Cluster the documents
+   */
+  def cluster(k : Int) : Analyzer = {
+
+    val clusters : Seq[(String, (Int, Int))] = Spectral(this, k).cluster
+
+    val ds = for((id, doc) <- docs) yield {
+
+      // This is not the most functional code in the world
+      var newDoc = doc
+      for ((i, (size, group)) <- clusters if (id == i)) { newDoc = newDoc.setCluster(size -> group) } 
+
+      (id -> newDoc)
+    }
+
+    return Analyzer(ds)
   }
 
 
