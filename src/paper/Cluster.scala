@@ -58,6 +58,8 @@ case class Spectral(a : Analyzer) extends Cluster {
 
 case class KMeans(T : DenseMatrix[Double]) {
 
+  import scala.util.Random.nextBoolean
+
   // Shorthand for the rows and columns of the matrix
   val n : Int = T.rows
   val k : Int = T.cols
@@ -65,7 +67,8 @@ case class KMeans(T : DenseMatrix[Double]) {
   val js : Range = 0 to (k - 1)
 
   // The initialized grouping (I could also import random and use 'shuffle')
-  val inits : Map[Int, Seq[Int]] = is.groupBy(i => i % 2)
+  //val inits : Map[Int, Seq[Int]] = is.groupBy(i => i % 2)
+  val inits : Map[Int, Seq[Int]] = is.groupBy(_ => if (nextBoolean) 0 else 1)
 
 
   // calculate the new means giving the cluster assignments
@@ -106,6 +109,10 @@ case class KMeans(T : DenseMatrix[Double]) {
   val meanStream : Stream[Map[Int, Seq[Double]]] = {
     groupStream.map(grouping => getMeans(grouping))
   }
+
+
+  // Find the convergent grouping
+  lazy val result = groupStream.zip(groupStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
 
   // fips = 0 : 1 : fips zip $ (fips tail) map $ \(i1,i2) -> i1 + i2 
 
