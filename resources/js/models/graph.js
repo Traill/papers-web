@@ -213,6 +213,8 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 	// Animate the graph
 	graph.animate = function(nodes, links, treshold, iterations) {
+
+		// Take one step
 		graph.force.start();
 		graph.force.tick()
 		graph.force.stop();
@@ -225,6 +227,9 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		
 		// Show graph
 		else {
+
+			// Stats
+			console.debug("iterations left: " + iterations)
 
 			// Save node positions
 			savePositions(nodes);
@@ -270,16 +275,15 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			graph.moveNodes(nodes);
 		});
 
-}
+	}
+
+
 
 	//////////////////////////////////////////////
 	//											//
 	//           Private Functions				//
 	//											//
 	//////////////////////////////////////////////
-
-
-	
 
 
 	// Highlights search results
