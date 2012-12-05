@@ -42,6 +42,13 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 		// Remove search highlight from past results
 		radio("search:remove").subscribe(searchRemove);
+
+		// remove a link
+		radio("link:remove").subscribe(removeLink)
+
+		// Add a link
+		radio("link:add").subscribe(addLink)
+
 	}
 
 
@@ -54,53 +61,21 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 	//////////////////////////////////////////////
 	
 	
-	// Select a particular node
+	// Schedule a particular node
 	var scheduled = function(node) {
-		//var lastNode	= d3.select("circle.current");
-		//var lastEdges	= d3.selectAll("line.current");
+
 		var domNode	= node.domNode;
 
-		// Add paper to list of selected and make current item current
-		// TODO: make sure we have an event in sidebar.js for addlistitem
-		//addListItem(id);
-
-		// TODO: set sidebar node as current
-		// Add which element is current in the list
-		// $("li.current").removeClass("current");
-		// $("li[rel=" + id + "]").addClass("current").click(function() { 
-			//window.open(domNode.property("__data__").pdf); });
-
-		// Update the new current node to selected
+		// Update the new current node to scheduled
 		node.classed("scheduled", true);
-
-		// Find all edges belonging to current node and update them
-//		node.links.forEach(function(link){
-//			if(link.domlink != null) link.domlink.classed("selected", true);
-//			
-			//link.domlink.on('click', function() { radio("link:click").broadcast(id, link.target); });
-			//d
-//			
-//			
-//		});
 	}
 		
 		
-	// Deselect a particular node
+	// unschedule a particular node
 	var unschedule = function(node) {
-
-		//var lastEdges	= d3.selectAll("line.current");
-
-		// Remove it from list
-		// TODO: make sure node is dropped from list too
-		// dropListItem(id);
 
 		// Deselect it
 		node.domNode.classed("scheduled", false);
-
-		// Go through all selected edges and deselect all that aren't connect to another selected node
-//		node.links.forEach(function(link){
-//			link.domlink.classed("selected", false);
-//		});
 	}
 
 
@@ -109,15 +84,14 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		// Get node
 		var domNode = node.domNode;
 
-
 		// Make node red
 		domNode.classed("hover", false);
 
-
 		// Find all edges belinging to current node and update them
-		node.links.forEach(function(link){
+		for (var index in node.links) {
+			var link = node.links[index];
 			if(link.domlink) link.domlink.classed("hover", false);
-		});
+		}
 	}
 
 
@@ -127,15 +101,14 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		// Get node
 		var domNode = node.domNode;
 
-
 		// Make node red
 		domNode.classed("hover", true);
 
-
 		// Find all edges belinging to current node and update them
-		node.links.forEach(function(link){
+		for (var index in node.links) {
+			var link = node.links[index];
 			if(link.domlink) link.domlink.classed("hover", true);
-		});
+		}
 	}
 
 
@@ -214,6 +187,17 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		zoom.transitionTo(factor, [-transx, -transy] );
 	
 	}
+
+
+	var addLink = function(target, source) {
+
+	}
+
+
+	var removeLink = function(target, source) {
+
+	}
+
 
 	//////////////////////////////////////////////
 	//											//

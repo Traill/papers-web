@@ -131,8 +131,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 
 	// remove all the clickable item of the old node.
 	var deselect = function(node) {
-	if(node.links != null )
-		node.links.forEach(function(link){
+		if(node.links != null ) node.links.forEach(function(link){
 			if(link.domLink) {
 				var e = d3.event;
 				link.clickable.remove();
@@ -144,27 +143,29 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		
 	var hover = function(node) {
 		
-		node.links.forEach(function(link){
+		for (var index in node.links) {
+			var link = node.links[index];
 			if(link.domLink) {
 				var e = d3.event;
 				link.domLink.classed('hover', true);
 				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
 			}
-		});
+		}
 	}
 	
 	var hoverOut = function(node) {
 		
 		if( nodeList.selected == null || nodeList.selected.index != node.index){
 			
-			node.links.forEach(function(link){
+			for (var index in node.links) {
+				var link = node.links[index];
 				if(link.domLink) {
 					var e = d3.event;
 					// Check if note selected
 					link.domLink.classed('hover', false);
 					link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 				}
-			});
+			}
 		}
 	}
 
