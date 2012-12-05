@@ -87,12 +87,13 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	// Instate a new graph
 	graph.set = function(nodes, links) {
 
+		// Draw the nodes and edges
+		graph.drawNodes(nodes);
+		graph.drawEdges(nodes, links);
+
 		// Set forcelayout
 		graph.setForceLayout(nodes, links)
 		
-		// Draw the nodes
-		graph.drawNodes(nodes);
-
 		// Initialize events
 		graph.events(nodes);
 
@@ -122,12 +123,15 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	}
 
 	
+
+
 	//////////////////////////////////////////////
 	//											//
 	//           Public Functions				//
 	//											//
 	//////////////////////////////////////////////
 	
+	// Calculates the strokewidth
 	graph.strokeWidth = function(d, weight) { 
 		if (weight == undefined) weight = 0.1;
 		return Math.sqrt(d.value/100) * weight; 
@@ -140,13 +144,15 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		links.forEach(function(link, i) {
 
 			if (link.domLink == null) {
+				var target = nodes[link.target]
+				var source = nodes[link.source]
 						
 				link.domLink = graph.canvas.insert('svg:line', ':first-child')
-					.attr('x1', link.source.x)
-					.attr('y1', link.source.y)
-					.attr('x2', link.target.x)
-					.attr('y2', link.target.y)
-					.attr('source', link.source.id)
+					.attr('x1', source.x)
+					.attr('y1', source.y)
+					.attr('x2', target.x)
+					.attr('y2', target.y)
+					.attr('source', source.id)
 					.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]))
 					.classed('link', true);
 			}
@@ -164,36 +170,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		});
 	}
 
-	
-	// remove all children of the graph:
-	graph.clearCanvas = function(nodes) {
-
-		nodes.forEach(function(el){
-			
-			el.domNode.remove();
-			el.domNode = null;
-			
-			el.links.forEach(function(link, i){
-				if(link.domLink != null ){
-					link.domLink.remove();
-					link.domLink = null;
-				}
-			});
-		});
-	}
-	
-
-	// Remove all links
-	graph.clearEdges = function(links) {
-		links.forEach(function(link) {
-			if(link.domLink != null ) {
-				
-				link.domLink.remove();
-				link.domLink = null;
-			}
-		});
-	}
-	
 
 	// Move all nodes
 	graph.moveNodes = function(nodes) {
@@ -202,77 +178,66 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 					  .attr('cy', el.y)
 		});
 	}
-	
+
+
+	// Move all edges
+	graph.moveLinks = function(links) {
+		links.forEach(function(link) {
+			link.domLink
+				.attr('x1', link.source.x)
+				.attr('y1', link.source.y)
+				.attr('x2', link.target.x)
+				.attr('y2', link.target.y)
+		});
+	}
+
 
 	// Render graph
 	graph.render = function(nodes, links) {
 		
 		// Define some conditions to stop:
-		treshold = 1.5; //3.1 is ideal
-		nbTotIter = 500; // Wait less than 10s to avoid unreachead minimum 
+		var treshold = 1.5; //3.1 is ideal
+		var nbTotIter = 500; // Wait less than 10s to avoid unreachead minimum 
 		
-		// Remove selected box:
-		// if (nodeList.selected != null)
-		// 	radio("node:deselect").broadcast(nodeList.selected);
+		// Hide all edges
+		graph.canvas.selectAll("line").style("display","none")
 		
 		// Avoid user interaction:
+		radio("selectBox:hide").broadcast();
 		radio("loader:show").broadcast();
 
-		// Count number of iterarion
-		var nbIter = 0;
-		
-		// Delay the execution to have the curtains over
-		setTimeout(function() {
-				
-				
-				
-				// Remove everything that can freeze the browser
-				// Remove the edges for faster UI:
-				graph.clearEdges(links);
-				
-				
-				
-				function recursive() {
-					
-					nbIter++;
-					//console.log(nbIter);
-					// One tick:
-					graph.force.start();
-					graph.force.tick()
-					graph.force.stop();
-					
-					if(nbChanges(nodes) > treshold && nbIter < nbTotIter){ 
-						setTimeout(recursive, 1);
-					}else {
-						// Stats:
-						console.log("Nb of iteration done: "+nbIter);
-						//console.log(JSON.stringify(getPositions())  );
-						savePositions(nodes);
-						
-						setTimeout(function() {
-							
-							//graph.moveNodes();
-							graph.drawEdges(nodes, links);
-						
-							// Avoid user interaction:
-							radio("loader:hide").broadcast();
-						}, 1);
-						
-					}
-					
-				}
-				
-				recursive();
-				
-				
-				
-			
-			}, 100);
-			
-			
-		
-	
+		// Animate the graph
+		graph.animate(nodes, links, treshold, nbTotIter)
 	}
+
+
+	// Animate the graph
+	graph.animate = function(nodes, links, treshold, iterations) {
+		graph.force.start();
+		graph.force.tick()
+		graph.force.stop();
+		
+		// Recourse
+		if (nbChanges(nodes) > treshold && iterations > 0){ 
+
+			setTimeout(function() { graph.animate(nodes, links, treshold, iterations-1); }, 1);
+		}
+		
+		// Show graph
+		else {
+
+			// Save node positions
+			savePositions(nodes);
+			
+			// Move links and display them	
+			graph.moveLinks(links);
+			graph.canvas.selectAll("line").style("display","inline")
+			
+			// Enable user interaction:
+			radio("loader:hide").broadcast();
+		}
+	}
+
 	
 	// If we want to re-render the graph,
 	// let's randomize the position of each node:
