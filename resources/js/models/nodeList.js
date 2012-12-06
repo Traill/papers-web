@@ -1,5 +1,5 @@
-define(["ajax/nodes", "ajax/edges", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
-	   function(nodes, links, radio, session, arrrr, cookie, position, nodeFactory) {
+define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
+	   function(nodes, radio, session, arrrr, cookie, position, nodeFactory) {
 
 /* TRAILHEAD MODEL
  * ---------------------------------------------------
@@ -44,6 +44,16 @@ define(["ajax/nodes", "ajax/edges", "radio", "controllers/session", "util/array"
 	//////////////////////////////////////////////
 	var nodeList = {};
 
+
+	//////////////////////////////////////////////
+	//											//
+	//               Variables					//
+	//											//
+	//////////////////////////////////////////////
+
+	// Nodes and indices
+	nodeList.nodes = new Array();
+	nodeList.indexMap = new Object();
 
 
 	//////////////////////////////////////////////
@@ -108,23 +118,13 @@ define(["ajax/nodes", "ajax/edges", "radio", "controllers/session", "util/array"
 		
 		// Load nodeList
 		nodeList.nodes = nodes.map(nodeFactory.new);
-		nodeList.links = new Array();
 		
-		// Load links
-		links.forEach( function(link, i) {
-				
-				// Retrieve index: 
-				nodeSource = nodeList.getNodeFromID(link.source).index;
-				nodeTarget = nodeList.getNodeFromID(link.target).index;
-				
-				nodeList.nodes[nodeSource].addLink(nodeList.nodes[nodeTarget]  , link.value);
-				nodeList.nodes[nodeTarget].addLink(nodeList.nodes[nodeSource]  , link.value);
-				
-				nodeList.links.push({"source": nodeSource, "target": nodeTarget, "value": link.value});
-				
-				
-				
+		// Create indexMap
+		nodeList.nodes.forEach(function (n) { 
+			nodeList.indexMap[n.id] = n.index; 
 		});
+
+
 
 		
 		// Load session
@@ -146,6 +146,7 @@ define(["ajax/nodes", "ajax/edges", "radio", "controllers/session", "util/array"
 		nodeList.stats = undefined;
 
 	}
+
 
 
 
@@ -192,16 +193,17 @@ define(["ajax/nodes", "ajax/edges", "radio", "controllers/session", "util/array"
 		return nodeList.nodes[index];
 	}
 	
+
 	// Go through all the nodes to find the nodes that have the ID.
 	nodeList.getNodeFromID = function(id) {
-		var nodeFound = null;
-		nodeList.nodes.forEach(function(node){
-				if(node.id == id ) nodeFound = nodeList.nodes[node.index];
-			});
-		
-		// Use the nodeMap
-		
-		return nodeFound;
+		var index = nodeList.getIndex(id);
+		return nodeList.nodes[index]
+	}
+
+
+	// Returns the index of a node
+	nodeList.getIndex = function(id) {
+		return nodeList.indexMap[id];
 	}
 
 

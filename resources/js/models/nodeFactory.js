@@ -36,7 +36,7 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 		var n =	{
 					// Properties
 					domNode:	null,
-					links:		new Array(),
+					links:		new Object(),
 					//pos:		initPosition(index) ,
 					
 					//to be complient with force layout:
@@ -63,23 +63,18 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	//											//
 	//////////////////////////////////////////////
 	
+
 	// A function to add a link to a node
-	var addLinkFun = function(targetNode, value) {
+	var addLinkFun = function(link) {
 		
 		// Check this link is not already included:
 		// ! Comment this line if we want double link
-		if(! this.doeslinkExist(targetNode) ){
-			var l = {
-				source:		this,
-				target:		targetNode,
-				value:		value,
-				domLink:	null,
-			}
-			
+		if(! this.doeslinkExist(link.targetNode) ){
 			// Add the link to the node
-			this.links.push(l);
+			this.links[link.targetNode.index] = link;
 		}
 	}
+
 
 	// Fetch an abstract per ajax
 	var getAbstractFun = function(callback) {
@@ -108,11 +103,11 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	}
 
 	
+	// Checks if the link already exists
 	var doeslinkExistFun = function(target) {
-		var targets = this.links.map(function(e) { return e.target});
-		//if(this.links != []) console.log(this.links);
-		return targets.indexOf(target) != -1;
+		return (this.links[target] != undefined)
 	}
+
 	
 	// Find initial position of the node, else create it.
 	var initPosition = function(id) {
@@ -128,6 +123,8 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 		return pos;
 	
 	}
+
+
 	// Return the nodeFactory
 	return nodeFactory;
 })

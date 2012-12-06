@@ -56,16 +56,17 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 		// Hide it when unselect a node
 		radio("node:deselect").subscribe(hideselectBox);
 		
-
 		// On mouseOver, cancel animation, then when the mouse leaves, 
 		// restart the animation
 		radio("selectBox:mouseover").subscribe(cancelAnimation);
 		radio("selectBox:mouseout").subscribe(restartAnimation);
 
+		// Event for hiding the selectbox
+		radio("selectBox:hide").subscribe(hideselectBox);
+
 		// On schedule or unschedule, change image
 		radio("node:schedule").subscribe(unschedule);
 		radio("node:unschedule").subscribe(schedule);
-		
 		
 		// when we move the canvas, modify the position of the box:
 		radio("zoom:change").subscribe(moveselectBox);
@@ -121,7 +122,9 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	}
 	
 	var hideselectBox = function(selected_node, e) {
+
 		if(selected_node != null && nodeIndex == selected_node.index ){
+
 			// Register the node position:
 			node = null;
 			nodeIndex = 0;
@@ -129,13 +132,12 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 			// the select box is shown
 			isShown = false;
 	
-	
 			// Change position of and fade in
 			$("#clickwrap")
 				.stop(true, true)
 				.fadeOut();
-			}
 		}
+	}
 
 	// Sets the image on the selectBox as selected
 	var schedule = function() {

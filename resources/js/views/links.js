@@ -39,7 +39,18 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		
 		// On link selected, add little clickable	
 		radio("node:mouseout").subscribe(hoverOut);
-		 
+
+		// Hide All links
+		radio("link:hideAll").subscribe(hideAll)
+
+		// Hide link
+		radio("link:hide").subscribe(hide)
+
+		// Show link
+		radio("link:show").subscribe(show)
+
+		// Add link
+		radio("link:add").subscribe(add)
 	}
 	
 
@@ -131,8 +142,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 
 	// remove all the clickable item of the old node.
 	var deselect = function(node) {
-	if(node.links != null )
-		node.links.forEach(function(link){
+		if(node.links != null ) node.links.forEach(function(link){
 			if(link.domLink) {
 				var e = d3.event;
 				link.clickable.remove();
@@ -144,29 +154,66 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		
 	var hover = function(node) {
 		
-		node.links.forEach(function(link){
+		for (var index in node.links) {
+			var link = node.links[index];
 			if(link.domLink) {
 				var e = d3.event;
 				link.domLink.classed('hover', true);
 				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
 			}
-		});
+		}
 	}
 	
 	var hoverOut = function(node) {
 		
 		if( nodeList.selected == null || nodeList.selected.index != node.index){
 			
-			node.links.forEach(function(link){
+			for (var index in node.links) {
+				var link = node.links[index];
 				if(link.domLink) {
 					var e = d3.event;
 					// Check if note selected
 					link.domLink.classed('hover', false);
 					link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 				}
-			});
+			}
 		}
 	}
+
+
+	// Hide all links
+	var hideAll = function() {
+		graph.canvas.selectAll("line").style("display","none")
+	}
+
+	// Hide just one link
+	var hide = function(link) {
+		link.domLink.style("display","none");
+	}
+
+	// Show just one link
+	var show = function(link) {
+		link.domLink.style("display", "inline");
+	}
+
+
+	var add = function(link) {
+
+		// Throw an error if domlink already exists
+		if (link.domLink != null) throw new Error("Link with index: " + link.index + " has already been added to DOM once")
+
+		link.domLink = graph.canvas
+							.insert('svg:line', ':first-child')
+							.attr('x1', link.sourceNode.x)
+							.attr('y1', link.sourceNode.y)
+							.attr('x2', link.targetNode.x)
+							.attr('y2', link.targetNode.y)
+							.attr('source', link.sourceNode.id)
+							.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]))
+							.classed('link', true);
+	}
+
+
 
 
 
