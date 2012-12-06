@@ -16,7 +16,7 @@ define(["radio", "models/nodeList", "models/linkList", "models/search", "models/
 	//////////////////////////////////////////////
 
 	// initialize graph
-	graph.init(nodeList.getNodes(), linkList.getSimpleLinks());
+	graph.init(nodeList.getNodes(), linkList.getAllLinks());
 
 	// Add selected and current node(s) from last session
 	nodeList.broadcastScheduled();

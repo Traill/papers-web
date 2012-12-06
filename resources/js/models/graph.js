@@ -87,10 +87,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	// Instate a new graph
 	graph.set = function(nodes, links) {
 
-		// Draw the nodes and edges
-		graph.drawNodes(nodes);
-		graph.drawEdges(nodes, links);
-
 		// Set forcelayout
 		graph.setForceLayout(nodes, links)
 		
@@ -118,7 +114,11 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		//enable scrolling on the canvas:
 		graph.zoom.init(graph.canvas);
 
-		// Create a new graph
+		// Draw the nodes and edges
+		graph.drawNodes(nodes);
+		graph.drawEdges(nodes, links);
+
+		// Create a new force Layout
 		graph.set(nodes, links);
 	}
 
@@ -140,23 +140,9 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	
 	// Draq the edges at the bottom:
 	graph.drawEdges = function(nodes, links) {
-
-		links.forEach(function(link, i) {
-
-			if (link.domLink == null) {
-				var target = nodes[link.target]
-				var source = nodes[link.source]
-						
-				link.domLink = graph.canvas.insert('svg:line', ':first-child')
-					.attr('x1', source.x)
-					.attr('y1', source.y)
-					.attr('x2', target.x)
-					.attr('y2', target.y)
-					.attr('source', source.id)
-					.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]))
-					.classed('link', true);
-			}
-		});	
+		links.forEach(function (l) {
+			radio("link:add").broadcast(l);
+		});
 	}
 
 
@@ -183,11 +169,12 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	// Move all edges
 	graph.moveLinks = function(links) {
 		links.forEach(function(link) {
+			radio("link:show").broadcast(link);
 			link.domLink
-				.attr('x1', link.source.x)
-				.attr('y1', link.source.y)
-				.attr('x2', link.target.x)
-				.attr('y2', link.target.y)
+				.attr('x1', link.sourceNode.x)
+				.attr('y1', link.sourceNode.y)
+				.attr('x2', link.targetNode.x)
+				.attr('y2', link.targetNode.y)
 		});
 	}
 
@@ -200,7 +187,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		var nbTotIter = 500; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
-		graph.canvas.selectAll("line").style("display","none")
+		radio("link:hideAll").broadcast();
 		
 		// Avoid user interaction:
 		radio("selectBox:hide").broadcast();
@@ -236,7 +223,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			
 			// Move links and display them	
 			graph.moveLinks(links);
-			graph.canvas.selectAll("line").style("display","inline")
 			
 			// Enable user interaction:
 			radio("loader:hide").broadcast();
@@ -266,7 +252,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 						.friction(0.5)
 						.theta(0.8)
 						.nodes(nodes)
-						.links(links)
+						.links(links.map(function(l) { return l.simple(); }))
 						.size([config['graph_width'], config['graph_height']])
 						.linkStrength( function(d, i) { return d.value/50; });
 
@@ -291,6 +277,25 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Do stuff
 	}
 	
+
+	var distance = function(links) {
+		var score = 0;
+		var nb = 0;
+		links.forEach(function(link) {
+
+			var s = link.sourceNode;
+			var t = link.targetNode;
+
+			var l = Math.sqrt(Math.pow(s.x - t.x,2) + Math.pow(s.y - t.y,2));
+
+
+			
+
+
+		});
+
+	}
+
 	
 	// Compute how much the node have changed of
 	// position within one tick:
