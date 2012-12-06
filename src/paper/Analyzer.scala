@@ -17,7 +17,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   def initialize(path : String) : Analyzer = {
 
     // Utility function for getting a document
-    def doc(id : String, f : File) = Document.emptyDoc.setFile(f).setId(id)
+    def doc(id : String, f : File) : Document = {
+      println("Initializing " + id)
+      Document.emptyDoc.setFile(f).setId(id)
+    }
 
     // Create new Analyze object
     val ds = for ((id, f) <- getFiles(path)) yield (id -> doc(id, f))
@@ -30,7 +33,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
    */
   def parse(doc : Document) : Document = {
 
-    def toPaper(f : File) = parseFile(pdfToXML(f)) match {
+    def toPaper(f : File) = parseFile(doc, pdfToXML(f)) match {
       case Some(p)  => p
       case None     => doc.paper
     }
@@ -114,12 +117,32 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
 
   /**
-   * Output graph.js with a full graph of the data
+   * Generate a graph for use on the frontend
    */
   def graph : Graph = {
 
     // Make graph
     return Graph.make(docs)
+  }
+
+
+  /**
+   * Cluster the documents
+   */
+  def cluster(k : Int) : Analyzer = {
+
+    val clusters : Seq[(String, (Int, Int))] = Spectral(docs, k).cluster
+
+    val ds = for((id, doc) <- docs) yield {
+
+      // This is not the most functional code in the world
+      var newDoc = doc
+      for ((i, (size, group)) <- clusters if (id == i)) { newDoc = newDoc.setCluster(size -> group) } 
+
+      (id -> newDoc)
+    }
+
+    return Analyzer(ds)
   }
 
 

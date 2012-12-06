@@ -6,11 +6,12 @@ object Main {
     // create analyzer
     val A : Analyzer = Analyzer(Map.empty)
 
-    var t = A.initialize("resources/isit2012test").load.schedule("resources/isit2012test/schedule.xml").link
+    var t = A.initialize("resources/isit2012test").load.schedule("resources/isit2012test/schedule.xml").link.save
 
-    //t.graph("resources/js/data/graph.js")
+    lazy val c = Spectral(t.docs, 3)
 
   }
+
 
   // Reads in the options and converts them to a map of options
   def readOptions(s : String) : Map[String,Boolean] = {

@@ -16,19 +16,27 @@ trait XMLParser extends TitleExtractor1
                    with ReferencesExtractor1 {
 
    // The function for actually parsing a paper
-   def parseFile(f : File) : Option[Paper] = {
+   def parseFile(d : Document, f : File) : Option[Paper] = {
       val xml = getXMLObject(Source.fromFile(f))
       f.delete
 
-	  if(xml == None) None
+	  if(xml == None) {
+        println("Reading of Document " + d.id + " failed")
+        None
+      }
 	  else {
+          println("Reading of Document " + d.id + " succeeded")
 		  val cleanPaper = Document.emptyPaper
 		  val xmlDocument = XMLObjectsManager.constructXMLDocument(xml.get, "\n")
 
 		  // print
 		  //xmlDocument.get.getParagraphs.foreach((p : XMLParagraph) => println(p.getText + "\n" + p.getOptionsValue + "\n" + p.getEnumerationFormat + "\n\n\n"))
 
-		  if(xmlDocument == None) return None
+		  if(xmlDocument == None) {
+            println("Parsing of Document " + d.id + " failed")
+            return None
+          }
+          println("Parsing of Document " + d.id + " succeeded")
 		  val paper = extract(extractionOrder, (xmlDocument.get, Some(cleanPaper), xmlDocument.get.getParagraphs))
 
           return paper._2
@@ -44,14 +52,7 @@ trait XMLParser extends TitleExtractor1
 	  val text = in.mkString.replace("" + '\uffff', "").replace("" + "\u001f", "")
       // This instruction is important, otherwise the xml file can't be deleted
       in.close
-
-      try {
-    	  // The replacement of the <b> and <i> tags is important because loadString sometimes generate an exception about these tags
-    	  // Of course, some information is lost, but not really an important one
-    	  Some(XML.loadString("""</?[bi]>""".r.replaceAllIn(text, "")))
-      } catch {
-      	case _ => println("Couldn't load the XML file."); None
-      }
+      Some(XML.loadString("""</?[bi]>""".r.replaceAllIn(text, "")))
    }
 
 

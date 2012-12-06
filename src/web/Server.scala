@@ -40,11 +40,16 @@ object Data {
   private var nodes : String = ""
   private var edges : String = ""
 
+  // Json clusters ready to be served
+  private var clusters : Map[Int, String] = Map.empty
+
   // Implicit val for JSON conversion
   private implicit val formats = DefaultFormats
 
   // Must be called to initialize all data from disk
-  def init(path : String) : Unit = { A = A.initialize(path).load }
+  def init(path : String) : Unit = { 
+    A = A.initialize(path).load
+  }
 
   // Function for getting an abstract
   def getAbstract(id : String) : Option[String] = A.get(id).map(_.paper.abstr.text)
@@ -60,6 +65,17 @@ object Data {
     if (edges == "") edges = Serialization.write(A.graph.edges)
     return edges
   }
+
+  def getClusters(k : Int) : String = {
+    if (!clusters.contains(k)) {
+
+      val cs = for ((id, d) <- A.docs if d.cluster.contains(k)) yield (id -> d.cluster(k))
+      clusters += (k -> Serialization.write(cs))
+    }
+
+    return clusters(k)
+  }
+
 
   // For debugging purposes
   def printIds : Unit = for ((id, _) <- A.docs) println(id)
