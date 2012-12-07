@@ -6,8 +6,8 @@
  * TODO: Change every event to pass id and not the complete node object!
  */
 
-define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "params", "views/loader"], 
-	   function(d3, screen, radio, levenshtein, zoom, config, loader) {
+define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "params", "views/loader", "models/nodeList"], 
+	   function(d3, screen, radio, levenshtein, zoom, config, loader, nodeList) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -171,10 +171,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		links.forEach(function(link) {
 			radio("link:show").broadcast(link);
 			link.domLink
-				.attr('x1', link.sourceNode.x)
-				.attr('y1', link.sourceNode.y)
-				.attr('x2', link.targetNode.x)
-				.attr('y2', link.targetNode.y)
+				.attr('x1', nodeList.getNodeFromIndex(link.a).x)
+				.attr('y1', nodeList.getNodeFromIndex(link.a).y)
+				.attr('x2', nodeList.getNodeFromIndex(link.b).x)
+				.attr('y2', nodeList.getNodeFromIndex(link.b).y)
 		});
 	}
 
@@ -280,24 +280,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Do stuff
 	}
 	
-
-	var distance = function(links) {
-		var score = 0;
-		var nb = 0;
-		links.forEach(function(link) {
-
-			var s = link.sourceNode;
-			var t = link.targetNode;
-
-			var l = Math.sqrt(Math.pow(s.x - t.x,2) + Math.pow(s.y - t.y,2));
-
-
-			
-
-
-		});
-
-	}
 
 	
 	// Compute how much the node have changed of

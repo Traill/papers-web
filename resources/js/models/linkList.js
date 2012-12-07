@@ -1,5 +1,5 @@
-define(["ajax/edges", "radio", "util/array", "models/linkFactory"], 
-	   function(links, radio, arrrr, linkFactory) {
+define(["ajax/edges", "radio", "util/array", "models/linkFactory", "models/nodeList"], 
+	   function(links, radio, arrrr, linkFactory, nodeList) {
 
 
 	//////////////////////////////////////////////
@@ -45,23 +45,25 @@ define(["ajax/edges", "radio", "util/array", "models/linkFactory"],
 	
 	linkList.init = function() {
 
+		// Filter duplicate links
+
 		// Initialize the links
-		linkList.links = links.map(linkFactory.new);
-
-		// Link the nodes
-		linkList.linkNodes();
-
+		linkList.links = links.map(linkList.linkNodes);
 	}
 
 
-	linkList.linkNodes = function() {
+	// Create a list of links, and link each link to the respective node
+	linkList.linkNodes = function(data, index) {
+		var l = linkFactory.new(data, index)
+		var n1 = nodeList.getNodeFromID(data.source)
+		var n2 = nodeList.getNodeFromID(data.target)
 
-		// Add links to the nodes
-		linkList.links.forEach( function(link) {
-			link.sourceNode.addLink(link);
-			link.targetNode.addLink(link);
-		});
+		n1.addLink(l, n2)
+		n2.addLink(l, n1)
+		
+		return l;
 	}
+
 
 
 	//////////////////////////////////////////////

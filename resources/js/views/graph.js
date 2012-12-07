@@ -89,8 +89,9 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 		// Find all edges belinging to current node and update them
 		for (var index in node.links) {
-			var link = node.links[index];
-			if(link.domLink) link.domLink.classed("hover", false);
+			var link = node.links[index].link;
+			if (link.domLink == null) throw new Error("No link with " + index + " exists")
+			link.domLink.classed("hover", false);
 		}
 	}
 
@@ -110,6 +111,7 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 	
 	// What happends when we select a node
 	var select = function(node) {
+		console.debug(node)
 		// Get node
 		var domNode = node.domNode;
 

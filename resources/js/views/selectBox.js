@@ -16,8 +16,7 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	
 	// Reference to the node the selectbox is associative with
-	var nodeIndex = 0;
-	var node = null;
+	var selectedNode = null;
 	
 	// Is the select box visible?
 	var isShown = false;
@@ -83,23 +82,23 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 
 	// Shows the small box that selectBoxs the graph when you click on a 
 	// node
-	var showselectBox = function(_node, e) {
+	var showselectBox = function(node, e) {
 		
 		// Register the node position:
-		nodeIndex = _node.index;
-		node = _node;
+		nodeIndex = node.index;
+		selectedNode = node;
 		
 		// the select box is shown
 		isShown = true;
 		
-		pos = svg2domPosition(node.x, node.y, zoom.pos);
+		pos = svg2domPosition(selectedNode.x, selectedNode.y, zoom.pos);
 		
 		// set select image
-		if (nodeList.isScheduled(node)) { unschedule(nodeIndex); }
-		else schedule(nodeIndex);
+		if (nodeList.isScheduled(selectedNode)) { unschedule(selectedNode.index); }
+		else schedule(selectedNode.index);
 
 		// Set download link
-		$("#download a").attr("href", node.pdf).attr("target", "_blank");
+		$("#download a").attr("href", selectedNode.pdf).attr("target", "_blank");
 
 		// Change position of and fade in
 		$("#clickwrap")
@@ -114,7 +113,7 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	var moveselectBox = function(zoom, e) {
 		if(isShown){ 
-			pos = svg2domPosition(node.x, node.y, zoom.pos);
+			pos = svg2domPosition(selectedNode.x, selectedNode.y, zoom.pos);
 			$("#clickwrap").css("left",pos[0] + "px")
 						   .css("top", pos[1] + "px");
 		}
@@ -122,13 +121,12 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	}
 	
-	var hideselectBox = function(selected_node, e) {
+	var hideselectBox = function(oldSelectedNode, e) {
 
-		if(selected_node != null && nodeIndex == selected_node.index ){
+		if(selectedNode != null && selectedNode.index == oldSelectedNode.index ){
 
 			// Register the node position:
-			node = null;
-			nodeIndex = 0;
+			selectedNode = null;
 			
 			// the select box is shown
 			isShown = false;
