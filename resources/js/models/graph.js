@@ -134,7 +134,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	// Calculates the strokewidth
 	graph.strokeWidth = function(d, weight) { 
 		if (weight == undefined) weight = 0.1;
-		return Math.sqrt(d.value/100) * weight; 
+		return Math.sqrt(d.value) * weight; 
 	}
 
 	
@@ -251,13 +251,13 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Force layout to recompute position
 		graph.force = d3.layout.force()
 						.charge(-1000)
-						.linkDistance(70)
-						.friction(0.5)
+						.linkDistance(40)
+						.friction(0.8)
 						.theta(0.8)
 						.nodes(nodes)
 						.links(links.map(function(l) { return l.simple(); }))
 						.size([config['graph_width'], config['graph_height']])
-						.linkStrength( function(d, i) { return d.value/50; });
+						.linkStrength( function(d, i) { return d.value; });
 
 		// Make sure nodes move on every tick
 		graph.force.on("tick", function() {
