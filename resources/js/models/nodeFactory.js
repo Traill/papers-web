@@ -50,7 +50,6 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 					getAbstract:	getAbstractFun,
 					getDate:		getDateFun,
 					addLink:		addLinkFun,
-					doeslinkExist:  doeslinkExistFun
 				}
 
 		return merge(n,data);
@@ -65,14 +64,9 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	
 
 	// A function to add a link to a node
-	var addLinkFun = function(link) {
+	var addLinkFun = function(link, target) {
 		
-		// Check this link is not already included:
-		// ! Comment this line if we want double link
-		//if(! this.doeslinkExist(link.targetNode, link) ){
-			// Add the link to the node
-			this.links[link.index] = link;
-		//}
+		this.links[link.index] = { link: link, targetNode: target }
 	}
 
 
@@ -103,13 +97,6 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	}
 
 	
-	// Checks if the link already exists
-	var doeslinkExistFun = function(target, link) {
-		var test = (target.links[link.index]  != undefined);
-		if(test) console.log("no duplicate");
-		return test;
-	}
-
 	
 	// Find initial position of the node, else create it.
 	var initPosition = function(id) {

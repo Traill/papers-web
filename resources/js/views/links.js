@@ -69,18 +69,20 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	//////////////////////////////////////////////
 
 	var select = function(node) {
+
+		console.debug(node)
 	
 		// Find all edges belinging to current node and update them
 		for( var index in node.links ){
 			link = node.links[index];
 
-			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
+			if(!link.link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
 			
 			var e = d3.event;
 			
-			link.domLink.classed('clikable', true);
-			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
-			showClickable(node, link);
+			link.link.domLink.classed('clikable', true)
+					 		 .style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
+			showClickable(node, link.targetNode, link.link);
 
 			
 			
@@ -90,10 +92,8 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	}
 	
 	// Show a little clikable dom object to go from one node to second. 
-	var showClickable = function(source, link) {
+	var showClickable = function(source, target, link) {
 		
-		var target = (link.targetNode.id == source.id) ? link.sourceNode : link.targetNode;
-		 
 		 // Compute the direction offset:
 		 // Get the vector:
 		 var rx  = parseFloat(target.x) - parseFloat(source.x), ry  = parseFloat(target.y) - parseFloat(source.y);
@@ -134,8 +134,8 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 				var e = d3.event;
 				radio('node:deselect').broadcast(source, e);
 				
-				radio('node:select').broadcast(link.targetNode, e);
-				radio('node:setfocus').broadcast(link.targetNode, e);
+				radio('node:select').broadcast(target, e);
+				radio('node:setfocus').broadcast(target, e);
 				
 		} );
 	}
@@ -146,8 +146,8 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		 
 		 
 		 for( var index in node.links ){
+			link = node.links[index].link;
 			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
-			link = node.links[index];
 			var e = d3.event;
 			link.clickable.remove();
 			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
@@ -159,7 +159,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	var hover = function(node) {
 		
 		for (var index in node.links) {
-			var link = node.links[index];
+			var link = node.links[index].link;
 			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
 			
 			var e = d3.event;
@@ -209,11 +209,10 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 
 		link.domLink = graph.canvas
 							.insert('svg:line', ':first-child')
-							.attr('x1', link.sourceNode.x)
-							.attr('y1', link.sourceNode.y)
-							.attr('x2', link.targetNode.x)
-							.attr('y2', link.targetNode.y)
-							.attr('source', link.sourceNode.id)
+							.attr('x1', nodeList.getNodeFromIndex(link.a).x)
+							.attr('y1', nodeList.getNodeFromIndex(link.a).y)
+							.attr('x2', nodeList.getNodeFromIndex(link.b).x)
+							.attr('y2', nodeList.getNodeFromIndex(link.b).y)
 							.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]))
 							.classed('link', true);
 							

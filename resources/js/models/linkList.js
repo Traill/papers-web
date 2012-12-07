@@ -1,5 +1,5 @@
-define(["ajax/edges", "radio", "util/array", "models/linkFactory"], 
-	   function(links, radio, arrrr, linkFactory) {
+define(["ajax/edges", "radio", "util/array", "models/linkFactory", "models/nodeList"], 
+	   function(jsonLinks, radio, arrrr, linkFactory, nodeList) {
 
 
 	//////////////////////////////////////////////
@@ -45,23 +45,16 @@ define(["ajax/edges", "radio", "util/array", "models/linkFactory"],
 	
 	linkList.init = function() {
 
+		// Filter duplicate links
+		var links = filterDuplicates(jsonLinks);
+
+		// Normalize weights
+		links = normalize(links);
+
 		// Initialize the links
-		linkList.links = links.map(linkFactory.new);
-
-		// Link the nodes
-		linkList.linkNodes();
-
+		linkList.links = links.map(linkNodes);
 	}
 
-
-	linkList.linkNodes = function() {
-
-		// Add links to the nodes
-		linkList.links.forEach( function(link) {
-			link.sourceNode.addLink(link);
-			//link.targetNode.addLink(link);
-		});
-	}
 
 
 	//////////////////////////////////////////////
@@ -90,6 +83,59 @@ define(["ajax/edges", "radio", "util/array", "models/linkFactory"],
 	//           Private Functions				//
 	//											//
 	//////////////////////////////////////////////
+
+
+	// Filter all links between two nodes that are already present
+	var filterDuplicates = function(links) {
+
+		var m = {};
+
+		// Construct map
+		links.forEach(function (l) {
+			m[l.target + l.source] = l.value
+		});
+
+		// Filter all links that we
+		var ls = links.filter(function(l) {
+			if (m[l.source + l.target] != undefined) {
+				m[l.target + l.source] = undefined
+				return false;
+			}
+			else return true;
+		});
+
+		return ls;
+	}
+
+
+	// Normalize the values of the links
+	var normalize = function(links) {
+
+		var max = 0;
+
+		links.forEach(function (l) {
+			if (max < l.value) max = l.value;
+		});
+
+		return links.map(function(l) {
+			l.value = l.value / max;
+			return l;
+		});
+	}
+
+
+	// Create a list of links, and link each link to the respective node
+	var linkNodes = function(data, index) {
+		var l = linkFactory.new(data, index)
+		var n1 = nodeList.getNodeFromID(data.source)
+		var n2 = nodeList.getNodeFromID(data.target)
+
+		n1.addLink(l, n2)
+		n2.addLink(l, n1)
+		
+		return l;
+	}
+
 
 	var isVisible = function(link) {
 		return (linkList.hidden[link.index] == undefined)

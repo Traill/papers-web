@@ -39,8 +39,8 @@ define(["models/nodeList"], function(nodeList) {
 					
 					// Link properties
 					value:		data.value,
-					sourceNode:	nodeList.getNodeFromID(data.source),
-					targetNode:	nodeList.getNodeFromID(data.target),
+					a:			nodeList.getNodeFromID(data.source).index,
+					b:			nodeList.getNodeFromID(data.target).index,
 					index:		index,
 
 					// Functions
@@ -64,7 +64,7 @@ define(["models/nodeList"], function(nodeList) {
 	// containing the nodes. If I don't, it contains a link containing the
 	// indices
 	var simpleFun = function() {
-		var l = { target: this.targetNode.index, source: this.sourceNode.index, value: this.value };
+		var l = { target: this.a, source: this.b, value: this.value };
 		//console.debug(l)
 
 		return l;
