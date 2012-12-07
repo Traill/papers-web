@@ -69,10 +69,10 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 		
 		// Check this link is not already included:
 		// ! Comment this line if we want double link
-		if(! this.doeslinkExist(link.targetNode, link) ){
+		//if(! this.doeslinkExist(link.targetNode, link) ){
 			// Add the link to the node
 			this.links[link.index] = link;
-		}
+		//}
 	}
 
 

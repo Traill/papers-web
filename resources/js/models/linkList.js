@@ -59,7 +59,7 @@ define(["ajax/edges", "radio", "util/array", "models/linkFactory"],
 		// Add links to the nodes
 		linkList.links.forEach( function(link) {
 			link.sourceNode.addLink(link);
-			link.targetNode.addLink(link);
+			//link.targetNode.addLink(link);
 		});
 	}
 
