@@ -71,31 +71,32 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	var select = function(node) {
 	
 		// Find all edges belinging to current node and update them
-		node.links.forEach(function(link){
-			if(link.domLink) {
-				var e = d3.event;
-				
-				var linknode = link.domLink;
-				
-				linknode.classed('clikable', true);
-				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
-				showClickable(node, link)
+		for( var index in node.links ){
+			link = node.links[index];
 
-			}
+			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
+			
+			var e = d3.event;
+			
+			link.domLink.classed('clikable', true);
+			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
+			showClickable(node, link);
+
 			
 			
-			//link.domlink.classed("selected", true);
-		});
+		};
 		
 			
 	}
 	
 	// Show a little clikable dom object to go from one node to second. 
 	var showClickable = function(source, link) {
-	
+		
+		var target = (link.targetNode.id == source.id) ? link.sourceNode : link.targetNode;
+		 
 		 // Compute the direction offset:
 		 // Get the vector:
-		 var rx  = parseFloat(link.target.x) - parseFloat(source.x), ry  = parseFloat(link.target.y) - parseFloat(source.y);
+		 var rx  = parseFloat(target.x) - parseFloat(source.x), ry  = parseFloat(target.y) - parseFloat(source.y);
 		 		 
 		 // Normalize it:
 		 rxn = rx / Math.sqrt(rx*rx+ry*ry);
@@ -133,8 +134,8 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 				var e = d3.event;
 				radio('node:deselect').broadcast(source, e);
 				
-				radio('node:select').broadcast(link.target, e);
-				radio('node:setfocus').broadcast(link.target, e);
+				radio('node:select').broadcast(link.targetNode, e);
+				radio('node:setfocus').broadcast(link.targetNode, e);
 				
 		} );
 	}
@@ -142,25 +143,29 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 
 	// remove all the clickable item of the old node.
 	var deselect = function(node) {
-		if(node.links != null ) node.links.forEach(function(link){
-			if(link.domLink) {
-				var e = d3.event;
-				link.clickable.remove();
-				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
-				link.domLink.classed('clikable', false);
-			}
-		});
+		 
+		 
+		 for( var index in node.links ){
+			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
+			link = node.links[index];
+			var e = d3.event;
+			link.clickable.remove();
+			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
+			link.domLink.classed('clikable', false);
+			
+		};
 	}
 		
 	var hover = function(node) {
 		
 		for (var index in node.links) {
 			var link = node.links[index];
-			if(link.domLink) {
-				var e = d3.event;
-				link.domLink.classed('hover', true);
-				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
-			}
+			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
+			
+			var e = d3.event;
+			link.domLink.classed('hover', true);
+			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
+			
 		}
 	}
 	
@@ -200,7 +205,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	var add = function(link) {
 
 		// Throw an error if domlink already exists
-		if (link.domLink != null) throw new Error("Link with index: " + link.index + " has already been added to DOM once")
+		if (link.domLink != null) throw new Error("Link with index: " + link.index + " has already been added to DOM once");
 
 		link.domLink = graph.canvas
 							.insert('svg:line', ':first-child')
@@ -211,6 +216,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 							.attr('source', link.sourceNode.id)
 							.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]))
 							.classed('link', true);
+							
 	}
 
 

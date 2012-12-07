@@ -216,7 +216,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		else {
 
 			// Stats
-			console.debug("iterations left: " + iterations)
+			//console.debug("iterations left: " + iterations)
 
 			// Save node positions
 			savePositions(nodes);
@@ -226,6 +226,9 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			
 			// Enable user interaction:
 			radio("loader:hide").broadcast();
+			
+			// Broadcast the event that the graph has changed:
+			radio("graph:changed").broadcast(nodes);
 		}
 	}
 

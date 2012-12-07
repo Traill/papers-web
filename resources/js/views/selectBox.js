@@ -83,10 +83,11 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 
 	// Shows the small box that selectBoxs the graph when you click on a 
 	// node
-	var showselectBox = function(node, e) {
+	var showselectBox = function(_node, e) {
 		
 		// Register the node position:
-		nodeIndex = node.index;
+		nodeIndex = _node.index;
+		node = _node;
 		
 		// the select box is shown
 		isShown = true;

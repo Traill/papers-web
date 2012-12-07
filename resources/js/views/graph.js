@@ -90,7 +90,7 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		// Find all edges belinging to current node and update them
 		for (var index in node.links) {
 			var link = node.links[index];
-			if(link.domlink) link.domlink.classed("hover", false);
+			if(link.domLink) link.domLink.classed("hover", false);
 		}
 	}
 
@@ -104,11 +104,6 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		// Make node red
 		domNode.classed("hover", true);
 
-		// Find all edges belinging to current node and update them
-		for (var index in node.links) {
-			var link = node.links[index];
-			if(link.domlink) link.domlink.classed("hover", true);
-		}
 	}
 
 

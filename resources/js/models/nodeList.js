@@ -13,8 +13,8 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
  *	id: the unique ID of the node
  *	links: the adjacents links
  *	domNode: the object displayed in the DOM
- *	pos: position of the node in the graph
- *		 TODO: The position is found with force layout
+ *	x: position x of the node in the graph
+ *	y: position y of the node in the graph
  *
  *	---------------------------------------------------
  *	And the link has the following informations:
@@ -164,7 +164,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 
 	// Returns true if the id is selected and false if it isn't
 	nodeList.isScheduled = function(node) {
-		console.debug(node)
+		//console.debug(node)
 		return (nodeList.scheduled.indexOf(node.index) != -1);
 	}
 
