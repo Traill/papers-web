@@ -111,7 +111,6 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 	
 	// What happends when we select a node
 	var select = function(node) {
-		console.debug(node)
 		// Get node
 		var domNode = node.domNode;
 

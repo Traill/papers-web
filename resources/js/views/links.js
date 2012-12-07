@@ -69,8 +69,6 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	//////////////////////////////////////////////
 
 	var select = function(node) {
-
-		console.debug(node)
 	
 		// Find all edges belinging to current node and update them
 		for( var index in node.links ){
@@ -115,7 +113,8 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		 
 		 posx = posx+2;
 		 
-		 link.clickable = graph.canvas.insert('svg:polygon')
+		 
+		 source.links[link.index].clickable = graph.canvas.insert('svg:polygon')
 		 						.attr('points', '-33.001,24.991 0,18.687 33,24.991 -0.309,-24.991') //57.042,22.06 0,-5.159 -57.042,22.06 -57.042,5.159 0,-22.06 57.042,5.159
 		 						//.attr('height', 4)
 		 						//.attr('width', 4)
@@ -125,11 +124,11 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		 						//.attr('y', );
 		
 		
-		link.clickable.on('mouseover', function() {
-		link.clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.12+") rotate("+a+")" );}); 
-		link.clickable.on('mouseout', function() {  link.clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );});
+		source.links[link.index].clickable.on('mouseover', function() {
+		source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.12+") rotate("+a+")" );}); 
+		source.links[link.index].clickable.on('mouseout', function() {  source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );});
 		
-		link.clickable.on('click', function () { 
+		source.links[link.index].clickable.on('click', function () { 
 				
 				var e = d3.event;
 				radio('node:deselect').broadcast(source, e);
@@ -149,7 +148,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 			link = node.links[index].link;
 			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
 			var e = d3.event;
-			link.clickable.remove();
+			node.links[index].clickable.remove();
 			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 			link.domLink.classed('clikable', false);
 			

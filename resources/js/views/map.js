@@ -41,8 +41,8 @@ define(["lib/d3", "radio", "params", "models/zoom", "util/screen", "models/nodeL
 			
 			
 			map.window = map.dom.append('svg:rect')
-									.attr('x', map.initPos.x + zoom.pos.x * map.ratio )
-									.attr('y', map.initPos.y + zoom.pos.y * map.ratio)
+									.attr('x', map.mapWidth - map.initPos.x )
+									.attr('y', map.mapWidth * map.ratioWindows - map.initPos.y )
 									.attr('width', initSize.w)
 									.attr('height', initSize.h)
 									.attr('fill', 'none')
@@ -71,14 +71,14 @@ define(["lib/d3", "radio", "params", "models/zoom", "util/screen", "models/nodeL
 		var changeWindow = function() {
 		
 			// find position of the windows in the map:
-			Pos =  {"x": zoom.pos.x * map.ratio , "y": zoom.pos.y * map.ratio };
+			Pos =  {"x": zoom.pos.x * map.ratio / zoom.pos.s , "y": zoom.pos.y * map.ratio / zoom.pos.s };
 			
 			// find dimension:
 			SizeW ={"w": map.mapWidth / zoom.pos.s  ,  "h": map.mapWidth / zoom.pos.s  * map.ratioWindows };
 			
 			
-			map.window.attr('x', Pos.x + map.initPos.x*zoom.pos.s  )
-						.attr('y', Pos.y + map.initPos.y*zoom.pos.s)
+			map.window.attr('x', map.initPos.x - Pos.x  )
+						.attr('y',  map.initPos.y - Pos.y)
 						.attr('width', SizeW.w)
 						.attr('height', SizeW.h)
 						.attr('fill', 'none')
