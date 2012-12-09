@@ -114,10 +114,140 @@ case class KMeans(T : DenseMatrix[Double]) {
     groupStream.map(grouping => getMeans(grouping))
   }
 
-
-  // Find the convergent grouping
+  // Find the convergent grouping (this is really neat)
   lazy val result = groupStream.zip(groupStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+}
 
-  // fips = 0 : 1 : fips zip $ (fips tail) map $ \(i1,i2) -> i1 + i2 
 
+case class Community(docs : Map[String, Document])
+
+case class Louvain(docs : Map[String, Document]) {
+
+  // For use maybe later
+  import scala.util.Random.nextInt
+
+  // Initial clustering: Each document is its own cluster
+  lazy val init : Map[String, Community] = for ((id, d) <- docs) yield (id -> Community(Map(id -> d)))
+
+  // Total value of edges in graph
+  lazy val m = (for ((_,d) <- docs; l <- d.links) yield l.weight).sum
+
+  // Map of the total value of edges per ID
+  lazy val K : Map[String, Int] = for ((id, d) <- docs) yield (id -> d.links.map(_.weight).sum)
+
+  // A stable index assignment so each paper has an index between 0 and (a.docs.length -1)
+  lazy val indexToId : Map[Int, String] = for (((id, _), index) <- docs.zipWithIndex) yield (index -> id)
+
+  // Returns a random document. This might not be needed
+  def randDoc : Document = docs(indexToId(nextInt(docs.size)))
+
+  // Does the link lead to the same community
+  def sameAs (c : Community, cs : Map[String,Community])(l : Link) = cs(l.id) == c
+
+  // The community score
+  def Q(cs : Map[String, Community]) : Double = {
+
+    // Utility functions for calculating Q
+    val getWeight = (id : String) => (l : Link) => l.weight - K(id) * K(l.id) / (2.0 * m)
+
+    // Variables along the way
+    val norm = 1.0/(2.0 * m)
+    val weights = for ((id, c) <- cs; (id, d) <- c.docs) yield {
+                     d.links.filter(sameAs(c,cs)).map(getWeight(id)).sum
+                  }
+
+    // Return the sum of the normalized weights
+    return norm * (weights).sum
+  }
+
+  // Returns the difference in Q by adding document 'd' to community 'c'
+  def deltaQ(cs : Map[String, Community], c : Community, d : Document) : Double = {
+
+    // Sum of inner links in a community
+    val Sin = (for ((id, d) <- c.docs; l <- d.links if sameAs(c,cs)(l)) yield l.weight).sum
+
+    // Sum of all links in a community
+    val Stot = (for ((id, d) <- c.docs; l <- d.links) yield (l.weight)).sum
+
+    // Sum of edges leading from document into community
+    val kiin = (for (l <- d.links if sameAs(c,cs)(l)) yield l.weight).sum
+
+    // Return the delta Q
+    return ((Sin + 2.0 * kiin) / (2.0 * m) 
+                - math.pow((Stot + K(d.id)) / (2.0 * m), 2) 
+                - (Sin/(2.0 * m) 
+                  - math.pow(Stot/(2.0*m), 2) 
+                  - math.pow(K(d.id)/(2.0*m), 2)))
+  }
+
+  // Moves a document 'd' to cluster 'c'
+  def move(cs : Map[String, Community], c : Community, d : Document) : Map[String, Community] = { 
+
+    // Remove d from its former community and add it to it's new one
+    val r = Community(cs(d.id).docs - d.id)
+    val a = Community(c.docs + (d.id -> d))
+
+    // Make the id's of the other elements of each community point to the updated version
+    val moveNew = (for ((id, _) <- c.docs) yield (id -> a))
+    val moveOld = (for ((id, _) <- r.docs) yield (id -> r))
+
+    return cs + (d.id -> a) ++ moveNew ++ moveOld
+  }
+
+  // Do one iteration
+  def iter(cs : Map[String, Community])(n : Int) : Map[String, Community] = { 
+
+    // Get a few things straight
+    val id = indexToId(n % docs.size)
+    val d = docs(id)
+    val c = cs(id)
+
+    // Remove a document linked to by 'l' from the community where it is at
+    def remove(l : Link) : Community = Community(cs(l.id).docs - l.id)
+
+    // The gain achieved by adding the document linked by 'l' to 'c'
+    def posQ(l : Link) : Double = deltaQ(cs, c, docs(l.id))
+    // The loss achieved by removing the document linked by 'l' from its community
+    def negQ(l : Link) : Double = -1.0 * deltaQ(cs, remove(l), docs(l.id))
+
+    // list of the changes in Q for each link in d
+    val qs : Map[String, Double] = (for (l <- d.links if (!sameAs(c,cs)(l))) yield {
+                                      (l.id -> (posQ(l) + negQ(l)))
+                                   }).toMap
+
+    // The id which corresponds to the maximum change
+    val (maxId, maxVal) = if (qs == Map.empty) ("0",-1.0) else qs.maxBy(_._2)
+
+    // Move the document with the highest gain to the community if it's over 0
+    return if (maxVal > 0) move(cs, c, docs(maxId)) else cs
+  }
+
+  // Do an iteration over every node
+  def cycle(init : Map[String, Community]) : Map[String, Community] = {
+    return (0 to (docs.size - 1)).foldLeft(init)((a,b) => iter(a)(b))
+  }
+
+  // A stream where each element is the clustering after another cycle of iterations
+  val cycleStream : Stream[Map[String, Community]] = init #:: cycleStream.map(cycle(_))
+
+  
+  def cluster : Map[String, Int] = {
+
+    // The result is the first element where there are no changes in between two cycles
+    lazy val result = cycleStream.zip(cycleStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+
+    // A list of communities with their indices
+    lazy val list = result.values.toList.distinct.zipWithIndex
+    
+    // A list of id's each associated with a group
+    lazy val grouping = (for ((c, i) <- list; (id, _) <- c.docs) yield (id -> i)).toMap
+
+    return grouping
+  }
+
+
+  def print(cs : Map[String, Community]) : Unit = {
+    val csList = cs.values.toList.distinct
+    for ((Community(ds), i) <- csList.zipWithIndex) { println(i + ": \t" + ds.keys.mkString(", ")); }
+  }
 }

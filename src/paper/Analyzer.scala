@@ -127,9 +127,9 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
 
   /**
-   * Cluster the documents
+   * Cluster the documents with spectral clustering
    */
-  def cluster(k : Int) : Analyzer = {
+  def spectral(k : Int) : Analyzer = {
 
     val clusters : Seq[(String, (Int, Int))] = Spectral(docs, k).cluster
 
@@ -137,7 +137,27 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
       // This is not the most functional code in the world
       var newDoc = doc
-      for ((i, (size, group)) <- clusters if (id == i)) { newDoc = newDoc.setCluster(size -> group) } 
+      for ((i, (size, group)) <- clusters if (id == i)) { newDoc = newDoc.setCluster("spectral" + size -> group) } 
+
+      (id -> newDoc)
+    }
+
+    return Analyzer(ds)
+  }
+
+
+  /**
+   * Cluster the documents with louvain clustering
+   */
+  def louvain : Analyzer = {
+
+    val clusters : Map[String, Int] = Louvain(docs).cluster
+
+    val ds = for((id, doc) <- docs) yield {
+
+      // This is not the most functional code in the world
+      var newDoc = doc
+      for ((i, group) <- clusters if (id == i)) { newDoc = newDoc.setCluster("louvain" -> group) } 
 
       (id -> newDoc)
     }

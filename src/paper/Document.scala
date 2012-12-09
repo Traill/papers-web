@@ -9,7 +9,7 @@ case class Document(id : String,
                     file : File, 
                     links : List[Link], 
                     meta : Map[String, String],
-                    cluster : Map[Int, Int]) extends AbstractDocument
+                    cluster : Map[String, Int]) extends AbstractDocument
 
 // TODO: delete meta
 case class Paper(title:     Title, 
@@ -130,7 +130,7 @@ object Document {
     def cluster(ms : List[JField], d : Document) : Document = ms match {
       case Nil                                  => d
       case JField("jsonClass",_) :: rest        => cluster(rest, d)
-      case JField(key, JString(value)) :: rest  => cluster(rest, d.setCluster(key.toInt -> value.toInt))
+      case JField(key, JString(value)) :: rest  => cluster(rest, d.setCluster(key -> value.toInt))
       case otherwise                            => throw new Exception("Wrong cluster format: " + otherwise)
     }
 
@@ -160,7 +160,9 @@ abstract class AbstractDocument {
   val file : File
   val links : List[Link]
   val meta : Map[String, String]
-  val cluster : Map[Int, Int]
+  val cluster : Map[String, Int]
+
+  override def toString : String = "Doc ... "
 
   def setId(newId : String) : Document = Document(newId, paper, file, links, meta, cluster)
   def setPaper(p : Paper) : Document = Document(id, p, file, links, meta, cluster)
@@ -168,8 +170,8 @@ abstract class AbstractDocument {
   def setLinks(ls : List[Link]) : Document = Document(id, paper, file, ls, meta, cluster)
   def setMeta(m : (String, String)) : Document = Document(id, paper, file, links, meta + m, cluster)
   def setMeta(m : Map[String, String]) : Document = Document(id, paper, file, links, meta ++ m, cluster)
-  def setCluster(c : Map[Int,Int]) : Document = Document(id, paper, file, links, meta, c)
-  def setCluster(c : (Int,Int)) : Document = Document(id, paper, file, links, meta, cluster + c)
+  def setCluster(c : Map[String,Int]) : Document = Document(id, paper, file, links, meta, cluster ++ c)
+  def setCluster(c : (String,Int)) : Document = Document(id, paper, file, links, meta, cluster + c)
   def hasMeta(l : String) : Boolean = meta.contains(l)
 }
 

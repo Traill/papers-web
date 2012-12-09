@@ -1,4 +1,4 @@
-define(["jquery", "radio", "models/nodeList", "models/graph"], function($, radio, nodeList, graph) {
+define(["jquery", "radio", "models/nodeList", "models/linkList", "models/graph"], function($, radio, nodeList, linkList, graph) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -52,8 +52,8 @@ define(["jquery", "radio", "models/nodeList", "models/graph"], function($, radio
 		
 		$('.render .menuLink').click(function(){
 			//e.stop();
-			graph.randomizePosition();
-			graph.render();
+			graph.randomizePosition(nodeList.getNodes());
+			graph.render(nodeList.getNodes(), linkList.getLinks());
 		});
 	}
 	

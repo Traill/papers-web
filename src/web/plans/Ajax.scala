@@ -29,9 +29,7 @@ object Ajax extends unfiltered.filter.Plan {
 
     // Get cluser of size k
     case Path(Seg("ajax" :: "clusters" :: k :: Nil)) => {
-      var n = 2
-      try { n = k.toInt } catch { case _ => () }
-      val json : String = Data.getClusters(n)
+      val json : String = Data.getClusters(k)
       JsonContent ~> ResponseString(json)
     }
 

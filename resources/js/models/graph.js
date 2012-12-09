@@ -183,7 +183,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	graph.render = function(nodes, links) {
 		
 		// Define some conditions to stop:
-		var treshold = 1.5; //3.1 is ideal
+		var treshold = 2; //3.1 is ideal
 		var nbTotIter = 500; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
@@ -250,9 +250,9 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Force layout to recompute position
 		graph.force = d3.layout.force()
-						.charge(-1000)
+						.charge(-700)
 						.linkDistance(4)
-						.friction(0.6)
+						.friction(0.7)
 						.theta(0.8)
 						.nodes(nodes)
 						.links(links.map(function(l) { return l.simple(); }))

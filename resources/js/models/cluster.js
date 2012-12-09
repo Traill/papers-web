@@ -20,7 +20,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//											//
 	//////////////////////////////////////////////
 
-	cluster.groups = new Array();
+	cluster.groups = new Object();
 	
 	//////////////////////////////////////////////
 	//											//
@@ -47,18 +47,38 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		// Check if we already have the clustering for 'n'
 		if (cluster.groups[n] == undefined) {
 			$.getJSON("ajax/clusters/" + n, function(data) { 
-				cluster.groups[n] = data;
-				cluster.render(n);
+				cluster.groups[n] = toIndex(data);
+				render(n);
 			})
 		}
 
 		// If not, render straight away
-		else cluster.render(n)
+		else render(n)
+	}
+
+
+
+	//////////////////////////////////////////////
+	//											//
+	//           Private Functions				//
+	//											//
+	//////////////////////////////////////////////
+	
+
+	// Converts a map from ID to index
+	var toIndex = function(g) {
+		var m = {};
+
+		for (var id in g) {
+			m[nodeList.getIndex(id)] = g[id];
+		}
+
+		return m;
 	}
 
 
 	// Render a clustering
-	cluster.render = function(n) {
+	var render = function(n) {
 
 		// Get groups
 		g = cluster.groups[n];
@@ -67,7 +87,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		linkList.getAllLinks().forEach(function (l) {
 
 			// If the source and target are between groups, hide link
-			if (g[l.sourceNode.id] != g[l.targetNode.id]) {
+			if (g[l.a] != g[l.b]) {
 				radio("link:hide").broadcast(l);
 			}
 			
