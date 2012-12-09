@@ -1,4 +1,4 @@
-define(["jquery", "radio", "util/truncate", "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order'], function($, radio, truncate, arrrr, tabbbb) {
+define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order'], function($, radio, truncate, Pdf, nodeList, arrrr, tabbbb) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -220,11 +220,24 @@ define(["jquery", "radio", "util/truncate", "util/array", 'js!lib/jquery/jquery-
 		// Update hidden field
 		$("input[name=abstract]").attr("value",n);
 
-		// Submit form
-		document.schedule.submit(); 
+		// Get all the nodes in the schedule:
+		var scheduled = new Array();
+		
+		// BUG: we have something else coming in the schedule list:
+		
+		//scheduled.filter(function(n) { return typeof(n) != "number"; }); WHY IT IS NOT WORKING??
+		var i = 0;
+		nodeList.scheduled.forEach(function(n) {
+			if(typeof(n) == "object"){
+				scheduled[i] = n;
+				i++;
+			};
+			
+		});
 
-		// Scroll up
-		$("#downloadType").slideToggle("fast");
+		// generate the pdf
+		var t = new Pdf(scheduled);
+		t.send();
 	}
 
 
@@ -279,7 +292,7 @@ define(["jquery", "radio", "util/truncate", "util/array", 'js!lib/jquery/jquery-
 	var resize = function(w, h){
 	
 		$('#tabs').css('height', h-38);
-		$('#tabs .scrollable').css('height', h-150);
+		$('#tabs .scrollable').css('height', h-300);
 		$('#tabs-1 .scrollable').css('height', h-150);
 		$('#tabs-3 .scrollable').css('height', h-430);
 		
