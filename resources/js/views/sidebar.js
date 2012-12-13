@@ -38,7 +38,12 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 
 		// On unscheduled all nodes, we should close "are you sure?"
 		radio("sidebar:removeAll").subscribe(removeAll);
-
+		
+		// on click in the sidebar, select the node
+		radio("sidebar:click").subscribe(function (id, e) { 
+			radio("node:select").broadcast(id, e);
+		});
+		
 		// on hover in the sidebar, broadcast node:current
 		radio("sidebar:hover").subscribe(function (id, e) { 
 			radio("node:mouseover").broadcast(id, e);
@@ -156,6 +161,11 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		// Add mouseover event
 		item.mouseover(function (e) { 
 			radio("sidebar:hover").broadcast(node,e); 
+		});
+		
+		// Add click event
+		item.click(function (e) { 
+			radio("sidebar:click").broadcast(node,e); 
 		});
 		
 		// Add mouseout event

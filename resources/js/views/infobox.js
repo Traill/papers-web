@@ -34,7 +34,7 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 		radio("node:mouseover").subscribe(fadeOut);
 
 		// On Click, add the abstract etc
-		radio("node:click").subscribe(setAbstract);
+		radio("node:select").subscribe(setAbstract);
 		radio("sidebar:hover").subscribe(setAbstract);
 	}
 
