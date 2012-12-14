@@ -32,7 +32,7 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	//////////////////////////////////////////////
 	
 	nodeFactory.new = function(data, index) {
-
+		
 		var n =	{
 					// Properties
 					domNode:	null,
@@ -47,7 +47,10 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 
 					// Methods
 					// isScheduled:	isScheduledFun,
-					getAbstract:	getAbstractFun,
+					getAbstract:	function(callback) {
+												return getAbstractFun(callback, this); },
+					getCachedAbstract:	function(callback) {
+														return getCachedAbstract(this) },
 					getDate:		getDateFun,
 					addLink:		addLinkFun,
 				}
@@ -71,24 +74,28 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 
 
 	// Fetch an abstract per ajax
-	var getAbstractFun = function(callback) {
+	var getAbstractFun = function(callback, self) {
 		// If we have an abstract already, call the callback
-		if (this.abstract != undefined) callback(this.abstract)
+		if (self.abstract) return callback(self.abstract)
 
 		// If not, then fetch abstract from server
 		else {
-			$.get("ajax/abstract/" + this.id, {}, function (data) { 
+			$.get("ajax/abstract/" + self.id, {}, function (data) { 
 				if (data.success == true) {
-					this.abstract = data.abstract;
+					self.abstract = data.abstract;
 				} else {
-					this.abstract = "Not found";
+					self.abstract = "Not found";
 				}
 
-				if (callback != undefined) callback(this.abstract);
+				if (callback != undefined) return callback(self.abstract);
 			});
 		}
 	}
-
+	
+	// Return the cached abstract or null if it is not defined
+	var getCachedAbstract = function(self) {
+		return self.abstract ? self.abstract: null;
+	}
 
 	// Get date from node
 	var getDateFun = function() {

@@ -133,6 +133,9 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		nodeList.scheduled = session.loadScheduled()
 									.map(nodeList.getNodeFromIndex)
 									.filter(function(n) { return n != undefined; });
+		// Load all the abstract:
+		nodeList.scheduled.forEach(function(node) { node.getAbstract();});
+		
 		
 		/*  TODO: This loading should be done in 
 		 *	the future by looking session
