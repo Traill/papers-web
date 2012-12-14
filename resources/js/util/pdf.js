@@ -1,4 +1,4 @@
-define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params'], function($, Class, jspdf, config) {
+define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'util/dateFormat', 'util/paragraphy'], function($, Class, jspdf, config, dateFormat, paragraphy) {
 
 	var Pdf = Class.extend({
 	  
@@ -23,10 +23,12 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params'], fu
 	    this.doc.setProperties({
 	    	title: 'Title',
 	    	subject: 'This is the subject',		
-	    	author: 'Rudiger Urbanke',
+	    	author: 'Rudiger Urbanke, Jonas Arnfred',
 	    	keywords: 'papers',
 	    	creator: 'jsPDF'
 	    });
+	    console.log(this.doc.getFontList());
+	    //this.doc.setFont("helvetica"); // Ok let's do it in Helvetica ;-)
 	    
 	    /* Find all different day: */
 	    nodes.forEach(function(node) {
@@ -42,7 +44,7 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params'], fu
 	    
 	    /* Add each page for the dates*/
 	    this.day.forEach(function(day)  {
-	    	this.addDay( day );
+	    	this.addDay( day, this.doc );
 	    }, this);
 	  },
 	  
@@ -63,21 +65,28 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params'], fu
 	  
 	  },
 	  
-	  addDay: function(d) {
+	  addDay: function(d, doc) {
+	  		
+	  		this.addPage(doc);
+	  		
+	  		doc.setFontSize(22);
+	  		this.pos += 20;
+	  		doc.text(20, this.pos, d.date.format('dddd, "the" dS "of" mmmm yyyy'));
+	  		doc.setFontSize(16);
+	  	
+	  },
+	  writeSummary: function(doc, node) {
+	  		
+	  		
+	  },
+	  addPage: function(doc){
+	  		// Write logo on top
+	  		// page on bottom
+	  		// etc...
 	  		
 	  		// Reset position to default:
 	  		this.pos = 0;
-	  		this.doc.addPage();
-	  		
-	  		this.doc.setFontSize(22);
-	  		this.pos += 20	
-	  		this.doc.text(20, this.pos, d.date.toDateString());
-	  		this.doc.setFontSize(16);
-	  	
-	  },
-	  
-	  PageTemplate: function(){
-	  	
+	  		doc.addPage();
 	  },
 	  
 	  dayExist: function(newday) {
