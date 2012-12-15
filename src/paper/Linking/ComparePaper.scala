@@ -19,7 +19,7 @@ abstract trait ComparePaper {
     // Before we make the links, the init function is called
     init(ps.toList)
 
-    val links = for (((p, i), id) <- ps.zipWithIndex.zip(ids)) yield {
+    val links = (for (((p, i), id) <- ps.zipWithIndex.zip(ids)) yield {
 
       // Compare to every other paper
       val weights = for (((op, oi), oid) <- ps.zipWithIndex.zip(ids);
@@ -28,8 +28,9 @@ abstract trait ComparePaper {
 
       // Return a map from id to links
       (id -> weights.toList)
-    }
 
-    return links.toMap
+    }).toMap
+
+    return links
   }
 }
