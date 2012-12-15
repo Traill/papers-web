@@ -92,14 +92,6 @@ trait Community {
 case class CommunityLink(source : Id, target : Id, weight : Int)
 
 
-// An empty community
-case object CommunityEmpty extends Community {
-  val links : List[CommunityLink] = List.empty
-  val idMap : Map[Id, Index] = Map.empty
-  val cs : Map[Index, Community] = Map.empty
-}
-
-
 case class Id(n : Int)
 case class Index(n : Int)
 
@@ -109,7 +101,7 @@ case class CommunityDoc(id : Id, links : List[CommunityLink]) extends Community 
   val idMap : Map[Id, Index] = Map(id -> Index(id.n))
   val cs : Map[Index, Community] = Map(Index(id.n) -> this)
   override def remove(id : Id) : Community = {
-    if (idMap.contains(id)) return CommunityEmpty
+    if (idMap.contains(id)) return CommunityMap(Map.empty)
     else throw new Exception("can't remove id from communityDoc with id: " + id.n)
   }
 }
@@ -120,7 +112,6 @@ case class CommunityDoc(id : Id, links : List[CommunityLink]) extends Community 
 case class CommunityMap(cs : Map[Index, Community]) extends Community {
   val links : List[CommunityLink] = (for ((i, c) <- cs; l <- c.links) yield l).toList
   val idMap = for ((index, c) <- cs; (id, _) <- c.idMap) yield (id -> index)
-
 
   // Move a community 'a' to community where 'c' is present
   def move(a_id : Id, c_id : Id) : CommunityMap = {
@@ -149,24 +140,15 @@ case class CommunityMap(cs : Map[Index, Community]) extends Community {
     val penalty = parent.deltaQ(c, K)
 
     // List of gains from each of c's links in case we added c to their cluster
-    //val qs = c.outerLinks.map(l => (l.target -> get(l.target).deltaQ(K, c))).toMap
-    val oqs = c.outerLinks.map(l => move(id,l.target))
-    val newQs = oqs.map(_.Q - Q)
-
     val qs = c.outerLinks.map(l => (l.target -> (get(l.target).deltaQ(c, K) - penalty)))
 
-    //println(newQs.zip(qs.map(_._2)).map(q => q._1 - q._2).sum)
-
+    // Getting maximal value
     val (maxId, maxVal) = qs.maxBy(_._2)
-
-    // The id which corresponds to the maximum change
-    //val (maxId, maxVal) = if (qs == Map.empty) (Id(0),-1.0) else qs.maxBy(_._2.Q)
-    //val result = (this :: qs).maxBy(_.Q)
 
     // Move the document with the highest gain to the community if it's over 0
     val result = if (maxVal > 0.0000001) move(id, maxId) else this
-    //println(maxVal - penalty)
-    //println(result.Q - Q)
+
+    // Guarantee that if there's an error in here somewhere, we will fail
     if (result.Q < Q) throw new Exception("Q is lower in new iteration")
     return result
   }
@@ -179,7 +161,7 @@ case class CommunityMap(cs : Map[Index, Community]) extends Community {
 
 
   override def toString : String = {
-    (for ((i, c) <- cs if c != CommunityEmpty) yield i.toString + ":\t" + c.idMap.keys.mkString(", ")).mkString("\n")
+    (for ((i, c) <- cs if c.cs.size > 0) yield i.toString + ":\t" + c.idMap.keys.mkString(", ")).mkString("\n")
   }
 }
 
