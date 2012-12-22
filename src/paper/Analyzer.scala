@@ -4,10 +4,11 @@ import java.io.File
 import scala.io.Source
 
 
-// Com
-object Analyzer {
+// Compagnion object
+object Analyzer extends GetFiles {
 
   var path : String = ""
+  val resourceDir : String = "resources"
 
   def initialize(p : String) : Analyzer = {
 
@@ -15,7 +16,7 @@ object Analyzer {
     path = p
 
     // Compile full path
-    val fullPath = "resources" + File.separator + path
+    val fullPath = resourceDir + File.separator + path
 
     // Utility function for getting a document
     def doc(id : String, f : File) : Document = {
@@ -38,6 +39,18 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
                                                      with XMLScheduleParser {
 
   /**
+   * Parse all documents
+   */
+  def parse : Analyzer = { 
+
+    val ds = for ((id, d) <- docs; n = parse(d)
+                        if (n.paper != Document.emptyPaper)) yield (id -> n)
+
+    return Analyzer(ds)
+  }
+
+
+  /**
    * Parse a paper
    */
   def parse(doc : Document) : Document = {
@@ -49,18 +62,6 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
     // Parse the paper linked to in the document
     doc.setPaper(toPaper(doc.file))
-  }
-
-
-  /**
-   * Parse all documents
-   */
-  def parse : Analyzer = { 
-
-    val ds = for ((id, d) <- docs; n = parse(d)
-                        if (n.paper != Document.emptyPaper)) yield (id -> n)
-
-    return Analyzer(ds)
   }
 
 
@@ -83,9 +84,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Adds data from a schedule to all papers
    */
-  def schedule(path : String) : Analyzer = {
+  def schedule(file : String) : Analyzer = {
 
     // get map of values
+    val path = Analyzer.resourceDir + File.separator + Analyzer.path + File.separator + file
     val s = getXMLSchedule(path)
 
     // For each paper add these values to the corresponding paper
@@ -101,7 +103,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   def save : Analyzer = {
 
     // Save all documents
-    for ((id, d) <- docs) Cache.save(id, d)
+    for ((_, d) <- docs) Cache.save(d, Analyzer.path)
 
     return this
   }
@@ -113,7 +115,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   def load : Analyzer = {
 
     // Load all documents
-    val docOption = for ((id, _) <- docs) yield (id -> Cache.load(id))
+    val docOption = for ((id, _) <- docs) yield (id -> Cache.load(id, Analyzer.path))
 
     // Parse all those that weren't found
     val ds = for ((id, d) <- docs) yield { 

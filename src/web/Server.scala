@@ -17,7 +17,7 @@ object Main {
   def main(args : Array[String]): Unit= {
 
     // Initialize data
-    Data.init("resources/isit2012test")
+    Data.init("isit2012test")
 
     // Fetch the server
     val srv = Server.init
@@ -48,7 +48,7 @@ object Data {
 
   // Must be called to initialize all data from disk
   def init(path : String) : Unit = { 
-    A = A.initialize(path).load
+    A = Analyzer.initialize(path).load
   }
 
   // Function for getting an abstract
@@ -82,7 +82,7 @@ object Data {
 
   // Changes the path of the analyzer
   // We should check if the path is valid. Also this shouldn't be too exposed
-  def setPath(path : String) : Unit = A.initialize(path).load
+  //def setPath(path : String) : Unit = Analyzer.initialize(path).load
 }
 
 

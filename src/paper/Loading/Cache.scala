@@ -7,16 +7,17 @@ import scala.io.Source
 object Cache {
 
   // Constants
-  val dir = "cache" + File.separator
+  val basedir = "cache" + File.separator
   val suffix = ".cache"
 
 
   // Save a document to cache
-  def save(id : String, doc : Document) : String = {
+  def save(doc : Document, path : String) : String = {
     val json = Document.toJSON(doc)
-    val filename = dir + id + suffix
+    val dir = basedir + path + File.separator
+    val filename = dir + doc.id + suffix
 
-    // Make sure directory exists
+    // Make sure cache directory exists
     val d = new File(dir)
     if (!d.exists) d.mkdirs
 
@@ -36,10 +37,10 @@ object Cache {
 
 
   // Given an id a paper will be loaded
-  def load(id : String) : Option[Document] = {
+  def load(id : String, path : String) : Option[Document] = {
 
     // Get file handle and check that it exists
-    val filename = dir + id + suffix
+    val filename = basedir + path + File.separator + id + suffix
     val file = new File(filename)
     if (!file.exists) return None
 
@@ -51,9 +52,8 @@ object Cache {
 
 
   // remove cached file of paper or id
-  def clean(id : Int) : Unit = {
-    
-    val filename = dir + id + suffix
+  def clean(id : Int, path : String) : Unit = {
+    val filename = basedir + path + File.separator + id + suffix
     val file = new File(filename)
     if (file.exists) file.delete
   }
