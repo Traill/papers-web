@@ -89,13 +89,16 @@ object Data {
 
 object Server {
 
+  import util.Properties
+
   def init : unfiltered.jetty.Http = {
 
     // Where files for the web server are located
     val resourceDir = new java.io.File("resources/")
 
     // The default port used for testing. This will have to change for deployment
-    val testPort = 8080
+    val testPort = Properties.envOrElse("PORT", "8080").toInt
+    println("starting on port: " + testPort)
 
     // Initialize Server
     val srv = unfiltered.jetty.Http(testPort).resources(resourceDir.toURI.toURL)
