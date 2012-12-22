@@ -124,6 +124,8 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 			nodeList.indexMap[n.id] = n.index; 
 		});
 
+		console.debug(nodeList.indexMap)
+
 
 
 		

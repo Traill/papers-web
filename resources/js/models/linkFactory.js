@@ -32,6 +32,7 @@ define(["models/nodeList"], function(nodeList) {
 	//////////////////////////////////////////////
 	
 	linkFactory.new = function(data, index) {
+		console.debug(data)
 
 		var l =	{
 					// Dom Properties

@@ -114,10 +114,6 @@ case class KMeans(T : DenseMatrix[Double]) {
     groupStream.map(grouping => getMeans(grouping))
   }
 
-
-  // Find the convergent grouping
+  // Find the convergent grouping (this is really neat)
   lazy val result = groupStream.zip(groupStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
-
-  // fips = 0 : 1 : fips zip $ (fips tail) map $ \(i1,i2) -> i1 + i2 
-
 }

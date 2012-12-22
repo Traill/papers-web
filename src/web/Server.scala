@@ -41,7 +41,7 @@ object Data {
   private var edges : String = ""
 
   // Json clusters ready to be served
-  private var clusters : Map[Int, String] = Map.empty
+  private var clusters : Map[String, String] = Map.empty
 
   // Implicit val for JSON conversion
   private implicit val formats = DefaultFormats
@@ -66,7 +66,7 @@ object Data {
     return edges
   }
 
-  def getClusters(k : Int) : String = {
+  def getClusters(k : String) : String = {
     if (!clusters.contains(k)) {
 
       val cs = for ((id, d) <- A.docs if d.cluster.contains(k)) yield (id -> d.cluster(k))
