@@ -3,18 +3,19 @@ package paper
 import java.io.File
 import scala.io.Source
 
-case class Analyzer(docs : Map[String, Document]) extends GetFiles
-                                                     with PDFLoader
-                                                     with XMLParser 
-                                                     with ExtendPaper
-                                                     with BagOfWords
-                                                     with XMLScheduleParser {
 
+// Com
+object Analyzer {
 
-  /**
-   * Set directory where the pdf's are located
-   */
-  def initialize(path : String) : Analyzer = {
+  var path : String = ""
+
+  def initialize(p : String) : Analyzer = {
+
+    // Set the path of the analyzer
+    path = p
+
+    // Compile full path
+    val fullPath = "resources" + File.separator + path
 
     // Utility function for getting a document
     def doc(id : String, f : File) : Document = {
@@ -23,10 +24,18 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
     }
 
     // Create new Analyze object
-    val ds = for ((id, f) <- getFiles(path)) yield (id -> doc(id, f))
+    val ds = for ((id, f) <- getFiles(fullPath)) yield (id -> doc(id, f))
     return Analyzer(ds)
   }
+}
 
+
+case class Analyzer(docs : Map[String, Document]) extends GetFiles
+                                                     with PDFLoader
+                                                     with XMLParser 
+                                                     with ExtendPaper
+                                                     with BagOfWords
+                                                     with XMLScheduleParser {
 
   /**
    * Parse a paper
