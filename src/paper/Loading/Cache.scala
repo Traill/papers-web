@@ -8,14 +8,14 @@ object Cache {
 
   // Constants
   val basedir = "cache" + File.separator
-  val suffix = ".cache"
+  val suffix = "cache"
 
 
   // Save a document to cache
   def save(doc : Document, path : String) : String = {
     val json = Document.toJSON(doc)
     val dir = basedir + path + File.separator
-    val filename = dir + doc.id + suffix
+    val filename = dir + doc.id + "." + suffix
 
     // Make sure cache directory exists
     val d = new File(dir)
@@ -40,7 +40,7 @@ object Cache {
   def load(id : String, path : String) : Option[Document] = {
 
     // Get file handle and check that it exists
-    val filename = basedir + path + File.separator + id + suffix
+    val filename = basedir + path + File.separator + id + "." + suffix
     val file = new File(filename)
     if (!file.exists) return None
 
@@ -53,7 +53,7 @@ object Cache {
 
   // remove cached file of paper or id
   def clean(id : Int, path : String) : Unit = {
-    val filename = basedir + path + File.separator + id + suffix
+    val filename = basedir + path + File.separator + id + "." + suffix
     val file = new File(filename)
     if (file.exists) file.delete
   }

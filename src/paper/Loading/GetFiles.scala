@@ -6,7 +6,7 @@ trait GetFiles {
 
 
   // returns a list of files
-  def getFiles(location : String) : Map[String, File] = {
+  def getFiles(location : String, suffix : String) : Map[String, File] = {
 
     // Get file handle of original file or directory
     val orig = new File(location)
@@ -18,12 +18,11 @@ trait GetFiles {
     if (!orig.isDirectory) return Map.empty + (baseName(orig) -> orig)
 
     // In case it's a directory, let the file array contain all the files of the directory (regex utilization)
-    val files = orig.listFiles.toList.filter(_.getName.split('.').last == "pdf")
+    val files = orig.listFiles.toList.filter(_.getName.split('.').last == suffix)
 
     // Convert to map
     return files.map(baseName(_)).zip(files).toMap
   }
-
 
   // Returns the basename of a file, i.e. the filename without the file extension
   private def baseName(f : File) : String = f.getName.split('.').head

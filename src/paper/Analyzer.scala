@@ -9,7 +9,9 @@ object Analyzer extends GetFiles {
 
   var path : String = ""
   val resourceDir : String = "resources"
+  val cacheDir : String = Cache.basedir
 
+  // Initialize files from directory
   def initialize(p : String) : Analyzer = {
 
     // Set the path of the analyzer
@@ -18,6 +20,28 @@ object Analyzer extends GetFiles {
     // Compile full path
     val fullPath = resourceDir + File.separator + path
 
+    // Return analyzer
+    getAnalyzer(fullPath, "pdf")
+  }
+
+  // Load files from cache
+  def fromCache(p : String) : Analyzer = {
+
+    // Set the path of the analyzer
+    path = p
+
+    // Compile full path
+    val fullPath = cacheDir + File.separator + path
+
+    // Return analyzer
+    getAnalyzer(fullPath, Cache.suffix)
+
+  }
+
+
+  // Function for initializing the analyzer
+  private def getAnalyzer(fullPath : String, suffix : String) : Analyzer = {
+
     // Utility function for getting a document
     def doc(id : String, f : File) : Document = {
       println("Initializing " + id)
@@ -25,9 +49,10 @@ object Analyzer extends GetFiles {
     }
 
     // Create new Analyze object
-    val ds = for ((id, f) <- getFiles(fullPath)) yield (id -> doc(id, f))
+    val ds = for ((id, f) <- getFiles(fullPath, suffix)) yield (id -> doc(id, f))
     return Analyzer(ds)
   }
+
 }
 
 

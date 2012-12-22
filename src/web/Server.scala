@@ -48,7 +48,7 @@ object Data {
 
   // Must be called to initialize all data from disk
   def init(path : String) : Unit = { 
-    A = Analyzer.initialize(path).load
+    A = Analyzer.fromCache(path).load
   }
 
   // Function for getting an abstract
