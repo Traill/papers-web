@@ -1,22 +1,15 @@
 package paper
 
+// Object for transforming a list of documents to a communityMap
 object Louvain {
 
-  // The first value
-  var init : CommunityMap = CommunityMap(Map.empty)
-
-  def init(docs : Map[String, Document]) : this.type = {
+  def init(docs : Map[String, Document]) : Louvain = {
     val idMap : Map[String, Int] = for (((id, _), i) <- docs.zipWithIndex) yield (id -> i)
     def link(id : String, l : Link) = CommunityLink(Id(idMap(id)), Id(idMap(l.id)), l.weight)
-    def doc(d : Document) = CommunityDoc(Id(idMap(d.id)), d.links.overN(10).map(link(d.id,_)))
+    def doc(d : Document) = CommunityDoc(Id(idMap(d.id)), d.links.overN(20).map(link(d.id,_)))
     val cs : Map[Index, CommunityDoc] = for ((id, d) <- docs) yield (Index(idMap(id)) -> doc(d))
-    init = CommunityMap(cs)
-    return this
+    Louvain(CommunityMap(cs))
   }
-
-  // A stream where each element is the clustering after another cycle of iterations
-  lazy val cycleStream : Stream[CommunityMap] = init #:: cycleStream.map(_.cycle)
-  lazy val cluster : CommunityMap = cycleStream.zip(cycleStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
 
   implicit def linksToLinks(links : List[Link]) : Links = Links(links)
   case class Links(links : List[Link]) {
@@ -27,6 +20,16 @@ object Louvain {
     // Take only links over a certain treshold
     def overN(n : Int) : List[Link] = links.filter(_.weight > n)
   }
+}
+
+
+// Case class for clustering
+case class Louvain(community : CommunityMap) {
+
+  // A stream where each element is the clustering after another cycle of iterations
+  lazy val cycleStream : Stream[CommunityMap] = community #:: cycleStream.map(_.cycle)
+  lazy val cluster : CommunityMap = cycleStream.zip(cycleStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+
 }
 
 
@@ -62,17 +65,6 @@ trait Community {
     val weight = for (l <- c.links if idMap.contains(l.target)) yield {
       l.weight - get(l.target).K * c.K / (2.0 * m)
     }
-    2.0/m * weight.sum
-  }
-
-  // Calculate the delta of removing c from this community
-  def deltaPrintQ(c : Community, m : Double) : Double = {
-    val weight = for (l <- c.links if idMap.contains(l.target)) yield {
-      //println("\tWeight:\t" + l.weight)
-      //println("\tK * K:\t" + get(l.target).K * c.K)
-      l.weight - get(l.target).K * c.K / (2.0 * m)
-    }
-    println(weight)
     2.0/m * weight.sum
   }
 
@@ -116,10 +108,13 @@ case class CommunityMap(cs : Map[Index, Community]) extends Community {
   // Move a community 'a' to community where 'c' is present
   def move(a_id : Id, c_id : Id) : CommunityMap = {
 
-    // fetch a, b and c
+    // fetch a and c
     val oldParent = get(a_id)
     val newParent = get(c_id)
     val a = oldParent.get(a_id)
+
+    // Check if a is in c
+    if (oldParent == newParent) return this
 
     // Move community around
     val newB = oldParent.remove(a_id)
@@ -143,10 +138,10 @@ case class CommunityMap(cs : Map[Index, Community]) extends Community {
     val qs = c.outerLinks.map(l => (l.target -> (get(l.target).deltaQ(c, K) - penalty)))
 
     // Getting maximal value
-    val (maxId, maxVal) = qs.maxBy(_._2)
+    val (maxId, maxVal) = ((id -> 0.0) :: qs).maxBy(_._2)
 
     // Move the document with the highest gain to the community if it's over 0
-    val result = if (maxVal > 0.0000001) move(id, maxId) else this
+    val result = move(id, maxId)
 
     // Guarantee that if there's an error in here somewhere, we will fail
     if (result.Q < Q) throw new Exception("Q is lower in new iteration")
@@ -163,6 +158,22 @@ case class CommunityMap(cs : Map[Index, Community]) extends Community {
   override def toString : String = {
     (for ((i, c) <- cs if c.cs.size > 0) yield i.toString + ":\t" + c.idMap.keys.mkString(", ")).mkString("\n")
   }
+
+
+  // Reindex a particular community in case we want to cluster it further
+  def rebase : CommunityMap = {
+    val map = for (((i, c), index) <- cs.zipWithIndex) yield (i, Index(index))
+    val c = CommunityMap(for ((i, c) <- cs if (c.cs.size > 0)) yield (i -> c))
+    c.rebase(map)
+  }
+
+  def rebase(indexMap : Map[Index, Index]) : CommunityMap = {
+    CommunityMap(for ((i, c) <- cs) yield c match {
+      case (c : CommunityDoc) => (indexMap(i) -> c)
+      case (c : CommunityMap) => (indexMap(i) -> c.rebase(indexMap))
+    })
+  }
+
 }
 
 
