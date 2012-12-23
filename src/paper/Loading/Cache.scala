@@ -45,7 +45,7 @@ object Cache {
     if (!file.exists) return None
 
     // Now parse json
-    val content : String = Source.fromFile(file).mkString
+    val content : String = Source.fromFile(file, "UTF-8").mkString
     val json = parse(content)
     Some(Document.fromJSON(json))
   }
