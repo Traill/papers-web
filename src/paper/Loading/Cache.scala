@@ -1,7 +1,7 @@
 package paper
 
 import net.liftweb.json._
-import java.io.File
+import java.io._
 import scala.io.Source
 
 object Cache {
