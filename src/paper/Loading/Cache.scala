@@ -1,7 +1,7 @@
 package paper
 
 import net.liftweb.json._
-import java.io._
+import java.io.File
 import scala.io.Source
 
 object Cache {
@@ -45,7 +45,7 @@ object Cache {
     if (!file.exists) return None
 
     // Now parse json
-    val content : String = Source.fromFile(file).getLines.mkString
+    val content : String = Source.fromFile(file).mkString
     val json = parse(content)
     Some(Document.fromJSON(json))
   }
