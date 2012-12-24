@@ -184,7 +184,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		
 		// Define some conditions to stop:
 		var treshold = 2; //3.1 is ideal
-		var nbTotIter = 500; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
 		radio("link:hideAll").broadcast();
@@ -205,6 +205,8 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.force.start();
 		graph.force.tick()
 		graph.force.stop();
+
+		if (iterations % 20 == 0) console.debug(distance(nodes))
 		
 		// Recourse
 		if (nbChanges(nodes) > treshold && iterations > 0){ 
@@ -250,7 +252,9 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Force layout to recompute position
 		graph.force = d3.layout.force()
-						.charge(-700)
+						//.charge(-150) // With this we need to make links bigger
+						//.linkDistance(2)
+						.charge(-50)
 						.linkDistance(4)
 						.friction(0.7)
 						.theta(0.8)
@@ -281,6 +285,24 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	}
 	
 
+	// The collective distance between nodes
+    var distance = function(nodes) {
+		var tot = 0
+
+		var distSq = function(n1, n2) { 
+			return Math.pow(n1.x - n2.x, 2) + Math.pow(n1.y - n2.y,2); 
+		}
+
+		nodes.forEach(function(node, i) {
+			for (var key in node.links) {
+				var l = node.links[key]
+				tot += Math.sqrt(distSq(node, l.targetNode))
+				l.targetNode
+			}
+		});
+
+		return tot;
+	}
 	
 	// Compute how much the node have changed of
 	// position within one tick:
