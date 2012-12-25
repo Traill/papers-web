@@ -10,6 +10,28 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 	//////////////////////////////////////////////
 	//											//
+	//               Properties					//
+	//											//
+	//////////////////////////////////////////////
+
+	// The indices of the currently selected filters
+	search.currentIndices = [];
+
+	// List of all filters currently added
+	search.filters = [];
+
+	// List of all data instances (in the same order as the filters
+	search.data = [];
+
+	// The currently active filter
+	search.current = filter.new();
+
+	// The currently active results
+	search.results = [];
+
+
+	//////////////////////////////////////////////
+	//											//
 	//                Events					//
 	//											//
 	//////////////////////////////////////////////
@@ -17,7 +39,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 	search.events = function() {
 
 		// Listen for adding a new filter
-		radio("filter:add").subscribe(add);
+		radio("filter:add").subscribe(search.add);
 
 		// Listen for selecting only one filter
 		radio("filter:selectOnly").subscribe(selectOnly);
@@ -42,28 +64,6 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 	//////////////////////////////////////////////
 	//											//
-	//               Properties					//
-	//											//
-	//////////////////////////////////////////////
-
-	// The indices of the currently selected filters
-	search.currentIndices = [];
-
-	// List of all filters currently added
-	search.filters = [];
-
-	// List of all data instances (in the same order as the filters
-	search.data = [];
-
-	// The currently active filter
-	search.current = filter.new();
-
-	// The currently active results
-	search.results = [];
-
-
-	//////////////////////////////////////////////
-	//											//
 	//            Public Functions				//
 	//											//
 	//////////////////////////////////////////////
@@ -77,15 +77,8 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 	// Returns the last searchable date
 	search.getMaxDate = function() { return nodeList.getStats().maxDate; }
 
-
-	//////////////////////////////////////////////
-	//											//
-	//            Private Functions				//
-	//											//
-	//////////////////////////////////////////////
-	
 	// Adds a new filter
-	var add = function(data) {
+	search.add = function(data) {
 
 		// Create new filter and fill in the appropriate details
 		var f = filter.none();
@@ -116,6 +109,13 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		radio("filter:selectOnly").broadcast(index);
 		// TODO
 	}
+
+	//////////////////////////////////////////////
+	//											//
+	//            Private Functions				//
+	//											//
+	//////////////////////////////////////////////
+	
 
 
 	// Selects a filter and deselects all currently selected filters

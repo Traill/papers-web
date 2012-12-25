@@ -52,7 +52,7 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 					getCachedAbstract:	function(callback) {
 														return getCachedAbstract(this) },
 					getDate:		getDateFun,
-					addLink:		addLinkFun,
+					addLink:		addLinkFun
 				}
 
 		return merge(n,data);

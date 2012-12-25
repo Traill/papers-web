@@ -230,7 +230,7 @@ define(["util/merge", "util/array", "util/levenshtein", "util/curry"],
 
 		// Get max levenshtein distance and search term etc
 		var dist		= scope._options.levenshtein; // default is set to 1
-		var haystack	= (node[context]).toLowerCase().split(" ");
+		var haystack	= (node[context]).toString().toLowerCase().split(" ");
 		var needles		= terms.toLowerCase().split(" ");
 
 		// Figure out the length of the longest term

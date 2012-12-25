@@ -184,7 +184,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		
 		// Define some conditions to stop:
 		var treshold = 2; //3.1 is ideal
-		var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = 100; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
 		radio("link:hideAll").broadcast();
@@ -254,7 +254,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.force = d3.layout.force()
 						//.charge(-150) // With this we need to make links bigger
 						//.linkDistance(2)
-						.charge(-50)
+						.charge(-500)
 						.linkDistance(4)
 						.friction(0.7)
 						.theta(0.8)

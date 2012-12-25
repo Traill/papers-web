@@ -105,6 +105,8 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 
 	// Add a filter to the list
 	var publish = function(filter, index) {
+
+		console.debug(filter)
 		// clone filter template
 		var f = $("#filterItemTemplate").clone()
 
@@ -116,7 +118,7 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 		f.attr("id","filter" + index);
 
 		// Make clickable
-		f.click(function() { radio("filter:selectToggle").broadcast(index); return false; });
+		f.find("span.listItemLabel").click(function() { radio("filter:selectToggle").broadcast(index); return false; });
 
 		// Make removable
 		f.find("a.listItemRemove").click(function() { radio("filter:remove").broadcast(index); return false; });
@@ -193,13 +195,14 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 
 		// Context
 		if (filter.context.length > 0 && filter.keywords) {
+			// Make sure to end enumeration of contexts with 'and'
 			if (filter.context.length > 1) {
 				var last = filter.context[filter.context.length - 1];
-				filter.context.pop();
-				context = " in <span class=\"italicText\">" + filter.context.join(", ") + "</span> and <span class=\"italicText\">" + last + "</span>";
+				var c = filter.context.slice(0,-1);
+				context = " in <span class=\"italicText\">" + c.join(", ") + "</span> and <span class=\"italicText\">" + last + "</span>";
 			}
 
-			else context = filter.context[0];
+			else context = " in <span class=\"italicText\">" + filter.context[0] + "</span>";
 		}
 
 		if (filter.location || (filter.from && filter.to)) {

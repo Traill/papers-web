@@ -304,7 +304,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		$('#tabs').css('height', h-38);
 		$('#tabs .scrollable').css('height', h-300);
 		$('#tabs-1 .scrollable').css('height', h-150);
-		$('#tabs-3 .scrollable').css('height', h-430);
+		//$('#tabs-3 .scrollable').css('height', h-430);
 		
 	}
 	// Export the controller
