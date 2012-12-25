@@ -1,5 +1,8 @@
 define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'util/dateFormat', 'util/paragraphy'], function($, Class, jspdf, config, dateFormat, paragraphy) {
 
+	var MAX_PAGE_POS = 275; // end of page is at 295 for a font of 10
+	var yoffset = 90;
+
 	var Pdf = Class.extend({
 	  
 	  ////////////////////////////////////////////////
@@ -18,6 +21,8 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'ut
 	    this.doc = new jsPDF();
 	    
 	    this.doc.pos = 0;
+
+	    this.doc.nb_page = 1;
 	    
 	    /* Add metadata: */
 	    this.doc.setProperties({
@@ -30,6 +35,9 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'ut
 
 	    //this.doc.setFont("helvetica"); // Ok let's do it in Helvetica ;-)
 	    
+	    // create front page:
+	    this.makeFrontPage(this.doc);
+
 	    /* Find all different day: */
 	    nodes.forEach(function(node) {
 	    	var d = node.getDate();
@@ -55,17 +63,41 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'ut
 	 
 	 
 	  send: function() {
+	  	// write the last page number:
+	  	this.writePageNb(this.doc);
 	  	// Output on a new page URL:
 	  	this.doc.output('dataurl');
 	  },
 	  
-	  makeFrontPage: function() {
-	  
-	  
+	  makeFrontPage: function(doc) {
+	  	// Write trailhead logo:
+		doc.setFontSize(16);
+	  	doc.setFontType("normal");
+	  	doc.text(20, 30, "TRAIL" );
+	  	doc.setFontType("bold");
+	  	doc.text(36, 30, "HEAD" );
+
+	  	// Put the name of the conference in big:
+	  	doc.setFontSize(24);
+	  	doc.setFontType("normal");
+	  	doc.text(yoffset, 100, ("The conference name").toUpperCase() ); 
+
+	  	doc.setFontSize(14);
+	  	doc.text(yoffset, 107, "The conference place" );
+
+		doc.setFontSize(11);
+		doc.text(yoffset, 115, "Your program for the conference name.");
+
+	  	// write the day of generation:
+	  	var now = new Date();
+	  	doc.setFontSize(10);
+	  	doc.text(yoffset-50, 97,  "GENERATED ON THE");
+	  	doc.setFontType("bold");
+	  	doc.text(yoffset-58, 100, now.format('dS "of" mmmm yyyy').toUpperCase());
 	  },
-	  
-	  addDay: function(d, doc) {
-	  		
+	  beginDay: function(d, doc){
+	
+
 	  		this.addPage(doc);
 	  		
 	  		doc.setFontSize(22);
@@ -74,50 +106,71 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'ut
 	  	    doc.setFontType("bold");
 	  		doc.text(20, doc.pos, d.date.format('dddd, "the" dS "of" mmmm yyyy').toUpperCase() );
 			
-			//reset
-			doc.setFontSize(12);
-			doc.setFontType("normal");
-			
 			doc.pos += 10;
+	  },
+	  addDay: function(d, doc) {
+	  		
+	  		this.beginDay(d, doc);
 			
 	  		d.nodes.forEach(function(node) {
 	  			
-	  			this.writeSummary(doc, node);
+	  			if( doc.pos > MAX_PAGE_POS-20 ) this.beginDay(d, doc);
+		  		doc.pos += 8;
+		  		
+		  		// Write the time:
+		  		this.writeTime(node, doc);
+		  		
+		  		//Write the room
+		  		this.writeRoom(node, doc);
+		  		
+		  		// Write the title:
+				this.writeTitle(node, doc)
+				
+				// Write the authors:
+				this.writeAuthors(node, doc);
+				
+		  		doc.pos += 5;
+		  		
+		  		var summary = node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"").paragraphy(60);
+		  		summary.forEach(function(string) {
+
+		  			if( doc.pos > MAX_PAGE_POS-1 ) this.beginDay(d, doc);
+					doc.setFontType("normal");
+		  			doc.setFontSize(10);
+		  			doc.pos = doc.pos + 5;
+		  			doc.text(yoffset, doc.pos,  string);
+		  		}, this);
 	  		
 	  		}, this);
 	  		
 	  	
 	  },
-	  writeSummary: function(doc, node) {
-	  		
-	  		var yoffset = 90;
-	  		doc.pos += 8;
-	  		
-	  		// Write the time:
+	  writeTitle: function(node, doc){
+
+	  	doc.setFontSize(13);
+		doc.setFontType("bold");
+		node.title.paragraphy(40).forEach(function(title) {
+			doc.pos += 6;
+			doc.text(yoffset, doc.pos,  title);
+		});
+	  },
+	  writeRoom: function(node, doc){
+	  		doc.pos += 5;
+	  		doc.setFontSize(10);
+	  		doc.setFontType("italic");
+	  		doc.text(yoffset-node.room.length*2.2, doc.pos,  node.room );
+	  		doc.pos -= 11; // reset
+	  },
+	  writeTime: function(node, doc){
 	  		var d = node.getDate();
 	  		doc.pos += 6;
 	  		doc.setFontSize(13);
 	  		doc.setFontType("bold");
 	  		doc.text(yoffset-32, doc.pos,  d.format("HH:MM TT"));
 	  		//doc.pos -= 6;
-	  		
-	  		//Write the room
-	  		doc.pos += 5;
-	  		doc.setFontSize(10);
-	  		doc.setFontType("italic");
-	  		doc.text(yoffset-node.room.length*2.2, doc.pos,  node.room );
-	  		doc.pos -= 11; // reset
-	  		
-	  		// Write the title:
-			doc.setFontSize(13);
-			doc.setFontType("bold");
-			node.title.paragraphy(40).forEach(function(title) {
-				doc.pos += 6;
-				doc.text(yoffset, doc.pos,  title);
-			});
-			
-			// Write the authors:
-			var authors = [""];
+	  },
+	  writeAuthors: function(node, doc){
+	  		var authors = [""];
 			var i = 0;
 			doc.setFontType("italic");
 			doc.setFontSize(10);
@@ -133,29 +186,36 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'ut
 				doc.pos += 5;
 				doc.text(yoffset, doc.pos,  authorline);
 			});
-			
-	  		doc.setFontType("normal");
-	  		doc.pos += 5;
-	  		doc.setFontSize(10);
-	  		var summary = node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"").paragraphy(60);
-	  		summary.forEach(function(string) {
-	  			doc.pos = doc.pos + 5;
-	  			doc.text(yoffset, doc.pos,  string);
-	  		}, this)
-	  		
-	  		
-	  		
 	  },
 	  addPage: function(doc){
-	  		// Write logo on top
-	  		// page on bottom
-	  		// etc...
 	  		
+	  		// Increment the page number
+	  		doc.nb_page += 1;
 	  		// Reset position to default:
 	  		doc.pos = 0;
 	  		doc.addPage();
+	  		// Write header:
+	  		this.writeHeader(doc);
+	  		// write the number of page:
+	  		this.writePageNb(doc);
+
 	  },
-	  
+	  writePageNb: function(doc){
+	  		doc.setFontSize(11);
+	  		doc.setFontType("normal");
+	  		doc.text(100, 290, "- "+doc.nb_page+" -");
+	  },
+	  writeHeader: function(doc){
+	  		// add the day of generation of this pdf:
+	  		var now = new Date();
+	  		doc.setFontSize(8);
+	  		doc.setFontType("normal");
+	  		doc.text(20, 12, "GENERATED BY TRAIL");
+	  		doc.setFontType("bold");
+	  		doc.text(51, 12, "HEAD");
+	  		doc.setFontType("normal");
+	  		doc.text(60, 12, "ON THE "+now.format('dS "of" mmmm yyyy').toUpperCase()+" FOR YOU")
+	  },
 	  dayExist: function(newday) {
 	  	var e = false;
 	  	var index = null;
