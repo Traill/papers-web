@@ -124,9 +124,6 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 			nodeList.indexMap[n.id] = n.index; 
 		});
 
-		console.debug(nodeList.indexMap)
-
-
 
 		
 		// Load session
@@ -280,9 +277,9 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 
 
 	// Select a node (when it is clicked)
-//	var select = function(node) {
-//		nodeList.selected = node;
-//	}
+	var select = function(node) {
+		nodeList.selected = node;
+	}
 
 
 
