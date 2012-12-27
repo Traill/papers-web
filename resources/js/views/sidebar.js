@@ -93,10 +93,10 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		$(".removeall").click( function() { removeVerify(); });
 
 		// Make generate schedule button work
-		$(".downpdf").click("click", function () { abstractVerify(); });
+		$(".downpdf").click("click", function () { abstractVerify(0); });
 		
 		// Make generate schedule button work
-		$(".downicn").click("click", function () { downloadIcal(); });
+		$(".downicn").click("click", function () { abstractVerify(1); });
 
 		// Call events
 		sidebar.events();
@@ -215,17 +215,21 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	/**
 	 * Promps the user if they want to include an abstract with the pdf
 	 */
-	var abstractVerify = function() {
+	var abstractVerify = function(type) {
 		
 		var abst = (confirm("Do you want to include abstract of the papers? ")) ? 1: 0 ;
-		withAbstract(abst);
+		if(type == 0){
+			withAbstract(abst);
+		}else{
+			downloadIcal(abst);
+		}
 	}
 
 
 	/**
 	 * What happens when we click on getSmall
 	 */
-	var withAbstract = function(n) {
+	var withAbstract = function(abst) {
 
 		// Update hidden field
 		$("input[name=abstract]").attr("value",n);
@@ -255,27 +259,27 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	 * Create a document on ical format:
 	 */
 
-	var downloadIcal = function(){
+	var downloadIcal = function(abst){
 
 		// create the ical document:
 		var icalDoc = new iCal();
 		
+
 		// Add each in node in the ical document:
 		nodeList.scheduled.forEach(function(node) {
 
 			// BUG: we have something else coming in the schedule list
 			// we need to filter it first:
 			if(typeof(node) == "object"){
-
+				
 				// create the description of the event:
 				var description = "";
 				
 				// create author string:
-				node.authors.forEach(function(author, i) { description += i > 0? ", "+author: author; });
-				description += "\n";
-				//description += "Test\n test test test test test test test test test test test test test test test test test test test test test test test test test";
+				node.authors.forEach(function(author, i) { description += (i > 0) ? ", "+author: author; });
 
-				description += node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"");
+				// if we want abastract in the ical event:
+				if(abst == 1) description += "\n"+node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"");
 
 				// create ending date:
 				var start = node.getDate();
