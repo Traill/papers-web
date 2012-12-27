@@ -102,6 +102,7 @@ object Server {
     
     // Run server
     srv.filter(Ajax)
+    srv.filter(Page)
   }
 
 }
