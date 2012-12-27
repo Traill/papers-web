@@ -1,0 +1,91 @@
+div#page_content{ 
+					margin: 40px; 
+					width: 500px; 
+					min-height: 300px; 
+					margin-left: 360px; 
+					margin-top: 60px;
+					text-align: left;
+					font-size: 17px;
+					color: #828282;
+					line-height: 23px;
+			}
+			
+/* @group common */
+
+#content .orange{
+						color: #ff8a00;
+				}
+#content .blue	{
+						color: #65adb6;
+				}
+				
+
+
+#content ul{ 
+					
+				}
+#content li{ 	
+					list-style: disc; 
+				}
+
+
+/* @end */
+
+/* @group page content */
+
+#page_content h1 { 
+					font-size: 30px;
+					line-height: 40px;
+					margin-bottom: 15px;  
+				 }
+#page_content h2 { 
+					font-size: 20px;
+					line-height: 30px;
+					margin-bottom: 5px; 
+				}
+#page_content h3 { 
+					font-size: 19px; 
+					line-height: 24px;
+					margin-bottom: 5px; 
+					font-weight: bold; 
+				}
+#page_content a { 
+					color: #f63; 
+				}
+#page_content p { 
+					margin-bottom: 15px; 
+				}
+
+/* @end */
+
+/* @group side bar */
+
+#tabs .content{
+				text-align: right;
+				width: 180px;
+				line-height: 17px;
+				font-size: 12px;
+				color: #545454;
+				margin-top: 30px;
+				margin-left: 80px;
+}
+#tabs b, #tabs h2{
+				font-weight: bold;
+				color: #000;
+}
+#tabs h1 { 
+					font-size: 15px;
+					line-height: 20px;
+					margin-top: 10px;
+					margin-bottom: 10px;  
+				 }
+#tabs h2{
+				margin-top: 40px;
+				margin-bottom: 10px;
+				
+}
+#tabs .small{
+				font-size: 10px;
+}
+
+/* @end */

@@ -93,8 +93,7 @@ p#infoRoom					{ float:right; font-style:italic; }
 p#infoAbstract				{ margin-top:3px; }
 
 /* List */
-div#tabs					{ position: fixed; left:0px; top:38px; z-index:4; width:310px; margin:0px 0; text-align: left; background: #dddddd; border-right: 1px solid #c3c3c3;
-}
+div#tabs					{ position: fixed; left:0px; top:38px; z-index:4; width:310px; margin:0px 0; text-align: left; background: #dddddd; border-right: 1px solid #c3c3c3; height: 100%;}
 
 div.scrollable {
 	overflow-y: auto;
@@ -408,3 +407,4 @@ a#closeSidebar:hover div	{
 	margin-left: auto;
 	border-radius: 8px;
 }
+
