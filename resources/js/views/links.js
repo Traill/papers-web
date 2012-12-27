@@ -92,47 +92,47 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	// Show a little clikable dom object to go from one node to second. 
 	var showClickable = function(source, target, link) {
 		
-		 // Compute the direction offset:
-		 // Get the vector:
-		 var rx  = parseFloat(target.x) - parseFloat(source.x), ry  = parseFloat(target.y) - parseFloat(source.y);
-		 		 
-		 // Normalize it:
-		 rxn = rx / Math.sqrt(rx*rx+ry*ry);
-		 ryn = ry / Math.sqrt(rx*rx+ry*ry);
-		 
-		 // Find the angle:
-		 var a = 180*Math.atan2(ryn, rxn)/Math.PI+90;
-		 
-		 dst = Math.sqrt(rx*rx+ry*ry);
-		 randomfact =  10+ Math.sqrt(dst) + 10*Math.random();
-		 
-		 var posx  = parseFloat(source.x) + randomfact*rxn-2, posy  = parseFloat(source.y) + randomfact*ryn-2;
-		 
-		 // Correction of the mean of the point:
-		 posy = posy+2;
-		 
-		 posx = posx+2;
-		 
-		 
-		 source.links[link.index].clickable = graph.canvas.insert('svg:polygon')
-		 						.attr('points', '-33.001,24.991 0,18.687 33,24.991 -0.309,-24.991') //57.042,22.06 0,-5.159 -57.042,22.06 -57.042,5.159 0,-22.06 57.042,5.159
-		 						//.attr('height', 4)
-		 						//.attr('width', 4)
-		 						.attr('fill', '#990C00')
-		 						.classed('handle', true)
-		 						.attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );
-		 						//.attr('y', );
-		
-		
+		// Compute the direction offset:
+		// Get the vector:
+		var rx  = parseFloat(target.x) - parseFloat(source.x), ry  = parseFloat(target.y) - parseFloat(source.y);
+
+		// Normalize it:
+		rxn = rx / Math.sqrt(rx*rx+ry*ry);
+		ryn = ry / Math.sqrt(rx*rx+ry*ry);
+
+		// Find the angle:
+		var a = 180*Math.atan2(ryn, rxn)/Math.PI+90;
+
+		dst = Math.sqrt(rx*rx+ry*ry);
+		randomfact =  10+ Math.sqrt(dst) + 10*Math.random();
+
+		var posx  = parseFloat(source.x) + randomfact*rxn-2, posy  = parseFloat(source.y) + randomfact*ryn-2;
+
+		// Correction of the mean of the point:
+		posy = posy+2;
+
+		posx = posx+2;
+
+
+		source.links[link.index].clickable = graph.canvas.insert('svg:polygon')
+		.attr('points', '-33.001,24.991 0,18.687 33,24.991 -0.309,-24.991') //57.042,22.06 0,-5.159 -57.042,22.06 -57.042,5.159 0,-22.06 57.042,5.159
+		//.attr('height', 4)
+		//.attr('width', 4)
+		.attr('fill', '#990C00')
+		.classed('handle', true)
+		.attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );
+		//.attr('y', );
+
+
 		source.links[link.index].clickable.on('mouseover', function() {
-		source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.12+") rotate("+a+")" );}); 
-		source.links[link.index].clickable.on('mouseout', function() {  source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );});
-		
-		source.links[link.index].clickable.on('click', function () { 
-				
+			source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.12+") rotate("+a+")" );}); 
+			source.links[link.index].clickable.on('mouseout', function() {  source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );});
+
+			source.links[link.index].clickable.on('click', function () { 
+
 				var e = d3.event;
 				radio('node:deselect').broadcast(source, e);
-				
+
 				radio('node:select').broadcast(target, e);
 				radio('node:setfocus').broadcast(target, e);
 				
@@ -142,7 +142,6 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 
 	// remove all the clickable item of the old node.
 	var deselect = function(node) {
-		 
 		 
 		 for( var index in node.links ){
 			link = node.links[index].link;

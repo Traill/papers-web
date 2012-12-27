@@ -33,5 +33,16 @@ object Ajax extends unfiltered.filter.Plan {
       JsonContent ~> ResponseString(json)
     }
 
+    // Save a graph
+    case Path(Seg("ajax" :: "save" :: id :: Nil)) & Params(params) => {
+      Data.saveGraph(id, params("data").head)
+      Json(("success" -> true))
+    }
+
+    // Load a graph
+    case Path(Seg("ajax" :: "load" :: id :: Nil)) => {
+      val graph : String = Data.loadGraph(id)
+      JsonContent ~> ResponseString(graph)
+    }
   }
 }

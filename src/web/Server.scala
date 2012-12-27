@@ -43,6 +43,9 @@ object Data {
   // Json clusters ready to be served
   private var clusters : Map[String, String] = Map.empty
 
+  // Graph data
+  private var graphs : Map[String, String] = Map.empty
+
   // Implicit val for JSON conversion
   private implicit val formats = DefaultFormats
 
@@ -66,6 +69,7 @@ object Data {
     return edges
   }
 
+  // Returns a cluster of size/type k
   def getClusters(k : String) : String = {
     if (!clusters.contains(k)) {
 
@@ -75,6 +79,14 @@ object Data {
 
     return clusters(k)
   }
+
+  // Saves a particular graph
+  def saveGraph(id : String, data : String) : Unit = {
+    graphs += (id -> data)
+    println(graphs)
+  }
+
+  def loadGraph(id : String) : String = graphs.getOrElse(id,"")
 
 
   // For debugging purposes
@@ -102,9 +114,9 @@ object Server {
 
     // Initialize Server
     val srv = unfiltered.jetty.Http(testPort).resources(resourceDir.toURI.toURL)
-    
+
     // Run server
-    srv.filter(Ajax)
+    srv.filter(Ajax).filter(Graph)
   }
 
 }

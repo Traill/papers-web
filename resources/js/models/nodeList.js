@@ -129,9 +129,10 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		// Load session
 		// Load the node that are already scheduled
 		//nodeList.scheduled = session.loadSelected();
-		nodeList.scheduled = session.loadScheduled()
-									.map(nodeList.getNodeFromIndex)
-									.filter(function(n) { return n != undefined; });
+		nodeList.scheduled = [];
+		//nodeList.scheduled = session.loadScheduled()
+									//.map(nodeList.getNodeFromIndex)
+									//.filter(function(n) { return n != undefined; });
 		// Load all the abstract:
 		nodeList.scheduled.forEach(function(node) { node.getAbstract();});
 		
@@ -141,6 +142,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		 * 	in the DB with Play
 		 */
 		nodeList.focused = nodeList.getNodeFromIndex(session.loadFocused());
+		nodeList.focused = null;
 		
 		// TODO: save it in session and load it here.
 		nodeList.selected = null;
@@ -167,7 +169,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	// Returns true if the id is selected and false if it isn't
 	nodeList.isScheduled = function(node) {
 		//console.debug(node)
-		return (nodeList.scheduled.indexOf(node.index) != -1);
+		return (nodeList.scheduled.indexOf(node) != -1);
 	}
 
 
@@ -176,7 +178,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	// apart from init() since it relies on the graph being generated
 	nodeList.broadcastScheduled = function() {
 		// Broadcast session
-		nodeList.scheduled.forEach(function(e) { return radio("node:schedule").broadcast(e); });
+		nodeList.scheduled.forEach(function(node) { return radio("node:schedule").broadcast(node); });
 		//radio("node:focused").broadcast(nodeList.focused);
 	}
 
@@ -184,7 +186,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	// Remove all nodes from the scheduled list
 	nodeList.unscheduleAll = function() {
 		// Broadcast session
-		nodeList.scheduled.forEach(function(e) { return radio("node:unschedule").broadcast(e); });
+		nodeList.scheduled.forEach(function(node) { return radio("node:unschedule").broadcast(node); });
 	}
 
 
@@ -254,18 +256,18 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		// Check if id doesn't already exist
 		if (!nodeList.isScheduled(node)) {
 			// Add new item
-			nodeList.scheduled.push(node.index);
+			nodeList.scheduled.push(node);
 			// Add a class name:
-			node.domNode.classed('scheduled', true);
+			//node.domNode.classed('scheduled', true);
 			// Save changes
-			session.saveScheduled(nodeList.scheduled);
+			//session.saveScheduled(nodeList.scheduled);
 		}
 	}
 
 	// Removes the id from the list of selected nodeList
 	var unschedule = function(node) {
-		nodeList.scheduled = nodeList.scheduled.filter(function(i) { return (i != node.index); });
-		node.domNode.classed('scheduled', false);
+		nodeList.scheduled = nodeList.scheduled.filter(function(n) { return (n != node); });
+		//node.domNode.classed('scheduled', false);
 		session.saveScheduled(nodeList.scheduled);
 	}
 
@@ -278,6 +280,9 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 
 	// Select a node (when it is clicked)
 	var select = function(node) {
+		// Unschedule the node scheduled before
+		if (nodeList.selected) radio("node:deselect").broadcast(nodeList.selected);
+
 		nodeList.selected = node;
 	}
 
