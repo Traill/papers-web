@@ -232,7 +232,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	var withAbstract = function(abst) {
 
 		// Update hidden field
-		$("input[name=abstract]").attr("value",n);
+		$("input[name=abstract]").attr("value",abst);
 
 		// Get all the nodes in the schedule:
 		var scheduled = new Array();

@@ -58,7 +58,10 @@ define(["jquery", "lib/jquery-class", 'params', 'util/dateFormat'], function($, 
 			var docContent = "";
 			docLine.forEach(function(el){ docContent += "\n"+el });
 
-	 		document.location.href = 'data:application/ical;base64,' + btoa(BEGIN+docContent+END);
+			var form = $('<form action="ical/calendar.ics" method="post"></form>').appendTo('body');
+			$('<input type="hidden" name="content" value="'+btoa(BEGIN+docContent+END)+'" />').appendTo(form);
+			form.submit();
+	 		//document.location.href = 'ical/' + btoa(BEGIN+docContent+END);
 	 		
 		}
 

@@ -1,4 +1,4 @@
-define(["jquery", "lib/jquery-class", "js!lib/jspdf.min.js!order", 'params', 'util/dateFormat', 'util/paragraphy'], function($, Class, jspdf, config, dateFormat, paragraphy) {
+define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/dateFormat', 'util/paragraphy'], function($, Class, jspdf, config, dateFormat, paragraphy) {
 
 	var MAX_PAGE_POS = 275; // end of page is at 295 for a font of 10
 	var yoffset = 90;
