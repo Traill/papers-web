@@ -37,6 +37,9 @@ define(function () {
 	config['graph_width'] = 1200;
 	config['graph_height'] = 700;
 	
+
+	config['talk_duration'] = 30;
+
 	return config; 
 
 });

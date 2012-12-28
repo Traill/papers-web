@@ -1,4 +1,4 @@
-define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order'], function($, radio, truncate, Pdf, nodeList, arrrr, tabbbb) {
+define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/ical", 'params', "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order'], function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -93,10 +93,10 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		$(".removeall").click( function() { removeVerify(); });
 
 		// Make generate schedule button work
-		$(".downpdf").click("click", function () { abstractVerify(); });
+		$(".downpdf").click("click", function () { abstractVerify(0); });
 		
 		// Make generate schedule button work
-		$(".downicn").click("click", function () { alert('Feature will come soon'); });
+		$(".downicn").click("click", function () { abstractVerify(1); });
 
 		// Call events
 		sidebar.events();
@@ -208,27 +208,31 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	var removeVerify = function() {
 
 		// Hide downloadType if open
-		if(confirm("Are you sure? ")) radio("sidebar:removeAll").broadcast(e);
+		if(confirm("Are you sure? ")) radio("sidebar:removeAll").broadcast();
 	}
 
 
 	/**
 	 * Promps the user if they want to include an abstract with the pdf
 	 */
-	var abstractVerify = function() {
+	var abstractVerify = function(type) {
 		
 		var abst = (confirm("Do you want to include abstract of the papers? ")) ? 1: 0 ;
-		withAbstract(abst);
+		if(type == 0){
+			withAbstract(abst);
+		}else{
+			downloadIcal(abst);
+		}
 	}
 
 
 	/**
 	 * What happens when we click on getSmall
 	 */
-	var withAbstract = function(n) {
+	var withAbstract = function(abst) {
 
 		// Update hidden field
-		$("input[name=abstract]").attr("value",n);
+		$("input[name=abstract]").attr("value",abst);
 
 		// Get all the nodes in the schedule:
 		var scheduled = new Array();
@@ -251,7 +255,42 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	}
 
 
+	/**
+	 * Create a document on ical format:
+	 */
 
+	var downloadIcal = function(abst){
+
+		// create the ical document:
+		var icalDoc = new iCal();
+		
+
+		// Add each in node in the ical document:
+		nodeList.scheduled.forEach(function(node) {
+
+			// BUG: we have something else coming in the schedule list
+			// we need to filter it first:
+			if(typeof(node) == "object"){
+				
+				// create the description of the event:
+				var description = "";
+				
+				// create author string:
+				node.authors.forEach(function(author, i) { description += (i > 0) ? ", "+author: author; });
+
+				// if we want abastract in the ical event:
+				if(abst == 1) description += "\n"+node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"");
+
+				// create ending date:
+				var start = node.getDate();
+				var end = new Date( start.getTime()+param['talk_duration']*60*1000 );
+				icalDoc.addEvent(start, end, node.title, node.room, description );
+			};			
+		});
+
+		icalDoc.send();
+
+	}
 
 	/**
 	 * Removes all nodes from list
