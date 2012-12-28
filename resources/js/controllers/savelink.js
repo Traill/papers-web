@@ -36,7 +36,6 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		radio("node:schedule").subscribe(save);
 		radio("node:unschedule").subscribe(save);
 		radio("node:select").subscribe(save);
-		//radio("node:setfocus").subscribe(save);
 	}
 
 	//////////////////////////////////////////////
@@ -64,11 +63,21 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 	//											//
 	//////////////////////////////////////////////
 	
+	// Enable saving the graph and return the id
+	saveLink.enable = function() {
+		var id = getNewID();
+		saveLink.setId(id);
+		save();
+		return id;
+	}
+
+	// Sets the id
 	saveLink.setId = function(id) {
 		saveLink.id = id;
 		saveLink.capture = true;
 	}
 
+	// Loads the graph
 	saveLink.load = function() {
 
 		// Get id from url
@@ -194,6 +203,7 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		return filter;
 
 	}
+
 
 
 	// Create a new random id

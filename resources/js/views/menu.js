@@ -1,4 +1,4 @@
-define(["jquery", "radio", "models/nodeList", "models/linkList", "models/graph"], function($, radio, nodeList, linkList, graph) {
+define(["jquery", "radio", "models/nodeList", "models/linkList", "models/graph", "controllers/savelink"], function($, radio, nodeList, linkList, graph, saveLink) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -22,8 +22,9 @@ define(["jquery", "radio", "models/nodeList", "models/linkList", "models/graph"]
 		 */
 
 		// Make Surprise Me work
-		$("#surprise").click(function () { 
-			radio("node:scheduled").broadcast(nodeList.getRandom());
+		$("#save").click(function () { 
+			var id = saveLink.enable();
+			saveId(id);
 		});
 
 
@@ -98,6 +99,12 @@ define(["jquery", "radio", "models/nodeList", "models/linkList", "models/graph"]
 		else boxmm.slideDown();
 	}
 
+
+	var saveId = function(id) {
+		var url = document.URL.split("?")[0].split("#")[0] + "?id=" + id;
+		alert(url)
+	}
+		
 
 
 	//////////////////////////////////////////////
