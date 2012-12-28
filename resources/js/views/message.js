@@ -48,7 +48,7 @@ define(["jquery", "lib/jquery-class", "radio", 'params'], function ($, Class, ra
 	//////////////////////////////////////////////
 
 	var middle_adjust = function(w, h){
-		console.log('ok');
+		
 		$('#message_wrap').css('right', (w-500)/2);
 		
 	}
