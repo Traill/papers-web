@@ -116,7 +116,7 @@ object Server {
     val srv = unfiltered.jetty.Http(testPort).resources(resourceDir.toURI.toURL)
 
     // Run server
-    srv.filter(Ajax).filter(Graph)
+    srv.filter(Ajax).filter(Graph).filter(Page)
   }
 
 }

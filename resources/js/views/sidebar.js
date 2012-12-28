@@ -340,7 +340,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	 */
 	var resize = function(w, h){
 	
-		$('#tabs').css('height', h-38);
+		$('#tabs').css('height', h);
 		$('#tabs .scrollable').css('height', h-300);
 		$('#tabs-1 .scrollable').css('height', h-150);
 		//$('#tabs-3 .scrollable').css('height', h-430);
