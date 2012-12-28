@@ -175,9 +175,6 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 			radio("filter:select").broadcast(index);
 		});
 
-
-		console.debug(data)
-
 		// Update data
 		saveLink.data = data;
 	}
