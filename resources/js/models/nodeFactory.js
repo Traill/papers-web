@@ -47,10 +47,8 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 
 					// Methods
 					// isScheduled:	isScheduledFun,
-					getAbstract:	function(callback) {
-												return getAbstractFun(callback, this); },
-					getCachedAbstract:	function(callback) {
-														return getCachedAbstract(this) },
+					getAbstract:	getAbstractFun,
+					getCachedAbstract:	getCachedAbstract,
 					getDate:		getDateFun,
 					addLink:		addLinkFun
 				}
@@ -74,7 +72,8 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 
 
 	// Fetch an abstract per ajax
-	var getAbstractFun = function(callback, self) {
+	var getAbstractFun = function(callback) {
+		var self = this;
 		// If we have an abstract already, call the callback
 		if (self.abstract) return callback(self.abstract)
 
@@ -92,9 +91,10 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 		}
 	}
 	
-	// Return the cached abstract or null if it is not defined
-	var getCachedAbstract = function(self) {
-		return self.abstract ? self.abstract: null;
+	// Return the cached abstract or throws an error if it hasn't been fetched yet
+	var getCachedAbstract = function() {
+		if (this.abstract) return this.abstract
+		else throw new Error("Abstract not set in advance before calling getCachedAbstract")
 	}
 
 	// Get date from node

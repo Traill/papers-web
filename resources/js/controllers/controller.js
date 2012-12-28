@@ -1,4 +1,5 @@
-define(["radio", "models/nodeList", "models/linkList", "models/search", "models/graph", "views/views"], function (radio, nodeList, linkList, search, graph, views) {
+define(["radio", "models/nodeList", "models/linkList", "models/search", "models/graph", "views/views", "controllers/savelink"], 
+		function (radio, nodeList, linkList, search, graph, views, saveLink) {
 
 
 	//////////////////////////////////////////////
@@ -18,8 +19,8 @@ define(["radio", "models/nodeList", "models/linkList", "models/search", "models/
 	// initialize graph
 	graph.init(nodeList.getNodes(), linkList.getAllLinks());
 
-	// Add selected and current node(s) from last session
-	nodeList.broadcastScheduled();
+	// Load saved data
+	saveLink.init()
 
 	// Return the controller
 	return controller;

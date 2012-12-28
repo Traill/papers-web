@@ -55,6 +55,18 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	nodeList.nodes = new Array();
 	nodeList.indexMap = new Object();
 
+	// A list of all the nodes that are scheduled
+	nodeList.scheduled = [];
+
+	// The currently focused node (the node the mouse is hovering over)
+	nodeList.focused = null;
+		
+	// The currently selected node (the node we last clicked on)
+	nodeList.selected = null;
+
+	// An object containing some statistics about the nodes
+	nodeList.stats = undefined;
+
 
 	//////////////////////////////////////////////
 	//											//
@@ -110,11 +122,10 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	//											//
 	//////////////////////////////////////////////
 	
+	// The init function load the model of nodeList
+	// It creates for each node an object with containing
+	// all the related information
 	nodeList.init = function() {
-		
-		// The init function load the model of nodeList
-		// It creates for each node an object with containing
-		// all the related information
 		
 		// Load nodeList
 		nodeList.nodes = nodes.map(nodeFactory.new);
@@ -123,32 +134,6 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		nodeList.nodes.forEach(function (n) { 
 			nodeList.indexMap[n.id] = n.index; 
 		});
-
-
-		
-		// Load session
-		// Load the node that are already scheduled
-		//nodeList.scheduled = session.loadSelected();
-		nodeList.scheduled = [];
-		//nodeList.scheduled = session.loadScheduled()
-									//.map(nodeList.getNodeFromIndex)
-									//.filter(function(n) { return n != undefined; });
-		// Load all the abstract:
-		nodeList.scheduled.forEach(function(node) { node.getAbstract();});
-		
-		
-		/*  TODO: This loading should be done in 
-		 *	the future by looking session
-		 * 	in the DB with Play
-		 */
-		nodeList.focused = nodeList.getNodeFromIndex(session.loadFocused());
-		nodeList.focused = null;
-		
-		// TODO: save it in session and load it here.
-		nodeList.selected = null;
-
-		nodeList.stats = undefined;
-
 	}
 
 
@@ -257,10 +242,9 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		if (!nodeList.isScheduled(node)) {
 			// Add new item
 			nodeList.scheduled.push(node);
-			// Add a class name:
-			//node.domNode.classed('scheduled', true);
-			// Save changes
-			//session.saveScheduled(nodeList.scheduled);
+
+			// Fetch abstract
+			node.getAbstract(function() {});
 		}
 	}
 

@@ -106,7 +106,6 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 	// Add a filter to the list
 	var publish = function(filter, index) {
 
-		console.debug(filter)
 		// clone filter template
 		var f = $("#filterItemTemplate").clone()
 

@@ -1,4 +1,4 @@
-define(["jquery", "models/nodeList", "models/search", "radio", "util/array"], function ($, nodeList, search, radio, arrrr) {
+define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "util/cookie", "util/merge"], function ($, nodeList, search, radio, arrrr, cookie, merge) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -29,6 +29,8 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array"], fu
 		// Listen for adding and deleting a filter
 		radio("filter:publish").subscribe(save);
 		radio("filter:remove").subscribe(save);
+		radio("filter:select").subscribe(save);
+		radio("filter:deselect").subscribe(save);
 
 		// Listen for schedule, unschedule and focus
 		radio("node:schedule").subscribe(save);
@@ -37,7 +39,24 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array"], fu
 		//radio("node:setfocus").subscribe(save);
 	}
 
+	//////////////////////////////////////////////
+	//											//
+	//              Initialize					//
+	//											//
+	//////////////////////////////////////////////
+	saveLink.init = function() {
+		// Load cookie
+		var g = JSON.parse(JSON.parse(cookie("graph")))
 
+		// Check if cookie is set
+		if (g == null || g.id == undefined) return;
+
+		// If cookie is set, update id
+		saveLink.setId(g.id)
+
+		// Then restore data
+		restore(g);
+	}
 
 	//////////////////////////////////////////////
 	//											//
@@ -67,6 +86,7 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array"], fu
 			}
 		});
 	}
+		
 
 
 	//////////////////////////////////////////////
@@ -80,10 +100,14 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array"], fu
 
 		// Get filters
 		saveLink.data.filters = search.data.map(function(f) {
-			f.to = Math.round(f.to.getTime() / 1000)
-			f.from = Math.round(f.from.getTime() / 1000)
-			return f;
+			var filter = merge(f,{});
+			filter.to = getUnixTimeFromDate(f.to);
+			filter.from = getUnixTimeFromDate(f.from);
+			return filter;
 		});
+
+		// Get active filters
+		saveLink.data.currentFilters = search.currentIndices;
 
 		// Get node related data and map for ids
 		saveLink.data.scheduled = nodeList.scheduled.map(function(n) {
@@ -95,6 +119,9 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array"], fu
 
 		// Set success to true
 		saveLink.data.success = true;
+
+		// Add id
+		saveLink.data.id = saveLink.id;
 	}
 
 
@@ -120,22 +147,52 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array"], fu
 	// Restore saved data
 	var restore = function(data) {
 
-		console.debug(data)
 		// Schedule the right nodes
 		nodeList.unscheduleAll();
 		data.scheduled.forEach(function(id) {
-			radio("node:schedule").broadcast(nodeList.getNodeFromID(id)); });
-		if (data.selected != undefined) {
-			radio("node:select").broadcast(nodeList.getNodeFromID(data.selected));
-		}
+			radio("node:schedule").broadcast(nodeList.getNodeFromID(id)); 
+		});
 
 		// Add the appropriate filters
 		data.filters.forEach(function (f) {
-			search.add(f)
+			f.to = getDateFromUnixTime(f.to);
+			f.from = getDateFromUnixTime(f.from);
+			radio("filter:add").broadcast(f);
 		});
+
+		// Select the right filters
+		search.deselectAll();
+		data.currentFilters.forEach(function(index) {
+			radio("filter:select").broadcast(index);
+		});
+
+
+		console.debug(data)
 
 		// Update data
 		saveLink.data = data;
+	}
+
+	// Get the date showing the same hour and minutes as the unixtime would if
+	// measured on greenwhich time
+	var getDateFromUnixTime = function(unixTime) { 
+		return new Date((parseInt(unixTime) + (new Date()).getTimezoneOffset()*60)*1000); 
+	}
+
+	// Get the unixtime measured from the hours and minutes in the given date
+	// (and not measured from the hours and minutes of the greenwhich time
+	// relatively offset from the given date)
+	var getUnixTimeFromDate = function(date) { 
+		// ut = d/1000 - tzo*60
+		// d = (ut + tzo*60) * 1000
+		return Math.round(date.getTime()/1000) - (new Date()).getTimezoneOffset()*60
+	}
+
+
+	var setDate = function(filter) {
+		console.debug(filter)
+		return filter;
+
 	}
 
 

@@ -110,6 +110,15 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		// TODO
 	}
 
+	// Deselects all selected filters
+	search.deselectAll = function() {
+
+		// Deselect all currently selected filters
+		search.currentIndices.forEach(function(i) {
+			radio("filter:deselect").broadcast(i);
+		});
+	}
+
 	//////////////////////////////////////////////
 	//											//
 	//            Private Functions				//
@@ -120,11 +129,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 	// Selects a filter and deselects all currently selected filters
 	var selectOnly = function(index) {
-
+		
 		// Deselect all currently selected filters
-		search.currentIndices.forEach(function(i) {
-			radio("filter:deselect").broadcast(i);
-		});
+		search.deselectAll();
 
 		// Select the one filter we want
 		radio("filter:select").broadcast(index);
