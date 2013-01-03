@@ -235,19 +235,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		$("input[name=abstract]").attr("value",abst);
 
 		// Get all the nodes in the schedule:
-		var scheduled = new Array();
-		
-		// BUG: we have something else coming in the schedule list:
-		
-		//scheduled.filter(function(n) { return typeof(n) != "number"; }); WHY IT IS NOT WORKING??
-		var i = 0;
-		nodeList.scheduled.forEach(function(n) {
-			if(typeof(n) == "object"){
-				scheduled[i] = n;
-				i++;
-			};
-			
-		});
+		var scheduled = nodeList.scheduled.map(function(e){ return nodeList.getNodeFromIndex(e);});
 
 		// generate the pdf
 		var t = new Pdf(scheduled);
@@ -266,26 +254,24 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		
 
 		// Add each in node in the ical document:
-		nodeList.scheduled.forEach(function(node) {
+		nodeList.scheduled.forEach(function(nodeIndex) {
 
-			// BUG: we have something else coming in the schedule list
-			// we need to filter it first:
-			if(typeof(node) == "object"){
+			var node =  nodeList.getNodeFromIndex(nodeIndex);
 				
-				// create the description of the event:
-				var description = "";
-				
-				// create author string:
-				node.authors.forEach(function(author, i) { description += (i > 0) ? ", "+author: author; });
+			// create the description of the event:
+			var description = "";
+			
+			// create author string:
+			node.authors.forEach(function(author, i) { description += (i > 0) ? ", "+author: author; });
 
-				// if we want abastract in the ical event:
-				if(abst == 1) description += "\n"+node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"");
+			// if we want abastract in the ical event:
+			if(abst == 1) description += "\n"+node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"");
 
-				// create ending date:
-				var start = node.getDate();
-				var end = new Date( start.getTime()+param['talk_duration']*60*1000 );
-				icalDoc.addEvent(start, end, node.title, node.room, description );
-			};			
+			// create ending date:
+			var start = node.getDate();
+			var end = new Date( start.getTime()+param['talk_duration']*60*1000 );
+			icalDoc.addEvent(start, end, node.title, node.room, description );
+					
 		});
 
 		icalDoc.send();
