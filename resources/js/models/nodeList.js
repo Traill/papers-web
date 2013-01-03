@@ -124,19 +124,11 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 			nodeList.indexMap[n.id] = n.index; 
 		});
 
+		
+		// Empty session first
+		nodeList.scheduled = new Array();
+		
 
-
-		
-		// Load session
-		// Load the node that are already scheduled
-		//nodeList.scheduled = session.loadSelected();
-		nodeList.scheduled = session.loadScheduled()
-									.map(nodeList.getNodeFromIndex)
-									.filter(function(n) { return n != undefined; });
-		// Load all the abstract:
-		nodeList.scheduled.forEach(function(node) { node.getAbstract();});
-		
-		
 		/*  TODO: This loading should be done in 
 		 *	the future by looking session
 		 * 	in the DB with Play
@@ -172,12 +164,14 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	}
 
 
-	// Broadcasts the selected nodeList and the focused nodeList. This should 
+	// Load the scheduled node in the sidebar. This should 
 	// only be called in the initialization of the page, but I've put it 
 	// apart from init() since it relies on the graph being generated
 	nodeList.broadcastScheduled = function() {
-		// Broadcast session
-		nodeList.scheduled.forEach(function(e) { return radio("node:schedule").broadcast(e); });
+		session.loadScheduled().forEach(function(e){
+										radio("node:schedule").broadcast(nodeList.getNodeFromIndex(e));
+									});
+
 		//radio("node:focused").broadcast(nodeList.focused);
 	}
 
@@ -185,7 +179,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	// Remove all nodes from the scheduled list
 	nodeList.unscheduleAll = function() {
 		// Broadcast session
-		nodeList.scheduled.forEach(function(e) { return radio("node:unschedule").broadcast(e); });
+		nodeList.scheduled.forEach(function(e) { return radio("node:unschedule").broadcast(nodeList.getNodeFromIndex(e)); });
 	}
 
 
@@ -254,6 +248,8 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	var schedule = function(node) {
 		// Check if id doesn't already exist
 		if (!nodeList.isScheduled(node)) {
+			// Load all the abstract:
+			node.getAbstract();
 			// Add new item
 			nodeList.scheduled.push(node.index);
 			// Add a class name:
