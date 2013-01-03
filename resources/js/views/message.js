@@ -53,6 +53,29 @@ define(["jquery", "lib/jquery-class", "radio", 'params'], function ($, Class, ra
 		
 	}
 
+
+	//////////////////////////////////////////////
+	//											//
+	//            List of messages				//
+	//											//
+	//////////////////////////////////////////////
+
+	var registered_message = {
+		'node:schedule': 'The talk as been <b>added</b> to your schedule list on the right',
+		'node:unschedule': 'The talk as been <b>removed</b> from your schedule list'
+	}
+
+
+	// First time you close the sidebar, show a message
+	var nbclosed = 0;
+	radio("sidebar:close").subscribe(function () { 
+			if(nbclosed == 0){
+				nbclosed++;
+				//show message
+			}
+		});
+
+
 	// Stupid bug with radio (?)
 	var init = function(){
 

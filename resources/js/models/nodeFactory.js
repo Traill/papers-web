@@ -76,7 +76,7 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	// Fetch an abstract per ajax
 	var getAbstractFun = function(callback, self) {
 		// If we have an abstract already, call the callback
-		if (self.abstract) return callback(self.abstract)
+		if(self.abstract) { if (callback != undefined) return callback(self.abstract); }
 
 		// If not, then fetch abstract from server
 		else {
