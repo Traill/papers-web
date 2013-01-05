@@ -5,7 +5,7 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	
 	
 	// Create a zoom behavior:
-	var zoom = d3.behavior.zoom();
+	var zoom = d3.behavior.zoom().scaleExtent([config['zoomMin'], config['zoomMax']]);
 	
 	// Track the position:
 	zoom.pos = {};
@@ -83,10 +83,10 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 		
 		
 		// Avoid weird behavior
-		//if( scale < config['zoomMax'] && scale > config['zoomMin'] ) {
-			setValueManually(scale, transform);
-			goTo();
-		//}
+		//scale = scale < config['zoomMax'] ?  scale > config['zoomMin'] ? scale : config['zoomMin'] : config['zoomMax'];
+		
+		setValueManually(scale, transform);
+		goTo();
 	} 
 	
 	// Manually move the canvas to the new position:
@@ -104,18 +104,18 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 			
 			return function(t) {
 				    
-				      // Interpolation
-				      var posx = a.x + (b.x-a.x) * t;
-				      var posy = a.y + (b.y-a.y) * t;
-				      var s = a.s + (b.s-a.s) * t;
-				      
-				      
-				      setValueManually(s, [posx, posy]);
-				      
-				      // Change canvas:
-				      goTo();
-				      return null; //"translate(" + posx + ", "+posy+") scale(" + s + ")";
-				   }
+				// Interpolation
+				var posx = a.x + (b.x-a.x) * t;
+				var posy = a.y + (b.y-a.y) * t;
+				var s = a.s + (b.s-a.s) * t;
+				
+				
+				setValueManually(s, [posx, posy]);
+				
+				// Change canvas:
+				goTo();
+				return null; //"translate(" + posx + ", "+posy+") scale(" + s + ")";
+			}
 		});
 		
 		//transitionTo();
