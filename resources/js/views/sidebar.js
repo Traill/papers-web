@@ -28,7 +28,10 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		 */
 
 		// Current node
-		radio("node:focus").subscribe(setFocus);
+		radio("node:select").subscribe(setFocus);
+
+		// Unselect it when click somewhere else
+		radio("node:unselect").subscribe(unsetFocus);
 
 		// Select node
 		radio("node:schedule").subscribe(schedule);
@@ -128,8 +131,18 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		// Removes current from last list item
 		$(".listItem.current").removeClass("current");
 
-		// Adds curren to the current list item
+		// Adds current to the current list item
 		$("#" + node.id).addClass("current");
+	}
+
+
+	/**
+	 * Updates the list when unselecting a node
+	 */
+	var unsetFocus = function (node) {
+
+		// Removes current from last list item
+		$(".listItem.current").removeClass("current");
 	}
 
 
