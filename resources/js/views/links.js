@@ -157,6 +157,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 			node.links[index].clickable.remove();
 			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 			link.domLink.classed('clikable', false);
+			link.domLink.classed('hover', false);
 			
 		};
 	}
@@ -179,10 +180,10 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		if( nodeList.selected == null || nodeList.selected.index != node.index){
 			for (var index in node.links) {
 				var link = node.links[index].link;
-
+				// Check if note selected
 				if(link.domLink != null ) {
 					var e = d3.event;
-					// Check if note selected
+					
 					link.domLink.classed('hover', false);
 					link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 
