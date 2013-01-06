@@ -47,7 +47,7 @@ define(["jquery", "util/cookie", "util/array", "radio"], function($, cookie, arr
 		// Parse scheduled and filter the NaN
 		var scheduled = ids.map(function(e) { return parseInt(e); })
 						  .filter(function(e) { return !isNaN(e); }); 
-
+						  
 		return scheduled;
 	}
 

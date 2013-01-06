@@ -106,6 +106,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			.attr("height", "100%")
 			// Enable zoom feature:
 			.call(	graph.zoom )
+			// Register event:
+			.on('click', function(){
+				radio('canvas:click').broadcast();
+			})
 			// Add paning g:
 			.append('svg:g') 
 			.attr("pointer-events", "all")
@@ -120,6 +124,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Create a new force Layout
 		graph.set(nodes, links);
+
 	}
 
 	
