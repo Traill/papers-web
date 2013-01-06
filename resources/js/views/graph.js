@@ -54,7 +54,7 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 			if(node_clicked)
 				node_clicked = false;
 			else
-				radio("node:deselect").broadcast(nodes.selected);
+				if(nodes.selected) radio("node:deselect").broadcast(nodes.selected);
 		});
 
 	}
@@ -95,12 +95,6 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		// Make node red
 		domNode.classed("hover", false);
 
-		// Find all edges belinging to current node and update them
-		for (var index in node.links) {
-			var link = node.links[index].link;
-			if (link.domLink == null) throw new Error("No link with " + index + " exists")
-			link.domLink.classed("hover", false);
-		}
 	}
 
 

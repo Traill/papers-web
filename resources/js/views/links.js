@@ -175,16 +175,17 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	}
 	
 	var hoverOut = function(node) {
-		
+
 		if( nodeList.selected == null || nodeList.selected.index != node.index){
-			
 			for (var index in node.links) {
-				var link = node.links[index];
-				if(link.domLink) {
+				var link = node.links[index].link;
+
+				if(link.domLink != null ) {
 					var e = d3.event;
 					// Check if note selected
 					link.domLink.classed('hover', false);
 					link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
+
 				}
 			}
 		}
