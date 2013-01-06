@@ -44,10 +44,15 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		radio("search:remove").subscribe(searchRemove);
 
 		// remove a link
-		radio("link:remove").subscribe(removeLink)
+		radio("link:remove").subscribe(removeLink);
 
 		// Add a link
-		radio("link:add").subscribe(addLink)
+		radio("link:add").subscribe(addLink);
+
+		// Unselect graph when click on canvas
+		radio("canvas:click").subscribe(function(){
+			radio("node:deselect").broadcast(nodes.selected);
+		});
 
 	}
 
