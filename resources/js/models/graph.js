@@ -107,9 +107,9 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			// Enable zoom feature:
 			.call(	graph.zoom )
 			// Register event:
-			// .on('click', function(){
-			// 	radio('canvas:click').broadcast();
-			// })
+			.on('click', function(){
+				radio('canvas:click').broadcast();
+			})
 			// Add paning g:
 			.append('svg:g') 
 			.attr("pointer-events", "all")

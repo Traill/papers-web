@@ -51,7 +51,10 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 		// Unselect graph when click on canvas
 		radio("canvas:click").subscribe(function(){
-			radio("node:deselect").broadcast(nodes.selected);
+			if(node_clicked)
+				node_clicked = false;
+			else
+				radio("node:deselect").broadcast(nodes.selected);
 		});
 
 	}
@@ -112,7 +115,8 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 	}
 
-
+	// Register a node has been clicked:
+	var node_clicked = false;
 	
 	// What happends when we select a node
 	var select = function(node) {
@@ -124,7 +128,7 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 		// Register this node as selected:
 		nodes.selected = node;
-
+		node_clicked = true;
 		// Make node red
 		domNode.classed("selected", true);
 		domNode.transition().attr('r', config['radius_selected']);
