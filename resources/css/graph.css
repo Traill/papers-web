@@ -1,5 +1,6 @@
 /* @override 
-	http://localhost:8888/_projets/trailhead2/graph.css */
+	http://localhost:8888/_projets/trailhead2/graph.css
+	http://127.0.0.1:8080/css/graph.css */
 
 /* Body style */
 body						{ text-align: center; font-size:13px; font-family: Helvetica; }
@@ -200,10 +201,11 @@ div.scheduleSelect			{ filter:progid:DXImageTransform.Microsoft.gradient(startCo
 /* Graph style */
 circle						{ cursor: pointer; }
 circle.node 				{ fill: #ffbf44; stroke: #ffd; stroke-width: 1.5px; }
+circle.scheduled		{ fill: #3C6E70; stroke: #86B5B3; stroke-width: 1px; }
 circle.hover				{ fill: #D76534; stroke: #fdd; }
 circle.selected				{ fill: #990C00; stroke: #dff; }
 circle.search				{ stroke:yellow; stroke-width:3px; }
-circle.scheduled		{ fill: #3C6E70; stroke: #86B5B3; stroke-width: 1px; }
+
 
 /* Line value:*/
 line.v2						{ stroke: #E1E1E1; }
@@ -212,9 +214,11 @@ line.v6						{ stroke: #9D9D9D; }
 line.v8						{ stroke: #818181; }
 line.v10					{ stroke: #676767; }
 line.link 					{ stroke: #aaa; }
+line.scheduled				{ stroke: #3C6E70; }
 line.hover					{ stroke: #D76534; }
 /* line.selected				{ stroke: #990C00; } */
 line.clikable				{ stroke: #990C00; }
+
 
 polygon.handle				{ fill: #990C00; cursor: pointer;}
 polygon.handle:hover		{ fill: #C85B3C; cursor: pointer;}
@@ -374,5 +378,11 @@ a#closeSidebar:hover div	{
 	margin-top: 300px;
 	margin-left: auto;
 	border-radius: 8px;
+}
+div.field {
+	line-height: 15px;
+}
+div.field label{
+	line-height: 15px;
 }
 

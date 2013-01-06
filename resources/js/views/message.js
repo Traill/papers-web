@@ -1,20 +1,36 @@
 // Messages is a small class that let you show a popup on the top of the windows with radio
 define(["jquery", "lib/jquery-class", "radio", 'params'], function ($, Class, radio, config) {
+
+	//////////////////////////////////////////////
+	//											//
+	//            	   Variables				//
+	//											//
+	//////////////////////////////////////////////
+
+
+
 	
 	//////////////////////////////////////////////
 	//											//
 	//            		Init 					//
 	//											//
 	//////////////////////////////////////////////
-		
-	// Show a windows:
-	radio("message").subscribe(function(content){
-		new Message(content);
-	});
 
-	// Put it the middle:
-	radio("window:resize").subscribe(middle_adjust);
+	var init = function(){
 
+		// Show a windows:
+		radio("message").subscribe(function(content){
+			new Message(content);
+		});
+
+		// Put it the middle:
+		radio("window:resize").subscribe(middle_adjust);
+
+		return Message;
+
+	}
+
+	
 	
 	//////////////////////////////////////////////
 	//											//
@@ -62,29 +78,38 @@ define(["jquery", "lib/jquery-class", "radio", 'params'], function ($, Class, ra
 
 	var registered_message = {
 		'node:schedule': 'The talk as been <b>added</b> to your schedule list on the right',
-		'node:unschedule': 'The talk as been <b>removed</b> from your schedule list'
+		'node:unschedule': 'The talk as been <b>removed</b> from your schedule list',
+		'sidebar:hide': 'You closed the sidebar. You can open it anytime by click on the arrow <img src="./img/img_sidebar.png" /> on your left side of the window.'
 	}
 
 
 	// First time you close the sidebar, show a message
 	var nbclosed = 0;
-	radio("sidebar:close").subscribe(function () { 
-			if(nbclosed == 0){
-				nbclosed++;
-				//show message
-			}
-		});
+	var is_closed = false;
+	radio("sidebar:hide").subscribe(function () { 
+		if(nbclosed == 0){
+			nbclosed++;
+			//show message
+			radio('message').broadcast(registered_message['sidebar:hide']);
+		}
+		is_closed = true;
+	});
+	
+	radio("sidebar:show").subscribe(function () { 
+		is_closed = false;
+	});
 
+	radio("node:schedule").subscribe(function(){
+		if(is_closed){
+			radio('message').broadcast(registered_message['node:schedule']);
+		}
+	});
+	radio("node:unschedule").subscribe(function(){
+		if(is_closed){
+			radio('message').broadcast(registered_message['node:unschedule']);
+		}
+	});
 
-	// Stupid bug with radio (?)
-	var init = function(){
-
-		// Put it the middle:
-		radio("window:resize").subscribe(middle_adjust);
-
-		return Message;
-
-	}
 	
 	return init;
 });
