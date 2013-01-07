@@ -365,6 +365,7 @@ a#closeSidebar:hover div	{
 	height: 100%;
 	z-index: 6;
 	position: absolute;
+	top: 0;
 }
 #loader .content{
 	color: #fff;
