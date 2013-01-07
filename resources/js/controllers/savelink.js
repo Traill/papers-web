@@ -123,6 +123,7 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		// Get active filters
 		saveLink.data.currentFilters = search.currentIndices;
 
+		console.debug(nodeList.scheduled)
 		// Get node related data and map for ids
 		saveLink.data.scheduled = nodeList.scheduled.map(function(n) {
 			return n.id;
