@@ -256,7 +256,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		$("input[name=abstract]").attr("value",abst);
 
 		// Get all the nodes in the schedule:
-		var scheduled = nodeList.scheduled.map(function(e){ return nodeList.getNodeFromIndex(e);});
+		var scheduled = nodeList.scheduled;
 
 		// generate the pdf
 		var t = new Pdf(scheduled);

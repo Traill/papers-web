@@ -19,6 +19,7 @@ define(["radio", "models/nodeList", "models/linkList", "models/search", "models/
 	// initialize graph
 	graph.init(nodeList.getNodes(), linkList.getAllLinks());
 
+
 	// Load saved data
 	saveLink.init();
 
