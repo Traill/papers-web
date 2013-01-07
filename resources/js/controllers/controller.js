@@ -22,7 +22,6 @@ define(["radio", "models/nodeList", "models/linkList", "models/search", "models/
 	// Load saved data
 	saveLink.init();
 
-	console.log('test');
 
 	// Return the controller
 	return controller;
