@@ -1,5 +1,5 @@
-define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox", "views/sidebar", "views/selectBox", "views/menu", "views/search", "views/links", "views/zoomer", "views/map", "views/message"], 
-	function(radio, screen, nodeList, graph, infobox, sidebar, selectbox, menu, search, links, zoomer, map, MessageInit) {
+define(["jquery", "radio", "util/screen", "models/nodeList", "views/graph", "views/infobox", "views/sidebar", "views/selectBox", "views/menu", "views/search", "views/links", "views/zoomer", "views/map", "views/message", "controllers/savelink"], 
+	function($, radio, screen, nodeList, graph, infobox, sidebar, selectbox, menu, search, links, zoomer, map, MessageInit, saveLink) {
 
 
 	//////////////////////////////////////////////
@@ -31,6 +31,14 @@ define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox
 
 			radio('message').broadcast('Welcome on trailHead! <br/> You can learn how it is working on the <a href="./page/about.html">about page</a>');
 
+
+			// Register the in the DOM
+			$('#save_graph').click(function(e){
+				
+				e.preventDefault();
+				$('#savegraph_val').attr('value', saveLink.enable());
+
+			});
 		});
 
 		// Broadcast the event that the windows has been resized:

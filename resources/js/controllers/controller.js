@@ -20,7 +20,9 @@ define(["radio", "models/nodeList", "models/linkList", "models/search", "models/
 	graph.init(nodeList.getNodes(), linkList.getAllLinks());
 
 	// Load saved data
-	saveLink.init()
+	saveLink.init();
+
+	console.log('test');
 
 	// Return the controller
 	return controller;

@@ -44,6 +44,7 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 	//											//
 	//////////////////////////////////////////////
 	saveLink.init = function() {
+
 		// Load cookie
 		var g = JSON.parse(JSON.parse(cookie("graph")))
 
@@ -56,15 +57,9 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		// Then restore data
 		restore(g);
 
-		console.log('ok');
+		
 
-		// Register the in the DOM
-		$('#save_graph').click(function(e){
-			e.stop();
-
-			$('#savegraph_val').attr('value', saveLink.enable());
-
-		});
+		
 	}
 
 	//////////////////////////////////////////////
@@ -241,5 +236,6 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 	//////////////////////////////////////////////
 
 	saveLink.events();
+	saveLink.init();
 	return saveLink;
 })
