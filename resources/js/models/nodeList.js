@@ -133,7 +133,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		 *	the future by looking session
 		 * 	in the DB with Play
 		 */
-		nodeList.focused = nodeList.getNodeFromIndex(session.loadFocused());
+		//nodeList.focused = nodeList.getNodeFromIndex(session.loadFocused());
 		
 		// TODO: save it in session and load it here.
 		nodeList.selected = null;
@@ -160,26 +160,15 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	// Returns true if the id is selected and false if it isn't
 	nodeList.isScheduled = function(node) {
 		//console.debug(node)
-		return (nodeList.scheduled.indexOf(node.index) != -1);
+		return (nodeList.scheduled.indexOf(node) != -1);
 	}
 
-
-	// Load the scheduled node in the sidebar. This should 
-	// only be called in the initialization of the page, but I've put it 
-	// apart from init() since it relies on the graph being generated
-	nodeList.broadcastScheduled = function() {
-		session.loadScheduled().forEach(function(e){
-										radio("node:schedule").broadcast(nodeList.getNodeFromIndex(e));
-									});
-
-		//radio("node:focused").broadcast(nodeList.focused);
-	}
 
 
 	// Remove all nodes from the scheduled list
 	nodeList.unscheduleAll = function() {
 		// Broadcast session
-		nodeList.scheduled.forEach(function(e) { return radio("node:unschedule").broadcast(nodeList.getNodeFromIndex(e)); });
+		nodeList.scheduled.forEach(function(node) { return radio("node:unschedule").broadcast(node); });
 	}
 
 
@@ -251,7 +240,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 			// Load all the abstract:
 			node.getAbstract();
 			// Add new item
-			nodeList.scheduled.push(node.index);
+			nodeList.scheduled.push(node);
 			// Add a class name:
 			node.domNode.classed('scheduled', true);
 			// Save changes
@@ -261,7 +250,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 
 	// Removes the id from the list of selected nodeList
 	var unschedule = function(node) {
-		nodeList.scheduled = nodeList.scheduled.filter(function(i) { return (i != node.index); });
+		nodeList.scheduled = nodeList.scheduled.filter(function(n) { return (n != node); });
 		node.domNode.classed('scheduled', false);
 		session.saveScheduled(nodeList.scheduled);
 	}
