@@ -28,7 +28,10 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		 */
 
 		// Current node
-		radio("node:focus").subscribe(setFocus);
+		radio("node:select").subscribe(setFocus);
+
+		// Unselect it when click somewhere else
+		radio("node:unselect").subscribe(unsetFocus);
 
 		// Select node
 		radio("node:schedule").subscribe(schedule);
@@ -128,8 +131,18 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		// Removes current from last list item
 		$(".listItem.current").removeClass("current");
 
-		// Adds curren to the current list item
+		// Adds current to the current list item
 		$("#" + node.id).addClass("current");
+	}
+
+
+	/**
+	 * Updates the list when unselecting a node
+	 */
+	var unsetFocus = function (node) {
+
+		// Removes current from last list item
+		$(".listItem.current").removeClass("current");
 	}
 
 
@@ -177,6 +190,11 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		item.find(".listItemRemove").click(function (e) { 
 			radio("sidebar:remove").broadcast(node,e); 
 		});
+
+		// Move sidebar when close to show it has been added
+		if(!isOpen){
+			moveSidebar(-280, 100, 0, function(){ moveSidebar(-310, 50, 0) });
+		}
 	}
 
 
@@ -200,6 +218,9 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 			// Remove the jquery item from the DOM
 			item.remove(); 
 		});
+		if(!isOpen){
+			moveSidebar(-280, 100, 0, function(){ moveSidebar(-310, 50, 0) });
+		}
 	}
 
 	/**
@@ -235,19 +256,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		$("input[name=abstract]").attr("value",abst);
 
 		// Get all the nodes in the schedule:
-		var scheduled = new Array();
-		
-		// BUG: we have something else coming in the schedule list:
-		
-		//scheduled.filter(function(n) { return typeof(n) != "number"; }); WHY IT IS NOT WORKING??
-		var i = 0;
-		nodeList.scheduled.forEach(function(n) {
-			if(typeof(n) == "object"){
-				scheduled[i] = n;
-				i++;
-			};
-			
-		});
+		var scheduled = nodeList.scheduled.map(function(e){ return nodeList.getNodeFromIndex(e);});
 
 		// generate the pdf
 		var t = new Pdf(scheduled);
@@ -266,26 +275,24 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		
 
 		// Add each in node in the ical document:
-		nodeList.scheduled.forEach(function(node) {
+		nodeList.scheduled.forEach(function(nodeIndex) {
 
-			// BUG: we have something else coming in the schedule list
-			// we need to filter it first:
-			if(typeof(node) == "object"){
+			var node =  nodeList.getNodeFromIndex(nodeIndex);
 				
-				// create the description of the event:
-				var description = "";
-				
-				// create author string:
-				node.authors.forEach(function(author, i) { description += (i > 0) ? ", "+author: author; });
+			// create the description of the event:
+			var description = "";
+			
+			// create author string:
+			node.authors.forEach(function(author, i) { description += (i > 0) ? ", "+author: author; });
 
-				// if we want abastract in the ical event:
-				if(abst == 1) description += "\n"+node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"");
+			// if we want abastract in the ical event:
+			if(abst == 1) description += "\n"+node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"");
 
-				// create ending date:
-				var start = node.getDate();
-				var end = new Date( start.getTime()+param['talk_duration']*60*1000 );
-				icalDoc.addEvent(start, end, node.title, node.room, description );
-			};			
+			// create ending date:
+			var start = node.getDate();
+			var end = new Date( start.getTime()+param['talk_duration']*60*1000 );
+			icalDoc.addEvent(start, end, node.title, node.room, description );
+					
 		});
 
 		icalDoc.send();
@@ -315,23 +322,34 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	}
 	
 	/**
-	 * Hide the side bar
+	 * Move the side bar
 	 */
 	
-	var hide = function() {
-		$('#tabs').animate({"left": "-310px"}, 300);
-		$('#closeSidebar').animate({"left": "0px"}, 300);
-		$('#closeSidebar div').transition({ rotate: '0deg' });
+	var moveSidebar = function(dist, duration, rot, callback) {
+		if(dist == null) dist = -310;
+		if(duration == null) duration = 300;
+		if(rot == null) rot = 0;
+
+		$('#tabs').animate({"left": ""+dist+"px"}, duration, callback);
+		$('#closeSidebar').animate({"left": ""+(dist+310)+"px"}, duration);
+		$('#closeSidebar div').transition({ rotate: ""+rot+'deg' });
 	}
+
+	/**
+	 * Hide the side bar
+	 */
+
+	 var hide = function(){
+	 	moveSidebar();
+	 }
 	
 	/**
 	 * Show the side bar
 	 */
 	 
 	 var show = function() {
-	 	$('#tabs').animate({"left": "0px"}, 300);
-	 	$('#closeSidebar').animate({"left": "310px"}, 300);
-	 	$('#closeSidebar div').transition({ rotate: '180deg' });
+
+		moveSidebar(0, 300, 180);
 	 }
 	
 	
@@ -341,9 +359,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	var resize = function(w, h){
 	
 		$('#tabs').css('height', h);
-		$('#tabs .scrollable').css('height', h-300);
-		$('#tabs-1 .scrollable').css('height', h-150);
-		//$('#tabs-3 .scrollable').css('height', h-430);
+		$('#tabs .scrollable').css('height', h-240);
 		
 	}
 	// Export the controller

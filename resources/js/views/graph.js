@@ -50,10 +50,11 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 		radio("search:remove").subscribe(searchRemove);
 
 		// remove a link
-		radio("link:remove").subscribe(removeLink)
+		radio("link:remove").subscribe(removeLink);
 
 		// Add a link
-		radio("link:add").subscribe(addLink)
+		radio("link:add").subscribe(addLink);
+
 
 	}
 
@@ -89,12 +90,6 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 		// Make node red
 		domNode.classed("hover", false);
 
-		// Find all edges belinging to current node and update them
-		for (var index in node.links) {
-			var link = node.links[index].link;
-			if (link.domLink == null) throw new Error("No link with " + index + " exists")
-			link.domLink.classed("hover", false);
-		}
 	}
 
 
@@ -109,10 +104,12 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 
 	}
 
-
-	
 	// What happends when we select a node
 	var select = function(node) {
+
+		// Get node
+		var domNode = node.domNode;
+
 		// Make node red
 		node.domNode.classed("selected", true);
 		node.domNode.transition().attr('r', config['radius_selected']);

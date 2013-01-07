@@ -54,7 +54,8 @@ curl(
 		</div>
 		<a href="#" class="plus">+</a>
 	</div>
-	<div id="infowrap"><div id="info"><p></p></div></div>
+	<div id="message_wrap"></div>
+	<div id="infowrap"><div id="info" class="message"><p></p></div></div>
 	<div id="clickwrap"><div id="clickbox">
 			<div class="click" id="select"><a href="#" title="Add to schedule"><img alt="Add to Schedule" src="img/icons/calendar.png"/></a></div>
 			<!-- <div class="click" id="abstract"><img alt="Show Info" src="img/icons/info.png"/></div> -->
@@ -77,7 +78,9 @@ curl(
 		        <li><a href="#tabs-1">Info</a></li>
 		        <li><a href="#tabs-3">Search</a></li>
 		</ul>
-		<div id="tabs-2">
+		<div class="scrollable" id="tabs-2">
+		<div class="scrolltop"></div>
+		
 			<div class="toolbar">
 				<a href="#"><div class="downpdf"><img alt="Download Paper" src="img/pdf.png"/>Download pdf</div></a>
 				<a href="#"><div class="downicn"><img alt="Download Paper" src="img/ical.png"/>Download ical</div></a>
@@ -85,8 +88,7 @@ curl(
 			<div style="margin: 10px 30px; height: 6px;">
 				<a href="#" class="removeall smalltool"><span class="iconx">x</span> Remove all</a>
 			</div>
-			<div class="scrolltop"></div>
-			<div class="scrollable">
+			<div>
 				<form action="schedule.php" target="_blank" name="schedule" method="post" 
 					onSubmit="return false;">
 				<ul id="sidebar">
@@ -112,7 +114,8 @@ curl(
 		</div>
 
 
-		<div id="tabs-3">
+		<div class="scrollable" id="tabs-3">
+		<div class="scrolltop"></div>
 			<div class="form-w">
 				<form id="filterForm" onSubmit="return false;">
 					<label for="keywords">Search</label>
@@ -133,17 +136,20 @@ curl(
 							<option value="">Not Selected</option>
 						</select>
 					</div>
+					<div class="clear" style="height: 8px;"></div>
 					<div class="field">
-						<label for="from">From</label>
+						<label class="inline_label" for="from" style="margin-left: 0px;">From</label>
 						<input type="text" style="width: 85px;" name="from" class="date_picker2">
-						<label  class="inline_label" for="fromtime">Time: </label>
-						<input type="text"  name="fromtime"  style="width: 70px;">
+						<label  class="inline_label" for="fromtime"  style="margin-left: 5px;">Time: </label>
+						<input type="text"  name="fromtime"  style="width: 47px;">
+						<div class="clear"></div>
 					</div>
 					<div class="field">
-						<label  for="to">To</label>
+						<label class="inline_label" for="to" style="margin-left: 0px; margin-right: 24px;">To</label>
 						<input type="text"  name="to"  style="width:85px;" class="date_picker2">
-						<label  class="inline_label" for="totime">Time: </label>
-						<input type="text"  name="totime"  style="width: 70px;">
+						<label  class="inline_label" for="totime"  style="margin-left: 5px;">Time: </label>
+						<input type="text"  name="totime"  style="width: 47px;">
+						<div class="clear"></div>
 					</div>
 					<div style="height: 30px; margin-top: 10px;">
 						<button  class="submit" name="add" id="addFilter">Add</button>
@@ -152,9 +158,7 @@ curl(
 	
 				<hr width="90%"/>
 
-				<div class="scrolltop" style="width: 280px;"></div>
-				
-				<div class="scrollable" style="width: 270px; padding-right: 20px;">
+								
 				<div class="clear" style="height: 20px;"></div>
 					<ul id="filterList">
 						<li id="filterItemTemplate" class="filterItem listItem">

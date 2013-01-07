@@ -134,6 +134,22 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		nodeList.nodes.forEach(function (n) { 
 			nodeList.indexMap[n.id] = n.index; 
 		});
+		
+		// Empty session first
+		nodeList.scheduled = new Array();
+		
+
+		/*  TODO: This loading should be done in 
+		 *	the future by looking session
+		 * 	in the DB with Play
+		 */
+		nodeList.focused = nodeList.getNodeFromIndex(session.loadFocused());
+		
+		// TODO: save it in session and load it here.
+		nodeList.selected = null;
+
+		nodeList.stats = undefined;
+
 	}
 
 
@@ -158,7 +174,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	}
 
 
-	// Broadcasts the selected nodeList and the focused nodeList. This should 
+	// Load the scheduled node in the sidebar. This should 
 	// only be called in the initialization of the page, but I've put it 
 	// apart from init() since it relies on the graph being generated
 	nodeList.broadcastScheduled = function() {
@@ -240,6 +256,8 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	var schedule = function(node) {
 		// Check if id doesn't already exist
 		if (!nodeList.isScheduled(node)) {
+			// Load all the abstract:
+			node.getAbstract();
 			// Add new item
 			nodeList.scheduled.push(node);
 
@@ -269,6 +287,7 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 
 		nodeList.selected = node;
 	}
+
 
 
 

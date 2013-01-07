@@ -41,16 +41,22 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		radio("node:mouseout").subscribe(hoverOut);
 
 		// Hide All links
-		radio("link:hideAll").subscribe(hideAll)
+		radio("link:hideAll").subscribe(hideAll);
 
 		// Hide link
-		radio("link:hide").subscribe(hide)
+		radio("link:hide").subscribe(hide);
 
 		// Show link
-		radio("link:show").subscribe(show)
+		radio("link:show").subscribe(show);
 
 		// Add link
-		radio("link:add").subscribe(add)
+		radio("link:add").subscribe(add);
+
+		// When a node is scheduled
+		radio("node:schedule").subscribe(scheduled)
+
+		// When a node is unscheduled
+		radio("node:schedule").subscribe(unscheduled)
 	}
 	
 
@@ -150,6 +156,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 			node.links[index].clickable.remove();
 			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 			link.domLink.classed('clikable', false);
+			link.domLink.classed('hover', false);
 			
 		};
 	}
@@ -168,12 +175,19 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	}
 	
 	var hoverOut = function(node) {
-		
-		for (var index in node.links) {
-			var link = node.links[index].link;
-			// Check if note selected
-			link.domLink.classed('hover', false);
-			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
+
+		if( nodeList.selected == null || nodeList.selected.index != node.index){
+			for (var index in node.links) {
+				var link = node.links[index].link;
+				// Check if note selected
+				if(link.domLink != null ) {
+					var e = d3.event;
+					
+					link.domLink.classed('hover', false);
+					link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
+
+				}
+			}
 		}
 	}
 
@@ -211,7 +225,32 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	}
 
 
-
+	var scheduled = function(node) {
+		
+		for (var index in node.links) {
+			var link = node.links[index].link;
+			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
+			
+			var e = d3.event;
+			link.domLink.classed('scheduled', true);
+			
+		}
+	}
+	
+	var unscheduled = function(node) {
+		
+		if( nodeList.selected == null || nodeList.selected.index != node.index){
+			
+			for (var index in node.links) {
+				var link = node.links[index];
+				if(link.domLink) {
+					var e = d3.event;
+					// Check if note selected
+					link.domLink.classed('scheduled', false);
+				}
+			}
+		}
+	}
 
 
 	//////////////////////////////////////////////
