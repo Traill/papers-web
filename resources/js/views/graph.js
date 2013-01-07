@@ -1,4 +1,4 @@
-define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(radio, screen, zoom, config, d3) {
+define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeList"], function(radio, screen, zoom, config, d3, nodes) {
 
 
 	//////////////////////////////////////////////
@@ -25,12 +25,6 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 		// // On node deselect
 		radio("node:deselect").subscribe(deselect);
 
-		// On node schedule, make sure the node is sceduled in the the graph
-		radio("node:schedule").subscribe(schedule);
-
-		// // On node unschedule
-		radio("node:unschedule").subscribe(unschedule);
-
 		// On node mouseover
 		radio("node:mouseover").subscribe(hover);
 
@@ -50,10 +44,18 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 		radio("search:remove").subscribe(searchRemove);
 
 		// remove a link
-		radio("link:remove").subscribe(removeLink)
+		radio("link:remove").subscribe(removeLink);
 
 		// Add a link
-		radio("link:add").subscribe(addLink)
+		radio("link:add").subscribe(addLink);
+
+		// Unselect graph when click on canvas
+		radio("canvas:click").subscribe(function(){
+			if(node_clicked)
+				node_clicked = false;
+			else
+				if(nodes.selected) radio("node:deselect").broadcast(nodes.selected);
+		});
 
 	}
 
@@ -68,14 +70,18 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 	
 	
 	// Schedule a particular node
-	var schedule = function(node) {
+	var scheduled = function(node) {
+
+		var domNode	= node.domNode;
+
 		// Update the new current node to scheduled
-		node.domNode.classed("scheduled", true);
+		node.classed("scheduled", true);
 	}
 		
 		
 	// unschedule a particular node
 	var unschedule = function(node) {
+
 		// Deselect it
 		node.domNode.classed("scheduled", false);
 	}
@@ -89,12 +95,6 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 		// Make node red
 		domNode.classed("hover", false);
 
-		// Find all edges belinging to current node and update them
-		for (var index in node.links) {
-			var link = node.links[index].link;
-			if (link.domLink == null) throw new Error("No link with " + index + " exists")
-			link.domLink.classed("hover", false);
-		}
 	}
 
 
@@ -109,34 +109,62 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3'], function(rad
 
 	}
 
-
+	// Register a node has been clicked:
+	var node_clicked = false;
 	
 	// What happends when we select a node
 	var select = function(node) {
+		// Get node
+		var domNode = node.domNode;
+
+		// Be sure that we deselected the previous node:
+		if(nodes.selected) radio("node:deselect").broadcast(nodes.selected);
+
+		// Register this node as selected:
+		nodes.selected = node;
+		node_clicked = true;
 		// Make node red
-		node.domNode.classed("selected", true);
-		node.domNode.transition().attr('r', config['radius_selected']);
+		domNode.classed("selected", true);
+		domNode.transition().attr('r', config['radius_selected']);
+	
 	}
 	
 	// What happends when we deselect a node
 	var deselect = function(node) {
+		
+		
+		// Get node
+		var domNode = node.domNode;
+
 		// Make node red
-		node.domNode.classed("selected", false);
-		node.domNode.transition().attr('r', config['radius']);
+		domNode.classed("selected", false);
+		domNode.transition().attr('r', config['radius']);
+		
+		nodes.selected = null;
+		
+		
 	}
 
 
 	// Highlights a node as a search result
 	var searchAdd = function(node) {
+
+		// Get the domNode
+		var domNode = node.domNode;
+
 		// Add search class to affected node
-		node.domNode.classed("search",true);
+		domNode.classed("search",true);
 	}
 
 
 	// Removes highlight from a node that is no longer a search result
 	var searchRemove = function(node) {
+
+		// Get the domNode
+		var domNode = node.domNode;
+
 		// Add search class to affected node
-		node.domNode.classed("search",false);
+		domNode.classed("search",false);
 	}
 	
 	
