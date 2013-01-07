@@ -62,7 +62,18 @@ curl(
 
 	<div id="content">
 
-
+	<div id="topbar">
+		<div id="header" class="left">
+			<a href="./pages/about.html" id="logo"><div></div></a>
+		</div>
+		<div id="save_graph_w">
+			<a href="http://" id="save_graph">Save the graph</a>
+			<div class="popup">
+				<input type="text" name="savegraph_val" id="savegraph_val" value="" />
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
 
 
 	<!-- Graph -->
@@ -85,9 +96,6 @@ curl(
 	<!-- List -->
 	<a href="#" id="closeSidebar"><div></div></a>
 	<div id="tabs" class="text">
-		<div id="header">
-			<a href="./pages/about.html" id="logo"><div></div></a>
-		</div>
 		<div id="map">
 			<svg width="100%" height="150px"></svg>
 		</div>

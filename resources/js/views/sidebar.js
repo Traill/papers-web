@@ -359,7 +359,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	var resize = function(w, h){
 	
 		$('#tabs').css('height', h);
-		$('#tabs .scrollable').css('height', h-240);
+		$('#tabs .scrollable').css('height', h-278);
 		
 		
 	}
