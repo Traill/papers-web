@@ -47,6 +47,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		// Check if we already have the clustering for 'n'
 		if (cluster.groups[n] == undefined) {
 			$.getJSON("ajax/clusters/" + n, function(data) { 
+				console.debug(data);
 				cluster.groups[n] = toIndex(data);
 				render(n);
 			})
@@ -96,7 +97,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		});
 
 		// Render graph
-		graph.set(nodeList.getNodes(), linkList.getLinks())
+		graph.set(nodeList.getNodes(), linkList.getLinks(), 300)
 	}
 
 

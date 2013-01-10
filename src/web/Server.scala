@@ -17,7 +17,7 @@ object Main {
   def main(args : Array[String]): Unit= {
 
     // Initialize data
-    Data.init("isit2012test")
+    Data.init("isit2012")
 
     // Fetch the server
     val srv = Server.init
