@@ -1,5 +1,5 @@
-define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
-	   function(nodes, radio, session, arrrr, cookie, position, nodeFactory) {
+define(["ajax/nodes", "radio", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
+	   function(nodes, radio, arrrr, cookie, position, nodeFactory) {
 
 /* TRAILHEAD MODEL
  * ---------------------------------------------------
@@ -54,18 +54,6 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	// Nodes and indices
 	nodeList.nodes = new Array();
 	nodeList.indexMap = new Object();
-
-	// A list of all the nodes that are scheduled
-	nodeList.scheduled = [];
-
-	// The currently focused node (the node the mouse is hovering over)
-	nodeList.focused = null;
-		
-	// The currently selected node (the node we last clicked on)
-	nodeList.selected = null;
-
-	// An object containing some statistics about the nodes
-	nodeList.stats = undefined;
 
 
 	//////////////////////////////////////////////
@@ -122,10 +110,11 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	//											//
 	//////////////////////////////////////////////
 	
-	// The init function load the model of nodeList
-	// It creates for each node an object with containing
-	// all the related information
 	nodeList.init = function() {
+		
+		// The init function load the model of nodeList
+		// It creates for each node an object with containing
+		// all the related information
 		
 		// Load nodeList
 		nodeList.nodes = nodes.map(nodeFactory.new);
@@ -134,6 +123,23 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		nodeList.nodes.forEach(function (n) { 
 			nodeList.indexMap[n.id] = n.index; 
 		});
+
+		
+		// Empty session first
+		nodeList.scheduled = new Array();
+		
+
+		/*  TODO: This loading should be done in 
+		 *	the future by looking session
+		 * 	in the DB with Play
+		 */
+		//nodeList.focused = nodeList.getNodeFromIndex(session.loadFocused());
+		
+		// TODO: save it in session and load it here.
+		nodeList.selected = null;
+
+		nodeList.stats = undefined;
+
 	}
 
 
@@ -157,15 +163,6 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 		return (nodeList.scheduled.indexOf(node) != -1);
 	}
 
-
-	// Broadcasts the selected nodeList and the focused nodeList. This should 
-	// only be called in the initialization of the page, but I've put it 
-	// apart from init() since it relies on the graph being generated
-	nodeList.broadcastScheduled = function() {
-		// Broadcast session
-		nodeList.scheduled.forEach(function(node) { return radio("node:schedule").broadcast(node); });
-		//radio("node:focused").broadcast(nodeList.focused);
-	}
 
 
 	// Remove all nodes from the scheduled list
@@ -240,19 +237,20 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	var schedule = function(node) {
 		// Check if id doesn't already exist
 		if (!nodeList.isScheduled(node)) {
+			// Load all the abstract:
+			node.getAbstract();
 			// Add new item
 			nodeList.scheduled.push(node);
-
-			// Fetch abstract
-			node.getAbstract(function() {});
+			// Add a class name:
+			node.domNode.classed('scheduled', true);
+			// Save changes
 		}
 	}
 
 	// Removes the id from the list of selected nodeList
 	var unschedule = function(node) {
 		nodeList.scheduled = nodeList.scheduled.filter(function(n) { return (n != node); });
-		//node.domNode.classed('scheduled', false);
-		session.saveScheduled(nodeList.scheduled);
+		node.domNode.classed('scheduled', false);
 	}
 
 	
@@ -263,12 +261,9 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 
 
 	// Select a node (when it is clicked)
-	var select = function(node) {
-		// Unschedule the node scheduled before
-		if (nodeList.selected) radio("node:deselect").broadcast(nodeList.selected);
-
-		nodeList.selected = node;
-	}
+//	var select = function(node) {
+//		nodeList.selected = node;
+//	}
 
 
 

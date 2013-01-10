@@ -3,12 +3,20 @@ package paper
 // Object for transforming a list of documents to a communityMap
 object Louvain {
 
+  var idMap : Map[String, Int] = Map.empty
+  var indexMap : Map[Int, String] = Map.empty
+
   def init(docs : Map[String, Document]) : Louvain = {
-    val idMap : Map[String, Int] = for (((id, _), i) <- docs.zipWithIndex) yield (id -> i)
+    idMap = for (((id, _), i) <- docs.zipWithIndex) yield (id -> i)
+    indexMap = for (((id, _), i) <- docs.zipWithIndex) yield (i -> id)
     def link(id : String, l : Link) = CommunityLink(Id(idMap(id)), Id(idMap(l.id)), l.weight)
     def doc(d : Document) = CommunityDoc(Id(idMap(d.id)), d.links.overN(20).map(link(d.id,_)))
     val cs : Map[Index, CommunityDoc] = for ((id, d) <- docs) yield (Index(idMap(id)) -> doc(d))
     Louvain(CommunityMap(cs))
+  }
+
+  def cluster(l : Louvain) : Map[String, Int] = {
+    for (((_,c),i) <- l.cluster.cs.zipWithIndex; (_,d) <- c.cs) yield (indexMap(d.cs.keys.head.n) -> i)
   }
 
   implicit def linksToLinks(links : List[Link]) : Links = Links(links)

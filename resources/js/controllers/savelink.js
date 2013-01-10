@@ -196,11 +196,8 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 
 
 	var setDate = function(filter) {
-		console.debug(filter)
 		return filter;
-
 	}
-
 
 
 	// Create a new random id

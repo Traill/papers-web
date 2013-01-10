@@ -85,7 +85,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	//////////////////////////////////////////////
 
 	// Instate a new graph
-	graph.set = function(nodes, links) {
+	graph.set = function(nodes, links, iter) {
 
 		// Set forcelayout
 		graph.setForceLayout(nodes, links)
@@ -94,7 +94,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.events(nodes);
 
 		// Render the updated graph
-		graph.render(nodes, links);
+		graph.render(nodes, links, iter);
 	}
 
 
@@ -106,6 +106,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			.attr("height", "100%")
 			// Enable zoom feature:
 			.call(	graph.zoom )
+			// Register event:
+			.on('click', function(){
+				radio('canvas:click').broadcast();
+			})
 			// Add paning g:
 			.append('svg:g') 
 			.attr("pointer-events", "all")
@@ -120,6 +124,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Create a new force Layout
 		graph.set(nodes, links);
+
 	}
 
 	
@@ -180,11 +185,12 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 
 	// Render graph
-	graph.render = function(nodes, links) {
+	graph.render = function(nodes, links, iter) {
 		
 		// Define some conditions to stop:
-		var treshold = 2; //3.1 is ideal
-		var nbTotIter = 100; // Wait less than 10s to avoid unreachead minimum 
+		var treshold = 1.5; //3.1 is ideal
+		//var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = (iter) ? iter : 200; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
 		radio("link:hideAll").broadcast();
@@ -205,8 +211,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.force.start();
 		graph.force.tick()
 		graph.force.stop();
-
-		if (iterations % 20 == 0) console.debug(distance(nodes))
 		
 		// Recourse
 		if (nbChanges(nodes) > treshold && iterations > 0){ 
@@ -252,11 +256,13 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Force layout to recompute position
 		graph.force = d3.layout.force()
-						//.charge(-150) // With this we need to make links bigger
-						//.linkDistance(2)
-						.charge(-500)
+						//.charge(-1000)
+						//.linkDistance(40)
+						//.friction(0.8)
+						//.theta(0.8)
+						.charge(-100)
 						.linkDistance(4)
-						.friction(0.7)
+						.friction(0.8)
 						.theta(0.8)
 						.nodes(nodes)
 						.links(links.map(function(l) { return l.simple(); }))
@@ -285,24 +291,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	}
 	
 
-	// The collective distance between nodes
-    var distance = function(nodes) {
-		var tot = 0
-
-		var distSq = function(n1, n2) { 
-			return Math.pow(n1.x - n2.x, 2) + Math.pow(n1.y - n2.y,2); 
-		}
-
-		nodes.forEach(function(node, i) {
-			for (var key in node.links) {
-				var l = node.links[key]
-				tot += Math.sqrt(distSq(node, l.targetNode))
-				l.targetNode
-			}
-		});
-
-		return tot;
-	}
 	
 	// Compute how much the node have changed of
 	// position within one tick:

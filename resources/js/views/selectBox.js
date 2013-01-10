@@ -102,11 +102,10 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 
 		// Change position of and fade in
 		$("#clickwrap")
-			.stop(true, true)
+			.stop(true,true)
 			.css("left",pos[0] + "px")
 			.css("top", pos[1] + "px")
-			.fadeIn();//.delay(3000).fadeOut(); 
-		// Always show it. If no button, we can't schedule it!
+			.fadeIn();//.delay(4000).fadeOut(); 
 	}
 	
 	// when moving the canvas, we want that the clickwrap follow the node:
