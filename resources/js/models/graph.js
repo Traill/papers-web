@@ -190,7 +190,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Define some conditions to stop:
 		var treshold = 1.5; //3.1 is ideal
 		//var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
-		var nbTotIter = (iter) ? iter : 100; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = (iter) ? iter : 200; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
 		radio("link:hideAll").broadcast();
