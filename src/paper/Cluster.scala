@@ -62,8 +62,6 @@ case class Spectral(docs : Map[String, Document], k : Int) extends Cluster {
 
 case class KMeans(T : DenseMatrix[Double]) {
 
-  import scala.util.Random.nextDouble
-
   // Shorthand for the rows and columns of the matrix
   val n : Int = T.rows
   val k : Int = T.cols
@@ -72,7 +70,6 @@ case class KMeans(T : DenseMatrix[Double]) {
 
   // The initialized grouping (I could also import random and use 'shuffle')
   val inits : Map[Int, Seq[Int]] = is.groupBy(i => i % k)
-  //val inits : Map[Int, Seq[Int]] = is.groupBy(_ => (nextDouble * k).toInt)
 
 
   // calculate the new means giving the cluster assignments

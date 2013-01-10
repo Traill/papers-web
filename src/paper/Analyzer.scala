@@ -185,21 +185,21 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Cluster the documents with louvain clustering
    */
-  // def louvain : Analyzer = {
+  def louvain : Analyzer = {
 
-  //   val clusters : Map[String, Int] = Louvain(docs).cluster
+    val clusters : Map[String, Int] = Louvain.cluster(Louvain.init(docs))
 
-  //   val ds = for((id, doc) <- docs) yield {
+    val ds = for((id, doc) <- docs) yield {
 
-  //     // This is not the most functional code in the world
-  //     var newDoc = doc
-  //     for ((i, group) <- clusters if (id == i)) { newDoc = newDoc.setCluster("louvain" -> group) } 
+      // This is not the most functional code in the world
+      var newDoc = doc
+      for ((i, group) <- clusters if (id == i)) { newDoc = newDoc.setCluster("louvain" -> group) } 
 
-  //     (id -> newDoc)
-  //   }
+      (id -> newDoc)
+    }
 
-  //   return Analyzer(ds)
-  // }
+    return Analyzer(ds)
+  }
 
 
   /**
