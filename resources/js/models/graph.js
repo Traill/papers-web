@@ -85,7 +85,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	//////////////////////////////////////////////
 
 	// Instate a new graph
-	graph.set = function(nodes, links) {
+	graph.set = function(nodes, links, iter) {
 
 		// Set forcelayout
 		graph.setForceLayout(nodes, links)
@@ -94,7 +94,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.events(nodes);
 
 		// Render the updated graph
-		graph.render(nodes, links);
+		graph.render(nodes, links, iter);
 	}
 
 
@@ -185,11 +185,12 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 
 	// Render graph
-	graph.render = function(nodes, links) {
+	graph.render = function(nodes, links, iter) {
 		
 		// Define some conditions to stop:
 		var treshold = 1.5; //3.1 is ideal
-		var nbTotIter = 100; // Wait less than 10s to avoid unreachead minimum 
+		//var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = (iter) ? iter : 200; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
 		radio("link:hideAll").broadcast();
@@ -208,8 +209,11 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Take one step
 		graph.force.start();
-		graph.force.tick()
+		graph.force.tick();
 		graph.force.stop();
+
+		if(iterations % 5 == 0)
+			graph.moveNodes(nodes);
 		
 		// Recourse
 		if (nbChanges(nodes) > treshold && iterations > 0){ 
@@ -222,9 +226,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 			// Stats
 			//console.debug("iterations left: " + iterations)
-
-			// Save node positions
-			savePositions(nodes);
 			
 			// Move links and display them	
 			graph.moveLinks(links);
@@ -255,8 +256,12 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Force layout to recompute position
 		graph.force = d3.layout.force()
-						.charge(-1000)
-						.linkDistance(40)
+						//.charge(-1000)
+						//.linkDistance(40)
+						//.friction(0.8)
+						//.theta(0.8)
+						.charge(-100)
+						.linkDistance(4)
 						.friction(0.8)
 						.theta(0.8)
 						.nodes(nodes)
@@ -264,10 +269,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 						.size([config['graph_width'], config['graph_height']])
 						.linkStrength( function(d, i) { return d.value; });
 
-		// Make sure nodes move on every tick
-		graph.force.on("tick", function() {
-			graph.moveNodes(nodes);
-		});
+
 
 	}
 
@@ -314,14 +316,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		});
 				
 		return positions;
-	}
-	
-
-	var savePositions = function(nodes){
-	
-		var JSONPosition = getPositions(nodes);
-		
-		// Then send it; Nothing now. 
 	}
 	
 	
