@@ -1,5 +1,5 @@
-define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
-	   function(nodes, radio, session, arrrr, cookie, position, nodeFactory) {
+define(["ajax/nodes", "radio", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
+	   function(nodes, radio, arrrr, cookie, position, nodeFactory) {
 
 /* TRAILHEAD MODEL
  * ---------------------------------------------------
@@ -244,7 +244,6 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 			// Add a class name:
 			node.domNode.classed('scheduled', true);
 			// Save changes
-			session.saveScheduled(nodeList.scheduled);
 		}
 	}
 
@@ -252,7 +251,6 @@ define(["ajax/nodes", "radio", "controllers/session", "util/array", "util/cookie
 	var unschedule = function(node) {
 		nodeList.scheduled = nodeList.scheduled.filter(function(n) { return (n != node); });
 		node.domNode.classed('scheduled', false);
-		session.saveScheduled(nodeList.scheduled);
 	}
 
 	

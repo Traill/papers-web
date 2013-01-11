@@ -60,7 +60,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
                                                      with PDFLoader
                                                      with XMLParser 
                                                      with ExtendPaper
-                                                     with Bibliographic
+                                                     with BagOfWordsLSI
                                                      with XMLScheduleParser {
 
   /**
@@ -167,15 +167,19 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
    */
   def spectral(k : Int) : Analyzer = {
 
-    val clusters : Seq[(String, (Int, Int))] = Spectral(docs, k).cluster
+    // Clusters organized by size, then id
+    val clusters : Map[Int, Map[String, Int]] = Spectral(docs, k).cluster
 
     val ds = for((id, doc) <- docs) yield {
 
-      // This is not the most functional code in the world
-      var newDoc = doc
-      for ((i, (size, group)) <- clusters if (id == i)) { newDoc = newDoc.setCluster("spectral" + size -> group) } 
+      // Create a list of groups by sizes for this particular id
+      val cs = for ((size, m) <- clusters; (i, g) <- m if (id == i)) yield (size -> g)
 
-      (id -> newDoc)
+      // Create a map of the new clusters consisting of clustername and group
+      val groupings : Map[String, Int] = cs.map { case(s,g) => "spectral" + s -> g } 
+
+      // Return the new document
+      (id -> doc.setCluster(groupings))
     }
 
     return Analyzer(ds)
@@ -185,21 +189,47 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Cluster the documents with louvain clustering
    */
-  // def louvain : Analyzer = {
+  def louvain : Analyzer = {
 
-  //   val clusters : Map[String, Int] = Louvain(docs).cluster
+    // clusters organized by id
+    val clusters : Map[String, Int] = Louvain.cluster(Louvain.init(docs))
 
-  //   val ds = for((id, doc) <- docs) yield {
+    val ds = for((id, d) <- docs) yield (id -> d.setCluster("louvain" -> clusters(id)))
 
-  //     // This is not the most functional code in the world
-  //     var newDoc = doc
-  //     for ((i, group) <- clusters if (id == i)) { newDoc = newDoc.setCluster("louvain" -> group) } 
+    return Analyzer(ds)
+  }
 
-  //     (id -> newDoc)
-  //   }
 
-  //   return Analyzer(ds)
-  // }
+
+  /**
+   * Filters the links
+   */
+  def takeNLinks(n : Int) : Analyzer = {
+
+    // Take the n strongest connections
+    def takeN(n : Int)(ls : List[Link]) : List[Link] = ls.sortBy(_.weight).reverse.take(n)
+
+    // Filter links
+    val ds = for ((id, d) <- docs) yield (id -> d.setLinks(takeN(n)(d.links)))
+
+    return Analyzer(ds)
+  }
+
+
+
+  /**
+   * Filters the links
+   */
+  def overNLinks(n : Int) : Analyzer = {
+
+    // Take only links over a certain treshold
+    def overN(n : Int)(ls : List[Link]) : List[Link] = ls.filter(_.weight > n)
+
+    // Filter links
+    val ds = for ((id, d) <- docs) yield (id -> d.setLinks(overN(n)(d.links)))
+
+    return Analyzer(ds)
+  }
 
 
   /**

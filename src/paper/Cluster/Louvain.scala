@@ -3,23 +3,22 @@ package paper
 // Object for transforming a list of documents to a communityMap
 object Louvain {
 
+  var idMap : Map[String, Int] = Map.empty
+  var indexMap : Map[Int, String] = Map.empty
+
   def init(docs : Map[String, Document]) : Louvain = {
-    val idMap : Map[String, Int] = for (((id, _), i) <- docs.zipWithIndex) yield (id -> i)
+    idMap = for (((id, _), i) <- docs.zipWithIndex) yield (id -> i)
+    indexMap = for (((id, _), i) <- docs.zipWithIndex) yield (i -> id)
     def link(id : String, l : Link) = CommunityLink(Id(idMap(id)), Id(idMap(l.id)), l.weight)
-    def doc(d : Document) = CommunityDoc(Id(idMap(d.id)), d.links.overN(20).map(link(d.id,_)))
+    def doc(d : Document) = CommunityDoc(Id(idMap(d.id)), d.links.map(link(d.id,_)))
     val cs : Map[Index, CommunityDoc] = for ((id, d) <- docs) yield (Index(idMap(id)) -> doc(d))
     Louvain(CommunityMap(cs))
   }
 
-  implicit def linksToLinks(links : List[Link]) : Links = Links(links)
-  case class Links(links : List[Link]) {
-
-    // Take the n strongest connections
-    def takeN(n : Int) : List[Link] = links.sortBy(_.weight).reverse.take(n)
-
-    // Take only links over a certain treshold
-    def overN(n : Int) : List[Link] = links.filter(_.weight > n)
+  def cluster(l : Louvain) : Map[String, Int] = {
+    for (((_,c),i) <- l.cluster.cs.zipWithIndex; (_,d) <- c.cs) yield (indexMap(d.cs.keys.head.n) -> i)
   }
+
 }
 
 
@@ -28,7 +27,11 @@ case class Louvain(community : CommunityMap) {
 
   // A stream where each element is the clustering after another cycle of iterations
   lazy val cycleStream : Stream[CommunityMap] = community #:: cycleStream.map(_.cycle)
-  lazy val cluster : CommunityMap = cycleStream.zip(cycleStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+  lazy val convergentStream : Stream[CommunityMap] = (cycleStream.zip(cycleStream.tail)
+                                                      .takeWhile { case (m1,m2) => m1 != m2 }
+                                                      .map { case (s1,s2) => s2 })
+  lazy val qs : Stream[Double] = cycleStream.map { c => c.Q }
+  lazy val cluster : CommunityMap = convergentStream.last
 
 }
 
