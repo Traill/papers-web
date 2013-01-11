@@ -1,4 +1,4 @@
-define(["data/position", "util/merge", "params"], function(position, merge, config) {
+define(["controllers/position", "util/merge", "params"], function(position, merge, config) {
 
 
 	//////////////////////////////////////////////
@@ -108,13 +108,13 @@ define(["data/position", "util/merge", "params"], function(position, merge, conf
 	// Find initial position of the node, else create it.
 	var initPosition = function(id) {
 		var pos = {};
-		if(position[id] == null){
+		if(position.get(id) == null){
 			
 			pos.x = config['graph_width']*Math.random();
 			pos.y = config['graph_height']*Math.random();
 			
 		}else {
-			pos = position[id];
+			pos = position.get(id);
 		}
 		return pos;
 	

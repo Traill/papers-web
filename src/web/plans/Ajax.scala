@@ -46,6 +46,21 @@ object Ajax extends unfiltered.filter.Plan {
       JsonContent ~> ResponseString(graph)
     }
 
+    // Save position of the graph
+    case Path(Seg("ajax" :: "savePos" :: id :: Nil)) & Params(params) => {
+      Data.savePosition(id, params("data").head)
+      Json(("success" -> true))
+    }
+
+    // Load a graph
+    case Path(Seg("ajax" :: "loadPos" :: id :: Nil))  => {
+      val pos : String = id match {
+            case "default.js" => "define(function() { return ".concat(Data.getPosition("default") ).concat(" })")
+            case _ => Data.getPosition(id)
+      }
+      JsonContent ~> ResponseString(pos)
+    }
+
 
   }
 }

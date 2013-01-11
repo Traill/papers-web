@@ -36,6 +36,16 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		radio("node:schedule").subscribe(save);
 		radio("node:unschedule").subscribe(save);
 		radio("node:select").subscribe(save);
+
+		radio("domready").subscribe(function(){
+			// Register the in the DOM
+			$('#save_graph').click(function(e){
+				
+				e.preventDefault();
+				$('#savegraph_val').attr('value', saveLink.enable());
+
+			});
+		});
 	}
 
 	//////////////////////////////////////////////
@@ -44,6 +54,7 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 	//											//
 	//////////////////////////////////////////////
 	saveLink.init = function() {
+
 		// Load cookie
 		var g = JSON.parse(JSON.parse(cookie("graph")))
 
@@ -55,6 +66,10 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 
 		// Then restore data
 		restore(g);
+
+		
+
+		
 	}
 
 	//////////////////////////////////////////////
