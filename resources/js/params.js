@@ -30,9 +30,8 @@ define(function () {
 	config['zoomMin'] = 0.1;
 	config['zoomMax'] = 5;
 	config['nbIncrement'] = 40;
-	config['zoomInit'] = 1.5;
+	config['zoomInit'] = 1;
 
-	
 	// graph force layout size:
 	config['graph_width'] = 1200;
 	config['graph_height'] = 700;
