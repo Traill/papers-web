@@ -222,9 +222,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 			// Stats
 			//console.debug("iterations left: " + iterations)
-
-			// Save node positions
-			savePositions(nodes);
 			
 			// Move links and display them	
 			graph.moveLinks(links);
@@ -314,14 +311,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		});
 				
 		return positions;
-	}
-	
-
-	var savePositions = function(nodes){
-	
-		var JSONPosition = getPositions(nodes);
-		
-		// Then send it; Nothing now. 
 	}
 	
 	

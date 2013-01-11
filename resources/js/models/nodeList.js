@@ -1,5 +1,5 @@
-define(["ajax/nodes", "radio", "util/array", "util/cookie", "data/position", "models/nodeFactory"], 
-	   function(nodes, radio, arrrr, cookie, position, nodeFactory) {
+define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"], 
+	   function(nodes, radio, arrrr, cookie, nodeFactory) {
 
 /* TRAILHEAD MODEL
  * ---------------------------------------------------
