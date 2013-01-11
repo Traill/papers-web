@@ -117,6 +117,8 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		
 		//enable scrolling on the canvas:
 		graph.zoom.init(graph.canvas);
+		// TODO: should be done automatically
+		graph.zoom.moveTo(0.6, [300, 100]);
 
 		// Draw the nodes and edges
 		graph.drawNodes(nodes);
