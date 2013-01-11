@@ -30,7 +30,7 @@ define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox
 			resized_pub();
 
 			radio('message').broadcast('Welcome on trailHead! <br/> You can learn how it is working on the <a href="./page/about.html">about page</a>');
-
+			
 		});
 
 		// Broadcast the event that the windows has been resized:

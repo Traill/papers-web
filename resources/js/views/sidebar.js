@@ -256,7 +256,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		$("input[name=abstract]").attr("value",abst);
 
 		// Get all the nodes in the schedule:
-		var scheduled = nodeList.scheduled.map(function(e){ return nodeList.getNodeFromIndex(e);});
+		var scheduled = nodeList.scheduled;
 
 		// generate the pdf
 		var t = new Pdf(scheduled);
@@ -275,9 +275,8 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		
 
 		// Add each in node in the ical document:
-		nodeList.scheduled.forEach(function(nodeIndex) {
+		nodeList.scheduled.forEach(function(node) {
 
-			var node =  nodeList.getNodeFromIndex(nodeIndex);
 				
 			// create the description of the event:
 			var description = "";
@@ -359,7 +358,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	var resize = function(w, h){
 	
 		$('#tabs').css('height', h);
-		$('#tabs .scrollable').css('height', h-240);
+		$('#tabs .scrollable').css('height', h-278);
 		
 		
 	}

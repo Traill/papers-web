@@ -107,9 +107,9 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			// Enable zoom feature:
 			.call(	graph.zoom )
 			// Register event:
-			.on('click', function(){
-				radio('canvas:click').broadcast();
-			})
+			// .on('click', function(){
+			// 	radio('canvas:click').broadcast();
+			// })
 			// Add paning g:
 			.append('svg:g') 
 			.attr("pointer-events", "all")
@@ -211,8 +211,11 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Take one step
 		graph.force.start();
-		graph.force.tick()
+		graph.force.tick();
 		graph.force.stop();
+
+		if(iterations % 5 == 0)
+			graph.moveNodes(nodes);
 		
 		// Recourse
 		if (nbChanges(nodes) > treshold && iterations > 0){ 
@@ -225,9 +228,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 			// Stats
 			//console.debug("iterations left: " + iterations)
-
-			// Save node positions
-			savePositions(nodes);
 			
 			// Move links and display them	
 			graph.moveLinks(links);
@@ -271,10 +271,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 						.size([config['graph_width'], config['graph_height']])
 						.linkStrength( function(d, i) { return d.value; });
 
-		// Make sure nodes move on every tick
-		graph.force.on("tick", function() {
-			graph.moveNodes(nodes);
-		});
+
 
 	}
 
@@ -321,14 +318,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		});
 				
 		return positions;
-	}
-	
-
-	var savePositions = function(nodes){
-	
-		var JSONPosition = getPositions(nodes);
-		
-		// Then send it; Nothing now. 
 	}
 	
 	
