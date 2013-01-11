@@ -209,8 +209,11 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Take one step
 		graph.force.start();
-		graph.force.tick()
+		graph.force.tick();
 		graph.force.stop();
+
+		if(iterations % 5 == 0)
+			graph.moveNodes(nodes);
 		
 		// Recourse
 		if (nbChanges(nodes) > treshold && iterations > 0){ 
@@ -266,10 +269,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 						.size([config['graph_width'], config['graph_height']])
 						.linkStrength( function(d, i) { return d.value; });
 
-		// Make sure nodes move on every tick
-		graph.force.on("tick", function() {
-			graph.moveNodes(nodes);
-		});
+
 
 	}
 

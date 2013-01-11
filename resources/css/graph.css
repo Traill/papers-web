@@ -33,7 +33,7 @@ div#topbar {
 	position: absolute;
 	top: 0;
 	width: 100%;
-	z-index: 10;
+	z-index: 5;
 }
 div#header					{ height: 38px; border-bottom: 1px solid #989898; background: url(../img/bg_head.png) repeat-x; width: 310px;
 }
@@ -397,5 +397,43 @@ div.field label{
 
 #save_graph_w	{
 	float: right;
-	margin-right: 10px;
+}
+#topbar a.btn{
+	color: #5D5D5D;
+	text-shadow: #eee 1px 1px 0px;
+	padding: 12px;
+	padding-top: 13px;
+	display: block;
+	border-left: 1px solid #939393;
+}
+#topbar a.btn:hover{
+	color: #000;
+	text-decoration: none;
+	padding-bottom: 13px;
+	background-color: #CDCDCD !important;
+}
+#topbar a#save_graph {
+	padding-left: 55px;
+	background: transparent url('../img/create.png') no-repeat 20px 11px;
+	border-left: 1px solid #939393;
+}
+#save_graph_w:hover a.btn{
+	color: #000;
+	text-decoration: none;
+	padding-bottom: 13px;
+	background-color: #CDCDCD !important;
+}
+#save_graph_w:hover .popup{
+	display: block;
+}
+#save_graph_w .popup{
+	padding: 20px;
+	display: none;
+	background: #CDCDCD;
+	width: 200px;
+	position: absolute;
+	margin-left: -60px;
+	border-bottom: 1px solid #939393;
+	border-left: 1px solid #939393;
+	border-right: 1px solid #939393;
 }
