@@ -275,9 +275,8 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		
 
 		// Add each in node in the ical document:
-		nodeList.scheduled.forEach(function(nodeIndex) {
+		nodeList.scheduled.forEach(function(node) {
 
-			var node =  nodeList.getNodeFromIndex(nodeIndex);
 				
 			// create the description of the event:
 			var description = "";

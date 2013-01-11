@@ -207,29 +207,29 @@ div.scheduleSelect			{ filter:progid:DXImageTransform.Microsoft.gradient(startCo
 
 
 /* Graph style */
-circle						{ cursor: pointer; }
-circle.node 				{ fill: #ffbf44; stroke: #ffd; stroke-width: 1.5px; }
-circle.scheduled		{ fill: #3C6E70; stroke: #86B5B3; stroke-width: 1px; }
-circle.hover				{ fill: #D76534; stroke: #fdd; }
-circle.selected				{ fill: #990C00; stroke: #dff; }
-circle.search				{ stroke:yellow; stroke-width:3px; }
+#graph circle						{ cursor: pointer; }
+#graph circle.node 				{ fill: #ffbf44; stroke: #ffd; stroke-width: 1.5px; }
+#graph circle.scheduled		{ fill: #3C6E70; stroke: #86B5B3; stroke-width: 1px; }
+#graph circle.hover				{ fill: #D76534; stroke: #fdd; }
+#graph circle.selected				{ fill: #990C00; stroke: #dff; }
+#graph circle.search				{ stroke:yellow; stroke-width:3px; }
 
 
 /* Line value:*/
-line.v2						{ stroke: #E1E1E1; }
-line.v4						{ stroke: #B6B6B6; }
-line.v6						{ stroke: #9D9D9D; }
-line.v8						{ stroke: #818181; }
-line.v10					{ stroke: #676767; }
-line.link 					{ stroke: #aaa; }
-line.scheduled				{ stroke: #3C6E70; }
-line.hover					{ stroke: #D76534; }
+#graph line.v2						{ stroke: #E1E1E1; }
+#graph line.v4						{ stroke: #B6B6B6; }
+#graph line.v6						{ stroke: #9D9D9D; }
+#graph line.v8						{ stroke: #818181; }
+#graph line.v10					{ stroke: #676767; }
+#graph line.link 					{ stroke: #aaa; }
+#graph line.scheduled				{ stroke: #3C6E70; }
+#graph line.hover					{ stroke: #D76534; }
 /* line.selected				{ stroke: #990C00; } */
-line.clikable				{ stroke: #990C00; }
+#graph line.clikable				{ stroke: #990C00; }
 
 
-polygon.handle				{ fill: #990C00; cursor: pointer;}
-polygon.handle:hover		{ fill: #C85B3C; cursor: pointer;}
+#graph polygon.handle				{ fill: #990C00; cursor: pointer;}
+#graph polygon.handle:hover		{ fill: #C85B3C; cursor: pointer;}
 
 /* Overright the jquery UI style*/
 #content .ui-widget-content			{background: #ddd;}
