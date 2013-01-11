@@ -58,7 +58,8 @@ define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], funct
 
 
 	// Save data
-	position.save = function(nodes) {
+	position.save = function(nodes, id) {
+		if(!id) id = "default";
 		//if (config['save_position']) return
 		data = {};
 		// Get the position of the node.
@@ -68,7 +69,7 @@ define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], funct
 		// Save with ajax
 		$.ajax({
 			type: "POST",
-			url: "ajax/savePos/default",
+			url: "ajax/savePos/"+id,
 			data: { data: JSON.stringify(data) },
 			success: function (response) { /* nothing */ },
 			dataType: "json"
