@@ -59,12 +59,22 @@ case class Spectral(docs : Map[String, Document], k : Int) extends Clustering {
   def T(size : Int) : DenseMatrix[Double] = U(size).mapPairs({ case((i,j),k) => k/Unorm(size)(j) })
 
   // cluster
-  lazy val cluster = {
-    for (size <- (2 to k); 
-         (group, ids) <- KMeans(T(size)).result; 
-         index <- ids) 
-      yield (indexToId(index) -> (size -> group))
+  def cluster : Map[Int, Map[String, Int]] = {
+    val groups = ((2 to k).zipWithIndex).toMap map { case (size,_) =>
+      println("Calculating cluster of size: " + size);
+
+      // Define a map from id's to groups
+      val grouping = (for ((group, ids) <- KMeans(T(size)).result; index <- ids) yield {
+        (indexToId(index) -> group)
+      }).toMap
+
+      // Then return a pair with the size pointing to this grouping
+      (size -> grouping)
     }
+
+    // Convert the list of sizes to a map
+    return groups.toMap
+  }
 }
 
 
@@ -120,5 +130,9 @@ case class KMeans(T : DenseMatrix[Double]) {
   }
 
   // Find the convergent grouping (this is really neat)
-  lazy val result : Map[Int, Seq[Int]] = groupStream.zip(groupStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+  lazy val result : Map[Int, Seq[Int]] = {
+    //groupStream.zipWithIndex.takeWhile { case (g,i) => !groupStream.take(i-1).contains(g) } toList.last._1
+    groupStream.zip(groupStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+  }
+
 }
