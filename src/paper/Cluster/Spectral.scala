@@ -2,21 +2,19 @@ package paper
 
 import breeze.linalg._
 
-abstract class Cluster {
+/**
+ * Abstract class implementing some basic things to get spectral clustering running
+ */
+abstract class Clustering {
 
   // The analyzer given as an argument in implementing classes
   val docs : Map[String, Document]
 
+  // Number of edges
   lazy val n : Int = links.size
 
-  // Map from id's to indices
-  lazy val idToIndex : Map[String,Int] = for (((id, _), index) <- docs.zipWithIndex) yield (id -> index)
-  lazy val indexToId : Map[Int,String] = for (((id, _), index) <- docs.zipWithIndex) yield (index -> id)
-
-  lazy val linksToIndex : List[Link] => Map[Int,Int] = (ls : List[Link]) => (for (Link(id, weight) <- ls) yield (idToIndex(id) -> weight)).toMap
-
   // Convenient format for Links
-  lazy val links : Map[Int,Map[Int,Int]] = (for (Document(id, _, _, ls, _, _) <- docs.values) yield (idToIndex(id) -> linksToIndex(ls))).toMap
+  lazy val links : Map[Int,Map[Int,Int]] = for ((id, d) <- docs) yield (idToIndex(id) -> linksToIndex(d.links))
 
   // Adjecency Matrix
   lazy val W : DenseMatrix[Double] = DenseMatrix.eye[Double](n).mapPairs({ case ((i, j),t) => if (links(i).contains(j)) (links(i)(j)).toFloat/100 else 0.0 } )
@@ -24,12 +22,17 @@ abstract class Cluster {
   // Degree Matrix
   lazy val D : DenseMatrix[Double] = diag((W * DenseVector.ones[Double](links.size)))
 
+  // Map from id's to indices
+  lazy val idToIndex : Map[String,Int] = for (((id, _), index) <- docs.zipWithIndex) yield (id -> index)
+  lazy val indexToId : Map[Int,String] = for (((id, _), index) <- docs.zipWithIndex) yield (index -> id)
+
+  // Function transforming a list of links to a map of link indicies
+  lazy val linksToIndex : List[Link] => Map[Int,Int] = (ls : List[Link]) => (for (Link(id, weight) <- ls) yield (idToIndex(id) -> weight)).toMap
+
 }
 
-
-
 // Code for spectral clustering, k is the maximum amount of clusters
-case class Spectral(docs : Map[String, Document], k : Int) extends Cluster {
+case class Spectral(docs : Map[String, Document], k : Int) extends Clustering {
 
   // Inverse square root of degree matrix
   lazy val sqrtInvD : DenseMatrix[Double] = diag(diag(D).map(t => 1.0/scala.math.sqrt(t)))
@@ -56,13 +59,26 @@ case class Spectral(docs : Map[String, Document], k : Int) extends Cluster {
   def T(size : Int) : DenseMatrix[Double] = U(size).mapPairs({ case((i,j),k) => k/Unorm(size)(j) })
 
   // cluster
-  lazy val cluster = for (size <- (2 to k); (group, ids) <- KMeans(T(size)).result; index <- ids) yield (indexToId(index) -> (size -> group))
+  def cluster : Map[Int, Map[String, Int]] = {
+    val groups = ((2 to k).zipWithIndex).toMap map { case (size,_) =>
+      println("Calculating cluster of size: " + size);
+
+      // Define a map from id's to groups
+      val grouping = (for ((group, ids) <- KMeans(T(size)).result; index <- ids) yield {
+        (indexToId(index) -> group)
+      }).toMap
+
+      // Then return a pair with the size pointing to this grouping
+      (size -> grouping)
+    }
+
+    // Convert the list of sizes to a map
+    return groups.toMap
+  }
 }
 
 
 case class KMeans(T : DenseMatrix[Double]) {
-
-  import scala.util.Random.nextDouble
 
   // Shorthand for the rows and columns of the matrix
   val n : Int = T.rows
@@ -72,7 +88,6 @@ case class KMeans(T : DenseMatrix[Double]) {
 
   // The initialized grouping (I could also import random and use 'shuffle')
   val inits : Map[Int, Seq[Int]] = is.groupBy(i => i % k)
-  //val inits : Map[Int, Seq[Int]] = is.groupBy(_ => (nextDouble * k).toInt)
 
 
   // calculate the new means giving the cluster assignments
@@ -115,5 +130,9 @@ case class KMeans(T : DenseMatrix[Double]) {
   }
 
   // Find the convergent grouping (this is really neat)
-  lazy val result = groupStream.zip(groupStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+  lazy val result : Map[Int, Seq[Int]] = {
+    //groupStream.zipWithIndex.takeWhile { case (g,i) => !groupStream.take(i-1).contains(g) } toList.last._1
+    groupStream.zip(groupStream.tail).takeWhile({ case (m1,m2) => m1 != m2 }).toList.last._2
+  }
+
 }

@@ -22,8 +22,8 @@ define(function () {
 	config['radius_selected'] = 6;
 	
 	// Width of a edge:
-	config['edgeSize'] = 0.5;
-	config['edgeSize_hover'] = 2;
+	config['edgeSize'] = 1;
+	config['edgeSize_hover'] = 3;
 	
 	
 	// Zoom parameters:
