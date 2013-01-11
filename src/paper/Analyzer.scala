@@ -60,7 +60,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
                                                      with PDFLoader
                                                      with XMLParser 
                                                      with ExtendPaper
-                                                     with Bibliographic
+                                                     with BagOfWordsLSI
                                                      with XMLScheduleParser {
 
   /**
