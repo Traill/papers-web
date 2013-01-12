@@ -62,16 +62,34 @@ curl(
 
 	<div id="content">
 
-	<div id="topbar">
+	<div id="topbar" class="form">
 		<div id="header" class="left">
 			<a href="./pages/about.html" id="logo"><div></div></a>
 		</div>
-		<div id="save_graph_w">
+		<div id="save_graph_w" class="popup_w">
 			<a href="http://" id="save_graph" class="btn">Save the graph</a>
 			<div class="popup">
+				<label for="savegraph_val">Grab the link to save your graph:</label>
 				<input type="text" name="savegraph_val" id="savegraph_val" value="" />
+				<div class="clear" style="height:5px;"></div>
+				<!-- <input type="submit" name="copy" id="copy" value="Copy" style="float:left;" /> -->
 			</div>
 		</div>
+
+
+		<div id="zoomer_w" class="popup_w">
+			<a href="http://" id="zoomer_b" class="btn">Zoom: <input type="text" name="zoom_val" id="zoom_val" value="" disabled/></a>
+			<div class="popup">
+				<div id="zoomer">
+					<a href="#" class="moins">-</a>
+					<div id="scale">
+						<a href="#" id="indicator"></a>
+					</div>
+					<a href="#" class="plus">+</a>
+				</div>
+			</div>
+		</div>
+
 		<div class="clear"></div>
 	</div>
 
@@ -144,7 +162,7 @@ curl(
 
 		<div class="scrollable" id="tabs-3">
 		<div class="scrolltop"></div>
-			<div class="form-w">
+			<div class="form-w form">
 				<form id="filterForm" onSubmit="return false;">
 					<label for="keywords">Search</label>
 					<input type="text" name="keywords" value="" class="filter"/>

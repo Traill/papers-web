@@ -38,13 +38,20 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		radio("node:select").subscribe(save);
 
 		radio("domready").subscribe(function(){
+			// toggle variable for the popup
+			var is_open = false;
+
 			// Register the in the DOM
 			$('#save_graph').click(function(e){
 				
-				e.preventDefault();
-				$('#savegraph_val').attr('value', saveLink.enable());
-
+					$('#savegraph_val').attr('value', 'http://'+window.location.host+"/?id="+saveLink.enable());
 			});
+
+			// $('#copy').click(function(e){
+			// 	e.preventDefault();
+
+			// 	window.clipboardData.setData('text', $('#savegraph_val').attr('value') );  
+			// });
 		});
 	}
 

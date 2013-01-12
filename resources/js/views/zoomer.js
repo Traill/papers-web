@@ -41,7 +41,7 @@ define(["jquery", "radio", "params", "models/zoom", 'js!lib/jquery/jquery-ui-1.9
 		
 		// Set parameter
 		zoomer.wrapper = $('#zoomer');
-		zoomer.height = $('#scale').css('height').replace(/[^-\d\.]/g, '');
+		zoomer.height = $('#scale').css('width').replace(/[^-\d\.]/g, '');
 		zoomer.isDragging = false;
 		zoomer.increment =  (config['zoomMax'] - config['zoomMin']) / config['nbIncrement'];
 		
@@ -49,7 +49,7 @@ define(["jquery", "radio", "params", "models/zoom", 'js!lib/jquery/jquery-ui-1.9
 		changeZoomer();
 		
 		// Set up the UI:
-		$( "#indicator" ).draggable({ axis: "y", containment: $("#scale"), drag: updateZoom, start: function() { zoomer.isDragging = true; }, stop: function() { zoomer.isDragging = false; }});
+		$( "#indicator" ).draggable({ axis: "x", containment: $("#scale"), drag: updateZoom, start: function() { zoomer.isDragging = true; }, stop: function() { zoomer.isDragging = false; }});
 		
 		
 		// Plus:
@@ -69,16 +69,16 @@ define(["jquery", "radio", "params", "models/zoom", 'js!lib/jquery/jquery-ui-1.9
 	}
 	
 	var changeZoomer = function() {
-	
+		$('#zoom_val').attr('value', Math.round((zoom.pos.s-config['zoomMin'])/(0.97*(config['zoomMax']-config['zoomMin']))*100)+"%" );
+
 		if(!zoomer.isDragging)
-			$('#indicator').css('top', getPosition(zoom.pos.s) );
+			$('#indicator').css('left', getPosition(zoom.pos.s) );
 	
 	}
 	
 	// Update the zoom to follow the indicator:s
 	var updateZoom = function(event, ui) {
-		//zoomer.isDragging = true;
-		var s = $('#indicator').css('top').replace(/[^-\d\.]/g, '')/zoomer.height*config['zoomMax']+config['zoomMin'];
+		var s = $('#indicator').css('left').replace(/[^-\d\.]/g, '')/zoomer.height*config['zoomMax']+config['zoomMin'];
 		zoom.moveTo(s, [zoom.pos.x, zoom.pos.y]);
 		//console.log(ui.offset.top);
 	

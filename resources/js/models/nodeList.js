@@ -235,7 +235,6 @@ define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"
 	// Adds a new node to the list of selected nodeList, but only if it 
 	// isn't already in the list
 	var schedule = function(node) {
-		console.log(node);
 		// Check if id doesn't already exist
 		if (!nodeList.isScheduled(node)) {
 			// Load all the abstract:
