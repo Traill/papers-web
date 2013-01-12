@@ -61,6 +61,12 @@ object Ajax extends unfiltered.filter.Plan {
       JsonContent ~> ResponseString(pos)
     }
 
+    // Reset a graph
+    case Path(Seg("ajax" :: "resetPos" :: id :: Nil))  => {
+      Data.resetPosition(id)
+      Json(("success" -> true))
+    }
+
 
   }
 }

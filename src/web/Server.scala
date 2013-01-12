@@ -100,6 +100,11 @@ object Data {
     println("position saved")
   }
 
+  // Reset the position of id 
+  def resetPosition(id : String) : Unit = {
+    positions = positions-(id);
+  }
+
   // Load the position of a graph
   def getPosition(id : String) : String = positions.getOrElse(id,"")
     
