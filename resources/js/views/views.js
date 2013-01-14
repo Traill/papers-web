@@ -33,7 +33,6 @@ define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox
 
 			// Add a listener for each popup in the menu...
 			$('.popup_w').each(function(i, el){
-				console.log(el)
 				$(el).attr('is_open', 0);
 				$(el).children('.btn').click(function(e){
 					e.preventDefault();

@@ -72,7 +72,7 @@ p#infoRoom					{ float:right; font-style:italic; }
 p#infoAbstract				{ margin-top:3px; }
 
 /* List */
-div#tabs					{ position: fixed; left:0px; top:38px; z-index:4; width:310px; margin:0px 0; text-align: left; background: #dddddd; border-right: 1px solid #c3c3c3; height: 100%;}
+div#tabs					{ position: fixed; left:0px; top:38px; z-index:4; width:310px; margin:0px 0; text-align: left; background: #dddddd; border-right: 1px solid #c3c3c3; height: 100%; color: #5D5D5D;text-shadow: #eee 1px 1px 0px;}
 
 div.scrollable {
 	overflow-y: auto;
@@ -146,7 +146,7 @@ div.toolbar div.downpdf		{ padding-top: 4px;height: 22px; padding-right: 5px;}
 select.asmSelect			{ display:none; }
 ul#sidebar 					{ margin: 20px; display: block; list-style: none; width: 260px;
 }
-#filteritemtemplate			{ display:none; }
+#filterItemTemplate			{ display:none; }
 li#listItemTemplate			{ display:none; }
 li.listItem					{ background: rgb(246, 246, 246); background: rgba(246, 246, 246, 0.8);}
 li.listItem					{ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#C8f5f5f5, endColorstr=#C0f5f5f5); -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#C0F0F0F0, endColorstr=#C0F0F0F0)"; }
@@ -395,7 +395,10 @@ div.field label{
 }
 
 /* @group TOPBAR */
-
+#topbar {
+	color: #5D5D5D;
+	text-shadow: #eee 1px 1px 0px;
+}
 #topbar a.btn{
 	color: #5D5D5D;
 	text-shadow: #eee 1px 1px 0px;
