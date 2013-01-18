@@ -54,7 +54,7 @@ define(["jquery", "radio", "params", "models/zoom", 'js!lib/jquery/jquery-ui-1.9
 		
 		// Plus:
 		$( "#zoomer .plus" ).on('click', function() {
-			zoom.moveTo(zoom.pos.s + zoomer.increment, [zoom.pos.x, zoom.pos.y]);
+			zoom.moveTo(zoom.pos.s + zoomer.increment, [zoom.pos.x - zoom.pos.x*(zoom.pos.s+zoomer.increment), zoom.pos.y - zoom.pos.y*(zoom.pos.s+zoomer.increment) ]);
 		});
 		
 		// Minus:
@@ -79,7 +79,7 @@ define(["jquery", "radio", "params", "models/zoom", 'js!lib/jquery/jquery-ui-1.9
 	// Update the zoom to follow the indicator:s
 	var updateZoom = function(event, ui) {
 		var s = $('#indicator').css('left').replace(/[^-\d\.]/g, '')/zoomer.height*config['zoomMax']+config['zoomMin'];
-		zoom.moveTo(s, [zoom.pos.x, zoom.pos.y]);
+		zoom.moveTo(s, [zoom.pos.x - zoom.pos.x*(zoom.pos.s -s)/2, zoom.pos.y - zoom.pos.y*(zoom.pos.s-s)/2 ]);
 		//console.log(ui.offset.top);
 	
 	}

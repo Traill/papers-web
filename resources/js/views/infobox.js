@@ -2,6 +2,15 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 
 	//////////////////////////////////////////////
 	//											//
+	//               Variable					//
+	//											//
+	//////////////////////////////////////////////
+
+
+	var isTimerRunning = 0;
+
+	//////////////////////////////////////////////
+	//											//
 	//               Interface					//
 	//											//
 	//////////////////////////////////////////////
@@ -36,6 +45,11 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 		// On Click, add the abstract etc
 		radio("node:select").subscribe(setAbstract);
 		radio("sidebar:hover").subscribe(setAbstract);
+
+
+		// New event just for the infobox....
+		radio("arrow:over").subscribe(fadeIn);
+		radio("arrow:out").subscribe(fadeOut);
 	}
 
 
@@ -51,8 +65,13 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 	 * Code for fading out the infobox
 	 */
 	var fadeOut = function(node) {
-		// Fade out description
-		$("#info").stop(true, true).delay(3000).fadeOut();
+		var e = $("#info");
+
+		// Clear queue first
+		if(e.data('delay')) clearTimeout(e.data('delay'));
+
+		// Add a to queue:
+		e.data('delay', setTimeout(function() { e.stop(true, true).fadeOut(); }, 3000));
 	}
 
 	/**
@@ -63,6 +82,8 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 		// Get description
 		$("#info").text(node.authors + ": " + node.title);
 		$("#info").stop(true,true).fadeIn("fast");
+
+		isTimerRunning = true;
 	}
 
 
