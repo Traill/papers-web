@@ -39,13 +39,18 @@ object Ajax extends unfiltered.filter.Plan {
     // Save a graph
     case Path(Seg("ajax" :: "saveGraph" :: id :: Nil)) & Params(params) => {
       GraphModel.set(id, params("data").head)
-      Json(("success" -> true))
+      Json("success" -> true)
     }
 
     // Load a graph
     case Path(Seg("ajax" :: "loadGraph" :: id :: Nil)) => {
       val graph : String = GraphModel.get(id)
       JsonContent ~> ResponseString(graph)
+    }
+
+    // Check graph id
+    case Path(Seg("ajax" :: "checkGraphId" :: id :: Nil)) => {
+      Json("taken" -> GraphModel.contains(id))
     }
 
     // Save position of the graph

@@ -1,4 +1,5 @@
-define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "util/cookie", "util/merge"], function ($, nodeList, search, radio, arrrr, cookie, merge) {
+define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie", "util/merge"], 
+  function (nodeList, search, radio, arrrr, cookie, merge) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -37,22 +38,6 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		radio("node:unschedule").subscribe(save);
 		radio("node:select").subscribe(save);
 
-		radio("domready").subscribe(function(){
-			// toggle variable for the popup
-			var is_open = false;
-
-			// Register the in the DOM
-			$('#save_graph').click(function(e){
-				
-					$('#savegraph_val').attr('value', 'http://'+window.location.host+"/?id="+saveLink.enable());
-			});
-
-			// $('#copy').click(function(e){
-			// 	e.preventDefault();
-
-			// 	window.clipboardData.setData('text', $('#savegraph_val').attr('value') );  
-			// });
-		});
 	}
 
 	//////////////////////////////////////////////
@@ -167,7 +152,7 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 		// Save with ajax
 		$.ajax({
 			type: "POST",
-			url: "ajax/save/" + saveLink.id,
+			url: "ajax/saveGraph/" + saveLink.id,
 			data: { data: JSON.stringify(saveLink.data) },
 			success: function (response) { /* nothing */ },
 			dataType: "json"
@@ -251,4 +236,4 @@ define(["jquery", "models/nodeList", "models/search", "radio", "util/array", "ut
 
 	saveLink.events();
 	return saveLink;
-})
+});
