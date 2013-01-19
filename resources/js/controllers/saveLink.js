@@ -48,20 +48,17 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	saveLink.init = function() {
 
 		// Load cookie
-		var g = JSON.parse(JSON.parse(cookie("graph")))
+		var g = JSON.parse(cookie("graph"));
+		console.debug(g)
 
 		// Check if cookie is set
-		if (g == null || g.id == undefined) return;
+		if (g == null) return;
 
 		// If cookie is set, update id
 		saveLink.setId(g.id)
 
 		// Then restore data
 		restore(g);
-
-		
-
-		
 	}
 
 	//////////////////////////////////////////////
@@ -87,9 +84,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	// Loads the graph
 	saveLink.load = function() {
 
-		// Get id from url
-		//var url = document.URL.split("graph/").slice(-1)[0];
-		//var id = url.split("#")[0];
 		var id = saveLink.id
 		if (id == "") throw new Error("No id set in saveLink.load()");
 
@@ -133,9 +127,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		// Get selected only if it is set
 		if (nodeList.selected) saveLink.data.selected = nodeList.selected.id
 
-		// Set success to true
-		saveLink.data.success = true;
-
 		// Add id
 		saveLink.data.id = saveLink.id;
 	}
@@ -143,20 +134,35 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 	// Save data
 	var save = function() {
-		// If capture isn't on, return
-		if (!saveLink.capture) return
+		// If capture isn't on, enable saving
+		if (!saveLink.capture) saveLink.enable();
 
 		// Update the data
 		update();
 
+		// Convert data to json
+		var data = JSON.stringify(saveLink.data);
+
 		// Save with ajax
-		$.ajax({
-			type: "POST",
-			url: "ajax/saveGraph/" + saveLink.id,
-			data: { data: JSON.stringify(saveLink.data) },
-			success: function (response) { /* nothing */ },
-			dataType: "json"
-		});
+		//$.ajax({
+		//	type: "POST",
+		//	url: "ajax/saveGraph/" + saveLink.id,
+		//	data: { data: JSON.stringify(saveLink.data) },
+		//	success: function (response) { /* nothing */ },
+		//	dataType: "json"
+		//});
+
+		// Save in cookie
+		cookie("graph", data)
+	}
+
+
+	// Get id from URL
+	var getIDFromURL = function() {
+
+		var url = document.URL.split("graph/").slice(-1)[0];
+		var id = url.split("#")[0];
+		return id;
 	}
 
 

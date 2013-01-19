@@ -424,7 +424,7 @@ div.field label{
 	padding: 20px;
 	display: none;
 	background: #CDCDCD;
-	width: 250px;
+	width: 350px;
 	position: absolute;
 	margin-left: -130px;
 	border-bottom: 1px solid #939393;
@@ -438,6 +438,9 @@ div.field label{
 
 /* MORE PRECISELY: */
 
+#savegraph_val	{
+	width: 120px;
+}
 #save_graph_w	{
 	float: right;
 }
