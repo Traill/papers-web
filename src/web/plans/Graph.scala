@@ -10,7 +10,7 @@ object Graph extends unfiltered.filter.Plan {
   def intent = {
 
     case Params(Id(id)) => {
-      val graph = Data.loadGraph(id)
+      val graph = GraphModel.get(id)
       val index = scala.io.Source.fromFile("resources/index.html").mkString
       println(graph)
       SetCookies(Cookie("graph", graph)) ~> HtmlContent ~> ResponseString(index)
