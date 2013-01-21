@@ -28,15 +28,15 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	saveLink.events = function() {
 
 		// Listen for adding and deleting a filter
-		radio("filter:publish").subscribe(save);
-		radio("filter:remove").subscribe(save);
-		radio("filter:select").subscribe(save);
-		radio("filter:deselect").subscribe(save);
+		radio("filter:publish").subscribe(saveLocal);
+		radio("filter:remove").subscribe(saveLocal);
+		radio("filter:select").subscribe(saveLocal);
+		radio("filter:deselect").subscribe(saveLocal);
 
 		// Listen for schedule, unschedule and focus
-		radio("node:schedule").subscribe(save);
-		radio("node:unschedule").subscribe(save);
-		radio("node:select").subscribe(save);
+		radio("node:schedule").subscribe(saveLocal);
+		radio("node:unschedule").subscribe(saveLocal);
+		radio("node:select").subscribe(saveLocal);
 
 	}
 
@@ -61,12 +61,20 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		restore(g);
 	}
 
+
+
+
 	//////////////////////////////////////////////
 	//											//
 	//            Public Functions				//
 	//											//
 	//////////////////////////////////////////////
 	
+	saveLink.save = function(id) {
+		saveLink.id = id;
+		saveRemote(id);
+	}
+
 	// Enable saving the graph and return the id
 	// saveLink.enable = function() {
 	// 	var id = getNewID();
@@ -133,7 +141,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 
 	// Save data
-	var save = function() {
+	var saveLocal = function() {
 		// If capture isn't on, enable saving
 		//if (!saveLink.capture) saveLink.enable();
 
@@ -143,18 +151,10 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		// Convert data to json
 		var data = JSON.stringify(saveLink.data);
 
-		// Save with ajax
-		//$.ajax({
-		//	type: "POST",
-		//	url: "ajax/saveGraph/" + saveLink.id,
-		//	data: { data: JSON.stringify(saveLink.data) },
-		//	success: function (response) { /* nothing */ },
-		//	dataType: "json"
-		//});
-
 		// Save in cookie
 		cookie("graph", data)
 	}
+
 
 	// Saving graph to server
 	var saveRemote = function(id) {
@@ -162,11 +162,23 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 			type: "POST",
 			url: "ajax/saveGraph/" + saveLink.id,
 			data: { data: JSON.stringify(saveLink.data) },
-			success: function (response) { /* nothing */ },
+			success: saveSuccess,
+			failure: saveFailure,
 			dataType: "json"
 		});
 	}
 
+
+	// What happens when we succesfully save the graph
+	var saveSuccess = function(response) {
+		console.debug(response);
+	}
+
+
+	// What happens when we fail at saving the graph
+	var saveFailure = function(response) {
+		console.debug(response);
+	}
 
 
 	// Get id from URL

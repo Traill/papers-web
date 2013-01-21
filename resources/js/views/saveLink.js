@@ -39,7 +39,13 @@ define(["jquery", "controllers/saveLink", "radio"], function ($, saveLink, radio
 		$("#savegraph_val").click(clearNameField);
 
 		// Save the graph
-		$("#savegraph_button").click(saveGraph)
+		$("#savegraph_button").click(saveGraph);
+
+		// Copy the link
+		$("#savegraph_link").click(selectLink);
+
+		// Make link field unmodifiable
+		$("#savegraph_link").keydown(protectLink);
 	}
 
 
@@ -54,9 +60,36 @@ define(["jquery", "controllers/saveLink", "radio"], function ($, saveLink, radio
 	// Save the graph
 	var saveGraph = function() {
 
-		// Save th
+		// Get value
+		var name = $("#savegraph_val").val();
+
+		console.debug("saving name " + name);
+
+		saveLink.save(name);
+
+		// Change url
+
+		// Change to field with url
+		$("#savegraph_link").val($("#savegraph_url").html() + name);
+		$("#savegraph_form").fadeOut("fast",function() {
+			$("#savegraph_done").fadeIn("fast");
+		});
 
 	}
+
+	// Copy the link in the link field when we click
+	var selectLink = function() {
+
+		// Select the text in the field
+		$("#savegraph_link").select();
+	}
+
+
+	// Protect link field from being modified
+	var protectLink = function(e) {
+		e.preventDefault();
+	}
+
 
 	// Initiates the values in the fields of the popup
  	var initFields = function() {
@@ -134,18 +167,6 @@ define(["jquery", "controllers/saveLink", "radio"], function ($, saveLink, radio
 		}
 	}
 
-
-
-	// Save graph of given name
-	var saveName = function() {
-		// Get value
-		var name = $("#savegraph_val").val();
-
-		console.debug("saving name " + name);
-		// set id
-
-		// flip a switch to save remotely
-	}
 
 
 

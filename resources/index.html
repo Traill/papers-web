@@ -28,7 +28,7 @@ curl(
 	}, 
 
 	// Set up the required modules
-	["controllers/controller","googleAnalytics"],
+	["controllers/controller","async!googleAnalytics"],
 
 	// The call back function
 	function(controller, ga) {
@@ -49,13 +49,18 @@ curl(
 		<div id="save_graph_w" class="popup_w">
 			<a href="http://" id="save_graph" class="btn">Save the graph</a>
 			<div class="popup">
-				<span id="savegraph_url"></span>
-				<input type="text" name="savegraph_val" id="savegraph_val" value="" />
-				<input style="display:none" type="submit" name="savegraph_button" id="savegraph_button" value="Save Graph" style="float:left;" />
-				<div class="clear" style="height:5px;"></div>
-				<span style="display:none" id="name_is_taken" class="nameresult">The name is already taken</span>
-				<span style="display:none" id="name_is_free" class="nameresult">The name is free</span>
-				<span style="display:none" id="checkname">Checking if name is taken</span>
+				<div id="savegraph_form">
+					<span id="savegraph_url"></span>
+					<input type="text" name="savegraph_val" id="savegraph_val" value="" />
+					<input style="display:none" type="submit" name="savegraph_button" id="savegraph_button" value="Save Graph" style="float:left;" />
+					<div class="clear" style="height:5px;"></div>
+					<span style="display:none" id="name_is_taken" class="nameresult">The name is already taken</span>
+					<span style="display:none" id="name_is_free" class="nameresult">The name is free</span>
+					<span style="display:none" id="checkname">Checking if name is taken</span>
+				</div>
+				<div id="savegraph_done" style="display:none">
+					<input type="text" onMouseUp="return false;" name="savegraph_link" id="savegraph_link" value="" />
+				</div>
 			</div>
 		</div>
 
