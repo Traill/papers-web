@@ -26,6 +26,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 	// The currently active results
 	search.results = [];
 
+	// A flag if we shouldn't save
+	search.noSave = false;
+
 
 	//////////////////////////////////////////////
 	//											//
@@ -193,7 +196,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 
 	// Updates the graph with the search results
-	var updateResults = function() {
+	var updateResults = function(noSave) {
 
 		// Get the old nodes
 		var oldNodes = search.results;
@@ -208,7 +211,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		search.results.forEach(function(node) { radio("search:add").broadcast(node); });
 
 		// Make sure we save the data
-		radio("save:filters").broadcast(search.data);
+		if (!search.noSave) radio("save:filters").broadcast(search.data);
 	}
 
 

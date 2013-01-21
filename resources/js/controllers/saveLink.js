@@ -188,21 +188,31 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 			radio("node:schedule").broadcast(nodeList.getNodeFromID(id)); 
 		});
 
+		// Prepare list of selected filters
 		var selected = [];
+
+		// Switch noSave flag so we don't waste time
+		search.noSave = true
+
 		// Add the appropriate filters
+		console.debug(data.filters)
 		data.filters.forEach(function (f,i) {
+			if (f.selected) selected.push(i);
 			var filter = merge(f,{}); // make a deep copy
 			filter.to = getDateFromUnixTime(f.to);
 			filter.from = getDateFromUnixTime(f.from);
 			radio("filter:add").broadcast(filter);
-			if (filter.selected) selected.push(i);
 		});
 
 		// Select the right filters
 		search.deselectAll();
+		console.log(selected)
 		selected.forEach(function(i) {
 			radio("filter:select").broadcast(i);
 		});
+
+		// Switch back noSave flag so changes are saved
+		search.noSave = false;
 
 		// Update data
 		saveLink.data = data;
