@@ -18,7 +18,7 @@ curl(
 
 	// Set up the configuration
 	{
-		baseUrl: 'js',
+		baseUrl: '/js',
 		paths: {
 			"ajax": "../ajax",
 			"jquery": "lib/jquery/jquery",
@@ -28,10 +28,10 @@ curl(
 	}, 
 
 	// Set up the required modules
-	["controllers/controller"],
+	["controllers/controller","googleAnalytics"],
 
 	// The call back function
-	function(controller) {
+	function(controller, ga) {
 		// Do nothing
 	}
 )
@@ -49,11 +49,13 @@ curl(
 		<div id="save_graph_w" class="popup_w">
 			<a href="http://" id="save_graph" class="btn">Save the graph</a>
 			<div class="popup">
-				<label for="savegraph_val">Enter a name:</label>
 				<span id="savegraph_url"></span>
 				<input type="text" name="savegraph_val" id="savegraph_val" value="" />
+				<input style="display:none" type="submit" name="savegraph_button" id="savegraph_button" value="Save Graph" style="float:left;" />
 				<div class="clear" style="height:5px;"></div>
-				<input type="submit" name="copy" id="copy" value="Copy" style="float:left;" />
+				<span style="display:none" id="name_is_taken" class="nameresult">The name is already taken</span>
+				<span style="display:none" id="name_is_free" class="nameresult">The name is free</span>
+				<span style="display:none" id="checkname">Checking if name is taken</span>
 			</div>
 		</div>
 
@@ -213,22 +215,6 @@ curl(
 	</div>
 
 </div>
-
-<!-- <script type="text/javascript" src="js/graph.js"></script> -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32909051-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
 
 <div id="loader">
 	<div class="content">

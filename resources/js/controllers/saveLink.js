@@ -55,7 +55,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		if (g == null) return;
 
 		// If cookie is set, update id
-		saveLink.setId(g.id)
+		//saveLink.setId(g.id)
 
 		// Then restore data
 		restore(g);
@@ -68,34 +68,34 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	//////////////////////////////////////////////
 	
 	// Enable saving the graph and return the id
-	saveLink.enable = function() {
-		var id = getNewID();
-		saveLink.setId(id);
-		save();
-		return id;
-	}
+	// saveLink.enable = function() {
+	// 	var id = getNewID();
+	// 	saveLink.setId(id);
+	// 	save();
+	// 	return id;
+	// }
 
-	// Sets the id
-	saveLink.setId = function(id) {
-		saveLink.id = id;
-		saveLink.capture = true;
-	}
+	// // Sets the id
+	// saveLink.setId = function(id) {
+	// 	saveLink.id = id;
+	// 	saveLink.capture = true;
+	// }
 
-	// Loads the graph
-	saveLink.load = function() {
+	// // Loads the graph
+	// saveLink.load = function() {
 
-		var id = saveLink.id
-		if (id == "") throw new Error("No id set in saveLink.load()");
+	// 	var id = saveLink.id
+	// 	if (id == "") throw new Error("No id set in saveLink.load()");
 
-		// Make ajax call to get data
-		$.getJSON("ajax/load/" + id, function (response) {
+	// 	// Make ajax call to get data
+	// 	$.getJSON("ajax/load/" + id, function (response) {
 
-			// Restore data
-			if (response) {
-				restore(response);
-			}
-		});
-	}
+	// 		// Restore data
+	// 		if (response) {
+	// 			restore(response);
+	// 		}
+	// 	});
+	// }
 		
 
 
@@ -110,7 +110,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		// Get filters
 		saveLink.data.filters = search.data.map(function(f) {
-			var filter = merge(f,{});
+			var filter = merge(f,{}); // make a deep copy
 			filter.to = getUnixTimeFromDate(f.to);
 			filter.from = getUnixTimeFromDate(f.from);
 			return filter;
@@ -120,22 +120,22 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		saveLink.data.currentFilters = search.currentIndices;
 
 		// Get node related data and map for ids
-		saveLink.data.scheduled = nodeList.scheduled.map(function(n) {
-			return n.id;
-		}).filter(function(id) { return id != undefined; });
+		saveLink.data.scheduled = (nodeList.scheduled
+			.map(function(n) { return n.id;	})
+			.filter(function(id) { return id != undefined; }));
 
 		// Get selected only if it is set
 		if (nodeList.selected) saveLink.data.selected = nodeList.selected.id
 
 		// Add id
-		saveLink.data.id = saveLink.id;
+		// saveLink.data.id = saveLink.id;
 	}
 
 
 	// Save data
 	var save = function() {
 		// If capture isn't on, enable saving
-		if (!saveLink.capture) saveLink.enable();
+		//if (!saveLink.capture) saveLink.enable();
 
 		// Update the data
 		update();
@@ -155,6 +155,18 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		// Save in cookie
 		cookie("graph", data)
 	}
+
+	// Saving graph to server
+	var saveRemote = function(id) {
+		$.ajax({
+			type: "POST",
+			url: "ajax/saveGraph/" + saveLink.id,
+			data: { data: JSON.stringify(saveLink.data) },
+			success: function (response) { /* nothing */ },
+			dataType: "json"
+		});
+	}
+
 
 
 	// Get id from URL

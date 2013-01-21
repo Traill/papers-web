@@ -37,8 +37,8 @@ object Ajax extends unfiltered.filter.Plan {
     }
 
     // Save a graph
-    case Path(Seg("ajax" :: "saveGraph" :: id :: Nil)) & Params(params) => {
-      GraphModel.set(id, params("data").head)
+    case Path(Seg("ajax" :: "saveGraph" :: id :: Nil)) & Params(Data(data)) => {
+      GraphModel.set(id, data)
       Json("success" -> true)
     }
 
@@ -50,7 +50,7 @@ object Ajax extends unfiltered.filter.Plan {
 
     // Check graph id
     case Path(Seg("ajax" :: "checkGraphId" :: id :: Nil)) => {
-      Json("taken" -> GraphModel.contains(id))
+      Json(("taken" -> GraphModel.contains(id)) ~ ("name" -> id))
     }
 
     // Save position of the graph
@@ -76,4 +76,7 @@ object Ajax extends unfiltered.filter.Plan {
 
 
   }
+
+  // Extractor for getting the data param
+  object Data extends Params.Extract("data", Params.first)
 }
