@@ -87,7 +87,9 @@ define(["jquery", "controllers/saveLink", "radio"], function ($, saveLink, radio
 
 	// Protect link field from being modified
 	var protectLink = function(e) {
-		e.preventDefault();
+		
+		// TODO find way of making text field unmodifable
+		//e.preventDefault();
 	}
 
 
