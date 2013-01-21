@@ -73,7 +73,7 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 
 		// Default abstract (loader in case we are loading from the web 
 		// server)
-		var abstract = "<img class=\"loading\" src=\"img/ajax-loader_dark.gif\" style=\"margin:3px 0\"/><span class=\"loading-text\">Loading Abstract...</span>";
+		var abstract = "<img class=\"loading\" src=\"/img/ajax-loader_dark.gif\" style=\"margin:3px 0\"/><span class=\"loading-text\">Loading Abstract...</span>";
 
 		// get time, date, room etc
 		var date		= node.getDate();

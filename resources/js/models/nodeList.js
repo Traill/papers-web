@@ -244,6 +244,7 @@ define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"
 			// Add a class name:
 			node.domNode.classed('scheduled', true);
 			// Save changes
+			radio("save:nodes").broadcast(nodeList);
 		}
 	}
 
@@ -251,6 +252,8 @@ define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"
 	var unschedule = function(node) {
 		nodeList.scheduled = nodeList.scheduled.filter(function(n) { return (n != node); });
 		node.domNode.classed('scheduled', false);
+		// Save changes
+		radio("save:nodes").broadcast(nodeList);
 	}
 
 	

@@ -14,7 +14,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	//               Properties					//
 	//											//
 	//////////////////////////////////////////////
-	saveLink.data = {}
+	saveLink.data = { scheduled:[], filters:[] }
 	saveLink.capture = false;
 	saveLink.id = "";
 
@@ -28,15 +28,10 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	saveLink.events = function() {
 
 		// Listen for adding and deleting a filter
-		radio("filter:publish").subscribe(saveLocal);
-		radio("filter:remove").subscribe(saveLocal);
-		radio("filter:select").subscribe(saveLocal);
-		radio("filter:deselect").subscribe(saveLocal);
+		radio("save:filters").subscribe(saveFilters);
 
 		// Listen for schedule, unschedule and focus
-		radio("node:schedule").subscribe(saveLocal);
-		radio("node:unschedule").subscribe(saveLocal);
-		radio("node:select").subscribe(saveLocal);
+		radio("save:nodes").subscribe(saveNodes)
 
 	}
 
@@ -49,13 +44,11 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		// Load cookie
 		var g = JSON.parse(cookie("graph"));
+		if (typeof g == "string") g = JSON.parse(g);
 		console.debug(g)
 
 		// Check if cookie is set
 		if (g == null) return;
-
-		// If cookie is set, update id
-		//saveLink.setId(g.id)
 
 		// Then restore data
 		restore(g);
@@ -74,20 +67,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		saveLink.id = id;
 		saveRemote(id);
 	}
-
-	// Enable saving the graph and return the id
-	// saveLink.enable = function() {
-	// 	var id = getNewID();
-	// 	saveLink.setId(id);
-	// 	save();
-	// 	return id;
-	// }
-
-	// // Sets the id
-	// saveLink.setId = function(id) {
-	// 	saveLink.id = id;
-	// 	saveLink.capture = true;
-	// }
 
 	// // Loads the graph
 	// saveLink.load = function() {
@@ -113,40 +92,47 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	//											//
 	//////////////////////////////////////////////
 
-	// Update the data from the different models
-	var update = function() {
+
+	// Saves the filters
+	var saveFilters = function(filters, currentIndices) {
 
 		// Get filters
-		saveLink.data.filters = search.data.map(function(f) {
+		saveLink.data.filters = filters.map(function(f) {
+			if (!f) return undefined;
 			var filter = merge(f,{}); // make a deep copy
 			filter.to = getUnixTimeFromDate(f.to);
 			filter.from = getUnixTimeFromDate(f.from);
 			return filter;
 		});
+		console.debug(saveLink.data.filters)
 
 		// Get active filters
 		saveLink.data.currentFilters = search.currentIndices;
 
+		// then save locally
+		saveLocal();
+	}
+
+
+	// Saves the nodes
+	var saveNodes = function(nodes) {
+
 		// Get node related data and map for ids
-		saveLink.data.scheduled = (nodeList.scheduled
+		saveLink.data.scheduled = (nodes.scheduled
 			.map(function(n) { return n.id;	})
 			.filter(function(id) { return id != undefined; }));
 
 		// Get selected only if it is set
-		if (nodeList.selected) saveLink.data.selected = nodeList.selected.id
+		if (nodes.selected) saveLink.data.selected = nodes.selected.id
 
-		// Add id
-		// saveLink.data.id = saveLink.id;
+		// Then save locally
+		saveLocal();
 	}
+
 
 
 	// Save data
 	var saveLocal = function() {
-		// If capture isn't on, enable saving
-		//if (!saveLink.capture) saveLink.enable();
-
-		// Update the data
-		update();
 
 		// Convert data to json
 		var data = JSON.stringify(saveLink.data);
@@ -156,8 +142,11 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	}
 
 
+
 	// Saving graph to server
 	var saveRemote = function(id) {
+		console.debug(saveLink.data);
+		console.debug(JSON.stringify(saveLink.data));
 		$.ajax({
 			type: "POST",
 			url: "ajax/saveGraph/" + saveLink.id,
@@ -201,9 +190,10 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		// Add the appropriate filters
 		data.filters.forEach(function (f) {
-			f.to = getDateFromUnixTime(f.to);
-			f.from = getDateFromUnixTime(f.from);
-			radio("filter:add").broadcast(f);
+			var filter = merge(f,{}); // make a deep copy
+			filter.to = getDateFromUnixTime(f.to);
+			filter.from = getDateFromUnixTime(f.from);
+			radio("filter:add").broadcast(filter);
 		});
 
 		// Select the right filters
@@ -229,11 +219,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		// ut = d/1000 - tzo*60
 		// d = (ut + tzo*60) * 1000
 		return Math.round(date.getTime()/1000) - (new Date()).getTimezoneOffset()*60
-	}
-
-
-	var setDate = function(filter) {
-		return filter;
 	}
 
 

@@ -139,14 +139,14 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 
 	// Sets the image on the selectBox as selected
 	var schedule = function() {
-		$("#select img").attr("src","img/icons/calendar.png").css("padding-top",0);	
+		$("#select img").attr("src","/img/icons/calendar.png").css("padding-top",0);	
 		$("#select a").attr("title","Add to Schedule");
 	}
 
 
 	// Sets the image on the selectBox as deselected
 	var unschedule = function() {
-		$("#select img").attr("src","img/icons/remove.png").css("padding-top","2px");	
+		$("#select img").attr("src","/img/icons/remove.png").css("padding-top","2px");	
 		$("#select a").attr("title","Remove from Schedule");
 	}
 

@@ -50,6 +50,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		// Deselecting a filter
 		radio("filter:deselect").subscribe(deselect);
 
+		// Removing a filter
+		radio("filter:remove").subscribe(remove);
+
 		// Toggling between selecting and deselecting a filter
 		radio("filter:selectToggle").subscribe(selectToggle);
 
@@ -107,7 +110,6 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		// Draw the update
 		radio("filter:publish").broadcast(data, index);
 		radio("filter:selectOnly").broadcast(index);
-		// TODO
 	}
 
 	// Deselects all selected filters
@@ -157,13 +159,14 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// Update graph
 		updateResults();
+
 	}
 
 
 	// Deselects another filter (doesn't deselect the old filters)
 	var deselect = function(index) {
 		
-		// Add index to currentIndices
+		// remove index from currentIndices
 		search.currentIndices = search.currentIndices.filter(function(i) { return (i != index); });
 
 		// Create current filter
@@ -171,6 +174,15 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// Update graph
 		updateResults();
+	}
+
+
+	// Removes a filter from the list
+	// I'm not too happy with this code. A filter should ideally be assigned a unique id
+	var remove = function(index) {
+
+		search.data[index] == undefined;
+		search.filters[index] == undefined;
 	}
 
 
@@ -200,6 +212,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// For each of the new nodes, mark it
 		search.results.forEach(function(node) { radio("search:add").broadcast(node); });
+
+		// Make sure we save the data
+		radio("save:filters").broadcast(search.data, search.currentIndices);
 	}
 
 
