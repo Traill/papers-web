@@ -14,7 +14,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	//               Properties					//
 	//											//
 	//////////////////////////////////////////////
-	saveLink.data = { scheduled:[], filters:[] }
+	saveLink.data = { scheduled:[], filters:[], currentIndices:[] }
 	saveLink.capture = false;
 	saveLink.id = "";
 
@@ -94,20 +94,20 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 
 	// Saves the filters
-	var saveFilters = function(filters, currentIndices) {
+	var saveFilters = function(filters) {
+
+		// Take all removed filters out
+		var fs = filters.filter(function(f) { return !f.removed });
 
 		// Get filters
-		saveLink.data.filters = filters.map(function(f) {
-			if (!f) return undefined;
-			var filter = merge(f,{}); // make a deep copy
-			filter.to = getUnixTimeFromDate(f.to);
-			filter.from = getUnixTimeFromDate(f.from);
+		saveLink.data.filters = fs.map(function(f) {
+			// save filter
+			var filter = merge(f, {});
+			filter.to = getUnixTimeFromDate(filter.to);
+			filter.from = getUnixTimeFromDate(filter.from);
 			return filter;
 		});
 		console.debug(saveLink.data.filters)
-
-		// Get active filters
-		saveLink.data.currentFilters = search.currentIndices;
 
 		// then save locally
 		saveLocal();
@@ -188,18 +188,20 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 			radio("node:schedule").broadcast(nodeList.getNodeFromID(id)); 
 		});
 
+		var selected = [];
 		// Add the appropriate filters
-		data.filters.forEach(function (f) {
+		data.filters.forEach(function (f,i) {
 			var filter = merge(f,{}); // make a deep copy
 			filter.to = getDateFromUnixTime(f.to);
 			filter.from = getDateFromUnixTime(f.from);
 			radio("filter:add").broadcast(filter);
+			if (filter.selected) selected.push(i);
 		});
 
 		// Select the right filters
 		search.deselectAll();
-		data.currentFilters.forEach(function(index) {
-			radio("filter:select").broadcast(index);
+		selected.forEach(function(i) {
+			radio("filter:select").broadcast(i);
 		});
 
 		// Update data
