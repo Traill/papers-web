@@ -220,7 +220,7 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 
 		// Initialize the datepicker
 		$(".date_picker2").datepicker({
-			buttonImage: "./img/calendar_gray.png", 
+			buttonImage: "/img/calendar_gray.png", 
 			buttonImageOnly: true, 
 			showOn: "button",
 			dateFormat: "yy/mm/dd", 
