@@ -15,7 +15,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	//											//
 	//////////////////////////////////////////////
 	saveLink.data = { scheduled:[], filters:[] }
-	saveLink.capture = false;
+	saveLink.capture = true;
 	saveLink.id = "";
 
 
@@ -120,11 +120,15 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 	// Saves the graph both locally and remotely
 	var saveGraph = function() {
-		// If we have an id then save remotely
-		if (saveLink.id != "" || saveLink.id == undefined) saveRemote(saveLink.id);
 
-		// In all cases save locally
-		saveLocal();
+		// Only save if capture is on
+		if (saveLink.capture) {
+			// If we have an id then save remotely
+			if (saveLink.id != "" || saveLink.id == undefined) saveRemote(saveLink.id);
+
+			// In all cases save locally
+			saveLocal();
+		}
 	}
 
 
@@ -159,13 +163,14 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 	// What happens when we succesfully save the graph
 	var saveSuccess = function(response) {
-		console.debug(response);
+		if (response.success) ;// TODO: we need an icon the changes when graph is saved
+		else radio("message").broadcast("Technical problem while saving graph");
 	}
 
 
 	// What happens when we fail at saving the graph
 	var saveFailure = function(response) {
-		console.debug(response);
+		radio("message").broadcast("Connection problem while saving graph");
 	}
 
 
@@ -181,6 +186,9 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	// Restore saved data
 	var restore = function(data) {
 
+		// Disable capture while we restore state
+		saveLink.capture = false;
+
 		// Schedule the right nodes
 		nodeList.unscheduleAll();
 		data.scheduled.forEach(function(id) {
@@ -189,9 +197,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		// Prepare list of selected filters
 		var selected = [];
-
-		// Switch noSave flag so we don't waste time
-		search.noSave = true
 
 		// Add the appropriate filters
 		data.filters.forEach(function (f,i) {
@@ -208,11 +213,12 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 			radio("filter:select").broadcast(i);
 		});
 
-		// Switch back noSave flag so changes are saved
-		search.noSave = false;
-
 		// Update data
 		saveLink.data = data;
+
+		// Switch back noSave flag so changes are saved
+		saveLink.capture = true;
+
 	}
 
 	// Get the date showing the same hour and minutes as the unixtime would if

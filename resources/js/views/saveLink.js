@@ -63,8 +63,7 @@ define(["jquery", "models/saveLink", "radio"], function ($, saveLink, radio) {
 		// Get value
 		var name = $("#savegraph_val").val();
 
-		console.debug("saving name " + name);
-
+		// save graph
 		saveLink.save(name);
 
 		// Change url
@@ -102,6 +101,14 @@ define(["jquery", "models/saveLink", "radio"], function ($, saveLink, radio) {
 		else {
 			$('#savegraph_val').addClass("inactive");
 			$('#savegraph_val').attr('value', saveView.nameText);
+		}
+
+		// In case we have an id, then:
+		if (saveLink.id != "" || saveLink.id != undefined) {
+
+			$("#savegraph_form").hide();
+			$("#savegraph_link").val($("#savegraph_url").html() + saveLink.id);
+			$("#savegraph_done").show();
 		}
 	}
 
