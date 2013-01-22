@@ -1,4 +1,4 @@
-define(["jquery", "controllers/saveLink", "radio"], function ($, saveLink, radio) {
+define(["jquery", "models/saveLink", "radio"], function ($, saveLink, radio) {
 
 
 	//////////////////////////////////////////////
