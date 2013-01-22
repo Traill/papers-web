@@ -89,7 +89,8 @@ define(["jquery", "models/saveLink", "radio", "lib/history"], function ($, saveL
 	var protectLink = function(e) {
 		
 		// TODO find way of making text field unmodifable
-		//e.preventDefault();
+		//console.debug(e.keyCode)
+		//if (e.keyCode > 32 && e.keyCode < 100) e.preventDefault();
 	}
 
 
