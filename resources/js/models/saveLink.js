@@ -14,7 +14,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	//               Properties					//
 	//											//
 	//////////////////////////////////////////////
-	saveLink.data = { scheduled:[], filters:[], currentIndices:[] }
+	saveLink.data = { scheduled:[], filters:[] }
 	saveLink.capture = false;
 	saveLink.id = "";
 
@@ -50,6 +50,10 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		// Check if cookie is set
 		if (g == null) return;
 
+		// Get id from url
+		var id = getIDFromURL();
+		if (id != "" || id != undefined) saveLink.id = id;
+
 		// Then restore data
 		restore(g);
 	}
@@ -64,26 +68,11 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	//////////////////////////////////////////////
 	
 	saveLink.save = function(id) {
+		if (id == "" || id == undefined) throw Error("Id not specified on save");
 		saveLink.id = id;
 		saveRemote(id);
 	}
 
-	// // Loads the graph
-	// saveLink.load = function() {
-
-	// 	var id = saveLink.id
-	// 	if (id == "") throw new Error("No id set in saveLink.load()");
-
-	// 	// Make ajax call to get data
-	// 	$.getJSON("ajax/load/" + id, function (response) {
-
-	// 		// Restore data
-	// 		if (response) {
-	// 			restore(response);
-	// 		}
-	// 	});
-	// }
-		
 
 
 	//////////////////////////////////////////////
@@ -107,10 +96,9 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 			filter.from = getUnixTimeFromDate(filter.from);
 			return filter;
 		});
-		console.debug(saveLink.data.filters)
 
-		// then save locally
-		saveLocal();
+		// then save
+		saveGraph();
 	}
 
 
@@ -126,9 +114,18 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		if (nodes.selected) saveLink.data.selected = nodes.selected.id
 
 		// Then save locally
-		saveLocal();
+		saveGraph();
 	}
 
+
+	// Saves the graph both locally and remotely
+	var saveGraph = function() {
+		// If we have an id then save remotely
+		if (saveLink.id != "" || saveLink.id == undefined) saveRemote(saveLink.id);
+
+		// In all cases save locally
+		saveLocal();
+	}
 
 
 	// Save data
@@ -145,8 +142,10 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 	// Saving graph to server
 	var saveRemote = function(id) {
-		console.debug(saveLink.data);
-		console.debug(JSON.stringify(saveLink.data));
+		// Make sure to punish those who don't specify an id
+		if (id == "" || id == undefined) throw Error("No id specified in saveRemote");
+
+		// Save on server
 		$.ajax({
 			type: "POST",
 			url: "ajax/saveGraph/" + saveLink.id,
@@ -175,7 +174,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		var url = document.URL.split("graph/").slice(-1)[0];
 		var id = url.split("#")[0];
-		return id;
+		return (id.indexOf("http://") == -1) ? id : "";
 	}
 
 
@@ -195,7 +194,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		search.noSave = true
 
 		// Add the appropriate filters
-		console.debug(data.filters)
 		data.filters.forEach(function (f,i) {
 			if (f.selected) selected.push(i);
 			var filter = merge(f,{}); // make a deep copy
@@ -206,7 +204,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		// Select the right filters
 		search.deselectAll();
-		console.log(selected)
 		selected.forEach(function(i) {
 			radio("filter:select").broadcast(i);
 		});
@@ -234,26 +231,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 	}
 
 
-	// Create a new random id
-	var getNewID = function() {
-
-		// Let's hope we get no conflicts
-		return Math.ceil(Math.random()*100000000000000).toString()
-	}
-
-
-	// Save a graph for the first time
-	var firstSave = function() {
-
-		// Capture future changes
-		saveLink.capture = true;
-
-		// Save name
-		saveLink.id = getNewID();
-
-		// Save
-		save();
-	}
 
 	//////////////////////////////////////////////
 	//											//

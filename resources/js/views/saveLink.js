@@ -122,7 +122,7 @@ define(["jquery", "models/saveLink", "radio"], function ($, saveLink, radio) {
 		// If the keypress is enter and we have a valid name and we aren't
 		// currently checking, then save the graph under that name
 		else if (e.keyCode == 13) { // keep them nested please
-			if (saveView.valid) saveName();
+			if (saveView.valid) saveGraph();
 		}
 
 		else {
