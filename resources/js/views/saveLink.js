@@ -1,4 +1,4 @@
-define(["jquery", "models/saveLink", "radio"], function ($, saveLink, radio) {
+define(["jquery", "models/saveLink", "radio", "lib/history"], function ($, saveLink, radio, h) {
 
 
 	//////////////////////////////////////////////
@@ -67,6 +67,7 @@ define(["jquery", "models/saveLink", "radio"], function ($, saveLink, radio) {
 		saveLink.save(name);
 
 		// Change url
+		window.History.pushState(null,null, "graph/" + name + "/");
 
 		// Change to field with url
 		$("#savegraph_link").val($("#savegraph_url").html() + name);
@@ -104,7 +105,7 @@ define(["jquery", "models/saveLink", "radio"], function ($, saveLink, radio) {
 		}
 
 		// In case we have an id, then:
-		if (saveLink.id != "" || saveLink.id != undefined) {
+		if (saveLink.id != "" && saveLink.id != undefined) {
 
 			$("#savegraph_form").hide();
 			$("#savegraph_link").val($("#savegraph_url").html() + saveLink.id);
