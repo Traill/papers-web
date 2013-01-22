@@ -148,7 +148,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		// Save on server
 		$.ajax({
 			type: "POST",
-			url: "ajax/saveGraph/" + saveLink.id,
+			url: "/ajax/saveGraph/" + saveLink.id,
 			data: { data: JSON.stringify(saveLink.data) },
 			success: saveSuccess,
 			failure: saveFailure,
