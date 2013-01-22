@@ -75,6 +75,12 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 		// When the dom is ready, update the UI:
 		radio("domready").subscribe(resize);
 
+		// Current node
+		radio("node:select").subscribe(putInfo);
+
+		// Unselect it when click somewhere else
+		radio("node:unselect").subscribe(removeInfo);
+
 	}
 
 
@@ -358,10 +364,30 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	var resize = function(w, h){
 	
 		$('#tabs').css('height', h);
-		$('#tabs .scrollable').css('height', h-278);
+		$('#tabs .scrollable').css('height', h-248);
 		
 		
 	}
+
+	/**
+	 * Show information of the current node in the info tab:
+	 */
+	 var putInfo = function(node){
+	 	var template = function(id, title, time, abstract, room, authors){
+
+	 	};
+
+
+	 }
+
+	 /**
+	 * Show information of the current node in the info tab:
+	 */
+	 var removeInfo = function(node){
+	 	
+	 }
+
+
 	// Export the controller
 	sidebar.init();
 	return sidebar;

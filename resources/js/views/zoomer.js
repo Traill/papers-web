@@ -69,7 +69,7 @@ define(["jquery", "radio", "params", "models/zoom", 'js!lib/jquery/jquery-ui-1.9
 	}
 	
 	var changeZoomer = function() {
-		$('#zoom_val').attr('value', Math.round((zoom.pos.s-config['zoomMin'])/(0.97*(config['zoomMax']-config['zoomMin']))*100)+"%" );
+		$('#zoom_val').attr('value', Math.round((zoom.pos.s-config['zoomMin'])/(0.975*(config['zoomMax']-config['zoomMin']))*100)+"%" );
 
 		if(!zoomer.isDragging)
 			$('#indicator').css('left', getPosition(zoom.pos.s) );

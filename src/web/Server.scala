@@ -29,22 +29,6 @@ object Main {
 }
 
 
-// Right now this is just the papers
-// Later it will also include links to graphs etc
-object Data {
-
-
-
-
-
-
-
-    
-
-}
-
-
-
 object Server {
 
   import util.Properties
