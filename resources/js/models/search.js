@@ -14,9 +14,6 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 	//											//
 	//////////////////////////////////////////////
 
-	// The indices of the currently selected filters
-	search.currentIndices = [];
-
 	// List of all filters currently added
 	search.filters = [];
 
@@ -49,6 +46,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// Deselecting a filter
 		radio("filter:deselect").subscribe(deselect);
+
+		// Removing a filter
+		radio("filter:remove").subscribe(remove);
 
 		// Toggling between selecting and deselecting a filter
 		radio("filter:selectToggle").subscribe(selectToggle);
@@ -97,9 +97,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		// Add filter to list of filters and data to list of data
 		var index = search.filters.push(f) - 1;
 		search.data[index] = data;
-
-		// Set currentIndices to the index we just pushed
-		search.currentIndices.push(index);
+		search.data[index].removed = false;
 
 		// Update current filter
 		search.current = createCurrent();
@@ -107,14 +105,13 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		// Draw the update
 		radio("filter:publish").broadcast(data, index);
 		radio("filter:selectOnly").broadcast(index);
-		// TODO
 	}
 
 	// Deselects all selected filters
 	search.deselectAll = function() {
 
 		// Deselect all currently selected filters
-		search.currentIndices.forEach(function(i) {
+		search.data.forEach(function(d,i) {
 			radio("filter:deselect").broadcast(i);
 		});
 	}
@@ -140,17 +137,31 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 	// Toggles between select and deselect
 	var selectToggle = function(index) {
-		if (search.currentIndices.indexOf(index) == -1) radio("filter:select").broadcast(index);
-		else radio("filter:deselect").broadcast(index);
+		if (search.data[index].selected) radio("filter:deselect").broadcast(index);
+		else radio("filter:select").broadcast(index);
 	}
 
 
 	// Selects another filter (doesn't deselect the old filters)
 	var select = function(index) {
 		
-		// Add index to currentIndices if it's not already there
-		search.currentIndices = search.currentIndices.filter(function(i) { return (i != index); });
-		search.currentIndices.push(index)
+		// mark filter as selected
+		search.data[index].selected = true;
+
+		// Create current filter
+		search.current = createCurrent();
+
+		// Update graph
+		updateResults();
+
+	}
+
+
+	// Deselects another filter (doesn't deselect the old filters)
+	var deselect = function(index) {
+		
+		// mark filter as deselected
+		search.data[index].selected = false;
 
 		// Create current filter
 		search.current = createCurrent();
@@ -160,17 +171,12 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 	}
 
 
-	// Deselects another filter (doesn't deselect the old filters)
-	var deselect = function(index) {
-		
-		// Add index to currentIndices
-		search.currentIndices = search.currentIndices.filter(function(i) { return (i != index); });
+	// Removes a filter from the list
+	// I'm not too happy with this code. A filter should ideally be assigned a unique id
+	var remove = function(index) {
 
-		// Create current filter
-		search.current = createCurrent();
-
-		// Update graph
-		updateResults();
+		// mark filter as removed
+		search.data[index].removed = true;
 	}
 
 
@@ -178,8 +184,8 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 	var createCurrent = function() {
 
 		var c = filter.none();
-		search.currentIndices.forEach(function (i) {
-			c = c.or(search.filters[i]);
+		search.data.forEach(function(d,i) {
+			if (d.selected) c = c.or(search.filters[i]);
 		});
 
 		return c;
@@ -200,6 +206,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// For each of the new nodes, mark it
 		search.results.forEach(function(node) { radio("search:add").broadcast(node); });
+
+		// Make sure we save the data
+		radio("save:filters").broadcast(search.data);
 	}
 
 

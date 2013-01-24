@@ -1,4 +1,4 @@
-define(["radio", "models/nodeList", "models/linkList", "models/search", "models/graph", "views/views", "controllers/savelink"], 
+define(["radio", "models/nodeList", "models/linkList", "models/search", "models/graph", "views/views", "models/saveLink"], 
 		function (radio, nodeList, linkList, search, graph, views, saveLink) {
 
 

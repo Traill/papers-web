@@ -16,7 +16,7 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 		radio("filter:remove").subscribe(remove);
 
 		// When a filter is edited
-		radio("filter:edit").subscribe(edit);
+		//radio("filter:edit").subscribe(edit);
 
 		// When the add button is clicked
 		radio("filter:getData").subscribe(getData);
@@ -140,21 +140,6 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 	}
 
 
-	// Edit a filter
-	var edit = function(filter) {
-		// Update all inputs
-		$("input[name=keywords]").val(filter.keywords);
-		$("input[name=location]").val(filter.location);
-
-		// Update dates (some stuff needs to be done here
-		$("input[name=to]").val(filter.to);
-		$("input[name=from]").val(filter.from);
-
-		// Updates select boxes
-
-		// How about we change the color of the edit to something else
-	}
-
 
 	// Select a filter: Add the current class to the filter panel so it changes
 	// color
@@ -235,7 +220,7 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 
 		// Initialize the datepicker
 		$(".date_picker2").datepicker({
-			buttonImage: "./img/calendar_gray.png", 
+			buttonImage: "/img/calendar_gray.png", 
 			buttonImageOnly: true, 
 			showOn: "button",
 			dateFormat: "yy/mm/dd", 

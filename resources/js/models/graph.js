@@ -117,6 +117,8 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		
 		//enable scrolling on the canvas:
 		graph.zoom.init(graph.canvas);
+		// TODO: should be done automatically
+		graph.zoom.moveTo(0.6, [300, 100]);
 
 		// Draw the nodes and edges
 		graph.drawNodes(nodes);
@@ -190,7 +192,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Define some conditions to stop:
 		var treshold = 1.5; //3.1 is ideal
 		//var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
-		var nbTotIter = (iter) ? iter : 200; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = (iter) ? iter : 500; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
 		radio("link:hideAll").broadcast();

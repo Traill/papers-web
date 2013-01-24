@@ -79,7 +79,7 @@ define(["controllers/position", "util/merge", "params"], function(position, merg
 
 		// If not, then fetch abstract from server
 		else {
-			$.get("ajax/abstract/" + self.id, {}, function (data) { 
+			$.get("/ajax/abstract/" + self.id, {}, function (data) { 
 				if (data.success == true) {
 					self.abstract = data.abstract;
 				} else {

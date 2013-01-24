@@ -3,13 +3,12 @@
 
 <head>
 
-<link type="text/css" rel="stylesheet" href="css/graph.css"/>	
 
 
-<link type="text/css" rel="stylesheet" href="css/reset.css"/>	
-<link type="text/css" rel="stylesheet" href="css/graph.css"/>
+<link type="text/css" rel="stylesheet" href="/css/reset.css"/>	
+<link type="text/css" rel="stylesheet" href="/css/graph.css"/>
 
-<link rel="icon" type="image/gif" href="./img/favicon.gif" />
+<link rel="icon" type="image/gif" href="/img/favicon.gif" />
 
 <title>Trailhead: A Graphical Representation of Articles</title>
 </head>
@@ -17,7 +16,7 @@
 <body>
 
 <!-- Loading curl -->
-<script type="text/javascript" src="js/lib/curl/curl.js"></script>
+<script type="text/javascript" src="/js/lib/curl/curl.js"></script>
 <script>
 
 // Set up curl
@@ -25,7 +24,7 @@ curl(
 
 	// Set up the configuration
 	{
-		baseUrl: 'js',
+		baseUrl: '/js',
 		paths: {
 			"ajax": "../ajax",
 			"jquery": "lib/jquery/jquery",
@@ -35,10 +34,10 @@ curl(
 	}, 
 
 	// Set up the required modules
-	["controllers/controller"],
+	["controllers/controller","async!googleAnalytics"],
 
 	// The call back function
-	function(controller) {
+	function(controller, ga) {
 		// Do nothing
 	}
 )
@@ -51,15 +50,23 @@ curl(
 
 	<div id="topbar" class="form">
 		<div id="header" class="left">
-			<a href="./pages/about.html" id="logo"><div></div></a>
+			<a href="/pages/about.html" id="logo"><div></div></a>
 		</div>
 		<div id="save_graph_w" class="popup_w">
 			<a href="http://" id="save_graph" class="btn">Save the graph</a>
 			<div class="popup">
-				<label for="savegraph_val">Grab the link to save your graph:</label>
-				<input type="text" name="savegraph_val" id="savegraph_val" value="" />
-				<div class="clear" style="height:5px;"></div>
-				<!-- <input type="submit" name="copy" id="copy" value="Copy" style="float:left;" /> -->
+				<div id="savegraph_form">
+					<span id="savegraph_url"></span>
+					<input type="text" name="savegraph_val" id="savegraph_val" value="" />
+					<input style="display:none" type="submit" name="savegraph_button" id="savegraph_button" value="Save Graph" style="float:left;" />
+					<div class="clear" style="height:5px;"></div>
+					<span style="display:none" id="name_is_taken" class="nameresult">The name is already taken</span>
+					<span style="display:none" id="name_is_free" class="nameresult">The name is free</span>
+					<span style="display:none" id="checkname">Checking if name is taken</span>
+				</div>
+				<div id="savegraph_done" style="display:none">
+					<input type="text" onMouseUp="return false;" name="savegraph_link" id="savegraph_link" value="" />
+				</div>
 			</div>
 		</div>
 
@@ -93,9 +100,9 @@ curl(
 	<div id="message_wrap"></div>
 	<div id="infowrap"><div id="info" class="message"><p></p></div></div>
 	<div id="clickwrap"><div id="clickbox">
-			<div class="click" id="select"><a href="#" title="Add to schedule"><img alt="Add to Schedule" src="img/icons/calendar.png"/></a></div>
-			<!-- <div class="click" id="abstract"><img alt="Show Info" src="img/icons/info.png"/></div> -->
-			<div class="click" id="download"><a href="#" title="Download"><img alt="Download Paper" src="img/icons/download.png"/></a></div>
+			<div class="click" id="select"><a href="#" title="Add to schedule"><img alt="Add to Schedule" src="/img/icons/calendar.png"/></a></div>
+			<!-- <div class="click" id="abstract"><img alt="Show Info" src="/img/icons/info.png"/></div> -->
+			<div class="click" id="download"><a href="#" title="Download"><img alt="Download Paper" src="/img/icons/download.png"/></a></div>
 	</div></div>
 
 	<!-- List -->
@@ -106,17 +113,16 @@ curl(
 		</div>
 		
 		<ul id="tabhead">
-		        
 		        <li><a href="#tabs-2">Schedule</a></li>
 		        <li><a href="#tabs-1">Info</a></li>
-		        <li><a href="#tabs-3">Filters</a></li>
+		        <li><a href="#tabs-3">Search</a></li>
 		</ul>
 		<div class="scrollable" id="tabs-2">
 		<div class="scrolltop"></div>
 		
 			<div class="toolbar">
-				<a href="#"><div class="downpdf"><img alt="Download Paper" src="img/pdf.png"/>Download pdf</div></a>
-				<a href="#"><div class="downicn"><img alt="Download Paper" src="img/ical.png"/>Download ical</div></a>
+				<a href="#"><div class="downpdf"><img alt="Download Paper" src="/img/pdf.png"/>Download pdf</div></a>
+				<a href="#"><div class="downicn"><img alt="Download Paper" src="/img/ical.png"/>Download ical</div></a>
 			</div>
 			<div style="margin: 10px 30px; height: 6px;">
 				<a href="#" class="removeall smalltool"><span class="iconx">x</span> Remove all</a>
@@ -129,11 +135,11 @@ curl(
 						
 						<a class="listItemPdfLink" href="#" target="_blank">
 							<a href="#" class="listItemRemove">
-								<img src="img/icons/remove.png" />
+								<img src="/img/icons/remove.png" />
 							</a>
 							<span class="listItemLabel">
 								<div class="clear" style="height: 8px;"></div>
-								<img src="img/icons/paper.png" />
+								<img src="/img/icons/paper.png" />
 								<p class="listItemText">List item</p>
 								<div class="clear" style="height: 8px;"></div>
 							</span>
@@ -194,16 +200,16 @@ curl(
 								
 				<div class="clear" style="height: 20px;"></div>
 					<ul id="filterList">
-						<li id="filterItemTemplate" class="filterItem listItem">
+						<li id="filterItemTemplate" class="filterItem">
 							
 							<a href="#" class="listItemRemove">
-								<img src="img/icons/remove.png" />
+								<img src="/img/icons/remove.png" />
 							</a>
 							
 							
 								<span class="listItemLabel">
 									<div class="clear" style="height: 8px;"></div>
-									<img src="img/filter.png" />
+									<img src="/img/filter.png" />
 									<p class="filterItem"></p>
 									<div class="clear" style="height: 8px;"></div>
 								</span>
@@ -221,26 +227,10 @@ curl(
 
 </div>
 
-<!-- <script type="text/javascript" src="js/graph.js"></script> -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32909051-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
 <div id="loader">
 	<div class="content">
 		<div style="margin-bottom: 10px;"> Loading... Please wait.</div>
-		<div><img src="./img/loader.gif" alt="" /></div>
+		<div><img src="/img/loader.gif" alt="" /></div>
 </div>
 </body>
 </html>
