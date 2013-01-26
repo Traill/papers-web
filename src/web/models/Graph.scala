@@ -7,7 +7,6 @@ object GraphModel {
 
   // Saves a particular graph
   def set(id : String, data : String) : Unit = {
-    println(data)
     graphs += (id -> data)
   }
 
