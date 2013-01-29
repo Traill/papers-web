@@ -1,5 +1,5 @@
-define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie", "util/merge"], 
-  function (nodeList, search, radio, arrrr, cookie, merge) {
+define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie", "util/merge", "util/unixTime"], 
+  function (nodeList, search, radio, arrrr, cookie, merge, unixTime) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -92,8 +92,8 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		saveLink.data.filters = fs.map(function(f) {
 			// save filter
 			var filter = merge(f, {});
-			filter.to = getUnixTimeFromDate(filter.to);
-			filter.from = getUnixTimeFromDate(filter.from);
+			filter.to = unixTime.fromDate(filter.to);
+			filter.from = unixTime.fromDate(filter.from);
 			return filter;
 		});
 
@@ -202,8 +202,8 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		data.filters.forEach(function (f,i) {
 			if (f.selected) selected.push(i);
 			var filter = merge(f,{}); // make a deep copy
-			filter.to = getDateFromUnixTime(f.to);
-			filter.from = getDateFromUnixTime(f.from);
+			filter.to = unixTime.toDate(f.to);
+			filter.from = unixTime.toDate(f.from);
 			radio("filter:add").broadcast(filter);
 		});
 
@@ -221,20 +221,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 	}
 
-	// Get the date showing the same hour and minutes as the unixtime would if
-	// measured on greenwhich time
-	var getDateFromUnixTime = function(unixTime) { 
-		return new Date((parseInt(unixTime) + (new Date()).getTimezoneOffset()*60)*1000); 
-	}
-
-	// Get the unixtime measured from the hours and minutes in the given date
-	// (and not measured from the hours and minutes of the greenwhich time
-	// relatively offset from the given date)
-	var getUnixTimeFromDate = function(date) { 
-		// ut = d/1000 - tzo*60
-		// d = (ut + tzo*60) * 1000
-		return Math.round(date.getTime()/1000) - (new Date()).getTimezoneOffset()*60
-	}
 
 
 

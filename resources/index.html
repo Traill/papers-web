@@ -127,10 +127,7 @@ curl(
 			<div style="margin: 10px 30px; height: 6px;">
 				<a href="#" class="removeall smalltool"><span class="iconx">x</span> Remove all</a>
 			</div>
-			<div>
-				<form action="schedule.php" target="_blank" name="schedule" method="post" 
-					onSubmit="return false;">
-				<ul id="sidebar">
+				<ul id="sidebar"><!-- This is a template used in the schedule -->
 					<li id="listItemTemplate" class="listItem">
 						
 						<a class="listItemPdfLink" href="#" target="_blank">
@@ -148,7 +145,7 @@ curl(
 						<input type="hidden" name="papers[]" value="" />
 					</li>
 				</ul>
-				</form>
+			<div id="schedule">
 			</div>
 		</div>
 

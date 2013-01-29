@@ -1,4 +1,5 @@
-define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/ical", 'params', "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order'], function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb) {
+define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/ical", 'params', "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order', "util/unixTime"], 
+function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb, unixTime) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -132,7 +133,7 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	/**
 	 * Updates the list with the current element
 	 */
-	var setFocus = function (node) {
+	var setFocus = function(node) {
 
 		// Removes current from last list item
 		$(".listItem.current").removeClass("current");
@@ -152,30 +153,46 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	}
 
 
+	// Renders the schedule with dates and all
+	render = function() {
+		var scheduled = nodeList.scheduled;
+		var sorted = scheduled.sort(function(s1,s2) { return s1.time > s2.time });
+		var days = sorted.map(function(s) { return unixTime.toDate(s.time/1000); });
 
-	/**
-	 * What happens when a node is scheduled
-	 */
-	var schedule = function(node) {
+		// Now loop through sorted and build the html items
+		var listItems = sorted.map(function(s) { return buildListItem(s) });
 
+		var div = $("<ul>");
+		listItems.forEach(function(item, i) {
+			// If we start a new day, then
+			if (i == 0 || days[i].format("yymmdd") != days[i-1].format("yymmdd")) {
+				// Insert date
+				var d = days[i].format("fullDate");
+				div.append("<span class=\"listDate\">" + d + "</span>");
+
+				// Create new list
+				div.append($("<ul>").addClass("sidebarDay").append(item));
+			}
+			// If not, just insert item to last list
+			div.find("ul").last().append(item);
+		});
+
+		$("#schedule").html(div);
+
+
+	}
+
+
+	var buildListItem = function(node) {
 		// Clone listItemTemplate
 		var item = $("#listItemTemplate").clone();
-		item.css("display","none");
+		item.css("display","block");
 		item.attr("id", node.id);
 
 		// Add information
 		item.find(".listItemText").html(truncate(node.title, 62));
 		item.find(".listItemPdfLink").attr("href",node.pdf);
 		item.find("input").attr("value", node.id);
-
-		// Add it to the list
-		$("#sidebar").append(item);
-
-		// Set it as the current element
-		setFocus(node);
-
-		// Fade in
-		$(".info, #" + node.id).fadeIn("fast");
 
 		// Add mouseover event
 		item.mouseover(function (e) { 
@@ -197,6 +214,23 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 			radio("sidebar:remove").broadcast(node,e); 
 		});
 
+		return item;
+	}
+
+
+
+
+	/**
+	 * What happens when a node is scheduled
+	 */
+	var schedule = function(node) {
+
+		// Render the new list
+		render();
+
+		// Set it as the current element
+		setFocus(node);
+
 		// Move sidebar when close to show it has been added
 		if(!isOpen){
 			moveSidebar(-280, 100, 0, function(){ moveSidebar(-310, 50, 0) });
@@ -209,21 +243,9 @@ define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util
 	 */
 	var unschedule = function(node) {
 
-		// Get item
-		var item = $("#" + node.id);
+		// Render the new list
+		render();
 
-		// Fade out and delete
-		item.fadeOut("fast", function() { 
-
-			// If the list is empty, fade out the info box too
-			if ($(".listItem:visible").length == 0) {
-				$(".info").fadeOut("fast");
-				$("#sure").fadeOut("fast");
-			}
-
-			// Remove the jquery item from the DOM
-			item.remove(); 
-		});
 		if(!isOpen){
 			moveSidebar(-280, 100, 0, function(){ moveSidebar(-310, 50, 0) });
 		}

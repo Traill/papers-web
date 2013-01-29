@@ -144,8 +144,8 @@ div.toolbar div.downpdf img	{ vertical-align: -3px;}
 div.toolbar div.downpdf		{ padding-top: 4px;height: 22px; padding-right: 5px;}
 	
 select.asmSelect			{ display:none; }
-ul#sidebar 					{ margin: 20px; display: block; list-style: none; width: 260px;
-}
+div#schedule				{ margin: 20px; color:#8b8b8b; width: 260px; }
+span.listDate				{ padding-top:10px; padding-bottom:4px; display:block; }
 #filterItemTemplate			{ display:none; }
 li#listItemTemplate			{ display:none; }
 li.listItem					{ background: rgb(246, 246, 246); background: rgba(246, 246, 246, 0.8);}
