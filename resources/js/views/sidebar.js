@@ -388,6 +388,9 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 		$('#tabs').css('height', h);
 		$('#tabs .scrollable').css('height', h-248);
 		
+		// Later will implement a scroll only on the summary:
+		//$("#tab1-summary").css('height', h-440);
+		// A bit complicate, 'cause need to compute the size the header take (title, authors...)
 		
 	}
 
@@ -395,18 +398,58 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 	 * Show information of the current node in the info tab:
 	 */
 	 var putInfo = function(node){
+	 	
+
 	 	var template = function(id, title, time, abstract, room, authors){
+	 		
+	 		var domEl = $('#template_info').clone();
+			domEl.css("display","block");
+			domEl.attr("id", id);
 
-	 	};
+	 		var authorString = "";
+	 		authors.forEach( function(author, i) {
+
+	 			if(i == 0) authorString += 'By <a href="#" >';
+	 			else authorString += ', by <a href="#" >';
+
+	 			authorString += author;
+	 			authorString += '</a>';
+	 		});
+	 		
+	 		domEl.find('.title').html(title);
+	 		domEl.find('.time b').html(  time.format("hh:mm  mmm d, yyyy") );
+
+	 		var rooml = room.substr(0, 15);
+	 		if(room.length > 15 ) rooml += "...";
+
+	 		domEl.find('.location b').html( rooml  );
+	 		domEl.find('.authors').html(authorString);
+	 		domEl.find('.abstract').html(abstract);
+
+	 		return domEl;
 
 
+	 	}
+
+
+	 	// Default abstract (loader in case we are loading from the web 
+		// server)
+		var abstract = "<img class=\"loading\" src=\"/img/ajax-loader_dark.gif\" style=\"margin:3px 0\"/><span class=\"loading-text\">Loading Abstract...</span>";
+
+	 	$('#tabs-1').find('.content_tab').html( template( node.id, node.title, node.getDate(), abstract, node.room, node.authors ));
+
+	 	// If the abstract isn't cached, fetch it
+		// It's in the end in case we get it really fast
+		node.getAbstract(function(data) {
+			$("#tab1-summary").html(data); 
+		});
 	 }
 
 	 /**
 	 * Show information of the current node in the info tab:
 	 */
 	 var removeInfo = function(node){
-	 	
+	 		$('#tabs-1').html('<div class="form-w" style="margin-top:40px; text-align:center;">no node selected</div>');
 	 }
 
 
