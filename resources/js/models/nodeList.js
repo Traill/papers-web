@@ -224,6 +224,48 @@ define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"
 		return nodeList.stats;
 	}
 
+	// Function to compute the center of the graph to display the windows
+	nodeList.computeStat = function() {
+		var centerx = [],
+			centery = [],
+			minx = 1000,
+			miny = 1000,
+			maxx = -1000,
+			maxy = -1000,
+			tot = 0;
+		
+		nodeList.getNodes().forEach(function(node){
+		
+			tot++;
+			centerx.push(node.x);
+			centery.push(node.y);
+
+			// Compute the min and max point
+			if(minx > node.x) minx = node.x;
+			if(miny > node.y) miny = node.y;
+
+			// Compute the min and max point
+			if(maxx < node.x) maxx = node.x;
+			if(maxy < node.y) maxy = node.y;
+			
+		});
+		
+		// the center is the median value:
+		var half = Math.floor(centerx.length/2);
+
+		// Sort table
+		centerx.sort( function(a,b) {return a - b;} );
+		centery.sort( function(a,b) {return a - b;} );
+
+
+
+
+		return { "center"	: [ centerx[half], centery[half] ],
+				 "min" 		: [minx, miny],
+				 "max"		: [maxx, maxy]
+				};
+	}
+
 
 
 	//////////////////////////////////////////////

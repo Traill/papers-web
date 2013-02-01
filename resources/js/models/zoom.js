@@ -1,7 +1,7 @@
 // To be use along radio to avoid passing its reference from object ot object
 
 
-define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
+define(["lib/d3", "radio", 'params', 'util/screen'], function (d3, radio, config, screen) {
 	
 	
 	// Create a zoom behavior:
@@ -9,9 +9,9 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	
 	// Track the position:
 	zoom.pos = {};
-	zoom.pos.x = 100;
-	zoom.pos.y = -200;
-	zoom.pos.s = 1.5;
+	zoom.pos.x = 0;
+	zoom.pos.y = 0;
+	zoom.pos.s = 1;
 	zoom.canvas = null;
 	
 
@@ -19,9 +19,10 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	
 	
 	
-	zoom.init = function(_canvas){
+	zoom.init = function(_canvas, stats){
 		
 		zoom.canvas = _canvas;
+		
 		
 		
 		
@@ -39,11 +40,7 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 		
 		
 		//Initializing position:
-		
-		zoom.translate([zoom.pos.x, zoom.pos.y]);
-		zoom.scale(zoom.pos.s);
-		
-		goTo();
+		initPos(stats);
 		
 		// Prototype style!
 		return zoom;
@@ -144,6 +141,35 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	  	  transMatrix[5] += zoom.pos.y;
 
 	  	  return transMatrix;
+	}
+
+	var initPos = function( stats ){
+		console.log(stats);
+		// Size of the window:
+		var w = screen.width(),
+			h = screen.height();
+
+		// Setup the variable:
+		var max_ratio_w =  (w - 20 ) / Math.abs(stats.max[0] - stats.min[0]) ,
+			max_ratio_h =  (h - 60) / Math.abs(stats.max[1] - stats.min[1]) ;
+
+
+		// Setup the scale:
+		zoom.pos.s = Math.min(max_ratio_w, max_ratio_h);
+
+
+		// Setup the translation x and y to have zoom in the middle:
+		zoom.pos.x = w/2 - stats.center[0] * zoom.pos.s + 10; 
+
+		zoom.pos.y = h/2 - stats.center[1] * zoom.pos.s + 30;
+
+		console.log(zoom.pos.y)
+
+		// Then update the view
+		zoom.translate([zoom.pos.x, zoom.pos.y]);
+		zoom.scale(zoom.pos.s);
+		
+		goTo();
 	}
 	
 

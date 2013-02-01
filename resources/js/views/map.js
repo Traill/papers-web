@@ -64,7 +64,10 @@ define(["lib/d3", "radio", "params", "models/zoom", "util/screen", "models/nodeL
 			radio("graph:changed").subscribe(drawNodes);
 
 			// Each time the windows size change, call:
-			//  ...
+			radio("window:resize").subscribe(function(){
+				setWinSize();
+				changeWindow();
+			});
 			
 		}
 		
@@ -79,15 +82,6 @@ define(["lib/d3", "radio", "params", "models/zoom", "util/screen", "models/nodeL
 		// Position of the window according to the zoom and the starting position
 		var changeWindow = function() {
 			
-			// // find initial dimension:
-			// initSize = {"w": map.mapWidth / config['zoomInit'],  "h": map.mapWidth / config['zoomInit'] * map.ratioWindows};
-
-
-			// // find position of the windows in the map:
-			// Pos =  {"x": zoom.pos.x * map.ratio / zoom.pos.s , "y": zoom.pos.y * map.ratio / zoom.pos.s };
-			
-			// // find dimension:
-			// SizeW ={"w": map.mapWidth / zoom.pos.s  ,  "h": map.mapWidth / zoom.pos.s  * map.ratioWindows };
 			var s =  map.pos.s / zoom.pos.s,
 				x = - zoom.pos.x / zoom.pos.s * map.pos.s + map.pos.x,
 				y = - zoom.pos.y / zoom.pos.s * map.pos.s + map.pos.y;
@@ -111,48 +105,6 @@ define(["lib/d3", "radio", "params", "models/zoom", "util/screen", "models/nodeL
 		}
 		
 		
-		// Function to compute the center of the graph to display the windows
-		var computeStat = function(nodes) {
-			var centerx = [],
-				centery = [],
-				minx = 1000,
-				miny = 1000,
-				maxx = -1000,
-				maxy = -1000,
-				tot = 0;
-			
-			nodes.forEach(function(node){
-			
-				tot++;
-				centerx.push(node.x);
-				centery.push(node.y);
-
-				// Compute the min and max point
-				if(minx > node.x) minx = node.x;
-				if(miny > node.y) miny = node.y;
-
-				// Compute the min and max point
-				if(maxx < node.x) maxx = node.x;
-				if(maxy < node.y) maxy = node.y;
-				
-			});
-			
-			// the center is the median value:
-			var half = Math.floor(centerx.length/2);
-
-			// Sort table
-			centerx.sort( function(a,b) {return a - b;} );
-			centery.sort( function(a,b) {return a - b;} );
- 
-    
- 
-
-			return { "center"	: [ centerx[half], centery[half] ],
-					 "min" 		: [minx, miny],
-					 "max"		: [maxx, maxy]
-					};
-		}
-		
 		// Display the matrix transformation from the scale, translation
 		function dmat(s, x, y){
 		  	  return "matrix("+ s + " 0 0 " + s + " " + x + " " + y + ")";
@@ -163,7 +115,7 @@ define(["lib/d3", "radio", "params", "models/zoom", "util/screen", "models/nodeL
 		function drawNodes(nodes) {
 
 			// find initial position of the windows in the map:
-			var stat_nodes = computeStat(nodes);
+			var stat_nodes = nodeList.computeStat();
 
 			// Setup the variable:
 			var max_ratio_w =  (map.Width - 10 ) / Math.abs(stat_nodes.max[0] - stat_nodes.min[0]) ,

@@ -116,9 +116,8 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			.attr('id', 'viewport');
 		
 		//enable scrolling on the canvas:
-		graph.zoom.init(graph.canvas);
-		// TODO: should be done automatically
-		graph.zoom.moveTo(0.6, [300, 100]);
+		graph.zoom.init(graph.canvas, nodeList.computeStat() );
+
 
 		// Draw the nodes and edges
 		graph.drawNodes(nodes);
@@ -276,7 +275,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	}
 
 
-
 	//////////////////////////////////////////////
 	//											//
 	//           Private Functions				//
@@ -319,6 +317,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 				
 		return positions;
 	}
+
 	
 	
 

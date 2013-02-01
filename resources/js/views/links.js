@@ -85,7 +85,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 			var e = d3.event;
 			
 			link.link.domLink.classed('clikable', true)
-					 		 .style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
+					 		 .style("stroke-width", graph.strokeWidth(link.link, config["edgeSize_hover"]));
 			showClickable(node, link.targetNode, link.link);
 
 			

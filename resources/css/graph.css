@@ -145,7 +145,7 @@ div.toolbar div.downpdf		{ padding-top: 4px;height: 22px; padding-right: 5px;}
 	
 select.asmSelect			{ display:none; }
 div#schedule				{ margin: 20px; color:#8b8b8b; width: 260px; }
-span.listDate				{ padding-top:10px; padding-bottom:4px; display:block; }
+span.listDate				{ padding-top:10px; padding-bottom:8px; display:block; font-size: 11px; }
 #filterItemTemplate			{ display:none; }
 li#listItemTemplate			{ display:none; }
 li.listItem, li.filterItem					{ background: rgb(246, 246, 246); background: rgba(246, 246, 246, 0.8);}
@@ -533,3 +533,31 @@ div.field label{
 	margin-left: -104px;
 }
 /* @end */
+
+div.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-draggable.ui-dialog-buttons {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding-bottom: 14px;
+	box-shadow: 0px 0px 10px #444;
+	border: 1px solid #fff;
+}
+
+body div.ui-dialog.ui-widget div.ui-dialog-content.ui-widget-content {
+	height: 60px;
+	text-align: center;
+	padding: 30px;
+}
+
+span.ui-icon.ui-icon-closethick {
+	margin-top: -9px;
+	margin-left: 5px;
+	margin-bottom: 4px;
+}
+
+div.ui-dialog-buttonset {
+	text-align: center;
+}
+div.ui-dialog-buttonset button{
+	padding: 3px 10px;
+}

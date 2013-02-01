@@ -266,12 +266,37 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 	 */
 	var abstractVerify = function(type) {
 		
-		var abst = (confirm("Do you want to include abstract of the papers? ")) ? 1: 0 ;
-		if(type == 0){
-			withAbstract(abst);
-		}else{
-			downloadIcal(abst);
-		}
+		var $dialog = $('<div></div>')
+		.html('Do you want to include abstract of the papers?')
+		.dialog({
+			      resizable: false,
+			      modal: true,
+			      buttons: {
+			        "Yes with abstract": function() {
+			          $( this ).dialog( "close" );
+			          if(type == 0){
+							withAbstract(1);
+						}else{
+							downloadIcal(1);
+						}
+			        },
+			        "No, without": function() {
+			          $( this ).dialog( "close" );
+			          if(type == 0){
+							withAbstract(0);
+						}else{
+							downloadIcal(0);
+						}
+			        }
+			      }
+			    });
+
+	
+		$dialog.dialog('open');
+
+
+		// var abst = (confirm("Do you want to include abstract of the papers? ")) ? 1: 0 ;
+		
 	}
 
 
