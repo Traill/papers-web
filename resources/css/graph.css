@@ -37,9 +37,9 @@ div#topbar {
 	color: #5D5D5D;
 	text-shadow: #eee 1px 1px 0px;
 }
-div#header					{ height: 38px; border-bottom: 1px solid #989898; background: url(../img/bg_head.png) repeat-x; width: 310px;
+div#header					{ height: 38px; border-bottom: 1px solid #989898; background: url(../img/bg_head.png) repeat-x; width: 268px;
 }
-a#logo 						{ margin-left: 30px;  width: 142px; height: 23px; margin-top: 9px; display: inline-block;}
+a#logo 						{ margin-left: 70px;  width: 132px; height: 23px; margin-top: 9px; display: inline-block;}
 a#logo div					{ width: 142px; height: 23px; background: url(../img/logo2.png) no-repeat; }
 a#logo:hover div			{ background: url(../img/logo2_over.png) no-repeat;}
 /* Content */
@@ -530,7 +530,7 @@ div.field label{
 }
 #content #zoomer_w.popup_w .popup{
 	width: 220px;
-	margin-left: -104px;
+	margin-left: -92px;
 }
 /* @end */
 
@@ -560,4 +560,27 @@ div.ui-dialog-buttonset {
 }
 div.ui-dialog-buttonset button{
 	padding: 3px 10px;
+}
+#info_btn{
+	font-family: 'Baskerville';
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	color: #9f9f9f;
+	float: left;
+	display: inline;
+	padding: 9px 17px;
+	border-left: 1px solid #ADADAD;;
+	border-right: 1px solid #ADADAD;
+	-moz-box-shadow: inset -2px 0 0 #e9e9e9;
+    -webkit-box-shadow:inset -2px 0 0 #e9e9e9;
+	box-shadow:inset -2px 0 0 #e9e9e9;
+
+	-moz-box-shadow:inset 1px 0 0 #e9e9e9;
+    -webkit-box-shadow: inset 1px 0 0 #e9e9e9;
+	box-shadow:inset 1px 0 0 #e9e9e9;
+}
+#info_btn:hover{
+	text-decoration: none;
+	color: #525252;
 }
