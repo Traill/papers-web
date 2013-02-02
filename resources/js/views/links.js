@@ -85,7 +85,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 			var e = d3.event;
 			
 			link.link.domLink.classed('clikable', true)
-					 		 .style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
+					 		 .style("stroke-width", graph.strokeWidth(link.link, config["edgeSize_hover"]));
 			showClickable(node, link.targetNode, link.link);
 
 			
@@ -131,8 +131,24 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		
 		
 		source.links[link.index].clickable.on('mouseover', function() {
-		source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.12+") rotate("+a+")" );}); 
-		source.links[link.index].clickable.on('mouseout', function() {  source.links[link.index].clickable.transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );});
+				
+				// Add a new event...
+				radio('arrow:over').broadcast(target);
+
+				source.links[link.index]
+					  .clickable.transition()
+					  .attr('transform', "translate("+posx+", "+posy+") scale("+0.12+") rotate("+a+")" );
+
+			}); 
+		source.links[link.index].clickable.on('mouseout', function(){ 
+
+				
+				radio('arrow:out').broadcast(target);
+
+				source.links[link.index].clickable
+				  	  .transition().attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );
+
+		} );
 		
 		source.links[link.index].clickable.on('click', function () { 
 				
@@ -144,6 +160,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 				
 		} );
 	}
+	
 
 
 	// remove all the clickable item of the old node.

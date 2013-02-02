@@ -17,6 +17,7 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	// Reference to the node the selectbox is associative with
 	var selectedNode = null;
+	var nodeIndex = -1;
 	
 	// Is the select box visible?
 	var isShown = false;
@@ -84,28 +85,35 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	// node
 	var showselectBox = function(node, e) {
 		
-		// Register the node position:
-		nodeIndex = node.index;
-		selectedNode = node;
-		
-		// the select box is shown
-		isShown = true;
-		
-		pos = svg2domPosition(selectedNode.x, selectedNode.y, zoom.pos);
-		
-		// set select image
-		if (nodeList.isScheduled(selectedNode)) { unschedule(selectedNode.index); }
-		else schedule(selectedNode.index);
+		if(nodeIndex != node.index) {
+			// Register the node position:
+			nodeIndex = node.index;
+			selectedNode = node;
+			
+			// the select box is shown
+			isShown = true;
+			
+			pos = svg2domPosition(selectedNode.x, selectedNode.y, zoom.pos);
+			
+			// set select image
+			if (nodeList.isScheduled(selectedNode)) { unschedule(selectedNode.index); }
+			else schedule(selectedNode.index);
 
-		// Set download link
-		$("#download a").attr("href", selectedNode.pdf).attr("target", "_blank");
+			// Set download link
+			$("#download a").attr("href", selectedNode.pdf).attr("target", "_blank");
 
-		// Change position of and fade in
-		$("#clickwrap")
-			.stop(true,true)
-			.css("left",pos[0] + "px")
-			.css("top", pos[1] + "px")
-			.fadeIn();//.delay(4000).fadeOut(); 
+			// Change position of and fade in
+			$("#clickwrap")
+				.stop(true,true)
+				.css("left",pos[0] + "px")
+				.css("top", pos[1] + "px")
+				.fadeIn();//.delay(4000).fadeOut(); 
+		}else{
+			isShown = false;
+			$("#clickwrap").fadeOut();
+			nodeIndex = -1;
+			selectedNode = null;
+		}
 	}
 	
 	// when moving the canvas, we want that the clickwrap follow the node:

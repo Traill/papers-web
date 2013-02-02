@@ -1,7 +1,7 @@
 // To be use along radio to avoid passing its reference from object ot object
 
 
-define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
+define(["lib/d3", "radio", 'params', 'util/screen'], function (d3, radio, config, screen) {
 	
 	
 	// Create a zoom behavior:
@@ -9,40 +9,20 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	
 	// Track the position:
 	zoom.pos = {};
-	zoom.pos.x = 100;
-	zoom.pos.y = -200;
-	zoom.pos.s = 1.5;
+	zoom.pos.x = 0;
+	zoom.pos.y = 0;
+	zoom.pos.s = 1;
 	zoom.canvas = null;
 	
-	
-	
-	// Add a custom transition for the canvas:
-//	d3.interpolators.push(function(a, b) {
-//	    return function(t) {
-//	    
-	      // Interpolation
-//	      var posx = a.x + (b.x-a.x) * t;
-//	      var posy = a.y + (b.y-a.y) * t;
-//	      var s = a.s + (b.s-a.s) * t;
-//	      
-//	      setValue(s, [posx, posy]);
-//
-	      // Update the zoom with new position:
-//	      zoom.translate([posx, posy]);
-//	      zoom.scale(s);
-//	      
-	      // Change canvas:
-//	      goTo();
-//	      
-//	      return [posx, posy, s];
-//	    }
-//	});
+
+
 	
 	
 	
-	zoom.init = function(_canvas){
+	zoom.init = function(_canvas, stats){
 		
 		zoom.canvas = _canvas;
+		
 		
 		
 		
@@ -53,7 +33,6 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 			var e = d3.event;
 			var transform = e.translate;
 			var scale = e.scale;
-			
 			zoom.moveTo(scale, transform);
 			
 			 
@@ -61,11 +40,7 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 		
 		
 		//Initializing position:
-		
-		zoom.translate([zoom.pos.x, zoom.pos.y]);
-		zoom.scale(zoom.pos.s);
-		
-		goTo();
+		initPos(stats);
 		
 		// Prototype style!
 		return zoom;
@@ -79,22 +54,19 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	//////////////////////////////////////////////
 	
 	// Move the canvas to the new position:
-	zoom.moveTo = function(scale, transform){
+	zoom.moveTo = function(scale, translation){
 		
-		
-		// Avoid weird behavior
-		//scale = scale < config['zoomMax'] ?  scale > config['zoomMin'] ? scale : config['zoomMin'] : config['zoomMax'];
-		
-		setValueManually(scale, transform);
+		setValueManually(scale, translation);
 		goTo();
+
 	} 
 	
 	// Manually move the canvas to the new position:
-	zoom.transitionTo = function(scale, transform){
+	zoom.transitionTo = function(scale, translation){
 		
 		var transTo = {};
-		transTo.x = transform[0];
-		transTo.y = transform[1];
+		transTo.x = translation[0];
+		transTo.y = translation[1];
 		transTo.s = scale;
 		
 		zoom.canvas.transition().tween('transform', function() {
@@ -127,17 +99,11 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	//            private Functions				//
 	//											//
 	//////////////////////////////////////////////
-	var setValue = function(scale, transform) {
+	var setValueManually = function(scale, transform) {
+		
 		zoom.pos.x = transform[0];
 		zoom.pos.y = transform[1];
 		zoom.pos.s = clipScale(scale);
-	}
-	
-	var setValueManually = function(scale, transform) {
-		
-		var scale = clipScale(scale);
-		
-		setValue(scale, [transform[0], transform[1]]);
 		
        // Update the zoom with new position:
        zoom.translate(transform);
@@ -155,17 +121,58 @@ define(["lib/d3", "radio", 'params'], function (d3, radio, config) {
 	var goTo = function() {
 		
 		radio("zoom:change").broadcast(zoom);
-		zoom.canvas.attr("transform", "translate(" + zoom.pos.x + ", "+zoom.pos.y+") scale(" + zoom.pos.s + ")");
+		var transMatrix = ComputeMatrix();
+		zoom.canvas.attr("transform", "matrix(" + transMatrix.join(' ') + ")");
 		
 	}
-	
-	var transitionTo = function() {
-		
-		
-		// Smooth transition of the canvas to:
-		zoom.canvas.transition().attr('transform', "translate("+zoom.pos.x+", "+zoom.pos.y+") scale("+zoom.pos.s+")");
-	
+
+	function ComputeMatrix(){
+
+		var transMatrix = [1,0,0,1,0,0];
+		for (var i=0; i<transMatrix.length; i++)
+		  {
+		    transMatrix[i] *= zoom.pos.s;
+		  }
+
+		  // transMatrix[4] += (1-zoom.pos.s)*1000/2;
+		  // transMatrix[5] += (1-zoom.pos.s)*500/2;
+
+		  transMatrix[4] += zoom.pos.x;
+	  	  transMatrix[5] += zoom.pos.y;
+
+	  	  return transMatrix;
 	}
+
+	var initPos = function( stats ){
+		console.log(stats);
+		// Size of the window:
+		var w = screen.width(),
+			h = screen.height();
+
+		// Setup the variable:
+		var max_ratio_w =  (w - 20 ) / Math.abs(stats.max[0] - stats.min[0]) ,
+			max_ratio_h =  (h - 60) / Math.abs(stats.max[1] - stats.min[1]) ;
+
+
+		// Setup the scale:
+		zoom.pos.s = Math.min(max_ratio_w, max_ratio_h);
+
+
+		// Setup the translation x and y to have zoom in the middle:
+		zoom.pos.x = w/2 - stats.center[0] * zoom.pos.s + 10; 
+
+		zoom.pos.y = h/2 - stats.center[1] * zoom.pos.s + 30;
+
+		console.log(zoom.pos.y)
+
+		// Then update the view
+		zoom.translate([zoom.pos.x, zoom.pos.y]);
+		zoom.scale(zoom.pos.s);
+		
+		goTo();
+	}
+	
+
 	
 	return zoom;
 });

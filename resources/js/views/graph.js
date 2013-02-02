@@ -28,8 +28,12 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		// On node mouseover
 		radio("node:mouseover").subscribe(hover);
 
+		radio("arrow:over").subscribe(hover);
+
 		// On node mouseout
 		radio("node:mouseout").subscribe(hoverOut);
+		// Idem when over an arrow
+		radio("arrow:out").subscribe(hoverOut);
 
 		// On node click, we want to try a new interface: focus on the node	
 		//radio("node:click").subscribe(setFocus);
