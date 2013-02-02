@@ -156,7 +156,7 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 	// Renders the schedule with dates and all
 	render = function() {
 		var scheduled = nodeList.scheduled;
-		var sorted = scheduled.sort(function(s1,s2) { return s1.time > s2.time });
+		var sorted = scheduled.sort(function(s1,s2) { return s1.time - s2.time });
 		var days = sorted.map(function(s) { return unixTime.toDate(s.time/1000); });
 
 		// Now loop through sorted and build the html items
