@@ -53,6 +53,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 				var e = d3.event; 
 				radio("node:click").broadcast(node, e);
 				radio("node:select").broadcast(node, e);
+
+				// Ok this isn't a good way to structure
+				// but it's a simple hack to make it worK:
+				radio("sidebar:tab").broadcast(1);
 			});
 		});
 

@@ -39,6 +39,11 @@ define(function () {
 
 	config['talk_duration'] = 30;
 
+
+
+	config['conference_name'] = "Information Theory and Applications Workshop";
+	config['conference_place'] = "Catamaran Resort, San Diego";
+
 	return config; 
 
 });
