@@ -442,7 +442,7 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 	 		});
 	 		
 	 		domEl.find('.title').html(title);
-	 		domEl.find('.time b').html(  time.format("hh:mm  mmm d, yyyy") );
+	 		domEl.find('.time b').html(  time.format("HH:MM  mmm d, yyyy") );
 
 	 		var rooml = room.substr(0, 15);
 	 		if(room.length > 15 ) rooml += "...";

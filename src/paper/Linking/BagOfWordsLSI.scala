@@ -175,7 +175,7 @@ trait BagOfWordsLSI extends ComparePaper {
 		var textsList = List[java.lang.String]()
 		//reading from every entry of the list:
 		for (k <- 0 to papers.length-1){
-			text(k) = papers(k).body.text	    
+			text(k) = papers(k).abstr.text	    
 			//leave out unecessary characters from the analysis
 			text(k) = clean(text(k))
 			    

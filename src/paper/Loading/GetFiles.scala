@@ -18,7 +18,7 @@ trait GetFiles {
     if (!orig.isDirectory) return Map.empty + (baseName(orig) -> orig)
 
     // In case it's a directory, let the file array contain all the files of the directory (regex utilization)
-    val files = orig.listFiles.toList.filter(_.getName.split('.').last == suffix)
+    val files = orig.listFiles.toList.filterNot(_.isDirectory)
 
     // Convert to map
     return files.map(baseName(_)).zip(files).toMap

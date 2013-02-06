@@ -1,4 +1,5 @@
-define(["controllers/position", "util/merge", "params"], function(position, merge, config) {
+define(["controllers/position", "util/merge", "params", "util/unixTime"], 
+	function(position, merge, config, unixTime) {
 
 
 	//////////////////////////////////////////////
@@ -99,7 +100,7 @@ define(["controllers/position", "util/merge", "params"], function(position, merg
 
 	// Get date from node
 	var getDateFun = function() {
-		var date		= new Date(parseInt(this.time) + (new Date()).getTimezoneOffset()*60000)
+		var date = unixTime.toDate(this.time/1000)
 		return date;
 	}
 

@@ -57,8 +57,7 @@ object Analyzer extends GetFiles {
 
 
 case class Analyzer(docs : Map[String, Document]) extends GetFiles
-                                                     with PDFLoader
-                                                     with XMLParser 
+                                                     with ITA2013
                                                      with ExtendPaper
                                                      with BagOfWordsLSI
                                                      with XMLScheduleParser {
@@ -68,25 +67,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
    */
   def parse : Analyzer = { 
 
-    val ds = for ((id, d) <- docs; n = parse(d)
-                        if (n.paper != Document.emptyPaper)) yield (id -> n)
+    val ds = for ((id, d) <- docs; n = parseDoc(d)
+                        if (n != None)) yield (id -> n.get)
 
     return Analyzer(ds)
-  }
-
-
-  /**
-   * Parse a paper
-   */
-  def parse(doc : Document) : Document = {
-
-    def toPaper(f : File) = parseFile(doc, pdfToXML(f)) match {
-      case Some(p)  => p
-      case None     => doc.paper
-    }
-
-    // Parse the paper linked to in the document
-    doc.setPaper(toPaper(doc.file))
   }
 
 
@@ -144,11 +128,14 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
     // Parse all those that weren't found
     val ds = for ((id, d) <- docs) yield { 
-      if (docOption(id) == None) (id -> parse(d))
-      else (id -> docOption(id).get)
+      if (docOption(id) == None) (id -> parseDoc(d))
+      else (id -> Some(docOption(id).get))
     }
 
-    return Analyzer(ds)
+    // Filter those that didn't parse
+    val filtered = for ((id, d) <- ds; if d != None) yield (id, d.get)
+
+    return Analyzer(filtered)
   }
 
 
