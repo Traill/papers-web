@@ -77,6 +77,7 @@ div#tabs					{ position: fixed; left:0px; top:38px; z-index:4; width:310px; marg
 div.scrollable {
 	overflow-y: auto;
 	height: 300px;
+	padding-right: 5px; 
 }
 div.scrolltop {
 		background: url('../img/scrollable.png') repeat-x;
@@ -214,7 +215,7 @@ div.scheduleSelect			{ filter:progid:DXImageTransform.Microsoft.gradient(startCo
 #graph circle.scheduled		{ fill: #3C6E70; stroke: #86B5B3; stroke-width: 1px; }
 #graph circle.hover				{ fill: #D76534; stroke: #fdd; }
 #graph circle.selected				{ fill: #990C00; stroke: #dff; }
-#graph circle.search				{ stroke:yellow; stroke-width:3px; }
+#graph circle.search				{ stroke: #FF1822; stroke-width:3px; }
 
 
 /* Line value:*/

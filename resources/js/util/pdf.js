@@ -28,7 +28,7 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	    this.doc.setProperties({
 	    	title: 'Title',
 	    	subject: 'This is the subject',		
-	    	author: 'Rudiger Urbanke, Jonas Arnfred',
+	    	author: 'Rudiger Urbanke, Jonas Arnfred, Yannik Messerli',
 	    	keywords: 'papers',
 	    	creator: 'jsPDF'
 	    });
@@ -80,13 +80,15 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	  	// Put the name of the conference in big:
 	  	doc.setFontSize(24);
 	  	doc.setFontType("normal");
-	  	doc.text(yoffset, 100, ("The conference name").toUpperCase() ); 
+	  	var conf_name = config['conference_name'].toUpperCase().paragraphy(20);
+	  	doc.text(yoffset, 100, conf_name ); 
 
 	  	doc.setFontSize(14);
-	  	doc.text(yoffset, 107, "The conference place" );
+	  	var conf_place = config['conference_place'].paragraphy(50);
+	  	doc.text(yoffset, 102 + conf_name.length*7,  conf_place);
 
 		doc.setFontSize(11);
-		doc.text(yoffset, 115, "Your program for the conference name.");
+		doc.text(yoffset, 120 + conf_name.length*7 + conf_place.length*7, ("Your program for "+config['conference_name']+".").paragraphy(50));
 
 	  	// write the day of generation:
 	  	var now = new Date();
