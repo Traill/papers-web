@@ -318,7 +318,7 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 		var scheduled = nodeList.scheduled;
 
 		// generate the pdf
-		var t = new Pdf(scheduled);
+		var t = new Pdf(scheduled, abst == 1 );
 		t.send();
 	}
 

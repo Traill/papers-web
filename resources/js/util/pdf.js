@@ -3,6 +3,8 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	var MAX_PAGE_POS = 275; // end of page is at 295 for a font of 10
 	var yoffset = 90;
 
+	var with_summary = true;
+
 	var Pdf = Class.extend({
 	  
 	  ////////////////////////////////////////////////
@@ -17,7 +19,12 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	  //               Constructor				 //
 	  //										 //
 	  /////////////////////////////////////////////
-	  init: function(nodes){
+	  init: function(nodes, incl_sum){
+
+	  	// Include summary?
+	  	if(incl_sum != null) with_summary = incl_sum;
+
+
 	    this.doc = new jsPDF();
 	    
 	    this.doc.pos = 0;
@@ -37,6 +44,8 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	    
 	    // create front page:
 	    this.makeFrontPage(this.doc);
+
+	    if(!with_summary) this.addPage(this.doc);
 
 	    /* Find all different day: */
 	    nodes.forEach(function(node) {
@@ -100,7 +109,6 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	  beginDay: function(d, doc){
 	
 
-	  		this.addPage(doc);
 	  		
 	  		doc.setFontSize(22);
 	  		doc.pos += 20;
@@ -112,11 +120,17 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	  },
 	  addDay: function(d, doc) {
 	  		
+	  		if(with_summary) this.addPage(doc);
+
 	  		this.beginDay(d, doc);
 			
 	  		d.nodes.forEach(function(node) {
 	  			
-	  			if( doc.pos > MAX_PAGE_POS-20 ) this.beginDay(d, doc);
+	  			if( doc.pos > MAX_PAGE_POS-20 ) {
+	  				this.addPage(doc);
+	  				this.beginDay(d, doc);
+	  			}
+
 		  		doc.pos += 8;
 		  		
 		  		// Write the time:
@@ -131,17 +145,22 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 				// Write the authors:
 				this.writeAuthors(node, doc);
 				
-		  		doc.pos += 5;
-		  		
-		  		var summary = node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"").paragraphy(60);
-		  		summary.forEach(function(string) {
+				if(with_summary){
+			  		doc.pos += 5;
+			  		
+			  		var summary = node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"").paragraphy(60);
+			  		summary.forEach(function(string) {
 
-		  			if( doc.pos > MAX_PAGE_POS-1 ) this.beginDay(d, doc);
-					doc.setFontType("normal");
-		  			doc.setFontSize(10);
-		  			doc.pos = doc.pos + 5;
-		  			doc.text(yoffset, doc.pos,  string);
-		  		}, this);
+			  			if( doc.pos > MAX_PAGE_POS-1 ) {
+			  				this.addPage(doc);
+			  				this.beginDay(d, doc);
+			  			}
+						doc.setFontType("normal");
+			  			doc.setFontSize(10);
+			  			doc.pos = doc.pos + 5;
+			  			doc.text(yoffset, doc.pos,  string);
+			  		}, this);
+			  	}
 	  		
 	  		}, this);
 	  		
@@ -160,7 +179,7 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	  		doc.pos += 5;
 	  		doc.setFontSize(10);
 	  		doc.setFontType("italic");
-	  		doc.text(yoffset-node.room.length*2.2, doc.pos,  node.room );
+	  		doc.text(yoffset - 40, doc.pos,  node.room );
 	  		doc.pos -= 11; // reset
 	  },
 	  writeTime: function(node, doc){
@@ -168,7 +187,7 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	  		doc.pos += 6;
 	  		doc.setFontSize(13);
 	  		doc.setFontType("bold");
-	  		doc.text(yoffset-32, doc.pos,  d.format("HH:MM TT"));
+	  		doc.text(yoffset-40, doc.pos,  d.format("HH:MM TT"));
 	  		//doc.pos -= 6;
 	  },
 	  writeAuthors: function(node, doc){
