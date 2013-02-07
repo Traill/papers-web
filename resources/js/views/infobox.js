@@ -17,7 +17,21 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 	var infobox = {};
 
 
+	function init(){
 
+		$("#info").mouseenter(
+			function(){
+				console.log('ok');
+
+				var e = $("#info");
+
+				// Clear queue first
+				if(e.data('delay')) clearTimeout(e.data('delay'));
+				$("#info").stop(true,true).fadeIn(0);
+			});
+
+		$("#info").mouseleave(fadeOut);
+	}
 	//////////////////////////////////////////////
 	//											//
 	//                Events					//
@@ -43,7 +57,7 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 		radio("node:mouseover").subscribe(fadeOut);
 
 		// On Click, add the abstract etc
-		radio("node:select").subscribe(setAbstract);
+		//radio("node:select").subscribe(setAbstract);
 		radio("sidebar:hover").subscribe(setAbstract);
 
 
@@ -71,7 +85,7 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 		if(e.data('delay')) clearTimeout(e.data('delay'));
 
 		// Add a to queue:
-		e.data('delay', setTimeout(function() { e.stop(true, true).fadeOut(); }, 3000));
+		e.data('delay', setTimeout(function() { e.stop(true, true).fadeOut(); }, 8000));
 	}
 
 	/**
@@ -123,7 +137,7 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 
 	// Set the events
 	infobox.events();
-
+	init();
 	// Export the controller
 	return infobox;
 });

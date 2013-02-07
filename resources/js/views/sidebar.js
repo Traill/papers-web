@@ -82,6 +82,10 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 		// Unselect it when click somewhere else
 		radio("node:unselect").subscribe(removeInfo);
 
+		// Add new event to open a particular tab:
+		radio("sidebar:tab").subscribe(openTab);
+
+
 	}
 
 
@@ -235,6 +239,8 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 		if(!isOpen){
 			moveSidebar(-280, 100, 0, function(){ moveSidebar(-310, 50, 0) });
 		}
+
+		radio('sidebar:tab').broadcast(0);
 	}
 
 
@@ -435,7 +441,7 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 	 		authors.forEach( function(author, i) {
 
 	 			if(i == 0) authorString += 'By <a href="#" >';
-	 			else authorString += ', by <a href="#" >';
+	 			else authorString += ', <a href="#" >';
 
 	 			authorString += author;
 	 			authorString += '</a>';
@@ -477,6 +483,9 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 	 		$('#tabs-1').html('<div class="form-w" style="margin-top:40px; text-align:center;">no node selected</div>');
 	 }
 
+	 var openTab = function(tabIndex){
+		$( "#tabs" ).tabs( "option", "active",  tabIndex);
+	 }
 
 	// Export the controller
 	sidebar.init();
