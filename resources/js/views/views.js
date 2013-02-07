@@ -29,7 +29,7 @@ define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox
 
 			resized_pub();
 
-			radio('message').broadcast('Welcome on trailHead! <br/> You can learn how it is working on the <a href="./page/about.html">about page</a>');
+			radio('message').broadcast('Welcome to TrailHead!<br/>You can learn how it works on the <a href="./page/about.html">about page</a>');
 
 			// Add a listener for each popup in the menu...
 			$('.popup_w').each(function(i, el){
