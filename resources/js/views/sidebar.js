@@ -472,7 +472,6 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 		// If the abstract isn't cached, fetch it
 		// It's in the end in case we get it really fast
 		node.getAbstract(function(data) {
-			console.debug(data)
 			$(".abstract").html(data); 
 		});
 	 }
