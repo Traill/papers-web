@@ -3,16 +3,31 @@ package web
 import scala.io.Source
 import java.io.PrintStream
 import java.io.FileOutputStream
+import java.io.File
 
 object PositionModel {
 
   // Nodes positions
-  private var positions : Map[String, String] = Source.fromFile("positions.dat")
-                                                 .getLines
-                                                 .map( 
-                                                        l => (l.substring(0, l.indexOf("###")) -> l.substring(l.indexOf("###")+3)) 
-                                                      )
-                                                 .toMap
+  private var positions : Map[String, String] = Map.empty
+
+
+  // Loads positions from file if they haven't been loaded already
+  def getPositions : Map[String, String] = {
+
+    if (positions == Map.empty) {
+      // check if file exists
+      val f = new File("positions.dat")
+      if (f.exists) {
+        positions = Source.fromFile(f)
+                          .getLines
+                          .map { l => 
+                            (l.substring(0, l.indexOf("###")) -> l.substring(l.indexOf("###")+3)) 
+                          } toMap
+      }
+    }
+
+    return positions
+  }
 
   // Save the position of the graph
   // There is still an id so that later on
@@ -29,7 +44,7 @@ object PositionModel {
   // Reset the position of id 
   def reset(id : String) : Unit = {
     positions = positions-(id);
-    println("position reseted")
+    println("position reset")
 
     // write file
     var out = new PrintStream(new FileOutputStream("positions.dat"))

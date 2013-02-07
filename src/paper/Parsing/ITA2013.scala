@@ -33,7 +33,7 @@ trait ITA2013 extends XMLParser with PDFLoader
     val info : List[String] = Source.fromFile(f).getLines.toList
     if (info.length < 8) throw new Exception("Corrupted paper file: " + f.getName)
 
-    val authors = info(3).split(';').map(c => Author(c.takeWhile(p => p != '(').trim))
+    val authors = getAuthors(info(3))
     val title = info(2)
     val session = info(4).toInt
     val room = getRoom(session)
@@ -47,6 +47,25 @@ trait ITA2013 extends XMLParser with PDFLoader
         .setMeta("date" -> date)
         .setMeta("session" -> session.toString))
 
+  }
+
+  private def getAuthors(authors : String) : List[Author] = {
+
+    authors.split(';').toList.map { c => 
+
+      // Discard the school information
+      val name = c.takeWhile(_ != '(')
+
+      // Reorder name to first last
+      val firstlast : String = name.split(',').toList match {
+        case last :: first :: Nil => first.trim + " " + last.trim
+        case name :: Nil => name.mkString.trim
+        case Nil => throw new Exception("Malformed author: " + authors)
+      }
+
+      // Return
+      Author(firstlast)
+    }
   }
 
   private def getDate(date : String, time : String) : String = {
