@@ -45,7 +45,6 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		// Load cookie
 		var g = JSON.parse(cookie("graph"));
 		if (typeof g == "string") g = JSON.parse(g);
-		console.debug(g)
 
 		// Check if cookie is set
 		if (g == null) return;

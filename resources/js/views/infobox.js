@@ -21,8 +21,6 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 
 		$("#info").mouseenter(
 			function(){
-				console.log('ok');
-
 				var e = $("#info");
 
 				// Clear queue first

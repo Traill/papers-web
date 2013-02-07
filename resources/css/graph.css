@@ -338,7 +338,7 @@ div#template_info {
 	display: none;	
 }
 
-div#tab1-summary{
+div.abstract{
 	width: 220px;
 	padding: 10px 20px;
 	border: 1px solid #b3b3b3;

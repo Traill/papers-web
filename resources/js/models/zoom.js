@@ -144,7 +144,6 @@ define(["lib/d3", "radio", 'params', 'util/screen'], function (d3, radio, config
 	}
 
 	var initPos = function( stats ){
-		console.log(stats);
 		// Size of the window:
 		var w = screen.width(),
 			h = screen.height();
@@ -162,8 +161,6 @@ define(["lib/d3", "radio", 'params', 'util/screen'], function (d3, radio, config
 		zoom.pos.x = w/2 - stats.center[0] * zoom.pos.s + 10; 
 
 		zoom.pos.y = h/2 - stats.center[1] * zoom.pos.s + 30;
-
-		console.log(zoom.pos.y)
 
 		// Then update the view
 		zoom.translate([zoom.pos.x, zoom.pos.y]);
