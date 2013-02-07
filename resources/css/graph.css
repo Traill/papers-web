@@ -77,7 +77,6 @@ div#tabs					{ position: fixed; left:0px; top:38px; z-index:4; width:310px; marg
 div.scrollable {
 	overflow-y: auto;
 	height: 300px;
-	padding-right: 5px; 
 }
 div.scrolltop {
 		background: url('../img/scrollable.png') repeat-x;
@@ -196,7 +195,7 @@ img.imgtitle				{ padding-top: 6px; padding-left:2px; }
 img.imgauthors				{ padding-left:2px; }
 img.imgdownload				{ padding-left:2px; }
 img.imgpresentation			{ padding-top:2px; }
-span.listItemLabel p		{ float: left; width:190px; }
+span.listItemLabel p		{ float: left; width: 180px; }
 a.listItemRemove			{ float:  right; display: inline; margin-right: 7px; margin-top: 15px; }
 ul.infoList					{ position: relative; display: block; padding-left:0; margin: 10px 0 10px 10px; list-style: none; }
 li.infoItem 				{ position: relative; padding-left: 2px; list-style: none; border-bottom: 1px solid #ddd; width: auto; margin: 0 5px -1px 0; line-height: 1em;clear:both; }
@@ -240,7 +239,7 @@ div.scheduleSelect			{ filter:progid:DXImageTransform.Microsoft.gradient(startCo
 
 /* Forms styling */
 
-.form-w						{ margin: 15px 20px;
+.form-w						{ margin: 15px 10px 15px 20px;
 }	
 .form	 input[type=text], textarea 	{
 							  font-size: 1em;
