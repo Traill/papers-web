@@ -446,7 +446,32 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 				authorString += author;
 				authorString += '</a>';
 			});
+
+			// Add thumb:
+			domEl.find('.thumb').append($('<img src="extra/'+id+'.jpg" width="50" />').error(function() {
+  				domEl.find('.thumb').remove();
+  				domEl.find('.authors').css('width', '100%');
+			}));
 			
+			
+			
+
+			// check if pdf exist:
+			$.ajax({
+				url:'extra/'+id+'.pdf',
+				type:'HEAD', 
+				error: function(){
+					// Remove link
+					domEl.find('.pdf_dwn').remove();
+				},
+				success: function(){
+					// Add pdf url:
+					domEl.find('.pdf_dwn a').attr('href', 'extra/'+id+'.pdf');
+				}
+			});
+
+
+
 			domEl.find('.title').html(title);
 			domEl.find('.time b').html(  time.format("HH:MM  mmm d, yyyy") );
 

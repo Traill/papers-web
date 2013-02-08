@@ -355,10 +355,24 @@ div.abstract{
 #tabs-1 div.authors {
 	font-size: 12px;
 	line-height: 18px;
-	width: 95%;
+	width: 190px;
 	margin-left: 3px;
 }
-
+#tabs-1 .pdf_dwn{
+	margin-bottom: -8px;
+}
+#tabs-1 .pdf_dwn a{
+	font-size: 11px;
+}
+#tabs-1 .thumb{
+	overflow: hidden;
+	border-radius: 5px;
+	width: 50px;
+	height: 50px;
+	background: #9B9B9B;
+	box-shadow: 0 0 5px #929292;
+	border: solid 1px #535353;
+}
 #tabs-1 h1.title {
 	color: #000;
 	line-height: 20px;
