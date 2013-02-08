@@ -444,7 +444,7 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 				var authURL = goog + author.replace(" ","+");
 				if(i == 0) authorString += 'By <a href="' + authURL + '" target="_blank">';
 				//else if (authors.length == 2) authorString += ' and <ahref="' + authURL + '" target="_blank">';
-				else if (i = authors.length - 1) authorString += ' and <a href="' + authURL + '" target="_blank">';
+				else if (i == authors.length - 1) authorString += ' and <a href="' + authURL + '" target="_blank">';
 				else authorString += ', <a href="' + authURL + '" target="_blank">';
 
 				authorString += author;
