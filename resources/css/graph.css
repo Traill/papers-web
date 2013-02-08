@@ -576,14 +576,15 @@ div.ui-dialog-buttonset button{
 	padding: 3px 10px;
 }
 #info_btn{
-	font-family: 'Baskerville';
+/*	font-family: 'Baskerville';
 	font-size: 20px;
 	font-weight: bold;
-	font-style: italic;
+	font-style: italic;*/
 	color: #9f9f9f;
 	float: left;
 	display: inline;
-	padding: 9px 17px;
+	padding: 12px 17px;
+	margin-left: 42px;
 	border-left: 1px solid #ADADAD;;
 	border-right: 1px solid #ADADAD;
 	-moz-box-shadow: inset -2px 0 0 #e9e9e9;
