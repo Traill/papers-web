@@ -41,7 +41,7 @@ define(["jquery", "radio", 'params'], function ($, radio, config) {
 	
 	
 	var hide = function() {
-		loader.dom.fadeOut();	
+		loader.dom.fadeOut();
 	}
 	
 	

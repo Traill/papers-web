@@ -17,7 +17,14 @@ define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox
 	//											//
 	//////////////////////////////////////////////
 	views.init = function() {
-			
+		
+		// Stupid verification it's the first time:
+		var first = true;
+		radio("loader:hide").subscribe(function(){
+			if(first) radio('message').broadcast('Welcome to TrailHead!<br/>You can learn how it works on the <a href="./page/about.html">about page</a>');	
+			first = false;
+		})
+		
 		// Broadcast the event that the DOM is ready:
 		$(window).ready(function(e) {
 		    
@@ -29,7 +36,8 @@ define(["radio", "util/screen", "models/nodeList", "views/graph", "views/infobox
 
 			resized_pub();
 
-			radio('message').broadcast('Welcome to TrailHead!<br/>You can learn how it works on the <a href="./page/about.html">about page</a>');
+			
+			
 
 			// Add a listener for each popup in the menu...
 			$('.popup_w').each(function(i, el){
