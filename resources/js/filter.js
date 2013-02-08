@@ -230,14 +230,13 @@ define(["util/merge", "util/array", "util/levenshtein", "util/curry"],
 
 		// Get max levenshtein distance and search term etc
 		var dist		= scope._options.levenshtein; // default is set to 1
-		var haystack	= (node[context]).toString().toLowerCase().replace(","," ").split(" ");
+		var haystack	= (node[context]).toString().toLowerCase().replace(","," ");
 		var needles		= terms.toLowerCase().split(" ");
 
 		// Figure out the length of the longest term
 		var needle_lengths = needles.map(function (t) { return t.length; });
 		var max_needle_length = Math.max.apply(null,needle_lengths);
 
-		// Check if context contains all terms
 		var match = needles.every(function(t) { return (haystack.indexOf(t) != -1); }); 
 
 		// If there was no match and there are more than twice the number of
@@ -246,7 +245,7 @@ define(["util/merge", "util/array", "util/levenshtein", "util/curry"],
 
 			// Else check if there is a fuzzy match
 			match = needles.every(function(n) {
-				var min_dist = compareStrings(n, haystack);
+				var min_dist = compareStrings(n, haystack.split(' '));
 				return (min_dist <= dist);
 			});
 		}

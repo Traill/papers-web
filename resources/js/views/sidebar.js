@@ -1,5 +1,5 @@
-define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/ical", 'params', "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order', "util/unixTime"], 
-function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb, unixTime) {
+define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/ical", 'params', "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order', "util/unixTime", "params"], 
+function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb, unixTime, params) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -447,8 +447,11 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 				authorString += '</a>';
 			});
 
+			// Get conference
+			var baseurl = params['conference_data'] + params['conference_abbr'] + '/';
+
 			// Add thumb:
-			domEl.find('.thumb').append($('<img src="extra/'+id+'.jpg" width="50" />').error(function() {
+			domEl.find('.thumb').append($('<img src="' + baseurl + id +'_thumb.jpg" width="50" />').error(function() {
   				domEl.find('.thumb').remove();
   				domEl.find('.authors').css('width', '100%');
 			}));
@@ -457,18 +460,19 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 			
 
 			// check if pdf exist:
-			$.ajax({
-				url:'extra/'+id+'.pdf',
-				type:'HEAD', 
-				error: function(){
-					// Remove link
-					domEl.find('.pdf_dwn').remove();
-				},
-				success: function(){
-					// Add pdf url:
-					domEl.find('.pdf_dwn a').attr('href', 'extra/'+id+'.pdf');
-				}
-			});
+			// $.ajax({
+			// 	url:baseurl + id + '.pdf',
+			// 	type:'HEAD', 
+			// 	error: function(){
+			// 		// Remove link
+			// 		domEl.find('.pdf_dwn').remove();
+			// 	},
+			// 	success: function(){
+			// 		// Add pdf url:
+			// 		domEl.find('.pdf_dwn a').attr('href', url);
+			// 	}
+			// });
+			domEl.find('.pdf_dwn').remove();
 
 
 

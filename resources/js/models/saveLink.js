@@ -138,7 +138,7 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		var data = JSON.stringify(saveLink.data);
 
 		// Save in cookie
-		cookie("graph", data)
+		cookie("graph", data, { expires: 365 })
 	}
 
 

@@ -32,6 +32,7 @@ define(function () {
 	config['nbIncrement'] = 40;
 	config['zoomInit'] = 1;
 
+
 	// graph force layout size:
 	config['graph_width'] = 1200;
 	config['graph_height'] = 700;
@@ -41,6 +42,8 @@ define(function () {
 
 
 
+	config['conference_data'] = "http://ipgwww.epfl.ch/~arnfred/papers/";
+	config['conference_abbr'] = "ita2013";
 	config['conference_name'] = "Information Theory and Applications Workshop";
 	config['conference_place'] = "Catamaran Resort, San Diego";
 
