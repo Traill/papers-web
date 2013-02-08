@@ -433,6 +433,7 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 
 		var template = function(id, title, time, abstract, room, authors){
 			
+			var goog = 'http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&btnI=1&q=';
 			var domEl = $('#template_info').clone();
 			domEl.css("display","block");
 			domEl.attr("id", id);
@@ -440,8 +441,11 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 			var authorString = "";
 			authors.forEach( function(author, i) {
 
-				if(i == 0) authorString += 'By <a href="#" >';
-				else authorString += ', <a href="#" >';
+				var authURL = goog + author.replace(" ","+");
+				if(i == 0) authorString += 'By <a href="' + authURL + '" target="_blank">';
+				//else if (authors.length == 2) authorString += ' and <ahref="' + authURL + '" target="_blank">';
+				else if (i = authors.length - 1) authorString += ' and <a href="' + authURL + '" target="_blank">';
+				else authorString += ', <a href="' + authURL + '" target="_blank">';
 
 				authorString += author;
 				authorString += '</a>';
