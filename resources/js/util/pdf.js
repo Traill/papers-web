@@ -235,7 +235,7 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 	  		doc.setFontType("bold");
 	  		doc.text(51, 12, "HEAD");
 	  		doc.setFontType("normal");
-	  		doc.text(60, 12, "ON THE "+now.format('dS "of" mmmm yyyy').toUpperCase()+" FOR YOU")
+	  		doc.text(60, 12, "ON THE "+now.format('dS "of" mmmm yyyy').toUpperCase())
 	  },
 	  dayExist: function(newday) {
 	  	var e = false;
