@@ -86,7 +86,7 @@ trait ITA2013 extends XMLParser with PDFLoader
     var c = Calendar.getInstance
 
     // Set starting point
-    c.set(yearNum, monthNum-1, dayNum-1, hourNum, minNum)
+    c.set(yearNum, monthNum-1, dayNum, hourNum, minNum)
     c.set(Calendar.SECOND,0)
     c.set(Calendar.MILLISECOND,0)
 
