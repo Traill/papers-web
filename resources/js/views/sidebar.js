@@ -455,7 +455,7 @@ function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, t
 			var baseurl = params['conference_data'] + params['conference_abbr'] + '/';
 
 			// Add thumb:
-			domEl.find('.thumb').append($('<img src="' + baseurl + id +'_thumb.jpg" width="50" />').error(function() {
+			domEl.find('.thumb').append($('<img src="' + baseurl + id +'.jpg" width="50" />').error(function() {
   				domEl.find('.thumb').remove();
   				domEl.find('.authors').css('width', '100%');
 			}));
