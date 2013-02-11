@@ -60,8 +60,10 @@ object NumberedReferenceProcessor1 extends ReferenceProcessor {
 			val auths = ("""^\[\d+\]""").r.replaceAllIn(totAuths.dropRight(1), "")
 
 			val authorsStringList = ("""([A-Z]\.[ -])+.+?( """ + ExtractionRegexes.and + """|,)""").r.findAllIn(auths).toList
-		  
-			Some(authorsStringList.map((s:String) => new Author(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", ""))))
+
+			val finalAuthorsStringList = if(authorsStringList.isEmpty) (""".+?, [A-Z]\.,( """ + ExtractionRegexes.and + """)?""").r.findAllIn(auths).toList else authorsStringList
+			
+			Some(finalAuthorsStringList.map((s:String) => new Author(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", ""))))
 		}
 		
 		if(("""^\[\d+\].+""" + ExtractionRegexes.quoteB + """.+""" + ExtractionRegexes.quoteE + """(.+)?$""").r.findFirstIn(ref).isDefined){

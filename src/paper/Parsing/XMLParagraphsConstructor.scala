@@ -34,10 +34,11 @@ object XMLParagraphsConstructor {
 			val nextLine = createXMLLine(nextLines.head)
 			val currentLineYRange = new ParagraphDelimiter(currentLine.getPosition.getY, currentLine.getPosition.getHeight - 3)
 			val tabulation = if(nextLine.getPosition.getX - (currentLine.getPosition.getX + currentLine.getPosition.getWidth) >= 2*currentLine.getPosition.getHeight) " \t " else " "
-	
+			val nextLineBegin = nextLine.getPosition.getX
+			val currentLineEnd = currentLine.getPosition.getX + currentLine.getPosition.getWidth
 			
 			// If the top of the next line is in the range, then it must be added to the current line
-			if(currentLineYRange === nextLine.getPosition.getY) { 
+			if(currentLineYRange === nextLine.getPosition.getY && nextLineBegin >= currentLineEnd) { 
 			  // Counting of the characters having a particular font
 			  val nextFontLength = fontLengthMap.get(nextLine.getFontID)
 			  // If a font is always present in the map, then add to the current value the number of characters, otherwise create a new font key
@@ -81,8 +82,8 @@ object XMLParagraphsConstructor {
 			val previousLineText = paragraph.getLines.head.getText
 			val previousLineTop = paragraph.getLines.head.getPosition.getY
 			val previousLineHeight = paragraph.getLines.head.getPosition.getHeight
-			val previousLineBegin = new ParagraphDelimiter(paragraph.getLines.head.getPosition.getX, 3)
-			val previousLineEnd = new ParagraphDelimiter(paragraph.getLines.head.getPosition.getX + paragraph.getLines.head.getPosition.getWidth, 3)
+			val previousLineBegin = new ParagraphDelimiter(paragraph.getLines.head.getPosition.getX, 4)
+			val previousLineEnd = new ParagraphDelimiter(paragraph.getLines.head.getPosition.getX + paragraph.getLines.head.getPosition.getWidth, 4)
 			val lineBegin = line.getPosition.getX
 			val lineEnd = line.getPosition.getX + line.getPosition.getWidth
 			val lineTop = line.getPosition.getY
@@ -171,7 +172,7 @@ object XMLParagraphsConstructor {
 		}
 		
 		// Global page processing
-		def processGlobalPage(paragraphs: List[XMLParagraph]): List[XMLParagraph] = paragraphs.filterNot(p => (p.getLines.length == 1 && p.getText.length() <= 3) || p.getPosition.getX < 0 || (p.getPosition.getX + p.getPosition.getWidth) > (pagePosition.getX + pagePosition.getWidth) || p.getPosition.getY < 0 || (p.getPosition.getY + p.getPosition.getHeight) > (pagePosition.getY + pagePosition.getHeight))
+		def processGlobalPage(paragraphs: List[XMLParagraph]): List[XMLParagraph] = paragraphs.filterNot(p => (p.getLines.length == 1 && p.getText.length() <= 3) || p.getPosition.getX < 0 || (p.getPosition.getX + p.getPosition.getWidth) > (pagePosition.getX + pagePosition.getWidth) || p.getPosition.getY < 0 || (p.getPosition.getY + p.getPosition.getHeight) > (pagePosition.getY + pagePosition.getHeight) || (p.getText.replace(" ", "").replace("\t", "").length() <= 3))
 		
 		val finalParagraphs = processGlobalPage(constructParagraphs(lines, List()).reverse)
 		

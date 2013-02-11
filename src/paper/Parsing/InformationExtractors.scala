@@ -69,7 +69,7 @@ trait AuthorsExtractor1 extends InformationExtractor{
 		
 		// Applying the extraction processing
 		val authors = unprocessedAuthorsList.flatMap((p:XMLParagraph) => ("""(.+?""" + ExtractionRegexes.authorsSeparator + """)|(.+?$)""").r.findAllIn(""" [0-9]+""".r.replaceAllIn(p.getLines.head.getText, "")))
-		val authorsList = authors.map((s: String) => new Author(ExtractionRegexes.authorsSeparator.r.replaceAllIn(s, "")))
+		val authorsList = authors.map((s: String) => new Author(" .$".r.replaceAllIn(ExtractionRegexes.authorsSeparator.r.replaceAllIn(s, ""), "")))
 	
 		   
 		if(authorsList.length != 0) (remainingList, paper.setAuthors(authorsList))
@@ -83,14 +83,20 @@ trait AbstractExtractor1 extends InformationExtractor{
     // It uses the following rules:
     // - It is the first justified paragraph
     // - It is entirely contained in the first page
-	def extractAbstract(paper: Paper, xml: XMLDocument, paragraphs: List[XMLParagraph]): (List[XMLParagraph], Paper) = {
-		val list = findFirstOf(paragraphs, (p: XMLParagraph) => p.hasOption(XMLParagraphOptions.JUSTIFY) && p.getPosition.getWidth >= xml.getPage(1).getPosition.getWidth / 3)
+	def extractAbstract(paper: Paper, xml: XMLDocument, paragraphs: List[XMLParagraph]): (List[XMLParagraph], Paper) = {	  
+		val list = findFirstOf(paragraphs, (p: XMLParagraph) => p.hasOption(XMLParagraphOptions.JUSTIFY) && p.getPosition.getWidth >= xml.getPage(1).getPosition.getWidth / 3 && p.getText.length >= 10 && p.getLines.length >= 3)
+		
 		if(list.isEmpty) return (paragraphs, paper)
 		val xmlFont = xml.getFontsContainer.getXMLFont(list.head.getFontID)
-		val abstractList = filterAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY)).map((p: XMLParagraph) => p.getText.replaceAll("\n", " "))
-		val remainingList = discardAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY))
-			
-		if(abstractList.length != 0) (remainingList, paper.setAbstract(Abstract(concatText(abstractList))))
+		val abstractList = filterAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY) && !((p.getText.startsWith("Keywords") || p.getText.startsWith("Index Terms")) && p.getLines.length <= 3))
+		val remainingList = discardAdjacents(list, (p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY) && !((p.getText.startsWith("Keywords") || p.getText.startsWith("Index Terms")) && p.getLines.length <= 3))
+		/*
+		val abstractList = list.take(10).filter((p: XMLParagraph) => xmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY) && !((p.getText.startsWith("Keywords") || p.getText.startsWith("Index Terms")) && p.getLines.length <= 3))
+		val remainingList = findFirstOf(list, (p: XMLParagraph) => p.getText.equals(abstractList.last.getText)).tail
+		
+		abstractList.foreach(p => println(p.getText + "\n\n\n"))*/
+		//list.foreach(p => println(p.getText + "   " + p.getOptionsValue +"\n\n"))
+		if(abstractList.length != 0) (remainingList, paper.setAbstract(Abstract(concatText(abstractList.map((p: XMLParagraph) => p.getText.replaceAll("\n", " "))))))
 		else (paragraphs, paper)
 	}
 }
@@ -130,12 +136,14 @@ trait BodyExtractor1 extends InformationExtractor {
     // - It begins with the first justified paragraph after the abstract
     // - It is justified and belongs to one column
 	def extractBody(paper: Paper, xml: XMLDocument, paragraphs: List[XMLParagraph]): (List[XMLParagraph], Paper) = {
-		val firstBodyList = findFirstOf(paragraphs, (p: XMLParagraph) => p.hasOption(XMLParagraphOptions.JUSTIFY) && !p.hasOption(XMLParagraphOptions.NO_COLUMN))
+		val firstBodyList = findFirstOf(paragraphs, (p: XMLParagraph) => p.hasOption(XMLParagraphOptions.JUSTIFY) && !((p.getText.startsWith("Keywords") || p.getText.startsWith("Index Terms")) && p.getLines.length <= 3))
+
 		if(firstBodyList.length == 0) return (paragraphs, paper)
 		val bodyXmlFont = xml.getFontsContainer.getXMLFont(firstBodyList.head.getFontID)
         
 		// Filter (applying the rules)
-		val bodyListWithReturn = firstBodyList.filter((p: XMLParagraph) => bodyXmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY) && !p.hasOption(XMLParagraphOptions.NO_COLUMN))
+		val untilRefs = untilFirstOf(firstBodyList,  p => (ExtractionRegexes.referencesName).r.findFirstIn(p.getText).isDefined)
+		val bodyListWithReturn = untilRefs.filter((p: XMLParagraph) => bodyXmlFont.get.checkID(p.getFontID) && p.hasOption(XMLParagraphOptions.JUSTIFY))
 		
 		// Calculating the remaining list
 		val lastBodyParagraph = bodyListWithReturn.last
@@ -154,7 +162,7 @@ trait ReferencesExtractor1 extends InformationExtractor {
     // - Each following paragraph is a reference.
     // - The method recognizes the reference format and applies a suitable extraction strategy
 	def extractReferences(paper: Paper, xml: XMLDocument, paragraphs: List[XMLParagraph]): (List[XMLParagraph], Paper) = {
-        val refParagraphs = findFirstOf(paragraphs, (p: XMLParagraph) => ("""^""" + ExtractionRegexes.referencesName + """$""").r.findFirstIn(p.getText).isDefined)
+        val refParagraphs = findFirstOf(paragraphs, (p: XMLParagraph) => (ExtractionRegexes.referencesName).r.findFirstIn(p.getText).isDefined)
         val referencesStringList = if(!refParagraphs.isEmpty) refParagraphs.tail else List()
 
         // This method takes a list of reference paragraphs and process them
