@@ -4,9 +4,9 @@ seq(StartScriptPlugin.startScriptForClassesSettings: _*)
 
 name := "TrailHead"
 
-version := "1.0"
+version := "1.1"
 
-scalaVersion := "2.9.2"
+scalaVersion := "2.10.0"
 
 scalaSource in Compile <<= baseDirectory(_ / "src")
 
@@ -15,12 +15,17 @@ scalacOptions ++= Seq("-unchecked", "-Ywarn-dead-code", "-deprecation")
 libraryDependencies  ++= Seq(
             // other dependencies here
             // pick and choose:
-			"org.scalanlp" %% "breeze-math" % "0.1",
-            "org.scalanlp" %% "breeze-learn" % "0.1",
-            "org.scalanlp" %% "breeze-process" % "0.1",
-			"net.databinder" %% "unfiltered-filter" % "0.6.4",
-			"net.databinder" %% "unfiltered-json" % "0.6.4",
-			"net.databinder" %% "unfiltered-jetty" % "0.6.4"
+			"org.scalanlp" %% "breeze-math" % "0.2-SNAPSHOT",
+            "org.scalanlp" %% "breeze-learn" % "0.2-SNAPSHOT",
+            "org.scalanlp" %% "breeze-process" % "0.2-SNAPSHOT",
+			"net.databinder" %% "unfiltered-filter" % "0.6.7",
+			"net.databinder" %% "unfiltered-json" % "0.6.7",
+			"net.databinder" %% "unfiltered-netty-server" % "0.6.7",
+			"com.dongxiguo" %% "fastring" % "0.2.1",
+			"org.mongodb" %% "casbah" % "2.5.0",
+			"com.novus" %% "salat" % "1.9.2-SNAPSHOT",
+			"joda-time" % "joda-time" % "2.2",
+			"org.joda" % "joda-convert" % "1.2"
 )
 
 resolvers ++= Seq(

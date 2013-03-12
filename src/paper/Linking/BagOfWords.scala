@@ -27,7 +27,7 @@ trait BagOfWords extends ComparePaper {
 		val dictionary = buildDictionary(textsList, datasetSize)
 		
 		// we compute the array of scores for the vectors of words for every document
-		val tfidfArray = new Array[Array[Double]](dictionary.length,datasetSize)
+		val tfidfArray = Array.fill(dictionary.length,datasetSize)(0.0)
 		
 		//STEP 3: Computing tfidf with tfidf function:
 		for (i <- 0 to dictionary.length -1){
@@ -109,8 +109,8 @@ trait BagOfWords extends ComparePaper {
 	}
 	
 	def computeCosineSimilarity( datasetSize: Int, tfidfArray: Array[Array[Double]]) : Array[Array[Double]]={
-		val scalarProduct = new Array[Array[Double]](datasetSize,datasetSize)
-		val cosineSimilarity = new Array[Array[Double]](datasetSize,datasetSize)
+		val scalarProduct = Array.fill(datasetSize,datasetSize)(0.0)
+		val cosineSimilarity = Array.fill(datasetSize,datasetSize)(0.0)
 		//transpose array to perform row Array operations instead of column based operations
 		val tfidfTranspose = tfidfArray.transpose
 		for (i <- 0 to datasetSize -1){

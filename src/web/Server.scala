@@ -4,12 +4,7 @@ package web
 import paper._
 
 // Unfiltered
-import unfiltered.jetty._
-import unfiltered.request._
-import unfiltered.response._
-
-// JSON
-import net.liftweb.json._
+import unfiltered.netty._
 
 
 object Main {
@@ -33,7 +28,7 @@ object Server {
 
   import util.Properties
 
-  def init : unfiltered.jetty.Http = {
+  def init = {
 
     // Where files for the web server are located
     val resourceDir = new java.io.File("resources/")
@@ -43,12 +38,11 @@ object Server {
     println("starting on port: " + testPort)
 
     // Initialize Server
-    val srv = unfiltered.jetty.Http(testPort).resources(resourceDir.toURI.toURL)
+    val srv = unfiltered.netty.Http(testPort).chunked(1034332).resources(resourceDir.toURI.toURL)
 
     // Run server
-    srv.filter(Ajax).filter(Graph).filter(Page).filter(Schedule)
+    srv.handler(Ajax).handler(Graph).handler(Page).handler(Schedule)
   }
-
 }
 
 
