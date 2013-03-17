@@ -22,54 +22,47 @@ object Cache {
   val basedir = "cache" + File.separator
   val suffix = "cache"
 
+  def putItem[A <: AnyRef : Manifest](collection : String, id : String, data : A) : Unit = {
 
-  // Save a document to cache
-  def save(doc : Document, path : String) : String = {
-    val json = Document.toJSON(doc)
-    val dir = basedir + path + File.separator
-    val filename = dir + doc.id + "." + suffix
+    // Serialize data
+    val dbo = grater[A].asDBObject(data) + ("_id" -> id)
+   
+    // Get the right collection
+    val mongoColl = mongoDB(collection)
 
-    // Make sure cache directory exists
-    val d = new File(dir)
-    if (!d.exists) d.mkdirs
-
-    // Make sure file exists
-    val f = new File(filename)
-    if(!f.exists) f.createNewFile
-
-    // Write out JSON to file
-    val w = new PrintWriter(f)
-    w.println(json)
-
-    // Close handles
-    w.close
-
-    return filename
+    // Then save
+    mongoColl.save(dbo)
   }
 
+  def getItem[A <: AnyRef : Manifest](collection : String, id : String) : Option[A] = {
+    // Get the right collection
+    val mongoColl = mongoDB(collection)
 
-  // Given an id a paper will be loaded
-  def load(id : String, path : String) : Option[Document] = {
-
-    // Get file handle and check that it exists
-    val filename = basedir + path + File.separator + id + "." + suffix
-    val file = new File(filename)
-    if (!file.exists) return None
-
-    // Now parse json
-    val s : Source = Source.fromFile(file, "UTF-8")
-    val content : String = s.mkString
-    val json = parse(content)
-    s.close
-    Some(Document.fromJSON(json))
+    // Then load
+    mongoColl.findOne(Map("_id" -> id)) match {
+      case Some(data) => Some(grater[A].asObject(data))
+      case None       => None
+    }
   }
 
+  def getList[A <: AnyRef : Manifest](collection : String, ids : List[String]) : List[A] = {
+    // Get the right collection
+    val mongoColl = mongoDB(collection)
 
-  // remove cached file of paper or id
-  def clean(id : Int, path : String) : Unit = {
-    val filename = basedir + path + File.separator + id + "." + suffix
-    val file = new File(filename)
-    if (file.exists) file.delete
+    // Load all ids
+    val q : DBObject = ("_id" $in ids.toList)
+    (for (data <- mongoColl.find(q)) yield grater[A].asObject(data)).toList
+  }
+
+  def getQuery[A <: AnyRef : Manifest](collection : String, query : Map[String, String], limit : Option[Int] = None) : List[A] = {
+
+    // Get the right collection
+    val mongoColl = mongoDB(collection)
+
+    limit match {
+      case Some(n) => (for (data <- mongoColl.find(query).limit(n)) yield grater[A].asObject(data)).toList
+      case None    => (for (data <- mongoColl.find(query)) yield grater[A].asObject(data)).toList
+    }
   }
 }
 

@@ -28,16 +28,12 @@ object Analyzer extends GetFiles {
 
 
   // Load files from cache
-  def fromCache(path : String) : Analyzer = {
+  def fromCache(c : String) : Analyzer = {
 
     // Set db collection to same name as the filepath
-    collection = path
+    collection = c
 
-    // Update parent
-    filePath = cacheDir + File.separator + path + File.separator
-
-    // Return analyzer
-    getAnalyzer
+    Analyzer(Map.empty).load
   }
 
 
@@ -114,30 +110,21 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   def save : Analyzer = {
 
     // Save all documents
-    for ((_, d) <- docs) Cache.save(d, Analyzer.collection)
+    for ((id, d) <- docs) Cache.putItem[Document](Analyzer.collection, id, d)
 
     return this
   }
 
 
   /**
-   * Load from cache and if document isn't found, parse it
+   * Load from cache
    */
   def load : Analyzer = {
 
-    // Load all documents
-    val docOption = for ((id, _) <- docs) yield (id -> Cache.load(id, Analyzer.collection))
+    val docs = Cache.getQuery[Document](Analyzer.collection, Map.empty)
+    val docMap = docs.map { d => (d.id -> d) } toMap
 
-    // Parse all those that weren't found
-    val ds = for ((id, d) <- docs) yield { 
-      if (docOption(id) == None) (id -> parseDoc(d))
-      else (id -> Some(docOption(id).get))
-    }
-
-    // Filter those that didn't parse
-    val filtered = for ((id, d) <- ds; if d != None) yield (id, d.get)
-
-    return Analyzer(filtered)
+    return Analyzer(docMap)
   }
 
 

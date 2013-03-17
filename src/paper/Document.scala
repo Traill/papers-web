@@ -62,9 +62,6 @@ object Document {
     }
 
 
-
-
-
     def paper(fs : List[JField], p : Paper) : Paper = fs match {
       case Nil                                    => p
       case JField("title", JObject(t)) :: rest    => paper(rest, p.setTitle(text(t)))
