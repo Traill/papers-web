@@ -1,12 +1,10 @@
 package paper
 
 import net.liftweb.json._
-import java.io.File
 
 
 case class Document(id : String,
                     paper : Paper, 
-                    file : File, 
                     links : List[Link], 
                     meta : Map[String, String],
                     cluster : Map[String, Int]) extends AbstractDocument
@@ -34,22 +32,15 @@ case class Link(id : String, weight : Int)
 object Document {
 
   // Empty document for initialization
-  val emptyDoc = Document("", emptyPaper, new File(""), List(), Map.empty, Map.empty)
+  val emptyDoc = Document("", emptyPaper, List(), Map.empty, Map.empty)
 
   // Empty paper for initialization
   val emptyPaper = Paper(Title(""), List(), Abstract(""), Body(""), List())
 
-  // Hint for File
-  val hints = new ShortTypeHints(classOf[File] :: Nil) {
-    override def serialize: PartialFunction[Any, JObject] = {
-      case (f: File) => JObject(JField("file", JString(f.getAbsolutePath)) :: Nil)
-      case (m : Map[Int,Int]) => JObject(m.map({ case(t1,t2) => JField(t1.toString, JString(t2.toString)) }).toList)
-    }
-  }
 
 
   // Implicit values so we can write out a paper
-  implicit val formats = DefaultFormats.withHints(hints)
+  implicit val formats = DefaultFormats
 
   // Convert document to JSON
   def toJSON(d : Document) : String = Serialization.write(d)
@@ -63,7 +54,6 @@ object Document {
     def doc(fs : List[JField], d : Document) : Document = fs match {
       case Nil                                      => d
       case JField("paper", JObject(p)) :: rest      => doc(rest, d.setPaper(paper(p, emptyPaper)))
-      case JField("file", f) :: rest                => doc(rest, d.setFile(file(f)))
       case JField("links", JArray(ls)) :: rest      => doc(rest, d.setLinks(links(ls)))
       case JField("meta", JObject(m)) :: rest       => doc(rest, meta(m, d))
       case JField("id", JString(t)) :: rest         => doc(rest, d.setId(t))
@@ -72,11 +62,6 @@ object Document {
     }
 
 
-    // Parse file from JSON
-    def file(json : JValue) : File = json match {
-      case JObject(_::JField("file",JString(path))::Nil) => new File(path)
-      case other                                         => throw new Exception("No match in file for field: " + other)
-    }
 
 
 
@@ -157,21 +142,19 @@ object Document {
 abstract class AbstractDocument {
   val id : String
   val paper : Paper
-  val file : File
   val links : List[Link]
   val meta : Map[String, String]
   val cluster : Map[String, Int]
 
   override def toString : String = "Doc ... "
 
-  def setId(newId : String) : Document = Document(newId, paper, file, links, meta, cluster)
-  def setPaper(p : Paper) : Document = Document(id, p, file, links, meta, cluster)
-  def setFile(f : File) : Document = Document(id, paper, f, links, meta, cluster)
-  def setLinks(ls : List[Link]) : Document = Document(id, paper, file, ls, meta, cluster)
-  def setMeta(m : (String, String)) : Document = Document(id, paper, file, links, meta + m, cluster)
-  def setMeta(m : Map[String, String]) : Document = Document(id, paper, file, links, meta ++ m, cluster)
-  def setCluster(c : Map[String,Int]) : Document = Document(id, paper, file, links, meta, cluster ++ c)
-  def setCluster(c : (String,Int)) : Document = Document(id, paper, file, links, meta, cluster + c)
+  def setId(newId : String) : Document = Document(newId, paper, links, meta, cluster)
+  def setPaper(p : Paper) : Document = Document(id, p, links, meta, cluster)
+  def setLinks(ls : List[Link]) : Document = Document(id, paper, ls, meta, cluster)
+  def setMeta(m : (String, String)) : Document = Document(id, paper, links, meta + m, cluster)
+  def setMeta(m : Map[String, String]) : Document = Document(id, paper, links, meta ++ m, cluster)
+  def setCluster(c : Map[String,Int]) : Document = Document(id, paper, links, meta, cluster ++ c)
+  def setCluster(c : (String,Int)) : Document = Document(id, paper, links, meta, cluster + c)
   def hasMeta(l : String) : Boolean = meta.contains(l)
 }
 
