@@ -1,0 +1,1019 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>graph.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>graph.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"radio"</span>, <span class="string">"util/screen"</span>, <span class="string">"models/zoom"</span>, <span class="string">'params'</span>, <span class="string">'lib/d3'</span>, <span class="string">"models/nodeList"</span>], <span class="keyword">function</span>(radio, screen, zoom, config, d3, nodes) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Interface                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> graph = {}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Events handling                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>Event initialization </p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	graph.events = <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>On node select, make sure the node is selected in the the graph</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:select"</span>).subscribe(select);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>// On node deselect</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:deselect"</span>).subscribe(deselect);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>On node mouseover</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:mouseover"</span>).subscribe(hover);
+
+		radio(<span class="string">"arrow:over"</span>).subscribe(hover);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>On node mouseout</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:mouseout"</span>).subscribe(hoverOut);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>Idem when over an arrow</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"arrow:out"</span>).subscribe(hoverOut);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>On node click, we want to try a new interface: focus on the node<br>radio(&quot;node:click&quot;).subscribe(setFocus);</p>
+<p>On node click, we want to try a new interface: focus on the node    </p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:setfocus"</span>).subscribe(setFocus);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>On search highlight result</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"search:add"</span>).subscribe(searchAdd);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>Remove search highlight from past results</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"search:remove"</span>).subscribe(searchRemove);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>remove a link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:remove"</span>).subscribe(removeLink);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-14">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-14">&#182;</a>
+              </div>
+              <p>Add a link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:add"</span>).subscribe(addLink);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-15">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-15">&#182;</a>
+              </div>
+              <p>Unselect graph when click on canvas</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"canvas:click"</span>).subscribe(<span class="keyword">function</span>(){
+			<span class="keyword">if</span>(node_clicked)
+				node_clicked = <span class="literal">false</span>;
+			<span class="keyword">else</span>
+				<span class="keyword">if</span>(nodes.selected) radio(<span class="string">"node:deselect"</span>).broadcast(nodes.selected);
+		});
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-16">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-16">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////<br>                                        //
+        PRIVATE FUNCTION FOR EVENTS:        //
+                                            //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+        </li>
+        
+        
+        <li id="section-17">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-17">&#182;</a>
+              </div>
+              <p>Schedule a particular node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> scheduled = <span class="keyword">function</span>(node) {
+
+		<span class="keyword">var</span> domNode	= node.domNode;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-18">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-18">&#182;</a>
+              </div>
+              <p>Update the new current node to scheduled</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		node.classed(<span class="string">"scheduled"</span>, <span class="literal">true</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-19">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-19">&#182;</a>
+              </div>
+              <p>unschedule a particular node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> unschedule = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-20">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-20">&#182;</a>
+              </div>
+              <p>Deselect it</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		node.domNode.classed(<span class="string">"scheduled"</span>, <span class="literal">false</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-21">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-21">&#182;</a>
+              </div>
+              <p>What happens when we hover over a node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> hoverOut = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-22">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-22">&#182;</a>
+              </div>
+              <p>Get node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> domNode = node.domNode;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-23">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-23">&#182;</a>
+              </div>
+              <p>Make node red</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		domNode.classed(<span class="string">"hover"</span>, <span class="literal">false</span>);
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-24">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-24">&#182;</a>
+              </div>
+              <p>Sets the node as the current node NON PERSISTANT</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> hover = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-25">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-25">&#182;</a>
+              </div>
+              <p>Get node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> domNode = node.domNode;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-26">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-26">&#182;</a>
+              </div>
+              <p>Make node red</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		domNode.classed(<span class="string">"hover"</span>, <span class="literal">true</span>);
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-27">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-27">&#182;</a>
+              </div>
+              <p>Register a node has been clicked:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> node_clicked = <span class="literal">false</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-28">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-28">&#182;</a>
+              </div>
+              <p>What happends when we select a node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> select = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-29">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-29">&#182;</a>
+              </div>
+              <p>Get node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> domNode = node.domNode;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-30">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-30">&#182;</a>
+              </div>
+              <p>Be sure that we deselected the previous node:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span>(nodes.selected) radio(<span class="string">"node:deselect"</span>).broadcast(nodes.selected);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-31">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-31">&#182;</a>
+              </div>
+              <p>Register this node as selected:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		nodes.selected = node;
+		node_clicked = <span class="literal">true</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-32">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-32">&#182;</a>
+              </div>
+              <p>Make node red</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		domNode.classed(<span class="string">"selected"</span>, <span class="literal">true</span>);
+		domNode.transition().attr(<span class="string">'r'</span>, config[<span class="string">'radius_selected'</span>]);
+	
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-33">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-33">&#182;</a>
+              </div>
+              <p>What happends when we deselect a node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> deselect = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-34">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-34">&#182;</a>
+              </div>
+              <p>Get node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> domNode = node.domNode;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-35">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-35">&#182;</a>
+              </div>
+              <p>Make node red</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		domNode.classed(<span class="string">"selected"</span>, <span class="literal">false</span>);
+		domNode.transition().attr(<span class="string">'r'</span>, config[<span class="string">'radius'</span>]);
+		
+		nodes.selected = <span class="literal">null</span>;
+		
+		
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-36">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-36">&#182;</a>
+              </div>
+              <p>Highlights a node as a search result</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> searchAdd = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-37">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-37">&#182;</a>
+              </div>
+              <p>Get the domNode</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> domNode = node.domNode;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-38">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-38">&#182;</a>
+              </div>
+              <p>Add search class to affected node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		domNode.classed(<span class="string">"search"</span>,<span class="literal">true</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-39">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-39">&#182;</a>
+              </div>
+              <p>Removes highlight from a node that is no longer a search result</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> searchRemove = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-40">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-40">&#182;</a>
+              </div>
+              <p>Get the domNode</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> domNode = node.domNode;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-41">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-41">&#182;</a>
+              </div>
+              <p>Add search class to affected node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		domNode.classed(<span class="string">"search"</span>,<span class="literal">false</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-42">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-42">&#182;</a>
+              </div>
+              <p>Question: Jonas where do you see setFocus?</p>
+
+            </div>
+            
+        </li>
+        
+        
+        <li id="section-43">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-43">&#182;</a>
+              </div>
+              <p>Focus on a particular node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> setFocus = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-44">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-44">&#182;</a>
+              </div>
+              <p>Dimension</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> w = screen.width(),
+			h = screen.height();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-45">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-45">&#182;</a>
+              </div>
+              <p>What is the scale?</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> factor = zoom.pos.s;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-46">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-46">&#182;</a>
+              </div>
+              <p>Compute the translation coeff</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> transx = factor * node.x - w/<span class="number">2</span>, transy = factor * node.y - h/<span class="number">2</span>;
+			
+			
+		zoom.transitionTo(factor, [-transx, -transy] );
+	
+	}
+
+
+	<span class="keyword">var</span> addLink = <span class="keyword">function</span>(target, source) {
+
+	}
+
+
+	<span class="keyword">var</span> removeLink = <span class="keyword">function</span>(target, source) {
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-47">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-47">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Return Interface                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	graph.events();
+	<span class="keyword">return</span> graph;
+
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

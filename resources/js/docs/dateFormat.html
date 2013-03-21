@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>dateFormat.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>dateFormat.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define(<span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span>
+
+	<span class="comment">/*
+	 * Date Format 1.2.3
+	 * (c) 2007-2009 Steven Levithan &lt;stevenlevithan.com&gt;
+	 * MIT license
+	 *
+	 * Includes enhancements by Scott Trenda &lt;scott.trenda.net&gt;
+	 * and Kris Kowal &lt;cixar.com/~kris.kowal/&gt;
+	 *
+	 * Accepts a date, a mask, or a date and a mask.
+	 * Returns a formatted version of the given date.
+	 * The date defaults to the current date/time.
+	 * The mask defaults to dateFormat.masks.default.
+	 */</span>
+
+	<span class="keyword">var</span> dateFormat = <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span>
+		<span class="keyword">var</span>	token = <span class="regexp">/d{1,4}|m{1,4}|yy(?:yy)?|([HhMsTt])\1?|[LloSZ]|"[^"]*"|'[^']*'/g</span>,
+			timezone = <span class="regexp">/\b(?:[PMCEA][SDP]T|(?:Pacific|Mountain|Central|Eastern|Atlantic) (?:Standard|Daylight|Prevailing) Time|(?:GMT|UTC)(?:[-+]\d{4})?)\b/g</span>,
+			timezoneClip = <span class="regexp">/[^-+\dA-Z]/g</span>,
+			pad = <span class="function"><span class="keyword">function</span> <span class="params">(val, len)</span> {</span>
+				val = String(val);
+				len = len || <span class="number">2</span>;
+				<span class="keyword">while</span> (val.length &lt; len) val = <span class="string">"0"</span> + val;
+				<span class="keyword">return</span> val;
+			};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>Regexes and supporting functions are cached through closure</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">return</span> <span class="function"><span class="keyword">function</span> <span class="params">(date, mask, utc)</span> {</span>
+			<span class="keyword">var</span> dF = dateFormat;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>You can&#39;t provide utc if you skip other args (use the &quot;UTC:&quot; mask prefix)</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			<span class="keyword">if</span> (arguments.length == <span class="number">1</span> &amp;&amp; Object.prototype.toString.call(date) == <span class="string">"[object String]"</span> &amp;&amp; !<span class="regexp">/\d/</span>.test(date)) {
+				mask = date;
+				date = <span class="literal">undefined</span>;
+			}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>Passing date through Date applies Date.parse, if necessary</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			date = date ? <span class="keyword">new</span> Date(date) : <span class="keyword">new</span> Date;
+			<span class="keyword">if</span> (isNaN(date)) <span class="keyword">throw</span> SyntaxError(<span class="string">"invalid date"</span>);
+
+			mask = String(dF.masks[mask] || mask || dF.masks[<span class="string">"default"</span>]);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>Allow setting the utc argument via the mask</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			<span class="keyword">if</span> (mask.slice(<span class="number">0</span>, <span class="number">4</span>) == <span class="string">"UTC:"</span>) {
+				mask = mask.slice(<span class="number">4</span>);
+				utc = <span class="literal">true</span>;
+			}
+
+			<span class="keyword">var</span>	_ = utc ? <span class="string">"getUTC"</span> : <span class="string">"get"</span>,
+			d = date[_ + <span class="string">"Date"</span>](), D = date[_ + <span class="string">"Day"</span>](), m = date[_ + <span class="string">"Month"</span>](), y = date[_ + <span class="string">"FullYear"</span>](),	H = date[_ + <span class="string">"Hours"</span>](), M = date[_ + <span class="string">"Minutes"</span>](),	s = date[_ + <span class="string">"Seconds"</span>](), L = date[_ + <span class="string">"Milliseconds"</span>](), o = utc ? <span class="number">0</span> : date.getTimezoneOffset(), 
+			flags = {				
+					d:    d,
+					dd:   pad(d),
+					ddd:  dF.i18n.dayNames[D],
+					dddd: dF.i18n.dayNames[D + <span class="number">7</span>],
+					m:    m + <span class="number">1</span>,
+					mm:   pad(m + <span class="number">1</span>),
+					mmm:  dF.i18n.monthNames[m],
+					mmmm: dF.i18n.monthNames[m + <span class="number">12</span>],
+					yy:   String(y).slice(<span class="number">2</span>),
+					yyyy: y,
+					h:    H % <span class="number">12</span> || <span class="number">12</span>,
+					hh:   pad(H % <span class="number">12</span> || <span class="number">12</span>),
+					H:    H,
+					HH:   pad(H),
+					M:    M,
+					MM:   pad(M),
+					s:    s,
+					ss:   pad(s),
+					l:    pad(L, <span class="number">3</span>),
+					L:    pad(L &gt; <span class="number">99</span> ? Math.round(L / <span class="number">10</span>) : L),
+					t:    H &lt; <span class="number">12</span> ? <span class="string">"a"</span>  : <span class="string">"p"</span>,
+					tt:   H &lt; <span class="number">12</span> ? <span class="string">"am"</span> : <span class="string">"pm"</span>,
+					T:    H &lt; <span class="number">12</span> ? <span class="string">"A"</span>  : <span class="string">"P"</span>,
+					TT:   H &lt; <span class="number">12</span> ? <span class="string">"AM"</span> : <span class="string">"PM"</span>,
+					Z:    utc ? <span class="string">"UTC"</span> : (String(date).match(timezone) || [<span class="string">""</span>]).pop().replace(timezoneClip, <span class="string">""</span>),
+					o:    (o &gt; <span class="number">0</span> ? <span class="string">"-"</span> : <span class="string">"+"</span>) + pad(Math.floor(Math.abs(o) / <span class="number">60</span>) * <span class="number">100</span> + Math.abs(o) % <span class="number">60</span>, <span class="number">4</span>),
+					S:    [<span class="string">"th"</span>, <span class="string">"st"</span>, <span class="string">"nd"</span>, <span class="string">"rd"</span>][d % <span class="number">10</span> &gt; <span class="number">3</span> ? <span class="number">0</span> : (d % <span class="number">100</span> - d % <span class="number">10</span> != <span class="number">10</span>) * d % <span class="number">10</span>]
+				};
+
+			<span class="keyword">return</span> mask.replace(token, <span class="function"><span class="keyword">function</span> <span class="params">($0)</span> {</span>
+				<span class="keyword">return</span> $<span class="number">0</span> <span class="keyword">in</span> flags ? flags[$<span class="number">0</span>] : $<span class="number">0.</span>slice(<span class="number">1</span>, $<span class="number">0.</span>length - <span class="number">1</span>);
+			});
+		};
+	}();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>Some common format strings</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	dateFormat.masks = {
+		<span class="string">"default"</span>:      <span class="string">"ddd mmm dd yyyy HH:MM:ss"</span>,
+		niceDate:		<span class="string">"HH:MM on dddd mmmm d, yyyy"</span>,
+		shortDate:      <span class="string">"m/d/yy"</span>,
+		mediumDate:     <span class="string">"mmm d, yyyy"</span>,
+		longDate:       <span class="string">"mmmm d, yyyy"</span>,
+		fullDate:       <span class="string">"dddd, mmmm d, yyyy"</span>,
+		shortTime:      <span class="string">"h:MM TT"</span>,
+		mediumTime:     <span class="string">"h:MM:ss TT"</span>,
+		longTime:       <span class="string">"h:MM:ss TT Z"</span>,
+		isoDate:        <span class="string">"yyyy-mm-dd"</span>,
+		isoTime:        <span class="string">"HH:MM:ss"</span>,
+		isoDateTime:    <span class="string">"yyyy-mm-dd'T'HH:MM:ss"</span>,
+		isoUtcDateTime: <span class="string">"UTC:yyyy-mm-dd'T'HH:MM:ss'Z'"</span>
+	};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>Internationalization strings</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	dateFormat.i18n = {
+		dayNames: [
+			<span class="string">"Sun"</span>, <span class="string">"Mon"</span>, <span class="string">"Tue"</span>, <span class="string">"Wed"</span>, <span class="string">"Thu"</span>, <span class="string">"Fri"</span>, <span class="string">"Sat"</span>,
+			<span class="string">"Sunday"</span>, <span class="string">"Monday"</span>, <span class="string">"Tuesday"</span>, <span class="string">"Wednesday"</span>, <span class="string">"Thursday"</span>, <span class="string">"Friday"</span>, <span class="string">"Saturday"</span>
+		],
+		monthNames: [
+			<span class="string">"Jan"</span>, <span class="string">"Feb"</span>, <span class="string">"Mar"</span>, <span class="string">"Apr"</span>, <span class="string">"May"</span>, <span class="string">"Jun"</span>, <span class="string">"Jul"</span>, <span class="string">"Aug"</span>, <span class="string">"Sep"</span>, <span class="string">"Oct"</span>, <span class="string">"Nov"</span>, <span class="string">"Dec"</span>,
+			<span class="string">"January"</span>, <span class="string">"February"</span>, <span class="string">"March"</span>, <span class="string">"April"</span>, <span class="string">"May"</span>, <span class="string">"June"</span>, <span class="string">"July"</span>, <span class="string">"August"</span>, <span class="string">"September"</span>, <span class="string">"October"</span>, <span class="string">"November"</span>, <span class="string">"December"</span>
+		]
+	};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>For convenience...</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	Date.prototype.format = <span class="function"><span class="keyword">function</span> <span class="params">(mask, utc)</span> {</span>
+		<span class="keyword">return</span> dateFormat(<span class="keyword">this</span>, mask, utc);
+	};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>Return the declared function</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">return</span> dateFormat;
+})</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

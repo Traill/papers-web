@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>infobox.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>infobox.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"jquery"</span>, <span class="string">"util/dateFormat"</span>, <span class="string">"radio"</span>], <span class="function"><span class="keyword">function</span> <span class="params">($, _, radio)</span> {</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Variable                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> isTimerRunning = <span class="number">0</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Interface                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> infobox = {};
+
+
+	<span class="function"><span class="keyword">function</span> <span class="title">init</span><span class="params">()</span>{</span>
+
+		$(<span class="string">"#info"</span>).mouseenter(
+			<span class="keyword">function</span>(){
+				<span class="keyword">var</span> e = $(<span class="string">"#info"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>Clear queue first</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>				<span class="keyword">if</span>(e.data(<span class="string">'delay'</span>)) clearTimeout(e.data(<span class="string">'delay'</span>));
+				$(<span class="string">"#info"</span>).stop(<span class="literal">true</span>,<span class="literal">true</span>).fadeIn(<span class="number">0</span>);
+			});
+
+		$(<span class="string">"#info"</span>).mouseleave(fadeOut);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+               Events                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	infobox.events = <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span>
+
+		<span class="comment">/**
+		 * Broadcast
+		 */</span>
+
+
+		<span class="comment">/**
+		 * Subscribe
+		 */</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>On mouseover, fade in the infobox</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:mouseover"</span>).subscribe(fadeIn);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>On mouseover give it a moment and then fade away</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:mouseover"</span>).subscribe(fadeOut);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>On Click, add the abstract etc
+radio(&quot;node:select&quot;).subscribe(setAbstract);</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"sidebar:hover"</span>).subscribe(setAbstract);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>New event just for the infobox....</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"arrow:over"</span>).subscribe(fadeIn);
+		radio(<span class="string">"arrow:out"</span>).subscribe(fadeOut);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+          Private Functions                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="comment">/**
+	 * Code for fading out the infobox
+	 */</span>
+	<span class="keyword">var</span> fadeOut = <span class="keyword">function</span>(node) {
+		<span class="keyword">var</span> e = $(<span class="string">"#info"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>Clear queue first</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span>(e.data(<span class="string">'delay'</span>)) clearTimeout(e.data(<span class="string">'delay'</span>));</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>Add a to queue:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		e.data(<span class="string">'delay'</span>, setTimeout(<span class="keyword">function</span>() { e.stop(<span class="literal">true</span>, <span class="literal">true</span>).fadeOut(); }, <span class="number">8000</span>));
+	}
+
+	<span class="comment">/**
+	 * Code for fading in the infobox
+	 */</span>
+	<span class="keyword">var</span> fadeIn = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>Get description</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#info"</span>).text(node.authors + <span class="string">": "</span> + node.title);
+		$(<span class="string">"#info"</span>).stop(<span class="literal">true</span>,<span class="literal">true</span>).fadeIn(<span class="string">"fast"</span>);
+
+		isTimerRunning = <span class="literal">true</span>;
+	}
+
+
+	<span class="comment">/**
+	 * Sets the abstract in the infobox
+	 */</span>
+	<span class="function"><span class="keyword">function</span> <span class="title">setAbstract</span><span class="params">(node)</span> {</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-14">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-14">&#182;</a>
+              </div>
+              <p>Default abstract (loader in case we are loading from the web 
+server)</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> abstract = <span class="string">"&lt;img class=\"loading\" src=\"/img/ajax-loader_dark.gif\" style=\"margin:3px 0\"/&gt;&lt;span class=\"loading-text\"&gt;Loading Abstract...&lt;/span&gt;"</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-15">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-15">&#182;</a>
+              </div>
+              <p>get time, date, room etc</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> date		= node.getDate();
+		<span class="keyword">var</span> time		= date.format(<span class="string">"HH:MM"</span>) + <span class="string">" on "</span> + date.format(<span class="string">"dddd mmm d, yyyy"</span>);
+		<span class="keyword">var</span> room		= <span class="string">"&amp;nbsp;Room: "</span> + node.room + <span class="string">""</span>;
+		<span class="keyword">var</span> title		= node.title;
+		<span class="keyword">var</span> authors		= <span class="string">"By "</span> + node.authors;
+
+		<span class="keyword">var</span> html		= <span class="string">"&lt;p class=\"ii\" id=\"infoTitle\"&gt;"</span> + title + <span class="string">"&lt;/p&gt;"</span>;
+		html		   += <span class="string">"&lt;p class=\"ii\" id=\"infoAuthors\"&gt;"</span> + authors + <span class="string">"&lt;/p&gt;"</span>;
+		html		   += <span class="string">"&lt;p class=\"ii\" id=\"infoAbstract\"&gt;"</span> + abstract + <span class="string">"&lt;/p&gt;"</span>;
+		html		   += <span class="string">"&lt;p class=\"ii\" id=\"infoRoom\"&gt;"</span> + room + <span class="string">"&lt;/p&gt;"</span>;
+		html		   += <span class="string">"&lt;p class=\"ii\" id=\"infoTime\"&gt;"</span> + time + <span class="string">", &lt;/p&gt;"</span>;
+		html		   += <span class="string">"&lt;br class=\"clear\"/&gt;"</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-16">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-16">&#182;</a>
+              </div>
+              <p>Append html</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#info"</span>).stop(<span class="literal">true</span>,<span class="literal">true</span>).fadeIn().html(html);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-17">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-17">&#182;</a>
+              </div>
+              <p>If the abstract isn&#39;t cached, fetch it
+It&#39;s in the end in case we get it really fast</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		node.getAbstract(<span class="keyword">function</span>(data) {
+			$(<span class="string">"#infoAbstract"</span>).html(data); 
+		});
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-18">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-18">&#182;</a>
+              </div>
+              <p>Set the events</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	infobox.events();
+	init();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-19">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-19">&#182;</a>
+              </div>
+              <p>Export the controller</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">return</span> infobox;
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

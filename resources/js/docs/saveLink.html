@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>saveLink.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>saveLink.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"jquery"</span>, <span class="string">"models/saveLink"</span>, <span class="string">"radio"</span>, <span class="string">"lib/history"</span>], <span class="function"><span class="keyword">function</span> <span class="params">($, saveLink, radio, h)</span> {</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Interface                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> saveView = {};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Properties                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	saveView.checking = <span class="string">""</span>;
+	saveView.valid = <span class="literal">false</span>;
+	saveView.nameText = <span class="string">"Your name here"</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+               Events                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	saveView.events = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>Fill in information when we open the window</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">'#save_graph'</span>).click(initFields);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>Check if the graph name is free</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#savegraph_val"</span>).keyup(checkName);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>Check if the graph name is free</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#savegraph_val"</span>).click(clearNameField);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>Save the graph</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#savegraph_button"</span>).click(saveGraph);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>Copy the link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#savegraph_link"</span>).click(selectLink);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>Make link field unmodifiable</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#savegraph_link"</span>).keydown(protectLink);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+          Private Functions                //
+                                        //
+////////////////////////////////////////////</p>
+<p>Save the graph</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> saveGraph = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>Get value</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> name = $(<span class="string">"#savegraph_val"</span>).val();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>save graph</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		saveLink.save(name);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-14">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-14">&#182;</a>
+              </div>
+              <p>Change url</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		window.History.pushState(<span class="literal">null</span>,<span class="literal">null</span>, <span class="string">"graph/"</span> + name + <span class="string">"/"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-15">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-15">&#182;</a>
+              </div>
+              <p>Change to field with url</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#savegraph_link"</span>).val($(<span class="string">"#savegraph_url"</span>).html() + name);
+		$(<span class="string">"#savegraph_form"</span>).fadeOut(<span class="string">"fast"</span>,<span class="keyword">function</span>() {
+			$(<span class="string">"#savegraph_done"</span>).fadeIn(<span class="string">"fast"</span>);
+		});
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-16">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-16">&#182;</a>
+              </div>
+              <p>Copy the link in the link field when we click</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> selectLink = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-17">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-17">&#182;</a>
+              </div>
+              <p>Select the text in the field</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#savegraph_link"</span>).select();
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-18">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-18">&#182;</a>
+              </div>
+              <p>Protect link field from being modified</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> protectLink = <span class="keyword">function</span>(e) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-19">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-19">&#182;</a>
+              </div>
+              <p>TODO find way of making text field unmodifable
+console.debug(e.keyCode)
+if (e.keyCode &gt; 32 &amp;&amp; e.keyCode &lt; 100) e.preventDefault();</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-20">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-20">&#182;</a>
+              </div>
+              <p>Initiates the values in the fields of the popup</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre> 	<span class="keyword">var</span> initFields = <span class="keyword">function</span>() {
+
+		$(<span class="string">"#savegraph_url"</span>).html(window.location.host + <span class="string">"/graph/"</span>)
+		$(<span class="string">".nameresult"</span>).hide();
+		<span class="keyword">if</span> (saveLink.id != <span class="string">""</span>) $(<span class="string">'#savegraph_val'</span>).attr(<span class="string">'value'</span>, saveLink.id);
+		<span class="keyword">else</span> {
+			$(<span class="string">'#savegraph_val'</span>).addClass(<span class="string">"inactive"</span>);
+			$(<span class="string">'#savegraph_val'</span>).attr(<span class="string">'value'</span>, saveView.nameText);
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-21">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-21">&#182;</a>
+              </div>
+              <p>In case we have an id, then:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (saveLink.id != <span class="string">""</span> &amp;&amp; saveLink.id != <span class="literal">undefined</span>) {
+
+			$(<span class="string">"#savegraph_form"</span>).hide();
+			$(<span class="string">"#savegraph_link"</span>).val($(<span class="string">"#savegraph_url"</span>).html() + saveLink.id);
+			$(<span class="string">"#savegraph_done"</span>).show();
+		}
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-22">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-22">&#182;</a>
+              </div>
+              <p>Function for checking if a username exists</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> checkName = <span class="keyword">function</span>(e) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-23">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-23">&#182;</a>
+              </div>
+              <p>Get value</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> name = $(<span class="string">"#savegraph_val"</span>).val();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-24">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-24">&#182;</a>
+              </div>
+              <p>Check if we have any input at all</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (name == <span class="string">""</span>) {
+			$(<span class="string">".nameresult"</span>).hide();
+			$(<span class="string">"#savegraph_button"</span>).hide();
+			<span class="keyword">return</span> <span class="literal">false</span>
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-25">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-25">&#182;</a>
+              </div>
+              <p>If the keypress is enter and we have a valid name and we aren&#39;t
+currently checking, then save the graph under that name</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">else</span> <span class="keyword">if</span> (e.keyCode == <span class="number">13</span>) { <span class="comment">// keep them nested please</span>
+			<span class="keyword">if</span> (saveView.valid) saveGraph();
+		}
+
+		<span class="keyword">else</span> {
+			saveView.valid = <span class="literal">false</span>;
+			$(<span class="string">".nameresult"</span>).stop(<span class="literal">true</span>,<span class="literal">true</span>).hide();
+			$(<span class="string">"#checkname"</span>).fadeIn(<span class="string">"fast"</span>);
+			saveView.checking = name;
+			$.getJSON(<span class="string">"/ajax/checkGraphId/"</span> + name, checkNameResult);
+			<span class="keyword">return</span> <span class="literal">true</span>;
+		}
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-26">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-26">&#182;</a>
+              </div>
+              <p>This function is triggered when we get a response from the checkGraphId event</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> checkNameResult = <span class="keyword">function</span>(data) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-27">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-27">&#182;</a>
+              </div>
+              <p>check if this is the last result we expected</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (data.name != saveView.checking) <span class="keyword">return</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-28">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-28">&#182;</a>
+              </div>
+              <p>hide the checking animation</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#checkname"</span>).stop(<span class="literal">true</span>, <span class="literal">true</span>).hide();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-29">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-29">&#182;</a>
+              </div>
+              <p>check if the name is taken</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (data.taken) {
+			saveView.valid = <span class="literal">false</span>;
+			$(<span class="string">"#savegraph_button"</span>).hide();
+			$(<span class="string">"#name_is_taken"</span>).fadeIn(<span class="string">"fast"</span>);
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-30">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-30">&#182;</a>
+              </div>
+              <p>If it isn&#39;t then check the valid option and make a save button appear</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">else</span> {
+			saveView.valid = <span class="literal">true</span>;
+			$(<span class="string">"#name_is_free"</span>).fadeIn(<span class="string">"fast"</span>);
+			$(<span class="string">"#savegraph_button"</span>).fadeIn(<span class="string">"fast"</span>);
+		}
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-31">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-31">&#182;</a>
+              </div>
+              <p>In case no id is set, we clear the text field on click</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> clearNameField = <span class="keyword">function</span>() {
+
+		<span class="keyword">if</span> (saveLink.id == <span class="string">""</span> &amp;&amp; $(<span class="string">"#savegraph_val"</span>).val() == saveView.nameText) {
+			$(<span class="string">'#savegraph_val'</span>).removeClass(<span class="string">"inactive"</span>);
+			$(<span class="string">"#savegraph_val"</span>).val(<span class="string">""</span>);
+		}
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-32">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-32">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Return Interface                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	radio(<span class="string">"domready"</span>).subscribe(saveView.events);
+	<span class="keyword">return</span> saveView;
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

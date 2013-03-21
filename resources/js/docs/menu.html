@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>menu.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>menu.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"jquery"</span>, <span class="string">"radio"</span>, <span class="string">"models/nodeList"</span>, <span class="string">"models/linkList"</span>, <span class="string">"models/graph"</span>], <span class="keyword">function</span>($, radio, nodeList, linkList, graph) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Interface                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> menu = {};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+               Events                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	
+
+	menu.events = <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span>
+
+		<span class="comment">/**
+		 * Broadcast
+		 */</span>
+
+
+
+		<span class="comment">/**
+		 * Subscribe
+		 */</span>
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+                 Init                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	
+
+	menu.init = <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>Make menu work</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#menulist li"</span>).click(<span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span> show($(<span class="keyword">this</span>)); <span class="keyword">return</span> <span class="literal">false</span>; });</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>Attach UI
+TODO: do it somewhere else...</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		
+		$(<span class="string">'.render .menuLink'</span>).click(<span class="keyword">function</span>(){</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>e.stop();</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			graph.randomizePosition(nodeList.getNodes());
+			graph.render(nodeList.getNodes(), linkList.getLinks());
+		});
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Private Functions                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	
+
+	<span class="comment">/**
+	 * When a user clicks on an element in the list, this is the 
+	 * function called
+	 */</span>
+	<span class="keyword">var</span> show = <span class="keyword">function</span>(menuitem) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>Remove current class from former current menu item</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">".currentInfo"</span>).removeClass(<span class="string">"currentInfo"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>Get box</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		box = $(<span class="string">"#"</span> + menuitem.attr(<span class="string">"class"</span>))
+		boxmm = box.add(<span class="string">".move"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>set current class on currently active link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		menuitem.addClass(<span class="string">"currentInfo"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>If this box is already visible, hide it and remove class</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (box.is(<span class="string">":visible"</span>)) {
+			boxmm.slideUp();
+			menuitem.removeClass(<span class="string">"currentInfo"</span>);
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>If some box is already visible, replace it with new one</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">else</span> <span class="keyword">if</span> ($(<span class="string">".desc"</span>).is(<span class="string">":visible"</span>)) {
+			$(<span class="string">".desc:visible"</span>).hide();
+			box.show();
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-14">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-14">&#182;</a>
+              </div>
+              <p>Else slide it down</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">else</span> boxmm.slideDown();
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-15">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-15">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+                Return                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	
+	menu.init();
+	menu.events();
+	<span class="keyword">return</span> menu;
+
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

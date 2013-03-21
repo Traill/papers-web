@@ -1,0 +1,1187 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>search.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>search.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"jquery"</span>, <span class="string">"radio"</span>, <span class="string">"util/datepicker"</span>, <span class="string">"models/search"</span>], <span class="function"><span class="keyword">function</span> <span class="params">($, radio, ui, searchModel)</span> {</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>Init</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> search = {};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>Events</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	search.events = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>Broadcast the click on add</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#addFilter"</span>).click(<span class="keyword">function</span>(e) { radio(<span class="string">"filter:getData"</span>).broadcast(e); });</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>When a filter is published to the filter list</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"filter:publish"</span>).subscribe(publish);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>When a filter is removed</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"filter:remove"</span>).subscribe(remove);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>When a filter is edited
+radio(&quot;filter:edit&quot;).subscribe(edit);</p>
+<p>When the add button is clicked</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"filter:getData"</span>).subscribe(getData);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>When a filter is selected</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"filter:select"</span>).subscribe(select);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>When a filter is deselected</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"filter:deselect"</span>).subscribe(deselect);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Initialize Search                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	search.init = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>Init form</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		initForm();
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>Private functions</p>
+<p>Collects data from the form, clears it and broadcasts add</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> getData = <span class="keyword">function</span>() {
+		<span class="keyword">var</span> data = {};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>Update all values</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		data.keywords = $(<span class="string">"input[name=keywords]"</span>).val();
+		data.location = $(<span class="string">"select[name=room]"</span>).val();
+		<span class="keyword">if</span> (data.location == <span class="string">""</span>) data.location = <span class="literal">undefined</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-14">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-14">&#182;</a>
+              </div>
+              <p>Get time</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> timeTo = $(<span class="string">"input[name=totime]"</span>).val().split(<span class="string">":"</span>);
+		<span class="keyword">var</span> timeFrom = $(<span class="string">"input[name=fromtime]"</span>).val().split(<span class="string">":"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-15">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-15">&#182;</a>
+              </div>
+              <p>Update dates</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		data.from = $(<span class="string">"input[name=from]"</span>).datepicker(<span class="string">"getDate"</span>);
+		data.to = $(<span class="string">"input[name=to]"</span>).datepicker(<span class="string">"getDate"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-16">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-16">&#182;</a>
+              </div>
+              <p>If we have hour and minute set, then put those, else use whole day</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (timeFrom.length &gt; <span class="number">1</span> &amp;&amp; timeTo.length &gt; <span class="number">1</span>) {
+			data.from.setHours(timeFrom[<span class="number">0</span>], timeFrom[<span class="number">1</span>]);
+			data.to.setHours(timeTo[<span class="number">0</span>], timeTo[<span class="number">1</span>]);
+		}
+		<span class="keyword">else</span> data.to.setHours(<span class="number">23</span>,<span class="number">59</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-17">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-17">&#182;</a>
+              </div>
+              <p>Get stuff from select boxes</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		data.context = $(<span class="string">"select[name='context[]']"</span>).val();
+		<span class="keyword">if</span> (!data.context) data.context = [];</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-18">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-18">&#182;</a>
+              </div>
+              <p>Now clear the form</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		resetToDefault();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-19">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-19">&#182;</a>
+              </div>
+              <p>Now broadcast</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"filter:add"</span>).broadcast(data);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-20">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-20">&#182;</a>
+              </div>
+              <p>Clear the form</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> resetToDefault = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-21">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-21">&#182;</a>
+              </div>
+              <p>Get stats from model</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> minDate = searchModel.getMinDate();
+		<span class="keyword">var</span> maxDate = searchModel.getMaxDate();
+		<span class="keyword">var</span> rooms = searchModel.getRooms();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-22">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-22">&#182;</a>
+              </div>
+              <p>Set default dates and times</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"input[name=from]"</span>).val(minDate.format(<span class="string">"yyyy/mm/dd"</span>));
+		$(<span class="string">"input[name=to]"</span>).val(maxDate.format(<span class="string">"yyyy/mm/dd"</span>));
+		$(<span class="string">"input[name=fromtime]"</span>).val(<span class="string">"00:00"</span>);
+		$(<span class="string">"input[name=totime]"</span>).val(<span class="string">"23:59"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-23">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-23">&#182;</a>
+              </div>
+              <p>Set default room value</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"select[name=room]"</span>).val(<span class="string">""</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-24">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-24">&#182;</a>
+              </div>
+              <p>Clean keywords</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"input[name=keywords]"</span>).val(<span class="string">""</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-25">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-25">&#182;</a>
+              </div>
+              <p>Add a filter to the list</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> publish = <span class="keyword">function</span>(filter, index) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-26">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-26">&#182;</a>
+              </div>
+              <p>clone filter template</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> f = $(<span class="string">"#filterItemTemplate"</span>).clone()</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-27">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-27">&#182;</a>
+              </div>
+              <p>Add info</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> info = makeInfo(filter);
+		f.find(<span class="string">"p.filterItem"</span>).append(info);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-28">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-28">&#182;</a>
+              </div>
+              <p>Add id</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		f.attr(<span class="string">"id"</span>,<span class="string">"filter"</span> + index);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-29">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-29">&#182;</a>
+              </div>
+              <p>Make clickable</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		f.find(<span class="string">"span.listItemLabel"</span>).click(<span class="keyword">function</span>() { radio(<span class="string">"filter:selectToggle"</span>).broadcast(index); <span class="keyword">return</span> <span class="literal">false</span>; });</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-30">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-30">&#182;</a>
+              </div>
+              <p>Make removable</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		f.find(<span class="string">"a.listItemRemove"</span>).click(<span class="keyword">function</span>() { radio(<span class="string">"filter:remove"</span>).broadcast(index); <span class="keyword">return</span> <span class="literal">false</span>; });</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-31">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-31">&#182;</a>
+              </div>
+              <p>now add text and add it</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#filterList"</span>).append(f)
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-32">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-32">&#182;</a>
+              </div>
+              <p>remove a filter</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> remove = <span class="keyword">function</span>(index) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-33">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-33">&#182;</a>
+              </div>
+              <p>Get the filter</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> f = $(<span class="string">"#filter"</span> + index);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-34">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-34">&#182;</a>
+              </div>
+              <p>Deselect filter</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"filter:deselect"</span>).broadcast(index);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-35">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-35">&#182;</a>
+              </div>
+              <p>Now remove</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		f.remove();
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-36">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-36">&#182;</a>
+              </div>
+              <p>Select a filter: Add the current class to the filter panel so it changes
+color</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> select = <span class="keyword">function</span>(index) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-37">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-37">&#182;</a>
+              </div>
+              <p>get panel</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> f = $(<span class="string">"#filter"</span> + index);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-38">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-38">&#182;</a>
+              </div>
+              <p>Add class</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		f.addClass(<span class="string">"current"</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-39">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-39">&#182;</a>
+              </div>
+              <p>Deselect a filter: Remove the current class from the filter panel so it
+changes color</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> deselect = <span class="keyword">function</span>(index) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-40">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-40">&#182;</a>
+              </div>
+              <p>get panel</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> f = $(<span class="string">"#filter"</span> + index);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-41">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-41">&#182;</a>
+              </div>
+              <p>Remove class</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		f.removeClass(<span class="string">"current"</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-42">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-42">&#182;</a>
+              </div>
+              <p>Create the string used to describe a filter</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> makeInfo = <span class="keyword">function</span>(filter) {
+
+		<span class="keyword">var</span> keywords	= <span class="string">""</span>;
+        <span class="keyword">var</span> context		= <span class="string">""</span>;
+        <span class="keyword">var</span> present		= <span class="string">""</span>;
+        <span class="keyword">var</span> location	= <span class="string">""</span>;
+        <span class="keyword">var</span> time		= <span class="string">""</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-43">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-43">&#182;</a>
+              </div>
+              <p>Keywords</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (filter.keywords) {
+			keywords = <span class="string">" containing &lt;span class=\"boldText\"&gt;"</span> + filter.keywords + <span class="string">"&lt;/span&gt;"</span>;
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-44">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-44">&#182;</a>
+              </div>
+              <p>Context</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (filter.context.length &gt; <span class="number">0</span> &amp;&amp; filter.keywords) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-45">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-45">&#182;</a>
+              </div>
+              <p>Make sure to end enumeration of contexts with &#39;and&#39;</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			<span class="keyword">if</span> (filter.context.length &gt; <span class="number">1</span>) {
+				<span class="keyword">var</span> last = filter.context[filter.context.length - <span class="number">1</span>];
+				<span class="keyword">var</span> c = filter.context.slice(<span class="number">0</span>,-<span class="number">1</span>);
+				context = <span class="string">" in &lt;span class=\"italicText\"&gt;"</span> + c.join(<span class="string">", "</span>) + <span class="string">"&lt;/span&gt; and &lt;span class=\"italicText\"&gt;"</span> + last + <span class="string">"&lt;/span&gt;"</span>;
+			}
+
+			<span class="keyword">else</span> context = <span class="string">" in &lt;span class=\"italicText\"&gt;"</span> + filter.context[<span class="number">0</span>] + <span class="string">"&lt;/span&gt;"</span>;
+		}
+
+		<span class="keyword">if</span> (filter.location || (filter.from &amp;&amp; filter.to)) {
+	   		present = <span class="string">" with presentation"</span>;
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-46">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-46">&#182;</a>
+              </div>
+              <p>Interval</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (filter.location) {
+			location = <span class="string">" at &lt;span class=\"italicText\"&gt;"</span> + filter.location + <span class="string">"&lt;/span&gt;"</span>;
+		}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-47">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-47">&#182;</a>
+              </div>
+              <p>Location</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (filter.from &amp;&amp; filter.to) {
+			time		= <span class="string">" between &lt;span class=\"italicText\"&gt;"</span> + filter.from.format(<span class="string">"mmmm dS (HH:MM)"</span>) + <span class="string">"&lt;/span&gt; and &lt;span class=\"italicText\"&gt;"</span> + filter.to.format(<span class="string">"mmmm dS (HH:MM)"</span>) + <span class="string">"&lt;/span&gt;"</span>;
+		}
+
+		<span class="keyword">return</span> <span class="string">"Articles"</span> + keywords + context + location + time;
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-48">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-48">&#182;</a>
+              </div>
+              <p>Initialize the form</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> initForm = <span class="keyword">function</span>(data) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-49">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-49">&#182;</a>
+              </div>
+              <p>Set default values to fields</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		resetToDefault();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-50">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-50">&#182;</a>
+              </div>
+              <p>Get stats from model</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> minDate = searchModel.getMinDate();
+		<span class="keyword">var</span> maxDate = searchModel.getMaxDate();
+		<span class="keyword">var</span> rooms = searchModel.getRooms();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-51">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-51">&#182;</a>
+              </div>
+              <p>Initialize the datepicker</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">".date_picker2"</span>).datepicker({
+			buttonImage: <span class="string">"/img/calendar_gray.png"</span>, 
+			buttonImageOnly: <span class="literal">true</span>, 
+			showOn: <span class="string">"button"</span>,
+			dateFormat: <span class="string">"yy/mm/dd"</span>, 
+			minDate: minDate,
+			maxDate: maxDate,
+			constrainInput: <span class="literal">false</span>
+		});</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-52">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-52">&#182;</a>
+              </div>
+              <p>Set default dates and times</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"input[name=from]"</span>).val(minDate.format(<span class="string">"yyyy/mm/dd"</span>));
+		$(<span class="string">"input[name=to]"</span>).val(maxDate.format(<span class="string">"yyyy/mm/dd"</span>));
+		$(<span class="string">"input[name=fromtime]"</span>).val(<span class="string">"00:00"</span>);
+		$(<span class="string">"input[name=totime]"</span>).val(<span class="string">"23:59"</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-53">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-53">&#182;</a>
+              </div>
+              <p>Add rooms</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> roomSelect = $(<span class="string">"select[name=room]"</span>);
+		<span class="keyword">var</span> opt;
+		rooms.forEach(<span class="keyword">function</span>(r) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-54">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-54">&#182;</a>
+              </div>
+              <p>Clone option</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			opt = roomSelect.children(<span class="string">"option"</span>).first().clone();
+			opt.val(r).html(r);
+			roomSelect.append(opt);
+		});</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-55">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-55">&#182;</a>
+              </div>
+              <p>Set up form handler for the filters:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		$(<span class="string">"#context-select"</span>)
+		   .multiselect({
+		      noneSelectedText: <span class="string">'Add some context to filter'</span>,
+		      selectedList: <span class="number">4</span>
+		   });
+		 $(<span class="string">'button.ui-multiselect'</span>).css(<span class="string">'width'</span>, <span class="string">'100%'</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-56">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-56">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Return Interface                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	search.events();
+	search.init();
+	<span class="keyword">return</span> search;
+
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

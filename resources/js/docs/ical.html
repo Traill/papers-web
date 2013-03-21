@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>ical.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>ical.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"jquery"</span>, <span class="string">"lib/jquery-class"</span>, <span class="string">'params'</span>, <span class="string">'util/dateFormat'</span>], <span class="keyword">function</span>($, Class, config, dateFormat) {
+
+	<span class="keyword">if</span> (<span class="keyword">typeof</span> btoa === <span class="string">'undefined'</span>) {
+		<span class="keyword">var</span> btoa = <span class="keyword">function</span>(data) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>DO NOT ADD UTF8 ENCODING CODE HERE!!!!</p>
+<p>UTF8 encoding encodes bytes over char code 128
+and, essentially, turns an 8-bit binary streams
+(that base64 can deal with) into 7-bit binary streams. 
+(by default server does not know that and does not recode the data back to 8bit)
+You destroy your data.</p>
+<p>binary streams like jpeg image data etc, while stored in JavaScript strings,
+(which are 16bit arrays) are in 8bit format already.
+You do NOT need to char-encode that before base64 encoding.</p>
+<p>if you, by act of fate
+have string which has individual characters with code
+above 255 (pure unicode chars), encode that BEFORE you base64 here.
+you can use absolutely any approch there, as long as in the end,
+base64 gets an 8bit (char codes 0 - 255) stream.
+when you get it on the server after un-base64, you must 
+UNencode it too, to get back to 16, 32bit or whatever original bin stream.</p>
+<p>Note, Yes, JavaScript strings are, in most cases UCS-2 - 
+16-bit character arrays. This does not mean, however,
+that you always have to UTF8 it before base64.
+it means that if you have actual characters anywhere in
+that string that have char code above 255, you need to
+recode <em>entire</em> string from 16-bit (or 32bit) to 8-bit array.
+You can do binary split to UTF16 (BE or LE)
+you can do utf8, you can split the thing by hand and prepend BOM to it,
+but whatever you do, make sure you mirror the opposite on
+the server. If server does not expect to post-process un-base64
+8-bit binary stream, think very very hard about messing around with encoding.</p>
+<p>so, long story short:
+DO NOT ADD UTF8 ENCODING CODE HERE!!!!</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			
+			<span class="comment">/**
+			====================================================================
+			base64 encoder
+			MIT, GPL
+		
+			version: 1109.2015
+			discuss at: http://phpjs.org/functions/base64_encode
+			+   original by: Tyler Akins (http://rumkin.com)
+			+   improved by: Bayron Guevara
+			+   improved by: Thunder.m
+			+   improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
+			+   bugfixed by: Pellentesque Malesuada
+			+   improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
+			+   improved by: Rafal Kukawski (http://kukawski.pl)
+			+   			 Daniel Dotsenko, Willow Systems Corp, willow-systems.com
+			====================================================================
+			*/</span>
+			
+			<span class="keyword">var</span> b64 = <span class="string">"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="</span>
+			, b64a = b64.split(<span class="string">''</span>)
+			, o1, o2, o3, h1, h2, h3, h4, bits, i = <span class="number">0</span>,
+			ac = <span class="number">0</span>,
+			enc = <span class="string">""</span>,
+			tmp_arr = [];
+		 
+			<span class="keyword">do</span> { <span class="comment">// pack three octets into four hexets</span>
+				o1 = data.charCodeAt(i++);
+				o2 = data.charCodeAt(i++);
+				o3 = data.charCodeAt(i++);
+		 
+				bits = o1 &lt;<span class="xml"><span class="tag">&lt; <span class="attribute">16</span> | <span class="attribute">o2</span> &lt;&lt; <span class="attribute">8</span> | <span class="attribute">o3</span>;
+
+				<span class="attribute">h1</span> = <span class="attribute">bits</span> &gt;</span>&gt; 18 &amp; 0x3f;
+				h2 = bits &gt;&gt; 12 &amp; 0x3f;
+				h3 = bits &gt;&gt; 6 &amp; 0x3f;
+				h4 = bits &amp; 0x3f;
+		 
+</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>use hexets to index into b64, and append result to encoded string</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>				tmp_arr[ac++] = b64a[h1] + b64a[h2] + b64a[h3] + b64a[h4];
+			} <span class="keyword">while</span> (i &lt; data.length);
+
+			enc = tmp_arr.join(<span class="string">''</span>);
+			<span class="keyword">var</span> r = data.length % <span class="number">3</span>;
+			<span class="keyword">return</span> (r ? enc.slice(<span class="number">0</span>, r - <span class="number">3</span>) : enc) + <span class="string">'==='</span>.slice(r || <span class="number">3</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>end of base64 encoder MIT, GPL</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		}
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>//////////////////////////////////////////////
+                                          //
+                   CONSTANTS                  //
+                                          //
+//////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> BEGIN = <span class="string">"BEGIN:VCALENDAR\nVERSION:2.0\nMETHOD:PUBLISH"</span>;
+	<span class="keyword">var</span> END = <span class="string">"\nEND:VCALENDAR"</span>;
+	<span class="keyword">var</span> preDateTZID = <span class="string">";TZID=Europe/Zurich:"</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>TODO genreated UID:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> UID = <span class="keyword">function</span>(){
+		<span class="keyword">return</span> <span class="string">"hafas1866543331"</span>;
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>//////////////////////////////////////////////
+                                          //
+               Variables                      //
+                                          //
+//////////////////////////////////////////////</p>
+<p>content of the document, line by line:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> docLine = <span class="keyword">new</span> Array();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>Add the time zone definition of our timestamp:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	docLine.push(<span class="string">'BEGIN:VTIMEZONE'</span>);
+	docLine.push(<span class="string">'TZID:Europe/Zurich'</span>);
+	docLine.push(<span class="string">'BEGIN:STANDARD'</span>);
+	docLine.push(<span class="string">'TZOFFSETFROM:+0200'</span>);
+	docLine.push(<span class="string">'TZOFFSETTO:+0100'</span>);
+	docLine.push(<span class="string">'TZNAME:CET'</span>);
+	docLine.push(<span class="string">'DTSTART:19701025T030000'</span>);
+	docLine.push(<span class="string">'RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10'</span>);
+	docLine.push(<span class="string">'END:STANDARD'</span>);
+	docLine.push(<span class="string">'END:VTIMEZONE'</span>);
+
+	<span class="keyword">var</span> iCal = Class.extend({
+		init: <span class="keyword">function</span>(){</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>nothing here</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		},
+		addEvent: <span class="keyword">function</span>(dstart, dend, summary, location, description ){</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>Add event definition in the content of the document:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			docLine.push(<span class="string">'BEGIN:VEVENT'</span>);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>docLine.push(&#39;UID:&#39;+UID() );</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			docLine.push(<span class="string">'DTSTART'</span>+preDateTZID+dstart.format(<span class="string">'yyyymmdd"T"HHMMss'</span>));
+			docLine.push(<span class="string">'DTEND'</span>+preDateTZID+dend.format(<span class="string">'yyyymmdd"T"HHMMss'</span>));
+			docLine.push(<span class="string">'SUMMARY:'</span>+summary);
+			docLine.push(<span class="string">'LOCATION:'</span>+location);
+			docLine.push(<span class="string">'DESCRIPTION:'</span>+description);
+			docLine.push(<span class="string">'END:VEVENT'</span>);
+		},
+		send: <span class="keyword">function</span>(){</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>build string:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			<span class="keyword">var</span> docContent = <span class="string">""</span>;
+			docLine.forEach(<span class="keyword">function</span>(el){ docContent += <span class="string">"\n"</span>+el });
+
+			<span class="keyword">var</span> form = $(<span class="string">'&lt;form action="ical/calendar.ics" method="post"&gt;&lt;/form&gt;'</span>).appendTo(<span class="string">'body'</span>);
+			$(<span class="string">'&lt;input type="hidden" name="content" value="'</span>+btoa(BEGIN+docContent+END)+<span class="string">'" /&gt;'</span>).appendTo(form);
+			form.submit();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>document.location.href = &#39;ical/&#39; + btoa(BEGIN+docContent+END);</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	 		
+		}
+
+	}); 
+
+	<span class="keyword">return</span> iCal;
+
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

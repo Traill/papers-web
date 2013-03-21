@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>links.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>links.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"lib/d3"</span>, <span class="string">"radio"</span>, <span class="string">"util/array"</span>, <span class="string">"models/nodeList"</span>, <span class="string">"models/graph"</span>, <span class="string">"params"</span>], <span class="keyword">function</span>(d3, radio, arrrr, nodeList, graph, config) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>GLOBAL VARIABLES: </p>
+
+            </div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Interface                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> links = {}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Links Init                 //
+                                        //
+////////////////////////////////////////////</p>
+<p>Function that subscribe node event the </p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	links.init = <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span>
+		
+		
+		<span class="comment">/**
+		 * Subscribe
+		 */</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>On link selected, add little clickable    </p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:select"</span>).subscribe(select);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>On link unselected, remove every thing</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:deselect"</span>).subscribe(deselect);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>On link selected, add little clickable    </p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:mouseover"</span>).subscribe(hover);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>On link selected, add little clickable    </p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:mouseout"</span>).subscribe(hoverOut);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>Hide All links</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:hideAll"</span>).subscribe(hideAll);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>Hide link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:hide"</span>).subscribe(hide);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>Show link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:show"</span>).subscribe(show);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>Add link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:add"</span>).subscribe(add);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>When a node is scheduled</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:schedule"</span>).subscribe(scheduled)</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-14">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-14">&#182;</a>
+              </div>
+              <p>When a node is unscheduled</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"node:schedule"</span>).subscribe(unscheduled)
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-15">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-15">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Private Functions                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+        </li>
+        
+        
+        <li id="section-16">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-16">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+          Private Functions                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> select = <span class="keyword">function</span>(node) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-17">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-17">&#182;</a>
+              </div>
+              <p>Find all edges belinging to current node and update them</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">for</span>( <span class="keyword">var</span> index <span class="keyword">in</span> node.links ){
+			link = node.links[index];
+
+			<span class="keyword">if</span>(!link.link.domLink) <span class="keyword">throw</span> <span class="keyword">new</span> Error(<span class="string">"Link with index: "</span> + link.index + <span class="string">" has no DOM object"</span>);
+			
+			<span class="keyword">var</span> e = d3.event;
+			
+			link.link.domLink.classed(<span class="string">'clikable'</span>, <span class="literal">true</span>)
+					 		 .style(<span class="string">"stroke-width"</span>, graph.strokeWidth(link.link, config[<span class="string">"edgeSize_hover"</span>]));
+			showClickable(node, link.targetNode, link.link);
+
+			
+			
+		};
+		
+			
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-18">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-18">&#182;</a>
+              </div>
+              <p>Show a little clikable dom object to go from one node to second. </p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> showClickable = <span class="keyword">function</span>(source, target, link) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-19">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-19">&#182;</a>
+              </div>
+              <p>Compute the direction offset:
+Get the vector:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		 <span class="keyword">var</span> rx  = parseFloat(target.x) - parseFloat(source.x), ry  = parseFloat(target.y) - parseFloat(source.y);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-20">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-20">&#182;</a>
+              </div>
+              <p>Normalize it:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		 rxn = rx / Math.sqrt(rx*rx+ry*ry);
+		 ryn = ry / Math.sqrt(rx*rx+ry*ry);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-21">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-21">&#182;</a>
+              </div>
+              <p>Find the angle:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		 <span class="keyword">var</span> a = <span class="number">180</span>*Math.atan2(ryn, rxn)/Math.PI+<span class="number">90</span>;
+		 
+		 dst = Math.sqrt(rx*rx+ry*ry);
+		 randomfact =  <span class="number">10</span>+ Math.sqrt(dst) + <span class="number">10</span>*Math.random();
+		 
+		 <span class="keyword">var</span> posx  = parseFloat(source.x) + randomfact*rxn-<span class="number">2</span>, posy  = parseFloat(source.y) + randomfact*ryn-<span class="number">2</span>;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-22">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-22">&#182;</a>
+              </div>
+              <p>Correction of the mean of the point:</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		 posy = posy+<span class="number">2</span>;
+		 
+		 posx = posx+<span class="number">2</span>;
+		 
+		 
+		 source.links[link.index].clickable = graph.canvas.insert(<span class="string">'svg:polygon'</span>)
+		 						.attr(<span class="string">'points'</span>, <span class="string">'-33.001,24.991 0,18.687 33,24.991 -0.309,-24.991'</span>) <span class="comment">//57.042,22.06 0,-5.159 -57.042,22.06 -57.042,5.159 0,-22.06 57.042,5.159</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-23">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-23">&#182;</a>
+              </div>
+              <p>.attr(&#39;height&#39;, 4)
+.attr(&#39;width&#39;, 4)</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		 						.attr(<span class="string">'fill'</span>, <span class="string">'#990C00'</span>)
+		 						.classed(<span class="string">'handle'</span>, <span class="literal">true</span>)
+		 						.attr(<span class="string">'transform'</span>, <span class="string">"translate("</span>+posx+<span class="string">", "</span>+posy+<span class="string">") scale("</span>+<span class="number">0.1</span>+<span class="string">") rotate("</span>+a+<span class="string">")"</span> );</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-24">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-24">&#182;</a>
+              </div>
+              <p>.attr(&#39;y&#39;, );</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		
+		
+		source.links[link.index].clickable.on(<span class="string">'mouseover'</span>, <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-25">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-25">&#182;</a>
+              </div>
+              <p>Add a new event...</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>				radio(<span class="string">'arrow:over'</span>).broadcast(target);
+
+				source.links[link.index]
+					  .clickable.transition()
+					  .attr(<span class="string">'transform'</span>, <span class="string">"translate("</span>+posx+<span class="string">", "</span>+posy+<span class="string">") scale("</span>+<span class="number">0.12</span>+<span class="string">") rotate("</span>+a+<span class="string">")"</span> );
+
+			}); 
+		source.links[link.index].clickable.on(<span class="string">'mouseout'</span>, <span class="keyword">function</span>(){ 
+
+				
+				radio(<span class="string">'arrow:out'</span>).broadcast(target);
+
+				source.links[link.index].clickable
+				  	  .transition().attr(<span class="string">'transform'</span>, <span class="string">"translate("</span>+posx+<span class="string">", "</span>+posy+<span class="string">") scale("</span>+<span class="number">0.1</span>+<span class="string">") rotate("</span>+a+<span class="string">")"</span> );
+
+		} );
+		
+		source.links[link.index].clickable.on(<span class="string">'click'</span>, <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span> 
+				
+				<span class="keyword">var</span> e = d3.event;
+				radio(<span class="string">'node:deselect'</span>).broadcast(source, e);
+				
+				radio(<span class="string">'node:select'</span>).broadcast(target, e);
+				radio(<span class="string">'node:setfocus'</span>).broadcast(target, e);
+				
+		} );
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-26">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-26">&#182;</a>
+              </div>
+              <p>remove all the clickable item of the old node.</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> deselect = <span class="keyword">function</span>(node) {
+		 
+		 
+		 <span class="keyword">for</span>( <span class="keyword">var</span> index <span class="keyword">in</span> node.links ){
+			link = node.links[index].link;
+			<span class="keyword">if</span>(!link.domLink) <span class="keyword">throw</span> <span class="keyword">new</span> Error(<span class="string">"Link with index: "</span> + link.index + <span class="string">" has no DOM object"</span>);
+			<span class="keyword">var</span> e = d3.event;
+			node.links[index].clickable.remove();
+			link.domLink.style(<span class="string">"stroke-width"</span>, graph.strokeWidth(link, config[<span class="string">"edgeSize"</span>]));
+			link.domLink.classed(<span class="string">'clikable'</span>, <span class="literal">false</span>);
+			link.domLink.classed(<span class="string">'hover'</span>, <span class="literal">false</span>);
+			
+		};
+	}
+		
+	<span class="keyword">var</span> hover = <span class="keyword">function</span>(node) {
+		
+		<span class="keyword">for</span> (<span class="keyword">var</span> index <span class="keyword">in</span> node.links) {
+			<span class="keyword">var</span> link = node.links[index].link;
+			<span class="keyword">if</span>(!link.domLink) <span class="keyword">throw</span> <span class="keyword">new</span> Error(<span class="string">"Link with index: "</span> + link.index + <span class="string">" has no DOM object"</span>);
+			
+			<span class="keyword">var</span> e = d3.event;
+			link.domLink.classed(<span class="string">'hover'</span>, <span class="literal">true</span>);
+			link.domLink.style(<span class="string">"stroke-width"</span>, graph.strokeWidth(link, config[<span class="string">"edgeSize_hover"</span>]));
+			
+		}
+	}
+	
+	<span class="keyword">var</span> hoverOut = <span class="keyword">function</span>(node) {
+
+		<span class="keyword">if</span>( nodeList.selected == <span class="literal">null</span> || nodeList.selected.index != node.index){
+			<span class="keyword">for</span> (<span class="keyword">var</span> index <span class="keyword">in</span> node.links) {
+				<span class="keyword">var</span> link = node.links[index].link;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-27">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-27">&#182;</a>
+              </div>
+              <p>Check if note selected</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>				<span class="keyword">if</span>(link.domLink != <span class="literal">null</span> ) {
+					<span class="keyword">var</span> e = d3.event;
+					
+					link.domLink.classed(<span class="string">'hover'</span>, <span class="literal">false</span>);
+					link.domLink.style(<span class="string">"stroke-width"</span>, graph.strokeWidth(link, config[<span class="string">"edgeSize"</span>]));
+
+				}
+			}
+		}
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-28">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-28">&#182;</a>
+              </div>
+              <p>Hide all links</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> hideAll = <span class="keyword">function</span>() {
+		graph.canvas.selectAll(<span class="string">"line"</span>).style(<span class="string">"display"</span>,<span class="string">"none"</span>)
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-29">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-29">&#182;</a>
+              </div>
+              <p>Hide just one link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> hide = <span class="keyword">function</span>(link) {
+		link.domLink.style(<span class="string">"display"</span>,<span class="string">"none"</span>);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-30">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-30">&#182;</a>
+              </div>
+              <p>Show just one link</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> show = <span class="keyword">function</span>(link) {
+		link.domLink.style(<span class="string">"display"</span>, <span class="string">"inline"</span>);
+	}
+
+
+	<span class="keyword">var</span> add = <span class="keyword">function</span>(link) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-31">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-31">&#182;</a>
+              </div>
+              <p>Throw an error if domlink already exists</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">if</span> (link.domLink != <span class="literal">null</span>) <span class="keyword">throw</span> <span class="keyword">new</span> Error(<span class="string">"Link with index: "</span> + link.index + <span class="string">" has already been added to DOM once"</span>);
+
+		link.domLink = graph.canvas
+							.insert(<span class="string">'svg:line'</span>, <span class="string">':first-child'</span>)
+							.attr(<span class="string">'x1'</span>, nodeList.getNodeFromIndex(link.a).x)
+							.attr(<span class="string">'y1'</span>, nodeList.getNodeFromIndex(link.a).y)
+							.attr(<span class="string">'x2'</span>, nodeList.getNodeFromIndex(link.b).x)
+							.attr(<span class="string">'y2'</span>, nodeList.getNodeFromIndex(link.b).y)
+							.style(<span class="string">"stroke-width"</span>, graph.strokeWidth(link, config[<span class="string">"edgeSize"</span>]))
+							.classed(<span class="string">'link'</span>, <span class="literal">true</span>);
+							
+	}
+
+
+	<span class="keyword">var</span> scheduled = <span class="keyword">function</span>(node) {
+		
+		<span class="keyword">for</span> (<span class="keyword">var</span> index <span class="keyword">in</span> node.links) {
+			<span class="keyword">var</span> link = node.links[index].link;
+			<span class="keyword">if</span>(!link.domLink) <span class="keyword">throw</span> <span class="keyword">new</span> Error(<span class="string">"Link with index: "</span> + link.index + <span class="string">" has no DOM object"</span>);
+			
+			<span class="keyword">var</span> e = d3.event;
+			link.domLink.classed(<span class="string">'scheduled'</span>, <span class="literal">true</span>);
+			
+		}
+	}
+	
+	<span class="keyword">var</span> unscheduled = <span class="keyword">function</span>(node) {
+		
+		<span class="keyword">if</span>( nodeList.selected == <span class="literal">null</span> || nodeList.selected.index != node.index){
+			
+			<span class="keyword">for</span> (<span class="keyword">var</span> index <span class="keyword">in</span> node.links) {
+				<span class="keyword">var</span> link = node.links[index];
+				<span class="keyword">if</span>(link.domLink) {
+					<span class="keyword">var</span> e = d3.event;</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-32">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-32">&#182;</a>
+              </div>
+              <p>Check if note selected</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>					link.domLink.classed(<span class="string">'scheduled'</span>, <span class="literal">false</span>);
+				}
+			}
+		}
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-33">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-33">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Return Interface                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	links.init();
+	<span class="keyword">return</span> links;
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

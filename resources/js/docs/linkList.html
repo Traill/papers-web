@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>linkList.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>linkList.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>define([<span class="string">"ajax/edges"</span>, <span class="string">"radio"</span>, <span class="string">"util/array"</span>, <span class="string">"models/linkFactory"</span>, <span class="string">"models/nodeList"</span>], 
+	   <span class="keyword">function</span>(jsonLinks, radio, arrrr, linkFactory, nodeList) {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Interface                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> linkList = {};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+              Variables                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	linkList.links = <span class="keyword">new</span> Array();
+	linkList.hidden = <span class="keyword">new</span> Object();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+               Events                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	linkList.events = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-5">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-5">&#182;</a>
+              </div>
+              <p>Add a link to dom (makes it visible)</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:show"</span>).subscribe(showLink)</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-6">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-6">&#182;</a>
+              </div>
+              <p>Removes a link from dom (makes it invisible)</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		radio(<span class="string">"link:hide"</span>).subscribe(hideLink)
+
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-7">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-7">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+             Initialize                    //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	
+	linkList.init = <span class="keyword">function</span>() {</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-8">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-8">&#182;</a>
+              </div>
+              <p>Filter duplicate links</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> links = filterDuplicates(jsonLinks);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-9">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-9">&#182;</a>
+              </div>
+              <p>Normalize weights</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		links = normalize(links);</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-10">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-10">&#182;</a>
+              </div>
+              <p>Initialize the links</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		linkList.links = links.map(linkNodes);
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-11">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-11">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Public Functions                //
+                                        //
+////////////////////////////////////////////</p>
+<p>Returns a list of all links with nodes attached</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	linkList.getAllLinks = <span class="keyword">function</span>() {
+		<span class="keyword">return</span> linkList.links;
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-12">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-12">&#182;</a>
+              </div>
+              <p>Returns a list of visible links with nodes attached</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	linkList.getLinks = <span class="keyword">function</span>() {
+		<span class="keyword">return</span> linkList.links.filter(isVisible)
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-13">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-13">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+          Private Functions                //
+                                        //
+////////////////////////////////////////////</p>
+<p>Filter all links between two nodes that are already present</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> filterDuplicates = <span class="keyword">function</span>(links) {
+
+		<span class="keyword">var</span> m = {};</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-14">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-14">&#182;</a>
+              </div>
+              <p>Construct map</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		links.forEach(<span class="function"><span class="keyword">function</span> <span class="params">(l)</span> {</span>
+			m[l.target + l.source] = l.value
+		});</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-15">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-15">&#182;</a>
+              </div>
+              <p>Filter all links that we</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>		<span class="keyword">var</span> ls = links.filter(<span class="keyword">function</span>(l) {
+			<span class="keyword">if</span> (m[l.source + l.target] != <span class="literal">undefined</span>) {
+				m[l.target + l.source] = <span class="literal">undefined</span>
+				<span class="keyword">return</span> <span class="literal">false</span>;
+			}
+			<span class="keyword">else</span> <span class="keyword">return</span> <span class="literal">true</span>;
+		});
+
+		<span class="keyword">return</span> ls;
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-16">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-16">&#182;</a>
+              </div>
+              <p>Normalize the values of the links</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> normalize = <span class="keyword">function</span>(links) {
+
+		<span class="keyword">var</span> max = <span class="number">0</span>;
+
+		links.forEach(<span class="function"><span class="keyword">function</span> <span class="params">(l)</span> {</span>
+			<span class="keyword">if</span> (max &lt; l.value) max = l.value;
+		});
+
+		<span class="keyword">return</span> links.map(<span class="keyword">function</span>(l) {
+			l.value = l.value / max;
+			<span class="keyword">return</span> l;
+		});
+	}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-17">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-17">&#182;</a>
+              </div>
+              <p>Create a list of links, and link each link to the respective node</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> linkNodes = <span class="keyword">function</span>(data, index) {
+		<span class="keyword">var</span> l = linkFactory.<span class="keyword">new</span>(data, index)
+		<span class="keyword">var</span> n1 = nodeList.getNodeFromID(data.source)
+		<span class="keyword">var</span> n2 = nodeList.getNodeFromID(data.target)
+
+		n1.addLink(l, n2)
+		n2.addLink(l, n1)
+		
+		<span class="keyword">return</span> l;
+	}
+
+
+	<span class="keyword">var</span> isVisible = <span class="keyword">function</span>(link) {
+		<span class="keyword">return</span> (linkList.hidden[link.index] == <span class="literal">undefined</span>)
+	}
+
+	<span class="keyword">var</span> isHidden = <span class="keyword">function</span>(link) {
+		<span class="keyword">return</span> (linkList.hidden[link.index] != <span class="literal">undefined</span>)
+	}
+
+	<span class="keyword">var</span> showLink = <span class="keyword">function</span>(link) { linkList.hidden[link.index] = <span class="literal">undefined</span>; }
+
+	<span class="keyword">var</span> hideLink = <span class="keyword">function</span>(link) { linkList.hidden[link.index] = link; }</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-18">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-18">&#182;</a>
+              </div>
+              <p>////////////////////////////////////////////
+                                        //
+           Return Interface                //
+                                        //
+////////////////////////////////////////////</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	linkList.init();
+	linkList.events();
+	<span class="keyword">return</span> linkList;
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>

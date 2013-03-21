@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>cookie.js</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" media="all" href="docco.css" />
+</head>
+<body>
+  <div id="container">
+    <div id="background"></div>
+    
+      <ul id="jump_to">
+        <li>
+          <a class="large" href="javascript:void(0);">Jump To &hellip;</a>
+          <a class="small" href="javascript:void(0);">+</a>
+          <div id="jump_wrapper">
+          <div id="jump_page">
+            
+              
+              <a class="source" href="controller.html">
+                controller.js
+              </a>
+            
+              
+              <a class="source" href="position.html">
+                position.js
+              </a>
+            
+              
+              <a class="source" href="session.html">
+                session.js
+              </a>
+            
+              
+              <a class="source" href="test.html">
+                test.js
+              </a>
+            
+              
+              <a class="source" href="ui.html">
+                ui.js
+              </a>
+            
+              
+              <a class="source" href="cluster.html">
+                cluster.js
+              </a>
+            
+              
+              <a class="source" href="clustering.html">
+                clustering.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="linkFactory.html">
+                linkFactory.js
+              </a>
+            
+              
+              <a class="source" href="linkList.html">
+                linkList.js
+              </a>
+            
+              
+              <a class="source" href="nodeFactory.html">
+                nodeFactory.js
+              </a>
+            
+              
+              <a class="source" href="nodeList.html">
+                nodeList.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="zoom.html">
+                zoom.js
+              </a>
+            
+              
+              <a class="source" href="array.html">
+                array.js
+              </a>
+            
+              
+              <a class="source" href="cookie.html">
+                cookie.js
+              </a>
+            
+              
+              <a class="source" href="curry.html">
+                curry.js
+              </a>
+            
+              
+              <a class="source" href="dateFormat.html">
+                dateFormat.js
+              </a>
+            
+              
+              <a class="source" href="datepicker.html">
+                datepicker.js
+              </a>
+            
+              
+              <a class="source" href="delay.html">
+                delay.js
+              </a>
+            
+              
+              <a class="source" href="dimensions.html">
+                dimensions.js
+              </a>
+            
+              
+              <a class="source" href="getRandomDate.html">
+                getRandomDate.js
+              </a>
+            
+              
+              <a class="source" href="ical.html">
+                ical.js
+              </a>
+            
+              
+              <a class="source" href="levenshtein.html">
+                levenshtein.js
+              </a>
+            
+              
+              <a class="source" href="merge.html">
+                merge.js
+              </a>
+            
+              
+              <a class="source" href="paragraphy.html">
+                paragraphy.js
+              </a>
+            
+              
+              <a class="source" href="pdf.html">
+                pdf.js
+              </a>
+            
+              
+              <a class="source" href="screen.html">
+                screen.js
+              </a>
+            
+              
+              <a class="source" href="truncate.html">
+                truncate.js
+              </a>
+            
+              
+              <a class="source" href="unixTime.html">
+                unixTime.js
+              </a>
+            
+              
+              <a class="source" href="graph.html">
+                graph.js
+              </a>
+            
+              
+              <a class="source" href="infobox.html">
+                infobox.js
+              </a>
+            
+              
+              <a class="source" href="links.html">
+                links.js
+              </a>
+            
+              
+              <a class="source" href="loader.html">
+                loader.js
+              </a>
+            
+              
+              <a class="source" href="map.html">
+                map.js
+              </a>
+            
+              
+              <a class="source" href="menu.html">
+                menu.js
+              </a>
+            
+              
+              <a class="source" href="message.html">
+                message.js
+              </a>
+            
+              
+              <a class="source" href="saveLink.html">
+                saveLink.js
+              </a>
+            
+              
+              <a class="source" href="search.html">
+                search.js
+              </a>
+            
+              
+              <a class="source" href="selectBox.html">
+                selectBox.js
+              </a>
+            
+              
+              <a class="source" href="sidebar.html">
+                sidebar.js
+              </a>
+            
+              
+              <a class="source" href="views.html">
+                views.js
+              </a>
+            
+              
+              <a class="source" href="zoomer.html">
+                zoomer.js
+              </a>
+            
+          </div>
+        </li>
+      </ul>
+    
+    <ul class="sections">
+        
+          <li id="title">
+              <div class="annotation">
+                  <h1>cookie.js</h1>
+              </div>
+          </li>
+        
+        
+        
+        <li id="section-1">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-1">&#182;</a>
+              </div>
+              
+            </div>
+            
+            <div class="content"><div class='highlight'><pre><span class="comment">/**
+ * MODIFIED FOR TRAILHEAD BY JONAS ARNFRED ON BASIS OF:
+ *
+ * Cookie plugin
+ *
+ * Copyright (c) 2006 Klaus Hartl (stilbuero.de)
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ */</span>
+
+<span class="comment">/**
+ * Create a cookie with the given name and value and other optional parameters.
+ *
+ * @example cookie('the_cookie', 'the_value');
+ * @desc Set the value of a cookie.
+ * @example cookie('the_cookie', 'the_value', { expires: 7, path: '/', 
+ * domain: 'jquery.com', secure: true });
+ * @desc Create a cookie with all available options.
+ * @example cookie('the_cookie', 'the_value');
+ * @desc Create a session cookie.
+ * @example cookie('the_cookie', null);
+ * @desc Delete a cookie by passing null as value. Keep in mind that you have to use the same path and domain
+ *       used when the cookie was set.
+ *
+ * @param String name The name of the cookie.
+ * @param String value The value of the cookie.
+ * @param Object options An object literal containing key/value pairs to provide optional cookie attributes.
+ * @option Number|Date expires Either an integer specifying the expiration date from now on in days or a Date object.
+ *                             If a negative value is specified (e.g. a date in the past), the cookie will be deleted.
+ *                             If set to null or omitted, the cookie will be a session cookie and will not be retained
+ *                             when the the browser exits.
+ * @option String path The value of the path atribute of the cookie (default: path of page that created the cookie).
+ * @option String domain The value of the domain attribute of the cookie (default: domain of page that created the cookie).
+ * @option Boolean secure If true, the secure attribute of the cookie will be set and the cookie transmission will
+ *                        require a secure protocol (like HTTPS).
+ * @type undefined
+ *
+ * @name cookie
+ * @author Klaus Hartl/klaus.hartl@stilbuero.de
+ * Modified by Jonas Arnfred
+ */</span>
+
+<span class="comment">/**
+ * Get the value of a cookie with the given name.
+ *
+ * @example cookie('the_cookie');
+ * @desc Get the value of a cookie.
+ *
+ * @param String name The name of the cookie.
+ * @return The value of the cookie.
+ * @type String
+ *
+ * @name cookie
+ * @cat Plugins/Cookie
+ * @author Klaus Hartl/klaus.hartl@stilbuero.de
+ * Modified by Jonas Arnfred
+ */</span>
+define([<span class="string">"util/array"</span>], <span class="function"><span class="keyword">function</span> <span class="params">()</span> {</span></pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-2">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-2">&#182;</a>
+              </div>
+              <p>Define the cookie function</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>	<span class="keyword">var</span> cookie = <span class="keyword">function</span>(name, value, options) {
+		<span class="keyword">if</span> (<span class="keyword">typeof</span> value != <span class="string">'undefined'</span>) { <span class="comment">// name and value given, set cookie</span>
+			options = options || {};
+			<span class="keyword">if</span> (value === <span class="literal">null</span>) {
+				value = <span class="string">''</span>;
+				options.expires = -<span class="number">1</span>;
+			}
+			<span class="keyword">var</span> expires = <span class="string">''</span>;
+			<span class="keyword">if</span> (options.expires &amp;&amp; (<span class="keyword">typeof</span> options.expires == <span class="string">'number'</span> || options.expires.toUTCString)) {
+				<span class="keyword">var</span> date;
+				<span class="keyword">if</span> (<span class="keyword">typeof</span> options.expires == <span class="string">'number'</span>) {
+					date = <span class="keyword">new</span> Date();
+					date.setTime(date.getTime() + (options.expires * <span class="number">24</span> * <span class="number">60</span> * <span class="number">60</span> * <span class="number">1000</span>));
+				} <span class="keyword">else</span> {
+					date = options.expires;
+				}
+				expires = <span class="string">'; expires='</span> + date.toUTCString(); <span class="comment">// use expires attribute, max-age is not supported by IE</span>
+			}</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-3">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-3">&#182;</a>
+              </div>
+              <p>CAUTION: Needed to parenthesize options.path and options.domain
+in the following expressions, otherwise they evaluate to undefined
+in the packed version for some reason...</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>			<span class="keyword">var</span> path = options.path ? <span class="string">'; path='</span> + (options.path) : <span class="string">''</span>;
+			<span class="keyword">var</span> domain = options.domain ? <span class="string">'; domain='</span> + (options.domain) : <span class="string">''</span>;
+			<span class="keyword">var</span> secure = options.secure ? <span class="string">'; secure'</span> : <span class="string">''</span>;
+			document.cookie = [name, <span class="string">'='</span>, encodeURIComponent(value), expires, path, domain, secure].join(<span class="string">''</span>);
+		} <span class="keyword">else</span> { <span class="comment">// only name given, get cookie</span>
+			<span class="keyword">var</span> cookieValue = <span class="literal">null</span>;
+			<span class="keyword">if</span> (document.cookie &amp;&amp; document.cookie != <span class="string">''</span>) {
+				<span class="keyword">var</span> cookies = document.cookie.split(<span class="string">';'</span>);
+				<span class="keyword">for</span> (<span class="keyword">var</span> i = <span class="number">0</span>; i &lt; cookies.length; i++) {
+					<span class="keyword">var</span> cookie = cookies[i].trim();</pre></div></div>
+            
+        </li>
+        
+        
+        <li id="section-4">
+            <div class="annotation">
+              
+              <div class="pilwrap ">
+                <a class="pilcrow" href="#section-4">&#182;</a>
+              </div>
+              <p>Does this cookie string begin with the name we want?</p>
+
+            </div>
+            
+            <div class="content"><div class='highlight'><pre>					<span class="keyword">if</span> (cookie.substring(<span class="number">0</span>, name.length + <span class="number">1</span>) == (name + <span class="string">'='</span>) &amp;&amp; cookie.length &gt; (name.length + <span class="number">1</span>)) {
+						cookieValue = decodeURIComponent(cookie.substring(name.length + <span class="number">1</span>));
+						<span class="keyword">break</span>;
+					}
+				}
+			}
+			<span class="keyword">return</span> cookieValue;
+		}
+	}
+
+	<span class="keyword">return</span> cookie;
+});</pre></div></div>
+            
+        </li>
+        
+    </ul>
+  </div>
+</body>
+</html>
