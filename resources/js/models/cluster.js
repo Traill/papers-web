@@ -89,6 +89,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 			// If the source and target are between groups, hide link
 			if (g[l.a] != g[l.b]) {
+				console.log(l)
 				radio("link:hide").broadcast(l);
 			}
 			

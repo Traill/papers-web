@@ -60,6 +60,8 @@ case class Spectral(docs : Map[String, Document], k : Int) extends Clustering {
 
   // cluster
   def cluster : Map[Int, Map[String, Int]] = {
+  println(W)
+    println(Lsym)
     val groups = ((2 to k).zipWithIndex).toMap map { case (size,_) =>
       println("Calculating cluster of size: " + size);
 
