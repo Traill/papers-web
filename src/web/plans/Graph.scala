@@ -29,7 +29,6 @@ object Graph  extends async.Plan with ServerErrorResponse {
     }
   }
 
-
   // Extractor for getting an id param
   object Id extends Params.Extract("id", Params.first)
 }

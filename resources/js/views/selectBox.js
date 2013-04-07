@@ -100,7 +100,7 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 			else schedule(selectedNode.index);
 
 			// Set download link
-			$("#download a").attr("href", selectedNode.pdf).attr("target", "_blank");
+			$("#download a").attr("href", selectedNode.id + ".pdf").attr("target", "_blank");
 
 			// Change position of and fade in
 			$("#clickwrap")
