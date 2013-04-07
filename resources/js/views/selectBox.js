@@ -130,7 +130,7 @@ define(["jquery", "models/nodeList", "radio", "models/zoom"], function ($, nodeL
 	
 	var hideselectBox = function(oldSelectedNode, e) {
 
-		if(selectedNode != null && selectedNode.index == oldSelectedNode.index ){
+		if(oldSelectedNode == undefined || (selectedNode != null && selectedNode.index == oldSelectedNode.index)){
 
 			// Register the node position:
 			selectedNode = null;

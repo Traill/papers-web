@@ -70,7 +70,6 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 	cluster.setSpread = function(n) {
 		cluster.spread = n
-		console.debug(n);
 	}
 
 
