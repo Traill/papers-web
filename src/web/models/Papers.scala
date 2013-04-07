@@ -40,7 +40,6 @@ object PaperModel {
 
   // Returns a cluster of size/type k
   def getClusters(k : String) : String = {
-    println(clusters)
     if (!clusters.contains(k)) {
 
       val cs = for ((id, d) <- A.docs if d.cluster.contains(k)) yield (id -> d.cluster(k))
