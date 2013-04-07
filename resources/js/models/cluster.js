@@ -22,6 +22,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 	cluster.groups = new Object();
 	cluster.spread = 0;
+	cluster.type = "louvain"
 	
 	//////////////////////////////////////////////
 	//											//
@@ -41,7 +42,9 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//////////////////////////////////////////////
 	
 	// Fetch clustering from server and render
-	cluster.makeClusters = function(clusterType) {
+	cluster.makeClusters = function() {
+
+		radio("save:cluster").broadcast(cluster.spread);
 
 		// Check if we are unclustering:
 		if (cluster.spread == 0) {
@@ -52,7 +55,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		else {
 
 			// Set clusterspread
-			var clusterName = clusterType + (cluster.spread * 5 + 15);
+			var clusterName = cluster.type + (cluster.spread * 5 + 15);
 
 			// Check if we already have the clustering for 'n'
 			if (cluster.groups[clusterName] == undefined) {
@@ -69,7 +72,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 
 	cluster.setSpread = function(n) {
-		cluster.spread = n
+		cluster.spread = n;
 	}
 
 

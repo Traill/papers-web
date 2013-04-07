@@ -1,5 +1,5 @@
-define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie", "util/merge", "util/unixTime"], 
-  function (nodeList, search, radio, arrrr, cookie, merge, unixTime) {
+define(["models/nodeList", "models/search", "models/cluster", "radio", "util/array", "util/cookie", "util/merge", "util/unixTime"], 
+  function (nodeList, search, cluster, radio, arrrr, cookie, merge, unixTime) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -32,6 +32,9 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		// Listen for schedule, unschedule and focus
 		radio("save:nodes").subscribe(saveNodes)
+
+		// Listen for clustering
+		radio("save:cluster").subscribe(saveCluster)
 
 	}
 
@@ -70,6 +73,11 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		if (id == "" || id == undefined) throw Error("Id not specified on save");
 		saveLink.id = id;
 		saveRemote(id);
+	}
+
+
+	saveLink.hasCluster = function() {
+		return (saveLink.data.spread != undefined)
 	}
 
 
@@ -114,6 +122,17 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 
 		// Then save locally
 		saveGraph();
+	}
+
+
+	var saveCluster = function(spread) {
+
+		// Update spread
+		saveLink.data.spread = spread
+
+		// Then save
+		saveGraph();
+
 	}
 
 
@@ -211,6 +230,12 @@ define(["models/nodeList", "models/search", "radio", "util/array", "util/cookie"
 		selected.forEach(function(i) {
 			radio("filter:select").broadcast(i);
 		});
+
+		// Set the right amount of clustering
+		if (data.spread != undefined && data.spread != 0) {
+			radio("slider:move").broadcast(data.spread)
+			cluster.setSpread(data.spread)
+		}
 
 		// Update data
 		saveLink.data = data;

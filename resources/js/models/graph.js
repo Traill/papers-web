@@ -97,7 +97,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Initialize events
 		graph.events(nodes);
 
-		// Render the updated graph
+		// Render the updated graph if we haven't already done that 
 		graph.render(nodes, links, iter);
 	}
 
@@ -128,7 +128,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.drawEdges(nodes, links);
 
 		// Create a new force Layout
-		graph.set(nodes, links);
+		//graph.set(nodes, links);
 
 	}
 

@@ -79,7 +79,6 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	
 		// Find all edges belinging to current node and update them
 		for( var index in node.links ){
-			console.debug(node.links)
 			link = node.links[index];
 			if (!linkList.isHidden(link.link)) {
 
