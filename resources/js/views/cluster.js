@@ -2,7 +2,7 @@
  *	This module is in charge of displaying the clustering
  */
 
-define(["radio", "models/cluster", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order'], function(radio, clusterModel) {
+define(["radio", "models/cluster", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js'], function(radio, clusterModel) {
 
 
 	//////////////////////////////////////////////
