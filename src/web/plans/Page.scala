@@ -2,27 +2,23 @@ package web
 
 import unfiltered.request._
 import unfiltered.response._
+import unfiltered.netty._
 
 
 // Plan for page view with template
-object Page extends unfiltered.filter.Plan {
+object Page extends async.Plan with ServerErrorResponse {
 
   def intent = {
 
     // Get page name and render it
-    case Path(Seg("page" :: id :: Nil )) => { 
+    case req @ Path(Seg("page" :: id :: Nil )) => { 
 
         val sourcetpl = scala.io.Source.fromFile("resources/templates/".concat(id))
         val template = sourcetpl.mkString
         sourcetpl.close
 
-        ResponseString( template )
-
-        
-
-      }
-    //case Path(Seg("page" :: Nil )) => { }
-
+        req.respond(ResponseString( template ))
+    }
   }
 }
 

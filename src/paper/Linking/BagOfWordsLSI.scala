@@ -115,10 +115,10 @@ trait BagOfWordsLSI extends ComparePaper {
 			}
 			// SVD returns the first k values as the k highest values - assuming no need for indices:
 			//select values of the indices in the given array s - indices are the 0 to k-1 first values:
-			val emptyArray = new Array[Array[Double]](0)
+			val emptyArray : Array[Array[Double]] = Array.empty
 			//keeping k greatest singular values:
 			val keptValues = selectElementsOf2dimArray(so,(0 to approximation-1).toList,emptyArray)
-			var newKeptValues = new Array[Array[Double]](keptValues.length,keptValues.length)
+			var newKeptValues = Array.fill(keptValues.length,keptValues.length)(0.0)
 			var arrayCounter = 0 
 
 			val keptVTr = keptValues.transpose
@@ -130,7 +130,7 @@ trait BagOfWordsLSI extends ComparePaper {
 			  Nil
 			}
 			  }
-			val emptyArray2 = new Array[Array[Double]](0)
+			val emptyArray2 : Array[Array[Double]] = Array.empty
 			//Select k=approximation rows from Dt the document matrix where each column represents a document
 			var newVo = selectElementsOf2dimArray(vo,(0 to approximation-1).toList,emptyArray2)
 
@@ -260,6 +260,7 @@ trait BagOfWordsLSI extends ComparePaper {
 		(for ((a, b) <- as zip bs) yield a * b) sum
 	}
 
+    // TODO: this code is crazy.
 	def selectElementsOf2dimArray(inputArray: Array[Array[Double]], inputIndices: List[Int], returnArray: Array[Array[Double]]): Array[Array[Double]] = {
 		if(inputIndices == Nil){
 			inputArray
@@ -281,9 +282,9 @@ trait BagOfWordsLSI extends ComparePaper {
 		if(listOfIndex.length < k){
 			val maxofArray = inputVector.max
 			if (maxofArray != 0){
-					var newlistOfIndex = listOfIndex:::List(inputVector.findIndexOf(x => x == maxofArray))				
+					var newlistOfIndex = listOfIndex:::List(inputVector.indexWhere(x => x == maxofArray))				
 					//set maximal value to 0 so it does not get taken into account again
-					inputVector(inputVector.findIndexOf(x => x == maxofArray)) = 0
+					inputVector(inputVector.indexWhere(x => x == maxofArray)) = 0
 					findKMax(inputVector,k, newlistOfIndex)
 
 				}else{
@@ -320,7 +321,7 @@ trait BagOfWordsLSI extends ComparePaper {
 		var len = 0
 		xs foreach { e =>
 						if (len < n || e > min) {
-							ss = (xs.findIndexOf(x=>x==e) :: ss).sorted
+							ss = (xs.indexWhere(x=>x==e) :: ss).sorted
 							min = ss.head
 							len += 1
 						}

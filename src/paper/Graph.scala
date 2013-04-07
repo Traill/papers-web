@@ -5,7 +5,7 @@ import java.io.File
 
 
 case class Graph(nodes : List[Node], edges : List[Edge])
-case class Node(id : String, title : String, authors : List[String], room : String, pdf : String, time : String)
+case class Node(id : String, title : String, authors : List[String], room : String, time : String)
 case class Edge(source : String, target : String, value : Int)
 
 object Graph {
@@ -20,7 +20,6 @@ object Graph {
          d.paper.title.text, 
          d.paper.authors.map(_.name), 
          d.meta("room"), 
-         d.file.getName, 
          d.meta("date"))
   }
 

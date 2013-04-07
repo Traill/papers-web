@@ -6,7 +6,7 @@ trait GetFiles {
 
 
   // returns a list of files
-  def getFiles(location : String, suffix : String) : Map[String, File] = {
+  def getFiles(location : String) : Map[String, File] = {
 
     // Get file handle of original file or directory
     val orig = new File(location)
