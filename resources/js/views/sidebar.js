@@ -1,5 +1,5 @@
-define(["jquery", "radio", "util/truncate", "util/pdf", "models/nodeList", "util/ical", 'params', "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order', "util/unixTime", "params", "views/cluster"], 
-function($, radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb, unixTime, params, cluster) {
+define(["radio", "util/truncate", "util/pdf", "models/nodeList", "util/ical", 'params', "util/array", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js!order',"js!lib/jquery/multiselect!order", 'js!lib/jquery/jquery.transit.min.js!order', "util/unixTime", "params", "views/cluster"], 
+function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb, unixTime, params, cluster) {
 
 	//////////////////////////////////////////////
 	//											//

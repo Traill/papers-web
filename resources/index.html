@@ -32,15 +32,18 @@ curl(
 			"radio": "lib/radio/radio"
 		},
 	}, 
+	["jquery"]
+
+).next(
 
 	// Set up the required modules
-	["controllers/controller","async!googleAnalytics"],
+	["controllers/controller"],
 
 	// The call back function
-	function(controller, ga) {
+	function(controller) {
 		// Do nothing
 	}
-)
+).next(["googleAnalytics"])
 
 </script>
 	
