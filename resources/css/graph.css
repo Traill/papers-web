@@ -607,3 +607,13 @@ div.ui-dialog-buttonset button{
 	color: #333333;
 	border-radius: 4px;
 }
+#cluster-text {
+	margin: 1.5em 0;
+}
+#spread-label {
+	margin-top:1em;
+}
+#cluster-button {
+	float:right;
+}
+

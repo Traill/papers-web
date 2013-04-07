@@ -172,7 +172,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
     // clusters organized by id
     val clusters : Map[String, Int] = Louvain.cluster(Louvain.init(overTreshold.docs))
 
-    val ds = for((id, d) <- docs) yield (id -> d.setCluster("louvain" -> clusters(id)))
+    val ds = for((id, d) <- docs) yield (id -> d.setCluster(("louvain" + treshold.toString) -> clusters(id)))
 
     return Analyzer(ds)
   }

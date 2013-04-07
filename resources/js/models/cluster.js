@@ -21,6 +21,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//////////////////////////////////////////////
 
 	cluster.groups = new Object();
+	cluster.spread = 0;
 	
 	//////////////////////////////////////////////
 	//											//
@@ -29,9 +30,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//////////////////////////////////////////////
 
 	cluster.init = function () {
-
 		// What goes here?
-
 	}
 
 
@@ -44,18 +43,35 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	// Fetch clustering from server and render
 	cluster.makeClusters = function(clusterType) {
 
-		// Check if we already have the clustering for 'n'
-		if (cluster.groups[clusterType] == undefined) {
-			$.getJSON("ajax/clusters/" + clusterType, function(data) { 
-				cluster.groups[clusterType] = toIndex(data);
-				render(clusterType);
-			})
+		// Check if we are unclustering:
+		if (cluster.spread == 0) {
+			unCluster();
 		}
 
-		// If not, render straight away
-		else render(clusterType)
+		// If not fetch clustering
+		else {
+
+			// Set clusterspread
+			var clusterName = clusterType + (cluster.spread * 5 + 15);
+
+			// Check if we already have the clustering for 'n'
+			if (cluster.groups[clusterName] == undefined) {
+				$.getJSON("ajax/clusters/" + clusterName, function(data) { 
+					cluster.groups[clusterName] = toIndex(data);
+					render(clusterName);
+				})
+			}
+
+			// If not, render straight away
+			else render(clusterName)
+		}
 	}
 
+
+	cluster.setSpread = function(n) {
+		cluster.spread = n
+		console.debug(n);
+	}
 
 
 	//////////////////////////////////////////////
@@ -74,6 +90,20 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		}
 
 		return m;
+	}
+
+
+	var unCluster = function() {
+
+		// Now delete all the links that are going between two different clusters
+		linkList.getAllLinks().forEach(function (l) {
+
+			// show link
+			radio("link:show").broadcast(l);
+		})
+
+		// Render graph
+		graph.set(nodeList.getNodes(), linkList.getLinks(), 300)
 	}
 
 

@@ -154,9 +154,11 @@ curl(
 		<div class="scrollable" id="tabs-3">
 			<div class="scrolltop"></div>
 			<div class="form-w form">
+				<p id="cluster-text">Partition the graph into groups. The spread designates the size of the groups.</p>
 				<div id="slider"></div>
+				<p id="spread-label">Spread: <span id="spread">None</span></p>
 				<form id="clusterForm" onSubmit="return false;">
-					<input type="button" name="cluster" value="Cluster" class="filter"/>
+					<input id="cluster-button" type="button" name="cluster" value="Cluster" class="filter"/>
 				</form>
 			</div>
 
