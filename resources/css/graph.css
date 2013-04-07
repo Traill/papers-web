@@ -112,14 +112,11 @@ a.smalltool	.iconx			{ color: #333; font-weight: bold; font-size: 15px;}
 #tabhead li					{
 								float: left;
 								display: inline;
-								width: 33%;
+								width: 25%;
 								text-align: center;
 								line-height: 40px;
 								border-left: 1px solid #B4B4B4;
 								margin-left: -1px;
-							}
-#tabhead li:last-child		{
-								width: 34%; /* to fill the gap*/
 							}
 #tabhead li	a				{
 								color: #848484;

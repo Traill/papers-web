@@ -30,6 +30,8 @@ define(["jquery", "util/dateFormat", "radio"], function ($, _, radio) {
 
 		$("#info").mouseleave(fadeOut);
 	}
+
+
 	//////////////////////////////////////////////
 	//											//
 	//                Events					//

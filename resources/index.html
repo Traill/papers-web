@@ -112,15 +112,16 @@ curl(
 		<div id="map">
 			<svg width="100%" height="150px"></svg>
 		</div>
-		
+
 		<ul id="tabhead">
-		        <li><a href="#tabs-2">Schedule</a></li>
-		        <li><a href="#tabs-1">Info</a></li>
-		        <li><a href="#tabs-3">Search</a></li>
+			<li><a href="#tabs-1">Schedule</a></li>
+			<li><a href="#tabs-2">Info</a></li>
+			<li><a href="#tabs-3">Cluster</a></li>
+			<li><a href="#tabs-4">Search</a></li>
 		</ul>
-		<div class="scrollable" id="tabs-2">
+		<div class="scrollable" id="tabs-1">
 			<div class="scrolltop"></div>
-		
+
 			<div class="toolbar">
 				<a href="#"><div class="downpdf"><img alt="Download Paper" src="/img/pdf.png"/>Download pdf</div></a>
 				<a href="#"><div class="downicn"><img alt="Download Paper" src="/img/ical.png"/>Download ical</div></a>
@@ -128,31 +129,40 @@ curl(
 			<div style="margin: 10px 30px; height: 6px;">
 				<a href="#" class="removeall smalltool"><span class="iconx">x</span> Remove all</a>
 			</div>
-				<ul id="sidebar"><!-- This is a template used in the schedule -->
-					<li id="listItemTemplate" class="listItem">
-						
-						<a class="listItemPdfLink" href="#" target="_blank">
-							<a href="#" class="listItemRemove">
-								<img src="/img/icons/remove.png" />
-							</a>
-							<span class="listItemLabel">
-								<div class="clear" style="height: 8px;"></div>
-								<img src="/img/icons/paper.png" />
-								<p class="listItemText">List item</p>
-								<div class="clear" style="height: 8px;"></div>
-							</span>
-							<div class="clear"></div>
-						</a>
-						<input type="hidden" name="papers[]" value="" />
-					</li>
-				</ul>
+			<ul id="sidebar"><!-- This is a template used in the schedule -->
+				<li id="listItemTemplate" class="listItem">
+
+				<a class="listItemPdfLink" href="#" target="_blank">
+					<a href="#" class="listItemRemove">
+						<img src="/img/icons/remove.png" />
+					</a>
+					<span class="listItemLabel">
+						<div class="clear" style="height: 8px;"></div>
+						<img src="/img/icons/paper.png" />
+						<p class="listItemText">List item</p>
+						<div class="clear" style="height: 8px;"></div>
+					</span>
+					<div class="clear"></div>
+				</a>
+				<input type="hidden" name="papers[]" value="" />
+				</li>
+			</ul>
 			<div id="schedule">
 			</div>
 		</div>
 
-
 		<div class="scrollable" id="tabs-3">
-		
+			<div class="scrolltop"></div>
+			<div class="form-w form">
+				<form id="clusterForm" onSubmit="return false;">
+					<input type="button" name="cluster" value="Cluster" class="filter"/>
+				</form>
+			</div>
+
+		</div>
+
+		<div class="scrollable" id="tabs-4">
+
 			<div class="scrolltop"></div>
 			<div class="form-w form">
 				<form id="filterForm" onSubmit="return false;">
@@ -193,68 +203,67 @@ curl(
 						<button  class="submit" name="add" id="addFilter">Add</button>
 					</div>
 				</form>
-	
+
 				<hr width="90%"/>
 
-								
+
 				<div class="clear" style="height: 20px;"></div>
-					<ul id="filterList">
-						<li id="filterItemTemplate" class="filterItem">
-							
-							<a href="#" class="listItemRemove">
-								<img src="/img/icons/remove.png" />
-							</a>
-							
-							
-								<span class="listItemLabel">
-									<div class="clear" style="height: 8px;"></div>
-									<img src="/img/filter.png" />
-									<p class="filterItem"></p>
-									<div class="clear" style="height: 8px;"></div>
-								</span>
-							<div class="clear"></div>
-						</li>
-					</ul>
-				</div>
+				<ul id="filterList">
+					<li id="filterItemTemplate" class="filterItem">
+
+					<a href="#" class="listItemRemove">
+						<img src="/img/icons/remove.png" />
+					</a>
+
+
+					<span class="listItemLabel">
+						<div class="clear" style="height: 8px;"></div>
+						<img src="/img/filter.png" />
+						<p class="filterItem"></p>
+						<div class="clear" style="height: 8px;"></div>
+					</span>
+					<div class="clear"></div>
+					</li>
+				</ul>
 			</div>
-		<div class="scrollable" id="tabs-1">
+		</div>
+
+		<div class="scrollable" id="tabs-2">
 
 			<div class="scrolltop"></div>
 			<div class="clear"></div>
 			<div id="template_info">
-					
-					<h1 class="title"></h1>
-					
-					<hr width="100%"/>
-					
-					<div class="time_location">
-						<div class="time left"><b></b></div>
-						<div class="location right"><b></b></div>
-						<div class="clear"></div>
-					</div>
 
-					<div>
-						<div class="thumb left"></div>
-						<div class="authors right"></div>
-						<div class="clear"></div>
-					</div>
+				<h1 class="title"></h1>
 
-					<div class="pdf_dwn"><a href="" class="right">Download full pdf</a><div class="clear"></div></div>
-					<!-- <div class="toolbarinfo"></div> -->
+				<hr width="100%"/>
 
-					<div class="abstract"></div>
-
+				<div class="time_location">
+					<div class="time left"><b></b></div>
+					<div class="location right"><b></b></div>
+					<div class="clear"></div>
 				</div>
+
+				<div>
+					<div class="thumb left"></div>
+					<div class="authors right"></div>
+					<div class="clear"></div>
+				</div>
+
+				<div class="pdf_dwn"><a href="" class="right">Download full pdf</a><div class="clear"></div></div>
+				<!-- <div class="toolbarinfo"></div> -->
+
+				<div class="abstract"></div>
+
+			</div>
 			<div class="content_tab">
 
-				<div class="form-w" style="margin-top:40px; text-align:center;">no node selected</div>
-				
-			</div>
-			
-			
+					<div class="form-w" style="margin-top:40px; text-align:center;">no node selected</div>
+				</div>
+
+
 			</div>
 		</div>
-
 		
 		
 	</div>

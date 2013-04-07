@@ -4,7 +4,7 @@
 
 define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"], function(radio, $, linkList, nodeList, graph) {
 
-	
+
 	//////////////////////////////////////////////
 	//											//
 	//               Interface					//
@@ -42,19 +42,18 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//////////////////////////////////////////////
 	
 	// Fetch clustering from server and render
-	cluster.makeClusters = function(n) {
+	cluster.makeClusters = function(clusterType) {
 
 		// Check if we already have the clustering for 'n'
-		if (cluster.groups[n] == undefined) {
-			$.getJSON("ajax/clusters/" + n, function(data) { 
-				console.debug(data);
-				cluster.groups[n] = toIndex(data);
-				render(n);
+		if (cluster.groups[clusterType] == undefined) {
+			$.getJSON("ajax/clusters/" + clusterType, function(data) { 
+				cluster.groups[clusterType] = toIndex(data);
+				render(clusterType);
 			})
 		}
 
 		// If not, render straight away
-		else render(n)
+		else render(clusterType)
 	}
 
 
@@ -79,17 +78,16 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 
 	// Render a clustering
-	var render = function(n) {
+	var render = function(clusterType) {
 
 		// Get groups
-		g = cluster.groups[n];
+		g = cluster.groups[clusterType];
 
 		// Now delete all the links that are going between two different clusters
 		linkList.getAllLinks().forEach(function (l) {
 
 			// If the source and target are between groups, hide link
 			if (g[l.a] != g[l.b]) {
-				console.log(l)
 				radio("link:hide").broadcast(l);
 			}
 			
