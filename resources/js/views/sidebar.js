@@ -30,9 +30,11 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
 
 		// Current node
 		radio("node:select").subscribe(setFocus);
+		radio("node:select").subscribe(putInfo);
 
 		// Unselect it when click somewhere else
 		radio("node:unselect").subscribe(unsetFocus);
+		radio("node:unselect").subscribe(removeInfo);
 
 		// Select node
 		radio("node:schedule").subscribe(schedule);
@@ -76,11 +78,6 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
 		// When the dom is ready, update the UI:
 		radio("domready").subscribe(resize);
 
-		// Current node
-		radio("node:select").subscribe(putInfo);
-
-		// Unselect it when click somewhere else
-		radio("node:unselect").subscribe(removeInfo);
 
 		// Add new event to open a particular tab:
 		radio("sidebar:tab").subscribe(openTab);
@@ -460,26 +457,7 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
   				domEl.find('.authors').css('width', '100%');
 			}));
 			
-			
-			
-
-			// check if pdf exist:
-			// $.ajax({
-			// 	url:baseurl + id + '.pdf',
-			// 	type:'HEAD', 
-			// 	error: function(){
-			// 		// Remove link
-			// 		domEl.find('.pdf_dwn').remove();
-			// 	},
-			// 	success: function(){
-			// 		// Add pdf url:
-			// 		domEl.find('.pdf_dwn a').attr('href', url);
-			// 	}
-			// });
 			domEl.find('.pdf_dwn').remove();
-
-
-
 			domEl.find('.title').html(title);
 			domEl.find('.time b').html(  time.format("HH:MM  mmm d, yyyy") );
 
@@ -491,8 +469,6 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
 			domEl.find('.abstract').html(abstract);
 
 			return domEl;
-
-
 		}
 
 
@@ -500,7 +476,7 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
 		// server)
 		var abstract = "<img class=\"loading\" src=\"/img/ajax-loader_dark.gif\" style=\"margin:3px 0\"/><span class=\"loading-text\">Loading Abstract...</span>";
 
-		$('#tabs-1').find('.content_tab').html( template( node.id, node.title, node.getDate(), abstract, node.room, node.authors ));
+		$('#tabs-2').find('.content_tab').html( template( node.id, node.title, node.getDate(), abstract, node.room, node.authors ));
 
 		// If the abstract isn't cached, fetch it
 		// It's in the end in case we get it really fast
