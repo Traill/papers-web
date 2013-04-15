@@ -14,7 +14,7 @@ object Analyzer extends GetFiles {
 
 
   // Initialize files from directory
-  def initialize(path : String) : Analyzer = {
+  def initialize(path : String) : Analyzer[NoData.type] = {
 
     // Set db collection to same name as the filepath
     collection = path
@@ -28,20 +28,20 @@ object Analyzer extends GetFiles {
 
 
   // Load files from cache
-  def fromCache(c : String) : Analyzer = {
+  def fromCache[A <: DataItem : Manifest](c : String) : Analyzer[A] = {
 
     // Set db collection to same name as the filepath
     collection = c
 
-    Analyzer(Map.empty).load
+    Analyzer(Map.empty[String,Document[A]]).load[A]
   }
 
 
   // Function for initializing the analyzer
-  private def getAnalyzer : Analyzer = {
+  private def getAnalyzer : Analyzer[NoData.type] = {
 
     // Utility function for getting a document
-    def doc(id : String, f : File) : Document = {
+    def doc(id : String, f : File) : Document[NoData.type] = {
       println("Initializing " + id)
       Document.emptyDoc.setId(id)
     }
@@ -54,17 +54,16 @@ object Analyzer extends GetFiles {
 }
 
 
-case class Analyzer(docs : Map[String, Document]) extends GetFiles
+case class Analyzer[A <: DataItem : Manifest](docs : Map[String, Document[A]]) extends GetFiles
                                                      with MyEdu
                                                      with BagOfWordsLSI {
 
   /**
    * Parse all documents
    */
-  def parse : Analyzer = { 
+   def parse : Analyzer[Paper] = { 
 
-    val ds = for ((id, d) <- docs; n = parseDoc(d)
-                        if (n != None)) yield (id -> n.get)
+    val ds = for ((id, d) <- docs; n <- parseDoc(d)) yield (id -> n)
 
     return Analyzer(ds)
   }
@@ -73,7 +72,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Links all the data
    */
-  def link : Analyzer = {
+  def link : Analyzer[A] = {
     
     // Get a map of papers and pass it to makeLinks
     val ps = for ((id, d) <- docs if (d.data.getBody.text != "")) yield (id -> d.data)
@@ -89,10 +88,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Save to cache
    */
-  def save : Analyzer = {
+  def save : Analyzer[A] = {
 
     // Save all documents
-    for ((id, d) <- docs) Cache.putItem[Document](Analyzer.collection, id, d)
+    for ((id, d) <- docs) Cache.putItem[Document[A]](Analyzer.collection, id, d)
 
     return this
   }
@@ -101,9 +100,9 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Load from cache
    */
-  def load : Analyzer = {
+  def load[B <: DataItem : Manifest] : Analyzer[B] = {
 
-    val docs = Cache.getQuery[Document](Analyzer.collection, Map.empty)
+    val docs = Cache.getQuery[Document[B]](Analyzer.collection, Map.empty)
     val docMap = docs.map { d => (d.id -> d) } toMap
 
     return Analyzer(docMap)
@@ -123,10 +122,10 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Cluster the documents with spectral clustering
    */
-  def spectral(k : Int) : Analyzer = {
+  def spectral(k : Int) : Analyzer[A] = {
 
     // Clusters organized by size, then id
-    val clusters : Map[Int, Map[String, Int]] = Spectral(docs, k).cluster
+    val clusters : Map[Int, Map[String, Int]] = Spectral[A](docs, k).cluster
 
     val ds = for((id, doc) <- docs) yield {
 
@@ -147,7 +146,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Cluster the documents with louvain clustering
    */
-  def louvain(treshold : Int = 20) : Analyzer = {
+  def louvain(treshold : Int = 20) : Analyzer[A] = {
 
     val overTreshold = overNLinks(treshold)
 
@@ -164,7 +163,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Filters the links
    */
-  def takeNLinks(n : Int) : Analyzer = {
+  def takeNLinks(n : Int) : Analyzer[A] = {
 
     // Take the n strongest connections
     def takeN(n : Int)(ls : List[Link]) : List[Link] = ls.sortBy(_.weight).reverse.take(n)
@@ -180,7 +179,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Filters the links
    */
-  def overNLinks(n : Int) : Analyzer = {
+  def overNLinks(n : Int) : Analyzer[A] = {
 
     // Take only links over a certain treshold
     def overN(n : Int)(ls : List[Link]) : List[Link] = ls.filter(_.weight > n)
@@ -196,5 +195,5 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Returns a document from the collection
    */
-  def get(id : String) : Option[Document] = docs.get(id)
+  def get(id : String) : Option[Document[A]] = docs.get(id)
 }

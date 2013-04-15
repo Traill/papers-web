@@ -5,10 +5,10 @@ import breeze.linalg._
 /**
  * Abstract class implementing some basic things to get spectral clustering running
  */
-abstract class Clustering {
+abstract class Clustering[A <: DataItem] {
 
   // The analyzer given as an argument in implementing classes
-  val docs : Map[String, Document]
+  val docs : Map[String, Document[A]]
 
   // Number of edges
   lazy val n : Int = links.size
@@ -32,7 +32,7 @@ abstract class Clustering {
 }
 
 // Code for spectral clustering, k is the maximum amount of clusters
-case class Spectral(docs : Map[String, Document], k : Int) extends Clustering {
+case class Spectral[A <: DataItem](docs : Map[String, Document[A]], k : Int) extends Clustering[A] {
 
   // Inverse square root of degree matrix
   lazy val sqrtInvD : DenseMatrix[Double] = diag(diag(D).map(t => 1.0/scala.math.sqrt(t)))

@@ -1,7 +1,7 @@
 package paper
 
 abstract class DocSource {
-  def getInfo(d : Document) : String
+  def getInfo[A <: DataItem](d : Document[A]) : String
   def getLabel : String
 }
 
@@ -13,7 +13,7 @@ object TalkDates extends DocSource {
   import java.util.Calendar
 
   // TODO: This is just a temporary implementation
-  def getInfo(d : Document) : String = {
+  def getInfo[A <: DataItem](d : Document[A]) : String = {
 
     // Get Calendar and Random
     var c = Calendar.getInstance
@@ -48,7 +48,7 @@ object TalkDates extends DocSource {
 object PdfLink extends DocSource {
   import scala.util.Random
 
-  def getInfo(d : Document) : String = {
+  def getInfo[A <: DataItem](d : Document[A]) : String = {
 
     var f : String = d.meta("file")
     var pdf : String = f.takeWhile(_!='.').concat(".pdf")
@@ -63,7 +63,7 @@ object TalkRooms extends DocSource {
   import scala.util.Random
 
   // TODO: This is also just a temporary thing
-  def getInfo(d : Document) : String = {
+  def getInfo[A <: DataItem](d : Document[A]) : String = {
     
     // Return a random room between 1 and 10 
     return (new Random().nextDouble * 10).toInt.toString
@@ -77,10 +77,10 @@ object TalkRooms extends DocSource {
  * interface paperSource and provides two methods: getLabel and getInfo.
  * Get label returns the map label, while getInfo returns the particular information
  */
-trait ExtendPaper {
+trait ExtendPaper[A <: DataItem] {
 
-  def extend(document : Document, sources : List[DocSource]) : Document = {
-    var result : Document = document
+  def extend(document : Document[A], sources : List[DocSource]) : Document[A] = {
+    var result : Document[A] = document
 
     // For each source, check if it's already added, and if not, add it
     for (s <- sources if !document.hasMeta(s.getLabel)) {

@@ -16,8 +16,11 @@ trait XMLParser extends TitleExtractor1
                    with CleanUnicode
                    with ReferencesExtractor1 {
 
+   // Must be extended in subtraits
+   //def parseDoc[A <: DataItem, B <: DataItem](doc : Document[A]) : Option[Document[B]]
+
    // The function for actually parsing a paper
-   def parseFile(d : Document, f : File) : Option[Paper] = {
+   def parseFile[A <: DataItem](d : Document[A], f : File) : Option[Paper] = {
       val xml = getXMLObject(Source.fromFile(f))
       f.delete
 

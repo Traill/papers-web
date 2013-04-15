@@ -6,11 +6,11 @@ object Louvain {
   var idMap : Map[String, Int] = Map.empty
   var indexMap : Map[Int, String] = Map.empty
 
-  def init(docs : Map[String, Document]) : Louvain = {
+  def init[A <: DataItem](docs : Map[String, Document[A]]) : Louvain = {
     idMap = for (((id, _), i) <- docs.zipWithIndex) yield (id -> i)
     indexMap = for (((id, _), i) <- docs.zipWithIndex) yield (i -> id)
     def link(id : String, l : Link) = CommunityLink(Id(idMap(id)), Id(idMap(l.id)), l.weight)
-    def doc(d : Document) = CommunityDoc(Id(idMap(d.id)), d.links.map(link(d.id,_)))
+    def doc(d : Document[A]) = CommunityDoc(Id(idMap(d.id)), d.links.map(link(d.id,_)))
     val cs : Map[Index, CommunityDoc] = for ((id, d) <- docs) yield (Index(idMap(id)) -> doc(d))
     Louvain(CommunityMap(cs))
   }

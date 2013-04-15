@@ -9,7 +9,7 @@ trait MyEdu extends XMLParser with PDFLoader
                                 with CleanUnicode {
 
   // Takes a doc and parses it according to the information we have from ITA2013
-  def parseDoc(doc : Document) : Option[Document] = {
+  def parseDoc[A <: DataItem](doc : Document[A]) : Option[Document[Paper]] = {
 
     // Get paper and abstract if possible
     val pdf : Option[Paper] = getPdf(doc)
@@ -28,7 +28,7 @@ trait MyEdu extends XMLParser with PDFLoader
   }
 
   // Sets info of paper according to information we have from ITA2013
-  private def setInfo(doc : Document, paper : Paper) : Document = {
+  private def setInfo[A <: DataItem](doc : Document[A], paper : Paper) : Document[Paper] = {
     val path = Analyzer.filePath + doc.id
     println(path)
     val info : List[String] = Source.fromFile(path).getLines.toList
@@ -106,7 +106,7 @@ trait MyEdu extends XMLParser with PDFLoader
   }
 
   // Check if we have a pdf file
-  private def getPdf(doc : Document) : Option[Paper] = {
+  private def getPdf[A <: DataItem](doc : Document[A]) : Option[Paper] = {
     var paper : Option[Paper] = None
     val pdfName : String = Analyzer.filePath + "files" + File.separator + doc.id + ".pdf"
     val pdfFile : File = new File(pdfName)
@@ -115,7 +115,7 @@ trait MyEdu extends XMLParser with PDFLoader
   }
 
   // check if we have an abstract
-  private def getAbstract(doc : Document) : Option[String] = {
+  private def getAbstract[A <: DataItem](doc : Document[A]) : Option[String] = {
 
     // Set up codecs
     implicit val codec = Codec("UTF-8")
