@@ -5,7 +5,7 @@ import scala.io.Source
 import java.nio.charset.CodingErrorAction
 import scala.io.Codec
 
-trait ITA2013 extends XMLParser with PDFLoader
+trait MyEdu extends XMLParser with PDFLoader
                                 with CleanUnicode {
 
   // Takes a doc and parses it according to the information we have from ITA2013

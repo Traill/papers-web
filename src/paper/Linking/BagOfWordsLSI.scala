@@ -9,15 +9,15 @@ import breeze.linalg.support.{CanCopy}
 
 
 
-trait BagOfWordsLSI extends ComparePaper {
+trait BagOfWordsLSI extends CompareData {
 
   var matrixOfWeights : breeze.linalg.DenseMatrix[Int] = breeze.linalg.DenseMatrix.zeros[Int](0,0)
 
-  override def init(papers : List[Paper]) : Unit = {
-    matrixOfWeights = createTDMatrix(papers,papers.length)
+  override def init(data : List[DataItem]) : Unit = {
+    matrixOfWeights = createTDMatrix(data,data.length)
   }
 
-  def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights,i1).valueAt(i2)
+  def getWeight(d1 : DataItem, d2 : DataItem, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights,i1).valueAt(i2)
 
 
   
@@ -62,14 +62,14 @@ trait BagOfWordsLSI extends ComparePaper {
 	}
 
 	//Creating the matrix:
-	def createTDMatrix(papers: List[Paper], approximation: Int): breeze.linalg.DenseMatrix[Int] = {
-		val datasetSize = papers.length
+	def createTDMatrix(data: List[DataItem], approximation: Int): breeze.linalg.DenseMatrix[Int] = {
+		val datasetSize = data.length
 
 		//Initialisation of arrays
 		//Array storing the different sources and the different texts
 		
-		//preprocess the papers:
-		val (textsList,counts) = preprocessTexts(papers)
+		//preprocess the data:
+		val (textsList,counts) = preprocessTexts(data)
 		
 		//building dictionary:
 		//find unique words in texts
@@ -163,19 +163,19 @@ trait BagOfWordsLSI extends ComparePaper {
 		return dictionary
 	}
 
-	def preprocessTexts(papers: List[Paper]): (List[java.lang.String], Array[Map[java.lang.String,Int]]) ={
-		var text = new Array[java.lang.String](papers.length)
-		val occurences = new Array[Map[java.lang.String,Array[java.lang.String]]](papers.length)
+	def preprocessTexts(data: List[DataItem]): (List[java.lang.String], Array[Map[java.lang.String,Int]]) ={
+		var text = new Array[java.lang.String](data.length)
+		val occurences = new Array[Map[java.lang.String,Array[java.lang.String]]](data.length)
 		//now we want to have a map between words and the number of occurences
 		//create an array for easier manipulation
-		val counts = new Array[Map[java.lang.String,Int]](papers.length)		
+		val counts = new Array[Map[java.lang.String,Int]](data.length)
 		//Create an array of lists to store all different lists of keys:
-		val countsList = new Array[List[java.lang.String]](papers.length)
+		val countsList = new Array[List[java.lang.String]](data.length)
 		//List holding all the list of strings of all the texts
 		var textsList = List[java.lang.String]()
 		//reading from every entry of the list:
-		for (k <- 0 to papers.length-1){
-			text(k) = papers(k).abstr.text	    
+		for (k <- 0 to data.length-1){
+			text(k) = data(k).getBody.text
 			//leave out unecessary characters from the analysis
 			text(k) = clean(text(k))
 			    

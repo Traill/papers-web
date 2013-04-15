@@ -1,15 +1,15 @@
 package paper
 
 
-trait BagOfWords extends ComparePaper {
+trait BagOfWords extends CompareData {
 
     var matrixOfWeights : Array[Array[Int]] = Array()
 
-    override def init(papers : List[Paper]) : Unit = { 
-      matrixOfWeights = getMatrixOfScores(papers) 
+    override def init(data : List[DataItem]) : Unit = { 
+      matrixOfWeights = getMatrixOfScores(data) 
     }
 
-    def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights, i1)(i2)
+    def getWeight(p1 : DataItem, p2 : DataItem, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights, i1)(i2)
 
 	def getScores(matrixOfScores: Array[Array[Int]], column: Int): List[Int] ={
 	  
@@ -19,10 +19,10 @@ trait BagOfWords extends ComparePaper {
 
 	}
 
-	def getMatrixOfScores(papers: List[Paper]): Array[Array[Int]] ={
-		val datasetSize = papers.length
-		//STEP 1: preprocess the papers:
-		val (textsList,counts) = preprocessTexts(papers)		
+	def getMatrixOfScores(data: List[DataItem]): Array[Array[Int]] ={
+		val datasetSize = data.length
+		//STEP 1: preprocess the data:
+		val (textsList,counts) = preprocessTexts(data)
 		//STEP 2: Build dictionary:
 		val dictionary = buildDictionary(textsList, datasetSize)
 		
@@ -40,7 +40,7 @@ trait BagOfWords extends ComparePaper {
 		//convert matrix to string to export it
 		val mat = tfidfArray.deep.mkString("\n")
 
-		//once we have the scores we can compute the absolute distance between papers and classify them
+		//once we have the scores we can compute the absolute distance between data and classify them
 		//This is performed computing a scalar product on the score vectors for every document
 		//Computation might take some time
 			
@@ -60,19 +60,19 @@ trait BagOfWords extends ComparePaper {
 		//we have weights (higher weight/score) means being closer document-to-document wise
 	}
 
-	def preprocessTexts(papers: List[Paper]): (List[java.lang.String], Array[Map[java.lang.String,Int]]) ={
-		var text = new Array[java.lang.String](papers.length)
-		val occurences = new Array[Map[java.lang.String,Array[java.lang.String]]](papers.length)
+	def preprocessTexts(data: List[DataItem]): (List[java.lang.String], Array[Map[java.lang.String,Int]]) ={
+		var text = new Array[java.lang.String](data.length)
+		val occurences = new Array[Map[java.lang.String,Array[java.lang.String]]](data.length)
 		//now we want to have a map between words and the number of occurences
 		//create an array for easier manipulation
-		val counts = new Array[Map[java.lang.String,Int]](papers.length)		
+		val counts = new Array[Map[java.lang.String,Int]](data.length)		
 		//Create an array of lists to store all different lists of keys:
-		val countsList = new Array[List[java.lang.String]](papers.length)
+		val countsList = new Array[List[java.lang.String]](data.length)
 		//List holding all the list of strings of all the texts
 		var textsList = List[java.lang.String]()
 		//reading from every entry of the list:
-		for (k <- 0 to papers.length-1){
-			text(k) = papers(k).body.text	 		    
+		for (k <- 0 to data.length-1){
+			text(k) = data(k).getBody.text	 		    
 			//leave out unecessary characters from the analysis
 			text(k) = clean(text(k))
 			    

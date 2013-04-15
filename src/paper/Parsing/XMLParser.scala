@@ -27,7 +27,7 @@ trait XMLParser extends TitleExtractor1
       }
 	  else {
           println("Reading of Document " + d.id + " succeeded")
-		  val cleanPaper = Document.emptyPaper
+		  val cleanPaper = NoData.toPaper
 		  val xmlDocument = XMLObjectsManager.constructXMLDocument(xml.get, "\n")
 
 		  // print

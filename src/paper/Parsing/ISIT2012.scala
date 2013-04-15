@@ -13,7 +13,7 @@ trait ISIT2012 extends XMLParser with PDFLoader {
     println(pdfName)
     val pdfFile : File = new File(pdfName)
     if (pdfFile.exists) paper = parseFile(doc, pdfToXML(pdfFile))
-    return paper map { p => doc.setPaper(p) }
+    return paper map { p => doc.setData(p) }
   }
 
 }

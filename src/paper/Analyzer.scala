@@ -55,10 +55,8 @@ object Analyzer extends GetFiles {
 
 
 case class Analyzer(docs : Map[String, Document]) extends GetFiles
-                                                     with ITA2013
-                                                     with ExtendPaper
-                                                     with BagOfWordsLSI
-                                                     with XMLScheduleParser {
+                                                     with MyEdu
+                                                     with BagOfWordsLSI {
 
   /**
    * Parse all documents
@@ -73,32 +71,16 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
 
   /**
-   * Links all the papers
+   * Links all the data
    */
   def link : Analyzer = {
     
     // Get a map of papers and pass it to makeLinks
-    val ps = for ((id, d) <- docs if (d.paper != Document.emptyPaper)) yield (id -> d.paper)
+    val ps = for ((id, d) <- docs if (d.data.getBody.text != "")) yield (id -> d.data)
     val links = makeLinks(ps)
 
     // Now add links to each document
     val ds = for ((id, d) <- docs) yield (id -> d.setLinks(links(id)))
-
-    return Analyzer(ds)
-  }
-
-
-  /**
-   * Adds data from a schedule to all papers
-   */
-  def schedule(file : String) : Analyzer = {
-
-    // get map of values
-    val path = Analyzer.resourceDir + File.separator + Analyzer.collection + File.separator + file
-    val s = getXMLSchedule(path)
-
-    // For each paper add these values to the corresponding paper
-    val ds = for ((id, d) <- docs) yield (id -> d.setMeta(s.getOrElse(id,Map.empty)))
 
     return Analyzer(ds)
   }
@@ -212,7 +194,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
 
 
   /**
-   * Returns a paper from the collection
+   * Returns a document from the collection
    */
   def get(id : String) : Option[Document] = docs.get(id)
 }

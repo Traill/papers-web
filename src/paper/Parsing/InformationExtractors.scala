@@ -69,7 +69,7 @@ trait AuthorsExtractor1 extends InformationExtractor{
 		
 		// Applying the extraction processing
 		val authors = unprocessedAuthorsList.flatMap((p:XMLParagraph) => ("""(.+?""" + ExtractionRegexes.authorsSeparator + """)|(.+?$)""").r.findAllIn(""" [0-9]+""".r.replaceAllIn(p.getLines.head.getText, "")))
-		val authorsList = authors.map((s: String) => new Author(ExtractionRegexes.authorsSeparator.r.replaceAllIn(s, "")))
+		val authorsList = authors.map((s: String) => new Person(ExtractionRegexes.authorsSeparator.r.replaceAllIn(s, "")))
 	
 		   
 		if(authorsList.length != 0) (remainingList, paper.setAuthors(authorsList))

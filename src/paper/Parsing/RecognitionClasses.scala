@@ -12,15 +12,15 @@ object ExtractionRegexes {
 
 // This class is a the top of the hierarchy
 abstract class ReferenceProcessor {
-	def extract(ref: String): (Option[Title], Option[List[Author]])
+	def extract(ref: String): (Option[Title], Option[List[Person]])
 }
 
 // This class tries to extract information using a list of existent defined formats
 object ReferenceProcessorExecuter {
 	val recognitionClasses: List[ReferenceProcessor] = List[ReferenceProcessor](NumberedReferenceProcessor1, NumberedReferenceProcessor2, TextualReferenceProcessor1)
   
-	def extract(ref: String): (Option[Title], Option[List[Author]]) = {
-	   def extract0(refProcessors: List[ReferenceProcessor]): (Option[Title], Option[List[Author]]) = refProcessors match{
+	def extract(ref: String): (Option[Title], Option[List[Person]]) = {
+	   def extract0(refProcessors: List[ReferenceProcessor]): (Option[Title], Option[List[Person]]) = refProcessors match{
 	     case List() => (None, None)
 	     case x::List() => x.extract(ref)
 	     case x::xs => {
@@ -41,7 +41,7 @@ object ReferenceProcessorExecuter {
 
 // This class can extract information out of a reference having the following format: [digit] authors "title"
 object NumberedReferenceProcessor1 extends ReferenceProcessor {
-	def extract(ref: String): (Option[Title], Option[List[Author]]) = {
+	def extract(ref: String): (Option[Title], Option[List[Person]]) = {
 		def extractTitle: Option[Title] = {
 		  	val t = (ExtractionRegexes.quoteB + """.+""" + ExtractionRegexes.quoteE).r.findFirstIn(ref)
 		  	if(!t.isDefined) return None
@@ -52,7 +52,7 @@ object NumberedReferenceProcessor1 extends ReferenceProcessor {
 			Some(new Title(finalTitle))
 		}
 		
-		def extractAuthors: Option[List[Author]] = {
+		def extractAuthors: Option[List[Person]] = {
 			val t = ("""^\[\d+\].+""" + ExtractionRegexes.quoteB).r.findFirstIn(ref)
 			if(!t.isDefined) return None
 			
@@ -61,7 +61,7 @@ object NumberedReferenceProcessor1 extends ReferenceProcessor {
 
 			val authorsStringList = ("""([A-Z]\.[ -])+.+?( """ + ExtractionRegexes.and + """|,)""").r.findAllIn(auths).toList
 		  
-			Some(authorsStringList.map((s:String) => new Author(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", ""))))
+			Some(authorsStringList.map((s:String) => new Person(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", ""))))
 		}
 		
 		if(("""^\[\d+\].+""" + ExtractionRegexes.quoteB + """.+""" + ExtractionRegexes.quoteE + """(.+)?$""").r.findFirstIn(ref).isDefined){
@@ -73,14 +73,14 @@ object NumberedReferenceProcessor1 extends ReferenceProcessor {
 
 // This class can extract information out of a reference having the following format: [digit] authors. title
 object NumberedReferenceProcessor2 extends ReferenceProcessor {
-	def extract(ref: String): (Option[Title], Option[List[Author]]) = {
-		def extract0(ref: String): (Option[Title], Option[List[Author]]) = {
+	def extract(ref: String): (Option[Title], Option[List[Person]]) = {
+		def extract0(ref: String): (Option[Title], Option[List[Person]]) = {
 			val authRegex = ("""([A-Z]\.[ -])+.+?( """ + ExtractionRegexes.and + """|,|, """ + ExtractionRegexes.and + """|\.)""").r
 		  	
 			val ref2 = ("""^\[\d+\]( )""").r.replaceAllIn(ref, "")
 			val authorsStringList = authRegex.findAllIn(ref2).toList
 			
-			val auths = Some(authorsStringList.map((s:String) => new Author(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", "").dropRight(1))))
+			val auths = Some(authorsStringList.map((s:String) => new Person(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", "").dropRight(1))))
 			
 			val t = ("""^.+?""" + ExtractionRegexes.titleTermination + """""").r.findFirstIn(authRegex.replaceAllIn(ref2, ""))
 			if(!t.isDefined) return (None, None)
@@ -98,7 +98,7 @@ object NumberedReferenceProcessor2 extends ReferenceProcessor {
 
 // This class can extract information out of a reference having the following format: authors (digits) title
 object TextualReferenceProcessor1 extends ReferenceProcessor {
-	def extract(ref: String): (Option[Title], Option[List[Author]]) = {
+	def extract(ref: String): (Option[Title], Option[List[Person]]) = {
 		def extractTitle: Option[Title] = {
 		  	val t = ("""\)\..+?""" + ExtractionRegexes.titleTermination + """""").r.findFirstIn(ref)
 		  	if(!t.isDefined) return None
@@ -106,7 +106,7 @@ object TextualReferenceProcessor1 extends ReferenceProcessor {
 			Some(new Title(t.get.drop(3)))
 		}
 		
-		def extractAuthors: Option[List[Author]] = {
+		def extractAuthors: Option[List[Person]] = {
 		  	val t = """^.+?\(""".r.findFirstIn(ref)
 		  	if(!t.isDefined) return None
 		  	
@@ -115,7 +115,7 @@ object TextualReferenceProcessor1 extends ReferenceProcessor {
 
 			val authorsStringList = (""".+?,( [A-Z]\.)+(, (""" + ExtractionRegexes.and + """ )?)?""").r.findAllIn(auths).toList
 		  
-			Some(authorsStringList.map((s:String) => new Author(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", ""))))
+			Some(authorsStringList.map((s:String) => new Person(("""( """ + ExtractionRegexes.and + """)""").r.replaceAllIn(s, "").replace(",", ""))))
 		}
 		
 		if(("""^.+?\(\d+\)\..+?\..+?\.$""").r.findFirstIn(ref).isDefined) (extractTitle, extractAuthors)

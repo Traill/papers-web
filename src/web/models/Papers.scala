@@ -24,7 +24,11 @@ object PaperModel {
   }
 
   // Function for getting an abstract
-  def getAbstract(id : String) : Option[String] = A.get(id).map(_.paper.abstr.text)
+  def getAbstract(id : String) : Option[String] = A.get(id).flatMap { d => d.data match {
+      case Paper(_, _, abstr, _, _) => Some(abstr.text)
+      case _                        => None
+    }
+  }
 
   // Function for getting a json of all the nodes
   def getJsonNodes : String = {

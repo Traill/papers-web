@@ -17,8 +17,8 @@ object Graph {
   // Creates a node given a document
   private def makeNode(id : String, d : Document) : Node = {
     Node(id, 
-         d.paper.title.text, 
-         d.paper.authors.map(_.name), 
+         d.data.getTitle.text, 
+         d.data.getPeople.map(_.name), 
          d.meta("room"), 
          d.meta("date"))
   }
@@ -52,7 +52,7 @@ object Graph {
     val f = new java.io.File(path)
     val p = new java.io.PrintWriter(f)
 
-    // Implicit values so we can write out a paper
+    // Implicit values so we can write out a data
     implicit val formats = DefaultFormats
 
     // Print as AMD with json
