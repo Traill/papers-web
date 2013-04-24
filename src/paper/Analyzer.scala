@@ -54,9 +54,10 @@ object Analyzer extends GetFiles {
 }
 
 
-case class Analyzer[A <: DataItem : Manifest](docs : Map[String, Document[A]]) extends GetFiles
-                                                     with MyEdu
-                                                     with BagOfWordsLSI {
+case class Analyzer[A <: DataItem : Manifest](docs : Map[String, Document[A]]) 
+                                             extends GetFiles
+                                                with MyEdu
+                                                with BagOfWordsLSI {
 
   /**
    * Parse all documents

@@ -1,5 +1,8 @@
 package paper
 
+import com.novus.salat.annotations._
+
+@Salat
 trait DataItem {
   def getTitle : Title;
   def getPeople : List[Person]
