@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128851000&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","443"],
+    "title":"Neutronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128851000&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229221",
+      "name":"Krepel Jiri"
+    },{
+      "url":"http://people.epfl.ch/218030",
+      "name":"Mikityuk Konstantin"
+    },{
+      "url":"http://people.epfl.ch/228965",
+      "name":"Pautz Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To acquire an understanding of the basic neutronics interactions occurring in a nuclear fission reactor and, as such, the conditions for establishing and controlling a nuclear chain reaction.[br/]",
+      "Content":"[li]\t[b]Brief review of nuclear physics[/b][br/]-\tHistorical: Constitution of the nucleus and discovery of the neutron - Nuclear reactions and radioactivity - Cross sections - Differences between fusion and fission.[br/][li]\t[b]Nuclear fission[/b][br/]-\tCharacteristics - Nuclear fuel - Introductory elements of neutronics.[br/]-\tFissile and fertile materials - Breeding.[br/][li]\t[b]Neutron diffusion and slowing down[/b][br/]-\tMonoenergetic neutrons - Angular and scalar flux [br/]-\tDiffusion theory as simplified case of transport theory - Neutron slowing down through elastic scattering.[br/][li]\t[b]Multiplying media (reactors)[/b][br/]-\tMultiplication factors - Criticality condition in simple cases. [br/]-\tThermal reactors - Neutron spectra - Multizone reactors - Multigroup theory and general criticality condition - Heterogeneous reactors.[br/][li]\t[b]Reactor kinetics[/b][br/]-\tPoint reactor model: prompt and delayed transients - Practical applications.[br/][li]\t[b]Reactivity variations and control[/b][br/]-\tShort, medium and long term reactivity changes ? Different means of control.[br/]",
+      "Type of teaching":"Lectures, numerical exercises",
+      "Form of examination":"oral exam (100%)",
+      "Note":"Prerequisite for: Reactor Experiments"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neutronics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229221",
+      "name":"Krepel Jiri"
+    },{
+      "url":"http://people.epfl.ch/218030",
+      "name":"Mikityuk Konstantin"
+    },{
+      "url":"http://people.epfl.ch/228965",
+      "name":"Pautz Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Préparation pour : Reactor Experiments",
+      "Bibliographie et matériel":"Distributed documents, recommended book chapters ",
+      "Forme d'enseignement":"Ex cathedra, exercices numériques",
+      "Contenu":"[li]\t[b]Rappels de physique nucléaire[/b][br/]-\tHistorique : Constitution du noyau et découverte du neutron - Réactions nucléaires et radioactivité - Sections efficaces - Différences entre fusion et fission.[br/][li]\t[b]Fission nucléaire[/b][br/]-\tCaractéristiques - Combustible nucléaire - Premiers éléments de neutronique.[br/]-\tMatières fissiles et fertiles - Surrégénération.[br/][li]\t[b]Diffusion et ralentissement des neutrons[/b][br/]-\tNeutrons monocinétiques - Flux angulaire et scalaire[br/]-\tThéorie de la diffusion : cas simplifié de la théorie du transport - Ralentissement par chocs élastiques.[br/][li]\t[b]Milieux multiplicateurs (réacteurs)[/b][br/]-\tFacteurs de multiplication - Conditions critiques dans des cas simples.[br/]-\tRéacteurs thermiques - Spectres neutroniques - Réacteurs à plusieurs zones - Théorie multi-groupe et condition critique générale - Réacteurs hétérogènes.[br/][li]\t[b]Cinétique des réacteurs[/b][br/]-\tModèle ponctuel : divergence prompte et différée - Applications pratiques.[br/][li]\t[b]Variations et contrôle de réactivité[/b][br/]-\tChangements de réactivité à court, moyen et long terme - Différents moyens de contrôle.[br/]",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Acquérir la connaissance des interactions neutroniques de base dans un réacteur à fission nucléaire et ainsi que des conditions nécessaires pour l'établissement et le contrôle d'une réaction nucléaire en chaîne."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neutronics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

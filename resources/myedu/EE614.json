@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597305076&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","614"],
+    "title":"Theory and Methods for Linear Inverse Problems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597305076&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199128",
+      "name":"Cevher Volkan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Many natural and man-made signals can be well modeled as having a few degrees of freedom relative to their \"size\"/\"dimension\", due to natural parameterizations or constraints; examples range from the classical band-limited signals that have been studied for many decades, to collections of video and acoustic signals observed from multiple viewpoints and locations in a network-of-sensors and to internet \"signals\" generated with limited network connectivity.  The inherent low-dimensional structure of such signals are mathematically modeled via combinatorial and/or geometric concepts, such as sparsity, unions-of-subspaces, manifolds, or mixtures of factor analyzers, and are revolutionizing the way we address inverse problems (e.g., signal recovery, parameter estimation, or structure learning) from dimensionality-reduced or incomplete data.[br/][br/]Addressing inverse problems by using a low dimensional model(LDM to arbitrate the solution among infinitely many possible candidates for the unknown signal (i.e., as a prior, in Bayesian terms) typically leads to optimization problems with exponential complexity. Surprisingly, convex relaxations of specific LDM (priors) produce solutions that are provably close to (or even exactly the same as) an exhaustive search result, at the cost of a slight penalty in the number of required observations. For example, theoretically, using the 1-norm or the nuclear-norm is analogous to seeking the sparsest solution in compressive sensing or finding the minimum rank solution in matrix completion, respectively, both known to be NP-hard problems. Unfortunately, many other interesting LDMs are intrinsically combinatorial and cannot be \"convexified\" (or can only be approximated up to constant factors). Such problems require explicitly combinatorial approximation algorithms that can go beyond simple LDM selection heuristics towards provable solution quality as well as runtime/space bounds.[br/][br/]The goal of this class is to expose the new LDM theory and algorithms to a wide audience (EE, CS, Math, Statistics) with interest in inverse problems. The course will present the fundamentals of LDMs which have recently made a great impact in signal processing applications, such as compressive sensing, matrix completion, dictionary learning, and deconvolution, as well as will provide the know-how about new optimization algorithms in an approachable manner, aiming to entice students to exploit the new theory in their applications and their own research. Although several theoretical and algorithmic results will be presented, the emphasis will be on the intuition and the understanding of the LDMs and on the associated optimization tools. We will leverage a modular exposition to allow the attendees to mix, rip, and burn their own algorithm for their application-dependent LDM.[br/]",
+      "Content":"A tentative list of topics to be covered: [br/]1.      Combinatorial low dimensional models (LDMs) for inverse problems[br/]a.      structured sparse and knapsack models via set functions (compressive sensing as running example)[br/]b.      low-rank decompositions (anomaly detection, background subtraction, and recommender systems as running examples)[br/]c.      manifold models (dictionary learning as running example)[br/]d.      intractability of optimization using non-convex LDMs[br/]2.      Geometric LDMs via convexification[br/]a.      Atomic norms of non-convex sets (an introduction to basic convex norms)[br/]b.      Lovasz extensions of submodular set functions[br/]c.      Mixed norm models over groups and permutations[br/]3.      Convex algorithms for LDMs[br/]a.      Projections and proximity operators[br/]b.      Accelerated and stochastic gradient algorithms (with smoothing)[br/]c.      Proximal splitting methods[br/]i.      Forward-backward splitting,[br/]ii.     Douglas-Rachford splitting [br/]iii. augmented Lagrangians and the alternating direction method of multipliers[br/]d.      Theoretical recovery guarantees (convex)[br/]4.      Non-convex algorithms for LDMs[br/]a.      Combinatorial projection and approximation algorithms for non-convex sets[br/]b.      Iterative greedy algorithms and their accelerated variants (OMP, IHT, ALPS, Admira,...)[br/]c.      A manifold-based algorithm (dictionary learning as running example)[br/]d.      A cross pollination of convex and non-convex approaches (the CLASH operator with the total-variation norm as running example)[br/]e.      Theoretical recovery guarantees (non-convex)[br/]5.      LDMs and algorithms in action[br/]a.      Real application examples (from compressive sensing to array and speech signal processing, and from graph learning to image denoising) as time permits  [br/]",
+      "Form of examination":"Written exam[br/]Project report",
+      "Required prior knowledge":"calculus, linear algebra, probability theory"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Theory and Methods for Linear Inverse Problems",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199128",
+      "name":"Cevher Volkan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Theory and Methods for Linear Inverse Problems",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

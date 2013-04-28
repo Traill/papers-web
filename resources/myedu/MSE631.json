@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1630921745&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","631"],
+    "title":"Introduction of Bionanoscience and Bionanomaterials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1630921745&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/231319",
+      "name":"Lee Seung-Wuk"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course is intended for the graduate students interested in acquiring a background of recent development of bio-nanomaterials and bio-nanotechnology focused on the materials point of view. The emphasis of the class is to understand the properties of biological basic building blocks (i.e., DNA/RNA, peptide/proteins), their assembly principles in nature, and their applications to build functional materials and devices. The goal is for the graduate students to gain sufficient chemical and physical aspects of biological materials through the case study of spider webs, silks, biominerals, as well as recently developed nanomaterials and devices inspired by nature. ",
+      "Content":"There are three major parts in this course: [br/]I. Basic building blocks and governing forces: This part is intended to enhance the understanding of the structures and properties of biological basic building blocks and their governing forces to assemble the biological materials. This part covers the chemical structures of amino acids, ribonucleic acids, hydrocarbonates, and lipids, and their physical properties depending on the chemical and physical structures. In addition, governing forces (hydrogen bonding, ionic interaction, van der Waals interaction, hydrophobic interactions, etc) to assemble the basic building blocks to form nanostructures will be covered. Tools and methodologies to analyze the chemical structure of the molecules will be introduced. Quantitative analysis of the properties of biological basic building blocks will also be addressed. [br/]II. Case study of the molecular level structures of biological materials. This part is intended to study the examples of biological molecules to enhance understanding the assembly principle of biological materials, including collagens, keratins, spider webs, silks, bio-adhesives as protein based robust materials, bones, sea shells, diatoms, sponges, and, other biominerals as hierarchical nanostructures, and butterfly wings and insect eyes, other periodic structures for optical applications. Through the case study, we will learn how natural materials are designed to solve the challenging problem to be faced in the natural environments and exploit their design principle to develop novel functional materials and devices. [br/]III. Case study of the artificial nanomaterials and devices inspired by biological nature. This part is intended to enhance understanding the recently developed nanostructures and devices to mimic the natural biological materials and organisms. Hybrid functional nanomaterials and devices, such as biological basic building blocks conjugated with inorganic nanocomponents, such as quantum dots, nanowires, nanotubes will be discussed to fabricate various devices including, bio-sensor, bio-nano electronic materials and devices, bio-computing. Nano medicine and bio imaging will also be covered.[br/]",
+      "Keywords":"Bionanomaterials, Bionanoscience, Bionanotechnology",
+      "Form of examination":"Oral Presentation",
+      "Required prior knowledge":"Introductory level of Chemistry and Biochemistry"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Introduction of Bionanoscience and Bionanomaterials",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/231319",
+      "name":"Lee Seung-Wuk"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Introduction of Bionanoscience and Bionanomaterials",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1585747148&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","332"],
+    "title":"Applied stochastic processes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1585747148&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To introduce a fundamental mathematical object and to broaden the field of application for laws of large numbers.",
+      "Content":"We consider first discrete time Markov chains on a finite state space and show how many natural problems can be embedded in this domain.  The relevance of irreducibility and aperiodicity are discussed.  We then depart from the text of Durrett to discuss transience and recurrence for infinite state space irreducible Markov chains.  The theory is then reworked in a continuous time framework.  Particular attention is given to branching processes and queuing models.[br/]",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Basic probability"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Applied stochastic processes",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98836-X&amp;con_lng=ENG\" target=\"blank\">Essentials of stochastic processes / Rick Durrett</a>\". Year:1999. ISBN:0-387-98836-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4614-3614-0&amp;con_lng=ENG\" target=\"blank\">Essentials of stochastic processes / Rick Durrett</a>\". Year:2012. ISBN:978-1-4614-3614-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Basic probability",
+      "Bibliographie et matériel":"Essentials of Stochastic Processes by R. Durrett",
+      "Forme d'enseignement":"14 exposés",
+      "Contenu":"On traite dans un premier temps les chaînes de Markov sur un espace fini et on note que plusieurs questions naturelles peuvent s'inscrire très naturellement dans ce cadre. On discute les notions d'irréductibilité et périodicité. Pour conclure le premier chapitre, on donne des critères naturels pour la transience et la récurrence pour les chaînes irréductibles sur un espace infini. Ensuite on refait la théorie pour les chaînes en temps continu. On analyse en particulier les processus de branchement ainsi que les files d'attente.[br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Introduire un objet fondamental et élargir le domaine pour l'application des lois des grands nombres."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Processus stochastiques appliqués",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98836-X&amp;con_lng=FRE\" target=\"blank\">Essentials of stochastic processes / Rick Durrett</a>\". Année:1999. ISBN:0-387-98836-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4614-3614-0&amp;con_lng=FRE\" target=\"blank\">Essentials of stochastic processes / Rick Durrett</a>\". Année:2012. ISBN:978-1-4614-3614-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

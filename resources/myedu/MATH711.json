@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80955927&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","711"],
+    "title":"Introduction to interacting particle systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80955927&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"We wish to provide a basic understanding of classical interacting particle systems so that the student will gain an appreciation of what sort of results to expect and of the hard open problems that remain.",
+      "Content":"We attempt to introduce the student to the basic theory and construction of interacting particle systems including Dobrushin's ergodicity condition and the definition and exploitation of attractiveness. Following this we treat classical models such as the contact process, the voter model and the exclusion process. We introduce the ideas behind duality and then apply this to the three processes. We finish by an exploration of the block arguments and renormalization.",
+      "Required prior knowledge":"Basic knowledge of probability, connaissance of Poisson processes is expected."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to interacting particle systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"We attempt to introduce the student to the basic theory and construction of interacting particle systems including Dobrushin's ergodicity condition and the definition and exploitation of attractiveness. Following this we treat classical models such as the contact process, the voter model and the exclusion process. We introduce the ideas behind duality and then apply this to the three processes. We finish by an exploration of the block arguments and renormalization.",
+      "Prérequis":"Basic knowledge of probability, connaissance of Poisson processes is expected.",
+      "Objectifs d'apprentissage":"We wish to provide a basic understanding of classical interacting particle systems so that the student will gain an appreciation of what sort of results to expect and of the hard open problems that remain."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to interacting particle systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

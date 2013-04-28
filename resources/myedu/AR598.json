@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47832968&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","598"],
+    "title":"Theoritical statement (linked to Master Project) (only 9th semester)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47832968&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/106253",
+      "name":"Roduit Lydia"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]and content[/b]:[br/][br/]This is a text that contains all the iconographic references that are necessary for a good understanding of the topic, which formulates the hypotheses of the Master's Project and provides a basis for a critical and methodological assessment of students.[br/][br/]Candidates describe the topic of their Master's Project, their research objectives, their frame of theoretical reference, as well as the initial hypotheses of their work and the particular and specific orientation they wish to give their Master's project.",
+      "Content":"[b]Modalities[/b]:[br/][br/]Candidates select a supervisor, who will be their reference person throughout the production of this thesis.[br/][br/]They propose the subject of their work to the supervisor.[br/][br/]The supervisor must be a member of the ENAC faculty: a full, associate, titular, assistant, tenure-track or guest professor with a contract of at least two years, MER.[br/]",
+      "Form of examination":"Oral defence of the thesis to be given in advance. The assessment of the theoretical Master's thesis will be based on:[br/][li]The theoretical Master's thesis itself,[br/][li]An oral examination scheduled during the winter examination session.[br/]",
+      "Note":"The questions of scheduling and of the organisation of the session are governed by the internal directives issued by the Section.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Theoritical statement (linked to Master Project) (only 9th semester)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/106253",
+      "name":"Roduit Lydia"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Les directives internes au projet de master éditées par la section régissent les questions de calendrier et l'organisation précise de la session.",
+      "Contenu":"[b]Modalités[/b]:[br/][br/]Le(la) candidat(e) choisit un(e) responsable, qui sera la personne de référence tout au long de l'élaboration de ce mémoire.[br/][br/]Il(elle) lui propose le sujet de son travail.[br/][br/]Le(la) responsable est un(e) enseignant(e) rattaché(e) à l'ENAC : professeur(e) ordinaire, associé(e), titulaire, assistant(e) «tenure track», invité(e) avec un contrat de deux ans au minimum, MER.[br/]",
+      "Forme du contrôle":"Défense orale du mémoire déposé au préalable. L'évaluation de l'énoncé théorique de master porte sur :[br/][li]l'énoncé théorique lui-même;[br/][li]l'examen oral planifié pendant la session d'examen d'hiver.[br/]",
+      "Objectifs d'apprentissage":"[b]et contenu [/b]:[br/][br/]Il s'agit d'un texte, comprenant toutes les références iconographiques nécessaires à la bonne compréhension, qui énonce les hypothèses du projet de master, et permet d'évaluer le cheminement critique et méthodologique de l'étudiant(e).[br/][br/]Le(la) candidat(e) y précise son thème de projet de master, ses objectifs de recherche, son cadre référentiel théorique, ainsi que les premières hypothèses de son travail et l'orientation particulière et spécifique qu'il(elle) souhaite donner à son projet de master."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Enoncé théorique de master",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

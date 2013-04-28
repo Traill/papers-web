@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24302061&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","425"],
+    "title":"HF and VHF circuits and techniques I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24302061&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MNIS",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written",
+      "Bibliography and material":"Notes de cours polycopiées, articles techniques récents",
+      "Prerequisite for":"HF et VHF circuits and techniques II",
+      "Required prior knowledge":"Electronic circuits and systems I and II",
+      "Content":"1)\tHF Passive Components[br/]2)\tResonant Circuits[br/]3)\tImpedance Matching[br/]4)\tHF Filters[br/]5)\tNoise and Intermodulation[br/]6)\tModeling and Characterization of Transistors at HF[br/]7)\tDesign of HF Small-Signal Amplifiers",
+      "Type of teaching":"Ex cathedra and exercices",
+      "Learning outcomes":"Master the design of circuits and systems at high frequency (HF) and very high frequency (VHF) (3 MHz-3GHz). This lecture is particularly oriented towards circuit aspects of modern communications systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"HF and VHF circuits and techniques I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Circuits et systèmes électroniques I et II",
+      "Bibliographie et matériel":"Notes de cours polycopiées, articles techniques récents",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"1)\tComposants HF passifs[br/]2)\tCircuits résonants[br/]3)\tAdaptation d'impédance[br/]4)\tFiltres HF[br/]5)\tBruit et intermodulation[br/]6)\tModélisation et caractérisation des transistors en HF[br/]7)\tConception d'amplificateurs petits-signaux",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Circuits et techniques HF et VHF II",
+      "Objectifs d'apprentissage":"Maîtriser la conception des circuits et systèmes électroniques dans le domaine des hautes et très hautes fréquences  (3 MHz-3GHz). Le cours est particulièrement orienté vers les aspects circuits des systèmes de communication modernes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"HF and VHF circuits and techniques I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

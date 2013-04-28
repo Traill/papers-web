@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771323&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","602"],
+    "title":"Micro-magnetic field sensors and actuators",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771323&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To provide a background for the understanding of modern micro magnetic sensors and actuators.",
+      "Content":"1. Basics of magnetostatics[br/][br/]Maxwell laws. Magnetostatic. Magnetic dipoles and currents. Equations in matter. Calculations methods for magnetostatics. Magnetic field concentration. Magnetic screening. Eddy currents. Skin and proximity effect. Phenomenological description of matter. Diamagnetism. Paramagnetism. Ferromagnetism. Material conductivity under electric and magnetic fields.[br/][br/]2. Sensors & Actuators (principles and selected topics)[br/][br/]Basic principles, design and characteristics of following selected sensors and actuators:[br/][br/][li] Micromachined sensors.[br/][li] Hall effect devices.[br/][li] Anisotropic (AMR) and giant (GMR) magneto resistors.[br/][li] Flux-gates Microsystems.[br/][li] Magnetic resonance methods (NMR and ESR) and their applications in magnetometry, spectroscopy and imaging.[br/][li] Magnetic force microscopy (MFM).[br/][br/]Discussion of following topics: sensitivity, noise, accuracy, magnetic field resolution, electronic interfaces, applications.[br/][br/]3. Case studies[br/][br/]Study and discussion of examples of micro-magnetic sensors from the current scientific literature that illustrate the usefulness of the previously introduced concepts. Opportunities for scaling down, integration, and new applications.",
+      "Keywords":"Magnetostatics, Hall effect devices, magnetic resonance, magnetometry, magnetic sensors ",
+      "Required prior knowledge":"Basic knowledge in physics and mathematics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Micro-magnetic field sensors and actuators",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Basics of magnetostatics[br/][br/]Maxwell laws. Magnetostatic. Magnetic dipoles and currents. Equations in matter. Calculations methods for magnetostatics. Magnetic field concentration. Magnetic screening. Eddy currents. Skin and proximity effect. Phenomenological description of matter. Diamagnetism. Paramagnetism. Ferromagnetism. Material conductivity under electric and magnetic fields.[br/][br/]2. Sensors & Actuators (principles and selected topics)[br/][br/]Basic principles, design and characteristics of following selected sensors and actuators:[br/][br/][li] Micromachined sensors.[br/][li] Hall effect devices.[br/][li] Anisotropic (AMR) and giant (GMR) magneto resistors.[br/][li] Flux-gates Microsystems.[br/][li] Magnetic resonance methods (NMR and ESR) and their applications in magnetometry, spectroscopy and imaging.[br/][li] Magnetic force microscopy (MFM).[br/][br/]Discussion of following topics: sensitivity, noise, accuracy, magnetic field resolution, electronic interfaces, applications.[br/][br/]3. Case studies[br/][br/]Study and discussion of examples of micro-magnetic sensors from the current scientific literature that illustrate the usefulness of the previously introduced concepts. Opportunities for scaling down, integration, and new applications.",
+      "Mots clés":"Magnetostatics, Hall effect devices, magnetic resonance, magnetometry, magnetic sensors ",
+      "Prérequis":"Basic knowledge in physics and mathematics",
+      "Objectifs d'apprentissage":"To provide a background for the understanding of modern micro magnetic sensors and actuators."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Micro-magnetic field sensors and actuators",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

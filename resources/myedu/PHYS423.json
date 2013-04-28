@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127857132&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","423"],
+    "title":"Plasma physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127857132&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"PH",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://crpp.epfl.ch","http://crpp.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176621",
+      "name":"Ricci Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To complete the introduction to plasma physics, covering collisional and transport phenomena, collective phenomena and waves, including in hot and magnetized plasmas, using fluid and kinetic theory, and wave-particle interaction. Examples of applications from different plasmas, such as those of interest in laboratory studies and controlled fusion, and in astrophysics, will be discussed.",
+      "Content":"[b]I Collisional and relaxation phenomena[/b][br/]- Inelastic collisions: ionization and recombination, degree of ionization[br/]- Elastic collisions: Coulomb collisions[br/]- Isotropisation and thermalisation[br/]- Plasma resistivity and the runaway regime[br/][b]II Transport in plasmas[/b][br/]- Random walk and diffusion[br/]- Ambipolar and cross-field diffusion[br/]- Energy and particle confinement[br/][b]III Waves in cold magnetized plasma[/b][br/]- Dielectric tensor[br/]- Resonances and cut-offs[br/]- Parallel and perpendicular propagation[br/][b]IV Wave-particle interaction and kinetic description of waves in hot[br/]un-magnetized plasmas[/b][br/]- The Vlasov-Maxwell model[br/]- Resonant wave-particle interaction and Landau damping[br/]- Stability criteria and streaming instabilities[br/]- Langmuir and ion-acoustic waves and instabilities[br/][b]V Waves in hot magnetized plasmas[/b][br/][b]VI Examples of nonlinear effects[/b][br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Required prior knowledge":"Electrodynamics, Plasma Physics I"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Plasma physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://crpp.epfl.ch","http://crpp.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176621",
+      "name":"Ricci Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]I Phénomènes collisionnels et de relaxation[/b][br/]- Collisions inélastiques : ionisation et recombinaison, degré de[br/]ionisation[br/]- Collisions élastiques : collisions coulombiennes[br/]- Isotropisation et thermalisation[br/]- Résistivité et phénomène de \"run-away\"[br/][b]II Transport dans les plasmas[/b][br/]- Parcours aléatoire et diffusion[br/]- Diffusion ambipolaire et à travers le champ B[br/]- Confinement d'énergie et particules[br/][b]III Les ondes dans un plasma magnétisé froid[/b][br/]- Le tenseur diélectrique[br/]- Résonances et \"cut-offs\"[br/]- Propagation parallèle et perpendiculaire au champ[br/][b]IV Interaction onde-particule et description cinétique des ondes[/b][br/]dans un plasma non-magnétisé chaud[br/]- Le modèle Vlasov-Maxwell[br/]- Interaction résonnante onde-particule et amortissement de Landau[br/]- Critère de stabilité et instabilités de faisceau[br/]- Ondes et instabilités de Langmuir, ioniques-acoustique[br/][b]V Les ondes dans un plasma magnétisé chaud[/b][br/][b]VI  Exemples d'effets non-linéaires[/b][br/][br/] ",
+      "Prérequis":"Electrodynamique, Physique des plasmas I",
+      "Bibliographie et matériel":"Notes polycopiées, ouvrages recommandés",
+      "Objectifs d'apprentissage":"Compléter l'introduction à la physique des plasmas donnée en 3ème année en élaborant les bases des phénomènes collisionnels et de transport, les phénomènes collectifs et les ondes dans un plasma à l'aide de la théorie fluide et cinétique, et l'interaction onde-particule, avec exemples d'application dans les plasmas de laboratoire, d'intérêt pour la fusion contrôlée et astrophysiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Plasma physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

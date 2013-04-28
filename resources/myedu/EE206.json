@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71614942&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","206"],
+    "title":"Measuring systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71614942&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lmam.epfl.ch/page17010.html","http://lmam.epfl.ch/page17010.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133331",
+      "name":"Kis Andras"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written",
+      "Prerequisite for":"Measuring systems Labs ",
+      "Required prior knowledge":"Electrotechnics I and II",
+      "Content":"[b]Sensors and conditioning ciruits[/b][br/]Introduction to transducers, sensors and actuators. Active and passive sensors et their conditioning.[br/][b]Modeling a measuring system[/b][br/]Measurands and functional components of a measuring system, interfering and modifying inputs, static and dynamic characteristics, identification of transfer function, loading effects.[br/][b]Noise estimation and reduction[/b][br/]Extrinsic noise, capacitive coupling, magnetic coupling, common mode voltage. Intrinsic noise and noise specifications. Noise reduction, connecting, asymmetric and differential amplifiers, instrumentation amplifiers. Modulation-demodulation, lock-in amplifier.[br/][b]Analysis of Measurement results[/b][br/]Error attributes, rules of errors composition. Sources and measuring devices. Data presentation. Analog and digital multlimeters specifications.[br/][b]Comparing measured data[/b][br/]Statistical measuring parameters and their estimation. Random variable and realization, population and sampling. Main distribution, confidence interval, estimation of systematic and random errors by hypothesis tests. Test; retest and reliability of measurement.[br/][b]Data acquisition[/b][br/]General specification. Sampling, coding, quantication, data conversion (D/A and A/D), multiplexing.[br/]",
+      "Type of teaching":"Ex cathedra, with exercices",
+      "Learning outcomes":"Resolve in concrete terms a problem of measurement by choosing appropriate methods, devices as well as circuits and components. Carry out measurement, interpret and analyze the results of the measurements."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Measuring systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-006310-3&amp;con_lng=ENG\" target=\"blank\">Acquisition de données : du capteur à l'ordinateur / Georges Asch ... [et al.]</a>\". Year:2003. ISBN:2-10-006310-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-321-4&amp;con_lng=ENG\" target=\"blank\">Systèmes de mesure / par Pierre-André Paratte et Philippe Robert</a>\". Year:1996. ISBN:2-88074-321-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lmam.epfl.ch/page17010.html","http://lmam.epfl.ch/page17010.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133331",
+      "name":"Kis Andras"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electrotechnique I et II",
+      "Bibliographie et matériel":"1)Vol. XVII TE, Systèmes de mesure, 2) G. Asch Acquisition de données, Dunod, Paris, 2003[br/]Notes supplémentaires polycopiées[br/]Systèmes de mesure / par Pierre-André Paratte et Philippe Robert, 1996 ",
+      "Forme d'enseignement":"Ex cathedra, avec exercices intégrés",
+      "Contenu":"[b]Les capteurs et les circuits de conditionnement[/b][br/]Introduction au transducteur, capteur, actionneur. Les capteurs actifs et passifs et leurs conditionnements.[br/][b]Modélisation d'un système de mesure[/b][br/]Mesurandes et chaîne de mesure, grandeurs interférentes et modifiantes, caractéristiques de transfert statique et dynamique, identification des caractéristiques de transfert,  effets de charge.[br/][b]Estimation et réduction de bruit[/b][br/]Bruits extrinsèques, couplage capacitif, couplage magnétique, tension de mode commun.  Bruits intrinsèques et calcul du bruit. Réduction du bruit, branchement, amplificateurs asymétrique et différentiel, blindages,  amplificateur d'instrumentation. Modulation-démodulation, amplificateurs lock-in.[br/][b]Traitement des résultats de mesure[/b][br/]Les attributs de l'erreur, propagation des erreurs. Présentation des données mesurées. Sources et appareils de mesure, branchement des appareils, appareils de mesure analogique et numérique et leur précision.[br/][b]Comparaison des données mesurées[/b][br/]Paramètres statistiques de mesures et leur estimation. Variables aléatoires et réalisations, population et échantillonnage. Les principales distributions. Intervalle de confiance, estimation de l'erreur systématique et fortuite par des tests d'hypothèse. Test et retest et calcul de la fiabilité des mesures.[br/][b]Acquisition informatique des mesures [/b][br/]Caractéristiques générales. Echantillonnage, codage,Quantification, Conversion D/A, Conversion A/D, Multiplexage.",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"TP de Systèmes de mesure",
+      "Objectifs d'apprentissage":"Résoudre concrètement des problèmes de mesure par un choix judicieux de la méthode, des appareils, respectivement des composants et des circuits à mettre en oeuvre. Maîtriser l'analyse et l'interprétation des résultats d'une mesure."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes de mesure",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-006310-3&amp;con_lng=FRE\" target=\"blank\">Acquisition de données : du capteur à l'ordinateur / Georges Asch ... [et al.]</a>\". Année:2003. ISBN:2-10-006310-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-321-4&amp;con_lng=FRE\" target=\"blank\">Systèmes de mesure / par Pierre-André Paratte et Philippe Robert</a>\". Année:1996. ISBN:2-88074-321-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774457&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","340"],
+    "title":"Fundamentals of satellite positioning",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774457&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115027",
+      "name":"Gilliéron Pierre-Yves"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"40 % continuous control, 60 % oral test (15 min) during exam session",
+      "Prerequisite for":"Monitoring specialization and environmental modellisazion",
+      "Required prior knowledge":"Fundamentals of geomatics, Quantitatives methods",
+      "Content":"[b]Geodetic references[/b][br/]Frame and coordinates systems - geoid and ellipsoid - relation between Cartesian and ellipsoidal coordinates - transformation of coordinates - projections[br/][br/][b]Satellite based measurements[/b][br/]General architecture (terrestrial and spatial) - spatial and timing references - signals and messages - satellites' orbits - code measurements - error sources[br/][br/][b]Point positioning[/b][br/]Code based equation - dilution of precision - differential positioning  - data processing - quality analysis of the position[br/][br/][b]Satellite based augmentation systems[/b][br/]Architecture - differential corrections - concept of integrity[br/][br/][b]Technological evolution and scientific issues[/b][br/]The European system Galileo - GPS modernization - value added services (weather forecast, transportation)[br/]",
+      "Type of teaching":"Lecture ex cathedra, exercises and practical work",
+      "Learning outcomes":"To assimilate the concept of geodetic references and the transformations of coordinates.[br/]To understand the algorithms for computing positions based on GPS code measurements with practical survey and processing.[br/]To grasp the features for a proper planning of the field operations and to perceive the trends in the evolution of positioning systems.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fundamentals of satellite positioning",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115027",
+      "name":"Gilliéron Pierre-Yves"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Eléments de géomatique, Méthodes quantitatives",
+      "Bibliographie et matériel":"Polycopié: [i]Localisation par satellites, ouvrages recommandés[/i]",
+      "Forme d'enseignement":"Cours ex cathedra, exercices et travaux pratiques",
+      "Contenu":"[b]Références géodésiques[/b][br/]Systèmes et cadres de coordonnées - géoïde et ellipsoïde - conversion de coordonnées cartésiennes et ellipsoïdiques - transformation de coordonnées - systèmes de projection[br/][br/][b]Mesures satellitaires[/b][br/]Architecture générale (terrestre et spatiale) - référence spatiale et temporelle - signaux et messages des satellites - orbites des satellites - mesures de code - sources d'erreur[br/][br/][b]Calcul de position[/b][br/]Equation du code - coefficient DOP - localisation différentielle - calculs pratiques - analyse de qualité de la localisation[br/][br/][b]Systèmes d'augmentation satellitaires[/b][br/]Architecture - corrections différentielles - concept d'intégrité[br/][br/][b]Evolution technologique et aspects scientifiques[/b][br/]Système européen Galileo - Modernisation de GPS - Services à valeur ajoutée (prévisions météo, transports)[br/]",
+      "Forme du contrôle":"40 % contrôle continu, 60 % épreuve orale (15 min) pendant session d'examen",
+      "Préparation pour":"Spécialisation monitoring et modélisation de l'environnement",
+      "Objectifs d'apprentissage":"Assimiler les bases des références géodésiques et les principes des transformations de coordonnées.[br/]Comprendre les algorithmes de localisation GPS sur la base des mesures de code en réalisant un lever et des calculs.[br/]Saisir les éléments nécessaires à la planification des travaux de terrain et percevoir les tendances de l'évolution des systèmes de positionnement."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Localisation par satellites",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839104908&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","511"],
+    "title":"Animal experimentation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839104908&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169239",
+      "name":"Beermann Friedrich"
+    },{
+      "url":"http://people.epfl.ch/148998",
+      "name":"Gyger Marcel"
+    },{
+      "url":"http://people.epfl.ch/183356",
+      "name":"Warot Xavier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Animal experimentation",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169239",
+      "name":"Beermann Friedrich"
+    },{
+      "url":"http://people.epfl.ch/148998",
+      "name":"Gyger Marcel"
+    },{
+      "url":"http://people.epfl.ch/183356",
+      "name":"Warot Xavier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cours théorique de 4 après-midis sur  une semaine et de 1 journée en laboratoire durant le semestre pour la partie pratique.",
+      "Prérequis":"1ère année de master SV",
+      "Forme d'enseignement":"Cours ex cathedra, exercices et visite de labo",
+      "Contenu":"[li] Introduction to arguments and to methods of in vivo studies[br/][li] Biology of laboratory mice and rats. Introduction to genetic engineering and experimental models[br/][li] Logistics, housing and care of animals. Husbandry, breeding and confinement with an emphasis on the EPFL [br/][li] Design of experiments, scientific and technical issues, ethical considerations and legal requirements[br/][li] Examples of research models used at the EPFL[br/]",
+      "Forme du contrôle":"Examen écrit à la fin du module, en semestre.",
+      "Objectifs d'apprentissage":"General principles of animal experimentation with emphasis on rodent models in the context of the EPFL."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Animal experimentation",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

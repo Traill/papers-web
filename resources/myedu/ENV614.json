@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352108264&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","614"],
+    "title":"Fourier analysis and boundary value problems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352108264&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182281",
+      "name":"Rinaldo Andrea"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Learning Fourier Series and Boundary Value Problems with a view to a variety of science and engineering problems. Learn the use of special functions via Bessel functions and applications. Introduce the doctoral students to general Sturm-Liouville problems and applications. The general aim of the course is to provide the doctoral student a necessary, if seldom directly related to one's research, toolkit of mathematical methods.",
+      "Content":"Textbook: J.W. Brown, R.V. Churchill, Fourier Series and Boundary Value Problems, McGraw Hill, 7th ed, 2008[br/][br/]Fourier Series; Convergence of Fourier Series; Partial Differential Equations of Physics; The Fourier Method; Boundary Value Problems; Fourier Integrals and applications; Orthonormal sets; Sturm-Liouville problems and applications; Bessel functions and applications.[br/]",
+      "Required prior knowledge":"Calculus Classes for Engineering or Science Degrees"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fourier analysis and boundary value problems",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182281",
+      "name":"Rinaldo Andrea"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Textbook: J.W. Brown, R.V. Churchill, Fourier Series and Boundary Value Problems, McGraw Hill, 7th ed, 2008[br/][br/]Fourier Series; Convergence of Fourier Series; Partial Differential Equations of Physics; The Fourier Method; Boundary Value Problems; Fourier Integrals and applications; Orthonormal sets; Sturm-Liouville problems and applications; Bessel functions and applications.",
+      "Prérequis":"Calculus Classes for Engineering or Science Degrees",
+      "Objectifs d'apprentissage":"Learning Fourier Series and Boundary Value Problems with a view to a variety of science and engineering problems. Learn the use of special functions via Bessel functions and applications. Introduce the doctoral students to general Sturm-Liouville problems and applications. The general aim of the course is to provide the doctoral student a necessary, if seldom directly related to one's research, toolkit of mathematical methods."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fourier analysis and boundary value problems",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

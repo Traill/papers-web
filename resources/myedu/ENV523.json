@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47573939&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","523"],
+    "title":"Hydrogeophysics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47573939&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173898",
+      "name":"Holliger Klaus"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Mounting public concern over availability and quality of groundwater resources and over sustainable use and management require reliable and spatially resolved information on the hydrological properties both in the vadose and saturated zones. Modern geophysical remote sensing techniques are ideally suited for this purpose due to their exhaustive coverage, spatial resolution and penetration depth that complement traditional hydrological methods. This course provides a comprehensive introduction to the methodological background and application of pertinent hydrogeophysical techniques as well as to modern approaches to the analysis and integration of such data for subsurface water resource monitoring and management.[br/][br/][br/][br/]",
+      "Content":"Surface- and borehole-based geophysical techniques suitable for the characterization of the vadose and saturated zones [br/][br/]Characterization of the vadose zone[br/][br/]Characterization of the saturated zone[br/][br/]Quantitative Integration of multiple geophysical and/or hydrological datasets",
+      "Type of teaching":"Lectures, exercises, self-learning",
+      "Form of examination":"100 % continuous control:[br/]50 % exercises during the semester[br/]50 % written final exam at the end of the semester"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hydrogeophysics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-632-04929-4&amp;con_lng=ENG\" target=\"blank\">An introduction to geophysical exploration / Philip Kearey, Michael Brooks, Ian Hill</a>\". Year:2002. ISBN:0-632-04929-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-3101-4&amp;con_lng=ENG\" target=\"blank\">Hydrogeophysics / ed. by Yoram Rubin and Susan S.Hubbard</a>\". Year:2005. ISBN:978-1-4020-3101-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173898",
+      "name":"Holliger Klaus"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours, exercices, travail personnel",
+      "Contenu":"Techniques de surface et de forage géophysiques pour la caractérisation des zones non-saturées et saturées[br/][br/]Caractérisation de zones non-saturées[br/][br/]Caractérisation de zones saturées[br/][br/]Intégration quantitative de bases de données géophysiques et/ou hydrologiques ",
+      "Forme du contrôle":"100 % contrôle continu :[br/]50 % exercices durant le semestre[br/]50 % test final écrit en fin de semestre",
+      "Bibliographie et matériel":"Kearey, P., Brooks, M., and Hill, I., 2002, An Introduction to Geophysical Exploration, Blackwell Science.Rubin, Y., and Hubbard, S., (editors), 2005. Hydrogeophysics, Springer. Selected articles",
+      "Objectifs d'apprentissage":"La préoccupation croissante du public concernant la disponibilité et la qualité des ressources en eau, leur usage et leur gestion dans une perspective de développement durable requiert des informations toujours plus pointues et fiables ainsi qu'une résolution spatiale des propriétés hydrologiques tant dans les zones non-saturées que saturées. Les techniques géophysiques modernes de télédétection conviennent particulièrement bien pour ce type de démarches puisqu'elles permettent une couverture exhaustive, une résolution spatiale optimale et une pénétration profonde de ces zones apportant un complément idéal aux méthodes hydrologiques traditionnelles. Ce cours fournit une introduction compréhensive à la méthodologie et à l'application de techniques hydrogéophysiques pertinentes, une approche moderne des méthodes d'analyses et l'intégration de ces données pour la surveillance et la gestion des ressources en eaux souterraines."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hydrogeophysics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-632-04929-4&amp;con_lng=FRE\" target=\"blank\">An introduction to geophysical exploration / Philip Kearey, Michael Brooks, Ian Hill</a>\". Année:2002. ISBN:0-632-04929-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-3101-4&amp;con_lng=FRE\" target=\"blank\">Hydrogeophysics / ed. by Yoram Rubin and Susan S.Hubbard</a>\". Année:2005. ISBN:978-1-4020-3101-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

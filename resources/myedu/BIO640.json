@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239757188&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","640"],
+    "title":"Practical - Van der Goot Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239757188&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://vdg.epfl.ch/","http://vdg.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171549",
+      "name":"van der Goot Grunberg Françoise Gisou"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Membrane organization[br/]Investigate the compartmentalisation of biological membranes: what are the determinants of the localzation of transmembrane proteins in the 2 dimensional space of the membranes?[br/]",
+      "Content":"Introduction, isolation of membrane domains (tissue culture, subcellular fractionation, SDS-PAGE, western blotting), cellular localization of membrane proteins (immunofluorescence)[br/]",
+      "Note":"Note that while the course is open to all 1st year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules. Note also that doctoral students from the van der Goot laboratory cannot take this course. Access is limited to 3 students. [br/]",
+      "Required prior knowledge":"Basic knowledge of cellular and membrane biology[br/]"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Van der Goot Lab",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://vdg.epfl.ch/","http://vdg.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171549",
+      "name":"van der Goot Grunberg Françoise Gisou"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all 1st year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules. Note also that doctoral students from the van der Goot laboratory cannot take this course. Access is limited to 3 students. [br/]",
+      "Contenu":"Introduction, isolation of membrane domains (tissue culture, subcellular fractionation, SDS-PAGE, western blotting), cellular localization of membrane proteins (immunofluorescence)[br/]",
+      "Prérequis":"Basic knowledge of cellular and membrane biology[br/]",
+      "Objectifs d'apprentissage":"Membrane organization[br/]Investigate the compartmentalisation of biological membranes: what are the determinants of the localzation of transmembrane proteins in the 2 dimensional space of the membranes?[br/]"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Van der Goot Lab",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

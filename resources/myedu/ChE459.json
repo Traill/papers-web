@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771583&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","459"],
+    "title":"Process development project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771583&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169257",
+      "name":"Zaza Philippe"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Development project of a real lab process to industrial scale.[br/]",
+      "Content":"[br/][li] Integrated process development of a simple process from lab to industrial scale.[br/][br/][li] Production costs estimation.[br/][br/][li] Feasibility study with respect to economic and EHS compliance.[br/][br/][li] Safety concepts application.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Process development project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":6,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31089-0&amp;con_lng=ENG\" target=\"blank\">Process development : from the initial idea to the chemical production plant / G. Herbert Vogel</a>\". Year:2006. ISBN:978-3-527-31089-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31421-8&amp;con_lng=ENG\" target=\"blank\">Scale-up in chemical engineering / Marko Zlokarnik</a>\". Year:2006. ISBN:978-3-527-31421-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-492422-3&amp;con_lng=ENG\" target=\"blank\">Systematic methods of chemical process design / L. T. Biegler, I. E. Grossmann, and A. W. Westerberg</a>\". Year:1997. ISBN:0-13-492422-3</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169257",
+      "name":"Zaza Philippe"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Utilisation de programmes de simulation de procédés.[br/]Visite d'un site industriel chimique.",
+      "Prérequis":"Tous les cours standard de génie chimique. Cours \"Développement de procédés I et II\"",
+      "Bibliographie et matériel":"Polycopié du Développement de procédés I et II[br/]Encyclopédies Ullmann, Kirk-Othmer, Perry, ...[br/]G.H. Vogel, Process Development[br/]L.T. Biegler et al., Systematic Methods of Chemical Process Design[br/]M. Zlokarnik, Scale up in Chemical Engineering[br/]",
+      "Forme d'enseignement":"Travail en groupe",
+      "Contenu":"[br/][li] Développement intégré d'un procédé simple de l'échelle laboratoire à industrielle.[br/][br/][li] Evaluation des coûts de production ([i]indirects, directs, fixes et variables[/i]).[br/][br/][li] Etude de faisabilité selon les critères économiques et EHS.[br/][br/][li] Intégration des aspects de sécurité.",
+      "Forme du contrôle":"Rédaction d'un rapport final et présentation orale du projet",
+      "Objectifs d'apprentissage":"Réalisation d'un projet d'une installation industrielle à partir d'un procédé de laboratoire d'un cas concret."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Process development project",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":6,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31089-0&amp;con_lng=FRE\" target=\"blank\">Process development : from the initial idea to the chemical production plant / G. Herbert Vogel</a>\". Année:2006. ISBN:978-3-527-31089-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31421-8&amp;con_lng=FRE\" target=\"blank\">Scale-up in chemical engineering / Marko Zlokarnik</a>\". Année:2006. ISBN:978-3-527-31421-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-492422-3&amp;con_lng=FRE\" target=\"blank\">Systematic methods of chemical process design / L. T. Biegler, I. E. Grossmann, and A. W. Westerberg</a>\". Année:1997. ISBN:0-13-492422-3</li></ul>",
+    "lecture":null
+  }
+}

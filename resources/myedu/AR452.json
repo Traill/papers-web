@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771854&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["AR","452"],
+    "title":"Architecture and construction of the city II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771854&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"AR",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105248",
+      "name":"Gilot Christian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[b]Structures and infrastructures[/b][br/][br/]« [i]Here and elsewhere[/i] » - this is the complementary question which will be the subject of a second series of lectures. How can the character of a place be determined by its relationship to scales that evoke «[i]otherness»[/i]? Railroads, embankments, and the multiplication of grounds will be taken as opportunities to analyze the structure of urban places and to identify modes of interventions concerned with local correspondences to the structures of our territories.[br/][br/]",
+      "Content":"This series of courses will consist of a theoretical introduction, a presentation of historical references and an analysis of recent projects.[br/][br/]The presence of the infrastructures will be introduced by the analysis of works by Hopper and Valéry.[br/][br/]The mode of analysis will be mainly drawing. The relevance of possible strategies will be discussed, with particular attention to the articulation between analysis and project.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Architecture and construction of the city II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105248",
+      "name":"Gilot Christian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Cette série de cours sera constituée d'une introduction théorique, d'une présentation de références historiques et d'une analyse de projets récents.[br/][br/]La présence des infrastructures sera introduite par l'analyse d'oeuvres de Hopper et de Valéry.[br/][br/]Le mode d'analyse sera principalement le dessin. La pertinence et les différentes stratégies possibles seront présentées et discutées, notamment dans l'articulation entre l'analyse et le projet.[br/][br/][br/]",
+      "Forme du contrôle":"1. Présentation critique d'un dessin d'architecte permettant de mesurer l'articulation de différentes échelles.[br/][br/]2. Réalisation de dessins personnels documentant l'articulation des échelles, dans la description d'un lieu et ses relations au territoire. Examen sous forme de jury lors d'une présentation des travaux à l'ensemble des étudiants.[br/]",
+      "Prérequis":"Le fait d'avoir suivi le cours Architecture et construction de la ville I est souhaitable mais pas indispensable.",
+      "Objectifs d'apprentissage":"[b]Structures et infrastructures [/b][br/][br/][i]Ici et ailleurs [/i] - voilà la question complémentaire qui fera l'objet d'une seconde série de cours. Il s'agira ici d'étudier les manières par lesquelles un lieu se caractérise par des relations à une échelle [i]autre[/i]. Nous prendrons les chemins de fer, les quais, la multiplication des sols comme autant de thèmes pour analyser la structure des lieux urbains et identifier des modes d'interventions locales soucieuses de leurs échos aux structures du territoire.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Architecture et construction de la ville II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

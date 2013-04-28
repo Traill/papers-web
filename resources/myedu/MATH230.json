@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775637&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","230"],
+    "title":"Probability",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775637&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104859",
+      "name":"Dalang Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Exercises to hand in each week and written exams",
+      "Prerequisite for":"Bachelor and Master-level courses in Probability and statistics",
+      "Required prior knowledge":"Notions of differential and integral calculus and of linear algebra",
+      "Content":"[b]1.\tAxioms of probability theory[/b][br/]Outcome set and events. Axioms for calculating probabilities.[br/][b]2.\tCombinatorics[/b][br/]Equiprobability. Basic formulas. Generating functions.[br/][b]3.\tConditional probability and independence[/b][br/]Bayes: formula. Independence.[br/][b]4.\tRandom variables (RV)[/b][br/]Definition. Distribution function. Discrete RVs. Main discrete distributions. Distribution of a function of a RV. Expectation and variance of a RV.[br/][b]5.\tContinuous random variables[/b][br/]Uniform and Gaussian RVs. Other continuous distributions.[br/][b]6.\tMoments[/b][br/]Moments of univariate and bivariate RVs. Moment generating function.[br/][b]7.\tRandom vectors[/b][br/]Definition. Independence of RVs. Sums of independent RVs. Correlation. Multivariate Normal distribution. Marginal distribution. Conditional distributions. Conditional expectation.[br/][b]8.\tLimit theorems[/b][br/] Law of large numbers. Central limit theorem. Inequalities. Convergences.",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Learning outcomes":"Provide students with the basic notions of probability theory. By the end of the course, students should be capable of modelling random phenomena and of using probability theory to study such models."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probability",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-738-1&amp;con_lng=ENG\" target=\"blank\">Initiation aux probabilités / Sheldon M. Ross</a>\". Year:2007. ISBN:978-2-88074-738-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-794-7&amp;con_lng=ENG\" target=\"blank\">Introduction à la théorie des probabilités / Robert C. Dalang et Daniel Conus</a>\". Year:2008. ISBN:978-2-88074-794-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104859",
+      "name":"Dalang Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Notions de calcul différentiel et intégral et d'algèbre linéaire",
+      "Bibliographie et matériel":"Introduction à la théorie des probabilités, R. Dalang et D. Conus. Presses Polytechniques et Universitaires Romandes (2008).[br/]Initiation aux probabilités, S.M. Ross. Presses Polytechniques et Universitaires Romandes (2008).",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe",
+      "Contenu":"[b]1. Axiomes des probabilités[/b][br/]Evénements et ensembles fondamental. Axiomes du calcul des probabilités.[br/][b]2. Analyse combinatoire[/b][br/]Equiprobabilité. Formules. Fonctions génératrices.[br/][b]3. Probabilité conditionnelle et indépendance[/b][br/]Formule de Bayes. Indépendance.[br/][b]4. Variables aléatoires (VA)[/b][br/]Définition. Fonction de distribution. VA discrètes. Principales lois de VA discrètes. Fonction de distribution d'une VA transformée. Espérance et variance d'une VA.[br/][b]5. Variables aléatoires continues[/b][br/]VA uniformes. VA normales. Autres lois continues.[br/][b]6. Moments[/b][br/]Moments des VA univariées et bivariées. Fonction génératrice des moments.[br/][b]7. Vecteurs aléatoires[/b][br/]Définition. Indépendance. Somme de VA indépendantes. Corrélation. Loi multinormale. Lois marginales. Lois conditionnelles. Espérance conditionnelle.[br/][b]8. Théorèmes limites[/b][br/]Lois des grands nombres. Théorème limite central. Inégalités. Convergences.",
+      "Forme du contrôle":"Exercices à rendre chaque semaine et examens écrits",
+      "Préparation pour":"Cours de Bachelor et Master en Probabilités et statistique",
+      "Objectifs d'apprentissage":"Initier les étudiants au calcul des probabilités. Au terme du cours, les étudiants devraient être capables de modéliser des phénomènes aléatoires et d'utiliser la théorie des probabilités pour étudier ces modèles."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilités",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-738-1&amp;con_lng=FRE\" target=\"blank\">Initiation aux probabilités / Sheldon M. Ross</a>\". Année:2007. ISBN:978-2-88074-738-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-794-7&amp;con_lng=FRE\" target=\"blank\">Introduction à la théorie des probabilités / Robert C. Dalang et Daniel Conus</a>\". Année:2008. ISBN:978-2-88074-794-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

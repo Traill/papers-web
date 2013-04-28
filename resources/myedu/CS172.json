@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80956652&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","172"],
+    "title":"Logic systems II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80956652&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://rdsg.epfl.ch/page-54168-en.html","http://rdsg.epfl.ch/page-54168-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106339",
+      "name":"Sanchez Eduardo"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Final exam 100%",
+      "Bibliography and material":"Cours polycopié[br/]J. Wakerly, Digital design, Prentice Hall, 2005",
+      "Prerequisite for":"Architecture des ordinateurs",
+      "Content":" 7. \tSynchronous and asynchronous counters.[br/]  8. \tMemories.[br/]  9. \tComplex programmable devices (FPGA)[br/]10.\tProcessor structure: control unit and datapath unit.[br/]11.\tThe VHDL language.[br/][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"The goal is to familiarize the student with logic and digital hardware components of computing systems: gates, flip-flops, registers, counters, arithmetic circuits, programmable circuits (CPLD, FPGA). To teach the student how to represent combinational and sequential systems: Boolean algebra, truth tables, state graphs. To teach the methods of synthesis and simplification of combinational and sequential systems. To know the basic structure of a processor and to study the modern methods of synthesis, with the assistance of high-level languages such as VHDL. Finally, to study the binary number notation and the binary arithmetic operations.[br/][br/][br/][br/]"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Logic systems II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-186389-4&amp;con_lng=ENG\" target=\"blank\">Digital design : principles and practices / John F. Wakerly</a>\". Year:2006. ISBN:0-13-186389-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://rdsg.epfl.ch/page-54168-en.html","http://rdsg.epfl.ch/page-54168-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106339",
+      "name":"Sanchez Eduardo"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Cours polycopié[br/]J. Wakerly, Digital design, Prentice Hall, 2005",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":" 7.\tCompteurs synchrones et asynchrones.[br/] 8.\tLes mémoires.[br/] 9.\tCircuits programmables complexes (FPGA).[br/]10.\tStructure d'un processeur : unité de contrôle et unité de traitement.[br/]11.\tLe langage VHDL[br/]",
+      "Forme du contrôle":"Examen final 100%",
+      "Préparation pour":"Architecture des ordinateurs",
+      "Objectifs d'apprentissage":"Le but est de familiariser l'étudiant avec les composants matériels logiques et numériques des systèmes de traitement de l'information: portes, verrous, bascules, registres, compteurs, circuits arithmétiques, circuits programmables (CPLD, FPGA). De lui enseigner l'usage des modes de représentation des systèmes combinatoires et séquentiels: algèbre de Boole, tables de vérité, diagrammes de décision binaire, tables d'états, graphes des états. De lui apprendre des méthodes de synthèse et de simplification des systèmes combinatoires et séquentiels. De connaître la structure de base d'un processeur et d'étudier les méthodes modernes de synthèse, à l'aide notamment des langages tels que VHDL. D'étudier enfin la représentation binaire des nombres et les opérations arithmétiques binaires."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Systèmes logiques II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-186389-4&amp;con_lng=FRE\" target=\"blank\">Digital design : principles and practices / John F. Wakerly</a>\". Année:2006. ISBN:0-13-186389-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

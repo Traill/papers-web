@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47865578&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","198"],
+    "title":"Information technology project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47865578&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[["http://cowww.epfl.ch","http://cowww.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106085",
+      "name":"Petitpierre Claude"
+    },{
+      "url":"http://people.epfl.ch/103610",
+      "name":"Schinz Michel"
+    },{
+      "url":"http://people.epfl.ch/124369",
+      "name":"Urbanke Rüdiger"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"In this project, students apply theoretical knowledge from the following three related courses to a practical problem: Sciences de l'information, Introduction à la programmation objet and Théorie et pratique de la programmation. These courses are taken in parallel with or prior to the project. [br/][br/]Students experience independent development of a fairly large program. They get hands-on practice with modelling, programming and debugging. They review and consolidate the theoretical material of the related courses. They experience close collaboration with another person and acquire presentation and documentation skills. ",
+      "Content":"The project is divided into a number of development steps that reflect different parts of the system to be constructed. The student implements one step after the other and gradually constructs a completely working system. [br/][br/]In the beginning of the project, techniques learnt in Introduction à la programmation objet are typically used to provide a practical implementation of a problem related to material learnt in Sciences de l'information, for example how to transfer a multimedia document over a channel that loses some information[br/][br/][br/]Later in the project, the implementation is typically extended to a larger system using techniques learnt in the first part of Théorie et pratique de la programmation, for example by introducing a graphical interface, handling user mistakes through exceptions, etc.[br/][br/][br/]Students work in pairs. At regular intervals during the project, they have a milestone meeting with a teacher and present the current state of their project. At the end of the project, there is an individual written test covering all aspects of the project. ",
+      "Type of teaching":"Ex cathedra, project and presentation of the students",
+      "Bibliography and material":"[i]Absolute Java[/i], 2nd edition, Walter Savitch, 2006, Pearson Education, ISBN 0-321-31252-8[br/]Notes de cours des trois cours suivants: Sciences de l'information, Introduction à la programmation objet et Théorie et pratique de la programmation",
+      "Required prior knowledge":"Sciences de l'information; Introduction à la programmation objet;[br/]Théorie et pratique de la programmation (to be attented at the same time as the project)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Information technology project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":6,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-136589-6&amp;con_lng=ENG\" target=\"blank\">Absolute Java / Walter Savitch ; contrib.: Kenrick Mock</a>\". Year:2010. ISBN:978-0-13-136589-6</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[["http://cowww.epfl.ch","http://cowww.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106085",
+      "name":"Petitpierre Claude"
+    },{
+      "url":"http://people.epfl.ch/103610",
+      "name":"Schinz Michel"
+    },{
+      "url":"http://people.epfl.ch/124369",
+      "name":"Urbanke Rüdiger"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, projet et présentations des étudiants",
+      "Contenu":"Le projet est divisé en plusieurs étapes de développement qui représentent les différentes parties du système à construire. Les étudiants implémentent une étape après l'autre et arrivent au fur et à mesure à un système complet.[br/][br/]Au début du projet, les étudiants réalisent typiquement l'implémentation d'un problème théorique relié au cours Sciences de l'information en appliquant les techniques enseignées dans le cours Introduction à la programmation objet. Par exemple, comment transférer un document multimédia à travers un canal qui perd une partie de l'information.[br/][br/]Plus tard dans le projet, l'implémentation est typiquement étendue à un plus grand système, en utilisant ce qui a été enseigné dans la première partie du cours Théorie et pratique de la programmation. Par exemple, en ajoutant une interface graphique, en utilisant des exceptions pour gérer les erreurs commises par l'utilisateur, etc.[br/][br/]Les étudiants travaillent en binôme. Régulièrement pendant le projet ils rencontrent un professeur afin de lui présenter  l'avancement du projet. A la fin du projet, il y a un test écrit individuel couvrant tous les aspects du projet.",
+      "Prérequis":"Sciences de l'information; Introduction à la programmation objet;[br/]Théorie et pratique de la programmation (à suivre en parallel avec le projet)",
+      "Bibliographie et matériel":"[i]Absolute Java[/i], 2nd edition, Walter Savitch, 2006, Pearson Education, ISBN 0-321-31252-8[br/]Notes de cours des trois cours suivants: Sciences de l'information, Introduction à la programmation objet et Théorie et pratique de la programmation",
+      "Objectifs d'apprentissage":"Le but de ce projet est de permettre à l'étudiant d'appliquer les connaissances théoriques étudiées dans le cadre des trois cours suivants : Sciences de l'information, Introduction à la programmation objet and Théorie et pratique de la programmation. Ces cours sont suivis antérieurement ou parallèlement au projet. [br/][br/]Les étudiants apprennent à modéliser, développer et debugger un programme relativement large. Ils revoient et consolident la matière théorique enseignée dans le cadre des trois cours ci-dessus. Ils apprennent à étroitement collaborer avec un partenaire et acquièrent de l'expérience pour présenter leur travail."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de technologie de l'information",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":6,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-136589-6&amp;con_lng=FRE\" target=\"blank\">Absolute Java / Walter Savitch ; contrib.: Kenrick Mock</a>\". Année:2010. ISBN:978-0-13-136589-6</li></ul>",
+    "lecture":null
+  }
+}

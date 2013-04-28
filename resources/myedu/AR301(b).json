@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71470103&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","301(b)"],
+    "title":"Studio BA5 (Graf F.)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71470103&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161950",
+      "name":"Graf Franz"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Outcome[br/][br/]The workshop builds and develops student knowledge of the techniques and preservation of modern and contemporary architecture. This knowledge is multidisciplinary, calling on historical study as well as material techniques, execution of work, and economic and environmental data. It also involves the exercise of specific project and planning strategies such as maintenance, conservation, restoration, refurbishment, remodeling, re-use and extension, combining both theoretical knowledge and technical skills.[br/][br/][li]Understanding the issues (architectural, historical, political, economic and environmental) relevant to preservation today.[br/][li]Observing the built object and acquiring an individual grasp, intellectual as well as perceptual, of that object as a representative example of modern and contemporary architecture.[br/][li]Representing, using graphical means, the performance characteristics (in terms of construction, energy use, layout) of the object based on in situ analysis[br/][li]Organizing the documentation of the object collectively based on physical survey.[br/][li]Identifying pathologies affecting the object and proposing suitable remedies.[br/][li]Using the knowledge acquired (historical, architectural and material) of the object to develop a conservation project.[br/][li]Managing the project design and developing it by working at a range of relevant scales.[br/][li]Conceiving and drawing a constructional detail appropriate to the project and the building's material identity.[br/][li]Articulating and defending one's project design orally and in writing.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Studio BA5 (Graf F.)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-960-6&amp;con_lng=ENG\" target=\"blank\">Architecture industrialisée et préfabriquée: connaissance et sauvegarde</a>\". Year:2012. ISBN:978-2-88074-960-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161950",
+      "name":"Graf Franz"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, enseignement délocalisé, travail à la table, critiques magistrales.",
+      "Mots clés":"Sauvegarde, architecture moderne et contemporaine, matérialité et construction.",
+      "Forme du contrôle":"50 % démarche : travail hebdomadaire à la table et critiques intermédiaires,[br/]30 % critiques de fin de semestre,[br/]20 % pour la communication : représentation, présentation orales, documents écrits, maquettes.[br/]",
+      "Bibliographie et matériel":"Cf. http://tsam.epfl.ch/ ",
+      "Objectifs d'apprentissage":"L'atelier produit et développe la connaissance des techniques et de la sauvegarde de l'architecture moderne et contemporaine. Cette connaissance est multidisciplinaire et sollicite aussi bien la réflexion historique que les techniques des matériaux et de leur mise en oeuvre ou les données économiques et environnementales. Elle implique aussi l'exercice des stratégies spécifiques de projet (entretien, conservation, restauration, réhabilitation, restructuration, réaffectation et extension) alliant savoir théorique et savoir-faire technique.[br/][br/][li]Comprendre les enjeux (architecturaux, historiques, politiques, économiques et environnementaux) de la sauvegarde aujourd'hui.[br/][li]Observer et acquérir une connaissance personnelle (intellectuelle et sensuelle) de l'objet d'étude, un bâtiment représentatif de l'architecture moderne et contemporaine.[br/][li]Représenter graphiquement le fonctionnement (constructif, énergétique et distributif) de l'objet d'étude à partir de son analyse in situ.[br/][li]Organiser collectivement la documentation de l'objet d'étude à partir de son relevé.[br/][li]Identifier les pathologies de l'objet d'étude et proposer les remèdes adéquats.[br/][li]Utiliser les connaissances (historiques, architecturales et matérielles) acquises sur l'objet d'étude dans le projet de sauvegarde.[br/][li]Gérer le processus de projet et le développer à travers l'utilisation d'échelles différentes et pertinentes.[br/][li]Concevoir et dessiner un détail constructif approprié au projet et à sa matérialité.[br/][li]Enoncer et défendre son projet par l'oral et l'écrit.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie et critique du projet BA5 (Graf F.)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-960-6&amp;con_lng=FRE\" target=\"blank\">Architecture industrialisée et préfabriquée: connaissance et sauvegarde</a>\". Année:2012. ISBN:978-2-88074-960-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128851969&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","427"],
+    "title":"Relativity and cosmology I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128851969&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-60689.html","http://itp.epfl.ch/page-60689.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126010",
+      "name":"Chapochnikov Mikhail"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Prerequisite for: Cosmology, Advanced astronomiy",
+      "Form of examination":"final exam 100%",
+      "Required prior knowledge":"Mathematical physics",
+      "Content":"[b]Special Relativity:[/b][br/]Lorentz transformation. Energy-momentum tensor.[br/][br/][b]General relativity:[/b][br/]Equivalence principle.[br/]Tensor analysis and physics in curved space-time.[br/]Einstein's equation.[br/]Schwarzschild solution.[br/]Classical tests of Einstein's theory.[br/]",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"Introduce the students to general relativity and its classical tests.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Relativity and cosmology I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-92567-5&amp;con_lng=ENG\" target=\"blank\">Gravitation and cosmology : principles and applications of the general theory of relativity / Steven Weinberg</a>\". Year:1972. ISBN:0-471-92567-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-2768-9&amp;con_lng=ENG\" target=\"blank\">The classical theory of fields / L. D. Landau and E. M. Lifshitz</a>\". Year:2005. ISBN:0-7506-2768-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-60689.html","http://itp.epfl.ch/page-60689.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126010",
+      "name":"Chapochnikov Mikhail"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Préparation pour : Cosmologie, Astronomie avancée",
+      "Prérequis":"Physique mathématique",
+      "Bibliographie et matériel":"1. L. Landau, Lifshitz, \"The classical theory of fields\"[br/]2. S. Weinberg, \"Gravitation and Cosmology\"[br/]3. C. Mizner, K.S. Thorne, J.A. Wheeler, \"Gravitation\"",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"[b]Relativité restreinte :[/b][br/]Transformation de Lorentz. Tenseur d'impulsion-énergie.[br/][br/][b]Relativité générale :[/b][br/]Principe d'équivalence.[br/]Analyse tensorielle et physique dans un espace-temps courbe.[br/]Equation d'Einstein et solution de Schwarzschild.[br/]Tests classiques de la théorie d'Einstein.[br/][br/] [br/]",
+      "Forme du contrôle":"examen final 100%",
+      "Objectifs d'apprentissage":"Exposer la théorie de la relativité générale d'Einstein et ses tests principaux."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Relativity and cosmology I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-92567-5&amp;con_lng=FRE\" target=\"blank\">Gravitation and cosmology : principles and applications of the general theory of relativity / Steven Weinberg</a>\". Année:1972. ISBN:0-471-92567-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-2768-9&amp;con_lng=FRE\" target=\"blank\">The classical theory of fields / L. D. Landau and E. M. Lifshitz</a>\". Année:2005. ISBN:0-7506-2768-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

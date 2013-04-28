@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47995206&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","471"],
+    "title":"Cancer Biology I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47995206&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__","http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168579",
+      "name":"Constam Daniel"
+    },{
+      "url":"http://people.epfl.ch/168670",
+      "name":"Lingner Joachim"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control",
+      "Prerequisite for":"Master in life sciences & technology, specialization in molecular[br/]medicine.",
+      "Required prior knowledge":"Basic knowledge of molecular biology and genetics.",
+      "Content":"The 2x5 credit course starts in the fall semester and continues throughout the spring semester. In the fall semester, the following topics are covered:[br/][br/]1. Tumorigenesis (chemical & physical carcinogenesis, infectious disease and cancer, cancer susceptibility/heredity, tumor clonality).[br/]2. Oncogenic signaling (the cell cycle, genome stability, replicative[br/]potential, epigenetic regulation of gene expression, apoptosis, signal[br/]transduction, intercellular communication).",
+      "Type of teaching":"Ex cathedra and exercices",
+      "Learning outcomes":"Introduction to the basic cellular processes that underlie the initiation and progression of cancer."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cancer Biology I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8153-4078-8&amp;con_lng=ENG\" target=\"blank\">The biology of cancer / Robert A. Weinberg</a>\". Year:2007. ISBN:0-8153-4078-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__","http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168579",
+      "name":"Constam Daniel"
+    },{
+      "url":"http://people.epfl.ch/168670",
+      "name":"Lingner Joachim"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Joachim Lingner will teach: 7 weeks (with 2 hours contributed by Viesturs Simanis)[br/]Daniel Constam will teach: 3.5 weeks[br/]Peter Beard will teach: 3.5 weeks",
+      "Prérequis":"Connaissances de bases en biologie moléculaire et génétique.",
+      "Bibliographie et matériel":"Robert A. Weinberg: The Biology of Cancer, 2006, Garland Science, Taylor & Francis Group, LLC",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"Ce cours de 2x5 credits commence au semestre d'automne et continue au semestre de printemps. Au semester d'automne, il couvre les thèmes spécifiques suivants:[br/][br/]1. Tumorigenèse (carcinogénèse chimique et physique, maladies[br/]infectieuses et cancer, susceptibilité au cancer et hérédité, clonalité[br/]tumorale).[br/]2. Signalisation oncogénique (cycle cellulaire, stabilité génomique,[br/]potentiel de réplication, régulation épigénétique de l'expression des[br/]gènes, apoptose, transduction du signal, communication[br/]intercellulaire).",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Master en Sciences & Technologies du Vivant, spécialisation en médecine moléculaire",
+      "Objectifs d'apprentissage":"Introduction aux processus cellulaires fondamentaux d'initiation et de progression des cancers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cancer Biology I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8153-4078-8&amp;con_lng=FRE\" target=\"blank\">The biology of cancer / Robert A. Weinberg</a>\". Année:2007. ISBN:0-8153-4078-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

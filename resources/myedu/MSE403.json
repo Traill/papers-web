@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24429568&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","403"],
+    "title":"Materials Science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24429568&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-B",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/186314",
+      "name":"Klok-Lermann Eva"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction of the basic concepts of materials science, to prepare students for further studies in biomaterials and materials-based biotechnologies. Basic concepts of materials in general will be introduced, followed by deeper studies in metallic and nonmetallic inorganic materials and in polymers.[br/]",
+      "Content":"1. Atomic structure and bonding in solids[br/]2. Metals and their alloys and ceramics [br/]- Structures and derived properties[br/]- Characterization[br/]- Phase diagrams[br/]- Defects in solids and resulting properties[br/]- Fabrication and processing[br/]3. Polymers[br/]- Macromolecular dispersity and characteristics[br/]- Basic polymerization mechanisms[br/]- Structures in dilute solution and solid state                                      [br/]- Characterization[br/]4. Mechanical properties of polymers, metals and alloys, ceramics[br/]5. Wetting and adhesion on surfaces[br/][br/]",
+      "Type of teaching":"Lectures with exercises",
+      "Prerequisite for":"Chimie biologique I,II[br/]Biological chemistry III",
+      "Required prior knowledge":"Organic Chemistry, bio-oriented Chemistry"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Materials Science",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/186314",
+      "name":"Klok-Lermann Eva"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Chimie organique, chimie bio-orientée",
+      "Bibliographie et matériel":"polycopié[br/] - W.D. Callister Jr., D.G. Rethwisch, Fundamentals of Materials Science and Engineering, third edition, John Wiley & Sons.[br/]- G. Odian, Principles of Polymerization, 4th edition, Wiley-Interscience 2004.[br/]- P.C. Hiemeny, T.P. Lodge, Polymer Chemistry, 2nd edition, CRC Press 2007.[br/]",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"1. Structure atomique et liaisons dans les matériaux solides[br/]2. Métaux et alliages, céramiques[br/]- structure et propriétés dérivées[br/]- caractérisation[br/]- diagrammes des phases[br/]- défaut dans les solides et propriétés résultantes [br/]- fabrication et mise en ½uvre [br/]3. Les polymères[br/]- dispersion macromoléculaire et caractéristiques[br/]- mécanismes fondamentaux de la polymérisation[br/]- structures dans des solutions diluées à l'état solide[br/]- caractérisation[br/]4. Propriétés mécaniques des métaux, alliages, céramiques et des polymères[br/]5. Mouillage et adhésion sur une surface [br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Chimie biologique I,II[br/]Biological chemistry III",
+      "Objectifs d'apprentissage":"Introduction des concepts fondamentaux de la science des matériaux afin d'acquérir une base dans les domaines biomatériaux et biotechnologie des matériaux. Etude plus approfondie des matériaux métalliques et non-métalliques inorganiques et des polymères.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Materials Science",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354986614&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","466"],
+    "title":"Project in genomics and bioinformatics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354986614&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113607",
+      "name":"Bucher Philipp"
+    },{
+      "url":"http://people.epfl.ch/217758",
+      "name":"Jensen Jeffrey David"
+    },{
+      "url":"http://people.epfl.ch/182519",
+      "name":"Rougemont Jacques"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in genomics and bioinformatics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113607",
+      "name":"Bucher Philipp"
+    },{
+      "url":"http://people.epfl.ch/217758",
+      "name":"Jensen Jeffrey David"
+    },{
+      "url":"http://people.epfl.ch/182519",
+      "name":"Rougemont Jacques"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Genomics and bioinformatics",
+      "Bibliographie et matériel":"Perl, Matlab, R",
+      "Forme d'enseignement":"Oral presentations, project.",
+      "Contenu":"Each project is introduced by the corresponding professor. The work involves data manipulations and computational modeling that are typically done in Perl and Shell scripting as well as programs such as Matlab or R. Two progress reports (typically in weeks 5 and 10) are given as oral presentations to the rest of the class as well as two oral presentation of research articles in the corresponding areas (typically weeks 3 and 7). The rest of the time is spent on the projects, both together with the supervisor and independently.",
+      "Forme du contrôle":"The course is evaluated based on oral presentations in the Journal Club sessions, and on the final oral presentation of the project (presentation slides have to be turned in).",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"This course provides hands-on experience on bioinformatics and computational analyses of functional genomic data and is meant to be the continuation of the Genomics and Bioinformatics fall course. The course proposes a choice of projects by the bioinformatics professors in the SV faculty. These projects are typically based on publicly available datasets from recent publications, e.g. in the areas of next generation DNA sequencing. The goal is to reproduce and extend some of the findings in those papers, and also to develop a critical overview of the corresponding research area. The latter is implemented in the form of 2-3 oral paper presentations (Journal Club) by each student."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in genomics and bioinformatics",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

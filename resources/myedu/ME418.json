@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824162218&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","418"],
+    "title":"Integrated mechanical design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824162218&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103651",
+      "name":"Schorderet Alain"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Group presentation of the project's pre-study, written report of the project. An oral exam will concern the theory and its application to industrial cases, as well as on the project.",
+      "Bibliography and material":"All the material can be downloaded from the moodle website (http://moodle.epfl.ch/course/view.php?id=7441).[br/]G. Spinnler, Conception des machines: Principes et applications (Volume 1-4) PPUR; F. Pruvot, Conception et calcul des machines-outils (Volumes 1-3), PPUR",
+      "Required prior knowledge":"[li]Master experimental and numerical analysis tools, CP2[br/][li]List the functions of an existing or new product based on the specifications, CP4 (Conception mécanique)[br/][li]Choose material and the relative treatments based on its use, performance and compatibility with the manufacturing process of the final product, CP13 (Méthodes et procédés de fabrication)[br/][li]Identify the class, the constitutive elements and the performances of a machine or a mechanical system, CP15 (Conception mécanique, Systèmes mécaniques)[br/][li]Effets dynamiques en conception/Méthodes de conception II, Mécanique vibratoire, Heat and mass transfer, Modélisation et simulation par éléments finis",
+      "Content":"Integrated mechanical design method : priorization of design themes (kinematics, statics, dynamics, thermics, fatigue, mechatronics, multi-physics...). Design criteria in the following themes : modal dynamics, thermo-mechanics, fatigue, mechatronics. Solutions optimization under these criteria. Technological elements : rolling elements bearings, contactless bearings, flexible guidings. Examples : sports technical components, medical devices, vehicles, devices for ultrasonic micro-machining and assistance, very high speed spindles, sensors. Industrial case studies in these fields. Industrial type mini-project.",
+      "Keywords":"Mechanical design, modal dynamics, thermomechanics, fatigue.",
+      "Type of teaching":"The course is organised as theoretical sessions including industrial cases presentations, test cases as individual exercises, and the resolution of a real case study to be realised in a team project.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]Analyse/listen to the customer requests and define the specifications, CP3[br/][li]Choose the main solutions and identify the respective components to fulfil one function, taking into account the performance, technology and price constraints, CP5[br/][li]Choose the models and analysis criterions following the specifications, CP7[br/][li]Design a system based on the specifications utilizing suitable tools, CP14[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7[br/][li]Organize activities prioritizing the objectives, T10[br/][li]Document and communicate a project, T12[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Integrated mechanical design",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-301-X&amp;con_lng=ENG\" target=\"blank\">Conception des machines : principes et applications / Georges Spinnler</a>\". Year:2002. ISBN:2-88074-301-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-248-X&amp;con_lng=ENG\" target=\"blank\">Conception et calcul des machines-outils / François Pruvot</a>\". Year:1990. ISBN:2-88074-248-X</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103651",
+      "name":"Schorderet Alain"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser les outils d'analyse numériques et expérimentaux, CP2[br/][li]Rédiger à partir d'un cahier des charges la liste des fonctions d'un produit existant ou à concevoir, CP4 (Conception mécanique)[br/][li]Choisir un matériau et les traitements en fonction de son usage, de sa performance et son adéquation au mode de fabrication du produit final, CP13 (Méthodes et procédés de fabrication)[br/][li]Identifier le type, les éléments constitutifs et les performances d'une machine ou..., CP15 (Conception mécanique, Systèmes mécaniques)[br/][li]Effets dynamiques en conception/Méthodes de conception II, Mécanique vibratoire, Heat and mass transfer, Modélisation et simulation par éléments finis",
+      "Bibliographie et matériel":"Le matériel de référence peut être téléchargé depuis le site moodle (http://moodle.epfl.ch/course/view.php?id=7441). G. Spinnler, Conception des machines: Principes et applications (Volume 1-4) PPUR; F. Pruvot, Conception et calcul des machines-outils (Volumes 1-3), PPUR",
+      "Mots clés":"Conception mécanique, dyn. modale, thermoméc., fatigue.",
+      "Forme d'enseignement":"Le cours est organisé en sessions théoriques et comprend la présentation d'exemples industriels, des exercices indépendants sous forme d'études de cas, ainsi que la réalisation d'une étude dans le cadre d'un projet de groupe.",
+      "Contenu":"Méthode de conception mécanique intégrée : prise en compte priorisée des thèmes de conception (statique, dynamique, fatigue, multi-physique...). Critères de conception dans les thèmes de : dynamique modale, thermo-mécanique, fatigue, mécatronique. Optimisation des solutions selon ces critères. Eléments de technologie : paliers à corps roulants et sans contacts, guidages flexibles. Exemples d'analyse : composants techniques pour le sport, appareils médicaux, véhicules, appareils pour procédés et assistance de micro-usinage ultrasonores, broches à très hautes vitesses, capteurs. Etudes de cas industriels. Mini-projet de type industriel.",
+      "Forme du contrôle":"Présentation de groupe de la pré-étude du projet, rapport écrit du projet. Examen oral sur la théorie et son application à des cas industriels, ainsi que sur le  projet.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (...), CP1[br/][li]Analyser/écouter la demande d'un client et rédiger le cahier des charges, CP3[br/][li]Choisir des solutions de principe et identifier les composants correspondants en termes de performances, de technologie et de coût permettant de réaliser une fonction du cahier des charges, CP5[br/][li]Choisir les modèles adéquats et définir des critères d'analyse à partir d'un cahier des charges, CP7[br/][li]Dimensionner un système selon un cahier des charges en utilisant les outils appropriés, CP14[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7[br/][li]Organiser ses activités en priorisant ses objectifs, T10[br/][li]Documenter et communiquer un projet, T12[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conception mécanique intégrée",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-301-X&amp;con_lng=FRE\" target=\"blank\">Conception des machines : principes et applications / Georges Spinnler</a>\". Année:2002. ISBN:2-88074-301-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-248-X&amp;con_lng=FRE\" target=\"blank\">Conception et calcul des machines-outils / François Pruvot</a>\". Année:1990. ISBN:2-88074-248-X</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

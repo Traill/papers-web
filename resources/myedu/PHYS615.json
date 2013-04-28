@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51956510&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","615"],
+    "title":"Electronic properties of solids and superconductivity",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51956510&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ipn2.epfl.ch/LSE/Grioni/Marctivity.html","http://ipn2.epfl.ch/LSE/Grioni/Marctivity.html  "],["http://ipmc.epfl.ch","http://ipmc.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105148",
+      "name":"Forró László"
+    },{
+      "url":"http://people.epfl.ch/107920",
+      "name":"Grioni Marco"
+    },{
+      "url":"http://people.epfl.ch/176429",
+      "name":"Rønnow Henrik"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To introduce students to important notions and techniques used in studies of electronic [br/]structure and transport propertiesof solids, and more specifically, of correlated electron [br/]materials, con-ventional and high-Tc superconductors.[br/]",
+      "Content":"Review of basic concepts. Bands, Fermi surface, density of states. The Fermi liquid. Quasiparti-cles. Strongly correlated systems. [br/]Examples. Spectroscopic techniques : photoemission, x-ray absorption, elastic and inelastic x-ray[br/]scattering (Magneto-)transport properties in normal metals and low dimensional correlated systems: (mag-neto-)resistivity, Hall effect, magnetic susceptibility, EPR, NMR, tunneling.[br/]Characteristic properties of superconductors: the London model; Ginzburg-Landau model. Re-sults of microscopic theory - the BCS model and extensions. High temperature superconductors and related compounds; different approaches to high-Tc superconductivity.[br/]",
+      "Keywords":"electronic structure, transport, insulators, metals, superconductors, correlated electron materials",
+      "Required prior knowledge":"Basic condensed matter physics, thermodynamics, electrodynamics and quantum physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electronic properties of solids and superconductivity",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ipn2.epfl.ch/LSE/Grioni/Marctivity.html","http://ipn2.epfl.ch/LSE/Grioni/Marctivity.html  "],["http://ipmc.epfl.ch","http://ipmc.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105148",
+      "name":"Forró László"
+    },{
+      "url":"http://people.epfl.ch/107920",
+      "name":"Grioni Marco"
+    },{
+      "url":"http://people.epfl.ch/176429",
+      "name":"Rønnow Henrik"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Review of basic concepts. Bands, Fermi surface, density of states. The Fermi liquid. Quasiparti-cles. Strongly correlated systems. Examples. Spectroscopic techniques : photoemission, x-ray absorption, elastic and inelastic x-ray scattering[br/](Magneto-)transport properties in normal metals and low dimensional correlated systems: (mag-neto-)resistivity, Hall effect, magnetic susceptibility, EPR, NMR, tunneling.[br/]Characteristic properties of superconductors:  the London model; Ginzburg-Landau model. Re-sults of microscopic theory - the BCS model and extensions.  High temperature superconductors and related compounds; different approaches to high-Tc superconductivity.",
+      "Mots clés":"electronic structure, transport, insulators, metals, superconductors, correlated electron materials",
+      "Prérequis":"Basic condensed matter physics, thermodynamics, electrodynamics and quantum physics",
+      "Objectifs d'apprentissage":"To introduce students to important notions and techniques used in studies of electronic structure and  transport properties of solids, and more specifically, of correlated electron materials, con-ventional and high-Tc superconductors. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electronic properties of solids and superconductivity",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

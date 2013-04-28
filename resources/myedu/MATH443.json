@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2229434&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","443"],
+    "title":"Statistics for genomic data analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2229434&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"MA",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151741",
+      "name":"Goldstein Darlène"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To understand and apply modern statistical methods to the analysis of genomic data.",
+      "Content":"Molecular biology and technology background[br/]Image analysis[br/]Local regression, two-color microarray normalization[br/]Hypothesis testing, anova, ROC curves[br/]Robust regression[br/]High-density oligo array signal quantification[br/]Identification of differentially expressed genes[br/]Experimental design issues for multi-color microarrays[br/]Linear models for designed experiments[br/]Resampling, bootstrap[br/]Multiple hypothesis testing[br/]Cluster analysis[br/]Machine learning methods for discrimination",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Required prior knowledge":"Elementary statistics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistics for genomic data analysis",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151741",
+      "name":"Goldstein Darlène"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe",
+      "Contenu":"Initiation à la biologie et aux technologies moléculaires [br/]Analyse d'image[br/]Régression locale, normalisation des puces à ADN [br/]Test d'hypothèse, anova, les courbes ROC[br/]Régression robuste[br/]Chiffrage du signal des puces à oligonucléotides[br/]Détection des gènes différentiellement exprimés [br/]Plans d'expériences[br/]Modèles linéaires[br/]Rééchantillonnage, bootstrap[br/]Test d'hypothèse multiple[br/]Analyse cluster[br/]Discrimination par apprentissage par machine",
+      "Prérequis":"Statistiques de base",
+      "Bibliographie et matériel":"Matériel pédagogique et exercices.",
+      "Objectifs d'apprentissage":"Compréhension et application des méthodes statistiques modernes à l'analyse de données génomiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistics for genomic data analysis",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

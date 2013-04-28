@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775462&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","207(b)"],
+    "title":"General physics IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775462&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107920",
+      "name":"Grioni Marco"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam. Optional test with bonus from 0.25 to 1 pt during the semester",
+      "Prerequisite for":"Electromagnetism II, advanced courses in electromagnetism, fluids mechanics, etc.",
+      "Required prior knowledge":"General Physics III; Analysis I, II",
+      "Content":"[b]1. The crisis of classical physics[/b][br/]- Particle-like behavior of light and wave-like behavior of matter[br/][br/][b]2. Quantum mechanics[/b][br/]- Introduction to the formalism[br/]- Selected applications[br/][br/][b]3. Atomic structure[/b][br/]- The hydrogen atom[br/]- The periodic table[br/][br/][b]4. Molecules and solids[/b][br/][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations, exercises in class",
+      "Learning outcomes":"The observation and quantitative description of some fundamental physical phenomena ; understanding the theoretical model and its applications to practical problems"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4875-7&amp;con_lng=ENG\" target=\"blank\">Physics for scientists and engineers : with modern, physics / John W. Jewett, Raymond A. Serway</a>\". Year:2010. ISBN:978-1-4390-4875-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107920",
+      "name":"Grioni Marco"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale III; Analyse I, II",
+      "Bibliographie et matériel":"Notes polycopiées[br/]R.A. Serway and J.W. Jewett \"Physics for Scientists and Engineers with Modern Physics\"",
+      "Forme d'enseignement":"Ex cathedra avec expériences en salle, exercices en classe",
+      "Contenu":"[b]1. La crise de la physique classique[/b][br/]- Aspects corpusculaires de la lumière et comportement ondulatoire de la matière[br/][br/][b]2. Mécanique quantique[/b][br/]- Aperçu du formalisme[br/]- Quelques applications[br/][br/][b]3. Structure atomique[/b][br/]- L'atome d'hydrogène[br/]- Le tableau périodique[br/][br/][b]4. Molécules et solides[/b]",
+      "Forme du contrôle":"Examen écrit. Test facultatif avec bonus de 0.25 à 1 pt en cours de semestre",
+      "Préparation pour":"Électromagnétisme II, cours de spécialité en électromagnétisme, mécanique des fluides, etc.",
+      "Objectifs d'apprentissage":"L'observation et la description quantitative de phénomènes physiques fondamentaux ; la comphéhension du modèle théorique et son application aux problèmes pratiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4875-7&amp;con_lng=FRE\" target=\"blank\">Physics for scientists and engineers : with modern, physics / John W. Jewett, Raymond A. Serway</a>\". Année:2010. ISBN:978-1-4390-4875-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

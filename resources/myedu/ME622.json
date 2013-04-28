@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1644590633&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","622"],
+    "title":"Statistical Mechanics for Engineers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1644590633&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/211624",
+      "name":"Curtin William"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"PhD students will learn [br/](i) the fundamental basis and principles of Statistical Mechanics[br/](ii) its relationship to Thermodynamics[br/](iii) useful theorems and results[br/](iii) physics of thermo-mechanical properties of materials[br/](iv) basis of molecular simulation techniques[br/]",
+      "Content":"Underlying Principles of Statistical Mechanics[br/]     Review of Classical Dynamics        [br/]     Probability, Accessible States, and the meaning of Entropy[br/]     Connection to Thermodynamics and Thermodynamic Ensembles[br/]     Boltzmann distribution; Partition Function [br/]     Free Energy [br/]     Equipartition and Viral Theorems[br/]     Fluctuations and the Fluctuation-Dissipation Theorem[br/] [br/]Applications[br/]     Illustrative examples for non-interacting systems[br/]     Thermoelastic Properties of a Solids[br/]     Vibrations and Elastic Moduli [br/]     Heat Capacity [br/]     Phonons[br/]     Basics of the theory of Liquids[br/]     Molecular Dynamics simulations and Thermostats[br/]     Transition State Theory[br/]     Monte Carlo Simulations [br/]     Other topics per class interests[br/][br/]",
+      "Keywords":"Statistical Mechanics, Thermodynamics",
+      "Form of examination":"Topical Presentation",
+      "Required prior knowledge":"Classical Mechanics, Continuum Mechanics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical Mechanics for Engineers",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":39
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/211624",
+      "name":"Curtin William"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical Mechanics for Engineers",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":39
+    }
+  }
+}

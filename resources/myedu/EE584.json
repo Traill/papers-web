@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47244272&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","584"],
+    "title":"Spacecraft design and system engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47244272&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171149",
+      "name":"Richard Muriel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The main objective of the course is to introduce the concept of space system design and engineering. The course will describe the various subsystems involved in the design of a satellite. It will also describe the techniques of systems engineering that are used to obtain a coherent satellite design solution. And will include project engineering aspects such as requirements elaboration, verification planning, risk evaluation, reliability and QA.",
+      "Content":"[b]Introduction[/b][br/]Highlights of space mission organization and engineering. Mission objectives, science objectives, mission architectures.[br/][b]Conception and Design of spacecraft[/b][br/]General description of the space environment and survivability, and spacecraft subsystems including: science instruments, telecommunications, power management and distribution, command and data handling, thermal control, propulsion, structures and mechanisms, configuration, end-to-end information system, flight software.[br/][b]System Engineering Techniques[/b][br/]Presentation of the major system engineering techniques: functional analysis, block diagrams, design trade-offs, design budgets, interface management, tradable parameters.[br/][b]Introduction to Project Engineering[/b][br/]Other project considerations for a system engineer: requirements definition and tracking, spacecraft integration and test, mission operations, reliability and quality assurance, cost and risk management.[br/][b]Project Work[/b][br/]Small student groups will be assigned during the class to a mission (e.g. a geostationary telecom satellite, a Mars mission, a low-cost LEO satellite, an Earth observations satellite). They will have to design a satellite that will fit the mission objectives and project requirements. Project final presentation will be part of the final examination.[br/]",
+      "Type of teaching":"Ex cathedra with project",
+      "Form of examination":"Written",
+      "Required prior knowledge":"None"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Spacecraft design and system engineering",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-881883-10-8&amp;con_lng=ENG\" target=\"blank\">Space mission analysis and design / ed. by Wiley J. Larson ... [et al.]</a>\". Year:2005. ISBN:1-881883-10-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171149",
+      "name":"Richard Muriel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Aucun",
+      "Bibliographie et matériel":"Notes polycopiées et articles techniques en anglais.[br/]Livre conseillé : \"Space Mission analysis and Design\", by W. Larson and J. Wertz",
+      "Forme d'enseignement":"Ex cathedra avec projet",
+      "Contenu":"[b]Introduction[/b][br/]Introduction sur l'organisation des missions spatiales, des objectifs de la mission et des objectifs scientifiques. Introduction sur les types d'architectures des missions.[br/][b]Conception des satellites[/b][br/]Description générale de l'environnement spatial et des sous-systèmes des satellites : instrumentation scientifique, télécommunications, système de puissance, commandes et télémétries, control thermique, propulsion, système de transfert des données, logiciels de bord.[br/][b]Techniques d'Ingénierie Système[/b][br/]Présentation des techniques principales d'ingénierie système, incluant : analyse fonctionnelle, diagrammes, évaluation des possibilités de conception, récapitulatif des performances, gestion des interfaces, paramètres évolutifs.[br/][b]Introduction à l'ingénierie de projet[/b][br/]Présentation des autres considérations essentielles pour l'ingénieur système : définition des spécifications et suivi, intégration et tests des satellites, opérations, assurance qualité, gestion des coûts et des risques.[br/][b]Projet[/b][br/]Le cours sera mis en pratique avec un petit projet, fait en petits groupes. Des exemples de missions seront choisis (satellite géostationnaire, mission pour Mars, satellite d'observation...). Le groupe d'étudiant aura à concevoir un satellite qui satisfait les spécifications et objectifs de la mission. Présentation finale.",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"L'objectif principal du cours est de présenter les concepts généraux de conception et d'ingénierie système pour les satellites. Le cours commencera par un descriptif de tous les sous-systèmes des satellites. Il décrira aussi les techniques d'ingénierie système utilisées pour obtenir un système cohérent. Il conclura par une approche sur les aspects d'élaboration des spécifications, planning des tests, évaluation des risques, et assurance qualité."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Spacecraft design and system engineering",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-881883-10-8&amp;con_lng=FRE\" target=\"blank\">Space mission analysis and design / ed. by Wiley J. Larson ... [et al.]</a>\". Année:2005. ISBN:1-881883-10-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

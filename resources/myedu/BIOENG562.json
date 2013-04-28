@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47830400&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","562"],
+    "title":"Biomicroscopy II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47830400&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUR-COMP",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120900",
+      "name":"Lasser Theo"
+    },{
+      "url":"http://people.epfl.ch/113715",
+      "name":"Leutenegger Marcel"
+    },{
+      "url":"http://people.epfl.ch/190599",
+      "name":"Seitz Arne"
+    }],
+    "lab":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to advanced microscopy.",
+      "Content":"Lasers, confocal microscopy, high speed imaging, multi-photon,  lifetime, single molecule detection",
+      "Form of examination":"Continuous control, presentation of a mini project and exam."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomicroscopy II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-25921-5&amp;con_lng=ENG\" target=\"blank\">Handbook of Biological Confocal Microscopy</a>\". Year:2006. ISBN:978-0-387-25921-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46770-4&amp;con_lng=ENG\" target=\"blank\">Microscopy, immunohistochemistry, and antigen retrieval methods : for light and electron microscopy / M.A. Hayat</a>\". Year:2002. ISBN:0-306-46770-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-443-10279-0&amp;con_lng=ENG\" target=\"blank\">Theory and practice of histological techniques / ed. by John D. Bancroft ... [et al.]</a>\". Year:2008. ISBN:978-0-443-10279-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120900",
+      "name":"Lasser Theo"
+    },{
+      "url":"http://people.epfl.ch/113715",
+      "name":"Leutenegger Marcel"
+    },{
+      "url":"http://people.epfl.ch/190599",
+      "name":"Seitz Arne"
+    }],
+    "lab":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Biomicroscopy I",
+      "Bibliographie et matériel":"Hayat, M.A. Microscopy, Immunohistochemistry, and Antigen Retrieval Methods for Light and Electron Microscopy. Kluwer Academic / Plenum Publishers (2002).[br/][br/]Theory and Practice of histological techniques, ed. John D Bancroft, Marilyn Gamble, Churchill Livingstone).[br/][br/]Handbook of Biological Confocal Microscopy, Pawley, James (Ed.), 3rd ed., 2006, XXVIII, 988 p., 545 illus., 236 in colour, Hardcover.[br/]",
+      "Forme d'enseignement":"Cours et TP",
+      "Contenu":"Optique de Fourier pour analyse de contraste.[br/]Contraste de phase et microscopie.[br/]Détection moléculaire.[br/]Cohérence et tomographie.[br/]Superresolution.",
+      "Forme du contrôle":"Contrôle continu, présentation d'un mini-projet et examen écrit",
+      "Objectifs d'apprentissage":"Introduction à la microscopie avancée ."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomicroscopy II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-25921-5&amp;con_lng=FRE\" target=\"blank\">Handbook of Biological Confocal Microscopy</a>\". Année:2006. ISBN:978-0-387-25921-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46770-4&amp;con_lng=FRE\" target=\"blank\">Microscopy, immunohistochemistry, and antigen retrieval methods : for light and electron microscopy / M.A. Hayat</a>\". Année:2002. ISBN:0-306-46770-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-443-10279-0&amp;con_lng=FRE\" target=\"blank\">Theory and practice of histological techniques / ed. by John D. Bancroft ... [et al.]</a>\". Année:2008. ISBN:978-0-443-10279-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

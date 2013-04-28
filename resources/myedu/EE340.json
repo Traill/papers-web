@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499337666&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","340"],
+    "title":"Introduction to photonics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499337666&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106544",
+      "name":"Thévenaz Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Prerequisite for":"Master courses in photonics, semester projects.",
+      "Required prior knowledge":"Electromagnetics I and II[br/]",
+      "Content":"[b]Overview [/b]: Specificities of the electromagnetic wave in the optical domain: intensity, corpuscular aspect, detection. Introduction to the different light theories and their approximation level : ray optics, wave optics, electromagnetic optics and quantum optics.[br/][b]Ray optics [/b]: Postulates. Elementary optical elements. Calculation of optical systems in the paraxial approximation. [br/][b]Scalar wave optics[/b] : Application field of the scalar model. Monochromatic waves. Polychromatic light and interferences. Michelson, Mach-Zehnder and Sagnac interferometers. Transfer function of free space propagation. Description of real beams.[br/][b]Electromagnetic optics[/b] : Application field of the vector model. Electromagnetic theory of light. Polarisation and Jones calculus. Reflection and refraction.[br/][b]Guided-wave optics[/b] : Optical waveguides and fibres. Fabrication of planar optical circuits and optical fibres. Attenuation and dispersion. Coupling in waveguides.[br/][b]Optical resonators[/b] : Multiple Interferences. Anti-reflection coatings. Optical cavity and Fabry-Perot interferometer. Cavity with spherical mirrors. Fibre loop resonators.[br/][b]Light emission and detection[/b] : Modes of the field and photons. Emission and detection processes: interactions between photons and atoms. Einstein's A and B coefficients. Photodetectors. Lasers. Temporal and spatial coherence.[br/]",
+      "Type of teaching":"Ex cathedra, with integrated exercises",
+      "Learning outcomes":"Knowing the specificities of modern optics and photonics techniques, in particular the aspects related to the extremely high frequency of the wave and to light emission and detection based on the quantum nature of the field.[br/][br/]Acquiring fundamentals for understanding, designing and realizing optical systems. Selecting the application areas where photonics is more effective than systems operating at lower frequencies in the electromagnetic spectrum."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to photonics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106544",
+      "name":"Thévenaz Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Electromagnétisme I et II[br/]",
+      "Forme d'enseignement":"Ex cathedra, avec exercices intégrés[br/]",
+      "Contenu":"[b]Généralités[/b] : Spécificités de l'onde électromagnétique dans le domaine optique : intensité, aspect corpusculaire, détection. Introduction aux différentes descriptions de la lumière et à leur niveau d'approximation: optique géométrique, optique ondulatoire, optique électromagnétique et optique quantique.[br/][b]Optique géométrique[/b] : Postulats. Composants optiques élémentaires. Calcul de systèmes optiques dans l'approximation paraxiale.[br/][b]Optique ondulatoire scalaire [/b]: Domaine d'application du modèle scalaire. Ondes monochromatiques. Lumière polychromatique et interférences. Interféromètres de Michelson, de Mach-Zehnder et de Sagnac. Fonction de transfert de la propagation libre. Description de faisceaux réels.[br/][b]Optique électromagnétique [/b]: Domaine d'application du modèle vectoriel. Théorie électromagnétique de la lumière. Polarisation et formalisme de Jones. Réflexion et réfraction.[br/][b]Optique guidée[/b] : Guides d'onde et fibres optiques. Réalisations de circuits optiques planaires et méthodes de fabrication de fibres optiques. Atténuation et dispersion. Couplage entre guides d'onde.[br/][b]Résonateurs optiques[/b] : Interférences multiples. Couches anti-réflexion. Cavité optique et interféromètre Fabry-Perot. Cavités à miroirs sphériques. Résonateurs à fibre en boucle.[br/][b]Emission et détection de la lumière[/b] : Modes du champ et photons. Processus d'émission et de détection: interactions entre photons et atomes. Coefficients A et B d'Einstein. Photodétecteurs. Lasers. Cohérence temporelle et spatiale.",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Cours master en photonique, projets de  semestre.",
+      "Objectifs d'apprentissage":"Connaître les spécificités des techniques relevant de l'optique moderne et de la photonique, en particulier les aspects touchant à la fréquence extrêmement élevée de l'onde et ceux liés à l'émission et la détection de la lumière basés sur la nature quantique du champ.[br/][br/]Acquérir les bases permettant la compréhension, la conception et la mise en oeuvre de systèmes photoniques. Permettre de distinguer les champs d'application où la photonique s'avère plus performante que les systèmes fonctionnant dans d'autres domaines spectraux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à la photonique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

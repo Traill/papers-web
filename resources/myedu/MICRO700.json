@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770693&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","700"],
+    "title":"Advanced analog IC design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770693&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course provides the fundamentals of analog IC design, starting with a deep understanding and adequate modeling of active components. Various elementary building blocks are presented, and special issues such as low-current operation and high-precision design are emphasized.",
+      "Content":"1. MOS and Bipolar: Modes of Operation and Models[br/]2. Passive Components and Parasitic Effects[br/]3. Layout Techniques for Analog Circuits[br/]4. Elementary Building Blocks[br/]5. Voltage References[br/]6. Analog Functional Blocks[br/]7. BiCMOS Analog Building Blocks[br/]8. CMOS Off-Chip Drivers[br/]9. Switched - Capacitor Circuit Design[br/]10. Future Trends in Analog ICs[br/][br/]",
+      "Keywords":"Analog IC Design, MOS, Bipolar, BiCMOS",
+      "Note":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Required prior knowledge":"[li] Basic electronic circuits[br/][br/][li] Devices semiconductor"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analog IC design",
+    "recitation":null,
+    "exam_form":"Written & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":32
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Contenu":"1. MOS and Bipolar: Modes of Operation and Models[br/]2. Passive Components and Parasitic Effects[br/]3. Layout Techniques for Analog Circuits[br/]4. Elementary Building Blocks[br/]5. Voltage References[br/]6. Analog Functional Blocks[br/]7. BiCMOS Analog Building Blocks[br/]8. CMOS Off-Chip Drivers[br/]9. Switched - Capacitor Circuit Design[br/]10. Future Trends in Analog ICs",
+      "Mots clés":"Analog IC Design, MOS, Bipolar, BiCMOS",
+      "Prérequis":"[li] Basic electronic circuits[br/][br/][li] Devices semiconductor",
+      "Objectifs d'apprentissage":"This course provides the fundamentals of analog IC design, starting with a deep understanding and adequate modeling of active components. Various elementary building blocks are presented, and special issues such as low-current operation and high-precision design are emphasized."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analog IC design",
+    "recitation":null,
+    "exam_form":"Ecrit & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":32
+    }
+  }
+}

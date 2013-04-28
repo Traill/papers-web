@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776662&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","301"],
+    "title":"Measurement technics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776662&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104364",
+      "name":"Agbeviade Kossi"
+    },{
+      "url":"http://people.epfl.ch/115416",
+      "name":"Borhani Navid"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Each student will receive marks for their group's laboratory reports, lab books, and final oral presentation on a TP of their choice.",
+      "Bibliography and material":"Lecture presentations, handouts and other background information will be made freely available to the students on a webpage-wiki.",
+      "Content":"Formal lectures on: Designing experimental campaigns, non-dimensional analysis, measurement uncertainty and error propagation, statistics, DAQ and spectral analysis, report writing and oral presentations, and a broad range of available experimental techniques for measuring different types of physical quantities. These lectures will be followed by supervised laboratory TP sessions on specific techniques.",
+      "Keywords":"Experimental techniques",
+      "Type of teaching":"The required theory and broad background knowledge of available techniques will be presented during formal lectures. This knowledge will then be applied by the students during subsequent laboratory TP sessions. Additional supervision will be provided to the students during office hours by the lecturers and the laboratory assistants.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Understand similarity laws and their use for dimensioning an experimental testbed, AH33[br/][li]Know the techniques used to measure physical flow quantities; choose the appropriate technique to measure to a desired accuracy, AH35[br/][li]Evaluate and implement the principal measuring techniques of mechanical engineering (numerical recorders, sampling, position determination, speed, deformation, force, acceleration, pressure, temperature); evaluate the uncertainties and analyse the experimental results obtained, AH37[br/][li]Measure the temperature, pressure, flow and composition of a fluid, E26[br/][li]Carry out an experimental modal analysis to determine the dynamic characteristics of a real structure; assess the structural response from the obtained results and discuss, S4[br/][li]Master experimental and numerical analysis tools, CP2[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Measurement technics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104364",
+      "name":"Agbeviade Kossi"
+    },{
+      "url":"http://people.epfl.ch/115416",
+      "name":"Borhani Navid"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"LIAISON AVEC AUTRES COURS: Projets",
+      "Bibliographie et matériel":"Le support de cours, les slides et tout autre matériel nécessaire sera mis à la disposition des étudiants sur une page web Wiki.",
+      "Mots clés":"Techniques de mesure",
+      "Forme d'enseignement":"La théorie et les connaissances nécessaires seront enseignées au travers de cours ex-cathedra. Ces connaissances seront ensuite mises en pratiques durant les séances de TP. Un support additionnel pourra être donné si nécessaire par les enseignants et les assistants durant les heures de bureau.",
+      "Contenu":"Cours ex-cathedra portant sur: Savoir  concevoir une campagne d'essai. l'analyse dimensionnelle, l'incertitude des mesures expérimentales et la propagation d'erreurs, la statistique, l'acquisition de données et l'analyse de Fourier, la rédaction de rapports et la présentation orale, et un large éventail de techniques pour la mesure de différentes quantités physiques. Ces cours seront suivis par TP supervisés en laboratoire portant sur les différentes techniques enseignées en cours. ",
+      "Forme du contrôle":"Chaque étudiant se verra attribuer une note sur la base de son travail en laboratoire et une présentation finale sur un TP de son choix.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Comprendre les lois de similitudes et leur utilisation pour le dimensionnement d'un banc d'essai, AH33[br/][li]Connaître les techniques utilisées pour mesurer des quantités physiques dans un écoulement; choisir une technique appropriée pour mesurer à la précision désirée, AH35[br/][li]Evaluer et mettre en ½uvre les principales techniques de mesure de la mécanique (enregistreurs numériques, échantillonnage, mesure de position, vitesse, déformation, force, accélération, pression, température) ; évaluer les incertitudes et critiquer les résultats expérimentaux obtenus, AH37[br/][li]Mesurer la température, la pression, les débits et les compositions d'un fluide, E26[br/][li]Mettre en ½uvre une méthode d'analyse modale expérimentale pour la détermination des caractéristiques dynamiques d'une structure réelle; évaluer la réponse de la structure à partir des résultats obtenus et critiquer, S4[br/][li]Maîtriser les outils d'analyse numériques et expérimentaux, CP2[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Techniques de mesure",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

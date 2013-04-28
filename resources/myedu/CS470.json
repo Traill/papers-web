@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772055&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","470"],
+    "title":"Advanced computer architecture",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772055&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lap2.epfl.ch/courses/advcomparch/","http://lap2.epfl.ch/courses/advcomparch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101954",
+      "name":"Ienne Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Final exam 100%",
+      "Bibliography and material":"J.L. Hennessy et D.A. Patterson, Computer Architecture: A Quantitative Approach, 3rd Edition, 2002.",
+      "Required prior knowledge":"Architecture des ordinateurs I et II",
+      "Content":"[li]\tPushing processor performance to its limits:[br/]o\tPrinciples of Instruction Level Parallelism (ILP)[br/]o\tRegister renaming techniques[br/]o\tPrediction and speculation[br/]o\tSimultaneous multithreading[br/]o\tVLIW and compiler techniques for ILP[br/]o\tDynamic binary translation[br/][br/][li]\tEmbedded processors:[br/]o\tSpecificities over stand-alone processors[br/]o\tOverview of DSPs and micro controllers for Systems-on-Chip[br/]o\tConfigurable and customisable processors",
+      "Type of teaching":"Courses and labs",
+      "Learning outcomes":"Important techniques to exploit Instruction-Level Parallelism are surveyed and the relation with the critical phases of compilation discussed. Emerging classes of processors for complex single-chip systems are also analysed.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced computer architecture",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-383872-8&amp;con_lng=ENG\" target=\"blank\">Computer architecture : a quantitative approach / John L. Hennessy, David A. Patterson ; with contr. by Krste AsanoviÄ ... [et al.]</a>\". Year:2012. ISBN:978-0-12-383872-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lap2.epfl.ch/courses/advcomparch/","http://lap2.epfl.ch/courses/advcomparch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101954",
+      "name":"Ienne Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Architecture des ordinateurs I et II",
+      "Bibliographie et matériel":"John L. Hennessy and David A. Patterson, Computer Architecture: A Quantitative Approach, 5th edition, 2011.",
+      "Forme d'enseignement":"Cours et travaux pratiques",
+      "Contenu":"[li]\tAugmenter au maximum la performance :[br/]o\tPrincipes de parallelisme au niveau des instructions[br/]o\t « Register renaming »[br/]o\tPrediction et speculation[br/]o\t« Simultaneous multithreading »[br/]o\tVLIWs et techniques de compilation pour ILP[br/]o\t« Dynamic binary translation »[br/][br/][li]\tProcesseurs embarqués :[br/]o\tParticularités par rapport aux processeurs non-embarqués[br/]o\tSurvol des DSP et des microcontrôleurs pour les Systems-on-Chip[br/]o\tProcesseurs configurables et customisation",
+      "Forme du contrôle":"Examen final 100%",
+      "Objectifs d'apprentissage":"Les techniques les plus importantes pour l'utilisation du parallélisme au niveau des instructions sont abordées ainsi que leur relations avec les phases critiques de compilation. Une catégorie de processeurs d'importance croissante - les processeurs pour la conception de systèmes complexes sur un seul circuit intégré - est aussi analysée."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced computer architecture",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-383872-8&amp;con_lng=FRE\" target=\"blank\">Computer architecture : a quantitative approach / John L. Hennessy, David A. Patterson ; with contr. by Krste AsanoviÄ ... [et al.]</a>\". Année:2012. ISBN:978-0-12-383872-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

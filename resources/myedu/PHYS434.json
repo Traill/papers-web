@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128849811&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","434"],
+    "title":"Semiconductor electronic and optoelectronic devices II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128849811&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/165328",
+      "name":"Butté Raphaël"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To present the physical principles of operation and the main applications of semiconductor optoelectronic devices",
+      "Content":"[b]1. Semiconductor materials for optoelectronics[/b][br/][b]2. Light-matter interactions in semiconductors[/b][br/]Absorption, spontaneous and stimulated emission of radiation, dielectric[br/]function, optical constants.[br/][b]3. Nanostructures and microcavities[/b][br/]Quantum wells, superlattices quantum dots, microcavities strong coupling[br/]regime, Purcell effect.[br/][b]4. Electroluminescence[/b][br/]Electroluminescent diodes, emission spectra, efficiency. Applications for[br/]displays and lighting.[br/][b]5. Laser diodes[/b][br/]Conditions to achieve stimulated emission, optical gain and threshold,[br/]spectral characteristics, efficiency. Fabry-Perot, distributed feedback and[br/]vertical cavity laser structures. Bandgap engineering, quantum well[br/]lasers. Quantum cascade lasers.[br/][br/] ",
+      "Type of teaching":"Ex cathedra with exercises",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Semiconductor electronic devices"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Semiconductor electronic and optoelectronic devices II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-006554-7&amp;con_lng=ENG\" target=\"blank\">Optoélectronique / Emmanuel Rosencher, Borge Vinter</a>\". Year:2002. ISBN:978-2-10-006554-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/165328",
+      "name":"Butté Raphaël"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Dispositifs électroniques semiconducteurs",
+      "Bibliographie et matériel":"\"Optoelectronics\", E. Rosencher, B. Vinter, Cambridge University Press, 2002",
+      "Forme d'enseignement":"Ex cathedra avec exercices",
+      "Contenu":"[b]1. Matériaux semiconducteurs optoélectroniques[/b][br/][b]2. Interactions lumière-matière[/b][br/]Absorption, émission spontanée, émission stimulée, fonction[br/]diélectrique, constantes optiques.[br/][b]3. Nanostructures et microcavités[/b][br/]Puits quantiques, super-réseau, boîtes quantiques, microcavités.[br/]couplage fort, effet Purcell.[br/][b]4. Electroluminescence[/b][br/]Diodes électroluminescentes, spectres d'émission, efficacité.[br/]Applications à l'affichage et à l'éclairage.[br/][b]5. Diodes laser[/b][br/]Conditions d'émission stimulée, gain optique, caractéristiques[br/]spectrales, efficacité.[br/]Lasers Fabry-Perot, lasers à rétroaction distribuée, lasers à émission[br/]verticale. Ingénierie de la structure des bandes, lasers à puits[br/]quantiques. Lasers à cascade quantique.[br/] ",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Présenter la physique et les principales applications des semiconducteurs en optoélectronique"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Semiconductor electronic and optoelectronic devices II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-006554-7&amp;con_lng=FRE\" target=\"blank\">Optoélectronique / Emmanuel Rosencher, Borge Vinter</a>\". Année:2002. ISBN:978-2-10-006554-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773457&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","201"],
+    "title":"Electromagnetics II : field computation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773457&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["hhttp://itopwww.epfl.ch/LEMA/Enseignement/Section%20d_electricite/Electromagnetisme%20II/","hhttp://itopwww.epfl.ch/LEMA/Enseignement/Section%20d_electricite/Electromagnetisme%20II/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam[br/]Paying continuous control",
+      "Bibliography and material":"1) \"Électromagnétisme\", Vol. III du Traité d'électricité de l'EPFL[br/]2) Ramo: \"Fields and Waves in Communication Electronics\"[br/]3) Additional duplicated lecture notes",
+      "Prerequisite for":"Microwaves and optics transmission, Telecommunications, Mobile communication orientation, Radiation and antennas, Propagation, Audio ",
+      "Required prior knowledge":"Analysis I and II, Physics",
+      "Content":"[b]1) Stationary electric fields[/b][br/]Static charges and electric fields. Vector calculus and equations of Electrostatics. The concepts of potential, voltage and capacity. Energy of electrostatic fields. Conductors and dielectrics. Thee concept of resistance. Perfect electric conductors and their screening properties.[br/][b]2) Stationary magnetic fields[/b][br/]Steady currents (DC) and magnetic fields. Vector calculus and the equations of Magnetostatics. Energy of magnetostatic fields. Perfect magnetic conductors.[br/][b]3) Electromagnetic description of electrical circuits[/b][br/]Kirchhoff laws as limiting case of Maxwell equations. Alternating (AC) currents. Complex phasor notation. Electromagnetic induction and inductance. The concept of impedance. Skin depth effects in conductors. [br/][b]4) Analytical and numerical methods [/b][br/]Integral and differential analytical methods. Finite differences and finite elements. Integral formulations: the Green's function concept. Some examples: semiconductor p-n junctions, coaxial cables, bodies inside uniform fields, screening, electromagnetic perturbation through slots, EMC.",
+      "Type of teaching":"Ex cathedra with exercises in room and computer examples. Paying continous control",
+      "Learning outcomes":"To establish and discuss the physical basis of electromagnetics. To master the analytical techniques and numerical methods needed to model electromagnetic phenomena. To understand the electromagnetic fundamentals of classic circuit theory"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromagnetics II : field computation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-508-X&amp;con_lng=ENG\" target=\"blank\">Electromagnétisme / par Fred Gardiol</a>\". Year:2004. ISBN:2-88074-508-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-30578-2&amp;con_lng=ENG\" target=\"blank\">Fields and waves in communication electronics / Simon Ramo, John R. Whinnery, Theodore van Duzer</a>\". Year:1994. ISBN:0-471-30578-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["hhttp://itopwww.epfl.ch/LEMA/Enseignement/Section%20d_electricite/Electromagnetisme%20II/","hhttp://itopwww.epfl.ch/LEMA/Enseignement/Section%20d_electricite/Electromagnetisme%20II/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Physique ",
+      "Bibliographie et matériel":"1) \"Électromagnétisme\", Vol. III du Traité d'électricité de l'EPFL[br/]2) Ramo: \"Fields and Waves in Communication Electronics\"[br/]3) Notes supplémentaires polycopiées ",
+      "Forme d'enseignement":"Ex cathedra avec exercices en salle et exemples traités à l'ordinateur. Contrôle continu payant ",
+      "Contenu":"[b]1) Électrostatique[/b][br/]Charges statiques et champs électriques. Équations de l'électrostatique formulées à l'aide du calcul vectoriel. Les concepts de potentiel, tension et capacité. Énergie d'un champ électrostatique. Conducteurs et isolants. Le concept de résistance. Le conducteur électrique parfait et ses propriétés de blindage.[br/][b]2) Magnétostatique[/b][br/]Courants stationnaires (continus) et champs magnétiques.  Équations de la magnétostatique  Énergie d'un champ magnétostatique. La notion de conducteur magnétique parfait.[br/][b]3) Description électromagnétique des circuits électriques[/b][br/]Les lois de Kirchhoff comme cas limite des équations de Maxwell. Courants alternatifs. Le concept de phaseur complexe. Induction électromagnétique et inductance. Le concept d'impédance.  Profondeur de pénétration et effet de peau dans les conducteurs.[br/][b]4) Méthodes analytiques et numériques[/b][br/]Méthodes analytiques: intégrales et différentielles. Différences finies et éléments finis. Formulations intégrales: le concept de fonction de Green. Applications: jonctions à semiconducteur p-n, câble coaxial, objets au sein d'un champ uniforme, blindage et pénétration à travers de fentes, CEM. ",
+      "Forme du contrôle":"Examen écrit[br/]Contrôle continu payant ",
+      "Préparation pour":"Transmissions Hyperfréquences et Optiques, Télécommunications, Orientation Communications mobiles, Rayonnement et Antennes, Propagation, Audio ",
+      "Objectifs d'apprentissage":"Établir et décrire les bases physiques de l'électromagnétisme. Maîtriser les techniques analytiques et les méthodes numériques nécessaires pour la modélisation des phénomènes électromagnétiques. Comprendre les fondements électromagnétiques de la théorie classique des circuits."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromagnétisme II : calcul des champs",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-508-X&amp;con_lng=FRE\" target=\"blank\">Electromagnétisme / par Fred Gardiol</a>\". Année:2004. ISBN:2-88074-508-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-30578-2&amp;con_lng=FRE\" target=\"blank\">Fields and waves in communication electronics / Simon Ramo, John R. Whinnery, Theodore van Duzer</a>\". Année:1994. ISBN:0-471-30578-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

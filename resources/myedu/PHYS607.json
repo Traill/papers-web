@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240566092&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","607"],
+    "title":"Nonlinear fibre optics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240566092&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106544",
+      "name":"Thévenaz Luc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To develop an expertise in advanced applications based on optical fibres, based on the nonlinear processing of light.[br/][br/]To give an extended knowledge on the possibilities offered by optical fibres to transform an optical signal and realize advanced functions.[br/][br/]",
+      "Content":"[li] Presentation of the different [][]sources of optical nonlinearities in [][]an optical fibre.[br/][li] 3rd order optical nonlinearity: 4-wave mixing, optical Kerr effect, pulse [][]compression and soliton propagation, [][]parametric amplification, modulation [][]instability.[br/][li] Inelastic scatterings: spontaneous [][]Brillouin and Raman scatterings, [][]stimulated scatterings, amplification [][]and lasers, distributed fibre sensors.[br/][li] Advanced applications: [][]supercontinuum generation, optical [][]combs, optical clocks, slow and fast [][]light.",
+      "Keywords":"Optical fibres, nonlinear optics, 4-wave mixing, stimulated scattering, fibre optics sensors, slow and fast light.[br/]",
+      "Required prior knowledge":"Solid knowledge in electromagnetics, in optics and waveguiding[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nonlinear fibre optics",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106544",
+      "name":"Thévenaz Luc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Presentation of the different [][]sources of optical nonlinearities in [][]an optical fibre.[br/][li] 3rd order optical nonlinearity: 4-wave mixing, optical Kerr effect, pulse [][]compression and soliton propagation, [][]parametric amplification, modulation [][]instability.[br/][li] Inelastic scatterings: spontaneous [][]Brillouin and Raman scatterings, [][]stimulated scatterings, amplification [][]and lasers, distributed fibre sensors.[br/][li] Advanced applications: [][]supercontinuum generation, optical [][]combs, optical clocks, slow and fast [][]light.",
+      "Mots clés":"Optical fibres, nonlinear optics, 4-wave mixing, stimulated scattering, fibre optics sensors, slow and fast light.[br/]",
+      "Prérequis":"Solid knowledge in electromagnetics, in optics and waveguiding",
+      "Objectifs d'apprentissage":"To develop an expertise in advanced applications based on optical fibres, based on the nonlinear processing of light.[br/][br/]To give an extended knowledge on the possibilities offered by optical fibres to transform an optical signal and realize advanced functions.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nonlinear fibre optics",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

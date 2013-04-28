@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80822723&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","603"],
+    "title":"Modelling micro and nanoelectron devices",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80822723&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106334",
+      "name":"Sallese Jean-Michel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Continuous downscaling of MOSFET devices represents a challenge to the modeling community since these require both accurate and 'simple' models in order to be used for advanced circuit design. Indeed, there is actually a gap between technology achievements and their corresponding so called 'compact' models. Basically, moving toward nanometric architecture raises different problems, requiring a fine description of the device from its electrical characteristics. Also classical drift-diffusion equations, widely used to describe electronic transport in semicon-ductor based devices, show their limit and should be replaced by new concepts. In this context, this course will present a general overview of the most widely used approaches that address analytical modeling of micro- and nanometer scaled field effect electron devices. ",
+      "Content":"A) Bulk MOSFETs modelling.[br/]   I) The standart charge sheet approximation[br/]            Static operation, short channel effects using quasi 2D analysis. [br/]            General charge based partitionning principle (transcapacitances)[br/]   II)  The concept of inversion charge linearization in bulk MOSFETs (EKV approach)[br/]             Static and non quasi static small signal solutions[br/]             Polydepletion and quantum corrections[br/][br/]B) Modelling advanced multgate MOSFETs.[br/]   I)  Double gate architectures[br/]             General electrostatic solution, symmetrical/assymetrical operation[br/]             Quantum confinement corrections in ultra thin devices (<10 nm)[br/]   II)  Modelling cylindrical MOSFETs and carbon nanotube based devices[br/]              Classical solution and its correlation with symmetrical double gate[br/]              From quantum well to quantum wire strcuture[br/]C)  Modelling electronic transport in nano devices[br/]              Ballistic transport [br/]              Introduction to quantum conductance[br/]",
+      "Keywords":"MOSFET, multigate MOSFET, electrical transport",
+      "Required prior knowledge":"Basic course in maths, physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modelling micro and nanoelectron devices",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106334",
+      "name":"Sallese Jean-Michel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"A) Bulk MOSFETs modelling.[br/]   I) The standart charge sheet approximation[br/]            Static operation, short channel effects using quasi 2D analysis. [br/]            General charge based partitionning principle (transcapacitances)[br/]   II)  The concept of inversion charge linearization in bulk MOSFETs (EKV approach)[br/]             Static and non quasi static small signal solutions[br/]             Polydepletion and quantum corrections[br/][br/]B) Modelling advanced multgate MOSFETs.[br/]   I)  Double gate architectures[br/]             General electrostatic solution, symmetrical/assymetrical operation[br/]             Quantum confinement corrections in ultra thin devices (<10 nm)[br/]   II)  Modelling cylindrical MOSFETs and carbon nanotube based devices[br/]              Classical solution and its correlation with symmetrical double gate[br/]              From quantum well to quantum wire strcuture[br/]C)  Modelling electronic transport in nano devices[br/]              Ballistic transport [br/]              Introduction to quantum conductance[br/]",
+      "Mots clés":"MOSFET, multigate MOSFET, electrical transport",
+      "Prérequis":"Basic course in maths, physics",
+      "Objectifs d'apprentissage":"Continuous downscaling of MOSFET devices represents a challenge to the modeling community since these require both accurate and 'simple' models in order to be used for advanced circuit design. Indeed, there is actually a gap between technology achievements and their corresponding so called 'compact' models. Basically, moving toward nanometric architecture raises different problems, requiring a fine description of the device from its electrical characteristics. Also classical drift-diffusion equations, widely used to describe electronic transport in semicon-ductor based devices, show their limit and should be replaced by new concepts. In this context, this course will present a general overview of the most widely used approaches that address analytical modeling of micro- and nanometer scaled field effect electron devices. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modelling micro and nanoelectron devices",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

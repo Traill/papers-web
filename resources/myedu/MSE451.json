@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23818663&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","451"],
+    "title":"Polymer morphological characterization techniques",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23818663&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[br/]The study of polymer morphology and microdeformation using various types of microscopy and diffraction techniques down to the molecular level.[br/]Acquisition of the basic knowledge necessary for the practical application of these methods to polymers.[br/]Understanding of the origins and importance of the phenomena encountered.[br/]",
+      "Content":"  I. INTRODUCTION[br/][li]overview of polymers[br/][li]importance of polymer morphology in practice[br/] [br/] II. METHODS[br/][li]sample preparation[br/][li]application of the different types of microscopy to polymers (OM, TEM, SEM, scanning probe microscopy ...)[br/][li]crystallographic methods, numerical simulation[br/] [br/] III. APPLICATIONS[br/][li]semicrystalline polymers and liquid crystalline polymers[br/][li]supermolecular structures[br/][li]fractography and microdeformation[br/][li]nanostructures and self-organization[br/]",
+      "Type of teaching":"Ex cathedra, demonstrations",
+      "Form of examination":"Written exam after 4-5 weeks + oral presentation in group of 2 people at the end of the course.[br/]Final grade = (2x presentation grade + 1x written exam grade) /3"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polymer morphological characterization techniques",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-412-60490-6&amp;con_lng=ENG\" target=\"blank\">Polymer microscopy / Linda C. Sawyer and David T. Grubb</a>\". Year:1996. ISBN:0-412-60490-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-72627-4&amp;con_lng=ENG\" target=\"blank\">Polymer microscopy / Linda C. Sawyer, David T. Grubb, Gregory F. Meyers</a>\". Year:2008. ISBN:978-0-387-72627-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, démonstrations",
+      "Contenu":"I. INTRODUCTION[br/][li]vue d'ensemble des polymères[br/][li]importance de leur morphologie dans les applications[br/] [br/] II. MÉTHODES[br/][li]préparation d'échantillons[br/][li]application des différentes microscopies aux polymères (MO, MET, MEB, microscopies de champ proche ...)[br/][li]méthodes cristallographiques, simulations numériques[br/] [br/] III. APPLICATIONS[br/][li]polymères semicristallins et polymères à cristaux liquides[br/][li]structures supramoléculaires[br/][li]fractographie et microdéformation[br/][li]nanostructures et auto-assemblage[br/] [br/]",
+      "Forme du contrôle":"Test écrit après 4-5 semaines + présentation orale en groupe de 2 personnes à la fin du cours.[br/]Note finale = (2x note présentation + 1x note test écrit) /3 ",
+      "Bibliographie et matériel":"Notes de cours[br/]Polymer microscopy 2nd Edition, Linda C. Sawyer aud David T. Grubb, London, 1996. ",
+      "Objectifs d'apprentissage":"Étudier la morphologie et la microdéformation des polymères jusqu'au niveau moléculaire à l'aide de différentes microscopies et techniques de diffraction.[br/]Apprendre les bases de l'application pratique de ces méthodes aux polymères.[br/]Comprendre les origines et l'importance des phénomènes observés.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polymer morphological characterization techniques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-412-60490-6&amp;con_lng=FRE\" target=\"blank\">Polymer microscopy / Linda C. Sawyer and David T. Grubb</a>\". Année:1996. ISBN:0-412-60490-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-72627-4&amp;con_lng=FRE\" target=\"blank\">Polymer microscopy / Linda C. Sawyer, David T. Grubb, Gregory F. Meyers</a>\". Année:2008. ISBN:978-0-387-72627-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241606779&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","611"],
+    "title":"Linear system theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241606779&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105941",
+      "name":"Müllhaupt Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course aims at giving the theoretical foundations of linear system theory with emphasis on mathematical description, properties and design aspects.",
+      "Content":"The course contents include the following main chapters:[br/][br/][li]Mathematical description of linear systems[br/][li]State-space solutions and realizations[br/][li]Stability[br/][li]Controllability and observability[br/][li]Minimal realizations and coprime fractions[br/][li]State feedback and state estimation",
+      "Keywords":"Linear dynamic models, Linear systems, Stability, State feedback, State estimation",
+      "Form of examination":"Written exam and oral presentation",
+      "Required prior knowledge":"[li] Linear Algebra[br/][li] Differential Equations[br/][li] Automatic Control"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Linear system theory",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105941",
+      "name":"Müllhaupt Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course contents include the following main chapters:[br/][br/][li]Mathematical description of linear systems[br/][li]State-space solutions and realizations[br/][li]Stability[br/][li]Controllability and observability[br/][li]Minimal realizations and coprime fractions[br/][li]State feedback and state estimation",
+      "Mots clés":"Linear dynamic models, Linear systems, Stability, State feedback, State estimation",
+      "Forme du contrôle":"Written exam and oral presentation",
+      "Objectifs d'apprentissage":"This course aims at giving the theoretical foundations of linear system theory with emphasis on mathematical description, properties and design aspects."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Linear system theory",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

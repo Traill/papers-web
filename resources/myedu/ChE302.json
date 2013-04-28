@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4149842&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","302"],
+    "title":"Transfert phenomenes II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4149842&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understanding transfer phenomena (mass, energy, momentum) as basis for the design and lay out of technical installations.",
+      "Content":"[br/][li] Turbulent flow[br/][li] The universal velocity profile (logarithmic low)[br/][li] Boundary layer theory[br/][li] Dimentional analysis and dimentionless groups[br/][li] Blasius and von Karman approaches[br/][li] Flows in porous media[br/][li] Blanke-Kozeney and Ergun equations[br/][li] Study of filtration[br/][li] Fluidization[br/][li] Heat transfert (unsteady state)[br/][li] Estimation of heat transfer coefficient without phase transition[br/][li] Heat exchangers"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Transfert phenomenes II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module Génie chimique",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Phénomènes de transfert I\"",
+      "Bibliographie et matériel":"Cours polycopiés, ouvrages conseillés",
+      "Forme d'enseignement":"Cours avec exercices intégrés",
+      "Contenu":"[br/][li] L'écoulement turbulent[br/][li] Le profil universel de vitesse[br/][li] La théorie de la couche limite[br/][li] Analyse dimensionnelle et nombres adimensionnels[br/][li] L'approche de Blasius et von Karman[br/][li] Écoulement dans un milieu poreux[br/][li] Les Equations de Blanke-Kozeney et Ergun[br/][li] Etude de la filtration[br/][li] La fluidisation[br/][li] Transfert de chaleur (régime transitoire)[br/][li] Estimation des coefficients de transfert de chaleur sans changement de phase[br/][li] Échangeurs de chaleurs",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"\"Génie électrochimique\"",
+      "Objectifs d'apprentissage":"Comprendre les phénomènes de transfert (matière, énergie, moment) comme base de calcul pour les installations chimiques techniques. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Phénomènes de transfert II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

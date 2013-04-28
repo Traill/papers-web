@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=468269734&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","619"],
+    "title":"Nanofabrication with focused electron and ion beams",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=468269734&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    },{
+      "url":"http://people.epfl.ch/113509",
+      "name":"Utke Ivo"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Educate and introduce PhD students to the newest established and emerging concepts and equipments related to flexible fabrication of nanostructures by focused charged particle beams (electrons and ions) and their in-situ characterisation.",
+      "Content":"[li]Introduction to Scanning Electron / Ion Microscopes: SEM, Ga-FIB, He-FIB, AuSi-FIB[br/][li]Electron / Ion interaction with solids: concepts and simulations[br/][li]Analysis with focused electron and ion beams: EDX, EBIC, EBSD, tomography[br/][li]Nanofabrication with FIB and FEB: milling, deposition, etching, lithography[br/][li]Novel Add-Ons for Nanomanipulation and Nanoanalysis inside electron microscopes: 4-point electrical measurements, positioning systems for nanostructures, magnetic bead detection, mechanical measurements: tensile, bending, and compressive loading of nanostructures, 3D topography with in-situ atomic force microscopy, chemical depth profiling by combined FIB-mass spectroscopy. Live demonstrations: Add-ons, SEM, Dual Beam.[br/]",
+      "Keywords":"FIB, FEB, nanofabrication, integrated setups for in-situ measurements (chemical, mechanical, structural, electronical) of nanostructures and their in-situ synthesis (gas injection)",
+      "Note":"Limited to 16 students",
+      "Required prior knowledge":"Physics and Chemistry at university level, general concepts of NanoSciences and Fabrication "
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Nanofabrication with focused electron and ion beams",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    },{
+      "url":"http://people.epfl.ch/113509",
+      "name":"Utke Ivo"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Limited to 16 students",
+      "Contenu":"[li]Introduction to Scanning Electron / Ion Microscopes: SEM, Ga-FIB, He-FIB, AuSi-FIB[br/][li]Electron / Ion interaction with solids: concepts and simulations[br/][li]Analysis with focused electron and ion beams: EDX, EBIC, EBSD, tomography[br/][li]Nanofabrication with FIB and FEB: milling, deposition, etching, lithography[br/][li]Novel Add-Ons for Nanomanipulation and Nanoanalysis inside electron microscopes: 4-point electrical measurements, positioning systems for nanostructures, magnetic bead detection, mechanical measurements: tensile, bending, and compressive loading of nanostructures, 3D topography with in-situ atomic force microscopy, chemical depth profiling by combined FIB-mass spectroscopy. Live demonstrations: Add-ons, SEM, Dual Beam.",
+      "Mots clés":"FIB, FEB, nanofabrication, integrated setups for in-situ measurements (chemical, mechanical, structural, electronical) of nanostructures and their in-situ synthesis (gas injection)",
+      "Prérequis":"Physics and Chemistry at university level, general concepts of NanoSciences and Fabrication ",
+      "Objectifs d'apprentissage":"Educate and introduce PhD students to the newest established and emerging concepts and equipments related to flexible fabrication of nanostructures by focused charged particle beams (electrons and ions) and their in-situ characterisation."
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Nanofabrication with focused electron and ion beams",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  }
+}

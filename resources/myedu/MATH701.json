@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80816858&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","701"],
+    "title":"Calcul des variations I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80816858&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    },{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Maîtriser les concepts modernes du calcul des variations",
+      "Content":"1) Analyse quasiconvexe (notions de polyconvexité, quasiconvexité, rang un convexité), existence de solutions pour des inclusions différentielles et applications à la minimisation de problèmes non quasiconvexes.[br/][br/]2) Monotonie cyclique et dualité de Kantorovich pour des coûts généraux, le principe de raccourcissement de Monge-Mather.",
+      "Note":"http://phd.epfl.ch/page67880.html[br/]",
+      "Required prior knowledge":"Analyse fonctionnelle, théorie de l'intégration, espaces de Sobolev, équations aux dérivées partielles et ordinaires"
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"Français",
+    "title":"Calcul des variations I",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    },{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"http://phd.epfl.ch/page67880.html",
+      "Contenu":"1) Analyse quasiconvexe (notions de polyconvexité, quasiconvexité, rang un convexité), existence de solutions pour des inclusions différentielles et applications à la minimisation de problèmes non quasiconvexes.[br/][br/]2) Monotonie cyclique et dualité de Kantorovich pour des coûts généraux, le principe de raccourcissement de Monge-Mather.",
+      "Prérequis":"Analyse fonctionnelle, théorie de l'intégration, espaces de Sobolev, équations aux dérivées partielles et ordinaires",
+      "Objectifs d'apprentissage":"Maîtriser les concepts modernes du calcul des variations"
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"Français",
+    "title":"Calcul des variations I",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

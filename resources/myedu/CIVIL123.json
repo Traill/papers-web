@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776462&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","123"],
+    "title":"Structures II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776462&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://i-structures.epfl.ch","http://i-structures.epfl.ch "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104671",
+      "name":"Burdet Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understand the load-carrying mechanisms of various structural types used in construction.[br/]Understand the fundamental principles of equilibrium and of the design of structures.[br/]Apply the knowledge gained to understand, design and dimension real structures.[br/]",
+      "Content":"[b]Trusses[/b][br/]Principles of trusses.[br/]Statically determinate and indeterminate trusses.[br/]Integral analysis of trusses.[br/]Shape, typology and inner forces in trusses.[br/]Targeted analysis of trusses.[br/]Truss towers and cantilevers.[br/]3D-trusses.[br/][br/][b]Beams and slabs[/b][br/]Principles of beams.[br/]Shape, section and internal forces in beams.[br/]Statically determinate and indeterminate beams.[br/]Predimensioning of slabs.[br/][br/][b]Grillages[/b][br/][br/][b]Frames[/b][br/]Structural behavior.[br/][br/][b]Stability[/b][br/]Phenomenon of bucking.[br/]Slenderness.[br/]Materials, cross section, supports, shape.",
+      "Bibliography and material":"A. Muttoni, [i] The art of Structures: Introduction to the Functioning of Structures in Architecture[/i], EPFL Press, Lausanne, 2011."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-554-7&amp;con_lng=ENG\" target=\"blank\">L'art des structures : une introduction au fonctionnement des structures en architecture / Aurelio Muttoni</a>\". Year:2010. ISBN:978-2-88074-554-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-38-4&amp;con_lng=ENG\" target=\"blank\">The art of structures : introduction to the functioning of structures in architecture / Aurelio Muttoni</a>\". Year:2011. ISBN:978-2-940222-38-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://i-structures.epfl.ch","http://i-structures.epfl.ch "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104671",
+      "name":"Burdet Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de structures I.",
+      "Bibliographie et matériel":"A. Muttoni, [i]L'art des structures : une introduction au fonctionnement des structures en architecture[/i], Lausanne : PPUR 2010.[br/]A. Muttoni, [i] The art of Structures: Introduction to the Functioning of Structures in Architecture[/i], Lausanne, EPFL Press, 2011.",
+      "Forme d'enseignement":"Cours ex cathedra avec soutien du cours en ligne http://i-structures.epfl.ch, exercices en ligne utilisant le site.",
+      "Contenu":"[b]Treillis[/b][br/]Principe des treillis.[br/]Treillis isostatiques et hyperstatiques.[br/]Analyse intégrale des treillis.[br/]Forme, typologie et efforts dans les treillis.[br/]Analyse ciblée des treillis.[br/]Tours et consoles en treillis.[br/]Treillis spatiaux.[br/][br/][b]Poutres et dalles[/b][br/]Principe des poutres.[br/]Forme, section et efforts dans les poutres.[br/]Poutres isostatiques et hyperstatiques.[br/]Prédimensionnement des dalles.[br/][br/][b]Grilles de poutres[/b][br/][br/][b]Cadres[/b][br/]Fonctionnement structural.[br/][br/][b]Stabilité[/b][br/]Phénomène de flambage.[br/]Élancement.[br/]Matériau, section, appuis, forme.[br/]",
+      "Forme du contrôle":"Test(s) en cours de semestre.",
+      "Préparation pour":"Cours de structures et de conception des structures.",
+      "Objectifs d'apprentissage":"Comprendre les principes de fonctionnement des divers types de structures du domaine de la construction.[br/]Connaître les principes fondamentaux de l'équilibre et du dimensionnement des structures.[br/]Appliquer les connaissances acquises pour comprendre, concevoir et dimensionner des structures réelles.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-554-7&amp;con_lng=FRE\" target=\"blank\">L'art des structures : une introduction au fonctionnement des structures en architecture / Aurelio Muttoni</a>\". Année:2010. ISBN:978-2-88074-554-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-38-4&amp;con_lng=FRE\" target=\"blank\">The art of structures : introduction to the functioning of structures in architecture / Aurelio Muttoni</a>\". Année:2011. ISBN:978-2-940222-38-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

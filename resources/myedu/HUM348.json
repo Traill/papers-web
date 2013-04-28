@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580214098&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","348"],
+    "title":"Entrepreneurship",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580214098&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://entc.epfl.ch","http://entc.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171551",
+      "name":"Gruber Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Entrepreneurship",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7535-1503-7&amp;con_lng=ENG\" target=\"blank\">Business stripped bare : adventures of a global entrepreneur / Richard Branson</a>\". Year:2009. ISBN:978-0-7535-1503-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://entc.epfl.ch","http://entc.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171551",
+      "name":"Gruber Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Enseignant :[/b][br/]Marc Gruber, professeur (Chaire Entrepreneuriat et commercialisation de technologies/CDM, EPFL)",
+      "Bibliographie et matériel":"Richard Branson: \"Business Stripped Bare: Adventures of a Global Entrepreneur\". London: Virgin Books, New York, 2009.",
+      "Mots clés":"Nouvelles entreprises, esprit d'entreprise, business plan, commercialisation de technologie.",
+      "Forme d'enseignement":"Enseignement avec participation des étudiants, projet (business plan) et présentations.[br/]Lecture obligatoire du livre de Richard Branson.",
+      "Contenu":"Ce cours est une introduction au domaine de l'entrepreneuriat, au processus de création d'une nouvelle entreprise et de commercialisation des technologies. L'importance de l'entrepreneuriat pour le développement économique et la compétitivité nationale n'est pas à rappeler. On l'abordera selon le plan suivant :[br/][br/][li]Identification des opportunités de l'entrepreunariat[br/][li]Défis pour la création et la croissance d'une nouvelle entreprise[br/][li]Financement d'une entreprise innovante[br/][li]Risques technologiques",
+      "Forme du contrôle":"Présentation en groupe ; 2 travaux individuels ; Participation orale ; Projet de groupe (Business plan).",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant-e sera capable de :[br/]- comprendre l'entrepreneuriat comme un choix de carrière[br/]- proposer une nouvelle expérience pour devenir un entrepreneur à succès dans une activité orientée technologies."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Entrepreneurship",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7535-1503-7&amp;con_lng=FRE\" target=\"blank\">Business stripped bare : adventures of a global entrepreneur / Richard Branson</a>\". Année:2009. ISBN:978-0-7535-1503-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

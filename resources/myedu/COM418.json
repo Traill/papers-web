@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348806060&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","418"],
+    "title":"IT security engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348806060&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=10881","http://moodle.epfl.ch/course/view.php?id=10881 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/193870",
+      "name":"Janson Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"This course could be complete with IT security engineering TP (com-418(a))[br/]",
+      "Form of examination":"Continuous control through exercises 75% + written exam 25%",
+      "Required prior knowledge":"Basics of operating systems, distributed systems, databases, computer networks",
+      "Content":"Basic Principles[br/]-\tProblem statement and taxonomy of threats[br/]-\tSolution elements and taxonomy of defenses[br/]-\tSecurity engineering principles[br/]Technologies[br/]-\tIdentity 2.0 and multi-factor authentication[br/]-\tBiometrics techniques efficiency [br/]-\tData classification and leakage protection[br/]-\tDigital Rights Management[br/]-\tAuthorization and access control policies[br/]-\tHardware platform security[br/]-\tOperating system security[br/]-\tDatabase security[br/]-\tApplication security[br/]-\tPrivacy[br/]Engineering for security[br/]-\tFaults, errors, and failures[br/]-\tVulnerabilities and attack vectors[br/]-\tIntrusion prevention, detection, and recovery[br/]-\tVulnerability scanning and penetration testing[br/]-\tElements of digital forensics[br/]Standards and best practices in security governance[br/]-\tQuality assurance [br/]-\tAudit and compliance[br/]",
+      "Type of teaching":"Lessons + exercises + term paper",
+      "Learning outcomes":"The objective of this course is to provide students with a sound basis in IT security and privacy principles, technologies, standards, and best practices, including terminology, taxonomies of problems and solutions, methodologies for recognizing and fending off intrusions, techniques for securing software and information at rest and in transit, as well as common tools for building secure systems and ensuring their compliance with established rules."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"IT security engineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-24473-5&amp;con_lng=ENG\" target=\"blank\">Applied information security : a hands-on approach / David Basin, Patrick Schaller, Michael Schläpfer</a>\". Year:2011. ISBN:978-3-642-24473-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-74115-3&amp;con_lng=ENG\" target=\"blank\">Computer security / Dieter Gollmann</a>\". Year:2011. ISBN:978-0-470-74115-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-59749-114-3&amp;con_lng=ENG\" target=\"blank\">Essential computer security : everyone's guide to e-mail, Internet, and wireless security / Tony Bradley</a>\". Year:2012. ISBN:978-1-59749-114-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-44442-6&amp;con_lng=ENG\" target=\"blank\">The art of software security assessment : identifying and preventing software vulnerabilities / Mark Dowd, John McDonald, Justin Schuh</a>\". Year:2007. ISBN:0-321-44442-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=10881","http://moodle.epfl.ch/course/view.php?id=10881 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/193870",
+      "name":"Janson Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Ce cours peut être complété avec IT security engineering TP (com-418(a))",
+      "Prérequis":"Base de systèmes d'exploitation, systèmes distribués, bases de données, réseaux informatiques",
+      "Bibliographie et matériel":"Computer Security by Dieter Gollmann;  Essential Computer Security by Tony Bradley;[br/]The Art of Software Security Assessment by Mark Dowd, John McDonald, Justin Shuh;[br/]Applied Information Security by David Basin, Patrick Schaller, Michael Schläpfer.[br/]",
+      "Forme d'enseignement":"Leçons + exercices + rapport de travail personnel",
+      "Contenu":"Principes de base[br/]-\tDéfinition du problème et taxonomie des risques[br/]-\tEléments de solution et taxonomie des défenses[br/]-\tPrincipes de conception de la sécurité informatique[br/]Technologies[br/]-\tIdentité 2.0 et authentification multi-facteur[br/]-\tPerformances de la technique biométrique[br/]-\tClassification des données et protection des fuites[br/]-\tProtection de la propriété intellectuelle[br/]-\tAutorisation et polices de contrôle d'accès[br/]-\tSécurité matérielle[br/]-\tSécurité des systèmes d'exploitation[br/]-\tSécurité des bases de données[br/]-\tSécurité des applications[br/]-\tProtection de la sphère privée[br/]Conception de systèmes sécurisés[br/]-\tFautes, erreurs, et défaillances[br/]-\tVulnérabilités et vecteurs d'attaque[br/]-\tPrévention, détection, et recouvrement d'intrusion[br/]-\tBalayage des vulnérabilités et tests de pénétration[br/]-\tEléments d'investigations légales[br/]Standards et pratiques recommandées en réglementation [br/]-\tAssurance de qualité[br/]-\tRévision et conformité[br/]",
+      "Forme du contrôle":"Contrôle continu pendant les exercices 75% + examen écrit 25%",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de communiquer aux étudiants une solide base en matière de sécurité informatique et de protection de la sphère privée, comprenant principes de base, terminologie, taxonomies des principaux problèmes et solutions, technologies propres à sécuriser software et données stockées ou en transit, ainsi qu'outils de réalisation de systèmes sécurisés et standards et pratiques courantes de leur mise en conformité."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"IT security engineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-24473-5&amp;con_lng=FRE\" target=\"blank\">Applied information security : a hands-on approach / David Basin, Patrick Schaller, Michael Schläpfer</a>\". Année:2011. ISBN:978-3-642-24473-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-74115-3&amp;con_lng=FRE\" target=\"blank\">Computer security / Dieter Gollmann</a>\". Année:2011. ISBN:978-0-470-74115-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-59749-114-3&amp;con_lng=FRE\" target=\"blank\">Essential computer security : everyone's guide to e-mail, Internet, and wireless security / Tony Bradley</a>\". Année:2012. ISBN:978-1-59749-114-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-44442-6&amp;con_lng=FRE\" target=\"blank\">The art of software security assessment : identifying and preventing software vulnerabilities / Mark Dowd, John McDonald, Justin Schuh</a>\". Année:2007. ISBN:0-321-44442-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

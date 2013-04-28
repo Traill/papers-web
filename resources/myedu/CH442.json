@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775257&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","442"],
+    "title":"Photochemistry I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775257&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"CGC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105914",
+      "name":"Moser Jacques-Edouard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[br/]Acquiring the theoretical basis of electronic spectroscopy and modern photochemistry and photophysics. Mastering of the principles governing the reactivity of electronic excited states of molecules and that of solids under irradiation. Introduction to the main classes of natural and industrial photochemical processes.",
+      "Content":"[b]1. Fundamentals[/b][br/]Introduction - Light absorption and reflection - Radiation and molecular orbitals - Photonics of solid materials.[br/][br/][b]2. Photophysical processes[/b][br/]Excited states deactivation pathways - Kinetics of radiative and nonradiative processes - Excimers and exciplexes - Intermolecular electronic energy transfer - Photosensitization.[br/][br/][b]3. Photochemical reactions[/b][br/]Photodissociation - Multiphoton processes - Photoinduced elec-tron transfer - Pericyclic concerted reactions.[br/][br/][b]4. Organic synthetic reactions[/b][br/]Reactions of ethenes and aromatic compounds - Photo-chemical reactions of the carbonyl chromophore - Photo-oxygenation (singlet oxygen, superoxide anion).[br/][br/][b]5. Polymer and pigments photochemistry[/b][br/]Photopolymerization and cross-linking - Photodegradation and stabilization of polymers and pigments.[br/][br/][b]6. Natural photochemical processes[/b][br/]Light-induced atmospheric reactions - Natural photosynthesis - Mechanisms of vision.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Photochemistry I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105914",
+      "name":"Moser Jacques-Edouard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]1. Principes fondamentaux[/b][br/]Introduction - Absorption et réflexion de la lumière - Radiation et orbitales moléculaires - Photonique des solides.[br/][br/][b]2. Processus photophysiques moléculaires[/b][br/]Voies de désactivation des états excités - Cinétique des processus radiatifs et non-radiatifs - Excimères et exciplexes - Transfert d'énergie intermoléculaire - Photo-sensibilisation.[br/][br/][b]3. Réactions photochimiques[/b][br/]Photo-dissociation - Processus multiphotoniques - Transfert d'électron photoinduit - Réactions péricycliques concertées.[br/][br/][b]4. Réactions organiques synthétiques[/b][br/]Réactions des éthènes et composés aromatiques - Photochimie du chromophore carbonyle - Réactions de photo-oxygénation (oxygène singulet, anion superoxyde).[br/][br/][b]5. Photochimie des polymères et des pigments[/b][br/]Photo-polymérisation et photoréticulation - Photo-dégradation et stabilisation des polymères et des pigments.[br/][br/][b]6. Processus photochimiques naturels[/b][br/]Réactions atmosphériques induites par la lumière - Photosynthèse - Mécanismes de la vision.",
+      "Préparation pour":"\"Photochimie II\"",
+      "Bibliographie et matériel":"Cours polycopié, ouvrages conseillé",
+      "Objectifs d'apprentissage":"[br/]Acquisition des bases théoriques de la spectroscopie électronique, de la photochimie et de la photophysique modernes. Appréhension des principes régissant la réactivité des états excités moléculaires et celle des solides sous irradiation. Présentation des grandes classes de processus photochimiques naturels et industriels"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Photochemistry I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

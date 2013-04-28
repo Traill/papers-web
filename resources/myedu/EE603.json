@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2978028&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","603"],
+    "title":"Transient and dynamic analysis of electric power systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2978028&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    },{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To increase the knowledge of simulation methods and the role of computers in the management and the operation of electric power systems. At the end of the course, the students will be able to:[br/][br/][li] analyze and interpret the behavior of a power system according to different operating states,[br/][li] critically assess the choice of power system component models, as well as the possibilities and limits of different numerical methods,[br/][li] understand theoretical models and apply computational tools for the analysis of transients in electric power systems.",
+      "Content":"[br/][li]Dynamic phenomena:[br/][br/][][][][]- Frequency range[br/][][][][]- Power system components modeling[br/][][][][]- General mathematical formulation[br/][][][][]- Transient stability: direct approach, time domain approach, ...[br/][][][][]- Small signal stability: eigenvalues, eigenvectors, participation factors, poorly damped modes, ...[br/][][][][]- Long term stability: load frequency control, automatic generation control, ...[br/][][][][]- Examples of applications[br/][br/][br/][li]Transient phenomena:[br/][br/][][][][]- Sources of disturbances and transients in power systems.[br/][][][][]- Generalized transmission line theory for a multiconductor line[br/][][][][]- Parameters of a multiconductor transmission line[br/][][][][]- Effect of losses due to the ground finite conductivity and corona[br/][][][][]- Interaction with an external electromagnetic field[br/][][][][]- Solution methods in time and frequency domains (FDTD method and BLT equations)[br/][][][][]- Treatment of frequency dependence in a time domain algorithm[br/][][][][]- Treatment of nonlinearities in a frequency domain algorithm[br/][][][][]- Examples of application",
+      "Required prior knowledge":"[br/]Power Systems, Electromagnetism"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Transient and dynamic analysis of electric power systems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":34
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    },{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[br/][li]Dynamic phenomena:[br/][br/][][][][]- Frequency range[br/][][][][]- Power system components modeling[br/][][][][]- General mathematical formulation[br/][][][][]- Transient stability: direct approach, time domain approach, ...[br/][][][][]- Small signal stability: eigenvalues, eigenvectors, participation factors, poorly damped modes, ...[br/][][][][]- Long term stability: load frequency control, automatic generation control, ...[br/][][][][]- Examples of applications[br/][br/][br/][li]Transient phenomena:[br/][br/][][][][]- Sources of disturbances and transients in power systems.[br/][][][][]- Generalized transmission line theory for a multiconductor line[br/][][][][]- Parameters of a multiconductor transmission line[br/][][][][]- Effect of losses due to the ground finite conductivity and corona[br/][][][][]- Interaction with an external electromagnetic field[br/][][][][]- Solution methods in time and frequency domains (FDTD method and BLT equations)[br/][][][][]- Treatment of frequency dependence in a time domain algorithm[br/][][][][]- Treatment of nonlinearities in a frequency domain algorithm[br/][][][][]- Examples of application",
+      "Prérequis":"[br/]Power Systems, Electromagnetism",
+      "Objectifs d'apprentissage":"To increase the knowledge of simulation methods and the role of computers in the management and the operation of electric power systems. At the end of the course, the students will be able to:[br/][br/][li] analyze and interpret the behavior of a power system according to different operating states,[br/][li] critically assess the choice of power system component models, as well as the possibilities and limits of different numerical methods,[br/][li] understand theoretical models and apply computational tools for the analysis of transients in electric power systems."
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Transient and dynamic analysis of electric power systems",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":34
+    }
+  }
+}

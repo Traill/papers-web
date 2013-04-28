@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776087&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MGT","365"],
+    "title":"Human resources in project management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776087&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169570",
+      "name":"Monnin Catherine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous assessment",
+      "Bibliography and material":"Given in class",
+      "Content":"Communication plan[br/]Organization[br/]To solve conflicts[br/]Behaviour [br/]Communication[br/]Motivation[br/]Leadership[br/]Team work[br/][br/]",
+      "Keywords":"Communication - human resources - motivation - human potential",
+      "Type of teaching":"Theoretical and practical",
+      "Learning outcomes":"To understand human factor in project management[br/]To know how to develop its human potential in group[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Human resources in project management",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169570",
+      "name":"Monnin Catherine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Donnée en cours",
+      "Mots clés":"Communication - ressources humaines - motivation - potentiel humain",
+      "Forme d'enseignement":"Théorético-pratique",
+      "Contenu":"Gestion des parties prenantes[br/]- Le plan de communication[br/]- Organisation communautaire[br/]- Gestion des conflits[br/]Gestion d'équipe et comportement[br/]- Communication[br/]- Motivation[br/]- Leadership[br/]- Travail en équipe",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Comprendre l'importance du facteur humain dans le management de projet et savoir développer son potentiel humain pour pouvoir valoriser son projet au sein d'un groupe."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ressources humaines dans les projets",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

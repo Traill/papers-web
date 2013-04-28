@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499350096&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","465"],
+    "title":"Industrial electronics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499350096&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Prerequisite for":"Industrial electronics II",
+      "Required prior knowledge":"Power electronics I",
+      "Content":"[b]Introduction[/b][br/]Concept of automatic systems related to power conversion.[br/][br/][b]Modelling power converters[/b][br/]Models at the circuit level, models at the level of terminals, models as pseudo-continuous systems for different power converters.[br/][br/][b]Modelling electrical machines[/b][br/]Model of electromechanical systems of DCmotor, model of the mechanical load system.[br/][br/][b]Industrial control systems[/b][br/]Control structure, cascade control, analogic and digital control, classical control (PI, PID), state space control, pseudo-continuous design of parameters.[br/]State space control of a single phase AC current system.",
+      "Type of teaching":"Ex cathedra, examples, simulation Matlab/Simulink",
+      "Learning outcomes":"The control aspects bounded to power electronic systems will be presented. Students will learn modelling of power circuits and control functions, together with modelling of electrical machines. Design and implementation of industrial controls will also be presented. Control methods will be applied to real examples like electrical drives or power systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Industrial electronics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electronique de puissance I",
+      "Bibliographie et matériel":"Cours polycopié",
+      "Forme d'enseignement":"Ex cathedra, exemples développés en classe, simulation Matlab/Simulink",
+      "Contenu":"[b]Introduction[/b][br/]Conception des systèmes automatiques liés à l'électronique de puissance.[br/][br/][b]Modélisation des convertisseurs statiques[/b][br/]Modèles au niveau montage, au niveau bornes et comme système pseudo-continu pour les convertisseurs de courant, les variateurs de courant continu et les onduleurs à pulsation; modèle pseudo-continu de la commande.[br/][br/][b]Modélisation des machines électriques[/b][br/]Modèle du système à régler électromagnétique pour les machines à courant continu, modèle du système à régler mécanique.[br/][br/][b]Systèmes de réglage industriels[/b][br/]Structure des circuits de réglage, réglage en cascade; réglages analogiques et digitaux; régulateurs classiques (PI, PID), régulateurs d'état; dimensionnement par traitement pseudo-continu.Réglage d'état d'un système à courant alternatif monophasé.",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Industrial electronics II",
+      "Objectifs d'apprentissage":"Les étudiants seront capables de maîtriser les problèmes de réglage et de commande de systèmes liés à l'électronique de puissance. Ils connaîtront d'une part la modélisation des convertisseurs statiques et des machines électriques du point de vue de l'automatique et d'autre part la conception et la réalisation des réglages industriels. Ces méthodes seront appliquées à des cas concrets, comme des entraînements réglés, ainsi que des installations pour la production et la distribution de l'énergie électrique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Industrial electronics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

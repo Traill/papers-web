@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4649823&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","300"],
+    "title":"Pollutants analysis in the environment",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4649823&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104872",
+      "name":"De Alencastro Luiz Felippe"
+    },{
+      "url":"http://people.epfl.ch/188380",
+      "name":"Knispel Sandra"
+    },{
+      "url":"http://people.epfl.ch/169977",
+      "name":"Ludwig Christian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Class divided in two groups with alternate lectures. 9 first weeks: teaching by Dr L.F. de alencastro and Dr S. Knispel, 5 last weeks: teaching by Prof. Ludwig. A part of the lectures is given in French, another in English.",
+      "Form of examination":"Practical work's reports",
+      "Prerequisite for":"Specialization in environmental Chemistry and Bioprocesses",
+      "Required prior knowledge":"Environmental engineering laboratory,  Environmental chemistry[br/]",
+      "Content":"[br/][li]Analysis of natural water[br/][tab]physical and chemical parameters[br/][tab]field equipment[br/][li]Sediment analysis[br/][tab]organic and metallic pollutants [br/][tab]solvent extraction[br/][tab]identification and quantification of the pollutants[br/][li]Chromatographic methods of separation[br/][li]Analysis by ICP[br/][li]Biological Index[br/][li]Speciation as a tool to understand the behaviour of pollutants[br/][li]Application[br/][tab]Study of the contamination of an ecosystem (river)[br/][tab]Practical determination and use of complex formation constants[br/][br/][br/][br/]",
+      "Keywords":"Physico-chemical analysis, macrozoobenthos, micropollutants, water, sediments",
+      "Type of teaching":"Practical works",
+      "Learning outcomes":"Practical application of the theoretical teaching (4th. semester) in the field of environmental chemistry.[br/]Knowing how to analyze organic and metallic pollutants in soils, sediments and water[br/]Getting insight into the role of complexing agents on the fate of toxic trace metals[br/]Laboratory and field approach.[br/]Treatment and interpretation of the results.[br/]Evaluation of the water quality by mean of biological organisms"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Pollutants analysis in the environment",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104872",
+      "name":"De Alencastro Luiz Felippe"
+    },{
+      "url":"http://people.epfl.ch/188380",
+      "name":"Knispel Sandra"
+    },{
+      "url":"http://people.epfl.ch/169977",
+      "name":"Ludwig Christian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"La classe est divisée en deux groupes, cours alternés. Les 9 premières semaines concernant l'enseignement de Dr L.F. de Alencastro et Dr S. Knispel, les 5 dernières, l'enseignement de Prof. Ch. Ludwig.[br/]Une partie des cours est donnée en français, une autre en anglais.",
+      "Prérequis":"Travaux pratiques pour ingénieur en environnement, chimie environnementale",
+      "Bibliographie et matériel":"Recueil de méthodes d'analyses",
+      "Mots clés":"Analyses physico-chimiques, macrozoobenthos, micropolluants, eau, sediments ",
+      "Forme d'enseignement":"Travaux pratiques",
+      "Contenu":"[li]Analyse des eaux naturelles[br/][tab]paramètres physico-chimiques[br/][tab]équipement de terrain[br/][li]Analyse des sédiments[br/][tab]polluants organiques et métalliques[br/][tab]extraction par solvants[br/][tab]identification et quantification des polluants[br/][li]Méthodes chromatographiques de séparation[br/][li]Analyse par ICP[br/][li]Indices biotiques[br/][li]La spéciation comme outil de compréhension du comportement des polluants[br/][li]Application[br/][tab]étude de la contamination d'un milieu (rivière)[br/][tab]détermination pratique et utilisation des constantes de formation [br/][tab]de complexes[br/][br/]",
+      "Forme du contrôle":"Rapports de travaux pratiques",
+      "Préparation pour":"Spécialisation en Chimie et bioprocédés environnementaux",
+      "Objectifs d'apprentissage":"Application pratique des connaissances théoriques acquises au 4ème semestre en chimie environnementale[br/]Savoir analyser les micropolluants organiques et métalliques dans le sol, les sédiments et les eaux[br/]Aperçu du rôle des agents de complexation dans le devenir des métaux toxiques à l'état de traces[br/]Approche du laboratoire et du terrain[br/]Traitement et interprétation des résultats[br/]Appréciation de la qualité de l'eau par des Indices Biotiques"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse des polluants dans l'environnement",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=466133479&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","719"],
+    "title":"Digital Speech and Audio Coding",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=466133479&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lectures.idiap.ch/","http://lectures.idiap.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/127186",
+      "name":"Magimai Doss Mathew"
+    },{
+      "url":"http://people.epfl.ch/176747",
+      "name":"Motlicek Petr"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to introduce the engineering students state-of-the-art speech and audio coding techniques with an emphasis on the integration of knowledge about sound production and auditory perception through signal processing techniques.",
+      "Content":"1. Introduction:[br/]Human speech production, Music production, Auditory perception, Brief overview on information theory and coding theory.[br/]2. Applied Signal Processing:[br/]Brief overview on sampling and quantization, Discrete Fourier transform, Perfect reconstruction, Quadrature mirror filter, Modified discrete cosine transform, Stereo processing, Linear prediction (LP), Auditory filters, Auditory masking, Perceptual auditory models (Johnston's model, MPEG models), Spectral band replication, Temporal noise shaping.[br/]3. Speech Coding:[br/]Scalar and Vector quantization, Lossless coding,  Waveform and parametric coding, Vocoders, LP coders, Analysis by Synthesis and Code excited LP codec, Adaptive multi-rate (AMR).[br/]4. Audio Coding and Emerging Trends:[br/]Perceptual audio coders, MPEG-1, MPEG-2, MPEG-4, Dolby AC, Sony, AMR-WB, Generic coding.[br/]5. Evaluation and Standardization of Audio and Speech coders:[br/]Objective evaluation techniques (PESQ, PEAQ), Subjective evaluation techniques (MOS, MUSHRA, BS.1116), Standardization (ITU).[br/]6. Laboratory exercises:[br/]Auditory perception models, Auditory filters, Estimation of masking threshold, Simple perceptual waveform coder, Objective quality evaluation techniques.[br/]",
+      "Keywords":"Speech coding, Audio coding, Speech and music production, Auditory perception",
+      "Note":"Course notes (and relevant book chapters) available ",
+      "Required prior knowledge":"Undergraduate level signal processing, Programming in Matlab or similar."
+    },
+    "practical":{
+      "total_hours":12
+    },
+    "language":"English",
+    "title":"Digital Speech and Audio Coding",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lectures.idiap.ch/","http://lectures.idiap.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/127186",
+      "name":"Magimai Doss Mathew"
+    },{
+      "url":"http://people.epfl.ch/176747",
+      "name":"Motlicek Petr"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Speech coding, Audio coding, Speech and music production, Auditory perception",
+      "Contenu":"1. Introduction:[br/]Human speech production, Music production, Auditory perception, Brief overview on information theory and coding theory.[br/]2. Applied Signal Processing:[br/]Brief overview on sampling and quantization, Discrete Fourier transform, Perfect reconstruction, Quadrature mirror filter, Modified discrete cosine transform, Stereo processing, Linear prediction (LP), Auditory filters, Auditory masking, Perceptual auditory models (Johnston's model, MPEG models), Spectral band replication, Temporal noise shaping.[br/]3. Speech Coding:[br/]Scalar and Vector quantization, Lossless coding,  Waveform and parametric coding, Vocoders, LP coders, Analysis by Synthesis and Code excited LP codec, Adaptive multi-rate (AMR).[br/]4. Audio Coding and Emerging Trends:[br/]Perceptual audio coders, MPEG-1, MPEG-2, MPEG-4, Dolby AC, Sony, AMR-WB, Generic coding.[br/]5. Evaluation and Standardization of Audio and Speech coders:[br/]Objective evaluation techniques (PESQ, PEAQ), Subjective evaluation techniques (MOS, MUSHRA, BS.1116), Standardization (ITU).[br/]6. Laboratory exercises:[br/]Auditory perception models, Auditory filters, Estimation of masking threshold, Simple perceptual waveform coder, Objective quality evaluation techniques.",
+      "Mots clés":"Speech coding, Audio coding, Speech and music production, Auditory perception",
+      "Prérequis":"Speech coding, Audio coding, Speech and music production, Auditory perception",
+      "Objectifs d'apprentissage":"The goal of this course is to introduce the engineering students state-of-the-art speech and audio coding techniques with an emphasis on the integration of knowledge about sound production and auditory perception through signal processing techniques."
+    },
+    "practical":{
+      "total_hours":12
+    },
+    "language":"English",
+    "title":"Digital Speech and Audio Coding",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840814050&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","485"],
+    "title":"Tribology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840814050&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105869",
+      "name":"Mischler Stefano"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Tribology is the science of contacting surfaces in relative motion. It includes technical relevant phenomena such as friction, wear and lubrication.[br/][br/]Such phenomena play an essential role for energy and material conservation, a relevant aspect for sustainable development.[br/][br/]This course is an introduction to tribology with specific goals :[br/]- To present the basic principles of tribology and of the system approach.[br/]- To develop the attitude to analyse tribological systems and to identify material requirements.[br/]- To familiarize the student to the correlation between materials properties and tribological behaviour.[br/][br/]",
+      "Content":"[b]BASIC PRINCIPLES[/b][br/]Elastic/plastic contacts, friction, lubrication, deformation and fracture in contacts, wear, third body and tribological flow, experimental techniques.[br/][br/][b]MATERIALS AND CONTACTS[/b][br/]Metals and alloys, ceramics, coatings, polymers and composites.[br/][br/][b]SURFACE CHEMISTRY AND TRIBOLOGY[/b][br/]Reaction layers, tribocorrosion, boundary lubricated wear.[br/][br/][b]APPLICATIONS[/b][br/]Bearings, biomedical implants, micro-technology, materials forming.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra with exercises and case studies[br/]2 presentations by external speakers (in French)",
+      "Form of examination":"sporadic",
+      "Required prior knowledge":"Introduction à la science des matériaux"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Tribology",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105869",
+      "name":"Mischler Stefano"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction à la science des matériaux",
+      "Bibliographie et matériel":"Livres, articles",
+      "Forme d'enseignement":"Ex cathedra avec exercices et études de cas en classe[br/]2 présentations par intervenants extérieurs (en français)",
+      "Contenu":"[b]BASES DE LA TRIBOLOGIE[/b][br/]Contacts élastiques/plastiques, frottement, lubrification, déformation et rupture dans les contacts, usure, troisième corps et circuit tribologique, expérimentation.[br/][br/][b]MATÉRIAUX ET CONTACTS[/b][br/]Métaux et alliages, céramiques, revêtements, polymères et composites.[br/][br/][b]CHIMIE DE SURFACE ET TRIBOLOGIE[/b][br/]Couches de réaction, tribocorrosion, usure en régime limite.[br/][br/][b]APPLICATIONS[/b][br/]Paliers et roulements, implants biomédicaux, microtechnique, procédés de mise en forme.",
+      "Forme du contrôle":"Ponctuel",
+      "Objectifs d'apprentissage":"La tribologie est définie comme la science des surfaces en contact soumises à un déplacement relatif et comprend ainsi des phénomènes techniques tels que le frottement, l'usure et la lubrification.[br/][br/]Ces phénomènes sont d'importance particulière pour la conservation d'énergie et des matériaux et donc pour le développement durable.[br/][br/]Ce cours d'introduction à la tribologie a pour objectifs de : [br/]- Présenter les fondements de la tribologie et de l'approche systémique.[br/]- Développer l'attitude d'analyse des systèmes tribologiques et de choix de matériaux.[br/]- Familiariser l'étudiant aux corrélations entre propriétés des matériaux et leur comportement tribologique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Tribology",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

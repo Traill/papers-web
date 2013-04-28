@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772762&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","201"],
+    "title":"Microengineering components II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772762&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101874",
+      "name":"Henein Simon Nessim"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The students will be able to :[br/][li]Design the mechanisms of a microtechnical system that fulfill the given functions. [br/][li]Dimension the components (standard or specific to the construction).[br/][li]Represent the concepts by using construction and detail drawings.[br/][li]Lead a group project.[br/]",
+      "Content":"[b]Product design[/b] methodology.[br/]Motion [b]transformation[/b] :[br/][li]Kinematics laws of motion.[br/][li]Technologies used and dimensioning methods.[br/][b]Flexible elements[/b]:[br/][li]F - x characteristics (load - deflection curve), serial and parallel arrangement, combination, systems with variable stiffness.[br/][li]Helical extension, compression and torsion  springs.[br/][li]Torsion beam, spiral spring.[br/][li]Use, dimensioning and manufacturing technology. [br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microengineering components II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-905430-04-5&amp;con_lng=ENG\" target=\"blank\">Extrait de normes pour écoles et professions de la mécanique / éd. par la Société suisse des constructeurs de machines</a>\". Year:2002. ISBN:3-905430-04-5</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101874",
+      "name":"Henein Simon Nessim"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Composants de la Microtechnique I, Matériaux microtechniques, Mécanique des structures",
+      "Bibliographie et matériel":"Polycopié \"Composants de la microtechnique\", Extrait de Normes, Doc. de fournisseurs",
+      "Forme d'enseignement":"Exposé oral de la théorie et de certains points du projet + travail par projet",
+      "Contenu":"[b]Méthodologie de conception[/b] de produits.[br/][b]Transformation[/b] de mouvements : [br/][li]Lois de mouvements et cinématique.[br/][li]Technologies utilisées et méthodes de dimensionnement.[br/][b]Eléments élastiques[/b]: [br/][li]Caractéristique F - x, disposition en série et en parallèle, combinaison, systèmes à raideur variable.[br/][li]Ressorts hélicoïdaux de traction, compression, torsion.[br/][li]Barres de torsion, ressort spiral.[br/][li]Utilisation, dimensionnement et technologie de fabrication.",
+      "Forme du contrôle":"Rapport du projet et défenses en cours de semestre (défense intermédiaire) et en fin de semestre (75%). Combinaison avec le test \"Composants de la microtechnique I\" en fin de semestre d'automne (25%).",
+      "Préparation pour":" Conception de produits, Bases de la robotique, Robotique industrielle et appliquée",
+      "Objectifs d'apprentissage":"Les étudiants seront capables de :[br/][li]Concevoir les mécanismes d'un système microtechnique répondant à des fonctions données.[br/][li]Dimensionner les composants (standards ou spécifiques à la construction).[br/][li]Représenter les concepts sous la forme de dessins de construction et de détails.[br/][li]Conduire un projet en groupe."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Composants de la microtechnique II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-905430-04-5&amp;con_lng=FRE\" target=\"blank\">Extrait de normes pour écoles et professions de la mécanique / éd. par la Société suisse des constructeurs de machines</a>\". Année:2002. ISBN:3-905430-04-5</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

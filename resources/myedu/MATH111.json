@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4148417&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","111"],
+    "title":"Linear algebra",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4148417&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224282",
+      "name":"Hausel Tamás"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Learn the techniques of matrix algebra, be able to execute the corresponding mathematical manipulations and to apply these techniques in problems connected to one's specialization area.[br/][br/]The student will have to master the tools necessary to the resolution of problems connected to linearity, orthogonality and matrix diagonalization.",
+      "Content":"[li]Systems of linear equations[br/][li]Matrix Algebra[br/][li]Determinants[br/][li]Vector spaces[br/][li]Eigenvalues and eigenvectors[br/][li]Orthogonality and least-squares[br/][li]Symmetric matrices and quadratic forms",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Prerequisite for":"Analysis II and III",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Linear algebra",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=ENG\" target=\"blank\">AlgÃ¨bre linÃ©aire : thÃ©orie, exercices et applications / David C. Lay</a>\". Year:2004. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-779-4&amp;con_lng=ENG\" target=\"blank\">Bien commencer ses Ã©tudes scientifiques : savoir-faire en maths / Yves Biollay, Amel Chaabouni, Joachim Stubbe</a>\". Year:2008. ISBN:978-2-88074-779-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-28713-4&amp;con_lng=ENG\" target=\"blank\">Linear algebra and its applications / David C. Lay</a>\". Year:2006. ISBN:0-321-28713-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224282",
+      "name":"Hausel Tamás"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Linear Algebra and its Applications, D.C. Lay, 3rd edition (or updated 2nd edition), Addison-Wesley.[br/]Algèbre Linéraire, Théorie, exercices et applications, D.C. Lay, traduction 3e édition, De Boeck et Larcier.[br/]\"Savoir-faire en mathématiques\", brochure de la Section de mathématiques.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[li]Systèmes d'équations linéaires[br/][li]Calcul matriciel[br/][li]Déterminants[br/][li]Espaces vectoriels[br/][li]Valeurs et vecteurs propres[br/][li]Orthogonalité et moindres carrés[br/][li]Matrices symétriques et formes quadratiques",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Analyse II et III",
+      "Objectifs d'apprentissage":"Apprendre les techniques du calcul matriciel, être apte à effectuer les manipulations mathématiques correspondantes et être capable d'appliquer ces techniques dans des problèmes issus de son domaine de spécialisation.[br/][br/]L'étudiant devra maîtriser les notions nécessaires à la résolution des problèmes liés à la linéarité, à l'orthogonalité et à la diagonalisation des matrices."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Linear algebra",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=FRE\" target=\"blank\">AlgÃ¨bre linÃ©aire : thÃ©orie, exercices et applications / David C. Lay</a>\". Année:2004. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-779-4&amp;con_lng=FRE\" target=\"blank\">Bien commencer ses Ã©tudes scientifiques : savoir-faire en maths / Yves Biollay, Amel Chaabouni, Joachim Stubbe</a>\". Année:2008. ISBN:978-2-88074-779-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-28713-4&amp;con_lng=FRE\" target=\"blank\">Linear algebra and its applications / David C. Lay</a>\". Année:2006. ISBN:0-321-28713-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771058&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","473"],
+    "title":"Embedded systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771058&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/","http://moodle.epfl.ch/course/"],["http://fpga4u.epfl.ch","http://fpga4u.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100366",
+      "name":"Beuchat René"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"With continuous control.[br/]all labos 25%, mini-projet 25%, oral exam 50%[br/]",
+      "Bibliography and material":"Teaching notes and suggested reading material[br/]Specialized datasheet and norms[br/]",
+      "Prerequisite for":"Real-time embedded systems",
+      "Required prior knowledge":"Introduction to computer hardware, Electronic, logic systems, computer architecture, Programming (C/C++), VHDL.[br/]",
+      "Content":"[li]\tMicrocontroller and associated programmable interfaces[br/][li]\tHardcore/softcore processors[br/][li]\tMemory organization, little/big endian[br/][li]\tSynchronous/asynchronous bus, dynamic bus sizing[br/][li]\tProcessor bus, bus realized  in a FPGA[br/][li]\tSerial bus [br/][li]\tBasic on graphical screen and CMOS camera[br/][li]\tEmbedded systems conception[br/][li]\tembedded processor on FPGA[br/][br/]Laboratories provide knowledge to develop an embedded system based on FPGA4u module (http://fpga4u.epfl.ch). [br/]",
+      "Type of teaching":"Ex cathedra and exercises, mini-project",
+      "Learning outcomes":"This course is oriented hardware and interfaces. It presents in details the different part of an embedded system.[br/]The first part explains the different elements of this kind of system, with processors, standards parallel and serial bus, processor busses (asynchronous, synchronous), memories, programmable interfaces and electronic interfaces.[br/]FPGA hardcore and softcore embedded processors are described and used in laboratories.[br/]Conception methodology of some architecture is put in application with practical works in VHDL on FPGA. Programming of the embedded processor in mainly done in C. [br/]Microcontrollers are studied and their used emphasized in the course with the help of laboratories.[br/]Laboratories are associated with main topics.[br/]At the end of semester, students have to be able to design an embedded system based on microcontroller and FPGA. They will be able to realize it on a FPGA board."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Embedded systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/","http://moodle.epfl.ch/course/"],["http://fpga4u.epfl.ch","http://fpga4u.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100366",
+      "name":"Beuchat René"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction aux systèmes informatiques, Electronique, Systèmes logiques, Architecture des ordinateurs, Programmation (C/C++), VHDL.",
+      "Bibliographie et matériel":"Teaching notes and suggested reading material[br/]Specialized datasheet and norms[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices, mini-projet",
+      "Contenu":"[li]\tMicrocontrôleur et interfaces programmables associés[br/][li]\tProcesseurs hardcore/softcore sur FPGA[br/][li]\tOrganisation mémoire little/big endian[br/][li]\tBus synchrones et asynchrones, taille de bus dynamique[br/][li]\tBus processeur, bus réalisés dans une FPGA[br/][li]\tBus série [br/][li]\tEcrans LCD, graphiques, caméras CMOS[br/][li]\tMéthodologie et conception de systèmes embarqués[br/][li]\tSystèmes embarqués à FPGA, processeurs intégrés[br/][br/]Laboratoires amenant à la réalisation d'un système embarqué basé sur le module FPGA4u (http://fpga4u.epfl.ch).[br/]",
+      "Forme du contrôle":"avec contrôle continu.[br/]ensemble des labos 25%, mini-projet 25%, examen oral 50%",
+      "Préparation pour":"Real-time embedded systems",
+      "Objectifs d'apprentissage":"Ce cours est fortement orienté matériel et interfaçage matériel. Il présente de façon détaillée les divers constituants d'un système embarqué tels que processeurs, les bus généraux, les bus de processeurs, les mémoires, les interfaces programmables et les liens avec l'électronique. La programmation est réalisée en C.[br/]Les principes de processeurs « hardcore » et « softcore » embarqués sur FPGA sont étudiés au cours et mis en oeuvre lors de laboratoires. La méthodologie de conception de tels systèmes est mise en application lors des travaux pratiques, notamment lors de conception d'interfaces programmables en VHDL pour FPGA.[br/]L'étude de microcontrôleurs et leur mise en ½uvre complètent ce cours. Des laboratoires sont associés pour les domaines principaux.[br/]Au terme du semestre, l'étudiant doit être capable de concevoir un système embarqué spécialisé basé sur des microcontrôleurs et des systèmes basés sur des FPGA. [br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Embedded systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

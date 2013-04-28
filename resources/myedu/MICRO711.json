@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80873164&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","711"],
+    "title":"RF MEMS for communications applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80873164&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://nanolab.epfl.ch","http://nanolab.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course aims to provide basic knowledge about RF MEMS and their role in communications applications. The technology, device architecture and principle, design, simulation and modeling, are presented with examples from state-of-the-art. Designs of RF ICs with MEMS, resulting in novel functionality and performance, are presented. A particular focus is on the MEMS resonator technology and its hybridization with CMOS. The scaling of MEMS resonators is particularly discussed. The lecture also adresses packaging and reliability issues of RF MEMS de-vices. Finally, the potential of Carbon Nanotube technology for RF NEMS is discussed.",
+      "Content":"[li] RF MEMS switches: capacitive, contact, technology, electromechanical and RF design and mod-elling, figures of merit, reliability and advanced packaging. [br/][li] RF MEMS passives for reconfigurable and/or tunable transceiver/receiver architectures. Technology and CMOS compatibility. [br/][li] MEMS resonators and FBARs for essential circuit functions: filtering, mixing and frequency reference. Design, technology and Figures of merit. Resonator arrays and techniques for improvement of motional resistance. [br/][li] Resonant-gate MOS transistor: (i) hybrid MEMS-MOS switch, (ii) hybrid MEMS-MOS resonator with intrinsic gain and (iii) 1T memory cell. [br/][li] Design of RF MEMS circuits: oscillators with MEMS and FBAR resonators[br/][li] ANSYS simulation of RF MEMS: key case studies - MEMS capacitor,MEMS resonator. Hybrid ISE-ANSYS simulations: suspended gate FET and metal/semiconductor MEMS.[br/][li] Carbon Nanotubes based RF NEMS[br/]",
+      "Keywords":"RF MEMS, MEMS passives, MEMS resonators, FBAR, NEMS, Resonant-gate transistor",
+      "Note":"[br/]",
+      "Required prior knowledge":"Basic lectures in physics and electronics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"RF MEMS for communications applications",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://nanolab.epfl.ch","http://nanolab.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] RF MEMS switches: capacitive, contact, technology, electromechanical and RF design and mod-elling, figures of merit, reliability and advanced packaging. [br/][li] RF MEMS passives for reconfigurable and/or tunable transceiver/receiver architectures. Technology and CMOS compatibility. [br/][li] MEMS resonators and FBARs for essential circuit functions: filtering, mixing and frequency reference. Design, technology and Figures of merit. Resonator arrays and techniques for improvement of motional resistance. [br/][li] Resonant-gate MOS transistor: (i) hybrid MEMS-MOS switch, (ii) hybrid MEMS-MOS resonator with intrinsic gain and (iii) 1T memory cell. [br/][li] Design of RF MEMS circuits: oscillators with MEMS and FBAR resonators[br/][li] ANSYS simulation of RF MEMS: key case studies - MEMS capacitor,MEMS resonator. Hybrid ISE-ANSYS simulations: suspended gate FET and metal/semiconductor MEMS.[br/][li] Carbon Nanotubes based RF NEMS[br/]",
+      "Mots clés":"RF MEMS, MEMS passives, MEMS resonators, FBAR, NEMS, Resonant-gate transistor",
+      "Prérequis":"Basic lectures in physics and electronics",
+      "Objectifs d'apprentissage":"The course aims to provide basic knowledge about RF MEMS and their role in communications applications. The technology, device architecture and principle, design, simulation and modeling, are presented with examples from state-of-the-art. Designs of RF ICs with MEMS, resulting in novel functionality and performance, are presented. A particular focus is on the MEMS resonator technology and its hybridization with CMOS. The scaling of MEMS resonators is particularly discussed. The lecture also adresses packaging and reliability issues of RF MEMS de-vices. Finally, the potential of Carbon Nanotube technology for RF NEMS is discussed."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"RF MEMS for communications applications",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784636115&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","104"],
+    "title":"Introduction to mechanical engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784636115&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104596",
+      "name":"Bonvin Dominique"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous ",
+      "Required prior knowledge":"[li]none",
+      "Content":"The course is based on presentations by Mechanical Engineering professionals, mainly external to EPFL.[br/]The students will be required to think in advance about the presented topics and to provide in advance significant questions to rise to the speaker.[br/]",
+      "Keywords":"Engineering profession, Mechanical engineering",
+      "Type of teaching":"Seminars, presentations and group works ",
+      "Learning outcomes":"[b]Transversal skills:[/b][br/][li]Take notes effectively, T3[br/][li]Summarize an article or a technical report, T5[br/][li]Evaluate the needs for personal development, T22[br/][li]Be interested in the evolution of the profession, T24[br/][li]Ensure his/her own employability, T26"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to mechanical engineering",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104596",
+      "name":"Bonvin Dominique"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]aucun",
+      "Bibliographie et matériel":"néant",
+      "Mots clés":"Profession d'ingénieur, Génie mécanique ",
+      "Forme d'enseignement":"Séminaires, présentations et travaux de groupe",
+      "Contenu":"Le cours est organisé sous forme de présentations de professionnels du Génie mécanique, principalement externes à l'EPFL.[br/]Les étudiants seront amenés à réfléchir à l'avance aux sujets présentés et à remettre à l'avance des questions pertinentes à poser à l'orateur.",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"[b]Compétences transversales:[/b][br/][li]Prendre des notes de manière efficace, T3[br/][li]Faire un résumé d'un article ou d'un document technique, T5[br/][li]Evaluer ses besoins de développement, T22[br/][li]Faire preuve de curiosité pour les évolutions de la profession, T24[br/][li]Assurer son employabilité, T26"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction au génie mécanique",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

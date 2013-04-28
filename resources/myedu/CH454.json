@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350477614&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","454"],
+    "title":"Modern chemical dynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350477614&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/116115",
+      "name":"Osterwalder Andreas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Theories and methods for the description and experimental study of Chemical Reaction Dynamics will be introduced.[br/]A special focus will be put on recent developments, in particular the study of fundamental chemical reactions near absolute zero. At very low temperatures many effects become observable that are hidden or non-existent at room-temperature. Prominent examples for such effects are the tunneling through reaction barriers, or resonances in the reaction cross section.[br/] [br/]",
+      "Content":"Basic models for chemical reactions[br/]Dynamics of chemical reactions[br/]Ion-molecule reactions[br/]Chemical reactions near 0 K[br/][br/]Methods to study chemical reactions[br/]Molecular beams[br/]Crossed molecular beams studies[br/]Methods to produce cold neutral molecules[br/]Experimental study of chemical reactions near 0 K[br/] "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modern chemical dynamics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/116115",
+      "name":"Osterwalder Andreas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Modèles de base pour les réactions chimiques[br/]Dynamiques de réactions chimiques[br/]Réactions ion-molécules[br/]Réactions chimiques proches de 0 K[br/][br/]Méthodes pour l'étude des réactions chimiques[br/]Faisceaux moléculaires[br/]Etude des faisceaux moléculaires croisés[br/]Méthodes de production de molécules froides et neutres[br/]Etude expérimentale des réactions chimiques proches de 0 K",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Chimie quantique\", \"Thermodynamiques\", \"Cinétique\"",
+      "Objectifs d'apprentissage":"Introduction des théories et méthodes pour permettre la description et l'étude expérimentale de la dynamique de réactions chimiques.[br/]Une attention spéciale sera mise sur les développements récents, en particulier sur l'étude des réactions chimiques élémentaires proche du zéro absolu. A très basse température, beaucoup d'effets deviennent observables, qu'ils soient cachés ou non-existants, à température ambiante.[br/]Des exemples importants illustrent l'effets tunnel à travers des barrières réactionnelles ou des résonances durant la réaction."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modern chemical dynamics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

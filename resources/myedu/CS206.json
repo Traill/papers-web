@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772852&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","206"],
+    "title":"Concurrency",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772852&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lsrwww.epfl.ch/page10201.html","http://lsrwww.epfl.ch/page10201.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106377",
+      "name":"Schiper André"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"With continuous control",
+      "Bibliography and material":"Polycopy, transparencies copies",
+      "Required prior knowledge":"Programmation Java.[br/]Basic Knowledge of C (or take at the same time the course [i]Programmation orientée système[/i]",
+      "Content":"Notion of a process, Java threads[br/]Mutual exclusion, synchronization, semaphores[br/]Multiprocessors[br/]Kernel implementation[br/]POSIX Threads[br/]UPPAAL model checker[br/]Rendez-vous[br/]Simulation",
+      "Type of teaching":"Ex cathedra and mini-project",
+      "Learning outcomes":"The student will learn the problems specific to concurrent programming, as well as solutions to these problems. He/she will also understand the role of the kernel of a concurrent system. Through the mini-projects, he/she will learn to design a concurrent program."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Concurrency",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-093-2&amp;con_lng=ENG\" target=\"blank\">Programmation concurrente : illustrée par des exemples en Portal, Modula-2 et Ada / André Schiper</a>\". Year:2000. ISBN:2-88074-093-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lsrwww.epfl.ch/page10201.html","http://lsrwww.epfl.ch/page10201.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106377",
+      "name":"Schiper André"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Programmation Java.[br/]Connaissances basiques en C (ou suivre parallèlement le cours [i]Programmation orientée système[/i]",
+      "Bibliographie et matériel":"Polycopié, copie des transparents",
+      "Forme d'enseignement":"Ex cathedra et mini-projets",
+      "Contenu":"Notion de processus, threads Java[br/]Exclusion mutuelle, synchronisation, sémaphores[br/]Moniteurs, moniteurs de Java[br/]Multprocesseurs[br/]Implémentation d'un noyau[br/]Threads POSIX [br/]Model checker UPPAAL[br/]Rendez-vous[br/]Simulation",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Objectifs d'apprentissage":"L'étudiant comprendra les problèmes spécifiques à la programmation concurrente, ainsi que les solutions à ces problèmes. Il comprendra également le rôle et le fonctionnement d'un noyau de système concurrent. Dans le cadre des mini-projets, il apprendra à concevoir un programme concurrent."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Concurrence",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-093-2&amp;con_lng=FRE\" target=\"blank\">Programmation concurrente : illustrée par des exemples en Portal, Modula-2 et Ada / André Schiper</a>\". Année:2000. ISBN:2-88074-093-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

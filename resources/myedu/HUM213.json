@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773002&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","213"],
+    "title":"Cognitive psychology A",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773002&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218732",
+      "name":"Mohr Christine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Cognitive psychology A",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218732",
+      "name":"Mohr Christine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Enseignante:[/b][br/]Christine Mohr, professeure (Institut de psychologie, UNIL)",
+      "Bibliographie et matériel":"Sera annoncée dans les cours",
+      "Mots clés":"Psychologie cognitive, perception, attention, mémoire, langage, imagerie mentale, pensée, raisonnement",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"[b]Introduction à la psychologie cognitive[/b][br/][br/]Les concepts classiques et études en psychologie cognitive portant sur la perception, l'attention, la mémoire, le langage, l'imagerie mentale, la formation de concepts, la pensée et le raisonnement seront présentés. Plusieurs des études présentées sont des classiques de la psychologie cognitive qui influence encore aujourd'hui notre compréhension du comportement humain, et des études associées d'imagerie cérébrale, d'études cliniques et pharmacologiques.   ",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant-e sera capable de :[br/][li]maîtriser des connaissances de base sur la psychologie comportementale et expérimentale;[br/][li]comprendre quelques champs classiques de psychologie cognitive;[br/][li]exercer un regard critique sur quelques idées préconçues sur le comportement humain et la perception. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Psychologie cognitive A",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

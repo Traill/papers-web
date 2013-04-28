@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353831841&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","426"],
+    "title":"Logistics and demand analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353831841&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106738",
+      "name":"Wieser Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To present the logistic function of the company. To show how this transversal function integrate all dimensions of the industrial processes into addition of value, since purchasing to customers. To present the challenges of logistics as regards global management (systemic approach) of lows and resources. To show the need to modelize the customer demand by a forecasting approach. ",
+      "Content":"[li] Logistics definition[br/][li] Logistics as integrated factor[br/][li] The new challenges of logistics: supply chain management[br/][li] Logistics strategy[br/][li] Success factors[br/][li] Information systems in logistics[br/][li] Globalization, insourcing and outsourcing [br/][li] Flows and resources management[br/][li] Stocks management, warehouse management[br/][li] Traceability and synchronization[br/][li] Key performance indicator[br/][li] Forecasting analysis, forecast and information system, forecast and process management[br/][li] Examples, case studies[br/][li] Software training",
+      "Type of teaching":"Lectures, practical exercises",
+      "Form of examination":"50% project during the semester[br/]50% final exam",
+      "Bibliography and material":"Coursepack"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Logistics and demand analysis",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106738",
+      "name":"Wieser Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, exercices pratiques",
+      "Contenu":"[li] Définition de la logistique[br/][li] La logistique comme facteur d'intégration des fonctions de l'entreprise[br/][li] Les enjeux et les défis actuels de la logistique, le supply chain management[br/][li] La stratégie logistique[br/][li] Les facteurs de réussite[br/][li] Les systèmes d'information[br/][li] La globalisation des marchés (insourcing et outsourcing d'activités)[br/][li] La gestion des flux et des ressources[br/][li] La gestion des stocks, gestion d'entrepôts[br/][li] La traçabilité et la synchronisation des flux [br/][li] Les mesures de performance[br/][li] L'analyse prévisionnelle et son intégration dans les processus de gestion de l'entreprise[br/][li] Exemples, études de cas[br/][li] Applications informatiques",
+      "Forme du contrôle":"50% projet durant le semestre[br/]50% examen final",
+      "Bibliographie et matériel":"Fascicule polycopié",
+      "Objectifs d'apprentissage":"Présenter la fonction logistique de l'entreprise. Montrer comment cette fonction, transversale par excellence, intègre toutes les dimensions des processus industriels à ajout de valeur, de l'approvisionnement à la distribution aux clients. Présenter les défis et les enjeux actuels de la logistique en matière de gestion globale (approche systémique) des flux et des ressources. Montrer la nécessité d'anticiper la demande du client par une approche prévisionnelle."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Logistique et analyse de la demande",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

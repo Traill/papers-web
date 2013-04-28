@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1373982665&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","624"],
+    "title":"CCMX Advanced Course 'Atomic Force Microscopy (AFM): Theory and Practice' (Empa Dübendorf)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1373982665&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["www.ccmx.ch/news/news-single/article/144/31/","www.ccmx.ch/news/news-single/article/144/31/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220851",
+      "name":"Hug Hans Josef"
+    },{
+      "url":"http://people.epfl.ch/182643",
+      "name":"Mueller Daniel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"[li]Introduction to AFM and its application to different research areas of interest to PhD students and researchers from industry.[br/][li]AFM principles and applications in bioscience.[br/][li]Best practices and improvement of the participants' AFM experience in the laboratory, focusing on AFM operation modes including contact mode, intermittent contact mode, true non-contact mode in vacuum, peak force, high speed AFM, and, measuring different tip-sample forces including shortrange forces, van der Waals forces, electrostatic (Kelvin) forces, and magnetic, forces.[br/][li]Properties that can be measured, including surface topography, surface roughness, phase contrast (material contrast), spectroscopic measurements (force/distance curves).[br/][li]Combination of AFM and ToF-SIMS techniques.[br/][li]Hands-on practice with instruments supplied by Bruker, NanoScan and Nanosurf (Nanosurf easyScan2 FlexAFM System).[br/]"
+    },
+    "practical":{
+      "total_hours":13
+    },
+    "language":"English",
+    "title":"CCMX Advanced Course 'Atomic Force Microscopy (AFM): Theory and Practice' (Empa Dübendorf)",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["www.ccmx.ch/news/news-single/article/144/31/","www.ccmx.ch/news/news-single/article/144/31/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220851",
+      "name":"Hug Hans Josef"
+    },{
+      "url":"http://people.epfl.ch/182643",
+      "name":"Mueller Daniel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":13
+    },
+    "language":"English",
+    "title":"CCMX Advanced Course 'Atomic Force Microscopy (AFM): Theory and Practice' (Empa Dübendorf)",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

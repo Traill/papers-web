@@ -1,0 +1,127 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772030&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","104"],
+    "title":"Biology II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772030&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185233",
+      "name":"Auwerx Johan"
+    },{
+      "url":"http://people.epfl.ch/169115",
+      "name":"Brisken Cathrin"
+    },{
+      "url":"http://people.epfl.ch/141236",
+      "name":"Duboule Denis"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    },{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    },{
+      "url":"http://people.epfl.ch/170716",
+      "name":"Schorderet Daniel Francis"
+    },{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    },{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course, the continuation of Biology I, has the same main goal: to provide students with a first overview of life sciences in their diversity. ",
+      "Content":"[b]Part III : Evolution (Duboule)[/b][br/]Evolution of species :[br/][li]Origin of species, Darwinian theory,[br/][li]The history of life on earth.[br/]Evolution of genomes[br/][li]Contribution from bioinformatics.[br/]Evolution of populations[br/]Animal developement :[br/][li]The evo-devo perspective.[br/][b]Part IV : Diversité des organismes (Lemaitre)[/b][br/][li]Bacteria   Archeae[br/][li]Protists   Fungi[br/][li]Animals (Invertebrate and Vertebrate)[br/][li]Immune system[br/][b]Part V : Neurosciences (Magistretti)[/b][br/][li]Neurons / synapses[br/][li]Functional organization in neuronal circuits[br/][li]Animal behavior[br/][b]Part VI : Introduction to Physiology (Pralong)[/b][br/][li]The concept of homeostasis and animal adaptation[br/][li]Compared physiology of the cardio-vascular system[br/][li]Compared physiology of the digestive system"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biology II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73975-9&amp;con_lng=ENG\" target=\"blank\">Campbell biology / Jane B. Reece ... [et al.]</a>\". Year:2011. ISBN:978-0-321-73975-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-50156-1&amp;con_lng=ENG\" target=\"blank\">Student study guide for Biology, Campbell - Reece / Martha R. Taylor</a>\". Year:2008. ISBN:978-0-321-50156-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185233",
+      "name":"Auwerx Johan"
+    },{
+      "url":"http://people.epfl.ch/169115",
+      "name":"Brisken Cathrin"
+    },{
+      "url":"http://people.epfl.ch/141236",
+      "name":"Duboule Denis"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    },{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    },{
+      "url":"http://people.epfl.ch/170716",
+      "name":"Schorderet Daniel Francis"
+    },{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    },{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Biology, 8th ed. Campbell and coauthors, Pearson International Edition ",
+      "Forme d'enseignement":"Cours et exercices",
+      "Contenu":"[b]Partie III : Evolution (Duboule) [/b] [br/]Evolution des espèces :[br/][li] origine des espèces, théorie darwinienne[br/][li] histoire de la vie sur Terre.[br/]Evolution des génomes[br/][li] contribution de la bioinformatique.[br/]Evolution des populations[br/]Développement animal :[br/][li] la perspective évo-dévo.[br/][b]Partie IV : Diversité des organismes (Lemaitre)[/b] [br/][li] Bactéries   Archées[br/][li] Protistes   Champignons[br/][li] Animaux (Invertébrés et Vertébrés)[br/][li] Système immunitaire [br/][b]Partie V : Neurosciences (Magistretti)[/b] [br/][li] Neurones / synapses[br/][li] Organisations en circuits neuronaux[br/][b]Partie VI : Introduction à la physiologie (Pralong)[/b][br/][li] Le concept d'homéostasie et d'adaptation animale[br/][li] Physiologie comparée du système cardio-respiratoire[br/][li] Physiologie comparée du  système digestif",
+      "Forme du contrôle":"Contrôle continu pendant le semestre",
+      "Préparation pour":"Biologie cellulaire et moléculaire II",
+      "Objectifs d'apprentissage":"Ce cours poursuit les mêmes objectifs que Biologie I dont il est la continuation : donner aux étudiants un premier survol des sciences de la vie dans leur très grande diversité."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73975-9&amp;con_lng=FRE\" target=\"blank\">Campbell biology / Jane B. Reece ... [et al.]</a>\". Année:2011. ISBN:978-0-321-73975-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-50156-1&amp;con_lng=FRE\" target=\"blank\">Student study guide for Biology, Campbell - Reece / Martha R. Taylor</a>\". Année:2008. ISBN:978-0-321-50156-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

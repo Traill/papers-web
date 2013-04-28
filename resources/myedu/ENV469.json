@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24002581&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","469"],
+    "title":"Systems of environmental management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24002581&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112854",
+      "name":"Baracchini Paolo"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[br/][li]To evaluate the significance and the importance of the application of the EMS for the company, to know the international standards EMS and family ISO 14000. [br/][li]To analyze the determining aspects for the implementation of the environmental management system of (EMS) based on the standard ISO 14001.[br/][li]To know the principles and the role of the principal tools of the EMS:  LCA, audits, indicators of performance.[br/][li]To take note of the practices achievements in company.[br/]",
+      "Content":"[li]The Swiss environmental policy and the environmental management. [br/][li]International standards in the field of the environment[br/][li]Requirements of the standard ISO 14001[br/][li]To apply the standard ISO 14001: the management environmental system[br/][li]The continuous improvement [br/][li]Operational application of EMS in the organisation[br/][li]Monitoring, interns audits and environmental indicators[br/][li]Monitoring and environmental performance[br/][li]Certification process[br/][li]Integration of EMS in the Sustainable Management[br/]",
+      "Type of teaching":"Cours with integrated practical exercices",
+      "Form of examination":"100 % continuous control during the semester.[br/]Written presentation on the basis of dossier"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systems of environmental management",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-760-2&amp;con_lng=ENG\" target=\"blank\">Guide à la mise en place du management environnemental en entreprise selon ISO 14001 / Paolo Baracchini</a>\". Year:2007. ISBN:978-2-88074-760-2</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112854",
+      "name":"Baracchini Paolo"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours avec exercices pratiques intégrés",
+      "Contenu":"[li]La politique environnementale suisse et le management environnemental. [br/][li]Les normes internationales dans le domaine de l'environnement[br/][li]Les exigences de la norme ISO 14001[br/][li]Appliquer la norme ISO 14001: le système de management environnemental[br/][li]L'amélioration continue[br/][li]Appliquer le SME dans l'organisation[br/][li]Monitoring et performance environnementale[br/][li]Processus de certification[br/][li]Intégrer le SME dans le Management Durable[br/]",
+      "Forme du contrôle":"100 % contrôle continu pendant le semestre.[br/]Présentation écrite sur la base d'un dossier",
+      "Bibliographie et matériel":"Guide à la mise en place des systèmes de management environnementaux selon ISO 14001, Paolo Baracchini, PPUR, 2007.",
+      "Objectifs d'apprentissage":"[br/][li]Évaluer la signification et l'importance de l'application du SME pour l'entreprise, connaître les normes internationales SME et famille ISO 14000.[br/][li]Analyser les aspects déterminants pour l'implémentation du système de management environnemental (SME) basé sur la norme ISO 14001.[br/][li]Présenter la problématique des outils principaux du SME: écobilans, audits, indicateurs de performance.[br/][li]Prendre connaissance des réalisations pratiques en entreprise.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes de management environnementaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-760-2&amp;con_lng=FRE\" target=\"blank\">Guide à la mise en place du management environnemental en entreprise selon ISO 14001 / Paolo Baracchini</a>\". Année:2007. ISBN:978-2-88074-760-2</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

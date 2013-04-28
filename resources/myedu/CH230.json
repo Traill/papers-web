@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513577805&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","230"],
+    "title":"Organic chemistry laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513577805&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206332",
+      "name":"Zhu Jieping"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Apply basic notions of organic chemistry (planning, settling, monitoring and analysis of chemical reactions) to the presentation of simple organic derivatives. Instruction on the behavior in organic synthesis laboratories. Instruction on the use of a labbook and on the preparation of scientific reports.[br/]",
+      "Content":"[li] Preparation and purification of simple organic molecules according to functionalities and reaction mechanisms[br/][li] Two monostep syntheses[br/][li] Planning of the work of a chemist within time and space"
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Organic chemistry laboratory Work",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206332",
+      "name":"Zhu Jieping"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Travaux pratiques en laboratoires",
+      "Contenu":"[li] Préparation de molécules organiques simples selon les classes de fonctions et les mécanismes réactionnels[br/][li] Deux synthèses monostades[br/][li] Planification du travail de chimiste de synthèse dans le temps et dans l'espace",
+      "Forme du contrôle":"Contrôle continu",
+      "Prérequis":"[li] \"Atomes, ions,  molécules et fonctions I et II\"[br/][li] \"Chimie TP I\"",
+      "Objectifs d'apprentissage":"Application des notions de base de la chimie organique (planification, mise en route, suivi et analyse de réactions chimiques) à la préparation de composés organiques simples. Instruction sur le comportement du chimiste de synthèse au laboratoire. Apprentissage des normes pour la tenue d'un cahier de laboratoire et la rédaction de rapports scientifiques."
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Chimie organique, TP",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597262289&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","727"],
+    "title":"Biomimetic membrane systems and their applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597262289&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109839",
+      "name":"Terrettaz Samuel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Cell membranes carry out many vital functions and have evolved to highly complex mixtures of lipids and proteins. [br/]Biomimetic membrane systems based on the essential lipid bilayer with embedded proteins provide a way to select (and to mimic) some structural or functional features of the [br/]cell membrane. Complex functions such as activation of immune cells, membrane fusion, cell adhesion and division have been studied with simpler and more controlled [br/]model membrane systems.The course aims at showing how diverse model membrane systems are or could be applied in technology and in biology.[br/]The active participation of the students will be required for a multifaceted approach of a selected application.  [br/]",
+      "Content":"1. [] Introduction to the structure and functions of cell membranes. Presentation of various biomimetic membrane systems.[br/]2. [] Supported lipid bilayers (on hard, soft, porous, planar, curved, patterned substrates) and their interactions with cells. Applications in biosensors and in biocompatible materials. [br/]3. [] Lipid vesicles (free-standing, tethered to a surface, or arranged in a network). Applications in drug delivery systems and in nanocontainers.[br/]4. [] More exotic forms: lipid nanotubes, nanodisks and bicelles.[br/]5. [] Steps towards a minimal cell: giant unilamellar vesicles supplemented with individual functions provided by the addition of cytoplasm, cytoskeleton, genome, and energy. Applications in biotechnology.[br/]",
+      "Keywords":"Model membrane systems, supported lipid bilayers, vesicles, ion channel biosensors, drug delivery, minimal cells",
+      "Required prior knowledge":"Basic knowledge of chemistry, physics and biology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomimetic membrane systems and their applications",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109839",
+      "name":"Terrettaz Samuel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. [] Introduction to the structure and functions of cell membranes. Presentation of various biomimetic membrane systems.[br/]2. [] Supported lipid bilayers (on hard, soft, porous, planar, curved, patterned substrates) and their interactions with cells. Applications in biosensors and in biocompatible materials. [br/]3. [] Lipid vesicles (free-standing, tethered to a surface, or arranged in a network). Applications in drug delivery systems and in nanocontainers.[br/]4. [] More exotic forms: lipid nanotubes, nanodisks and bicelles.[br/]5. [] Steps towards a minimal cell: giant unilamellar vesicles supplemented with individual functions provided by the addition of cytoplasm, cytoskeleton, genome, and energy. Applications in biotechnology.",
+      "Mots clés":"Model membrane systems, supported lipid bilayers, vesicles, ion channel biosensors, drug delivery, minimal cells",
+      "Prérequis":"Basic knowledge of chemistry, physics and biology",
+      "Objectifs d'apprentissage":"Cell membranes carry out many vital functions and have evolved to highly complex mixtures of lipids and proteins. [br/]Biomimetic membrane systems based on the essential lipid bilayer with embedded proteins provide a way to select (and to mimic) some structural or functional features of the [br/]cell membrane. Complex functions such as activation of immune cells, membrane fusion, cell adhesion and division have been studied with simpler and more controlled [br/]model membrane systems.The course aims at showing how diverse model membrane systems are or could be applied in technology and in biology.[br/]The active participation of the students will be required for a multifaceted approach of a selected application.  [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomimetic membrane systems and their applications",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

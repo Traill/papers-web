@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348210501&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","240"],
+    "title":"Structures and materials II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348210501&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101009",
+      "name":"de Castro San Roman Fest Julia"
+    },{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"See Structures and materials I.[br/]",
+      "Content":"See Structures and materials I."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures and materials II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101009",
+      "name":"de Castro San Roman Fest Julia"
+    },{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Structures I/II, Structures et matériaux I.",
+      "Bibliographie et matériel":"Documents sur le site web du cours : moodle.epfl.ch.",
+      "Forme d'enseignement":"Cours ex cathedra à l'aide de moyens audiovisuels. Exercices et études de cas.",
+      "Contenu":"Voir Structures et matériaux I.[br/][br/]",
+      "Préparation pour":"Conception structurale des bâtiments, Structure et enveloppe, Structures complexes, Unité d'enseignement Architecture et Structures.",
+      "Objectifs d'apprentissage":"Voir Structures et matériaux I.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures et matériaux II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

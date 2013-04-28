@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1600017792&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","422"],
+    "title":"Behavioral finance",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1600017792&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/225360",
+      "name":"Goette Lorenz"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Why can the price of a stock keep rising even though many traders think that it is overvalued? And why can it then crash from one day to the next? Is it true that more sophisticated traders will always make more money? Are there potential social costs from wider access to credit and more short-term financial products? This course addresses these fundamental questions of the functioning of financial markets.",
+      "Content":"The aim of this course is to give an introduction to a new research area that examines how deviations from perfect rationality can affect market outcomes. Economist often argue that such biases are irrelevant in markets, because they present arbitrage opportunities to others than can exploit them financially. In this course, we examine formal models of how irrational traders can get arbitrage to break down, create market bubbles with violent asset price crashes, and sometimes make sophisticated traders worse off. This course discusses the empirical evidence related to these phenomena, and offers a systematic analysis of these questions. We will see that even slight departures from perfect rationality by a few market participants can  have large effects on the market equilibrium. ",
+      "Type of teaching":"2 hours of class per week",
+      "Form of examination":"There will be two problem sets and a closed-book exam. The problem sets count 40% of the grade, the exam 60%.",
+      "Bibliography and material":"Based on journal articles"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Behavioral finance",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/225360",
+      "name":"Goette Lorenz"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"2h de cours par semaine",
+      "Contenu":"L'objectif de ce cours est de donner une introduction à un nouveau domaine de recherche qui examine comment les écarts par rapport à la rationalité parfaite déterminent les résultats du marché. La pensée traditionnelle en économie politique fait souvent valoir que de tels biais ne sont pas pertinents dans les marchés, parce qu'ils présentent des possibilités d'arbitrage à d'autres qui peuvent les exploiter financièrement. Dans ce cours, nous examinons des modèles formels qui montrent que cette intuition est souvent fausse. Ce cours aborde les éléments de preuve empirique liés à ces phénomènes, et offre une analyse systématique de ces questions. Nous allons voir que même un faible écart de la rationalité parfaite par quelques participants du marché peuvent avoir quelques effets importants sur l'équilibre du marché.",
+      "Forme du contrôle":"La forme de l'examen est constituée de 2 séries de problèmes et d'un examen (sans documents).[br/]Les séries de problèmes comptent pour 40% de la note finale et l'examen pour 60%.",
+      "Bibliographie et matériel":"La lecture est basée sur des articles scientifiques",
+      "Objectifs d'apprentissage":"Pourquoi le prix d'une action ne cesse d'augmenter, même si tous pensent qu'il est surévalué? Et pourquoi ne peut-il se planter d'un jour à l'autre? Est-il vrai qu'un trader plus sophistiqué fera toujours plus d'argent? Y a-t-il des couts sociaux potentiels dus au plus large accès au crédit et aux produits financiers à plus court terme ? Ce cours traite de ces questions fondamentales du fonctionnement des marchés financiers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Behavioral finance",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

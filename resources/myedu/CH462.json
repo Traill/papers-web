@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44378947&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","462"],
+    "title":"Molecular Physics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44378947&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122830",
+      "name":"Chergui Majed"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to molecular structure and spectroscopy.[br/]",
+      "Content":"- Molecular structure (potential curves and potential surfaces)[br/][br/]- Vibrational spectroscopy of diatomic and polyatomic molecules (IR, Raman). Selection rules[br/][br/]- Electronic spectroscopy of molecules. Born-Oppenheimer approximation, the Franck-Condon principle[br/][br/]- Symmetry properties of molecules[br/][br/]- Molecules in electric and magnetic fields.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Molecular Physics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122830",
+      "name":"Chergui Majed"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique quantique",
+      "Bibliographie et matériel":"Polycopiés",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"- Structure des molécules (courbes et surfaces du potentiel)[br/][br/]- Spectres vibrationnels des molécules diatomiques et polyatomiques (spectres infrarouge, Raman). Règles de sélection[br/][br/]- Spectroscopie électronique des molécules. Approximation de Born-Oppenheimer, principe de Franck-Condon.[br/][br/]- Propriétés de symétrie des molécules[br/][br/]",
+      "Préparation pour":"Master, thèse de doctorat",
+      "Objectifs d'apprentissage":"Introduction à la structure des molécules et à la spectroscopie moléculaire vibrationnelle et électronique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique moléculaire",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

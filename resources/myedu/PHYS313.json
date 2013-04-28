@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775507&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","313"],
+    "title":"Quantum physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775507&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=11431","http://moodle.epfl.ch/course/view.php?id=11431"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103561",
+      "name":"Savona Vincenzo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the concepts, methods and consequences of quantum physics.",
+      "Content":"1. Introduction[br/]2. The particle-wave duality[br/]3. Wave mechanics and the Schrödinger equation[br/]4. Canonical quantization and the Heisenberg equation[br/]5. The harmonic oscillator[br/]6. General formulation of quantum mechanics[br/]7. Some simple problems in one dimension[br/]8. Central potential, angular momentum, and hydrogen atom[br/]9. Spin[br/]Mathematical appendices:[br/]A. Hilbert spaces and linear algebra",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Written final exam. 2 optional mid-term tests. Passing each test gives 1/2 point for the final grade",
+      "Required prior knowledge":"Mathematical and physical  course of the 1st cycle[br/]Solid state physics[br/]Nuclear physics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Quantum physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-805-30664-1&amp;con_lng=ENG\" target=\"blank\">Lectures on quantum mechanics / Gordon Baym</a>\". Year:1990. ISBN:0-805-30664-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53929-2&amp;con_lng=ENG\" target=\"blank\">Modern quantum mechanics / J.J. Sakurai; San Fu Tuan, ed.</a>\". Year:1994. ISBN:0-201-53929-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7056-6074-7&amp;con_lng=ENG\" target=\"blank\">Mécanique quantique / Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë</a>\". Year:1998. ISBN:2-7056-6074-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=11431","http://moodle.epfl.ch/course/view.php?id=11431"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103561",
+      "name":"Savona Vincenzo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de base de physique et mathématique du 1er cycle[br/]Physique du solide[br/]Physique nucléaire",
+      "Bibliographie et matériel":"\"Mécanique Quantique I-II\", Cohen-Tannoudji, Diu, Lahoë (Hermann); \"Lectures on quantum mechanics\" Gordon Baym[br/]J.J. Sakurai, \"Modern Quantum Mechanics\", (Addison Wesley, 1994)[br/][br/]En bibliothèque / in libraries : (cliquez sur le lien pour consulter les informations du réseau de bibliothèque suisse / click on the link to consult[br/]information of the Swiss network of libraries)[br/]Lectures on quantum mechanics / Gordon Baym, 1996[br/]Modern quantum mechanics / J.J. Sakurai; San Fu Tuan, ed., 1994[br/]Mécanique quantique / Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë, 1998",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1. Introduction[br/]2. La dualité onde-particule[br/]3. La mécanique ondulatoire et l'équation de Schrödinger[br/]4. La quantification canonique et l'équation de Heisenberg[br/]5. L'oscillateur harmonique[br/]6. Formulation générale de la mécanique quantique[br/]7. Quelques problèmes simples en dimension 1[br/]8. Potentiel central, moment cinétique et atome d'hydrogène[br/]9. Le spin[br/]Appendices mathématiques:[br/]A. Espaces de Hilbert et algèbre linéaire",
+      "Forme du contrôle":"Examen final écrit[br/]2 tests de contrôle facultatifs durant le semestre. La réussite de chaque test donne 1/2 point sur la note finale",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant avec les concepts, les méthodes et les conséquences de la physique quantique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique quantique I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-805-30664-1&amp;con_lng=FRE\" target=\"blank\">Lectures on quantum mechanics / Gordon Baym</a>\". Année:1990. ISBN:0-805-30664-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53929-2&amp;con_lng=FRE\" target=\"blank\">Modern quantum mechanics / J.J. Sakurai; San Fu Tuan, ed.</a>\". Année:1994. ISBN:0-201-53929-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7056-6074-7&amp;con_lng=FRE\" target=\"blank\">Mécanique quantique / Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë</a>\". Année:1998. ISBN:2-7056-6074-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

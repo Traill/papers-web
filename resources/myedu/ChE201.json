@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=250986010&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","201"],
+    "title":"Introduction to chemical engineering I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=250986010&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174688",
+      "name":"Hatzimanikatis Vassily"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"General understanding of role and principles of chemical engineering.",
+      "Content":"[b] Basis concepts [/b][br/][li] Definition of chemical engineering[br/][li] Introduction to mass balances[br/][li] Introduction to energy balances[br/][li] Application to thermal runaway reactions"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to chemical engineering I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-59784-2&amp;con_lng=ENG\" target=\"blank\">Elementary principles of chemical processes / Richard M. Felder, Ronald W. Rousseau</a>\". Year:2009. ISBN:978-0-470-59784-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174688",
+      "name":"Hatzimanikatis Vassily"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"[b] Concepts de base [/b][br/][li] Définition du génie chimique[br/][li] Introduction au bilan de matière[br/][li] Introduction au bilan d'énergie (premier principe)[br/][li] Application à l'emballement thermique des réacteurs",
+      "Préparation pour":"Formation en génie chimique",
+      "Bibliographie et matériel":"\"Elementary Principles of Chemical Processes by R.M.Felder and W.Rousseau",
+      "Objectifs d'apprentissage":"Comprendre le rôle et les principes généraux du génie chimique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to chemical engineering I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-59784-2&amp;con_lng=FRE\" target=\"blank\">Elementary principles of chemical processes / Richard M. Felder, Ronald W. Rousseau</a>\". Année:2009. ISBN:978-0-470-59784-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

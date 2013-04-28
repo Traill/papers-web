@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128847590&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","431"],
+    "title":"Relativistic quantum fields I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128847590&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174685",
+      "name":"Rattazzi Riccardo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introducing the quantum theory of fields as the theoretical framework to describe fundamental interactions",
+      "Content":"[b]1. Units of measure in high energy physics.[br/]2. Classical Field Theory[/b][br/]Lagrangian and Hamiltonian formulation, Noether's theorem[br/][b]3. Symmetry Principles[/b][br/]Elements of group theory and group representations. Lie groups. Lie Algebras. [br/]Lorentz and Poincaré groups. Parity, time reversal and charge conjugation.[br/][b]4. Free Quantum Fields[/b][br/]Canonical quantization. Creation and annihilation operators. Fock space. Free relativistic particles.  Bosons and Fermions. Symmetries in the quantum theory[br/][b]5. Classification of quantum fields[/b][br/]Real and complex scalar fields. Spinor field. Quantized electromagnetic field. Massive vector field.[br/][b]6. Interacting fields[/b][br/]Formal theory of relativistic scattering. Asymptotic states. Lippmann-Schwinger equation. S-matrix and Feynman diagrams.[br/]Cross sections and decay-rates.[br/][b]7. Fundamental interactions[/b][br/]Quantum electrodynamics. The weak  force  and parity violation. The strong force.[br/] ",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Note":"Prerequisite for Theoretical Physics",
+      "Required prior knowledge":"Electrodynamics, Special relativity, Quantum Mechanics I and II.[br/]Mathematical Physics warmly recommended."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Relativistic quantum fields I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-852074-0&amp;con_lng=ENG\" target=\"blank\">A modern introduction to quantum field theory / Michele Maggiore</a>\". Year:2010. ISBN:978-0-19-852074-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-50397-2&amp;con_lng=ENG\" target=\"blank\">An introduction to quantum field theory / Michael E. Peskin, Daniel V. Schroeder</a>\". Year:1995. ISBN:0-201-50397-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-032071-3&amp;con_lng=ENG\" target=\"blank\">Quantum field theory / Claude Itzykson, Jean-Bernard Zuber</a>\". Year:1980. ISBN:0-07-032071-3</li><li>\"Relativistic quantum mechanics / James D. Bjorken, Sidney D. Drell\". Year:1964</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-67053-1&amp;con_lng=ENG\" target=\"blank\">The quantum theory of fields / Steven Weinberg</a>\". Year:2005. ISBN:978-0-521-67053-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-491-1&amp;con_lng=ENG\" target=\"blank\">ThÃ©orie quantique des champs / Jean-Pierre Derendinger</a>\". Year:2001. ISBN:2-88074-491-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174685",
+      "name":"Rattazzi Riccardo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Préparation pour: Physique théorique ",
+      "Prérequis":"Electrodynamique, Relativité restreinte, Physique quantique I et II.[br/]Physique mathématique recommandé. ",
+      "Bibliographie et matériel":"Ouvrages recommandés.[br/]1. S. Weinberg, \"The Quantum Theory of Fields\", Cambridge University Press, 1995[br/]2. M.E. Peskin et D.V. Schröder, \"An Introduction to Quantum Field Theory\", Westview Press, Perseus Books Publishing, 1995[br/]3. Claude Itzykson and Jean-Bernard Zuber, \"Quantum Field Theory\", McGraw-Hill, 1980[br/]4. J.D. Drell, S.D. Bjorken, \"Relativistic Quantum Mechanics\" (International Series in Pure & Applied Physics), Mcgraw-Hill College, 1965[br/]5. Michele Maggiore, \"A Modern Introduction to Quantum Field Theory\", Oxford University Press, 2005[br/]6. Jean-Pierre Derendinger,  \"Théorie quantique des champs'',  Presses polytechniques et universitaires romandes.[br/] ",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe ",
+      "Contenu":"[b]1. Unités de la physique des hautes énergies[br/]2. Théorie classique des champs[/b][br/]Formulations Lagrangienne et Hamiltonienne. Théorème de Noether.[br/][b]3. Principes de symétrie[/b][br/]Eléments de théorie des groupes et de ses représentations. Groupes de Lie. Algèbres de Lie. Groupes de Lorentz et de Poincaré. Réflections spatiale et temporelle, conjugaison de charge.[br/][b]4. Champs quantiques libres[/b][br/]Quantification canonique. Opérateurs de création et d'annihilation. Espace de Fock. Particules relativistes libres. Bosons et fermions. Symétries dans la théorie quantique.[br/][b]5. Classification des champs quantiques[/b][br/]Champ scalaire réel et complexe. Champ spinoriel. Champ électromagnétique quantifié. Champ vectoriel massif.[br/][b]6. Champs en interaction[/b][br/]Théorie formelle des collisions relativistes. Etats asymptotiques. Equation de Lippmann-Schwinger. Matrice S et diagrammes de Feynman. Sections efficaces et taux de désintégration.[br/][b]7. Interactions fondamentales[/b][br/]Electrodynamique quantique. La force faible et la violation de la parité. La force forte.[br/] ",
+      "Objectifs d'apprentissage":"Introduire la théorie des champs quantiques comme cadre théorique pour décrire les interactions fondamentales."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Relativistic quantum fields I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-852074-0&amp;con_lng=FRE\" target=\"blank\">A modern introduction to quantum field theory / Michele Maggiore</a>\". Année:2010. ISBN:978-0-19-852074-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-50397-2&amp;con_lng=FRE\" target=\"blank\">An introduction to quantum field theory / Michael E. Peskin, Daniel V. Schroeder</a>\". Année:1995. ISBN:0-201-50397-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-032071-3&amp;con_lng=FRE\" target=\"blank\">Quantum field theory / Claude Itzykson, Jean-Bernard Zuber</a>\". Année:1980. ISBN:0-07-032071-3</li><li>\"Relativistic quantum mechanics / James D. Bjorken, Sidney D. Drell\". Année:1964</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-67053-1&amp;con_lng=FRE\" target=\"blank\">The quantum theory of fields / Steven Weinberg</a>\". Année:2005. ISBN:978-0-521-67053-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-491-1&amp;con_lng=FRE\" target=\"blank\">ThÃ©orie quantique des champs / Jean-Pierre Derendinger</a>\". Année:2001. ISBN:2-88074-491-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

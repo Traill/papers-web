@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24333829&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","450"],
+    "title":"Advanced signal processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24333829&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control and written exam",
+      "Prerequisite for":"Semester projects, master thesis projects and doctoral thesis",
+      "Required prior knowledge":"Introduction to signal processing",
+      "Content":"[b]Recal[/b][br/]Fourier Transform, sampling, Z transform, digital signal processing[br/][br/][b]Digital filter design[/b][br/]Fourier, Z, filtering and filters. Design of finite impulse response filters by using windows or by frequency sampling. Design of infinite impulse response filters by analog-digital transformation, in particular bilinear transformation. Filter banks.[br/][br/][b]Spectral analysis[/b][br/]Motivation of spectral analysis. Notions of statistical estimation (probability distribution, bias, variance, confidence interval). Non-parametric spectral analysis (periodogram, smoothed and averaged periodogram). Comparison between the different methods.[br/][br/][b]Elements of time-frequency analysis[/b][br/]Motivation of time-frequency analysis. Fourier analysis. The uncertainty principle. Time-frequency ditributions. Gabor transform, continuous wavelet transform. Instantaneous frequency and estimation algorithms. Time-scale analysis.",
+      "Type of teaching":"Ex cathedra with exercices in classroom",
+      "Learning outcomes":"This course is devoted to advanced techniques in signal processing. At the end of this course, the students will be able to apply methods such as filter design and filtering, spectral analysis, time-frequency analysis and wavelet transform. A particular emphasis will be placed on providing the necessary mathematical tools."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced signal processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction au traitement des signaux",
+      "Bibliographie et matériel":"Support et liste de références distribués au cours",
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe",
+      "Contenu":"[b]Rappels[/b][br/]Signaux analogiques, transformée de Fourier. Échantillonnage, signaux numériques, transformée en Z et séries de Fourier.[br/][br/][b]Conception de filtres numériques[/b][br/]Fourier, Z, filtres et filtrage. Conception de filtres à réponse impulsionnelle  finie par fenêtrage ou échantillonnage de la réponse fréquentielle. Conception de filtres à réponse impulsionnelle infinie par transformation de filtres analogiques, transformation bilinéaire. Bancs de filtres.[br/][br/][b]Analyse spectrale[/b][br/]But de l'analyse spectrale. Éléments d'estimation statistique (distribution de probabilité, biais, variance, intervalle de confiance). Analyse spectrale non-paramétrique (périodogramme simple, lissé). Comparaison des différentes méthodes.[br/][br/][b]Éléments d'analyse temps-fréquence[/b][br/]But de l'analyse temps-fréquence. Rappels d'analyse de Fourier. Principe d'incertitude. Distribution temps-fréquence. Transformée de Gabor, transformée continue en ondelettes. Fréquence instantanée et algorithmes d'estimation. Analyse temps-échelle.",
+      "Forme du contrôle":"Contrôle continu et examen écrit",
+      "Préparation pour":"Projets de semestre, projets de master et thèses de doctorat",
+      "Objectifs d'apprentissage":"Ce cours est dédié à l'enseignement de différentes techniques avancées en traitement du signal. À la fin du cours, les étudiants seront capables d'appliquer des méthodes telles que la conception de filtres et le filtrage, l'analyse spectrale, l'analyse temps-fréquence et la transformation en ondelettes. Ces méthodes seront présentées dans un cadre mathématique rigoureux."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced signal processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350847112&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","437"],
+    "title":"Pharmaceutical biotechnology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350847112&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/152132",
+      "name":"Hacker David"
+    },{
+      "url":"http://people.epfl.ch/107554",
+      "name":"Wurm Florian Maria"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pharmaceutical biotechnology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/152132",
+      "name":"Hacker David"
+    },{
+      "url":"http://people.epfl.ch/107554",
+      "name":"Wurm Florian Maria"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra course",
+      "Contenu":"The use of biological concepts in medicine goes back in history for several centuries, however the treatment of disease using rational approaches is a rather recent achievement. The course will try to trace back the thinking and approach to therapy and prevention of disease over time. A short introduction to the approaches of humans from the earliest time point of their evolution to feed themselves will provide the basis of an understanding of the tight link of food and disease. Students will also learn that the modern approaches in pharmaceutical biotechnology are rooted in the pioneering work of Pasteur, Behring, Koch and others. The emergence of DNA technology in the 70ies and 80ies gave rise to the \"new (pharmaceutical) biotechnology\" whose protein-based products are now generating more than 80 billion $ in revenue annually worldwide. Examples of the application of modern biology in the identification of new disease targets will be provided and discussed. Along with this, the course will give insights into the manufacturing approaches for \"classical\" and new biopharmaceuticals. Emerging medical approaches, such as \"personalized medicine\", tissue and organ repair and therapeutic approaches using nucleic acids will be discussed. Finally, the regulatory, clinical and patent framework of modern pharmaceutical biotechnology will be discussed, also in view of the ever increasing cost burden of medicine on our societies. ",
+      "Forme du contrôle":"Written exam",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"The goal of the course is to give an introduction to and an understanding of the principles of pharmaceutical biotechnology. The course will cover the development of a scientific understanding of causes of disease and the subsequent therapeutic treatment through the history of humankind up to the most advanced approaches in today's medicine.   "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pharmaceutical biotechnology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

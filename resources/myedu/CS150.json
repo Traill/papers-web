@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47848061&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","150"],
+    "title":"Discrete structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47848061&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":4.0,
+    "links":[["http://people.epfl.ch/arjen.lenstra","http://people.epfl.ch/arjen.lenstra"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171548",
+      "name":"Lenstra Arjen"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The basics of mathematical reasoning, combinatorial analysis, discrete structures, algorithmic thinking and applications and modeling.",
+      "Content":"A wide variety of practical relevant mathematical problems is studied and solved, thereby teaching students to think mathematically.[br/][br/]The mathematical common sense taught in this course is not only fun, it will also prove to be a valuable resource irrespective of the students' future specialization.",
+      "Type of teaching":"Ex cathedra lectures and in class exercises",
+      "Note":"Caution : this course is taught in English",
+      "Bibliography and material":"Kenneth H. Rosen, Discrete Mathematics and its applications, fifth edition, McGraw-Hill"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Discrete structures",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-135430-2&amp;con_lng=ENG\" target=\"blank\">Discrete mathematics / Richard Johnsonbaugh</a>\". Year:2009. ISBN:978-0-13-135430-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-331271-1&amp;con_lng=ENG\" target=\"blank\">Discrete mathematics and its applications / Kenneth H. Rosen</a>\". Year:2007. ISBN:0-07-331271-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":4.0,
+    "links":[["http://people.epfl.ch/arjen.lenstra","http://people.epfl.ch/arjen.lenstra"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171548",
+      "name":"Lenstra Arjen"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"Une grande variété de problèmes importants en pratique est étudiée et résolue en apprenant aux étudiants à penser mathématiquement.[br/][br/]Le bons sens mathématique enseigné dans ce cours est à la fois drôle et utile, car il sera un outil indispensable quelle que soit la spécialisation choisie.",
+      "Remarque":"Attention : ce cours est enseigné en Anglais",
+      "Bibliographie et matériel":"Kenneth H. Rosen, Discrete Mathematics and its applications, fifth edition, McGraw-Hill",
+      "Objectifs d'apprentissage":"Les bases du raisonnement mathématique, l'analyse combinatoire, les structures discrètes, les méthodes algorithmiques, les applications et la modélisation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Discrete structures",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-135430-2&amp;con_lng=FRE\" target=\"blank\">Discrete mathematics / Richard Johnsonbaugh</a>\". Année:2009. ISBN:978-0-13-135430-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-331271-1&amp;con_lng=FRE\" target=\"blank\">Discrete mathematics and its applications / Kenneth H. Rosen</a>\". Année:2007. ISBN:0-07-331271-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

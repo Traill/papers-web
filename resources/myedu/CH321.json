@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772432&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","321"],
+    "title":"Bioinorganic chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772432&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181278",
+      "name":"Hu Xile"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the coordination chemistry and function of metal complexes in biological systems.",
+      "Content":"1. A comparison of the most relevant metal ions in biological systems.[br/][br/][br/]2. The function and mechanism of enzymes that contain transition metal complexes in their active center.[br/][br/]3. Transition metal complexes for the transport and storage of oxygen and electrons.[br/][br/]4. The role of alkali- and earth alkaline metal ions in biological systems.[br/][br/][br/]5. Inorganic materials in biological systems ([i]Biomineralization[/i]).[br/][br/][br/]6. Metal complexes in medicine.[br/][br/]7. Toxicology of transition metals."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bioinorganic chemistry",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-855773-6&amp;con_lng=ENG\" target=\"blank\">Biocoordination chemistry / David E. Fenton</a>\". Year:2005. ISBN:0-19-855773-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-891389-02-5&amp;con_lng=ENG\" target=\"blank\">Physical methods in bioinorganic chemistry : spectroscopy and magnetism / ed. by Lawrence Que, Jr.</a>\". Year:2000. ISBN:1-891389-02-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-935702-72-5&amp;con_lng=ENG\" target=\"blank\">Principles of bioinorganic chemistry / Stephen J. Lippard, Jeremy M. Berg</a>\". Year:1994. ISBN:0-935702-72-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850847-6&amp;con_lng=ENG\" target=\"blank\">The biological chemistry of the elements : the inorganic chemistry of life / J.J.R Fraústo da Silva and R.J.P. Williams</a>\". Year:2005. ISBN:0-19-850847-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181278",
+      "name":"Hu Xile"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1. Une comparaison des ions métalliques principaux dans les systèmes biologiques.[br/][br/]2. Les fonctions et mécanismes des enzymes contenant des complexes de métaux de transition dans leur centre actif.[br/][br/]3. Les complexes de métaux de transition pour le transport et le stockage d'oxygène et d'électrons.[br/][br/]4. Le rôle des ions métalliques alcalins et alcalino-terreux dans les systèmes biologiques.[br/][br/]5. Les matériaux inorganiques dans les systèmes biologiques ([i]Biominéralisation[/i]).[br/][br/]6. Les complexes métalliques en médecine.[br/][br/]7. Toxicologie des métaux de transition.",
+      "Remarque":"Enseignement partiel du module Chimie biologique et biophysique",
+      "Bibliographie et matériel":"\"Bioinorganic Chemistry\", S. J. Lippard, J. M. Berg; \"The Biological Chemistry of the Elements\", J.J.R. Fraústo da Silva, R.J.P. Williams; \"Physical Methods in Bioinorganic Chemistry\", L. Que, Jr.; \"Biocoordination Chemistry\", D. E. Fenton",
+      "Objectifs d'apprentissage":"Introduction à la chimie de coordination des complexes métalliques dans les systèmes biologiques et à leurs fonctions."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bioinorganic chemistry",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-855773-6&amp;con_lng=FRE\" target=\"blank\">Biocoordination chemistry / David E. Fenton</a>\". Année:2005. ISBN:0-19-855773-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-891389-02-5&amp;con_lng=FRE\" target=\"blank\">Physical methods in bioinorganic chemistry : spectroscopy and magnetism / ed. by Lawrence Que, Jr.</a>\". Année:2000. ISBN:1-891389-02-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-935702-72-5&amp;con_lng=FRE\" target=\"blank\">Principles of bioinorganic chemistry / Stephen J. Lippard, Jeremy M. Berg</a>\". Année:1994. ISBN:0-935702-72-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850847-6&amp;con_lng=FRE\" target=\"blank\">The biological chemistry of the elements : the inorganic chemistry of life / J.J.R Fraústo da Silva and R.J.P. Williams</a>\". Année:2005. ISBN:0-19-850847-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

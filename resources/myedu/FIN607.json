@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=433420608&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","607"],
+    "title":"Empirical Asset Pricing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=433420608&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.hec.unil.ch/mrockinger/lecturenotes/PhD/FAME.htm","http://www.hec.unil.ch/mrockinger/lecturenotes/PhD/FAME.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156487",
+      "name":"Rockinger Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Understand how to solve certain discrete-time general-equilibrium models. The course is articulated around 8 lectures.",
+      "Content":"Lecture 1: Euler equation, Bellman Principle, Solving Euler equation in Gaussian case, Solving Euler equation via fixed-point techniques (value-function iteration) in univariate case.[br/]Lecture 2: Solving Euler equation via fixed-point techniques (value-function iteration) in multivariate case. Discussion of paper by Tauchen (JBES), Tauchen and Hussey (E'Metrica). Discussion of Campbell-Cochrane (2000).[br/]Lecture 3: Behavioral in General Equilibrium: Explaining volatility, explaining skewness and kurtosis. Discussion of Barberis Huang and Santos. [br/]Lecture 4: Portfolio allocation in a discrete dynamic setting. Discussion of MacQueen and Vorkink. A digression into Corporate Finance: Discussion of Hennessy and Whited (2005), Debt Dynamics.[br/]Lecture 5: Bayesian techniques into a portfolio-allocation setting. Introduction to Bayesian techniques (prior, posterior). Discussion of Barberis (1999)[br/]Lecture 6,7: Predicting returns (Cochrane: discussion of paper on barking dogs). How to deal with ambiguity.[br/]Lecture 8:  Questions and answers[br/]",
+      "Keywords":"Equilibrium Models, Asset Pricing, Integration, Discrete Dynamic Programming",
+      "Form of examination":"Written",
+      "Required prior knowledge":"Asset pricing"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Empirical Asset Pricing",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.hec.unil.ch/mrockinger/lecturenotes/PhD/FAME.htm","http://www.hec.unil.ch/mrockinger/lecturenotes/PhD/FAME.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156487",
+      "name":"Rockinger Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Lecture 1: Euler equation, Bellman Principle, Solving Euler equation in Gaussian case, Solving Euler equation via fixed-point techniques (value-function iteration) in univariate case.[br/]Lecture 2: Solving Euler equation via fixed-point techniques (value-function iteration) in multivariate case. Discussion of paper by Tauchen (JBES), Tauchen and Hussey (E'Metrica). Discussion of Campbell-Cochrane (2000).[br/]Lecture 3: Behavioral in General Equilibrium: Explaining volatility, explaining skewness and kurtosis. Discussion of Barberis Huang and Santos. [br/]Lecture 4: Portfolio allocation in a discrete dynamic setting. Discussion of MacQueen and Vorkink. A digression into Corporate Finance: Discussion of Hennessy and Whited (2005), Debt Dynamics.[br/]Lecture 5: Bayesian techniques into a portfolio-allocation setting. Introduction to Bayesian techniques (prior, posterior). Discussion of Barberis (1999)[br/]Lecture 6,7: Predicting returns (Cochrane: discussion of paper on barking dogs). How to deal with ambiguity.[br/]Lecture 8:  Questions and answers[br/]",
+      "Mots clés":"Equilibrium Models, Asset Pricing, Integration, Discrete Dynamic Programming",
+      "Prérequis":"Asset pricing",
+      "Objectifs d'apprentissage":"Understand how to solve certain discrete-time general-equilibrium models. The course is articulated around 8 lectures."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Empirical Asset Pricing",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

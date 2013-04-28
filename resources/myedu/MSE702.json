@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2992004&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","702"],
+    "title":"Selected topics in polymer science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2992004&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"External lecturer(s)"
+    },{
+      "url":"http://people.epfl.ch/156848",
+      "name":"Klok Harm-Anton"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[b]Precision polymerization and macromolecular engineering[/b][br/][br/]This course consists of two parts. The first part will provide an overview of advanced methods for polymer synthesis. It will be shown how these techniques can be used to prepare polymers with precise control of molecular weight and molecular weight distribution, end-groups, stereo- and regioselectivity and topology. The second part will discuss several classes of complex macromolecular architectures and functional polymers and describe the use of these materials for advanced applications in e.g. optics, electronics and medicine.",
+      "Content":"1.[][]Introduction: Living / controlled polymerization[br/]2.[][]Living anionic polymerization[br/]3.[][]Living cationic polymerization[br/]4.[][]Controlled radical polymerization[br/]5.[][]Catalytic polymerization[br/]6.[][]Block-, graft- and star polymers[br/]7.[][]Dendrimers and hyperbranched polymers[br/]8.[][]Dendronized polymers and molecular bottlebrushes[br/]9.[][](Functional) polymeric surfaces",
+      "Keywords":"Anionic polymerization, cationic polymerization, radical polymerization, catalytic polymerization, block polymers, graft polymers, star polymers, hyperbranched polymers, polymeric surfaces.",
+      "Required prior knowledge":"Organic and Polymer Chemistry"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Selected topics in polymer science",
+    "recitation":{
+      "total_hours":3
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"External lecturer(s)"
+    },{
+      "url":"http://people.epfl.ch/156848",
+      "name":"Klok Harm-Anton"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Introduction: Living / controlled polymerization[br/]2. Living anionic polymerization[br/]3. Living cationic polymerization[br/]4. Controlled radical polymerization[br/]5. Catalytic polymerization[br/]6. Block-, graft- and star polymers[br/]7. Dendrimers and hyperbranched polymers[br/]8. Dendronized polymers and molecular bottlebrushes[br/]9. (Functional) polymeric surfaces",
+      "Mots clés":"Anionic polymerization, cationic polymerization, radical polymerization, catalytic polymerization, block polymers, graft polymers, star polymers, hyperbranched polymers, polymeric surfaces.",
+      "Prérequis":"[br/]Organic and Polymer Chemistry",
+      "Objectifs d'apprentissage":"[b]Precision polymerization and macromolecular engineering[/b][br/][br/]This course consists of two parts. The first part will provide an overview of advanced methods for polymer synthesis. It will be shown how these techniques can be used to prepare polymers with precise control of molecular weight and molecular weight distribution, end-groups, stereo- and regioselectivity and topology. The second part will discuss several classes of complex macromolecular architectures and functional polymers and describe the use of these materials for advanced applications in e.g. optics, electronics and medicine."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Selected topics in polymer science",
+    "recitation":{
+      "total_hours":3
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  }
+}

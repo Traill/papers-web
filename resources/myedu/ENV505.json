@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126858712&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","505"],
+    "title":"Wastewater treatment plant instrumentation and simulation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126858712&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"[b]Ce cours est donné au Master 3 uniquement.[/b]",
+      "Form of examination":"Continuous control:  [br/]Exercises for HR Siegrist's part, practical work for M. Deront's part[br/]",
+      "Required prior knowledge":"-\tEnvironmental bioprocesses design[br/]-\tEnvironmental bioprocesses: practical lab[br/]-\tWater and wastewater treatment",
+      "Content":"[li]Introduction to ASIM, construction of a simplified activated sludge model. Exercises[br/][li]Introduction to Activated Sludge Model No 3 (heterotrophic storage and growth, nitrification and denitrification). Exercises[br/][li]Introduction to control loops, e.g. O2, NH4 and NO3 control, potential sensor technology, sludge liquid dosage. Exercises[br/][li]Introduction to Bio-P, effect of nitrogen control. Exercises[br/][li]Continuation with Bio-P, Introduction to Nitritation/Anamox. Exercices[br/][li](According time) Introduction to anaerobic Digestion Modelling[br/][li]WWTP Instrumentation. Water analysis, pressure, temperature, level and flow[br/][li]PID regulator - Practical lab of pH regulation[br/][li]In situ instrumentation: Case of Morges or Lausanne WWTP.[br/][br/][br/][br/][br/][br/]",
+      "Type of teaching":"Two parts in this course:[br/]WWTP Simulation, by M. H. Siegrist, EAWAG in English[br/]WWTP Instrumentation by M. Deront, EPFL, in French[br/]Not every week but several 4 hours' lectures, on Thursday, 13-17h.[br/][br/][br/]",
+      "Learning outcomes":"This course will complement the courses \"Water and Wastewater Treatment\" and \"Environmental bioprocess design\" in an applied and practical point of view. It focuses more specifically on instrumentation concerning WWTP and the simulation of the specific bioprocesses involved in WWT"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Wastewater treatment plant instrumentation and simulation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"L'environnement de simulation est la plateforme de simulation ASIM inspiré du logiciel de calculs de simulation dynamique AquaSim (Cours Génie des Bioprocédés de l'Environnement) et des modélisations de l'IWA (ASM 3) au sein d'un environnement, adaptée à une utilisation professionnelle.[br/][b]Ce cours est donné au Master 3 uniquement.[/b]",
+      "Prérequis":"-\tGénie des bioprocédés environnementaux[br/]-\tTP de bioprocédés environnementaux[br/]-\tWater and Wastewater Treatment",
+      "Forme d'enseignement":"Le cours est composé de deux volets:[br/]1)\t« WWTP Simulation » donné par M. H. Siegrist; EAWAG; en anglais[br/]2)\t« WWTP Instrumentation » donné par M. Deront; en français[br/]Le cours de 2 Crédits ECTS, ne sera pas donné de manière hebdomadaire mais sous forme de plusieurs sessions de 4 heures (jeudi, 13-17h) ",
+      "Contenu":"[li]Introduction à ASIM (Activated Sludge SIMulation Program), construction d'un modèle simple à Boues Activées. Exercices[br/][li]Introduction à modélisation ASM3 des Boues Activées (Croissance et stockage des bactéries hétérotrophes, nitrification et dénitrification). Exercices[br/][li]Introduction aux boucles de régulation et leur effet sur les procédés (O2, NO2 and NH4 control, dosage des boues liquides (recirculation). Exercices[br/][li]Introduction à la Bio-P déphosphatation biologique et effet sur le contrôle des composés azotés. Exercices[br/][li]Suite de déphosphatation biologique Bio-P, Introduction aux procédés Nitritation/Anamox[br/][li](sous réserve) Introduction à la modélisation de la digestion anaérobie[br/][li]Instrumentation dédiée aux STEP. Analyses de l'eau, pression, température, niveaumétrie, débimétrie[br/][li]Régulation PID et TP de Régulation PID du pH[br/][li]Instrumentation pratique lors d'une visite. STEP de Morges ou Lausanne ",
+      "Forme du contrôle":"Le contrôle est continu pendant le semestre sous la forme de compte rendu d'exercices (partie HR Siegrist) et de rapports pratiques (partie M. Deront)",
+      "Objectifs d'apprentissage":"Ce cours a pour vocation de compléter sur un plan pratique et appliqué les cours «Water and Wastewater Treatment» et le cours «Génie des bioprocédés environnementaux». Il s'intéresse plus particulièrement à l'instrumentation associée aux bioprocédés ainsi qu'à la simulation des procédés réellement impliqués dans les STEPs"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Instrumentation et simulation des STEPs",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

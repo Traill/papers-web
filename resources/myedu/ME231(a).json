@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543042261&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","231(a)"],
+    "title":"Structural mechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543042261&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199129",
+      "name":"Fantner Georg"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Structural mechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199129",
+      "name":"Fantner Georg"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Merci de se référer à la version online / please consult the online version"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Structural mechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

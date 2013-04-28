@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127005949&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","580"],
+    "title":"Introduction to the design of mechanical space hardware",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127005949&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184749",
+      "name":"Mäusli Pierre-Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The remarkable environment of the space mechanism, the very specific required functions to be met and the constraints of extreme reliability require from the engineer creative ideas often innovative compared to the solutions usual on earth. This lecture will prepare the student to meet this unexpected and fascinating world.",
+      "Content":"[b]Introduction[/b][br/]A general overview of the space environment, the space vacuum and its residual gazes, radiations, thermal phenomenon, micro-gravity, vibrations will be presented. All have a very signifiant impact on the concepts and design of Space Mechanisms.[br/][br/][b]Essential design parameters[/b][br/]Elementary parameters such as mass, volume, cleanliness, temperature, etc. impose drastic constraints from the conception up to the final elaboration of a mechanism. The optimisation of these parameters is conditioned by the design, material properties and physical laws. The full extent of the engineer's imagination space is necessary to the success of a flight model.[br/][br/][b]Selected topics[/b][br/]As design aspects cover a very large field, we will, after a general introduction, present important chapters[br/]related to space mechanisms in the form of selected themes, related in particular to:[br/][br/][li]materials [br/][li]structure [br/][li]thermal aspects [br/][li]reliability[br/][br/]These themes will be presented with practical examples and certain details will be treated in exercise sessions."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to the design of mechanical space hardware",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184749",
+      "name":"Mäusli Pierre-Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de base EPFL de physique, mécanique, matériaux, mathématiques",
+      "Bibliographie et matériel":". Notes sous forme de planches PDF et articles techniques en anglais.[br/]. Documents de référence : ESA ECSS (European Coordination on Space Standardisation)",
+      "Forme d'enseignement":"Ex cathedra avec exercices[br/]Langue : français",
+      "Contenu":"[b]Introduction[/b][br/]Un aperçu général relatif à l'environnement spatial, le vide et ses gaz résiduels, les radiations, la thermique, la microgravité, les vibrations sera présenté. Tous ont un impact très significatif sur les concepts et le design des mécanismes spatiaux.[br/][br/][b]Paramètres essentiels de design[/b][br/]Des paramètres aussi simples et élémentaires que la masse, le volume, la propreté, la température, etc. imposent des conditions extrêmement sévèresdès la conception, et jusqu'à la réalisationn finale d'un mécanisme. L'optimisation de ces paramètres est conditionnée par le design, les propriétés des matériaux ainsi que les lois de la physique. Tout l'espace de l'imagination de l'ingénieur est nécessaire à la réussite d'un modèle de vol.[br/][br/][b]Thèmes choisis[/b][br/]Les aspects de design étant très étendus, nous aborderons, après une introduction générale, des chapitres importants relatifs à la conception de mécanismes spatiaux sous forme de thèmes choisis, en particulier relatifs:[br/][br/][li]aux matériaux [br/][li]à la structure [br/][li]à la thermique [br/][li]à la fiabilité[br/][br/]Ces thèmes seront présentés avec des exemples pratiques et illustrés par des exercices choisis.",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"L'environnement particulier du mécanisme spatial, les fonctions très spécifiques qui lui sont demandées et les contraintes extrêmes de fiabilité de fonctionnement demandent à l'ingénieur des démarches créatives sortant souvent de celles naturellement acquises sur terre. Ce cours préparera l'étudiant à la rencontre de ce monde inattendu et fascinant."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à la conception de mécanismes spatiaux",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

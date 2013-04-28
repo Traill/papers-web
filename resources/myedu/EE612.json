@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304194&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","612"],
+    "title":"Fundamentals in statistical pattern recognition",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304194&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["www.idiap.ch/~marcel/professional/Lectures_and_Labs.html","www.idiap.ch/%7Emarcel/professional/Lectures_and_Labs.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    },{
+      "url":"http://people.epfl.ch/143942",
+      "name":"Marcel Sébastien"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Content":"1. Introduction[br/]** Data representation[br/]** Supervised/unsupervised models (from regression and classification to probability distribution modelling)[br/]** Evaluation methodologies and performance measures (precision, recall, FA, FR, EER, HTER, MSE, ROC, AUC, DCF, DET, EPC)[br/]** Hypothesis testing and statistical significance[br/][br/]2. Classification and regression[br/]** Application examples (digit recognition, face detection)[br/]** Overview and connection with other EPFL courses[br/]** k-Nearest Neighbors (k-NN)[br/]** Linear Regression (univariate and multivariate) and the Gradient descent[br/]** Logistic Linear Regression[br/]** Multi-Layered Perceptron (MLP) and the BackPropagation[br/][br/]3. Dimensionality reduction and clustering[br/]** Application examples (data analysis and texture recognition)[br/]** Overview and connection to other EPFL courses[br/]** k-Means[br/]** Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA)[br/]** Probabilistic Linear Discriminant Analysis (PLDA)[br/][br/]4. Probability distribution modelling[br/]** Application examples (speech recognition and biometrics)[br/]** Overview and connection to other EPFL courses[br/]** Histograms[br/]** Gaussian Mixture Models (GMM) and the Expectation-Maximisation (EM) algorithm[br/]** Hidden Markov Models (HMM)[br/]** Session Variability Modeling (Joint Factor Analysis) and Total Variability Modeling (iVectors)[br/]",
+      "Keywords":"pattern recognition, linear models, PCA, LDA, MLP, BackProp, GMM, EM, HMM, JFA",
+      "Note":"Labs with the open source software library BOB ( http://idiap.github.com/bob/ )",
+      "Required prior knowledge":"Linear algebra, Probabilities and Statistics, Signal Processing"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Fundamentals in statistical pattern recognition",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":36
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["www.idiap.ch/~marcel/professional/Lectures_and_Labs.html","www.idiap.ch/%7Emarcel/professional/Lectures_and_Labs.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    },{
+      "url":"http://people.epfl.ch/143942",
+      "name":"Marcel Sébastien"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Fundamentals in statistical pattern recognition",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":36
+    }
+  }
+}

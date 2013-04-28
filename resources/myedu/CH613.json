@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127879181&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","613"],
+    "title":"Occupational sampling and analysis techniques for chemical pollutants",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127879181&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.i-s-t.ch","http://www.i-s-t.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185018",
+      "name":"Huynh Cong Khanh"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Strengthening the knowledge of Occupational Exposure Limits (OEL) for dangerous chemical substances to health at the workplace[br/][br/]Educate chemical engineers to chemical risks[br/][br/]",
+      "Content":"General principles of chronic risk management. Sampling techniques for hazardous gases, vapors and particulates at the workplaces. Selected analytical methods in relation to these pollutans : Gases (CO, CO2, H2S, mercaptans), vapors (benzene, toluene, xylene, white-spirit, nicotine, aldehydes, naphthalene), semi-volatile compounds (isocyanates, PAHs, oil mist), particulates (inhalable, thoracic and respirable dust, welding fumes, asbestos). Analytical methods : weighing at microgram level, humidity problems, optical microscopy, FTIR, GC with selected detectors (FID, NPD, ECD, FPD, MS, MS-ion trap, MS-MS), HPLC with selected detectors (UV, FL, EC, MS-MS). Statistical knowledge (LOD, LOQ, uncertaintly, linearity, recovery, internal standard). Sampling techniques : active (pumps, absorbants, filters, back pressure, constant flow), passive (badge, SPME). Generation of controlled atmosphere of standards (BTEX, nicotine, cigarette smoke, oil mist). Calibration of direct reading instruments for gases, vapours and particulates. Ventilation problems and solutions. OEL considerations in Occupational and non-occupational (indoor) air quality exercises and examples : Project reports.",
+      "Keywords":"Occupational Health, chemical risks, sampling techniques, chemical analyses[br/]",
+      "Required prior knowledge":"Knowledge of analytical chemistry[br/]"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Occupational sampling and analysis techniques for chemical pollutants",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.i-s-t.ch","http://www.i-s-t.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185018",
+      "name":"Huynh Cong Khanh"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"General principles of chronic risk management. Sampling techniques for hazardous gases, vapours and particulates at the workplaces. Selected analytical methods in relation to these pollutans : Gases (CO, CO2, H2S, mercaptans), vapours (benzene, toluene, xylene, white-spirit, nicotine, aldehydes, naphthalene), semi-volatile compounds (isocyanates, PAHs, oil mist), particulates (inhalable, thoracic and respirable dust, welding fumes, asbestos). Analytical methods : weighing at microgram level, humidity problems, optical microscopy, FTIR, GC with selected detectors (FID, NPD, ECD, FPD, MS, MS-ion trap, MS-MS), HPLC with selected detectors (UV, FL, EC, MS-MS). Statistical knowledge (LOD, LOQ, uncertaintly, linearity, recovery, internal standard). Sampling techniques : active (pumps, absorbants, filters, back pressure, constant flow), passive (badge, SPME). Generation of controlled atmosphere of standards (BTEX, nicotine, oil mist). Calibration of direct reading instruments for gases, vapours and particulates. Ventilation problems and solutions. OEL considerations in Occupational and non-occupational (indoor) air quality exercices and exemples : Project reports.[br/]",
+      "Mots clés":"Occupational Health, chemical risks, sampling techniques, chemical analyses[br/]",
+      "Prérequis":"Knowledge of analytical chemistry[br/]",
+      "Objectifs d'apprentissage":"Strengthening the knowledge of Occupational Exposure Limits (OEL) for dangerous chemical substances to health at the workplace. Educate chemical engineers to chemical risks[br/][br/]Educate chemical engineers to chemical risks[br/]"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Techniques de prélèvement et d'analyse des polluants chimiques en Hygiène du Travail",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

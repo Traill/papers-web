@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132218697&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","314"],
+    "title":"Concurrent engineering project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132218697&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Domain skills depending on the project topic[br/][b]Transversal skills:[/b][br/][li]Self-assessment of acquired skills, T2[br/][li]Write a scientific or technical report, T6[br/][li]Organize activities prioritizing the objectives, T10[br/][li]Use methods and tools for project planning and control, T11[br/][li]Document and communicate a project, T12[br/][li]Form and motivate a team, T13[br/][li]Manage a meeting, T14[br/][li]Work ethically respecting safety and the environment, T21[br/][li]Share knowledge and experience with peers, T25[br/]",
+      "Content":"Students are organised in small teams that work on subprojects extracted from a larger project involving several teams. They are confronted for the first time with the realization of an engineering project integrating several aspects of mechanical engineering. This project will allow them to apply to concrete problems the domain and transversal skills acquired during the first four semesters. A few project hours will be dedicated to introductory training in project management. In particular the following subjects are covered: information search and management, project planning and management, group organization and communication, writing of a technical report, preparation of poster presentations.",
+      "Keywords":"Team-work, Communication",
+      "Form of examination":"Written report and poster",
+      "Type of teaching":"Project-based teaching"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Concurrent engineering project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Enseignement par projet",
+      "Contenu":"Les étudiants sont encadrés en petites équipes, chacune d'entre elles  s'occupent d'un sous-projet qui fait partie d'un grand projet auquel participent plusieurs groupes d'étudiants. Ils sont confrontés pour la première fois à la réalisation d'un projet d'ingénierie intégrant plusieurs aspects du génie mécanique. Ce projet leur permet de mettre en pratique sur des problèmes concrets les compétences de domaine et transversales acquises durant les quatre premiers semestres d'études. Quelques heures du projet seront consacrées à une formation en gestion de projet, en particulier: recherche et gestion de l'information, planification et suivi de projet, organisation d'un groupe et communication, rédaction de rapport technique, préparation de présentations poster. ",
+      "Mots clés":"Collaboration, Communication.",
+      "Forme du contrôle":"Rapport écrit et poster",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Compétences spécifiques aux domaines du projet[br/][b]Compétences transversales:[/b][br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Organiser ses activités en priorisant ses objectifs, T10[br/][li]Utiliser des méthodes et des outils de planification et de contrôle de projet, T11[br/][li]Documenter et communiquer un projet, T12[br/][li]Composer une équipe, la motiver, T13[br/][li]Gérer une réunion, T14[br/][li]Travailler éthiquement dans le respect de la sécurité et de l'environnement, T21[br/][li]Partager ses connaissances et expériences avec ses pairs, T25[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet d'ingénierie simultanée",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

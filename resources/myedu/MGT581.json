@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543120493&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","581"],
+    "title":"Econometrics: Data Analysis & Empirical Methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543120493&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"MTE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178326",
+      "name":"Raffo Julio Diego Salvador"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Students should come to class with their laptop",
+      "Form of examination":"20% Oral presentation[br/]80% Final project[br/]",
+      "Required prior knowledge":"Basic course on probability and/or statistics.",
+      "Content":"[li] Data handling[br/][li] Descriptive statistics[br/][li] Linear regression[br/][li] Binary outcome models (probit, logit)[br/][li] Multinomial and ordered models [br/][li] Limited dependent variable models (Tobit, Heckman)[br/][li] Count data models [br/][li] Instrumental variables [br/][li] Panel data models ",
+      "Keywords":"Econometrics of qualitative dependent variables; Applied econometrics; Innovation; Entrepreneurship.",
+      "Type of teaching":"Courses with applications: each econometric model will be presented both formally and through examples taken from the academic literature on innovation and entrepreneurship. Each model will then lead to systematic computer exercises with firm level or similar data.",
+      "Learning outcomes":"Introduce the student with a framework for conducting applied research, which includes data handling, descriptive statistics and econometric modeling. The course will focus on basic applied econometrics, in particular those models dealing with qualitative dependent variables. The examples will be related to innovation and entrepreneurship current research."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Econometrics: Data Analysis & Empirical Methods",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-324-66040-1&amp;con_lng=ENG\" target=\"blank\">Introductory econometrics : a modern approach / Jeffrey M. Wooldridge</a>\". Year:2009. ISBN:978-0-324-66040-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-59718-073-3&amp;con_lng=ENG\" target=\"blank\">Microeconometrics using Stata / A. Colin Cameron, Pravin K. Trivedi</a>\". Year:2010. ISBN:978-1-59718-073-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178326",
+      "name":"Raffo Julio Diego Salvador"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Les étudiants devront venir au cours avec leur ordinateur portable",
+      "Prérequis":"Cours de probabilités ou statistiques élémentaires.",
+      "Bibliographie et matériel":"[b]Livre requis:[/b][br/]Wooldridge, J. M. Introductory econometrics: a modern approach. Cengage Learning. 2009.[br/][br/][b]Référence supplémentaire (non requise mais recommandée):[/b][br/]Cameron, A. Colin and Pravin K. Trivedi. Microeconometrics Using Stata. Stata Press, 2009.[br/]",
+      "Mots clés":"Econométrie des variables qualitatives ; économétrie appliquée ; innovation ; entrepreneuriat",
+      "Forme d'enseignement":"Cours avec applications : chaque modèle économétrique sera présenté aussi bien de manière formelle qu'à travers des exemples issus de la littérature académique sur l'innovation et l'entrepreneuriat. Il donnera ensuite lieu systématiquement à des exercices sur ordinateur avec des données individuelles d'entreprise ou similaires.",
+      "Contenu":"[li] Préparation des données[br/][li] Statistiques descriptives[br/][li] Régression linéaire[br/][li] Modèle de variable binaire (probit, logit)[br/][li] Modèle multinomial et ordonnée[br/][li] Modèle à variable limitée (Tobit, Heckman)[br/][li] Modèle de comptage[br/][li] Variables instrumentales[br/][li] Les modèles en panel",
+      "Forme du contrôle":"20% Présentation orale en classe[br/]80% Projet final[br/]",
+      "Objectifs d'apprentissage":"Familiarise les étudiants avec un cadre d'analyse empirique qui comprend la préparation des données, les statistiques descriptives et les modèles économétriques. Le cours est  centré sur l'économétrie appliquée, en particulier les variables qualitatives. Les exemples utilisés sont extraits de la recherche courante en matière d'innovation et d'entrepreneuriat."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Econometrics: Data Analysis & Empirical Methods",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-324-66040-1&amp;con_lng=FRE\" target=\"blank\">Introductory econometrics : a modern approach / Jeffrey M. Wooldridge</a>\". Année:2009. ISBN:978-0-324-66040-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-59718-073-3&amp;con_lng=FRE\" target=\"blank\">Microeconometrics using Stata / A. Colin Cameron, Pravin K. Trivedi</a>\". Année:2010. ISBN:978-1-59718-073-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

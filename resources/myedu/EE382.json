@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774472&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","382"],
+    "title":"Electrical machines",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774472&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student gets the basic knowledge relative to the magnetic and electrical circuits as well as the electromechanical energy conversion phenomena of the conventional electrical machines. He will be able to choose a power drive system based on external characteristics.",
+      "Content":"1. Generalities : Constituent materials of electrical machines, basic lows, energy balance and conversion of electromechanical energy.[br/]2. Electric and magnetic circuits: Magnetic field intensity and magnetic induction. Ampere law. Flux, permeances, inductances. Charge and electric field. Induction law. Linked circuits.[br/]3. Transformer : Constitution, physical description, equations and diagrams, equivalent circuits, special modes of operation, parallel operation, phasor group.[br/]4. Rotating machines : Generalities, winding types, pulsating and rotating magneto-motive forces, induced voltage, reactances.[br/]5. Induction motor : Constitution, principle of operation, equations and diagrams, equivalent circuits, torque and current characteristics, starting modes, speed control.[br/]6. Synchronous machine : Constitution, principle of operation, cylindrical and salient-pole unsaturated synchronous machines, equations and steady-state vector diagrams.[br/][br/]Laboratory (4 half days) : Electrical measurements, synchronous and asynchronous machines, no-load- and short-circuit tests, determination of the equivalent circuits, starting-up, motor- and generator operation.[br/]",
+      "Form of examination":"Written"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"Français",
+    "title":"Electrical machines",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electrotechnique",
+      "Bibliographie et matériel":"Polycopié Machines Electriques, cours pour ingénieurs mécaniciens",
+      "Forme d'enseignement":"Ex cathedra, démonstrations et exercices.",
+      "Contenu":"1. Généralités : Matériaux constitutifs des machines électriques, rappel des lois fondamentales, bilan énergétique et conversion d'énergie électromécanique.[br/]2. Circuits électriques et magnétiques : Champ et induction magnétiques. Loi d'Ampère. Flux, perméances, inductances. Charge et champ électriques. Loi de l'induction. Circuits couplés.[br/]3. Transformateur : Constitution, morphologie, équations et diagrammes, schémas équivalents, régimes particuliers, marche en parallèle, indice horaire.[br/]4. Machines tournantes triphasées : Généralités, type d'enroulements, solénations pulsantes et tournantes, tension induite, réactances.[br/]5. Moteur asynchrone : Constitution, principe de fonctionnement, équations et diagrammes, schéma équivalent, caractéristiques de couple et de courant, modes de démarrage, réglage de la vitesse. [br/]6. Machine synchrone : Constitution, principe de fonctionnement,[br/]machines à rotor lisse et à pôles saillants non saturées, équations et diagrammes de tension et de puissance.[br/][br/]Laboratoire de machines et installations électriques (4 séances de 4 heures) : Mesures électriques, machines synchrones et asynchrones, mesures à vide et en court-cicuit, détermination des schémas équivalents, démarrage, fonctionnements en moteur et en génératrice.[br/]",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Systèmes d'entraînements électriques, Mécatronique[br/]et diplômes pratiques combinés SEL / SGM",
+      "Objectifs d'apprentissage":"L'étudiant acquiert les connaissances de base relatives aux circuits magnétiques et électriques ainsi qu'aux phénomènes liés à la conversion électromécanique dans les machines électriques les plus courantes en alimentation à partir du réseau triphasé. Il est capable de choisir un entraînement électrique de puissance à partir des caractéristiques externes."
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"Français",
+    "title":"Machines électriques",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

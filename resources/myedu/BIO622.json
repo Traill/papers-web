@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30685488&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","622"],
+    "title":"Practical - Lingner Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30685488&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lingner-lab.epfl.ch/","http://lingner-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168670",
+      "name":"Lingner Joachim"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Telomere biology[br/][br/]The students will obtain theoretical and practical insight into telomere biology and the roles of telomeres during cellular senescence and for genome stability.",
+      "Content":"A general theoretical introduction will be given in the beginning of the course. In the laboratory, human and yeast cells will be used as model systems. Biochemical, molecular biological and cell biological assays will be performed. Specifically, telomerase activity will be measured in cellular extracts, telomere length will be determined using specialized PCR-methods, the affinity of an RNA-protein interaction will be determined in band-shift assays and telomere integrity will be assessed by immunofluorescence.",
+      "Keywords":"Telomeres, telomerase, reverse transcriptase, cellular senescence, genome stability",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Lingner laboratory cannot take this course. Access is limited to 4 students",
+      "Required prior knowledge":"Background reading: Cech, TR: Beginning to understand the end of the chromosome.Cell. 2004 Jan 23;116(2):273-9. Review."
+    },
+    "practical":{
+      "total_hours":21
+    },
+    "language":"English",
+    "title":"Practical - Lingner Lab",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":5
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lingner-lab.epfl.ch/","http://lingner-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168670",
+      "name":"Lingner Joachim"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Lingner laboratory cannot take this course. Access is limited to 4 students",
+      "Contenu":"A general theoretical introduction will be given in the beginning of the course. In the laboratory, human and yeast cells will be used as model systems. Biochemical, molecular biological and cell biological assays will be performed. Specifically, telomerase activity will be measured in cellular extracts, telomere length will be determined using specialized PCR-methods, the affinity of an RNA-protein interaction will be determined in band-shift assays and telomere integrity will be assessed by immunofluorescence.",
+      "Mots clés":"Telomeres, telomerase, reverse transcriptase, cellular senescence, genome stability",
+      "Prérequis":"Background reading: Cech, TR: Beginning to understand the end of the chromosome.Cell. 2004 Jan 23;116(2):273-9. Review.",
+      "Objectifs d'apprentissage":"Telomere biology[br/][br/]The students will obtain theoretical and practical insight into telomere biology and the roles of telomeres during cellular senescence and for genome stability."
+    },
+    "practical":{
+      "total_hours":21
+    },
+    "language":"English",
+    "title":"Practical - Lingner Lab",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":5
+    }
+  }
+}

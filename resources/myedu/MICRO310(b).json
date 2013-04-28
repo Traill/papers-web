@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24357026&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","310(b)"],
+    "title":"Signals and systems I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24357026&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html","http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction of the basic concepts and mathematical tools for the analysis and characterization of signals, thedesign of processing algorithms, and the linear modeling of systems for students in the life sciences. Application of these techniques to signal processing and communications with an emphasis on biomedical applications.[br/]  [br/]The first semester is devoted to the continuous-time formulation, while the second one focuses on discrete-time signals and digital systems.[br/]",
+      "Content":"1.[]Introduction. Fundamental notions. Impact of the Fourier transform and linear-system theory on the life sciences.[br/][br/]2.[]Time-domain analysis of linear, continuous-time systems. Convolution.[br/][br/]3.[]Signal representation by Fourier series. Orthogonal transforms.[br/][br/]4.[]Fourier transform.[br/][br/]5.[]Frequency analysis of continuous-time systems. Filtering. Sampling.[br/][br/]6.[]Modulation techniques.[br/][br/]7.[]Analysis of analog filters.[br/][br/]8.[]Introduction to imaging.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Signals and systems I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4160-4574-8&amp;con_lng=ENG\" target=\"blank\">Guyton and Hall textbook of medical physiology / John E. Hall</a>\". Year:2011. ISBN:978-1-4160-4574-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html","http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse III,IV, analyse numérique, algèbre linéaire I,II",
+      "Bibliographie et matériel":"Cours polycopié Signaux et systèmes I et II (édité par l'EPFL)",
+      "Forme d'enseignement":"Ex cathedra, exercices dirigés et répétitions",
+      "Contenu":"1.[]Introduction. Notions fondamentales. Importance de l'analyse de Fourier et de la théorie des systèmes linéaires pour les sciences de la vie.[br/][br/]2.[]Systèmes analogiques linéaires: Analyse temporelle, Convolution. [br/][br/]3.[]Représentation de signaux par séries de Fourier. Transformées orthogonales.[br/][br/]4.[]Transformation de Fourier.[br/][br/]5.[]Analyse fréquentielle des systèmes analogiques. Filtrage. Echantillonnage.[br/][br/]6.[]Techniques de modulation.[br/][br/]7.[]Analyse des filtres analogiques.[br/][br/]8.[]Introduction à l'imagerie.",
+      "Forme du contrôle":"Un seul un examen écrit a la fin de la session d'été.",
+      "Préparation pour":"Image processing I,II, Master",
+      "Objectifs d'apprentissage":"Présentation des concepts et des outils de base pour l'analyse et la caractérisation des signaux, la conception de systèmes de traitement et la modélisation linéaire de systèmes pour les étudiants en sciences de la vie. Application de ces techniques au traitement et à la transmission de signaux avec illustrations dans le domaine biomédical. Le premier semestre est consacré à l'étude des signaux et systèmes en temps continu, tandis que le second  se concentre sur les signaux discrets et les systèmes de traitement numérique. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Signaux et systèmes I (pour SV)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4160-4574-8&amp;con_lng=FRE\" target=\"blank\">Guyton and Hall textbook of medical physiology / John E. Hall</a>\". Année:2011. ISBN:978-1-4160-4574-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

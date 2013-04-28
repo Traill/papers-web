@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771538&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","437"],
+    "title":"Polymer chemistry and macromolecular engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771538&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156848",
+      "name":"Klok Harm-Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course will discuss the basic principles of polymer synthesis and give an overview of the different methods that are used in polymer synthesis. The objective of the course is to obtain an advanced understanding of the fundamental concepts of polymer synthesis and to become familiar with the modern methods of polymer synthesis that allow the preparation of tailor-made polymer materials. The course will demonstrate how parameters, which determine polymer structure and properties, such as polymer molecular weight, molecular weight distribution, topology and microstructure can be controlled by proper choice of polymerization method and optimization of reaction conditions.[br/][br/]",
+      "Content":"[li] Introduction: Polymer structure, molecular weight and properties[br/][li]Step polymerization[br/][li]Radical chain polymerization (free radical polymerization, controlled radical polymerization)[br/][li]Emulsion polymerization[br/][li]Ionic chain polymerization (anionic and cationic polymerization)[br/][li]Chain copolymerization[br/][li]Ring-opening polymerization[br/][br/]",
+      "Bibliography and material":"G. Odian, Principles of polymerization, 4th Ed., Wiley-Interscience 2004[br/]Copies of recent articles",
+      "Form of examination":"Continuous assessment",
+      "Required prior knowledge":"General chemistry, Inorganic chemistry, Organic and polymer chemistry[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polymer chemistry and macromolecular engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-27400-3&amp;con_lng=ENG\" target=\"blank\">Principles of polymerization / George Odian</a>\". Year:2004. ISBN:0-471-27400-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156848",
+      "name":"Klok Harm-Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[li]Introduction: structure, poids moléculaire et propriétés des polymères[br/][li]Polymérisation par étapes (polycondensation)[br/][li]Polymérisation radicalaire en chaîne (polymérisation par radicaux libres, polymérisation radicalaire contrôlée)[br/][li]Polymérisation en émulsion[br/][li]Polymérisations ioniques (anionique et cationique)[br/][li]Copolymérisation radicalaire[br/][li]Polymérisation par ouverture de cycles[br/]",
+      "Forme du contrôle":"Contrôle continu",
+      "Prérequis":"Chimie générale, Chimie inorganique, Chimie organique et des polymères",
+      "Bibliographie et matériel":"G. Odian, Principles of polymerization, 4th Ed., Wiley-Interscience 2004[br/]Copies of recent articles",
+      "Objectifs d'apprentissage":"Ce cours traite des principes de base de la synthèse des polymères et fournit une vue d'ensemble des méthodes de polymérisation utilisées. L'objectif du cours est de donner une compréhension approfondie des concepts de base de la synthèse des polymères, et de se familiariser avec les techniques modernes qui permettent la fabrication \"sur-mesure\" de matériaux polymères. Le cours va démontrer comment des paramètres essentiels pour la structure moléculaire et les propriétés du polymère, tels que le poids moléculaire, la distribution en poids moléculaire, la topologie et la microstructure, peuvent être contrôlés par un choix judicieux de la technique de polymérisation, et par optimisation des conditions de réaction."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polymer chemistry and macromolecular engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-27400-3&amp;con_lng=FRE\" target=\"blank\">Principles of polymerization / George Odian</a>\". Année:2004. ISBN:0-471-27400-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

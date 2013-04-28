@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=232190078&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","221"],
+    "title":"Developmental Biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=232190078&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149977",
+      "name":"Barrandon Yann"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To give students the necessary bases  to comprehend  the fundamental mechanisms allowing  the development of a human being, the renewal, repair and regeneration of tissues and organs.",
+      "Content":"Experimental models and techniques used in developmental biology. Guiding principles of  embryogenesis and organogenesis. Study of the principal signaling pathways of embryogenesis and organogenesis. Bases of  tissues and organs development."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Developmental Biology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-564-2&amp;con_lng=ENG\" target=\"blank\">Developmental biology / Scott F. Gilbert</a>\". Year:2010. ISBN:978-0-87893-564-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4105-5&amp;con_lng=ENG\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Year:2008. ISBN:978-0-8153-4105-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149977",
+      "name":"Barrandon Yann"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Biologie cellulaire I, II, III, connaissance de l'anglais",
+      "Bibliographie et matériel":"Molecular Biology of the Cell, Alberts et al. 2002[br/]Developmental Biology, Gilbert et al. 2003[br/]Présentations du cours sur Powerpoint",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices et projet",
+      "Contenu":"Modèles expérimentaux et techniques utilisés en biologie du développement. Principes de base de l'embryogénèse et de l'organogénèse. Etude des principales voies de signalisation, des morphogènes, des gènes homéotiques. Bases du développement des principaux tissus et organes. ",
+      "Forme du contrôle":"Examen écrit, projet noté",
+      "Préparation pour":"Tissue engineering[br/]Stem cell biotechnology[br/]Physiology, system biology",
+      "Objectifs d'apprentissage":"Donner aux étudiants les bases nécessaires à la compréhension des mécanismes fondamentaux permettant le développement d'un être vivant, le renouvellement, la réparation, la régénération des tissus et des organes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie du développement",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-564-2&amp;con_lng=FRE\" target=\"blank\">Developmental biology / Scott F. Gilbert</a>\". Année:2010. ISBN:978-0-87893-564-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4105-5&amp;con_lng=FRE\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Année:2008. ISBN:978-0-8153-4105-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

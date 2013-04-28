@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771303&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","552"],
+    "title":"Media security",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771303&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=235","http://moodle.epfl.ch/course/view.php?id=235"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105043",
+      "name":"Ebrahimi Touradj"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Bibliography and material":"Notes de cours polycopiées, articles",
+      "Required prior knowledge":"Cryptography and security",
+      "Content":"This course provides attendees with theoretical and practical issues in media security. The following topics will be covered, with emphasis on image, video, and audio applications.[br/][br/][b]Media security problems :[/b][br/]rights protection, content integrity verification, confidentionality, steganography and data hiding. [br/][br/][b]Media access problems :[/b][br/]access control, conditional access, access over time, copyright.[br/][br/][b]Media security tools and solutions :[/b] [br/]robust watermarking, fragile watermarking, selective encryption, monitoring, robust hashing, content identification [br/][br/][b]Media security standards :[/b] [br/]secured JPEG 2000 (JPSEC), security tools in the MPEG family of standards from MPEG-1 to MPEG-21[br/][br/][b]Applications :[/b][br/]secure transcoding, surveillance with privacy, media databases, etc.[br/][br/]The course will be given in English.",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"Media security, while being a subset of data security, is of special interest for two main reasons. First, security applications involving media content are particularly rich in their technical challenges and business opportunities. Second, media content, as opposed to generic data, is intended for human consumption and therefore bears a perceptual dimension. Specifically, it is mostly the content, and not the data, that needs to be authenticated and/or protected. This brings additional degrees of freedom, as well as constraints on how such type of data can be secured."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Media security",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=235","http://moodle.epfl.ch/course/view.php?id=235"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105043",
+      "name":"Ebrahimi Touradj"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cryptography and security",
+      "Bibliographie et matériel":"Class notes and references accessible through moodle.",
+      "Forme d'enseignement":"Ex cathedra and exercises",
+      "Contenu":"This course provides attendees with theoretical and practical issues in media security. The following topics will be covered, with emphasis on image, video, and audio applications.[br/][br/][b]Media security problems:[/b][br/]Rights protection, content integrity verification, confidentionality, steganography and data hiding. [br/][br/][b]Media access problems:[/b][br/]Access control, conditional access, access over time, copyright.[br/][br/][b]Media security tools and solutions:[/b][br/]Robust watermarking, fragile watermarking, selective encryption, monitoring, robust hashing, content identification. [br/][br/][b]Media security standards:[/b] [br/]Secured JPEG 2000 (JPSEC), security tools in the MPEG family of standards from MPEG-1 to MPEG-21.[br/][br/][b]Applications:[/b][br/]Secure transcoding, surveillance with privacy, media databases, etc.",
+      "Forme du contrôle":"Graded exercises and midterm exam (contrôle continu).[br/]Written final exam.",
+      "Objectifs d'apprentissage":"Media security, while being a subset of data security, is of special interest for two main reasons. First, security applications involving media content are particularly rich in their technical challenges and business opportunities. Second, media content, as opposed to generic data, is intended for human consumption and therefore bears a perceptual dimension. Specifically, it is mostly the content, and not the data, that needs to be authenticated and/or protected. This brings additional degrees of freedom, as well as constraints on how such type of data can be secured."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Media security",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

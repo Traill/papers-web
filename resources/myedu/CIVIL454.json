@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777082&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","454"],
+    "title":"Transport and Telematic",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777082&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"GC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    },{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To control the concepts and the methods of the transports telematics in order to be able to lead projects to the level of the design and realization in this field.",
+      "Content":"[br/][li]Sphere of activity of the transports telematics (characteristics and components, management of the systems, potential, stakes and needs). [br/][br/][li]The services and the systems of transports telematics (general architecture, management of ways, management of displacements, public transports, traffic information, driving assistance, management of fleet).[br/][br/][li]Nature and management of the data (kinds and flows of information, data base).[br/][br/][li]Study and implementation steps of the services and systems (case studies, principal stages, evaluation criterions). [br/][br/][li]Elements of the traffic theory (characteristic variables, laws of flow). [br/][br/][li]Models and tools for the transport systems evaluation (contribution of the models, models planning, models of dynamic simulation and request). [br/][br/][li]Applications with a microsimulation software.[br/][br/][li]Elements on key technologies (data entry, communication systems, localization and systems of navigation).[br/][br/][li]Needs and future developments."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Transport and Telematic",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    },{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Conception des voies de circulation, Cours du tronc commun en transports.",
+      "Bibliographie et matériel":"Polycopié ou copies de transparents.",
+      "Forme d'enseignement":"Ex cathedra et intervenants extérieurs (partiellement en anglais)",
+      "Contenu":"[br/][li]Champ d'action de la télématique des transports (caractéristiques et composants, gestion des systèmes, potentiel, enjeux  et besoins).[br/][br/][li]Les services et les systèmes de télématique des transports (architecture générale, gestion des voies, gestion des déplacements, transports publics, informations sur le trafic, assistance à la conduite, gestion de flottes).[br/][br/][li]Nature et gestion des données (nature et flux de l'information, base de données).[br/][br/][li]Démarche d'étude et de mise en oeuvre des services et systèmes (études de cas, étapes principales, critères d'évaluation).[br/][br/][li]Éléments de théorie du trafic (variables caractéristiques, lois d'écoulement).[br/][br/][li]Modèles et outils d'évaluation des systèmes de transport (apport des modèles, modèles de planification, modèles de simulation dynamique et de demande).[br/][br/][li]Applications à l'aide d'un logiciel de microsimulation.[br/][br/][li]Eléments sur les technologies clé (saisie de données, systèmes de communication, localisation et systèmes de navigation).[br/][br/][li]Besoins et développements futurs.",
+      "Préparation pour":"Projet de systèmes civils, Projet de Master.",
+      "Objectifs d'apprentissage":"Maîtriser les concepts et les méthodes de la télématique des transports de façon à être capable de mener des projets au niveau de la conception et de la réalisation dans ce domaine."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Transport et télématique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48029637&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","440"],
+    "title":"Advanced transport phenomena",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48029637&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160091",
+      "name":"Swartz Melody"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To gain a deep understanding of mass transport processes and obtain the mathematical tools and analytical skills to solve a variety of transport problems. After this course, the student will be able to define governing equations for a variety of mass transport problems and solve them analytically.",
+      "Content":"This course will teach students how to solve common problems of mass transport, as well as the underlying mathematical theory and examples in biology and medicine. Differential equations describing diffusion, convection, and reaction will be solved in a variety of examples. In addition, approaches to engineering problem solving will be heavily emphasized. Problems will be drawn from a variety of fields, including chemical engineering as well as biomedicine and physiology, biology, and environmental engineering.",
+      "Type of teaching":"lecture and recitation\t\t\t\t\t\t\t\t[br/]",
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Bird, Stewart, and Lightfoot, \"Transport Phenomena\", 2nd ed, John Wiley & Sons"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced transport phenomena",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-59169-026-9&amp;con_lng=ENG\" target=\"blank\">Basic transport phenomena in biomedical engineering / Ronald L. Fournier</a>\". Year:2007. ISBN:1-59169-026-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-12868-8&amp;con_lng=ENG\" target=\"blank\">Fundamentals of momentum, heat, and mass transfer / James R. Welty ... [et al.]</a>\". Year:2008. ISBN:978-0-470-12868-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8493-2124-7&amp;con_lng=ENG\" target=\"blank\">The biomedical engineering handbook / ed. by Joseph D. Bronzino</a>\". Year:2006. ISBN:0-8493-2124-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160091",
+      "name":"Swartz Melody"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Welty, James / Wicks, Charles E. / Wilson, Robert E. / Rorrer, Gregory L.[br/]Fundamentals of Momentum, Heat, and Mass Transfer[br/]4e étiditon; John Wiley & Sons",
+      "Forme d'enseignement":"Cours et conférences",
+      "Contenu":"Révision des phénomènes de chaleur et de matière; diffusion, convection, problèmes 2D et 3D. Les problèmes exposés seront tirés d'un vaste champ d'application tels que le génie chimique, la biomédecine, la physiologie et la technologie environnementale.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master Bioingénierie et Biotechnologie",
+      "Objectifs d'apprentissage":"Acquérir une vaste compréhension des phénomènes de transport de masse; obtenir les outils mathématiques pour résoudre une variété d'équations régissant ces processus.[br/]Après ce cours, l'étudiant pourra définir des équations régissantes ces phénomènes et les résoudre analytiquement."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced transport phenomena",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-59169-026-9&amp;con_lng=FRE\" target=\"blank\">Basic transport phenomena in biomedical engineering / Ronald L. Fournier</a>\". Année:2007. ISBN:1-59169-026-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-12868-8&amp;con_lng=FRE\" target=\"blank\">Fundamentals of momentum, heat, and mass transfer / James R. Welty ... [et al.]</a>\". Année:2008. ISBN:978-0-470-12868-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8493-2124-7&amp;con_lng=FRE\" target=\"blank\">The biomedical engineering handbook / ed. by Joseph D. Bronzino</a>\". Année:2006. ISBN:0-8493-2124-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

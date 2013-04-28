@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837368390&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","465"],
+    "title":"Packing and covering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837368390&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183120",
+      "name":"Pach János"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"How many objects of a given shape and size can be packed into a large box of fixed volume?[br/][br/]We give a systematic introduction into the rich theory that has grown out of the above question of Kepler, Gauss, and Hilbert. Connections to number theory, coding theory, potential theory, and robotics will also be presented.[br/]",
+      "Content":"1.\tGeometry of numbers[br/]2.\tApproximation of convex sets by polygons[br/]3.\tPacking and covering with congruent convex discs[br/]4.\tLattice packing and lattice covering[br/]5.\tThe method of cell decomposition[br/]6.\tMethods of Blichfeldt and Rogers[br/]7.\tEfficient random arrangements",
+      "Form of examination":"Oral exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Packing and covering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-58890-3&amp;con_lng=ENG\" target=\"blank\">Combinatorial geometry / János Pach, Pankaj K. Agarwal</a>\". Year:1995. ISBN:0-471-58890-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183120",
+      "name":"Pach János"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"1.\tLa géométrie des nombres[br/]2.\tApproximation des ensembles convexes par des polygones[br/]3.\tEmpilement et couverture par des disques convexes[br/]4.\tEmpilements et couvertures formant un réseau [br/]5.\tLa méthode de décomposition cellulaire[br/]6.\tLes méthodes de Blichfeldt et Rogers[br/]7.\tLes arrangements aléatoires efficaces",
+      "Forme du contrôle":"Examen oral",
+      "Bibliographie et matériel":"Pach-Agarwal: Combinatorial Geometry (Wiley)",
+      "Objectifs d'apprentissage":"Combien d'objets d'une forme et d'une dimension données peuvent être empilés dans une grande boîte de volume fixé ?[br/][br/]Le propos de ce cours est de donner une introduction systématique à cette théorie riche, venue de la question de Kepler, Gauss et Hilbert exposée plus haut. Des liens avec la théorie des nombres, la théorie des codes, la théorie du potentiel et la robotique seront aussi présentés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Packing and covering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-58890-3&amp;con_lng=FRE\" target=\"blank\">Combinatorial geometry / János Pach, Pankaj K. Agarwal</a>\". Année:1995. ISBN:0-471-58890-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

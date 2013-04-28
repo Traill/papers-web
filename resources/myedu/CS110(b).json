@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","110(b)"],
+    "title":"Computer-aided engineering I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=en",
+    "section":"SV",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":4.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149007",
+      "name":"Lepetit Vincent"
+    },{
+      "url":"http://people.epfl.ch/106336",
+      "name":"Sam Jamila"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To familiarize the student with algorithmic techniques, computer programming and the concept of object using the languages C and C++.",
+      "Content":"Introduction to the UNIX environment;[br/][br/]Programming training:[br/][li]\tbasic types; [br/][li]\toperators and expressions;[br/][li]\tinput-outputs;[br/][li]\tconditions and loops; [br/][li]\tarrays, strings, structures;[br/][li]\tfunctions; [br/][li]\tgraphics.[br/][br/]Initiation to object programming.  [br/][br/]Final project:  simulation of predators-preys interactions.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computer-aided engineering I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":4.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149007",
+      "name":"Lepetit Vincent"
+    },{
+      "url":"http://people.epfl.ch/106336",
+      "name":"Sam Jamila"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Maturité fédérale",
+      "Bibliographie et matériel":"Polycopiés des notes de cours",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"Introduction à l'environnement UNIX ;[br/][br/]Apprentissage de la programmation : [br/][li]\ttypes de base, [br/][li]\topérateurs et expressions, [br/][li]\tentrées-sorties, [br/][li]\tconditions et boucles, [br/][li]\ttableaux, chaînes de caractères, structures,[br/][li]\tfonctions,[br/][li]\téléments de graphisme.[br/][br/]Initiation à la programmation orientée objet.[br/][br/]Projet final : simulation d'interactions proies / prédateurs.",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Informatique II",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant à l'algorithmique, la programmation et la notion d'objet via les langages C et C++."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Informatique I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

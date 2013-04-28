@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229913760&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","406"],
+    "title":"Macrofinance",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229913760&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174686",
+      "name":"Lambertini Luisa"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"20% Problem Sets[br/]40% Midterm Exam (closed books)[br/]40% Final Exam (closed books)[br/]",
+      "Bibliography and material":"[b]Required textbook: [/b][br/][li][i]Foundations of International Macroeconomics [/i] by Obstfeld and Rogoff, MIT Press[br/][br/]Additional references (not required but suggested):[br/][li][i]Advanced Macroeconomics[/i] by David Romer, Mc-Graw-Hill[br/][br/]Additional material that will be available on the course website[br/][br/]Additional material that will be available on the course website",
+      "Content":"The course first introduces basic concepts, such as utility and inter-temporal utility maximization that form the basis of macroeconomic models. Then it introduces macroeconomic models relevant for the analysis of short-run fluctuations, interest rate determination, monetary policy, foreign exchange rates, etc.  Students will learn how to solve and simulate these models.[br/][br/]The course will cover the following topics:[br/][li] National income accounting and the business cycle[br/][li]Utility functions[br/][li]A simple two-period model with consumption, investment and firms[br/][li]The optimal growth model and dynamic programming[br/][li]The stochastic growth model with flexible labor supply[br/][li]Competitive equilibrium with complete markets[br/][li]Consumption and asset pricing",
+      "Keywords":"Macroeconomics, General Equilibrium, Macrofinance",
+      "Type of teaching":"Lectures. Exercise sessions will take place in a classroom equipped with computers.",
+      "Learning outcomes":"This course provides students with a working knowledge of macroeconomic models that explicitly incorporate financial markets. These models and concepts underlie many of the mathematical and financial tools that are introduced later in the program. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Macrofinance",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-287730-4&amp;con_lng=ENG\" target=\"blank\">Advanced macroeconomics / David Romer</a>\". Year:2006. ISBN:978-0-07-287730-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-15047-6&amp;con_lng=ENG\" target=\"blank\">Foundations of international macroeconomics / Maurice Obstfeld, Kenneth Rogoff</a>\". Year:1999. ISBN:0-262-15047-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-12274-X&amp;con_lng=ENG\" target=\"blank\">Recursive macroeconomic theory / Lars Ljungqvist, Thomas J. Sargent</a>\". Year:2004. ISBN:0-262-12274-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174686",
+      "name":"Lambertini Luisa"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"[b]Livre requis :[/b][br/][li][i]Foundations of International Macroeconomics[/i] by Obstfeld and Rogoff, MIT Pres[br/][br/]Référence supplémentaire (non requise, mais recommandée):[br/][li][i]Advanced Macroeconomics[/i] by David Romer, Mc-Graw-Hill[br/][br/]Du matériel supplémentaire sera disponible sur le site web du cours [br/]",
+      "Mots clés":"Macroéconomie, équilibre général, macrofinance[br/]",
+      "Forme d'enseignement":"Cours. Les sessions d'exercices auront lieu dans une salle de classe équipée d'ordinateurs.",
+      "Contenu":"Le cours présente d'abord les concepts de base tels que l'utilité et la maximisation de l'utilité intertemporelle qui forment la base des modèles macro-économiques. Il présente ensuite les modèles macro-économiques pour l'analyse des fluctuations à court terme, la détermination du taux d'intérêt, la politique monétaire, les taux de change, etc. Les étudiants apprendront comment résoudre et simuler ces modèles.[br/][br/]Le cours traitera les sujets suivants :[br/][li]Comptabilité Nationale et cycles économiques[br/][li]Fonctions d'utilité[br/][li]Modèle simple à deux périodes avec consommation, investissement et entreprises[br/][li]Modèle de croissance optimale et programmation dynamique[br/][li]Modèle de croissance stochastique avec offre d'emploi fixe et flexible[br/][li]Equilibre compétitif avec marchés complets[br/][li]Consommation et évaluation des actifs",
+      "Forme du contrôle":"20% Problèmes[br/]40% Examen intermédiaire (à livres fermés)[br/]40% Examen final (à livres fermés)",
+      "Objectifs d'apprentissage":"Ce cours fournit aux étudiants une connaissance pratique des modèles macro-économiques qui incorporent explicitement les marchés financiers.  Ces modèles et concepts sont à la base de beaucoup d'outils mathématiques et financiers qui seront présentés plus tard dans le programme."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Macrofinance",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-287730-4&amp;con_lng=FRE\" target=\"blank\">Advanced macroeconomics / David Romer</a>\". Année:2006. ISBN:978-0-07-287730-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-15047-6&amp;con_lng=FRE\" target=\"blank\">Foundations of international macroeconomics / Maurice Obstfeld, Kenneth Rogoff</a>\". Année:1999. ISBN:0-262-15047-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-12274-X&amp;con_lng=FRE\" target=\"blank\">Recursive macroeconomic theory / Lars Ljungqvist, Thomas J. Sargent</a>\". Année:2004. ISBN:0-262-12274-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

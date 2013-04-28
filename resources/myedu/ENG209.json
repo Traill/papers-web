@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775792&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","209"],
+    "title":"Software engineering project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775792&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    },{
+      "url":"http://people.epfl.ch/106795",
+      "name":"Zysman Eytan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control",
+      "Bibliography and material":"Pages WWW. Reference book",
+      "Prerequisite for":"Computer project and projects during Master cycle",
+      "Required prior knowledge":"Informatique I et II",
+      "Content":"[b]Integration of basic rules :[/b][br/][li]Additional knowledge for programming languages in C and C++[br/][li]Tools and methods for specifications and software development[br/][br/][b]Project Development :[/b][br/][li]Analysis of the specification [br/][li]Software architecture design[br/][li]Integrate existing source code into the project [br/][li]Defiand specification of tools and methodology for test and validation of the software.[br/][li]Editing of a report and documentation of the software.[br/]The project will be organised in teams so as to better learn how to specify, partition, integrate and validate a software project working in a team. [br/]The basic language will be C/C++",
+      "Type of teaching":"Directed exercise sessions",
+      "Learning outcomes":"Computer science is a key subject for electrical engineers. This course will provide to the student:[br/][li]How to integrate all elementary knowledge learned before in the course[br/][li]A complete management methodology of computer science project including concrete principles acquired theoretically.[br/][br/]The main values of the course :[br/][li]Complete and apply the acquired knowledge in functional and object oriented programming[br/][li]Learn to specify, partition and plan a complex software project[br/][li]Learn and use the needed tools for each development step of a software project[br/][li]Edit project specifications and documentation."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Software engineering project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    },{
+      "url":"http://people.epfl.ch/106795",
+      "name":"Zysman Eytan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Informatique I et II",
+      "Bibliographie et matériel":"Pages WWW. Livre de référence",
+      "Forme d'enseignement":"Séances d'exercices dirigés",
+      "Contenu":"[b]Intégration des notions de base :[/b]\t[br/][li]Compléments de base aux langages C et C++.\t[br/][li]Méthodes et outils des spécification et développements.[br/][br/][b]Réalisation d'un projet : [/b]\t[br/][li]Analyse et spécification du cahier des charges. \t[br/][li]Conception de l'architecture logicielle.\t[br/][li]Prendre connaissance des sources existantes, les comprendre et les introduire dans un projet.[br/][li]Définitions et spécification de des outils et méthodologies de test et validation du logiciel.[br/][li]Rédaction d'un compte rendu pour permettre le suivi du projet. [br/][br/][br/]Le développement du projet se fera en groupes pour permettre de mieux apprendre les méthodes de spécification, partitionnement, intégration, vérification d'un projet et le travail en équipe.[br/]Le langage de base sera C/C++.",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Projet informatique et projets du cycle Master",
+      "Objectifs d'apprentissage":"L'informatique est une matière primordiale pour l'ingénieur électricien. Ce cours se propose de donner à l'étudiant :[br/][li]Une intégration des notions de base acquises préalablement.[br/][li]Une méthode complète de gestion de projet informatique en appliquant dans le concret les principes acquis théoriquement.[br/][br/]On s'attachera donc à :[br/][li]Compléter et appliquer les connaissances acquises en programmation fonctionnelle et objet.[br/][li]Apprendre à spécifier, partitionner et planifier un projet de développement software complexe.[br/][li]Connaître et maîtriser les outils propres aux différentes étapes de développent d'un projet de programmation.[br/][li]Rédiger les spécifications et le suivi du projet"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de programmation",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

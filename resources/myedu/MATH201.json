@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3855141&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","201"],
+    "title":"Analysis III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3855141&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113868",
+      "name":"Maddocks John"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"For the teacher: to present briefly certain parts of basic mathematical analysis that are essential tools in physics and applied mathematics.[br/][br/]For the student: to become familiar with certain important tools of classical analysis.[br/]",
+      "Content":"- line integrals[br/]- surface integrals[br/]- theorem of Green, Gauss and Stokes[br/]- Fourier series",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Analysis I and II"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analysis III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-346-X&amp;con_lng=ENG\" target=\"blank\">Analyse complexe / Srishti D. Chatterji</a>\". Year:1997. ISBN:2-88074-346-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-314-1&amp;con_lng=ENG\" target=\"blank\">Analyse vectorielle / Srishti D. Chatterji</a>\". Year:1997. ISBN:2-88074-314-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-350-8&amp;con_lng=ENG\" target=\"blank\">Equations différentielles ordinaires et aux dérivées partielles / Srishti D. Chatterji</a>\". Year:1998. ISBN:2-88074-350-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113868",
+      "name":"Maddocks John"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II",
+      "Bibliographie et matériel":"S. D. Chatterji, Cours d'Analyse vol. 1, 2, 3, PPUR.[br/]Polycopié J. Descloux, Analyse III, 1979.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"- intégrales curvilignes[br/]- intégrales de surface[br/]- théorème de Green, Gauss et Stokes[br/]- séries de Fourier",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Intentions de l'enseignant : présenter succinctement certains chapitres d'analyse élémentaire qui sont indispensables pour la physique et les mathématiques appliquées.[br/][br/]Objectifs pour l'étudiant : se familiariser avec certains outils importants d'analyse classique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analysis III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-346-X&amp;con_lng=FRE\" target=\"blank\">Analyse complexe / Srishti D. Chatterji</a>\". Année:1997. ISBN:2-88074-346-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-314-1&amp;con_lng=FRE\" target=\"blank\">Analyse vectorielle / Srishti D. Chatterji</a>\". Année:1997. ISBN:2-88074-314-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-350-8&amp;con_lng=FRE\" target=\"blank\">Equations différentielles ordinaires et aux dérivées partielles / Srishti D. Chatterji</a>\". Année:1998. ISBN:2-88074-350-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

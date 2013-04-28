@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771613&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","476"],
+    "title":"Real-time embedded systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771613&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/","http://moodle.epfl.ch/course/"],["http://fpga4u.epfl.ch","http://fpga4u.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100366",
+      "name":"Beuchat René"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"A mini-project allows implementing on a FPGA a multi-processor system including a web server and specialized programmable interface to respect a real time problem.",
+      "Form of examination":"Continuous control with reports and oral presentation[br/]all labos 50% + final mini-project 50%",
+      "Bibliography and material":"Teaching notes and suggested reading material[br/]Specialized datasheet and norms",
+      "Required prior knowledge":"Embedded Systems, Real time Programming, VHDL",
+      "Content":"During this course, measures of response time to interruptions are studied and tested in laboratories, such as for example the influence of dynamic memories, cache memories, option of compilation. Measurements of response time to the interruptions, task's commutations, primitives of synchronizations are carried out on an embarked system based on a FPGA.[br/]The course includes the study of models of management of an embedded system by polling, interruptions and using a real time kernel and these primitives of tasks management and synchronizations.[br/]Specialized programmable interfaces are carried out in VHDL to help with these measurements. A real time kernel is studied and used at the time of the laboratories. A system of acquisition is carried out and the gathered data transmitted by an embedded Web server. To ensure the real time acquisition and reading by the Web server, a multiprocessor system is developed and carried out on FPGA. An Accelerator C to VHDL makes it possible to facilitate the optimization of functions by hardware on FPGA. Cross development tools are used. [br/]Each topic is treated by a theoretical course and an associated laboratory. The laboratories are realized on a FPGA board especially developed for teaching. A real time operating system is studied and used with the laboratories.[br/][br/]",
+      "Type of teaching":"Ex cathedra, laboratories and a miniproject",
+      "Learning outcomes":"A real time system has to accept important temporal constraints. A real time embedded system must be able to react to events with a limited time. [br/]The student will be able to realize such system on a particular target including a multiprocessor on FPGA. Hardware/Software, real-time OS and including a web server."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Real-time embedded systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/","http://moodle.epfl.ch/course/"],["http://fpga4u.epfl.ch","http://fpga4u.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100366",
+      "name":"Beuchat René"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Un mini-projet permet d'implémenter sur un système embarqué à FPGA un système multiprocesseur incluant un  serveur Web et des interfaces programmables spécialisées.",
+      "Prérequis":"Systèmes embarqués, programmation temps réel, VHDL",
+      "Bibliographie et matériel":"Teaching notes and suggested reading material[br/]Specialized datasheet and norms",
+      "Forme d'enseignement":"Ex-cathedra, laboratoires dirigés et mini-projet",
+      "Contenu":"Lors de ce cours, les éléments déterminants de temps de réponses à des interruptions sont étudiés et testés en laboratoires, comme par exemple l'influence d'une mémoire dynamique, d'une mémoire cache, d'option de compilation. Des mesures de temps de réponses aux interruptions, de commutations de tâches, de primitives de synchronisations sont réalisées sur un système embarqué basé sur une FPGA Le cours comprend l'étude de modèles de gestion d'un système embarqué par scrutation, par interruptions et à l'aide d'un noyau temps réel et de ses primitives de gestion de tâches et de synchronisations.[br/]Des modules interfaces sont réalisés en VHDL pour aider à ces mesures. Un noyau temps réel est étudié et utilisé lors des laboratoires. Un système d'acquisition est réalisé et les données acquises transmises par un serveur web embarqué.[br/]Pour assurer le lien entre acquisition temps réel et lecture par le serveur web, un système multiprocesseur est développé et réalisé sur FPGA. Un accélérateur C VHDL permet de faciliter l'optimisation de fonctions par matériel sur FPGA.[br/]Chaque thème est traité par un cours théorique et un laboratoire associé. L'ensemble des laboratoires est effectué sur des cartes spécialement développées pour ce cours. Un système d'exploitation temps réel est étudié et utilisé avec les laboratoires.[br/]",
+      "Forme du contrôle":"Control continu, rendu de rapport et présentation orale[br/]ensemble des labos 50%, mini-project 50%",
+      "Objectifs d'apprentissage":"Un système temps réel doit répondre à des contraintes temporelles importantes. Un système embarqué temps réel doit être capable de répondre à des évènements avec un temps borné. [br/]Les étudiants seront capables de concevoir, réaliser et programmer un système multiprocesseur sur FPGA incluant un serveur web. [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Real-time embedded systems",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

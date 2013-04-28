@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4148677&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","170"],
+    "title":"Materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4148677&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=en",
+    "section":"GC",
+    "program":"MX",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101178",
+      "name":"Drezet Jean-Marie"
+    },{
+      "url":"http://people.epfl.ch/107372",
+      "name":"Guidoum Amor"
+    },{
+      "url":"http://people.epfl.ch/206581",
+      "name":"Patapy Cédric"
+    },{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The objectives of the course Materials (and Laboratories is to give students in Civil Engineering the essential basis about the functions, the composition and fabrication, the properties and characterisation of the materials the most often used in civil engineering structures.[br/][br/]The emphasis is on the relation between the composition and structure of the materials and their mechanical behaviour, durability and thermal and phonic performance.[br/][br/]The fabrication, use and properties of the three main groups of materials - cementitious, metals and other mineral and organic materials are studied.[br/][br/][br/][br/][br/][br/]",
+      "Content":"[li][b]Composition and function:[/b] Properties of structures, types of material,[br/]constituents, fabrication, microstructure[br/][li][b]Atomic bonding and structure of solids.[/b][br/][li][b]Mechanical[/b], thermal and optical properties.[br/][li][b]Cementitious Materials (concrete):[/b] Manufacturing and chemical reactions, formation of microstructure. Mechanical behavior and its evolution over time, cracking and rupture, creep. Durability: causes of deterioration; reinforcement corrosion, carbonation, alkali aggregate reaction, freeze-thaw, etc.. Trends & environmental issues.[br/][li][b]Metals and alloys:[/b] Basic Properties, composition  and microstructure, mechanical properties and testing, mechanism of deformation and failure, processing of steel and aluminum, metal forming, heat treatment of steels, steels in civil engineering, corrosion and protection of steel[br/][li][b]Other building materials:[/b] Masonry(bricks), polymers, composites, wood and wood products, glass, plaster, clay, lime.[br/]For each type of material the following aspects are covered: composition, fabrication, physico-chemical and mechanical properties, durability.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, demonstrations",
+      "Prerequisite for":"Sécurité et fiabilité, Structures en bois, Ponts en métal, Ponts en béton,  Matériaux et structures",
+      "Required prior knowledge":"statique"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Materials",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101178",
+      "name":"Drezet Jean-Marie"
+    },{
+      "url":"http://people.epfl.ch/107372",
+      "name":"Guidoum Amor"
+    },{
+      "url":"http://people.epfl.ch/206581",
+      "name":"Patapy Cédric"
+    },{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, démonstrations",
+      "Contenu":"[li][b]Fonctions et constitution:[/b] Constructions et fonctions, familles,[br/]constituants, fabrication, microstructure.[br/][li][b]Liaisons atomiques et architectures des solides[/b][br/][li][b]Propriétés[/b] mécaniques, thermiques et optiques[br/][li][b]Matériaux à base de ciment (béton):[/b] Fabrication et réactions chimiques, formation de microstructure. Comportement mécanique et son évolution dans le temps, fissuration et rupture, fluage. Durabilité: causes des dégradations; corrosion des armatures, carbonations, réaction alkali agrégat, gel-dégel, .etc. Tendances&aspects environnementaux.[br/][li][b]Métaux et alliages:[/b] Propriétés de base, constitution et[br/]microstructure, propriétés et essais mécaniques, mécanisme de déformation et de rupture, élaboration de l'acier et de l'aluminium, la mise en forme des métaux, traitement thermique des aciers, les aciers du génie civil, corrosion et protection des aciers[br/][li][b]Autres matériaux de construction:[/b] terres cuites, polymères, composites, bois et produits dérivés, verres, plâtre, argile, chaux. [br/]Pour chaque type de matériaux les aspects suivants sont développés: constitution, production, mise en ½uvre, propriétés physico-chimiques et mécaniques, durabilité.",
+      "Préparation pour":"Sécurité et fiabilité, Structures en bois, Ponts en métal, Ponts en béton,  Matériaux et structures",
+      "Prérequis":"statique",
+      "Objectifs d'apprentissage":"L'objectif du cours de Matériaux (et Laboratoires Matériaux) est de fournir aux étudiants en Génie Civil en début de cursus les bases essentielles concernant les fonctions, la constitution, les lois de comportement et la caractérisation des matériaux les plus fréquemment utilisés pour les ouvrages du génie civil.[br/][br/] L'accent est mis sur la relation entre la composition et la structure des matériaux et leur comportement sous les sollicitations mécaniques et physiques.(lois de comportements mécaniques, fatigue), les sollicitations thermiques (traitements thermiques, soudage) et celles de l'environnement (dégradation, corrosion).[br/][br/]Les trois groupes de matériaux (métaux, matériaux minéraux non métalliques et matériaux à base organique) utilisés en génie civil sont étudiés en terme de leur élaboration, leur mise en ½uvre et leurs propriétés.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Matériaux",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

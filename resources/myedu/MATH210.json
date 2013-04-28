@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24346262&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","210"],
+    "title":"Algebra I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24346262&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to introduce the basic notions of algebra, in particular the fundamental algebraic structure and their use. Another goal is to learn to master abstract reasoning.",
+      "Content":"Groups theory :[br/]- Groups, subgroups, homomorphisms[br/]- Normal subgroups and quotient groups[br/]- Isomorphism theorems[br/]- Permutation groups[br/]- Group actions[br/]- Finite groups[br/]- Finitely generated abelian groups",
+      "Type of teaching":"Ex cathedra lecture + exercises",
+      "Prerequisite for":"Algebra II",
+      "Required prior knowledge":"Linear algebra"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algebra I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra + exercices",
+      "Contenu":"Théorie des groupes :[br/]- Groupes, sous-groupes, homomorphismes[br/]- Sous-groupes normaux et groupes quotients[br/]- Théorèmes d'isomorphisme[br/]- Groupes de permutations[br/]- Actions de groupes[br/]- Groupes finis[br/]- Groupes abéliens de type fini",
+      "Préparation pour":"Algèbre II",
+      "Prérequis":"Algèbre linéaire",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est d'introduire les notions de base de l'algèbre, en particulier les structures algébriques fondamentales et leur utilisation. Un objectif complémentaire est l'apprentissage de la maîtrise du raisonnement abstrait."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

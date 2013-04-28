@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322552&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","711"],
+    "title":"Inorganic chemistry \"Applications and spin-offs\"",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322552&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective of this course is to present and discuss important recent contributions in the field of inorganic chemistry.  This will be achieved by student literature seminars based on publications, which are selected by the instructors, emanating from the last 12 months.  The seminar will be preceded by an introduction to the topic by the instructors and followed by a group discussion.",
+      "Content":"The topics covered in this course will include recent advances in the field of bioinorganic chemistry (e.g. structure and reaction mechanism of metalloenzymes, synthesis of bioinorganic model compounds), organometallic synthesis and catalysis (e.g. new concepts in combinatorial catalysis, new synthetic methodologies, new spectroscopic techniques) and supramolecular coordination chemistry (e.g. new functional materials by self-assembly, the adaptive behavior of dynamic systems).  The specific content will be chosen by the instructors and will be renewed every year.",
+      "Keywords":"Inorganic, Organometallic, Materials, Catalysis, Spectroscopy, Theory.",
+      "Required prior knowledge":"Masters level knowledge of inorganic/organometallic chemistry."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry \"Applications and spin-offs\"",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The topics covered in this course will include recent advances in the field of: [br/]1. Bioinorganic chemistry (e.g. application of metalloenzymes model compounds in catalysis, medicinal inorganic chemistry). [br/]2. Organometallics (e.g. new reagents for stoichiometric organic synthesis, new catalysts, methods to hetrogenise organometallic catalysts such as solid supports and biphasic approaches). Supramolecular coordination chemistry (e.g. functional materials for hydrogen storage, porous supports for catalysis).  Organometallic polymers (e.g. conducting polymers) [br/][br/]The specific content will be chosen by the instructors and will be renewed every year. ",
+      "Mots clés":"Inorganic, Organometallic, Materials, Catalysis, Spectroscopy, Theory.",
+      "Prérequis":"Masters level knowledge of inorganic/organometallic chemistry.",
+      "Objectifs d'apprentissage":"The objective of this course is to present and discuss important recent contributions in the field of applied inorganic chemistry.  This will be achieved by student literature seminars based on publications and the patent literature, which are selected by the instructors, emanating from the last 12 months.  The seminar will be preceded by an introduction to the topic by the instructors and followed by a group discussion."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry \"Applications and spin-offs\"",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=320530415&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","446"],
+    "title":"Digital 3D Geometry Processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=320530415&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"EDIC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lgg.epfl.ch/teaching.php","http://lgg.epfl.ch/teaching.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220716",
+      "name":"Deng Bailin"
+    },{
+      "url":"http://people.epfl.ch/229269",
+      "name":"Neubert Boris"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"After attending this course, students should be able to define and relate the basic concepts, tools, and algorithms in geometric modeling and digital surface processing, and be able to- implement individual components of a geometric modeling system.[br/]",
+      "Content":"Digital 3D geometric models are widely used in computer graphics, entertainment, CAD, architecture, engineering, bio-medicine, and many related fields. In this course we will cover the entire 3D content creation pipeline from acquisition and reconstruction, mesh generation and optimization, denoising, fairing, and simplification, to interactive editing and animation. We will consider 3D surfaces represented by polygon meshes, the most widely used geometry representation in computer graphics. Practical programming exercises are an integral part of the course. Students will scan their own 3D objects and implement the basic algorithms to reconstruct, filter, simplify, remesh, and interactively edit the acquired geometric shape, in order to create their own digital 3D models that can be integrated into arbitrary virtual environments.[br/][br/][br/][br/]",
+      "Type of teaching":"Lectures, exercises, practical work",
+      "Required prior knowledge":"Basic knowledge of linear algebra is required. Some prior knowledge in computer graphics is recommended, but not necessary. The programming exercises will be done in C++.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Digital 3D Geometry Processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lgg.epfl.ch/teaching.php","http://lgg.epfl.ch/teaching.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220716",
+      "name":"Deng Bailin"
+    },{
+      "url":"http://people.epfl.ch/229269",
+      "name":"Neubert Boris"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Séminaires, exercices, travaux pratiques",
+      "Contenu":"Les modèles géométriques digitaux 3D sont largement utilisés en infographie, animation, CAO, architecture, ingénierie, dans le bio-médical et de nombreux domaines liés. Dans ce cours nous allons couvrir l'ensemble de la création de contenu 3D, de l'acquisition et de la reconstruction, de la génération de maillage et de l'optimisation, du débruitage, du carénage et de la simplification à l'édition interactive et à l'animation. Nous allons considérer les surfaces 3D représentées par des maillages de polygones, la représentation géométrique la plus largement utilisée en infographie. Des exercices pratiques de programmation font partie intégrante du cours. Les élèves numériseront leurs propres objets 3D et appliqueront les algorithmes de base pour reconstruire, filtrer, simplifier, remailler et, de manière interactive, modifier la forme géométrique de l'acquisition en vue de créer leurs propres modèles 3D numériques qui peuvent être intégrés dans des environnements virtuels arbitraires.",
+      "Prérequis":"Des connaissances de base en algèbre linéaire sont nécessaires. Des connaissances préalables en informatique graphique sont souhaitées, mais pas obligatoires. Les exercices de programmation se feront en C++.",
+      "Bibliographie et matériel":"Sera fournie en classe / Will be provided in class",
+      "Objectifs d'apprentissage":"Après avoir assisté à ce cours, les étudiants devraient être en mesure de définir et relier les concepts de base, les outils et les algorithmes de modélisation géométrique et de traitement numérique de surface, et être capables de mettre en oeuvre différents composants d'un système de modélisation géométrique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Digital 3D Geometry Processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

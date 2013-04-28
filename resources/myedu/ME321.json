@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578086108&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","321"],
+    "title":"Control systems + Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578086108&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105690",
+      "name":"Longchamp Roland"
+    },{
+      "url":"http://people.epfl.ch/106335",
+      "name":"Salzmann Christophe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"[li]Real analysis[br/][li]Complex analysis[br/][li]Signals and systems[br/][li]Represent a physical process as a system with its inputs, outputs and disturbances, A1[br/][li]Derive the dynamic equations for the system, A2[br/][li]Represent a linear system by a transfer function, A5",
+      "Content":"Introduction to automatic control. Sampling and signal reconstruction. Discrete-time systems. z-transform. Closed-loop transfer function. Frequency response. Stability. Discrete equivalents. Direct design. Continuous-time control.",
+      "Keywords":"Digital control, analysis and design of control systems, stability, PID controller",
+      "Type of teaching":"Ex cathedra course, integrated demos and case studies, hands-on laboratory sessions",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Analyze a linear dynamical system (both time and frequency responses), A4[br/][li]Construct and analyse a discrete-time model for a dynamic system, A7[br/][li]Design a PID controller, A9[br/][li]Design a simple controller for a dynamic system, A10[br/][li]Assess the stability, performance and robustness of a closed-loop system, A14[br/][li]Define (specifications) the adequate control performance for dynamic systems, A15[br/][li]Propose several control solutions, formulate the trade-offs, choose the options, A16[br/][br/][b]Transversal skills:[/b][br/][li]Time management, T1[br/][li]Self-assessment of acquired skills, T2[br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Be perseverant through difficulties, T15[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Control systems + Lab",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-880-7&amp;con_lng=ENG\" target=\"blank\">Commande numérique de systèmes dynamiques : cours d'automatique / Roland Longchamp</a>\". Year:2010. ISBN:978-2-88074-880-7</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105690",
+      "name":"Longchamp Roland"
+    },{
+      "url":"http://people.epfl.ch/106335",
+      "name":"Salzmann Christophe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Analyse réelle[br/][li]Analyse complexe[br/][li]Représenter un processus physique sous forme de système avec ses entrées, ses sorties et ses perturbations, A1[br/][li]Ecrire les équations dynamiques du système, A2[br/][li]Représenter un système linéaire sous forme de fonction de transfert, A5",
+      "Bibliographie et matériel":"R. Longchamp, [i]Commande numérique de systèmes dynamiques - Cours d'automatique[/i] :  Volume 1, [i]Méthodes de base[/i], Presses Polytechniques et Universitaires Romandes troisième édition, 2010.",
+      "Mots clés":"Commande numérique, analyse et synthèse des systèmes automatiques, stabilité, régulateur PID.",
+      "Forme d'enseignement":"Cours ex cathedra, démonstrations et études de cas intégrés, travaux pratiques.",
+      "Contenu":"Introduction à la commande automatique. Echantillonnage et reconstruction. Systèmes discrets. Transformée en z. Fonction de transfert du système bouclé. Réponse harmonique. Stabilité. Numérisation. Synthèse directe. Commande analogique.",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Analyser un système dynamique linéaire (approches temporelle et fréquentielle), A4[br/][li]Construire et analyser un modèle discret pour un système  dynamique, A7[br/][li]Dimensionner un régulateur PID, A9[br/][li]Dimensionner un régulateur simple pour un système dynamique, A10 [br/][li]Déterminer la stabilité, la performance et la robustesse d'un système  en boucle fermée, A14[br/][li]Définir (cahier des charges) des performances de commandes adaptées aux systèmes dynamiques, A15[br/][li]Concevoir et choisir des solutions de commandes, formuler les trade-offs, choisir les options, A16[br/][b]Compétences transversales:[/b][br/][li]Gérer son temps, T1[br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Automatique + TP",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-880-7&amp;con_lng=FRE\" target=\"blank\">Commande numérique de systèmes dynamiques : cours d'automatique / Roland Longchamp</a>\". Année:2010. ISBN:978-2-88074-880-7</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

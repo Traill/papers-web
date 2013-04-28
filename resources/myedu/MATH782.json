@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597424742&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","782"],
+    "title":"Computational Mechanics by Isogeometric Analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597424742&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159570",
+      "name":"Dede' Luca"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course aims to introduce Isogeometric Analysis for the numerical approximation of Partial Differential Equations with applications in Computational Mechanics.with applications in Computational Mechanics.",
+      "Content":"Isogeometric Analysis (IGA) is an approximation method for Partial Differential Equations (PDEs) which aims at closing the gap existing in current engineering practices between Computer Aided Design (CAD) and Finite Element Analysis (FEA). The method lays on the isoparametric concept for which the same basis is used to represent the geometry and the approximate solution; however, conversely to the traditional isoparametric concept of the FEA, IGA adopts basis capable to represent exactly the known geometry and then uses them to approximate the unknown solution of the PDEs. This facili-tates encapsulating the exact CAD geometry representation in the analysis, when Non Uniform Rational B-Spline (NURBS) basis are used. Additionally, independently of the geometrical considerations, NURBS basis posses many desir-able features in the approximation of the solution of PDEs; the accuracy and robustness of the method have been shown in several applications. More recently, T-splines basis have been introduced for the geometrical representation and used in T-splines based IGA.[br/][br/]   In this course, we cover both the theoretical and implementation aspects in the numerical approximation of PDEs by means of IGA with applications to Computational Mechanics problems (heat and mass transfer problems, viscous flows, linear elastic problems, wave and vibration problems, ...). We discuss the numerical solution of linear, nonlinear, and time dependent PDEs. Lecture notes and reading material will be provided for the classes; a Matlab/Octave library for IGA and additional material will be offered for the practical work and laboratory activities.   [br/]",
+      "Keywords":"Isogeometric Analyis; Computational Mechanics; Finite Element Method",
+      "Form of examination":"Multiple",
+      "Required prior knowledge":"Numerical Analysis AND Finite Elements AND Numerical Methods for PDEs AND Matlab Software"
+    },
+    "practical":{
+      "total_hours":12
+    },
+    "language":"English",
+    "title":"Computational Mechanics by Isogeometric Analysis",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159570",
+      "name":"Dede' Luca"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Isogeometric Analysis (IGA) is an approximation method for Partial Differential Equations (PDEs) which aims at closing the gap existing in current engineering practices between Computer Aided Design (CAD) and Finite Element Analysis (FEA). The method lays on the isoparametric concept for which the same basis is used to represent the geometry and the approximate solution; however, conversely to the traditional isoparametric concept of the FEA, IGA adopts basis capable to represent exactly the known geometry and then uses them to approximate the unknown solution of the PDEs. This facili-tates encapsulating the exact CAD geometry representation in the analysis, when Non Uniform Rational B-Spline (NURBS) basis are used. Additionally, independently of the geometrical considerations, NURBS basis posses many desir-able features in the approximation of the solution of PDEs; the accuracy and robustness of the method have been shown in several applications. More recently, T-splines basis have been introduced for the geometrical representation and used in T-splines based IGA.[br/][br/]   In this course, we cover both the theoretical and implementation aspects in the numerical approximation of PDEs by means of IGA with applications to Computational Mechanics problems (heat and mass transfer problems, viscous flows, linear elastic problems, wave and vibration problems, ...). We discuss the numerical solution of linear, nonlinear, and time dependent PDEs. Lecture notes and reading material will be provided for the classes; a Matlab/Octave library for IGA and additional material will be offered for the practical work and laboratory activities.   [br/]",
+      "Mots clés":"Isogeometric Analyis; Computational Mechanics; Finite Element Method",
+      "Prérequis":"Numerical Analysis AND Finite Elements AND Numerical Methods for PDEs AND Matlab Software",
+      "Forme du contrôle":"Multiple",
+      "Objectifs d'apprentissage":"The course aims to introduce Isogeometric Analysis for the numerical approximation of Partial Differential Equations with applications in Computational Mechanics.with applications in Computational Mechanics."
+    },
+    "practical":{
+      "total_hours":12
+    },
+    "language":"English",
+    "title":"Computational Mechanics by Isogeometric Analysis",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  }
+}

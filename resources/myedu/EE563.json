@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774767&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","563"],
+    "title":"Mechatronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774767&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104801",
+      "name":"Colombi Silvio"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"\"Mechatronics\" is a rapidly growing field, resulting from the combination of classical [b]electrical engineering[/b], [b]mechanical engineering[/b] and [b]computer science[/b].[br/]The goal of this teaching is to illustrate, through several real application examples, how [b]to improve a mechanical solution[/b] using actuators, sensors, electronics and control algorithms. The examples show various features of the mechatronics design and are an important source of inspiration for many other applications.  The student will be aware of the fact that a design is always a \"question of compromise\".",
+      "Content":"[b]Specification and design of mechatronic systems[/b][br/]Design of mechatronic systems: cost, performances, system approach, diagram of influence, mechanical equivalents, design steps, simulation and design tools, rapid prototyping: from the simulation to the reality, design methodology.[br/][br/][b]Selected application examples[/b][br/]Bilateral Master-Slave force reflecting servomechanisms, Actuators and controls for a master-slave force reflecting servomanipulator, Electronic stiffening of mechanical transmissions, Electronic stiffening and linearisation of actuators; control of the JET Boom, Electronic compensation of the parasitic forces/torques of brushless DC motors, Friction compensation in motion control applications, Magnetic levitation and lateral guidance of a vehicle, Control of a parallelogram robot, Active suspension of a wheel, Anti-slip and anti-skid devices, Electronic differential, Injector for a natural gaz engine, Command and control of a free pistons engine.",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Oral"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mechatronics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104801",
+      "name":"Colombi Silvio"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Spécification et conception d'un système mécatronique[/b][br/]Conception mécatronique: coût, performances, approche système, diagramme d'influence, équivalents mécaniques, étapes de conceptions, outils de conception et de simulation, prototypage rapide : de la simulation à la réalité, méthodologie de conception.[br/][br/][b]Exemples d'applications choisis[/b][br/]Servomécanismes bilatéraux maître-esclave à retour de force, actionneurs et réglages pour un servomanipulateur maître-esclave à retour de force, \"durcissement\" électronique de transmission mécaniques, \"durcissement\" et linéarisation électronique d'actionneurs ; réglage du gros transporteur Boom de JET,  compensation électronique des forces/couples parasites de moteurs synchrônes à aimants permanents, compensation du frottement mécanique dans des applications \"motion control\", sustentation et guidage magnétique d'un véhicule, réglage d'un robot parallélogramme, suspension active d'une roue, dispositifs anti-blocage et anti-patinage, différentiel électronique, injecteur pour moteur à gaz naturel, réglage et commande d'un moteur à pistons libres.",
+      "Forme du contrôle":"Oral",
+      "Bibliographie et matériel":"Cours et notes polycopiés",
+      "Objectifs d'apprentissage":"La mécatronique est un domaine interdisciplinaire en pleine expansion se basant sur la [b]mécanique classique[/b], [b]l'électronique[/b] et [b]l'informatique[/b].[br/]L'objectif de cet enseignement est d'illustrer, par différents exemples d'applications réels, comment [b]améliorer une solution mécanique[/b] en utilisant des actionneurs, des capteurs, de l'électronique et des algorithmes de réglage. Ces exemples d'applications montrent différents aspects de la conception mécatronique et sont une importante source d'inspiration pour beaucoup d'autres applications. L'étudiant sera sensibilisé au fait que la conception d'un système est toujours une \"question de compromis\". "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mécatronique",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

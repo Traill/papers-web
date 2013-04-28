@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228388554&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","454"],
+    "title":"Modelling and optimization of energy systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228388554&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"The case study will be evaluated. An oral exam will concern the application of the theory in the case study.",
+      "Bibliography and material":"All the material can be downloaded from the moodle website (http://moodle.epfl.ch/course/view.php?id=11). Printed version of the lecture notes can be ordered.",
+      "Required prior knowledge":"[li]Master the concepts of mass, energy, and momentum balance, E1 (Thermodynamique et énergétique I)[br/][li]Compute the thermodynamic properties of a fluid, E2 (Thermodynamique et énergétique I)[br/][li]Master the concepts of heat and mass transfer, E3 (Heat and mass transfer)[br/][li]Understand the main thermodynamic cycles, E5 (Thermodynamique et énergétique I)[br/][li]Notion of optimization (Introduction à l'optimisation différentiable)",
+      "Content":"- Concepts of Computer Aided Process System Engineering methods to tackle the problems of energy conversion systems modelling and optimisation. The students will acquire a methodology to state the problem, identify the solving procedure, solve the problem and analyse the results;[br/]- Definition of the basic system modelling concepts : state variables, energy and mass balances, simulation parameters and equations, degree of freedom analysis, different types of specifications, inequalities, objective functions;[br/]- Energy systems equipments models;[br/]- System models : flowsheets, degrees of freedom, sequential or simultaneous solving approach, numerical methods and their implications;[br/]- Measurement data reconciliation and parameter identification;[br/]- Calculating systems performances : operating cost, efficiency, environmental impact, investments, thermo-economic and environomic performances;[br/]- Stating and solving optimization problems : decision variables, objective functions and constraints, solving strategies, numerical methods and their implications;[br/]- Realization of a case study.",
+      "Keywords":"Process system engineering, Process simulation, optimization",
+      "Type of teaching":"The course is organised as theoretical sessions and the resolution of a real case study to be realised in a team project.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Master the concepts of thermodynamic efficiency, E6[br/][li]Establish the flow diagram of an industrial process and calculate the corresponding energy and mass balance, E22[br/][li]Analyse the energy and exergy efficiency of industrial energy systems, E23[br/][li]Model, design and optimize energy conversion systems and industrial processes, E24[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7[br/][li]Document and communicate a project, T12[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modelling and optimization of energy systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser les notions de bilans de matière, d'énergie et de quantité de mouvement, E1 (Thermodynamique et énergétique I)[br/][li]Calculer les propriétés thermodynamiques d'un fluide, E2 (Thermodynamique et énergétique I)[br/][li]Maîtriser les notions de transfert de chaleur et de masse, E3 (Heat and mass transfer)[br/][li]Comprendre les principaux cycles thermodynamiques, E5 (Thermodynamique et énergétique I)[br/][li]Notion d'optimisation (Introduction à l'optimisation différentiable)",
+      "Bibliographie et matériel":"Le matériel de référence peut être téléchargé depuis: http://moodle.epfl.ch/course/view.php?id=11. Le polycopié du cours peut être commandé.",
+      "Mots clés":"Simulation des procédés, Optimisation des procédés ",
+      "Forme d'enseignement":"Le cours est organisé en sessions théoriques et comprend la résolution d'un cas d'étude réalisé dans un projet de groupe.",
+      "Contenu":"- Concepts de l'Ingénierie des systèmes énergétiques assistée par ordinateur pour aborder les problèmes de modélisation et d'optimisation des systèmes énergétiques. Méthodologie pour poser les problèmes, choisir la méthode de résolution, résoudre le problème et analyser les résultats;[br/]- Définition des concepts de base de la modélisation des systèmes énergétiques : variables d'états, bilans de matière et d'énergie, paramètres et équations de modélisation, spécification;[br/]- Modélisation des opérations physiques unitaires d'un système énergétique; [br/]- Modèle du système : diagrammes de flux, analyse des degrés de liberté, stratégies de résolution séquentielle ou simultanée, méthodes numériques et leurs implications;[br/]- Réconciliation des mesures et identification paramétrique;[br/]- Calcul des performances du système : coûts opératoires, efficacité, impact environnemental, investissements, performances thermo-économiques et environomiques;[br/]- Définition et résolution d'un problème d'optimisation : variables de décision, fonctions objectif et contraintes, stratégies de résolution, méthodes numériques pour l'optimisation des systèmes énergétiques et leurs implications;[br/]-Réalisation d'une étude de cas.",
+      "Forme du contrôle":"Evaluation de l'étude de cas. Examen oral sur l'application de la théorie au cas d'étude.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Maîtriser les notions de rendements thermodynamiques, E6[br/][li]Etablir un diagramme de flux et calculer les bilans de matière et d'énergie de processus industriels, E22[br/][li]Analyser l'efficacité énergétique et le rendement exergétique des systèmes énergétiques industriels, E23[br/][li]Modéliser, concevoir et optimiser les systèmes de conversion d'énergie et les procédés industriels, E24[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7[br/][li]Documenter et communiquer un projet, T12[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modelling and optimization of energy systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

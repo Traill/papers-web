@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774572&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","207"],
+    "title":"Materials for microengineering I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774572&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    },{
+      "url":"http://people.epfl.ch/122028",
+      "name":"Rossoll Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Knowledge of process-structure-property relationships in metals, ceramics, plastics and composites. Study of production and processing techniques for these materials. Discussion of the resulting properties and the selection of materials for the development of structures and components for applications in microtechnology.[br/]",
+      "Content":"[b]Ceramics = Nonmetallic inorganic materials[/b][br/]Ceramics processing and microstructures[br/]Mechanical and thermal properties of ceramics[br/]Applications of structural ceramics[br/]Electrical, dielectric, piezoelectric, and pyroelectric properties and their[br/]applications[br/]Ionic conductors[br/][br/][b]Polymers and composites[/b][br/]Polymer molecular structure[br/]Structure-property relationships[br/]Mechanical properties[br/]",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Form of examination":"Materials for microengineering I & II :[br/]3 written exams during both semesters (ceramics, polymers and metals).[br/]Final grade : (ceramics grade + polymers grade + metals grade) / 3[br/]",
+      "Required prior knowledge":"Introduction to materials science "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Materials for microengineering I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    },{
+      "url":"http://people.epfl.ch/122028",
+      "name":"Rossoll Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction à la science des matériaux ",
+      "Bibliographie et matériel":"documents distribués",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"[b]Céramiques[/b][br/]Le mise en forme et les structures des céramiques.[br/]Les propriétés mécaniques et thermiques.[br/]Les applications des céramiques structurelles.[br/]Propriétés électriques, diélectriques, piézoélectriques, et pyroeléctriques et leurs applications[br/]Conducteurs ioniques[br/][br/][b]Matériaux Polymères et Composites[/b][br/]Structure moléculaire des polymères[br/]Relations structure-propriétés[br/]Propriétés mécaniques[br/]",
+      "Forme du contrôle":"Matériaux microtechniques I et II :[br/]3 examens écrits durant les 2 semestres (sur céramiques, polymères et métaux).[br/]Note finale = (note céramiques + note polymères + note métaux) / 3",
+      "Objectifs d'apprentissage":"Connaissance des relations mise en oeuvre-structure-propriétés des métaux, céramiques, plastiques et composites. Étude des méthodes d'élaboration et de mise en oeuvre de ces matériaux. Mise en évidence de leurs propriétés pour guider le choix des matériaux dans le développement de composants et de structures de la microtechnique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Matériaux microtechniques I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

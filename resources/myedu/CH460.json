@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24425476&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","460"],
+    "title":"Analytical spectroscopy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24425476&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107384",
+      "name":"Humphry-Baker Robin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Optical spectoscopies with th aim of identifying the chemical nature of the sample",
+      "Content":"Visible-UV, Fluorescence, Fourier Transform Infrared, Raman spectroscopies and others. Theory behind them, the practical considerations and some powerful accessories designed for ease of use & for complex samples."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analytical spectroscopy",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-495-11478-9&amp;con_lng=ENG\" target=\"blank\">Introduction to spectroscopy / Donald L. Pavia ... [et al.]</a>\". Year:2009. ISBN:978-0-495-11478-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107384",
+      "name":"Humphry-Baker Robin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Conférence en français. Course notes in English",
+      "Prérequis":"Le cours nécessite les connaissances de: Chimie Physique",
+      "Bibliographie et matériel":"Notes de cours. [br/]Introduction to Spectroscopy D.L. Pavia, G.M. Lampman, G.S. Kriz",
+      "Forme d'enseignement":"Conférences",
+      "Contenu":"Spectroscopies visibles-UV, de fluorescence, d'infrarouge à Transformée de Fourier, de Raman et quelques autres. La théorie derrière eux, les considérations pratiques et des accessoires conçus pour la facilité d'utilisation.",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Spectroscopies optiques dans le but d'identifier le produit chimique [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Spectroscopie analytique",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-495-11478-9&amp;con_lng=FRE\" target=\"blank\">Introduction to spectroscopy / Donald L. Pavia ... [et al.]</a>\". Année:2009. ISBN:978-0-495-11478-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

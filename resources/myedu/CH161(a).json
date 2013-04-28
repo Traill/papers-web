@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772517&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","161(a)"],
+    "title":"General chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772517&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150841",
+      "name":"Roussel Christophe"
+    },{
+      "url":"http://people.epfl.ch/115056",
+      "name":"Sahil Araksi"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]1. Structure of matter:[/b] atomic model,  periodic table of the elements.[br/][br/][b]2. Chemical bonds and reactivity:[/b] different bond types, hybridation, molecular geometry, equilibrated and complete reactions, stoichiometry.[br/][br/][b]3. Thermodynamics:[/b] chemical energy, enthalpy, entropy, the three principles of thermodynamics, chemical equilibriums.[br/][b]4. Chemical reactions:[/b] acido-basic and redox reactions.[br/][b]5. Chemical kinetics:[/b] reaction rates, reaction orders, activation energy, elementary reactions, catalysis.[br/]",
+      "Required prior knowledge":"Mandatory : Analyse III, Physique générale I, Physique générale II, Probability and statistics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General chemistry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7445-0028-2&amp;con_lng=ENG\" target=\"blank\">Chimie : molécules, matière, métamorphoses / Peter Atkins, Loretta Jones; trad. de la 3e éd. américaine par André Pousse</a>\". Year:2004. ISBN:978-2-7445-0028-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-428-8&amp;con_lng=ENG\" target=\"blank\">Chimie générale pour ingénieur / Claude K.W. Friedli</a>\". Year:2005. ISBN:2-88074-428-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-6317-4&amp;con_lng=ENG\" target=\"blank\">Principes de chimie / Atkins, Jones</a>\". Year:2011. ISBN:978-2-8041-6317-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150841",
+      "name":"Roussel Christophe"
+    },{
+      "url":"http://people.epfl.ch/115056",
+      "name":"Sahil Araksi"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec démonstrations pratiques et execices  ",
+      "Forme du contrôle":"Écrit",
+      "Prérequis":"Maturité fédérale  ",
+      "Bibliographie et matériel":"\"Chimie générale pour ingénieur\", C. K.W. Friedli, Presses Polytechniques et Universitaires Romandes[br/]\"Chimie. Molécules, matière, métamorphoses\". P.W.Atkins et L.L.Jones, Ed. De Boeck [br/]\"Principes de chimie\". P.W.Atkins et L.L.Jones, Ed. De Boeck",
+      "Objectifs d'apprentissage":"[b]1. Structure de la matière:[/b] modèle atomique, classification périodique des éléments.[br/][b]2. Liaisons chimiques et réativité:[/b] différents types de liaison, hybridation, géométrie de molécules, réactions équilibrées et totales, stoechiométrie.[br/][b]3. Thermodynamique:[/b] énergie chimique, enthalpie, entropie, trois principes de la thermodynamique, équilibres chimiques.[br/][b]4. Réactions chimiques: réactions acido-basiques et redox.[br/][b]5. Cinétique chimique:[/b] vitesse de réaction, ordres de réaction,énergie d'activation, réactions élémentaires, catalyse.[br/] "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie générale",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7445-0028-2&amp;con_lng=FRE\" target=\"blank\">Chimie : molécules, matière, métamorphoses / Peter Atkins, Loretta Jones; trad. de la 3e éd. américaine par André Pousse</a>\". Année:2004. ISBN:978-2-7445-0028-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-428-8&amp;con_lng=FRE\" target=\"blank\">Chimie générale pour ingénieur / Claude K.W. Friedli</a>\". Année:2005. ISBN:2-88074-428-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-6317-4&amp;con_lng=FRE\" target=\"blank\">Principes de chimie / Atkins, Jones</a>\". Année:2011. ISBN:978-2-8041-6317-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

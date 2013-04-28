@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776347&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","511"],
+    "title":"Software-defined radio : A hands-on course",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776347&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113819",
+      "name":"Rimoldi Bixio"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control (TP and written test)",
+      "Bibliography and material":"Lectures notes, articles",
+      "Required prior knowledge":"Principles of digital communications",
+      "Content":"1. Software radio : key concepts.[br/]2. Matlab implementation of the signal processing chain to the level of detail in [i]Principles of Digital Communications[/i].[br/]3. Decoding of a GPS signal and positioning.[br/]4. Modern advanced techniques such as CDMA, OFDM, LDPC codes, equalization, and iterative decoding methods.",
+      "Type of teaching":"Ex cathedra and exercises (Matlab)",
+      "Learning outcomes":"This course complements the two classes [i]Principles of Digital Communications[/i] and [i]Advanced Digital Communications[/i] by means of a hands-on course, mainly based on Matlab.  At the end of the course the student will be familiar with a Matlab implementation of various  physical layer modules.  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Software-defined radio : A hands-on course",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113819",
+      "name":"Rimoldi Bixio"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Principles of digital communications",
+      "Bibliographie et matériel":"Notes de cours, articles",
+      "Forme d'enseignement":"Ex cathedra et exercices (Matlab)",
+      "Contenu":"1. Software radio : concepts clés.[br/]2. Implémentation Matlab détaillée de la chaîne de traitement du signal comme étudiée au cours [i]Principes des Communications Numériques[/i]. Une image sera transmise sur un canal simulé.[br/]3. Décodage d'un signal GPS et positionnement.[br/]4. Techniques avancées modernes : CDMA, OFDM, codes LDPC, égalisation et méthodes de décodage itératives.",
+      "Forme du contrôle":"Contrôle continu (TP et test écrit)",
+      "Objectifs d'apprentissage":"Ce cours complète les deux cours [i]Principes des Communications Numériques[/i] et  [i]Communications Numériques Avancées[/i] par des exercices principalement avec Matlab.  A la fin du cours l'étudiant aura mis en application avec MatLab plusieurs modules de la couche physique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Software-defined radio : A hands-on course",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229971214&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","237"],
+    "title":"Safety and reliability",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229971214&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[br/][li]\tUnderstand the notions of danger and safety and acquire a systematic approach to mitigate hazard scenarios[br/][li]\tUnderstand the principles of verification in the design of structural elements[br/][li]\tUnderstand the modelling of actions (loads) and learn the relative order of magnitude[br/][li]\tConsider the stochastic character of parameters[br/][li]\tUnderstand the impact of time, durability and life-cycle considerations on structures[br/]",
+      "Content":"[br/][li]Dangers and safety of structures and civil systems: analysis of accidents, dangers and measures, terminology[br/][li]Hazard scenarios: identification, analysis and mitigation measures[br/][li]Service criteria agreement and basis of design[br/][li]Verification of structural elements (deterministic approach): structural safety, partial safety factors, serviceability[br/][li]Safety (probabilistic approach): parameters of uncertainty, limit function, reliability index, interrelation between probabilistic and deterministic approach, probabilistic modelling of actions on structures[br/][li]Analysis of actions (loads): characteristics, modelling, characteristic values[br/][li]Permanent actions, climatic actions (snow, wind, temperature), actions due to planned use (buildings, traffic), accidental actions (earthquake, impact, fire), environmental actions[br/][li]Durability: service life, time dependant performance of structures[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Safety and reliability",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Matériaux I et II, Structures en béton, Structures en métal",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra, exercices",
+      "Contenu":"[br/][li]Dangers et sécurité dans la construction (ouvrages et systèmes civils) : analyse d'accidents, dangers et mesures, terminologie[br/][li]Situations de risque: reconnaissance, analyse et mesures[br/][li]Convention d'utilisation et base du projet[br/][li]Vérification d'éléments de structure (approche déterministe): sécurité structurale, facteurs partiels de sécurité, aptitude au service[br/][li]Sécurité (approche probabiliste) : paramètres d'incertitude, fonction de ruine, indice de fiabilité, interrelation des approches probabiliste et déterministe, modélisation probabiliste des actions sur les structures[br/][li]Analyses des actions (charges) : caractéristiques, modélisation déterministe, valeurs caractéristiques[br/][li]Actions permanentes, actions climatiques (neige, vent, température), actions dues à l'utilisation prévue (bâtiment, trafic), actions accidentelles (séisme, choc, incendie), actions de l'environnement[br/][li]Durabilité : durée de service, performance des structures dans le temps[br/]",
+      "Préparation pour":"Analyse de resques, Gestion des risques, Structures existantes I et II, Cours de structures ",
+      "Objectifs d'apprentissage":"[br/][li]\tComprendre les notions de danger et de sécurité et acquérir une démarche systématique pour maîtriser des situations de risque[br/][li]\tComprendre les principes de vérification pour le dimensionnement d'éléments de structures[br/][li]\tComprendre la modélisation des actions (charges) et connaître l'ordre de grandeur de ces actions[br/][li]\tPrendre en compte le caractère aléatoire des paramètres[br/][li]\tComprendre la composante temporelle de la durabilité et du cycle de vie des ouvrages "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sécurité et fiabilité",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

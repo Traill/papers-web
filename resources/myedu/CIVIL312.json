@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4651267&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","312"],
+    "title":"Hydraulic structures and schemes I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4651267&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101010",
+      "name":"De Cesare Giovanni"
+    },{
+      "url":"http://people.epfl.ch/202221",
+      "name":"Pfister Michael"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written and continuous control:[br/]Mini exercises: 20 %, delivering of exercises: 10 %, 2 exercises on 7: 20 %, final written exam during the exam session: 50 %",
+      "Bibliography and material":"Duplicated notes.[br/]Book \"Constructions Hydrauliques\" (TGC, vol. 15)",
+      "Prerequisite for":"Hydraulic structures and schemes II, Dams and appurtenant structures, Fluvial hydraulics and river training works, Urban hydrology, Hydraulic and energy networks, Master[br/]",
+      "Required prior knowledge":"Basics of structures, Fluids mechanics, Soil mechanics and groundwater flow. ",
+      "Content":"[li]\tObjectives and function of hydraulic schemes: flood protection schemes, hydropower plants, multipurpose schemes (flood protection, energy production, irrigation, navigation, water supply).[br/][br/][li]\tParticularities of hydraulic schemes: protection of nature and environment; key factor for economical development, sustainable development; realisation, monitoring and maintenance, hydraulic calculations.\t[br/][br/][li]\tFlood protection measures: bed load transport in natural channels, river bank stabilisation, flood retention basin, diversion and management of floods, soil bioengineering.[br/][br/][li]\tWeirs on rivers: layout and selection criteria of type of structures, types and fonctioning of gates. Principles of hydraulic design and construction details of weirs including stability analysis.[br/][br/][li] River intakes: choice of type and design cirteria (side, frontal and bottom intake). Management of sediment transport and floating debris. Design and cleaning of trash racks.[br/][br/][li]\tLayout and design of desilting facilities. Constructive details and flushing systems.\t[br/][br/][li]\tWaterway systems: free surface channel and tunnels, penstocks, pressure tunnels and shafts. Design criteria for optimum alignment and section; hydraulic and construction aspects. Structural design: hydraulic and static interactions. Design of open and covered channels including transient flow conditions (surge waves). Basics of penstocks, steel liners and surge tanks with transient flow conditions (water hammer).[br/]",
+      "Type of teaching":"Ex cathedra, practical exercices",
+      "Learning outcomes":"Knowing the main elements of hydraulic schemes and its design in the environmental context by taking into account the requirements of sustainable development as well as the functioning and dimensioning of the hydraulic structures, the construction details, the layout and selection of type of structures. Engineering application by exercices treating practical problems. The course is deepened and completed by optional courses (hydraulic structures and schemes II and dams)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hydraulic structures and schemes I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-746-6&amp;con_lng=ENG\" target=\"blank\">Constructions hydrauliques : écoulements stationnaires / Willi H. Hager, Anton J.Schleiss</a>\". Year:2009. ISBN:978-2-88074-746-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101010",
+      "name":"De Cesare Giovanni"
+    },{
+      "url":"http://people.epfl.ch/202221",
+      "name":"Pfister Michael"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Notion de base en structures, Mécanique des fluides, Mécanique des sols, Ecoulements souterrains.",
+      "Bibliographie et matériel":"Cours polycopiés \"Aménagements hydrauliques\".[br/]Livre \"Constructions Hydrauliques\" (TGC, Vol. 15, nouvelle édition 2009)",
+      "Forme d'enseignement":"Ex cathedra, exercices pratiques",
+      "Contenu":"[li]\tButs et fonctions des aménagements hydrauliques: aménagements de cours d'eau, aménagements hydroélectriques, aménagements à buts multiples (protection contre les crues, production de l'énergie, irrigation, navigation, approvisionnement en eau potable et industrielle).[br/][li]\tParticularités des aménagements hydrauliques: protection de la nature et de l'environnement; facteur clé pour le développement économique, développement durable; réalisation, surveillance et entretien, calculs hydrauliques.[br/][li]\tAménagements de cours d'eau et protection contre les crues: transport solide d'un cours d'eau, stabilisation du lit et des berges, bassin de rétention des crues, dérivation et évacuation des crues, génie biologique.[br/][li]\tSeuils et barrages en rivière: implantation et critères de choix du type de l'ouvrage, types et fonctionnement des vannes. Principes hydrauliques de dimensionnement et aspects constructifs des seuils, y compris l'analyse de stabilité.[br/][li] Prises d'eau en rivière: choix du type et critères de dimensionnement (prises d'eau latérales, frontales et par-dessous). Maîtrise du transport solide et des corps flottants. Dimensionnement et nettoyage des grilles.[br/][li]\tConception et dimensionnement des dessableurs. Aspects constructifs et systèmes de purge.[br/][li]\tOuvrages d'adduction: Canaux et galeries à écoulement libre, conduites, galeries et puits en charge. Critères de choix du tracé et de la section optimale; aspects hydrauliques et dispositions constructives. Dimensionnement et interactions hydrauliques et statiques. Dimensionnement des canaux découverts et recouverts y inclus écoulements non stationnaires (intumescences).Notions élémentaires sur les conduites forcées et les chambres d'équilibre, y compris les écoulements non-stationnaires (coups de bélier).",
+      "Forme du contrôle":"Ecrit et contrôle continu[br/]Mini exercices: 20 %,  Rendu des exercices: 10 %, 2 exercices au hasard sur 7: 20 %, examen final écrit en session d'examen: 50 %",
+      "Préparation pour":"Aménagements hydrauliques II, Barrages et ouvrages annexes, Hydraulique fluviale et aménagements des cours d'eau, Hydraulique urbaine, Réseaux hydrauliques et énergétiques, Master",
+      "Objectifs d'apprentissage":"Connaître les éléments essentiels et la conception des aménage- ments hydrauliques dans leur contexte environnemental en tenant compte des exigences du développement durable. Connaître le fonctionnement, le dimensionnement, les aspects constructifs, les critères d'implantation et de choix de leurs ouvrages hydrauliques. Mise en application avec des exercices traitant des problèmes pratiques. Cours approfondi et complété par des cours à options (aménagements hydrauliques II et barrages)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ouvrages et aménagements hydrauliques I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-746-6&amp;con_lng=FRE\" target=\"blank\">Constructions hydrauliques : écoulements stationnaires / Willi H. Hager, Anton J.Schleiss</a>\". Année:2009. ISBN:978-2-88074-746-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

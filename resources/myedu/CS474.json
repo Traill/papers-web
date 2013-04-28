@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71644441&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","474"],
+    "title":"Microelectronics for systems on chips",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71644441&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/enrol.php?id=4191","http://moodle.epfl.ch/course/enrol.php?id=4191"],["http://lap.epfl.ch/page73398.html","http://lap.epfl.ch/page73398.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100366",
+      "name":"Beuchat René"
+    },{
+      "url":"http://people.epfl.ch/107141",
+      "name":"Piguet Christian"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"A home work with an oral presentation will be done on a specific topic",
+      "Form of examination":"Oral examination 90 % and oral presentation during the semester 10%",
+      "Bibliography and material":"Course notes on moodle",
+      "Required prior knowledge":"Microprocessor Systems, Digital Logic Design",
+      "Content":"- Evolution of VLSI technologies[br/]- SIA Roadmap predictions (2012-2027)[br/]- Future technologies and new circuit techniques[br/]- Asynchronous and adiabatic circuits[br/]- Low-power microcontrollers[br/]- Low-power microprocessors[br/]- Low-power memories and cache memories[br/]- Low-power DSP and parallel machines[br/]- Integrated memories classification [br/]- Complex dynamic RAM memories[br/]",
+      "Type of teaching":"Ex cathedra with laboratories[br/]personal oral presentation on a selected topic on memories[br/]",
+      "Learning outcomes":"VLSI technology allows the development of processors and memories. Significant improvements, by a factor 1000 or more, are still expected over the next 15 years. The objective of the course is to understand the influence of technology and mainly power consumption constraints on the architecture of microcontrollers, microprocessors, memories, cache memories, DSP and parallel machines. In any system on chip, memories and buses are very important for achieving speed and power consumption performances.[br/][br/][br/]The course supposes a good knowledge of processor and I/O architectures. Students will be prepared to develop systems on chip and on boards with development of specific integrated circuits. [br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microelectronics for systems on chips",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/enrol.php?id=4191","http://moodle.epfl.ch/course/enrol.php?id=4191"],["http://lap.epfl.ch/page73398.html","http://lap.epfl.ch/page73398.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100366",
+      "name":"Beuchat René"
+    },{
+      "url":"http://people.epfl.ch/107141",
+      "name":"Piguet Christian"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Un travail personnel sur un sujet particulier avec une présentation orale sera demandé",
+      "Prérequis":"Systèmes Microprocesseurs, Conception de Systèmes numériques",
+      "Bibliographie et matériel":"Notes de cours sur moodle",
+      "Forme d'enseignement":"Ex cathedra avec laboratoires[br/]présentation personnelle sur un sujet particulier sur les mémoires[br/]",
+      "Contenu":"- Evolution des technologies VLSI[br/]- Prédictions de la Roadmap SIA 2012-2027[br/]- Futures technologies et nouvelles techniques de circuits[br/]- Circuits asynchrone et adiabatique[br/]- Microcontrôleurs basse consommation[br/]- Microprocesseurs basse consommation[br/]- Mémoires et caches basse consommation[br/]- DSP et machines parallèles basse consommation[br/]- Mémoires intégrées, classification[br/]- Mémoires dynamiques DRAM de haute complexité[br/]",
+      "Forme du contrôle":"Examen oral 90 % et présentation orale pendant le semestre 10%",
+      "Objectifs d'apprentissage":"La technologie VLSI a permis le développement des processeurs et mémoires, elle doit encore s'améliorer d'un facteur 1000 dans les 15 prochaines années. Le but du cours est de comprendre l'influence de la technologie et surtout des contraintes de consommation sur l'architecture des systèmes sur chip comportant des microcontrôleurs, microprocesseurs, mémoires, mémoires cache, DSP et machines parallèles. Dans tout système sur chip, les mémoires et les bus sont de toute première importance pour les performances tant en vitesse qu'en consommation. [br/][br/]Le cours suppose une bonne connaissance des architectures de processeurs et périphériques. Il prépare pour des projets de systèmes sur chip et systèmes sur cartes avec développement de circuits intégrés spécifiques.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microelectronics for systems on chips",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

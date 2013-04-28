@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351087007&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","241"],
+    "title":"Biothermodynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351087007&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lbm.epfl.ch/teaching","http://lbm.epfl.ch/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182443",
+      "name":"Dal Peraro Matteo"
+    },{
+      "url":"http://people.epfl.ch/144344",
+      "name":"De Los Rios Paolo"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introducing the basic concepts of statistical thermodynamics and how it is used to quantitatively model and predict the properties of biological systems. Mathematical and physical tools are introduced to solve relevant problems in the domain of biophysics and biochemistry.",
+      "Content":"[b]1. Thermodynamics:[/b] entropy and free energy, relevant mathematical and statistical concepts and tools are refreshed.[br/][b]2. Statistical mechanics:[/b] Boltzmann distribution, partition function, thermodynamic ensembles, equipartition theorem, simple gas models.[br/][b]3. Mechanical and chemical equilibrium:[/b] ligand-receptor binding, electrostatics and intermolecular forces in biomolecular structure and function, Nernst and Poisson-Boltzmann equations, water and ion solvation. [br/][b]4. Physical and chemical kinetics:[/b] diffusion, Langevin model, Onsager relations, reaction rates, transition state theory. [br/]5. [b]Selected topics[/b] on biological membranes, molecular motors, pumps, channels, cell crowding, protein folding, and catalysis.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biothermodynamics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4430-8&amp;con_lng=ENG\" target=\"blank\">Molecular driving forces : statistical thermodynamics in chemistry and biology / Ken A. Dill, Sarina Bromberg</a>\". Year:2011. ISBN:978-0-8153-4430-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4163-5&amp;con_lng=ENG\" target=\"blank\">Physical biology of the cell / Rob Phillips, Jane Kondev, Julie Theriot</a>\". Year:2009. ISBN:978-0-8153-4163-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lbm.epfl.ch/teaching","http://lbm.epfl.ch/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182443",
+      "name":"Dal Peraro Matteo"
+    },{
+      "url":"http://people.epfl.ch/144344",
+      "name":"De Los Rios Paolo"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analysis I, II, III[br/]General Physics I, II, III[br/]General Chemistry[br/]Biological Chemistry I, II[br/]Probability and Statistics I ",
+      "Bibliographie et matériel":"- Dill & Bromberg, Molecular driving forces, Garland Science[br/]- Phillips et al., Physical Biology of the Cell, Garland Science",
+      "Forme d'enseignement":"Lectures ex catedra integrated by practical exercises ",
+      "Contenu":"[b]1. Thermodynamique:[/b] entropie et énergie libre; rappel des outils mathématiques et statistiques importants. [br/][b]2. Mécanique statistique:[/b] distribution de Boltzmann, fonction de partition, concept d'ensemble, théorème d'équipartition, modèles simple de gaz.[br/][b]3. Equilibre mécanique et chimique:[/b] liaison molécule-récepteur; électrostatique et forces intermoléculaires dans l'étude de la structure et fonction des biomolécules; équations de Nerst et de Poisson; eau et solvatation des ions.[br/][b]4. Kinetique physique et chimique:[/b] diffusion, modèle de Langevin, relations d'Onsager, taux de réaction, théorie de l'état de transition.[br/][b]5. Problèmes choisis:[/b] membranes biologiques; moteurs moléculaires; pompes; canaux; \"crowding\" cellulaire; repliement des protéines; catalyse.",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Une introduction aux concepts de base de la statistique thermodynamique et à son utilisation pour la modélisation quantitative et prédictive des propriétés des systèmes biologiques. Les outils mathématiques et physiques sont introduits par biais des problèmes importants en biophysique et biochimie."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biothermodynamics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4430-8&amp;con_lng=FRE\" target=\"blank\">Molecular driving forces : statistical thermodynamics in chemistry and biology / Ken A. Dill, Sarina Bromberg</a>\". Année:2011. ISBN:978-0-8153-4430-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4163-5&amp;con_lng=FRE\" target=\"blank\">Physical biology of the cell / Rob Phillips, Jane Kondev, Julie Theriot</a>\". Année:2009. ISBN:978-0-8153-4163-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=22827171&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","340"],
+    "title":"Study and analysis of energy systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=22827171&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]Identify and formulate complex and multidisciplinary problems in relation with energy (energy-technology-economy-environment nexus).[br/][li]Analyze these problems using a system based approach.[br/][li]Study current and future challenges related to energy supply.[br/][li]Build and analyze econometric models for energy demand forecasting.[br/]",
+      "Content":"[i][b]A\tEnergy and Energy System[/b][/i][br/][li]Definition of Energy.[br/][li]Few complex problems in relation with Energy: demand, supply, energy procurement, impacts on economic development and environment.[br/][li]Concept of \"Energy System\".[br/][br/][i][b]B\tEnergy and socio-economy[/b][/i][br/][li]Driving forces of energy supply.[br/][li]Energy demand: current situation and outlook.[br/][li]Forecasting of trends.[br/][li]Components of Energy Supply.[br/][li]Security of Energy Supply.[br/][br/][i][b]C\tEnergy vectors, reserves and resources[/b][/i][br/][li]Fossil energy: petroleum, natural gas, coal.[br/][li]Renewable energy: wind, solar, geothermal energy, hydroelectricity, biomass.[br/][li]Generation of electrical energy.[br/][br/][i][b]D\tPower generation[/b][/i][br/][li]Strategy for space heating.[br/][li]Strategy of electricity supply.[br/][li]Strategy of transportation fuels supply.[br/][br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Study and analysis of energy systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe.",
+      "Contenu":"[i][b] A Énergie et systèmes énergétiques[/b][/i][br/][li]Définition de l'énergie.[br/][li]Quelques problèmes complexes en relation avec l'énergie : demande, offre, approvisionnement, impacts sur le développement économique, impacts sur l'environnement.[br/][li]Concept de « système énergétique ».[br/][br/][i][b] B Approvisionnement en énergie[/b][/i][br/][li]Les moteurs  de l'approvisionnement en énergie.[br/][li]La demande d'énergie et son évolution.[br/][li]Prévision des tendances.[br/][li]Les composantes de l'offre d'énergie.[br/][li]La sécurité d'approvisionnement en énergie.[br/][br/][i][b] C Filières énergétiques[/b][/i][br/][li]Énergies fossiles : pétrole, gaz naturel, charbon.[br/][li]Énergies renouvelables : éolienne, solaire, hydroélectricité, biomasse, géothermie.[br/][li]Production d'électricité.[br/][br/][i][b] D Impacts des stratégies énergétiques sur l'économie et l'environnement[/b][/i][br/][li]Stratégie d'approvisionnement en chaleur.[br/][li]Stratégie d'approvisionnement en électricité.[br/][li]Stratégies d'approvisionnement en carburants.",
+      "Préparation pour":"[li]Modélisation des systèmes Énergie et Transports[br/][li]Planification intégrée des infrastructures d'énergie[br/][li]UE : Environnement et GC",
+      "Bibliographie et matériel":"Documents fournis au cours.",
+      "Objectifs d'apprentissage":"[li]Situer et formuler les problèmes complexes et pluridisciplinaires en relation avec l'énergie (aspects techniques, économiques, environnementaux).[br/][li]Analyser ces problèmes en recourant à une « approche système ».[br/][li]Etudier les enjeux actuels et futurs en matière d'approvisionnement en énergie.[br/][li]Construire et analyser des modèles économétriques de prévision de la demande d'énergie."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Etude et analyse des systèmes énergétiques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

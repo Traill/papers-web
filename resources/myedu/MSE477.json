@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229734640&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","477"],
+    "title":"Advanced nanomaterials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229734640&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"MX",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110499",
+      "name":"Coullerez Géraldine Sylvie"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Prerequisite for":"Semester project, master, PhD thesis",
+      "Required prior knowledge":"Chemistry, Physics and Materials",
+      "Content":"We will discuss the use of nanomaterials in electronics, optics, ceramics, magnetic and catalytic applications. We will attempt to relate properties of materials with respect to size of the building blocks. [br/][br/]1. Introduction[br/]2. Atoms, clusters and nanomaterials[br/]3. Preparation, synthesis[br/]\t- chemical[br/]\t- physical[br/]\t- biomimetic[br/]4. Properties of nanomaterials[br/]\t- mechanic[br/]\t- chemical[br/]\t- magnetic[br/]\t- optic[br/]\t- electronic[br/]5. Future applications",
+      "Type of teaching":"Ex cathedra and seminars",
+      "Learning outcomes":"In this course we will develop the concept of nanomaterials and its role in nature as well as its integration in today's technology. We will explore the unique characteristics of these special materials in particular with the properties related to the grain size, the high surface area as well as interatomic interactions leading to split in electronic energy. We will elaborate and discuss these special properties related to the microstructure of these materials.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced nanomaterials",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110499",
+      "name":"Coullerez Géraldine Sylvie"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Chimie, Physique et Matériaux",
+      "Bibliographie et matériel":"Notes de cours et copies d'articles",
+      "Forme d'enseignement":"Ex cathedra et séminaires",
+      "Contenu":"Nous discuterons de leur application dans les technologies actuelles comme par exemple dans l'industrie électronique, optique, céramique, magnétique, catalytique. Nous voulons mettre en relation les fonctions et les propriétés des matériaux avec leur taille.[br/]1. Introduction sur les nanomatériaux[br/]2. Atomes, clusters et nanomatériaux[br/]3. Préparation, synthèse[br/]\t- voie chimique[br/]\t- voie physique[br/]\t- biomimétique[br/]4. Propriétés des nanomatériaux[br/]\t- mécaniques[br/]\t- chimiques[br/]\t- magnétiques[br/]\t- optiques[br/]\t- électroniques[br/]5. Applications futures",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Projet de semestre, master, doctorat",
+      "Objectifs d'apprentissage":"Dans ce cours, nous allons développer le concept des nanomatériaux ainsi que leur rôle dans les systèmes naturels et leur intégration dans les technologies actuelles. Nous allons explorer les caractéristiques uniques de ce genre de matériaux, en particulier les propriétés liées à la taille, aux grandes surfaces spécifiques ainsi que l'interaction interatomique et les niveaux d'énergie qui en résultent. Nous allons élaborer et discuter la relation entre la structure spéciale de ces matériaux et leurs propriétés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced nanomaterials",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

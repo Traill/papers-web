@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136703631&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","492"],
+    "title":"Laboratory GC",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136703631&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To become familiar with the methods and equipment used during experimental research or computation in one particular civil engineering field.[br/]To interpret and analyze test or computation results while demonstrating a good understanding of the studied problems.",
+      "Content":"Introduction to the basic rules of the conception of laboratory tests (sample representativity, test reproductibility, quality management and control) or computation software.[br/]Presentation of the systems and equipment associated with different types of tests (on model, on materials, on parts of structures ; in laboratory or in situ) or the softwares used.[br/]Understanding the problems of the location of measuring equipment, of comparison of obtained values with standard tests, of the precision and stability of commonly used instru-ments or of programming, of algorithmic, etc.[br/]Teaching of the principals behind the functioning and use of data acquisition systems, measuring systems and equipment, or hardware.[br/]Procedure[br/]-\tSelection of subject in accordance with the laboratory[br/]-\tElaboration of the test or computation procedure[br/]-\tSelection of instrumentation or hardware[br/]-\tEstablishment of measurement plan or programming[br/]-\tInterpretation of results[br/]-\tWriting of report and eventual oral presentation"
+    },
+    "practical":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Laboratory GC",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Choix de sujets à partir du portail des projets sur IS-Academia, en accès securisé: http://is-academia.epfl.ch/[br/]Possibilité de soumettre le projet de semestre à différents prix (voir http://sac.epfl.ch), notamment au prix RUMBA (développement durable, voir http://rumba.epfl.ch/page-39818-fr.html).",
+      "Prérequis":"En fonction du domaine choisi.[br/]Pour labo LSMS : Modélisation numérique des solides et structures",
+      "Bibliographie et matériel":"En fonction du domaine choisi",
+      "Forme d'enseignement":"Laboratoire",
+      "Contenu":"Introduction aux règles de base de la conception d'essais (représentativité de l'échantillon, reproductibilité des essais, assurance et contrôle de qualité...) ou de la conception d'un programme de calcul sur ordinateur.[br/]Présentation des systèmes et équipements à utiliser suivant le type d'essais (sur modèle, sur matériaux, sur éléments d'ouvrage; en laboratoire ou in situ) ou l'application informatique retenue. [br/]Sensibilisation aux problèmes de mise en place, d'étalonnage, de précision et de stabilité des instruments utilisés ou de programmation, d'algorithmique, etc.[br/]Formation aux principes de fonctionnement et à l'utilisation de systèmes d'acquisition de données ou de programmes de calcul, de systèmes et équipements de mesure ou informatiques. [br/]Mise en pratique [br/]-\tChoix d'un sujet en accord avec un laboratoire[br/]-\tElaboration de la procédure d'essai ou de calcul[br/]-\tChoix de l'instrumentation ou de l'informatique[br/]-\tCampagne de mesures ou programmation[br/]-\tInterprétation des résultats[br/]-\tRédaction d'un rapport et présentation orale éventuelle ",
+      "Forme du contrôle":"Rapport et présentation orale éventuelle",
+      "Préparation pour":"Projet de master",
+      "Objectifs d'apprentissage":"Se familiariser avec les méthodes expérimentales et/ou numériques et les équipements utilisés dans un domaine du génie civil.[br/]Interpréter et analyser les résultats d'essais ou de calculs en vue d'une meilleure compréhension des problèmes étudiés. [br/]"
+    },
+    "practical":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Laboratoire GC",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

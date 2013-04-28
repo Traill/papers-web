@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71826349&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","506"],
+    "title":"Environmental bioprocesses: practical lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71826349&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104934",
+      "name":"Deront Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Due to the daily monitoring required by bioreactor in continuous operation, the practical lab sessions will take place on the first 11 weeks of the semester",
+      "Form of examination":"The evaluation will occur during the semester and will be based on the reports, but also by the attendance and particularly the involvement, the autonomy and responsibility to assume the proposed program.",
+      "Bibliography and material":"In libraries : click on the link to consult information of the Swiss network of libraries",
+      "Prerequisite for":"Environmental Biotechnology Specialization",
+      "Required prior knowledge":"Water and wastewater treatment[br/]Environmental bioprocess design",
+      "Content":"[b]Characterization of wastewater and medium growth samples[/b][br/]Characterization of the organic load, N and P content[br/][b]Kinetics of aerobic microbial growth[/b](suspended biomass)[br/]CHEMOSTAT bioprocess aerobic heterotrophic growth)[br/]Biological kinetic parameters estimation[br/][b]Fixed biomass bioprocess[/b][br/][b]Mass transfer phenomena in bioreactors[/b][br/]",
+      "Type of teaching":"Practical laboratory manipulations[br/]Coaching in French, course notes and protocol in French and English[br/][br/]After an introduction, students will learn about analytical methods used in the field of wastewater treatment. A dedicated experimental equipment will be assigned for groups of 3-4 students who will be in charge to its setup and the daily monitoring of these bioprocesses along the semester in an autonomous way.[br/]",
+      "Learning outcomes":"With these practices, the student would become familiar to techniques[br/]and methodology commonly used in the fields of wastewater treatment as[br/]well as in environmental bioprocesses[br/]"
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Environmental bioprocesses: practical lab",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104934",
+      "name":"Deront Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Compte tenu de l'implication quotidienne requise par des bioréacteurs en fonctionnement continu les séances de TPs seront concentrées sur les 11 premières semaines du semestre.",
+      "Prérequis":"Water and wastewater treatment[br/]Génie des bioprocédés environnementaux",
+      "Bibliographie et matériel":"Polycopiés de travaux pratiques",
+      "Forme d'enseignement":"Manipulations pratiques en laboratoire[br/]Encadrement en français, notes de cours et protocole en français et anglais.[br/][br/]Après une introduction, les étudiants se familiariseront avec les méthodes analytiques pratiquées dans le cadre du traitement des eaux. Un dispositif expérimental sera affecté par groupes de 3-4 étudiants qui partageront la responsabilité et la charge de suivi de façon quotidienne et autonome pendant le semestre.",
+      "Contenu":"[b]Caractérisation des eaux usées et des échantillons de bioréacteurs[/b][br/]Analyses de la charge organique, Matières N et P[br/][b]Cinétiques de croissances microbiennes[/b] (cultures en suspension)[br/]Bioprocédé CHEMOSTAT (Croissance hétérotrophe aérobie)[br/]Détermination des paramètres des cinétiques biologiques[br/][b]Culture par biomasse fixée[/b][br/][b]Transfert de masse dans les bioréacteurs[/b]",
+      "Forme du contrôle":"Le contrôle est continu pendant le semestre par les rapports mais aussi par la présence et plus particulièrement l'implication, l'autonomie et la responsabilité quant au programme proposé.",
+      "Préparation pour":"Spécialisation en biotechnologie environnementale ",
+      "Objectifs d'apprentissage":"La vocation de ces travaux pratiques est de permettre aux étudiants de se familiariser aux différentes techniques de laboratoire utilisées dans le suivi et le diagnostic des bioprocédés de traitements des eaux."
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"TP de bioprocédés environnementaux",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

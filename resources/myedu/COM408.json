@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47947857&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","408"],
+    "title":"Algorithms in public-key cryptology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47947857&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SC-EPFL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lacal.epfl.ch","http://lacal.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171548",
+      "name":"Lenstra Arjen"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"With continuous control : homework, tests and exam during the 14 weeks semester and one written final exam during the exam session.",
+      "Bibliography and material":"Literature and pointers will be given in class",
+      "Required prior knowledge":"Basic algebra is helpful but not required",
+      "Content":"An incomplete list of subjects that may be discussed : modular (and Montgomery) arthmetic, finite field representations, elliptic curves, smoothness, polynomial and integer factorization methods, discrete logarithm methods, primality testing, lattice basis reduction.",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"This course consists of a detailed presentation of the most important computational methods that are used in public key cryptography and cryptanalysis"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Algorithms in public-key cryptology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-61725-3&amp;con_lng=ENG\" target=\"blank\">A computational introduction to number theory and algebra / Victor Shoup</a>\". Year:2005. ISBN:978-0-521-61725-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lacal.epfl.ch","http://lacal.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171548",
+      "name":"Lenstra Arjen"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Written final exam only for students who failed to pass their homeworks assignements",
+      "Prérequis":"Algèbre de base (recommandé, mais non requis)",
+      "Bibliographie et matériel":"A computational introduction to number theory and algebra, by Victor Shoup, as available on http://www.shoup.net/ntb",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Une liste non exhaustive des points abordés :[br/]Arithmétique modulaire et de Montgomery, arithmétique et représentation des corps finis, courbes elliptiques, friabilité, factorisation d'entiers et de polynômes, méthodes pour le logarithme discret, tests de primalité, réduction de réseau.",
+      "Forme du contrôle":"Avec contrôle continu : devoir maison, tests et examen au cours des 14 semaines du semestre, plus un examen final écrit pendant la session d'examen.",
+      "Objectifs d'apprentissage":"Ce cours donne une présentation détaillée des plus importants algorithmes et méthodes de calcul, qui sont utilisés en cryptographie et en cryptanalyse à clé publique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Algorithms in public-key cryptology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-61725-3&amp;con_lng=FRE\" target=\"blank\">A computational introduction to number theory and algebra / Victor Shoup</a>\". Année:2005. ISBN:978-0-521-61725-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47901268&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","203"],
+    "title":"Computational physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47901268&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle/course/enrol.php?id=287","http://moodle/course/enrol.php?id=287 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106653",
+      "name":"Villard Laurent"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will learn to tackle, formulate and solve physics problems using elementary numerical methods. To understand advantages and limitations of these methods. To extend the applications to problems which are difficult to treat using analytical methods. To learn how to use physical concepts to verify and validate numerical results. To control numerical convergence in order to estimate errors. To complement and illustrate various physics subjects from other courses (Physics I,II,III,IV, Analytical Mechanics).",
+      "Content":"[b]Introduction:[/b] discretization, integration and finite differences.[br/][br/][b]Time evolution:[/b] Decay processes. Particle motion in various force fields. Oscillations, resonances, chaos. N-body gravitational problem. Rigid body motion. Euler, Euler-Cromer, Stormer-Verlet and Runge-Kutta schemes. Numerical stability analysis. Adaptive schemes with variable time step.[br/][br/][b]Space integration:[/b] 1-D case: equations of local thermodynamic equilibrium, Poisson's equation. 2-D case: electrostatics and magnetostatics. Shooting, finite difference and finite element schemes. Iterative methods: Gauss-Seidel, SOR.[br/][br/]Several applications will be made as exercises and practical work, with evaluation of the returned reports.[br/][][br/]",
+      "Type of teaching":"Ex cathedra presentations, exercises and practical work under supervision",
+      "Form of examination":"Continuous control",
+      "Required prior knowledge":"1st year courses (Physics I, II, Numerical analysis, Computer science I, II)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computational physics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-146990-8&amp;con_lng=ENG\" target=\"blank\">Computational physics / Nicholas J. Giordano, Hisao Nakanishi</a>\". Year:2006. ISBN:0-13-146990-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46631-7&amp;con_lng=ENG\" target=\"blank\">Computational physics : an introduction / Franz J. Vesely</a>\". Year:2001. ISBN:0-306-46631-7</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle/course/enrol.php?id=287","http://moodle/course/enrol.php?id=287 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106653",
+      "name":"Villard Laurent"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de 1ère année (Physique I, II, Analyse numérique, Informatique I, II)",
+      "Bibliographie et matériel":"Notes de cours[br/]N.J. Giordano, Computational Physics, Pearson Prentice Hall 2006[br/]F.J. Vesely, Computational Physics, an Introduction, Kluwer Academic Plenum 2001",
+      "Forme d'enseignement":"Présentations ex cathedra, exercices et applications pratiques dirigés",
+      "Contenu":"[b]Introduction :[/b] discrétisation, intégration et différentiation[br/][br/][b]Evolution temporelle :[/b] Désintégrations. Mouvement de particules dans divers champs de forces. Oscillations, résonances, chaos. Problème gravitationnel à N corps. Mouvement de solides rigides. Schémas d'Euler, Euler-Cromer, Stormer-Verlet, Runge-Kutta. Analyse de stabilité des schémas numériques. Schémas adaptatifs à pas variable.[br/][br/][b]Intégration spatiale :[/b] Cas unidimensionnel : équations d'équilibre thermodynamique local, équation de Poisson. Cas bidimensionnel : équations de l'électrostatique et de la magnétostatique. Schémas de tir, de différences finies et d'éléments finis. Méthodes itératives : Gauss-Seidel, surrelaxation.[br/][br/]Plusieurs applications seront faites en exercice et en pratique, avec évaluation des rapports rendus.",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Aborder, formuler et résoudre des problèmes de physique en utilisant des méthodes numériques simples. Comprendre les avantages et les limites de ces méthodes. Etendre les applications aux problèmes difficilement traitables par les méthodes analytiques. Apprendre à utiliser les concepts physiques pour vérifier et valider les résultats numériques. Contrôler la convergence pour estimer les erreurs. Compléter et illustrer différents sujets de physique traités dans d'autres cours (Physique I,II,III,IV, Mécanique analytique)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique numérique I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-146990-8&amp;con_lng=FRE\" target=\"blank\">Computational physics / Nicholas J. Giordano, Hisao Nakanishi</a>\". Année:2006. ISBN:0-13-146990-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46631-7&amp;con_lng=FRE\" target=\"blank\">Computational physics : an introduction / Franz J. Vesely</a>\". Année:2001. ISBN:0-306-46631-7</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

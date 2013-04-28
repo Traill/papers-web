@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71629360&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","470"],
+    "title":"Seminar series on advances in materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71629360&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    },{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student will learn about recent and emerging issues and advances in the field of Materials.[br/]",
+      "Content":"A series of seminars on selected current and emerging topics in Materials will be presented by experts. Whenever possible, a research paper related to the content of the seminar talk will be distributed in advance.[br/]",
+      "Type of teaching":"The course \"Seminar series\" will consist of 12-14 scientific talks per semester. Attendance of all of these talks is strongly recommended. The students are expected to take their own notes and do literature research concerning the background of the talks (presentation slides will not be distributed).",
+      "Form of examination":"There will be one final, written examination. For this purpose, the 12-14 talks will be divided into three groups (according to their topic) of 4-5 talks, which will be announced towards the end of the semester. In the examination, the students will choose one of a choice of three blocks of questions (one for each of the group of talks). Accordingly, the students are expected to prepare in depth for one of these three groups of talks, that is, for the content of 4-5 of the seminar talks, using their own notes and doing literature research on the topics of the respective talks."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Seminar series on advances in materials",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    },{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Le cours « Seminar series » se compose de 12-14 conférences scientifiques par semestre. La présence à toutes les conférences est fortement recommandée. Les étudiants sont appelés à prendre leurs propres notes et à faire des recherches de littérature concernant le contenu des conférences (les diapositives ne seront pas distribués).",
+      "Contenu":"Une série des séminaires sera donnée par des experts. Dans la mesure du possible, un article en relation avec le sujet sera distribué auparavant.[br/]",
+      "Forme du contrôle":"Il y aura un seul examen final écrit. À cette fin, les 12-14 conférences/séminaires seront divisées en trois groupes (en fonction du sujet) de 4-5 conférences, annoncés vers la fin du semestre. Lors de l'examen, les étudiants devront choisir un des trois groupes de conférences et répondre à une série de questions y relative. Les étudiants sont tenus de se préparer en profondeur pour l'un de ces trois groupes de conférences, c'est à dire, le contenu de 4-5 séminaires, en utilisant leurs propres notes et en faisant des recherches de littérature sur les sujets des conférences respectifs",
+      "Objectifs d'apprentissage":"Connaître les développements d'aujourd'hui des nouveaux matériaux et leurs applications.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Seminar series on advances in materials",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

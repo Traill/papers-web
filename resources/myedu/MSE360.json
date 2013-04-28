@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838978869&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","360"],
+    "title":"Polymer processing + Laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838978869&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105745",
+      "name":"Månson Jan-Anders"
+    },{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To understand the principles of polymer engineering and industrial methods of polymer processing in order to understand the basic phenomena underlying the transformation of polymer materials and their applications.[br/][br/]",
+      "Content":"- Introduction to plastics and their additives: processing rheology, solidification kinetics, structure property relationships, degradation, biodegradation, recycling, economy of production and its impact on the environment, materials selection. [br/]- Description of techniques for the transformation of themoplastics and thermosets: extrusion, injection molding, thermoforming, blow molding, spinning, coatings, foams, \"difficult\" polymers, rubbers and elastomers, part design. [br/]- Visit to an industrial polymer processing company[br/]- Practical work covering different aspects of polymer processing. [br/]",
+      "Type of teaching":"Ex cathedra and laboratory work",
+      "Form of examination":"Final grade = (2x exam grade + 1x TP grade) / 3",
+      "Required prior knowledge":"Polymer structures and properties, rheology[br/][br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Polymer processing + Laboratory Work",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105745",
+      "name":"Månson Jan-Anders"
+    },{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et travaux pratiques ",
+      "Contenu":"- Introduction aux plastiques et leurs adjuvants : rhéologie de la mise en ½uvre, cinétique de solidification, relations structure-propriétés, dégradation, biodégradation, recyclage, économie de production et impact sur l'environnement, sélection de matériaux.[br/]- Description des techniques de transformation des thermoplastiques et thermodurcis : extrusion, moulage par injection, thermoformage, soufflage et filage, revêtements, mousses, polymères « difficiles », caoutchoucs et élastomères, conception d'une pièce. [br/]-  Visite d'une entreprise de mise en ½uvre[br/]-  Travaux pratiques sur différents aspects de la mise en ½uvre. [br/]",
+      "Forme du contrôle":"Note finale = (2x note examen + 1x note TP) / 3",
+      "Prérequis":"Polymères, structures, propriétés[br/]Rhéologie[br/]",
+      "Objectifs d'apprentissage":"Connaître les principes de l'ingénierie des polymères et des méthodes industrielles de mise en oeuvre dans le but de comprendre les phénomènes liés à la transformation des polymères et à leurs applications.[br/][br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Technologie et mise en oeuvre des polymères + TP",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

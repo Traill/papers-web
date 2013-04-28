@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3301270&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","612"],
+    "title":"Random Matrices and Communication Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3301270&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/~leveque/Matrix/","http://ipg.epfl.ch/%7Eleveque/Matrix/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107931",
+      "name":"Lévêque Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] to understand the fundamentals of random matrix theory[br/][li] to get familiar with the recent applications to wireless communications[br/][li] to get to work on open problems in the field",
+      "Content":"1. Course overview and probability review[br/]2. Circulant and Toeplitz deterministic matrices[br/]3. Random matrices: finite-size analysis[br/]4. Application: MIMO channels[br/]5. First asymptotic analysis[br/]6. Universal results[br/]7. Concentration of random matrices[br/]8. Addition and multiplication of random matrices[br/]9. Application: CDMA systems[br/]10. Introduction to free probability[br/]11. Tridiagonal random matrices[br/]12. Other topics (time permitting)",
+      "Keywords":"Random matrices, Eigenvalues, Semi-circle law,[br/]Wireless communications, MIMO channels, CDMA systems",
+      "Required prior knowledge":"Good basic notions of probability, linear algebra and information theory"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Random Matrices and Communication Systems",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/~leveque/Matrix/","http://ipg.epfl.ch/%7Eleveque/Matrix/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107931",
+      "name":"Lévêque Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Course overview and probability review[br/]2. Circulant and Toeplitz deterministic matrices[br/]3. Random matrices: finite-size analysis[br/]4. Application: MIMO channels[br/]5. First asymptotic analysis[br/]6. Universal results[br/]7. Concentration of random matrices[br/]8. Addition and multiplication of random matrices[br/]9. Application: CDMA systems[br/]10. Introduction to free probability[br/]11. Tridiagonal random matrices[br/]12. Other topics (time permitting)",
+      "Mots clés":"Random matrices, Eigenvalues, Semi-circle law,[br/]Wireless communications, MIMO channels, CDMA systems",
+      "Prérequis":"Good basic notions of probability, linear algebra and information theory",
+      "Objectifs d'apprentissage":"[li] to understand the fundamentals of random matrix theory[br/][li] to get familiar with the recent applications to wireless communications[br/][li] to get to work on open problems in the field"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Random matrices and communication systems",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773572&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","472"],
+    "title":"Finite elements for incompressible fluids",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773572&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral examination, mini-project",
+      "Bibliography and material":"Material available online (http://moodle.epfl.ch/course/view.php?id=469)",
+      "Required prior knowledge":"[li]Linear algebra [br/][li]Analysis / Numerical analysis[br/][li]Fluid mechanics",
+      "Content":"After the unified presentation of the most classical discretization methods, the finite element method is discussed in detail in order to illustrate the basic concepts related to the discretization of the complex partial differential equations arising in the framework of incompressible fluid mechanics. Through the study of one-dimensional, steady and unsteady advection-diffusion problems, the discrete equations are analyzed in terms of accuracy and stability, which is essential for assessing the consistency of numerical solutions with respect to physical reality.[br/]The solution of the Navier-Stokes equations is addressed in stages of increasing complexity. First, the steady Stokes equations are used to study the problems related to the calculation of the pressure, regardless of the non-linearity and time-dependence. Then, classical decoupling methods between velocity and pressure are presented in the context of the unsteady Stokes equations, which allows conserving a linear problem. Finally, the resolution of the Navier-Stokes equations in the Newtonian and isothermal case is addressed by an implicit approach, which requires the solution of systems of non-linear equations, as well as by a semi-implicit technique involving the temporal extrapolation of the non-linear terms. On this basis, the study is extended to the treatment of turbulent, non-isothermal and multiphase flows of eventually non-Newtonian fluids.",
+      "Keywords":"Numerical simulation, Fluid mechanics, Partial differential equations, Finite and spectral element methods",
+      "Type of teaching":"Ex-cathedra lectures, laboratories in Matlab, mini-project",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Choose the appropriate physical models and numerical methods to compute a physically-complex flow, such as a non-Newtonian, free surface of multiphase flow (AH27)[br/][li]Evaluate numerical accuracy as a function of the choice of simulation parameters  (AH28)[br/][li]Analyze numerical solutions and identify any inconsistencies with respect to physical reality, understand and apply the concepts of verification and validation (AH29)[br/][li]Understand the basics of computer programming, develop a simple and structured software using a programming language/environment such as C, Fortran or Matlab (AH40)[br/][br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report (T6)[br/][li]Document and communicate a project (T12)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Finite elements for incompressible fluids",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-365-6&amp;con_lng=ENG\" target=\"blank\">Modélisation numérique en science et génie des matériaux / Michel Rappaz, Michel Bellet, Michel Deville</a>\". Year:1998. ISBN:2-88074-365-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Algèbre linéaire[br/][li]Analyse / Analyse numérique[br/][li]Mécanique des fluides",
+      "Bibliographie et matériel":"Matériel disponible en ligne (http://moodle.epfl.ch/course/view.php?id=469)",
+      "Mots clés":"Simulation numérique, Mécanique des fluides, Equations aux dérivées partielles, Méthodes des éléments finis et spectraux",
+      "Forme d'enseignement":"Cours ex-cathedra, laboratoires en Matlab, mini-projet",
+      "Contenu":"Après une présentation unifiée des méthodes de discrétisation classiques, la méthode des éléments finis est traitée en détail de manière à illustrer les concepts fondamentaux liés à la discrétisation des équations aux dérivées partielles complexes intervenant en mécanique des fluides incompressibles. A travers l'étude de problèmes d'advection-diffusion monodimensionnels, stationnaires et instationnaires, les équations discrètes sont analysées en termes de précision et stabilité, ce qui est indispensable pour évaluer la consistance des solutions numériques par rapport à la réalité physique.[br/]La résolution des équations de Navier-Stokes est abordée par étapes de complexité croissante. Tout d'abord, les équations de Stokes stationnaires permettent d'étudier les problèmes liés au calcul de la pression, sans se soucier de la non-linéarité et de la dépendance temporelle. Ensuite, les techniques classiques de découplage entre vitesse et pression sont présentées dans le cadre des équations de Stokes instationnaires, ce qui permet de conserver un problème linéaire. Finalement, la résolution des équations de Navier-Stokes dans le cas isotherme et newtonien est abordée par une approche implicite, ce qui nécessite la résolution de systèmes d'équations non-linéaires, ainsi que par une méthode semi-implicite faisant intervenir une extrapolation temporelle des termes non-linéaires. Sur cette base, le propos est étendu au traitement d'écoulements turbulents, non-isothermes, multiphasiques et de fluides non-newtoniens.",
+      "Forme du contrôle":"Examen oral, mini-projet",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les modèles physiques et les méthodes numériques appropriées pour calculer un écoulement de physique complexe, tel que non-newtonien, à surface libre ou multiphasique (AH27)[br/][li]Evaluer la précision numérique des résultats en fonction du choix des paramètres de simulation (AH28)[br/][li]Analyser les solutions numériques et identifier les inconsistances par rapport à la réalité physique, comprendre et appliquer les concepts de la vérification et de la validation (AH29)[br/][li]Comprendre les bases de la programmation, développer un logiciel simple et structuré en utilisant un langage/environnement de programmation tel que C, Fortran ou Matlab (AH40)[br/][br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique (T6)[br/][li]Documenter et communiquer un projet (T12)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Eléments finis en fluides incompressibles",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-365-6&amp;con_lng=FRE\" target=\"blank\">Modélisation numérique en science et génie des matériaux / Michel Rappaz, Michel Bellet, Michel Deville</a>\". Année:1998. ISBN:2-88074-365-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

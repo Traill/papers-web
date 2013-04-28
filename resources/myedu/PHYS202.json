@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774652&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","202"],
+    "title":"Analytical mechanics (for SPH)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774652&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/144344",
+      "name":"De Los Rios Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the methods of classical mechanics (Lagrange and Hamilton equations) and to the concepts of normal modes and stability.",
+      "Content":"[b]1. Review of newtonian mechanics[br/]\t[br/]2. Lagrange equations[/b][br/]- The d'Alembert principle.[br/]- Least action principle.[br/]- Applications.[br/][br/][b]3. Hamilton equations[/b][br/]- Legendre transformations.[br/]- Canonical transformations.[br/]- Method of Hamilton-Jacobi.[br/][br/][b]4. Introduction to dynamical systems[/b][br/]- Stability.[br/]- Normal Modes.[br/]",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Prerequisite for":"Statistical mechanics, Quantum mechanics",
+      "Required prior knowledge":"General physics, Analysis, Linear algebra"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analytical mechanics (for SPH)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-18897-7&amp;con_lng=ENG\" target=\"blank\">Classical mechanics / Herbert Goldstein, Charles Poole, John Safko</a>\". Year:2002. ISBN:0-321-18897-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/144344",
+      "name":"De Los Rios Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale, Analyse, Algèbre linéaire",
+      "Bibliographie et matériel":"Polycopié. \"Classical Mechanics\", H. Goldstein",
+      "Forme d'enseignement":"Ex cathedra et exercices en salle.",
+      "Contenu":"[b]1. Rappels de mécanique newtonienne[br/]\t[br/]2. Les équations de Lagrange[/b][br/]- Principe de d'Alembert.[br/]- Principe de moindre action.[br/]- Applications.[br/][br/][b]3. Les équations de Hamilton[/b][br/]- Transformations de Legendre.[br/]- Transformations canoniques.[br/]- Méthode de Hamilton-Jacobi.[br/][br/][b]4. Introduction aux systèmes dynamiques[/b][br/]- Notion de stabilité.[br/]- Modes Normaux.",
+      "Préparation pour":"Mécanique statistique, Physique quantique",
+      "Objectifs d'apprentissage":"Présentation des méthodes de la mécanique analytique (équations de Lagrange et de Hamilton) et introduction aux notions de modes normaux et de stabilité."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mécanique analytique (pour SPH)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-18897-7&amp;con_lng=FRE\" target=\"blank\">Classical mechanics / Herbert Goldstein, Charles Poole, John Safko</a>\". Année:2002. ISBN:0-321-18897-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772562&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","162"],
+    "title":"Organic chemistry (EPFL)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772562&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Bibliography and material":"Traité de Chimie Organique[br/]Peter, Vollhardt & Schore[br/]Traduction de la 4° édition[br/]De Boeck & Larcier s.a., 2004[br/]Paris, Bruxelles[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Organic chemistry (EPFL)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-9949-9&amp;con_lng=ENG\" target=\"blank\">Organic chemistry : structure and function / K. Peter C. Vollhardt, Neil E. Schore</a>\". Year:2007. ISBN:0-7167-9949-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5884-2&amp;con_lng=ENG\" target=\"blank\">Traité de chimie organique / K. Peter C. Vollhardt, Neil E. Schore</a>\". Year:2009. ISBN:978-2-8041-5884-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Préalable requis: Maturité fédérale ou équivalent",
+      "Bibliographie et matériel":"Traité de Chimie Organique[br/]Peter, Vollhardt & Schore[br/]Traduction de la 4° édition[br/]De Boeck & Larcier s.a., 2004[br/]Paris, Bruxelles[br/]",
+      "Forme d'enseignement":"Cours ex cathedra. Exercices \"en-ligne\" sur ordinateur (http://e-chemistry.epfl.ch).",
+      "Contenu":"1. Les différentes fonctions chimiques et leurs réactions :[br/]-\tLes hydrocarbures[br/]-\tLes composés avec des groupes fonctionnels simples (halogénés, alcools, éthers, amines)[br/]-\tLes composés avec des groupes fonctionnels non saturés (cétones, acides, esters, amides, ...)[br/]2. La stéréochimie",
+      "Forme du contrôle":"Examen écrit (QCM)- 2h",
+      "Préparation pour":"Cours nécessitant des connaissances de base de chimie",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est d'apprendre et comprendre, au niveau moléculaire, le fonctionnement des réactions chimiques organiques. L'acquisition de ces notions va permettre de se familiariser aux substances organiques (nomenclature, toxicité, ...) et de mieux comprendre les processus biologiques.[br/]Durant le cours l'étudiant sera amené à réfléchir et à résoudre des problèmes nouveaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie organique (EPFL)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-9949-9&amp;con_lng=FRE\" target=\"blank\">Organic chemistry : structure and function / K. Peter C. Vollhardt, Neil E. Schore</a>\". Année:2007. ISBN:0-7167-9949-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5884-2&amp;con_lng=FRE\" target=\"blank\">Traité de chimie organique / K. Peter C. Vollhardt, Neil E. Schore</a>\". Année:2009. ISBN:978-2-8041-5884-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

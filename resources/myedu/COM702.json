@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80649425&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","702"],
+    "title":"Advanced Topics in Cryptology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80649425&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171548",
+      "name":"Lenstra Arjen"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Expose students to the latest developments in cryptology, practice giving lectures on research topics, stimulate research on issues of current central interest in cryptology.",
+      "Content":"In this course the latest research in cryptology will be studied in an interactive fashion. Students will read, present, and discuss results from the most recent major cryptology conferences (such as Crypto and Eurocrypt) and explore ways to improve those results. A particular focus will be the study and development of new results related to cryptographic hash functions with properties that can be proved based on common mathematical hardness assumptions or on properties of underlying block ciphers. The course is intended to stimulate students in their own research.",
+      "Keywords":"Cryptology; Algorithms; number theory",
+      "Required prior knowledge":"General math & cryptology background"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Advanced Topics in Cryptology",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171548",
+      "name":"Lenstra Arjen"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"In this course the latest research in cryptology will be studied in an interactive fashion. Students will read, present, and discuss results from the most recent major cryptology conferences (such as Crypto and Eurocrypt) and explore ways to improve those results. A particular focus will be the study and development of new results related to cryptographic hash functions with properties that can be proved based on common mathematical hardness assumptions or on properties of underlying block ciphers. The course is intended to stimulate students in their own research.",
+      "Mots clés":"Cryptology, algorithms, number theory",
+      "Prérequis":"General math & cryptology background",
+      "Objectifs d'apprentissage":"Expose students to the latest developments in cryptology, practice giving lectures on research topics, stimulate research on issues of current central interest in cryptology."
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Advanced topics in cryptology",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

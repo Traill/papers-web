@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775607&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","431"],
+    "title":"Steel bridges",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775607&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105637",
+      "name":"Lebet Jean-Paul"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course offers advanced information on the design, detailing and construction of straight and curved steel and steel-concrete composite bridges. Highlights include detailing, preliminary design and analysis of bridges, taking into account general and specific aspects of the design and fabrication processes, as well as the erection and use of such structures. Stability problems (such as local buckling) of slender steel beams are also treated.",
+      "Content":"[br/][li]\tChoice of material (quality and grade) and protection of steel used in bridge construction.[br/][br/][li]\tAnalysis and influence of fabrication and erection procedures on detailing and design of bridges.[br/][br/][li]\tModeling of beam and box-girder bridges.[br/][br/][li]\tStudy of elastic and post-critical plate buckling, detailing of slender beam with stiffeners.[br/][br/][li]\tDesign and detailing of cross-beams.[br/][br/][li]\tDesign of steel-concrete composite bridges.[br/][br/][li]\tDurability of composite bridges.[br/][br/][li]\tCurved and other kind of bridges.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Steel bridges",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-765-7&amp;con_lng=ENG\" target=\"blank\">Ponts en acier : conception et dimensionnement des ponts métalliques et mixtes acier-béton / Jean-Paul Lebet et Manfred A. Hirt ; dessins de Claudio Leonardi</a>\". Year:2009. ISBN:978-2-88074-765-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105637",
+      "name":"Lebet Jean-Paul"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Structures en métal, Structures en métal - Chapitres choisis, Conception des ponts",
+      "Bibliographie et matériel":"TGC volume 12",
+      "Forme d'enseignement":"Ex cathedra + dias + vidéos, exercices, visites ",
+      "Contenu":"[br/][li]\tChoix des matériaux (qualité et nuance) et protection des aciers utilisés pour les ponts.[br/][br/][li]\tAnalyse et influences des méthodes de fabrication et de montage sur la conception et le calcul des ouvrages.[br/][br/][li]\tModélisation des ponts poutres à section ouverte et fermée.[br/][br/][li]\tÉtude du voilement élastique et post-critique, conception du raidissage et des détails des grandes poutres métalliques.[br/][br/][li]\tConception et dimensionnement des entretoises.[br/][br/][li]\tVérification des ponts poutres mixtes acier-béton.[br/][br/][li]\tDurabilité des ponts mixtes.[br/][br/][li]\tPonts courbes et autres types de ponts.",
+      "Forme du contrôle":"Exercices notés",
+      "Préparation pour":"Projet de Master et carrière d'ingénieur",
+      "Objectifs d'apprentissage":"Ce cours de conception et de dimensionnement des ponts en construction métallique et mixte acier-béton vise à maîtriser en particulier la réalisation de projets des ponts poutres droits et courbes. L'accent est mis sur la conception, le pré-dimensionnement et l'analyse en tenant compte de l'ensemble des conditions et contraintes liées au processus d'élaboration, de fabrication, de construction et d'utilisation de tels ouvrages d'art. Les questions relatives à la stabilité des poutres élancées tel que le voilement sont également abordées."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ponts en métal",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-765-7&amp;con_lng=FRE\" target=\"blank\">Ponts en acier : conception et dimensionnement des ponts métalliques et mixtes acier-béton / Jean-Paul Lebet et Manfred A. Hirt ; dessins de Claudio Leonardi</a>\". Année:2009. ISBN:978-2-88074-765-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2211223&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","201"],
+    "title":"Process engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2211223&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/230030",
+      "name":"Grogg Alain-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"100 % written test (180 min) during exam session",
+      "Bibliography and material":"Notes de cours polycopiés",
+      "Prerequisite for":"Chemistry and environmental bioprocesses",
+      "Required prior knowledge":"General chemistry, Analysis I and II, General Physics I and II",
+      "Content":"[b]Transfer Phenomena[/b][br/]Fundamentals. Fick's, Fourier's and Newton's laws. Transfer coefficients. Flux equations (mass, heat and impulsion). Transfer efficiencies. Reynolds number.[br/][b]Introduction to heat transfer[/b][br/]Conduction (plane wall; cylinder; sphere). Simple and composite systems.  Convection. Conduction-convection. Radiation. Stefan-Boltzmann law.[br/][br/][b]Balances[/b][br/]Mass and heat balances. Various applications.[br/][b]Fundamentals of heat exchange[/b][br/]Heat and cold production. Insulation. Overall heat transfer coefficients. Heat exchangers: main types, sizing.[br/][br/][b]Fundamentals of hydrodynamics[/b][br/]Bernouilli equation. Laminar and turbulent flows. Pressure drop in pipes. Hagen-Poiseuille and Darcy -Weisbach equations. Moody diagram. Pressure drop in a circuit. Pumps: types, assessment of the horse power required, NPSHA and NPSHR.[br/][br/][b]Examples of Industrial separation techniques[/b][br/]Mecanical separation's techniques: Filtration; sedimentation/decantation, centrifugation[br/]Equilibria separation's techniques : Gibbs phase rule; Equilibria l/g; Henry's law, Absorption g/l; cristallisation; drying: Mollier' diagram[br/][br/]",
+      "Type of teaching":"Lecture ex cathedra and exercises",
+      "Learning outcomes":"Acquire and being able to apply the basic principles of process engineering."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Process engineering",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/230030",
+      "name":"Grogg Alain-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Chimie générale, Analyse I et II, Physique générale I et II",
+      "Bibliographie et matériel":"Notes de cours polycopiées",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe",
+      "Contenu":"[b]Phénomènes de transfert[/b][br/]Généralités. Lois de Fick, Fourrier et Newton. [br/]Coefficients de transfert. Equations de flux (matière, chaleur, impulsion). Efficacités d'un échange. Nombre de Reynolds.[br/][b]Introduction au transfert de chaleur[/b][br/]Conduction (mur plan; cylindre; sphère). Systèmes simples et composites. Convection. Conduction-convection. Radiation. Loi de Stefan-Boltzmann[br/][b]Bilans[/b][br/]Bilans de matière et de chaleur. Applications diverses[br/][b]Notions de thermie[/b][br/]Production de chaleur et de froid. Calorifugeage. Coefficients globaux  d'échange thermique. Echangeurs de chaleur: principaux types, dimensionnement.[br/][b]Notions d'hydrodynamique[/b][br/]Loi de Bernouilli. Ecoulements laminaire et turbulent.  Pertes de charge dans une conduite circulaire. Equations de Hagen-Poiseuille et de Darcy-Weisbach. Diagramme de Moody.  Pertes de charge dans un circuit. Pompes: types, calcul de la puissance nécessaire, NPSHA et NPSHR.[br/][b]Exemples choisis de procédés industriels de séparation[/b][br/]Procédés de séparation mécanique: filtration, sédimentation/décantation, centrifugation.[br/]Procédés de séparation à équilibre: règle des phases de Gibbs; équilibre l/g; loi de Henry absorption g/l; cristallisation; séchage, diagramme de Mollier.[br/]",
+      "Forme du contrôle":"100 % épreuve écrite (180 min) durant la session d'examen",
+      "Préparation pour":"Chimie et bioprocédés environnementaux",
+      "Objectifs d'apprentissage":"Connaître et savoir appliquer les principes fondamentaux du génie des procédés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Génie des procédés",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

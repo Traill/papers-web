@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=888124409&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","609"],
+    "title":"Numerical Methods for Physical Properties Evaluation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=888124409&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206987",
+      "name":"Heyen Georges"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To learn the numerical methods that are used to evaluate thermophysical properties of pure components and mixtures and there applications for fluid phase changes and separation problems.",
+      "Content":"Day 1 :[br/]How nanoscale interactions influence the macroscale properties[br/]Concept of equation of state[br/]Ideal behaviour and residual properties[br/]Corresponding state principle[br/]How equations of state are designed[br/]Review of some equations of state (virial, BWR type, cubic equations)[br/][br/]Day 2 :[br/]Mixture properties[br/]Ideal mixture and excess properties[br/]Phase equilibria[br/]Application of equations of state to mixtures[br/][br/]Day 3 :[br/]Excess properties for strongly nonideal mixtures[br/]Excess Gibbs free energy models :[br/][li]Scatchard-Hildebrand[br/][li]Wilson[br/][li]NRTL[br/][li]UNIQUAC[br/]Calculation of phase equilibria for strongly nonideal mixtures at moderate pressure[br/]Parameter estimation in phase equilibrium models[br/]Predictive method (UNIFAC, UNIQUAC)[br/][br/]Day 4 :[br/]Modelling strongly nonideal mixtures at high pressure[br/]Huron-Vidal mixing rules, MHV1, MHV2[br/]Coupling phase equililibria with chemical reaction : electrolyte models[br/]Modelling separation processes[br/][li]Flash separation[br/][li]Batch distillation[br/][li]Continuous distillation[br/]",
+      "Keywords":"thermodynamic methods, physical properties of fluids and mixtures",
+      "Required prior knowledge":"thermodynamics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical Methods for Physical Properties Evaluation",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206987",
+      "name":"Heyen Georges"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Day 1 :[br/]How nanoscale interactions influence the macroscale properties[br/]Concept of equation of state[br/]Ideal behaviour and residual properties[br/]Corresponding state principle[br/]How equations of state are designed[br/]Review of some equations of state (virial, BWR type, cubic equations)[br/][br/]Day 2 :[br/]Mixture properties[br/]Ideal mixture and excess properties[br/]Phase equilibria[br/]Application of equations of state to mixtures[br/][br/]Day 3 :[br/]Excess properties for strongly nonideal mixtures[br/]Excess Gibbs free energy models :[br/][li]Scatchard-Hildebrand[br/][li]Wilson[br/][li]NRTL[br/][li]UNIQUAC[br/]Calculation of phase equilibria for strongly nonideal mixtures at moderate pressure[br/]Parameter estimation in phase equilibrium models[br/]Predictive method (UNIFAC, UNIQUAC)[br/][br/]Day 4 :[br/]Modelling strongly nonideal mixtures at high pressure[br/]Huron-Vidal mixing rules, MHV1, MHV2[br/]Coupling phase equililibria with chemical reaction : electrolyte models[br/]Modelling separation processes[br/][li]Flash separation[br/][li]Batch distillation[br/][li]Continuous distillation[br/]",
+      "Mots clés":"thermodynamic methods, physical properties of fluids and mixtures",
+      "Prérequis":"thermodynamics",
+      "Objectifs d'apprentissage":"To learn the numerical methods that are used to evaluate thermophysical properties of pure components and mixtures and there applications for fluid phase changes and separation problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical Methods for Physical Properties Evaluation",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227262137&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","417"],
+    "title":"UE G : Digital Design and Production (Autumn)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227262137&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://biosarch.wordpress.com/?s=plank+lines&searchbutton=Go","http://biosarch.wordpress.com/?s=plank+lines&searchbutton=Go"],["http://infoscience.epfl.ch/record/141297/files/n%20161%20IASS%20Weinand.pdf","http://infoscience.epfl.ch/record/141297/files/n%20161%20IASS%20Weinand.pdf"],["http://thegeometryofbending.blogspot.com/","http://thegeometryofbending.blogspot.com/"],["http://www.umanitoba.ca/cast_building/research/index.html","http://www.umanitoba.ca/cast_building/research/index.html"],["http://www.papermosaics.co.uk/","http://www.papermosaics.co.uk/"],["http://www.processing.org/","http://www.processing.org/"],["http://www.origamitessellations.com/","http://www.origamitessellations.com/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218478",
+      "name":"Ehret Paul"
+    },{
+      "url":"http://people.epfl.ch/218479",
+      "name":"Eversmann Philipp"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]Development and fabrication of research projects in scale 1/1, defining the relationship between material, structure and form to the process of digital fabrication.[br/][li]Introduction to an elastic methodology of architectural design: the development of a design strategy of successive interrelated steps composing a digital chain from conception to realization.[br/][li]Spatial consequences: highlight the complementary process existing between the architectural language definition and the associated fabrication type.[br/][li]Development of a critical and constructive reflection on use of the new technologies in comparison to classical techniques and their impact on the architectural practice. (Notion of mass customization or digital handicraft).[br/]",
+      "Content":"[li]Case Studies: Rediscovery of elementary architectural concepts (mean of separation, mean of connection, mean of opening, etc) through the conscious use of adaptive tools and digital fabrication: one mean typology per group of students.[br/][li]Materials: The notion of the artefact: The relationship between the material, the fabrication tool and its trace; Creation of material effects through the use of digital and analog shaping methods.[br/][li]Geometry: Education on surface types (planarity, single curvature, double curvature).[br/][li]The digital toolbox: Introduction to 3D modeling, parametric and associative modeling and scripting.[br/][li]Fabrication: Training in conception and modeling for the use of the waterjet cutter, 5 axis cnc router and thermoforming.[br/][li]Awareness of the basic principles of complexity management.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"UE G : Digital Design and Production (Autumn)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://biosarch.wordpress.com/?s=plank+lines&searchbutton=Go","http://biosarch.wordpress.com/?s=plank+lines&searchbutton=Go"],["http://infoscience.epfl.ch/record/141297/files/n%20161%20IASS%20Weinand.pdf","http://infoscience.epfl.ch/record/141297/files/n%20161%20IASS%20Weinand.pdf"],["http://thegeometryofbending.blogspot.com/","http://thegeometryofbending.blogspot.com/"],["http://www.umanitoba.ca/cast_building/research/index.html","http://www.umanitoba.ca/cast_building/research/index.html"],["http://www.papermosaics.co.uk/","http://www.papermosaics.co.uk/"],["http://www.processing.org/","http://www.processing.org/"],["http://www.origamitessellations.com/","http://www.origamitessellations.com/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218478",
+      "name":"Ehret Paul"
+    },{
+      "url":"http://people.epfl.ch/218479",
+      "name":"Eversmann Philipp"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"L'UE est donnée en français.",
+      "Bibliographie et matériel":"ALEXANDER, C., [i]A Pattern Language[/i]. BALMOND,C., [i]Number 9[/i]. COHEN, P.S., [i]Contested Symmetries and Other Predicaments in Architecture[/i]. D'ARCY THOMPSON, T., [i]On growth and form[/i]. DETAIL Praxis - Digitale Prozesse. GRAMAZIO, F. & KOHLER, M., [i]Digital Materiality in Architecture[/i]. HAUER, E., [i]Continua[/i]. KOLAREVIC, B., [i]Manufacturing Material Effects[/i]. LE MONITEUR, [i]Made Of...: Materials Sourcebook for Architecture and Design[/i]. LYNN, G., [i]Folds, Bodies and Blobs[/i]. LYNN, G., [i]Greg Lynn Form[/i]. POTTMANN, H., ASPERL, A., HOFER, M., KILIAN, A., [i]Architectural Geometry[/i]. MOUSSAVI, F. & KUBO, M., [i]The Function of Ornament, Farshid Moussavi and Michael Kubo[/i]. OXMAN, R., [i]The New Structuralism: Design, Engineering and Architectural Technologies[/i]. REISER, J., [i]Atlas of Novel Tectonics[/i]. SILVER, M., [i]AD: Programming Cultures[/i]. SCHUMACHER, P., [i]Autopoiesis of Architecture[/i].",
+      "Mots clés":"Savoir-faire numérique, digital design, digital manufacturing, custom fabrication, méthodologie : accompagnement dans la découverte et la mise en application des concepts de découpe numérique (préparation des fichiers de découpe).",
+      "Forme d'enseignement":"Méthodologie : accompagnement dans la découverte et la mise en application des concepts de découpe numérique (préparation des fichiers de découpe).",
+      "Contenu":"[li]Case Studies : redécouverte des concepts architecturaux élémentaires  par l'usage averti d'outils adaptifs; réalisation d'une typologie de composants par groupe d'étudiants.[br/][li]Matériaux : la  notion d'artefact : rapport entre matériau, outil et trace. Création d'effets matériaux : leur façonnage numérique et analogique.[br/][li]Géométrie : les surfaces et la grammaire constructrice de l'espace (planéité, simple courbure, double courbure).[br/][li]Palette d'outils numériques : introduction à la modélisation 3D, à l'outil paramétrique et à la conception de scripts.[br/][li]Fabrication : formation à la modélisation et à la conception en vue de l'usage de la machine de découpe jet d'eau, fraiseuse numérique à 5 axes, thermoformage.[br/][li]Conscience au principe de gestion de la complexité.",
+      "Objectifs d'apprentissage":"[li]Développement et fabrication des  projets de recherche à l'échelle  1/1 en définissant l'interaction entre matière, structure et forme mis en rapport avec les processus de fabrication numérique.[br/][li]Introduction à une  méthodologie élastique du design architectural : développement de \"design systems\" successifs qui composent la chaine digitale, de la conception jusqu'à la réalisation. [br/][li]Répercussions spatiales : mise en valeur du processus complémentaire existant entre la définition du langage architectural et le type de fabrication associé.[br/][li]Développement d'une réflexion critique et constructive sur l'usage des nouvelles technologies par rapport aux techniques classiques ainsi que leur impact sur la pratique de l'architecte. (Notion de mass customisation ou l'orfèvrerie automatisée)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"UE G : Digital Design and Production (Autumn)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  }
+}

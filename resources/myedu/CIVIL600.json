@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2978019&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","600"],
+    "title":"Hydropower plants",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2978019&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    },{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    },{
+      "url":"http://people.epfl.ch/106434",
+      "name":"Simond Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[br/][li]Understanding the benefits and concerns of different types of hydropower plants[br/][li]Understanding the functioning and the basis of the design of hydropower plants[br/][li]Focus will be on pumped storage power plants",
+      "Content":"[br/][li]General[br/][][][][]- Benefits and concerns of large hydropower plants[br/][][][][]- Assessment of hydropower potential[br/][][][][]- Sustainable development and hydropower[br/][][][][]- Role of hydropower in the energy mix with other power plants[br/][br/][li]Civil engineering structures and general design[br/][][][][]- Types of hydropower plants and its elements (reservoirs and dams, intakes, open channels, free surface tunnels and pressure tunnels and shafts, free surface and underground powerhouses, mechanical and electrical equipment[br/][][][][]- Layout and design criteria of run-off river plants, high-head power plants with reservoirs and pumped storage power plants[br/][][][][]- Theoretical bases for the design of the main hydraulic structures[br/][][][][]- Refurbishing and upgrading of existing hydropower plants, Particularities of small hydropower plants[br/][][][][]- Economical and environmental criteria of hydropower plants[br/][br/][li]Hydraulic turbines, storage pumps and pump-turbines[br/][][][][]- Momentum transfer in an hydraulic turbine or a pump, classification of hydraulic turbomachines[br/][][][][]- Machine design criteria for either new projects or rehabilitations, flow analysis[br/][][][][]- Hydraulic performance validation, scale model and field tests, efficiency, cavitation, operation stability[br/][][][][]- Cavitation in Francis, Kaplan and Propeller Turbines, cavitation in pumps[br/][][][][]- Transient in hydraulic machines, rotor-stator interactions, hydrodynamics instabilities, hydro-acoustics[br/][br/][li]Electrical equipment[br/][br/][][][][]- Procedure of starting up of pump-turbines in the pumping mode[br/][][][][]- Techniques of machines with variable speed VARSPEED[br/][][][][]- Numerical simulation of transient phenomena",
+      "Form of examination":"Oral exam, oral presentation and term paper",
+      "Required prior knowledge":"Basic courses in engineering sciences"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Hydropower plants",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    },{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    },{
+      "url":"http://people.epfl.ch/106434",
+      "name":"Simond Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[br/][li]General[br/][][][][]- Benefits and concerns of large hydropower plants[br/][][][][]- Assessment of hydropower potential[br/][][][][]- Sustainable development and hydropower[br/][][][][]- Role of hydropower in the energy mix with other power plants[br/][br/][li]Civil engineering structures and general design[br/][][][][]- Types of hydropower plants and its elements (reservoirs and dams, intakes, open channels, free surface tunnels and pressure tunnels and shafts, free surface and underground powerhouses, mechanical and electrical equipment[br/][][][][]- Layout and design criteria of run-off river plants, high-head power plants with reservoirs and pumped storage power plants[br/][][][][]- Theoretical bases for the design of the main hydraulic structures[br/][][][][]- Refurbishing and upgrading of existing hydropower plants, Particularities of small hydropower plants[br/][][][][]- Economical and environmental criteria of hydropower plants[br/][br/][li]Hydraulic turbines, storage pumps and pump-turbines[br/][][][][]- Momentum transfer in an hydraulic turbine or a pump, classification of hydraulic turbomachines[br/][][][][]- Machine design criteria for either new projects or rehabilitations, flow analysis[br/][][][][]- Hydraulic performance validation, scale model and field tests, efficiency, cavitation, operation stability[br/][][][][]- Cavitation in Francis, Kaplan and Propeller Turbines, cavitation in pumps[br/][][][][]- Transient in hydraulic machines, rotor-stator interactions, hydrodynamics instabilities, hydro-acoustics[br/][br/][li]Electrical equipment[br/][br/][][][][]- Procedure of starting up of pump-turbines in the pumping mode[br/][][][][]- Techniques of machines with variable speed VARSPEED[br/][][][][]- Numerical simulation of transient phenomena",
+      "Forme du contrôle":"Oral exam, oral presentation and term paper",
+      "Prérequis":"Basic courses in engineering sciences",
+      "Objectifs d'apprentissage":"[br/][li]Understanding the benefits and concerns of different types of hydropower plants[br/][li]Understanding the functioning and the basis of the design of hydropower plants[br/][li]Focus will be on pumped storage power plants"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Hydropower plants",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

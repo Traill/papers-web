@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230488596&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","261"],
+    "title":"Discrete optimization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230488596&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183121",
+      "name":"Eisenbrand Friedrich"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Acquaint students with linear programming models and algorithms. To train them to design and analyze algorithms.[br/]",
+      "Content":"[b]Linear programming:[/b] [br/][br/]Simplex algorithm[br/]Perturbation and lexicographic rule[br/]Farkas lemma and duality [br/]Dual simplex method[br/]Polyhedra[br/][br/][b]Network Flows and Matchings:[/b][br/][br/]Max st-flows [br/]Bipartite and non-bipartite Matchings[br/]Matching polytope",
+      "Prerequisite for":"Combinatorial Optimization",
+      "Required prior knowledge":"Linear algebra, discrete mathematics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Discrete optimization",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-886529-19-1&amp;con_lng=ENG\" target=\"blank\">Introduction to linear optimization / Dimitris Bertsimas, John N. Tsitsiklis</a>\". Year:1997. ISBN:1-886529-19-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-617549-X&amp;con_lng=ENG\" target=\"blank\">Network flows : theory, algorithms, and applications / Ravindra K. Ahuja, Thomas L. Magnanti, James B. Orlin</a>\". Year:1993. ISBN:0-13-617549-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-30697-9&amp;con_lng=ENG\" target=\"blank\">Understanding and using linear programming / Jiri Matousek, Bernd Gaertner</a>\". Year:2007. ISBN:978-3-540-30697-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183121",
+      "name":"Eisenbrand Friedrich"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[b]Programmation linéaire :[/b] [br/][br/]Algorithme du simplex[br/]Perturbation et règle lexicographique [br/]Lemme de Farkas et dualité[br/]Méthode dual du simplex [br/]Polyèdres[br/][br/][b]Flots dans les réseaux et couplages :[/b][br/][br/]Flots maximum [br/]Couplage biparti et non-biparti[br/]Polytope de couplage",
+      "Préparation pour":"Combinatorial Optimization",
+      "Prérequis":"Algèbre linéaire, Mathématiques discrètes[br/]Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"Dimitris Bertsimas and John N. Tsitsiklis; Introduction to linear optimization[br/][br/]Ravindra K. Ahuja, Thomas L. Magnanti, and James B. Orlin; NETWORK FLOWS:[br/]THEORY, ALGORITHMS, AND APPLICATIONS[br/][br/]Jiri Matousek, Bernet Gärtner; UNDERSTANDING AND USING LINEAR PROGRAMMING",
+      "Objectifs d'apprentissage":"Familiariser les étudiants avec des modèles de programmation linéaire et des algorithmes. Leur apprendre à développer et analyser des algorithmes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optimisation discrète",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-886529-19-1&amp;con_lng=FRE\" target=\"blank\">Introduction to linear optimization / Dimitris Bertsimas, John N. Tsitsiklis</a>\". Année:1997. ISBN:1-886529-19-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-617549-X&amp;con_lng=FRE\" target=\"blank\">Network flows : theory, algorithms, and applications / Ravindra K. Ahuja, Thomas L. Magnanti, James B. Orlin</a>\". Année:1993. ISBN:0-13-617549-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-30697-9&amp;con_lng=FRE\" target=\"blank\">Understanding and using linear programming / Jiri Matousek, Bernd Gaertner</a>\". Année:2007. ISBN:978-3-540-30697-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772457&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","213"],
+    "title":"Biological chemistry III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772457&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209845",
+      "name":"Hantschel Oliver"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To understand :[br/][br/](1)\tthe relation between the structure (primary, secondary, tertiary and quaternary) and function of proteins[br/](2)\tThe regulation of protein function through post-translational modifications[br/](3)\tThe principles pertaining to the targeting of proteins to subcellular locations[br/](4)\tThe approaches and strategies used to study protein function[br/]",
+      "Content":"[b]The course will cover the following : [/b][br/]-Recapitulation of previously acquired knowledge on primary and secondary structure of proteins[br/]-Importance of tertiary and quaternary structure for protein function[br/]-Post-translational modifications and their effect on protein function[br/]-Protein targeting to subcellular compartment and secretion[br/]-Chemical biology approaches to study protein function[br/]-Elements of proteomics[br/][br/][br/]For both course end exercises, examples will be drawn from the ongoing elucidation of the protein kinases  function and the drugs inhibiting it, as well as modular protein-protein interaction domains."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biological chemistry III",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-955684-7&amp;con_lng=ENG\" target=\"blank\">Protein structure and function / Gregory A. Petsko, Dagmar Ringe</a>\". Year:2009. ISBN:978-0-19-955684-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=9782804158880&amp;con_lng=ENG\" target=\"blank\">Structure et fonction des protéines / Gregory A. Petsko, Dagmar Ringe, traduit de l'anglais par Chrystelle Sanlaville</a>\". Year:2009. ISBN:9782804158880</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209845",
+      "name":"Hantschel Oliver"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bases de biochimie des protéines",
+      "Bibliographie et matériel":"Petsko & Ringe. Structure et fonction des protéines[br/]http://superieur.deboeck.com/titres/28386_/structure-et-fonction-des-proteines.html",
+      "Forme d'enseignement":"Cours ex cathedera et exercices",
+      "Contenu":"[b]Le cours couvrira les éléments suivants : [/b][br/]-Récapitulation des connaissances acquises précédemment sur la structure primaire et secondaire des protéines[br/]-Importance de la structure tertiaire et quaternaire pour la fonction des protéines[br/]-Modifications post-traductionnelles et leur effet sur la fonction protéique[br/]-Adressage et sécrétion des protéines[br/]-Approches de chimie biologique dans l'étude fonctionnelle des protéines[br/]-Bases de protéomique[br/][br/][b]Les exercices consisteront en :[/b][br/]-études d'articles illustrant le contenu du cours[br/]-démonstration d'utilisation de databases en ligne[br/][br/]Durant le cours comme pour les exercices, des exemples seront choisis parmi les études en cours cherchant à élucider la fonction des protéines kinases (notamment en les bloquant à l'aide d'inhibiteurs spécifiques)  et à définir les domaines spécifiques par lesquels les protéines kinase interagissent avec d'autres protéines. ",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Comprendre :[br/][br/](1)\tla relation entre la structure (primaire, secondaire, tertiaire et quaternaire) des protéines et leur fonction[br/](2)\tla régulation de la fonction protéique par modifications post-traductionnelles[br/](3)\tles principes d'adressage subcellulaire des protéines[br/](4)\tles approches et stratégies utilisées dans l'étude de la fonction protéique.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie biologique III",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-955684-7&amp;con_lng=FRE\" target=\"blank\">Protein structure and function / Gregory A. Petsko, Dagmar Ringe</a>\". Année:2009. ISBN:978-0-19-955684-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=9782804158880&amp;con_lng=FRE\" target=\"blank\">Structure et fonction des protéines / Gregory A. Petsko, Dagmar Ringe, traduit de l'anglais par Chrystelle Sanlaville</a>\". Année:2009. ISBN:9782804158880</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

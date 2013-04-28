@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=235424562&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","208"],
+    "title":"State and human rights",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=235424562&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218730",
+      "name":"Boillet Véronique"
+    },{
+      "url":"http://people.epfl.ch/220141",
+      "name":"Stoudmann Patrick"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"State and human rights",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7272-2346-4&amp;con_lng=ENG\" target=\"blank\">Droit constitutionnel suisse / Andreas Auer, Giorgio Malinverni, Michel Hottelier</a>\". Year:2006. ISBN:3-7272-2346-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-7272-1743-2&amp;con_lng=ENG\" target=\"blank\">Droits fondamentaux : liberté idéales / Etienne Grisel ; avec la collab. de Anouk Neuenschwander</a>\". Year:2008. ISBN:978-3-7272-1743-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218730",
+      "name":"Boillet Véronique"
+    },{
+      "url":"http://people.epfl.ch/220141",
+      "name":"Stoudmann Patrick"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Enseignant-e-s: [/b][br/]Véronique Boillet, professeure assistante, Patrick Stoudmann, maître assistant suppléant  (Centre de droit public, UNIL)",
+      "Bibliographie et matériel":"- Auer/Malinverni/Hottelier, [i]Droit constitutionnel suisse[/i], vol. I, 2ème éd., 2006.[br/]- Auer/Malinverni/Hottelier, [i]Droit constitutionnel suisse[/i], vol. II, 2ème éd., 2006[br/]- Mahon, [i]Droit constitutionnel I[/i], 2ème éd., 2010.[br/]- Mahon, [i]Droit constitutionnel II[/i], 2ème éd., 2010.",
+      "Mots clés":"Libertés fondamentales, droits politiques, justice constitutionnelle",
+      "Forme d'enseignement":"Cours ex cathedra et analyse de cas",
+      "Contenu":"[b]Garantie des libertés fondamentales et des droits politiques dans l'ordre juridique suisse[/b][br/][br/]Introduction au fonctionnement du système constitutionnel suisse. Présentation - sous un angle pratique - de différents droits fondamentaux consacrés par la Constitution suisse et les textes internationaux ainsi que des droits politiques, notamment le droit d'initiative et de référendum.[br/][br/][i]Plan du cours[/i] : [br/]Cours d'introduction / Liberté personnelle / Principe de non-discrimination / Liberté religieuse / Liberté d'opinion et d'information / Liberté de presse et des médias / Liberté de réunion et de manifestation / Liberté de l'art / Liberté économique / Garantie des droits politiques / Place du droit international.",
+      "Forme du contrôle":"- Examen écrit intermédiaire en cours de semestre[br/]- Examen écrit en fin de semestre",
+      "Objectifs d'apprentissage":"Au terme du cours l'étudiant-e est capable de :[br/]- identifier des questions juridiques, [br/]- déterminer des principes juridiques et des normes légales applicables, [br/]- proposer une résolution, via l'appréhension d'un cas pratique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"État et droits humains",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7272-2346-4&amp;con_lng=FRE\" target=\"blank\">Droit constitutionnel suisse / Andreas Auer, Giorgio Malinverni, Michel Hottelier</a>\". Année:2006. ISBN:3-7272-2346-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-7272-1743-2&amp;con_lng=FRE\" target=\"blank\">Droits fondamentaux : liberté idéales / Etienne Grisel ; avec la collab. de Anouk Neuenschwander</a>\". Année:2008. ISBN:978-3-7272-1743-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

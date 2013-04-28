@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128968877&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","703"],
+    "title":"Computational mechanics by reduced basis methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128968877&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7431","http://moodle.epfl.ch/course/view.php?id=7431"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149443",
+      "name":"Rozza Gianluigi"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course aims to provide the basic aspects of numerical approximation and efficient solution of parametrized PDEs for computational mechanics problem (heat and mass transfer, linear elasticity, viscous and potential flows).[br/]",
+      "Content":"In this course we present reduced basis (RB) approximation and associated a posteriori error estimation for rapid and reliable solution of parametrized partial differential equations (PDEs). The focus is on  rapidly convergent Galerkin approximations on a subspace spanned by ``snapshots''; rigorous and sharp a posteriori error estimators for the outputs/quantities of interest; efficient selection of quasi-optimal samples in general parameter domains; and Offline-Online computational procedures for rapid calculation in the many-query and real-time contexts. We develop the RB methodology for a wide range of (coercive and non-coercive) elliptic and parabolic  PDEs with numerous examples drawn from heat transfer, elasticity and fracture, acoustics, and fluid dynamics. We introduce the concept of affine and non-affine parametric dependence, some elements of approximation and algebraic stability. Finally, we consider application of  RB techniques to parameter estimation, optimization, optimal control, and a comparison with other reduced order techniques, like Proper Orthogonal Decomposition. A Matlab library is offered as tutorial for the course. Lecture notes, slides and reading material is provided during the classes.",
+      "Keywords":"Reduced order modelling, Parametrized PDEs, Computational Mechanics[br/]",
+      "Required prior knowledge":"Numerical Analysis  AND  Finite Elements  AND/OR Intro PDEs [br/]"
+    },
+    "practical":{
+      "total_hours":12
+    },
+    "language":"English",
+    "title":"Computational mechanics by reduced basis methods",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7431","http://moodle.epfl.ch/course/view.php?id=7431"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149443",
+      "name":"Rozza Gianluigi"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"In this course we present reduced basis (RB) approximation and associated a posteriori error estimation for rapid and reliable solution of parametrized partial differential equations (PDEs). The focus is on  rapidly convergent Galerkin approximations on a subspace spanned by ``snapshots''; rigorous and sharp a posteriori error estimators for the outputs/quantities of interest; efficient selection of quasi-optimal samples in general parameter domains; and Offline-Online computational procedures for rapid calculation in the many-query and real-time contexts. We develop the RB methodology for a wide range of (coercive and non-coercive) elliptic and parabolic  PDEs with numerous examples drawn from heat transfer, elasticity and fracture, acoustics, and fluid dynamics. We introduce the concept of affine and non-affine parametric dependence, some elements of approximation and algebraic stability. Finally, we consider application of  RB techniques to parameter estimation, optimization, optimal control, and a comparison with other reduced order techniques, like Proper Orthogonal Decomposition. A Matlab library is offered as tutorial for the course. Lecture notes, slides and reading material is provided during the classes.",
+      "Mots clés":"Reduced order modelling, Parametrized PDEs, Computational Mechanics[br/]",
+      "Prérequis":"Numerical Analysis  AND  Finite Elements  AND/OR Intro PDEs [br/]",
+      "Objectifs d'apprentissage":"The course aims to provide the basic aspects of numerical approximation and efficient solution of parametrized PDEs for computational mechanics problem (heat and mass transfer, linear elasticity, viscous and potential flows)"
+    },
+    "practical":{
+      "total_hours":12
+    },
+    "language":"English",
+    "title":"Computational mechanics by reduced basis methods",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  }
+}

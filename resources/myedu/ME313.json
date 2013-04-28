@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775757&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","313"],
+    "title":"Design project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775757&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    },{
+      "url":"http://people.epfl.ch/103606",
+      "name":"Schiffmann Jürg Alexander"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"LINK WITH OTHER COURSES: this project relies on or refers to knowledge acquired in the introductory basic courses as well as in the design courses of semesters 1 to 5.",
+      "Form of examination":"Graded intermediate and final project reports [br/]Each student will have to keep a project notebook ",
+      "Prerequisite for":"Concurrent engineering project, Mechanical design, Mecatronics",
+      "Required prior knowledge":"Design courses of semesters 1 to 5",
+      "Content":"Students will work in groups on a design project, starting from the client specifications.[br/][br/]Each group will establish and quantify the functional specification list and search for and analyze solutions meeting these specifications.[br/][br/]In searching for solutions, students will be able to draw on existing[br/]systems, some of which will be available for studying and reverse[br/]engineering.[br/][br/]Each group will submit intermediate reports as well as a final report with[br/]drawings of their preliminary design.[br/]Particular attention will also be given to project planning and group[br/]organization as well as to written and oral presentation of the results[br/](project management).",
+      "Type of teaching":"Group project interactively supervised, with short presentations on specific topics.(establishing the specification list, search for solutions, bibliographic search, report writing)",
+      "Learning outcomes":"Acquire practical knowledge of mechanical design. Assimilate and apply knowledge from semesters 1-5. In particular, exercise formulating and quantifying the functional specification list and use it to go from the conceptual design to the first dimensioned embodiment of the design.[br/]Experience team work and project management. Learn how to find bibliographic information and hot to write a technical report."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    },{
+      "url":"http://people.epfl.ch/103606",
+      "name":"Schiffmann Jürg Alexander"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"LIAISON AVEC AUTRES COURS: Ce projet applique ou fait référence  aux connaissances apprises dans les cours de base et dans les cours de conception des semestres 1 à 5.",
+      "Prérequis":"cours de conception des semestre 1 à 5",
+      "Bibliographie et matériel":" Notes polycopiées, divers ouvrages de références de la bibliothèque ",
+      "Forme d'enseignement":"Projet en groupe avec supervision interactive et courtes présentations de sujets spécifiques (Etablissement du cahier des charges, recherche de solutions, recherche bibliographique, rédaction de rapport)",
+      "Contenu":"Les étudiant(e)s réaliseront en groupes un projet de conception à[br/]partir d'un cahier des charges client.[br/]Chaque groupe devra définir et quantifier le cahier des charges fonctionnel, et rechercher et analyser des solutions capables[br/]de remplir ce cahier des charges.[br/][br/]Dans l'élaboration des solutions, on s'appuiera sur des systèmes[br/]existants dont certains seront disponibles pour étude par les[br/]étudiant(e)s.[br/][br/]Chaque groupe soumettra des rapports intermédiaires ainsi qu'un[br/]rapport final avec des dessins d'étude.[br/]Une attention particulière sera aussi donnée à l'organisation du travail[br/]dans les groupes et à la présentation écrite ou orale des résultats[br/](gestion du projet).",
+      "Forme du contrôle":"Rapports de projet intermédiaires et final notés[br/]Chaque étudiant(e) devra tenir un journal de projet ",
+      "Préparation pour":"Projet d'ingénierie simultanée, Conception mécanique, Systèmes mécatroniques",
+      "Objectifs d'apprentissage":"Acquérir la pratique de la conception mécanique. Assimiler et applique les connaissances apprises au cours des semestres 1-5. En particulier pratiquer la formulation et la quantification du cahier des charges et son utilisation pour le dimensionnement de la solution de principe.[br/]Faire l'expérience du travail en groupe et de la gestion d'un projet. Apprendre à faire une recherche bibliographique et à écrire un rapport technique"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de conception",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

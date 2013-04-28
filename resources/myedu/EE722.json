@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597303540&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","722"],
+    "title":"Advanced Biometrics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597303540&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http;//idiap.epfl.ch/bspg/teaching","http;//idiap.epfl.ch/bspg/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104991",
+      "name":"Drygajlo Andrzej"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to give its participants an understanding of and competence with the advanced theories and concepts underlying analysis, modeling and interpretation of biometric data, as well as the state-of-the-art pattern recognition techniques and technologies for the design and development of biometric systems.",
+      "Content":"1. Fundamentals of Biometrics: Identity and Biometrics, Individuality of Biometric Data, Generic Biometric System, Biometric Modalities, Recognition, Verification, Identification and Authentication[br/]2. Integration of Biometrics with Other Existing Technologies in Small, Medium and Large-scale Systems: identity documents, smart cards, mobile smartphones and tablets, e-technologies, transmission and storage of biometric data[br/]3. Analysis, Modeling and Interpretation of Biometric Data: Mathematical Tools, Sensing, Representation and Feature Extraction, Local and Global Features, Enrollment and Template Creation, Deterministic, Statistical and Probabilistic Models, Biometric System Errors, Evaluation of Biometric Systems[br/]4. Leading Biometric Technology:Physiological Characteristics (fingerprints, face (2D and 3D), iris, hand shape and veins, palmprint, ear), Behavioral Characteristics (dynamic signature, voice, gait, keystroke dynamics), Biological Traces (DNA, odour), New technologies under development[br/]5. Advanced Analysis and Modeling Tools in Biometrics: Gaussian Mixture Models (GMMs), Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Local Texture Patterns, Bayesian Networks, Joint Factor Analysis (JFA), iVectors, Multiclassifiers[br/]6. Multimodal Biometrics[br/]7. Advanced Topics in Biometrics: Quality of Biometric Data, Robustness and Reliability of Biometric Systems, Ageing and Heterogeneous Biometrics, Soft Biometrics, Person Recognition at Distance, Synthetic Biometric Data Generation, Security of Biometric Systems  [br/]8. Forensic Biometrics [br/]",
+      "Keywords":"Biometrics, Identity verification, Identification, Fingerprint, Face, Iris, Signature, Palmprint, DNA  ",
+      "Required prior knowledge":"Linear Algebra, Probabilities and Statistics, Signal Processing"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Advanced Biometrics",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http;//idiap.epfl.ch/bspg/teaching","http;//idiap.epfl.ch/bspg/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104991",
+      "name":"Drygajlo Andrzej"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Advanced Biometrics",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

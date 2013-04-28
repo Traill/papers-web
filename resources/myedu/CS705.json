@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963731442&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","705"],
+    "title":"Conducting User Studies",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963731442&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155704",
+      "name":"Dillenbourg Pierre"
+    },{
+      "url":"http://people.epfl.ch/157873",
+      "name":"Jermann Patrick"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Content":"1. Usability studies. [br/]2. Experimental design: variables, interactions, common biases, quasi-experiments.[br/]3. Contextual inquiry and ethnographic methods[br/]4. Quantative data analyses : performance measures, log files,[br/]5. Introduction to statistical analysis tools[br/]6. Qualitative data analyses: video transcription and coding, conversation analyses--,...[br/]7. Social signal processing: eye tracking, non-verbal communication[br/][br/]The main part of the course will be to conduct an empirical study that is relevant for the PhD thesis of the course participants.  This course does not concern market studies, surveys and sociological studies: it is about users of some technological device.[br/]",
+      "Keywords":"empirical methods, user study, experiment, HCI, usability",
+      "Form of examination":"Oral presentation[br/]Project report"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Conducting User Studies",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155704",
+      "name":"Dillenbourg Pierre"
+    },{
+      "url":"http://people.epfl.ch/157873",
+      "name":"Jermann Patrick"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Usability studies. [br/]2. Experimental design: variables, interactions, common biases, quasi-experiments.[br/]3. Contextual inquiry and ethnographic methods[br/]4. Quantative data analyses : performance measures, log files,[br/]5. Introduction to statistical analysis tools[br/]6. Qualitative data analyses: video transcription and coding, conversation analyses--,...[br/]7. Social signal processing: eye tracking, non-verbal communication[br/][br/]The main part of the course will be to conduct an empirical study that is relevant for the PhD thesis of the course participants.  This course does not concern market studies, surveys and sociological studies: it is about users of some technological device.[br/]",
+      "Forme du contrôle":"Oral presentation[br/]Project report",
+      "Mots clés":"empirical methods, user study, experiment, HCI, usability"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Conducting User Studies",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

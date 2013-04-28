@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=979651674&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","546"],
+    "title":"Geocomputation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=979651674&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149002",
+      "name":"Joost Stéphane"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The purpose of the course of lectures in  geocomputation is to provide an incentive for students to increase their knowledge of computer science and to apply it to look at and solve complex spatial problems. [br/]Obtaining data with a geographical component has become easier thanks to new georeferenced sensors and efficient communication systems. The challenge has moved from acquiring towards analysing information from the ever increasing volume of available geodata. Hence geodata analysis tools have become more crucial for dealing with issues on both built and natural environment. These geoanalysis tools are developed since the late 1960s with the advent of computer science and the emergence of GIScience. This discipline is now named Geocomputation and refers to \"the art and science of solving complex spatial problems with computers\". Geocomputation is enabled in part by the continuing development of analytical statistics that can be applied to clustering, search and measures of association over space and through time. The success of these analysis methods to larger problems mainly relies on a number of significant advances in computer science. One of these recent advances of geocomputation is the opportunity to make use of High Performance Computing (HPC) resources to efficiently, reliably and quickly solve complex spatial issues thanks to parallel processing.[br/][br/][br/][br/][br/][br/]",
+      "Content":"The purpose of the course of lectures and practicals in geocomputation is to provide an incentive for students to increase their knowledge of computer science to look at and solve complex spatial problems. Theoretical lectures will be given to provide a global background in geocomputation and to present the different computational approahes to be used during the practicals. Main topics addressed will be the study of point pattern analysis implementing Kernel Density Estimators (KDE), the cumulative function M and the parallel processing of numerous association models (logistic and geographically weighted regression). We will use datasets related to different thematics like the evaluation of plant and animal biodiversity, the concentration of retail and industrial activities in urban/suburban area, or the impact of terrorist attacks in a large city. These different datasets will be analyzed in the context of an introduction to grid computing.",
+      "Type of teaching":"Lectures ex cathedra, practical works",
+      "Form of examination":"Continuous controls. 4 practical works during the semester 50 %. Written project 25 %. Oral defence of the project 25 %.",
+      "Required prior knowledge":"Recommended but not compulsory prior programming knowledge or strong interest (e.g. Matlab, C, Javascript, VB, PHP, Java) and recommended GIS skills (Manifold, ArcGIS, MapInfo, Quantum GIS, etc.)[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Geocomputation",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149002",
+      "name":"Joost Stéphane"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex-cathedra, travaux pratiques",
+      "Contenu":"La partie théorique sera donnée dans le but de fournir des connaissances globales en Geocomputation et de présenter les différentes approches de calcul utilisées pendant les TP. Les principaux thèmes abordés seront l'étude du comportement de nuages de points en recourant aux Kernel Density Estimators (KDE), à la fonction M cumulative et au traitement parallèle de nombreux modèles d'association (régression logistique et régression géographiquement pondérée). Nous allons utiliser des jeux de données liés à différentes thématiques comme l'évaluation de la biodiversité végétale et animale, la concentration des activités de commerce de détail et industrielles, ou l'impact des attaques terroristes dans une grande ville. Ces données seront analysées sous la forme d'une introduction au GRID computing[br/]",
+      "Forme du contrôle":"Contrôle continu. Moyenne de 4 TP durant le semestre pour 50 %. Rapport de projet 25 %. Défense orale de projet 25 %.",
+      "Prérequis":"Connaissances recommandées mais non obligatoires ou grand intérêt pour  Matlab, C, Javascript, VB, PHP, Java, compétences GIS recommandées pour skills Manifold, ArcGIS, MapInfo, Quantum GIS, etc.",
+      "Objectifs d'apprentissage":"L'objectif de ce cours et de ces travaux pratiques en Geocomputation est de permettre aux étudiants d'approfondir leurs connaissances en informatique et de les utiliser pour résoudre des problèmes complexes liés à la distribution d'objets dans l'espace géographique.[br/]En effet, l'obtention de données avec composante géographique est devenue de plus en plus courante au fil du temps, grâce à l'existence de nouveaux capteurs géoréférencés par exemple. Le défi s'est donc déplacé de l'acquisition vers l'analyse d'un volume géodonnées disponibles toujours croissant. C'est pourquoi l'efficacité des outils d'analyse des géodonnées est devenue déterminante pour traiter des problèmes rencontrés en ingénierie de l'environnement naturel ou construit. Ces outils de traitement quantitatif de l'information géoréférencée ont été développés depuis la fin des années 1960, avec l'avènement de l'informatique et l'émergence de la science de l'information géographique. Cette discipline est désormais connue sous le nom de \"Geocomputation\" et se réfère à \"l'art et la science\" de résoudre des problèmes spatiaux complexes en ayant recours à l'informatique. Le domaine de la Geocomputation est nourri en partie par le développement de statistiques analytiques qui peuvent être appliquées au clustering, à la recherche et à la mesure d'associations dans l'espace et dans le temps. Le succès de ces méthodes d'analyse repose principalement sur un certain nombre d'avancées significatives en informatique. Une de ces récentes avancées est l'opportunité de recourir au High Performance Computing (HPC) pour résoudre de façon efficace et fiable des problèmes spatiaux complexes.[br/] "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Geocomputation",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

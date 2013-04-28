@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824167805&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","516"],
+    "title":"Lifecycle economic and environmental performance of product systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824167805&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Group project reports on Lifecycle Modeling and Performance Evaluation of selected cases using appropriate software. An oral exam will concern the application of the theory in the projects.",
+      "Bibliography and material":"Course documentation is distributed during the semester.",
+      "Required prior knowledge":"[li]Choose the main solutions and identify the respective components to fulfil one function, taking into account the performance, technology and price constraints, CP5[br/][li]Choose material and the relative treatments based on its use, performance and compatibility with the manufacturing process of the final product, CP13[br/][li]Illustrate the physics principles of production processes, CP16",
+      "Content":"[li]Overview of lifecycle performance challenges of product systems today[br/][li]Lifecycle characteristics of products in Beginning of Life (BOL), Middle of Life (MOL) and End of Life (EOL) phases[br/][li]Key Performance Indicators (KPI) of product systems in BOL, MOL and EOL[br/][li]Methodologies for Lifecycle Economic & Environmental Performance Evaluation of product systems [br/][li]Overview of lifecycle design & assessment  tools including LCA/LCC[br/][li]Case Studies of Lifecycle Economic & Environmental Performance Evaluation of alternative lifecycle product system configurations",
+      "Keywords":"Product Lifecycle,  LCA, LCC",
+      "Type of teaching":"The course is organised in theoretical sessions and the Lifecycle Modelling and Performance Evaluation to be realised using appropriate software in team projects.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP6[br/][li]Carry out a multi-criterion (technological, economic and environmental) analysis of the solutions, CP10[br/][br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12[br/][li]Form and motivate a team, T13[br/][li]Share knowledge and experience with peers, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lifecycle economic and environmental performance of product systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Choisir des solutions de principe et identifier les composants correspondants en termes de performances, de technologie et de coût permettant de réaliser une fonction du cahier des charges, CP5[br/][li]Choisir un matériau et les traitements en fonction de son usage, de sa performance et son adéquation au mode de fabrication du produit final, CP13[br/][li]Enoncer les principes physiques des procédés de fabrication, CP16",
+      "Bibliographie et matériel":"La documentation du cours est distribuée au cours du semestre.",
+      "Mots clés":"Cycle de vie de produit, LCA, LCC",
+      "Forme d'enseignement":"Le cours est organisé dans les sessions théoriques et la modélisation du cycle de vie et l'évaluation de la performance est réalisé à l'aide des logiciels appropriés avec des projets de l'équipe.",
+      "Contenu":"[li]Vue d'ensemble des défis liés au rendement du cycle de vie des systèmes de production d'aujourd'hui[br/][li]Les caractéristiques du cycle de vie des produits en début de vie (BOL), milieu de la vie (MOL) et de fin de vie (EOL) phases[br/][li]Indicateurs de performance clés (KPI) des systèmes de produits à Bol, MOL et EOL[br/][li]Des méthodologies de cycle de vie économique et environnementale d'évaluation du rendement des systèmes de production[br/][li]Présentation de la conception du cycle de vie et des outils d'évaluation, y compris LCA / LCC[br/][li]Études de cas de cycle de vie économique et la performance environnementale du cycle de vie des configurations alternatives des produits-systèmes",
+      "Forme du contrôle":"Rapports des projets de groupe sur la modélisation du cycle de vie et d'évaluation de la performance des cas sélectionnés à l'aide des logiciels appropriés. Un examen oral concernera l'application de la théorie dans les projets.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (conception de produit, processus de fabrication et de systèmes de production), CP1[br/][li]Poser/extraire les hypothèses de modélisation adaptées et choisir les méthodes et outils en fonction des ressources pour le traitement du problème, CP6[br/][li]Effectuer une analyse multicritères (technologiques, économiques et environnementaux) des solutions, CP10[br/][br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12[br/][li]Composer une équipe, la motiver, T13[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lifecycle economic and environmental performance of product systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

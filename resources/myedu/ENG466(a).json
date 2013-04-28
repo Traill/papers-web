@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231677206&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","466(a)"],
+    "title":"Distributed intelligent systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231677206&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://disal.epfl.ch/teaching/distributed_intelligent_systems/","http://disal.epfl.ch/teaching/distributed_intelligent_systems/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control with final written exam",
+      "Bibliography and material":"Lecture notes, selected papers and book chapters distributed at each lecture",
+      "Prerequisite for":"R&D activities in engineering",
+      "Required prior knowledge":"Fundamentals in analysis, probability and statistics, signals and systems, and programming (C and Matlab)",
+      "Content":"[li]Introduction to key concepts such as self-organization and software and hardware tools used in the course [br/][li]Examples of natural, artificial and hybrid distributed intelligent systems[br/][li]Modeling methods: sub-microscopic, microscopic, macroscopic, multi-level; spatial and non-spatial; mean field, approximated and exact approaches[br/][li]Machine-learning methods: single- and multi-agent techniques; expensive optimization problems and noise resistance[br/][li]Coordination strategies and distributed control: direct and indirect schemes; communication channels and cost; distributed sensing and action; performance evaluation",
+      "Keywords":"Artificial intelligence, distributed robotics, sensor networks, modeling, machine-learning",
+      "Type of teaching":"Ex-cathedra lecture and assisted exercises",
+      "Learning outcomes":"A number of natural and artificial systems can be considered as intrinsically distributed and consisting of nodes presenting a certain degree of intelligence. Typical examples of distributed intelligent systems include social insect colonies, flocks of vertebrates, multi-agent systems, transportation systems, multi-robot systems, and wireless sensor networks. Goals of this course: 1) to provide students with a sufficient mathematical and computational background to analyze distributed intelligent systems through appropriate models. 2) to illustrate several coordination strategies and show how to concretely implement and optimize them. The course is a well-balanced mixture of theory and laboratory exercises using simulation and real hardware platforms."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed intelligent systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://disal.epfl.ch/teaching/distributed_intelligent_systems/","http://disal.epfl.ch/teaching/distributed_intelligent_systems/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de base en analyse, probabilités et statistiques, signaux et systèmes, et programmation (C et Matlab)",
+      "Bibliographie et matériel":"Lecture notes, selected papers and book chapters distributed at each lecture",
+      "Mots clés":"Intelligence artificielle, robotique distribuée, réseaux de capteurs, modélisation, apprentissage automatique",
+      "Forme d'enseignement":"Ex-cathedra et laboratoires assistés",
+      "Contenu":"[li]Introduction aux concepts fondamentaux tels que l'auto- organisation et aux outils logiciels et matériels utilisés dans le cours [li]Exemples de syst. distr. intelligents naturels, artificiels et hybrides [li]Méthodes de modélisation : sous- microscopiques, microscopiques et macroscopiques, multi-niveaux; spatiales et non-spatiales; approches \"mean field\" approximée et exactes [li]Méthodes d'apprentissage automatique : techniques basées sur un seul ou plusieurs agents; problèmes intensifs d'optimisation et résistance au bruit [li]Stratégies de coordination et contrôle distribué : schémas directs et indirects; canaux de communication et coût; perception et action distribuées; évaluation de performance",
+      "Forme du contrôle":"Branche à examen écrit avec contrôle continu",
+      "Préparation pour":"Activités R&D en ingénierie",
+      "Objectifs d'apprentissage":"De nombreux systèmes naturels et artificiels sont intrinsèquement distribués et composés de noeuds présentant un certain degré d'intelligence. Exemples typiques de systèmes intelligents distribués: colonies d'insectes sociaux, groupes de vertébrés, systèmes multi-agents, systèmes de transport, systèmes multi-robots et réseaux de capteurs sans fil. Buts: 1) fournir une connaissance générale en mathématique et en informatique pour analyser des systèmes intelligents distribués à travers des modèles appropriés. 2) illustrer différentes stratégies de coordination et montrer comment les implémenter et les optimiser concrètement. Mélange équilibré de théorie et de travaux pratiques avec du matériel réel et en simulation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed intelligent systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

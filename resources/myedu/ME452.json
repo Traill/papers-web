@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126854434&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","452"],
+    "title":"Energy conversion",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126854434&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"At the end of the course, the student will be able to analyze from a systemic viewpoint the different energy conversion systems and to compare their respective merits. He is qualifed to hold a dialogue with his colleagues; he understands the principles of equipments and knows their main technical characteristics.[br/]",
+      "Content":"[b]Energy stakes[/b][br/]Socio-economy of energy. Energy carriers, resources and re-serves; electricity, evolution and perspectives.[br/][b]Physics and thermodynamics remembering[/b][br/]Energy and energy transformations. First and Second Principles of thermodynamics. Energy economics. [br/][b]Fossil-fuelled power plants[/b][br/]Combustion; thermodynamic cycles; gas turbine; combined cycles; engines; fuel cells. Components of a power station. [br/][b]Comparison of technologies. Operation.[/b][br/]Fuel cells and electricity storage[br/][b]Photovoltaic[/b][br/]Introduction to the main principles[br/][b]Nuclear power plants [/b][br/]Main principles and general characteristics and organization of nuclear power plants.[br/][b]Cogeneration[/b][br/]Combined heat and power production, major devices, design principles. Polygeneration.[br/][b]Heat pumps[/b][br/]Major thermodynamic cycles, refrigerants[br/][b]Renewable Energy[/b][br/]Conversion of biomass and solar energy[br/][b]Integrated urban systems[/b][br/]Introduction to the integrated energy systems vision of urban systems or industrial production sites.[br/]",
+      "Type of teaching":"ex cathedra and exercises",
+      "Form of examination":"100 % written exam (120 min) during exam session",
+      "Required prior knowledge":"Physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Energy conversion",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique",
+      "Bibliographie et matériel":"Notes de cours et slides",
+      "Forme d'enseignement":"ex cathedra + exercices",
+      "Contenu":"[b]Les enjeux énergétiques[/b][br/]Socio-économie de l'énergie. Agents énergétiques, ressources et réserves; électricité, évolution et perspectives.[br/][b]Rappels de physique et de thermodynamique[/b][br/]Énergie et transformations énergétiques. Premier et Deuxième Principes de la thermodynamique. Économie énergétique.[br/][b]Centrales thermiques de production d'électricité[/b][br/]Combustion; cycles thermiques; turbine à gaz, cycles combinés; cycles de moteurs à combustion. Composants d'une centrale.[br/][b]Principes de la conversion électrochimique[/b][br/]Piles à combustibles et le stockage électrique[br/][b]Production photovoltaïque[/b][br/]Principes de fonctionnement[br/][b]Énergie nucléaire[/b][br/]Introduction aux centrales nucléaires, principaux types de réacteurs, organisation des procédés.[br/][b]Cogénération[/b][br/]Cogénération et production décentralisée. Comparaison des technologies. Aspects d'exploitation.[br/][b]Pompes à chaleur[/b][br/]Principaux cycles et principes des pompes à chaleur[br/][b]Énergie renouvelable[/b][br/]Conversion de la biomasse et conversion de l'énergie solaire thermique.[br/][b]Réseaux de chaleur et aspects d'écologie industrielle[/b][br/]Principes de l'analyse des systèmes urbains et des systèmes[br/]intégrés.",
+      "Forme du contrôle":"100 % examen écrit (120 min) durant la session d'examen",
+      "Objectifs d'apprentissage":"À la fin du cours, l'étudiant est capable d'analyser dans une optique système les différentes filières de conversion d'énergie et d'en comparer les mérites respectifs. Il est apte à dialoguer avec ses collègues, il comprend les principes de fonctionnement des systèmes de conversion d'énergie et en connaît les caractéristiques techniques principales ainsi que leurs limites."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Energy conversion",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

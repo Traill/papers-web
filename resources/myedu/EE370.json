@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776057&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","370"],
+    "title":"Electric power systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776057&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"\"Traité d'électricité, volume XII\", lecture notes",
+      "Prerequisite for":"Power system dynamics. Power system optimisation. Power system restructuring and deregulation.",
+      "Required prior knowledge":"Introduction to electrical engineering, Power electronics ",
+      "Content":"[b]1. Design of electric generation, transmission and distribution systems[/b][br/]Grids architecture. Voltage level. Power system components and their role. System interconnection. Micro-grids and distributed generation.[br/][br/][b]2. Power systems functioning[/b][br/]Principles. Phenomena. Operation objectives. Protections. Frequency and voltage control. Decision aid modules.[br/][br/][b]3. Introduction to numerical methods in power system operation[/b][br/]Modeling. Load-flow computation. Short-circuit current evaluation. Economic dispatch. Notions of power system dynamic (stability vs. regulation).[br/]",
+      "Type of teaching":"Lecture with exercises and integrated simulation",
+      "Learning outcomes":"To understand the functioning of power and distribution systems and their operating limits. To become acquainted with analysis and operation modeling and methods. To understand the role of information technology (IT) with respect to power and distribution systems operation."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electric power systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-052-5&amp;con_lng=ENG\" target=\"blank\">Energie électrique / par Michel Aguet et Jean-Jacques Morf</a>\". Year:1990. ISBN:2-88074-052-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Électrotechnique, Électronique de puissance ",
+      "Bibliographie et matériel":"Traité d'électricité, volume XII et notes polycopiées ",
+      "Forme d'enseignement":"Cours avec exercices et simulations intégrés ",
+      "Contenu":"[b]1. Conception du système électrique de production de transport et de distribution[/b][br/]Architecture des réseaux. Niveau de tension. Les composants et leur rôle. Interconnexion des réseaux. Micro-réseau et production décentralisée.[br/][br/][b]2. Fonctionnement des réseaux électriques[/b][br/]Principes. Phénomènes. Objectifs de l'exploitation. Protections. Contrôle de fréquence et de tension. Outils d'aide à la décision. [br/][br/][b]3. Introduction aux méthodes de calcul pour l'analyse et l'exploitation des réseaux électriques[/b][br/]Modélisation. Calculs des flux de puissances. Calcul de courant de court-circuit. Dispatching économique. Notions de dynamique de réseaux (stabilité et réglage).",
+      "Forme du contrôle":"Écrit",
+      "Préparation pour":"Dynamique des réseaux. Optimisation des réseaux. Restructuration des réseaux et dérégulation.",
+      "Objectifs d'apprentissage":"Comprendre le fonctionnement des réseaux électriques de transport et de distribution et leurs limites d'utilisation. Se familiariser avec les modèles et les méthodes d'aide à l'analyse et l'exploitation. Comprendre le rôle des techniques de traitement de l'information liées à la conduite des réseaux électriques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Réseaux électriques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-052-5&amp;con_lng=FRE\" target=\"blank\">Energie électrique / par Michel Aguet et Jean-Jacques Morf</a>\". Année:1990. ISBN:2-88074-052-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

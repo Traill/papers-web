@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227318683&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","235"],
+    "title":"Design of steel structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227318683&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113159",
+      "name":"Nussbaumer Alain"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Acquisition of fundamental knowledge for the design and analysis of members in steel and steel-concrete composite construction. Essential basis for all courses and projects in structures.",
+      "Content":"[br/][li] Basis of design and materials[br/][li] Section strength : normal force, bending, shear, torsion, interaction[br/][li] Design of structural elements under bending moment (EE, EP and PP) and interaction[br/][li] Connections : bolts, welds, type and design of connections[br/][li] Compression members : linear elastic buckling, ultimate strength, compression and bending[br/][li] Trusses : design, analysis, nodes[br/][li] Steel-concrete composite construction : beam, connection, column, beam-column[br/][li] Building framing systems, stabilisation[br/][li] Stability of frames : rigid vs flexible, elastic and plastic design[br/][li] Stability of éléments : lateral-torsional buckling and plate buckling, elastic theories and ultimate strength.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design of steel structures",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-629-9&amp;con_lng=ENG\" target=\"blank\">Charpentes métalliques : conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel</a>\". Year:2005. ISBN:2-88074-629-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-646-9&amp;con_lng=ENG\" target=\"blank\">Construction métallique : notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer</a>\". Year:2006. ISBN:2-88074-646-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-702-2&amp;con_lng=ENG\" target=\"blank\">Stahlbau : Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer</a>\". Year:2007. ISBN:978-2-88074-702-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113159",
+      "name":"Nussbaumer Alain"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Structures I et II, Statique (pour GC), Mécanique des milieux continus (pour GC), Mécanique des structures I, Matériaux I et II",
+      "Bibliographie et matériel":"TGC vol. 10 et 11[br/][br/]En bibliothèque / in libraries :[br/]Construction métallique : notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer, 2011[br/]Stahlbau : Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer, 2007[br/]Charpentes métalliques : conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel, 2011",
+      "Forme d'enseignement":"Ex cathedra et audio-visuel, exercices",
+      "Contenu":"[br/][li] Principes de dimensionnement et matériaux[br/][li] Résistance en section : effort normal, flexion, effort tranchant, torsion, interaction[br/][li] Dimensionnement d'éléments fléchis (EE, EP and PP) et sous interactions d'efforts[br/][li] Moyens d'assemblages : boulons, soudures, types et conception d'assemblages[br/][li] Eléments comprimés : flambage élastique linéaire, résistance[br/]ultime, interaction d'efforts[br/][li] Poutres à treillis : conception, dimensionnement, conception des noeuds[br/][li] Construction mixte acier-béton: poutre, connexion, poteau, poteau-poutre[br/][li] Systèmes porteurs de halles et bâtiments, stabilisation[br/][li] Stabilité de cadres : rigide-souple, calcul élastique et plastique[br/][li] Stabilité d'éléments : déversement et voilement, théories élastiques et résistance ultime.",
+      "Forme du contrôle":"Exercices notés",
+      "Préparation pour":"Cours et projets de construction",
+      "Objectifs d'apprentissage":"Acquisition des connaissances nécessaires à l'analyse et au dimensionnement des éléments de construction en métal et en construction mixte acier-béton. Bases indispensables pour tous les cours et projets de construction."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures en métal",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-629-9&amp;con_lng=FRE\" target=\"blank\">Charpentes métalliques : conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel</a>\". Année:2005. ISBN:2-88074-629-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-646-9&amp;con_lng=FRE\" target=\"blank\">Construction métallique : notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer</a>\". Année:2006. ISBN:2-88074-646-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-702-2&amp;con_lng=FRE\" target=\"blank\">Stahlbau : Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer</a>\". Année:2007. ISBN:978-2-88074-702-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24092923&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","305"],
+    "title":"Software engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24092923&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://sweng.epfl.ch/","http://sweng.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172241",
+      "name":"Candea George"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Throughout semester[br/]30% homeworks + 60% exams + 10% course activity[br/]",
+      "Bibliography and material":"Code Complete: A Practical Handbook of Software Construction [br/](2nd edition) by Steve McConnell, Microsoft Press, 2004 [br/](ISBN 0735619670)",
+      "Required prior knowledge":"(CS-205) Advanced topics in programming, (CS-206) Concurrency, (CS-207) System oriented programming",
+      "Content":"Object-oriented design and reasoning[br/]Design patterns[br/]Building reliable software[br/]Performance tuning[br/]Testing and debugging[br/]Code layout and style[br/]Development processes",
+      "Type of teaching":"Ex cathedra + Project",
+      "Learning outcomes":"This course provides the foundations of becoming a good software engineer: how to think about software, how to structure software, how to modify it, and how to evaluate it.[br/]Students are encouraged to take in parallel CS-306 (Software Development Project)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Software engineering",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-235088-4&amp;con_lng=ENG\" target=\"blank\">Clean code : a handbook of agile software craftsmanship / Robert C. Martin ; [with] Michael C. Feathers ... [et al.]</a>\". Year:2008. ISBN:978-0-13-235088-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7356-1967-0&amp;con_lng=ENG\" target=\"blank\">Code complete : [a practical handbook of software construction] / Steve McConnell</a>\". Year:2004. ISBN:0-7356-1967-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-932633-39-0&amp;con_lng=ENG\" target=\"blank\">The deadline : a novel about project management / Tom DeMarco</a>\". Year:1987. ISBN:0-932633-39-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://sweng.epfl.ch/","http://sweng.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172241",
+      "name":"Candea George"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"(CS-205) Programmation avancée, (CS-206) Concurrence, (CS-207) Programmation orientée système",
+      "Bibliographie et matériel":"\"Code Complete: A Practical Handbook of Software Construction (2nd edition) by Steve McConnell, Microsoft Press, 2004 [br/](ISBN 0735619670)[br/][ available at http://my.safaribooksonline.com/book/software-engineering-and-development/0735619670 ]\"",
+      "Forme d'enseignement":"Ex-cathedra + Projet",
+      "Contenu":"Conception et raisonnement orientés objet[br/]Patrons de conception[br/]Construction de logiciels fiables[br/]Optimisation des performances[br/]Test et débogage[br/]Style de codage[br/]Processus de développement",
+      "Forme du contrôle":"Contrôle continu[br/]30% homeworks + 60% exams + 10% course activity[br/]",
+      "Objectifs d'apprentissage":"Fournit les bases pour devenir un bon ingénieur en logiciels: comment penser un logiciel, comment structurer un logiciel, le modifier, et comment l'évaluer.[br/]Les étudiants sont encouragés à suivre en parallèle CS-306 (Software Development Project)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Software engineering",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-235088-4&amp;con_lng=FRE\" target=\"blank\">Clean code : a handbook of agile software craftsmanship / Robert C. Martin ; [with] Michael C. Feathers ... [et al.]</a>\". Année:2008. ISBN:978-0-13-235088-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7356-1967-0&amp;con_lng=FRE\" target=\"blank\">Code complete : [a practical handbook of software construction] / Steve McConnell</a>\". Année:2004. ISBN:0-7356-1967-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-932633-39-0&amp;con_lng=FRE\" target=\"blank\">The deadline : a novel about project management / Tom DeMarco</a>\". Année:1987. ISBN:0-932633-39-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

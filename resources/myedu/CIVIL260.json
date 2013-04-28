@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231607947&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","260"],
+    "title":"Computer-aided engineering (for GC)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231607947&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://imac.epfl.ch/page-8081-fr.html","http://imac.epfl.ch/page-8081-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106443",
+      "name":"Smith Ian"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Better understand computing for appropriate use of computers[br/][br/]Introduce fundamental concepts that are relevant to engineering[br/][br/]Illustrate concepts using JAVA.[br/]Prepare civil engineers to work better in practice for tasks related to acquiring computer tools and team work with computer specialists[br/]",
+      "Content":"[li]\tFundamental logic and the definition of engineering tasks[br/][li]\tProgramming languages - the example of JAVA[br/][li]\tComplexity : Big O Notation, execution time, optimality[br/][li]\tData-base design, normal forms, update anomalies[br/][li]\tObject-oriented computing[br/][li]\tOptimisation and search, relation between the form of the objective function and the most appropriate method[br/][li]\tKnowledge systems for decision support[br/][li]\tCase-based reasoning[br/][li]\tMachine learning[br/][li]\tDistributed systems - the web, client-server concepts, complexity[br/][li]\tNetwork science"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computer-aided engineering (for GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-48715-5&amp;con_lng=ENG\" target=\"blank\">Fundamentals of computer-aided engineering / Benny Raphael and Ian F.C. Smith</a>\". Year:2003. ISBN:0-471-48715-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://imac.epfl.ch/page-8081-fr.html","http://imac.epfl.ch/page-8081-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106443",
+      "name":"Smith Ian"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et en salle d'ordinateur",
+      "Contenu":"[li]\tLogique fondamentale et définition des tâches de l'ingénieur[br/][li]\tLangages de programmation - l'exemple du langage JAVA[br/][li]\tLa complexité ; la notation grand O; temps d'exécution, optimalité [br/][li]\tConception des bases de données; formes normales, anomalies de mise à jour[br/][li]\tL'approche objet[br/][li]\tOptimisation et recherche ; relation entre la forme de la fonction objective et la méthode appropriée[br/][li]\tSystèmes de connaissance pour aider à la décision[br/][li]\tRaisonnement par cas[br/][li]\tApprentissage automatique[br/][li]\tSystèmes répartis - l'exemple de la toile, client-serveur, complexité[br/][li]\tLa science des réseaux",
+      "Préparation pour":"Projets, exercices des cours suivants",
+      "Bibliographie et matériel":"Raphael, B. et Smith, I.F.C. « Fundamentals of Computer-Aided Engineering », Wiley, 306p ISBN 0-471-48715-5 (collection COHEN)",
+      "Objectifs d'apprentissage":"Mieux comprendre l'informatique pour une utilisation plus adaptée[br/][br/]Introduire les concepts de l'informatique fondamentale touchant les méthodes modernes de l'ingénieur. [br/][br/]Illustrer ces concepts à travers le langage JAVA.[br/][br/]Préparer l'ingénieur civil à mieux travailler dans la pratique en ce qui concerne l'acquisition d'outils informatiques et le travail en équipe avec les informaticien(ne)s [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Informatique (pour GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-48715-5&amp;con_lng=FRE\" target=\"blank\">Fundamentals of computer-aided engineering / Benny Raphael and Ian F.C. Smith</a>\". Année:2003. ISBN:0-471-48715-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80890310&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","719"],
+    "title":"Advanced biomedical imaging methods and instrumentation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80890310&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161735",
+      "name":"Gruetter Rolf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The main goal of this course is to give the student a solid introduction into approaches, methods, and instrumentation used in biomedical research. A major focus is on Magnetic Resonance Imaging (MRI) and related methods, but other imaging modalities will be increasingly covered",
+      "Content":"Introduction (Bloch equations; Components of an MRI systems; Peamplifier, ADC;Longitudinal interference)[br/]MRI basics (Spin-warp imaging, slice selection, EPI;Fourier image reconstruction, zero-filling apodization; -space imaging strategies - what defines contrast;Gbbs ringing and other artefacts)[br/]Hardware of imaging (Gradient coils - eddy currents; Shimming: Theory of coil design, spherical harmonics; field mapping and shim methods)[br/]Localization methods for MRS (ISIS, PRESS, STEAMl;Chemical shift displacement error;Water suppression methods, fat suppression methods, dynamic range)[br/]Multinuclear MRS in an inhomogenous RF field (Localization methods (PT, DEPT, HH);Decoupling, WALTZ, adiabatic decoupling;Adiabatic RF pulses;Absolute quantification (water, external, internal))[br/]Moving magnetization (Artifact recognition - bases of artifacts; 2nd moment nulling, PC flow imaging, TOF; Triggering and synchronization)[br/]Diffusion MR(Stejskal-tanner, b value, Einstein-stokes relationship; Restricted vs. hindered diffusion; q-space imaging; DTI and fiber tracking)[br/]Perfusion imaging(Pulsed arterial spin labeling, FAIR, EPISTAR;Continuous arterial spin labeling)[br/]Magnetization transfer(MTC imaging, Solomon equations;Saturation transfer experiments)[br/]Rf coils(Theory of matching;Coil design surface coil TEM coil;Diel effects, coil loading and efficiency)[br/]Imaging sequences (STEAM, SE, FSE (CPMG), FLASH, SSFP)[br/]fMRI(BOLD effect, SE vs GE imaging;Pharmacological MRI;Biophysical basis)[br/]Modeling (Tracer kinetics;Uptake curves)",
+      "Keywords":"spin physics, MRI, RF engineering",
+      "Note":"Above program is preliminary and for the first year only. May change to include other modalities as well in future years",
+      "Required prior knowledge":"Course(s) attended, equivalent to  the teaching of \"fundamentals of biomedical imaging\" or practical exposure to the topics covered in this cours as part of the PhD for at least 6 months. In other words, the student should be familiar with the basics of the imaging methodologies covered. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced biomedical imaging methods and instrumentation",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Term paper",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161735",
+      "name":"Gruetter Rolf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced biomedical imaging methods and instrumentation",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Mémoire",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

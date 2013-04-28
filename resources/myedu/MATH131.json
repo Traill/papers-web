@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","131"],
+    "title":"Probabilities and statistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180565",
+      "name":"Panaretos Victor"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Present the fundamental concepts of probability and statistics for the engineers' needs.[br/][br/]Familiarise the student with probability calculus and the use of several simple statistical tools.",
+      "Content":"[li] Exploratory statistics (Data types; Graphical exploration of variables; numerical summaries of distributions; The boxplot; The normal distribution)[br/][li] Probability calculus (Probabilities of events; Random variables; Characteristic values; Fundamental theorems)[br/][li] Fundamental statistical concepts (Statistical models and parameter estimation; Confidence intervals; Statistical tests; Chi-square significance tests)[br/][li] Linear regression (Introduction; Least-squares principle; Simple linear regression; Multiple linear regression)",
+      "Type of teaching":"Ex cathedra lecture, exercises in classroom and to be written at home",
+      "Form of examination":"Bonus test during the semester. Written exam (165 min.) during the exam session."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilities and statistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"Probabilités et statistique pour sciences de l'environnement : destiné aux étudiants de 1ère année en Sciences et Ingénierie de l'Environnement (SIE) / notes préparées par A.C. Davison, D. Kuonen ; version modifiée par [Victor] M. Panaretos\". Year:2012</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180565",
+      "name":"Panaretos Victor"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe et à rédiger à la maison",
+      "Contenu":"[li] Statistique exploratoire (Types de données; Etude graphique de variables; Synthèses numériques de distribution; Le boxplot; La loi normale)[br/][li] Calcul des probabilités (Probabilités d'événements; Variables aléatoires; Valeurs caractéristiques; Théorèmes fondamentaux)[br/][li] Idées fondamentales de la statistique (Modèles statistiques et estimation de paramètres; Estimation par intervalle; Tests statistiques; Tests khi-deux)[br/][li] Régression linéaire (Introduction; Principe des moindres carrés; Régression linéaire simple; Régression linéaire multiple)",
+      "Forme du contrôle":"Un test bonus durant le semestre, examen écrit 165 min.durant la session d'examen",
+      "Bibliographie et matériel":"Davison A. C. & Kuonen, D. (2010). Probabilités et Statistique pour Sciences de l'Environnement.[br/]Polycopié disponible à la \"Librairie Polytechnique\" de l'EPFL. (Edition 2010 modifiée par V.M. Panaretos).",
+      "Objectifs d'apprentissage":"Présenter les concepts fondamentaux des probabilités et des statistiques nécessaires aux sciences de l'ingénieur.[br/][br/]Familiariser l'étudiant au calcul des probabilités et à l'utilisation de divers outils statistiques simples."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilités et statistique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"Probabilités et statistique pour sciences de l'environnement : destiné aux étudiants de 1ère année en Sciences et Ingénierie de l'Environnement (SIE) / notes préparées par A.C. Davison, D. Kuonen ; version modifiée par [Victor] M. Panaretos\". Année:2012</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

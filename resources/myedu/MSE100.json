@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72270661&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","100"],
+    "title":"Introduction to materials science (Spring semester)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72270661&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"MX",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106186",
+      "name":"Rappaz Michel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course of introduction, given in French, helps the students to be more familiar with the universe of materials.[br/][br/][br/][br/][br/][br/][br/]",
+      "Content":"- Presentation of the main classes of materials.[br/]- Emphasis on the key-factors of their behaviour.[br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra[br/]Exercises sessions "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to materials science (Spring semester)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-84299-286-5&amp;con_lng=ENG\" target=\"blank\">Introduction to materials science / Jean P. Mercier, Gérald Zambelli, Wilfried Kurz</a>\". Year:2002. ISBN:2-84299-286-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-402-4&amp;con_lng=ENG\" target=\"blank\">Introduction à la science des matériaux / Jean P. Mercier, Gérald Zambelli, Wilfried Kurz</a>\". Year:1999. ISBN:2-88074-402-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7506-8391-3&amp;con_lng=ENG\" target=\"blank\">Materials : engineering, science, processing and design / Michael Ashby, Hugh Shercliff, David Cebon</a>\". Year:2007. ISBN:978-0-7506-8391-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106186",
+      "name":"Rappaz Michel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra[br/]Séances d'exercices",
+      "Contenu":"Les principaux thèmes traités dans ce cours sont les suivants:[br/][br/][li][b]Historique et aperçu des différentes fonctions attendues des matériaux[/b] [br/]Les différentes classes de matériaux (métaux, céramiques, verres, polymères et élastomères) sont rapidement décrites dans leurs contextes historique et fonctionnel.[br/][br/][li][b]Aspects atomistiques et structure des matériaux[/b][br/]A partir des liaisons atomiques, nous voyons comment la matière s'organise à différents niveaux structurels : microstructure, grains, défauts.[br/][br/][li][b]Propriétés mécaniques[/b][br/]Quelles que soient les applications envisagées, les matériaux doivent posséder certaines propriétés mécaniques. Après l'introduction des notions de déformations élastique et plastique, les propriétés des matériaux telles que résistance, ductilité, ténacité, dureté, fatigue, usure sont décrites.[br/][br/][li][b]Propriétés thermiques des matériaux[/b][br/]La dilation des matériaux ainsi que leurs propriétés thermiques telles que conductibilité thermique, chaleur spécifique et chaleur latente de transformation sont présentées. [br/][br/][li][b]Diagrammes de phases et transformations des matériaux[/b][br/]Les matériaux évoluent au cours de leur élaboration et de leur utilisation. La notion d'équilibre thermodynamique, les aspects cinétiques de leurs transformations sont passés en revue. [br/][br/][li][b]Propriétés électriques, magnétiques et optiques[/b][br/]Dans de nombreuses applications, les propriétés fonctionnelles des matériaux, dernier sujet traité dans ce cours, sont essentielles pour la microélectronique, la microtechnique, l'horlogerie, l'ingénierie  biomédicale, etc. [br/]",
+      "Bibliographie et matériel":"Introduction à la science des matériaux: [br/]J.-P. Mercier, G. Zambelli, W. Kurz, PPUR, Lausanne, 3ème édition, 1999[br/]Materials : Engineering science, processing and design[br/]M. Ashby, H. Shercliff, D. Cebon[br/]Butterworth-Elsevier, 2007",
+      "Objectifs d'apprentissage":"La plupart des applications ou des développements technologiques sont limités par les matériaux. Entre la chimie qui regarde les atomes/molécules et la physique qui considère leurs arrangements réguliers dans des cristaux, la science des matériaux étudie la matière dans son ensemble, de l'atome à l'échelle macroscopique, afin d'en déduire des propriétés utiles pour l'ingénieur. Le but de ce cours est de donner aux étudiants de la Faculté Science et Technique de l'Ingénieur un aperçu de ce vaste domaine, en les familiarisant avec la structure et les propriétés des diverses classes de matériaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à la science des matériaux (sem. printemps)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-84299-286-5&amp;con_lng=FRE\" target=\"blank\">Introduction to materials science / Jean P. Mercier, Gérald Zambelli, Wilfried Kurz</a>\". Année:2002. ISBN:2-84299-286-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-402-4&amp;con_lng=FRE\" target=\"blank\">Introduction à la science des matériaux / Jean P. Mercier, Gérald Zambelli, Wilfried Kurz</a>\". Année:1999. ISBN:2-88074-402-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7506-8391-3&amp;con_lng=FRE\" target=\"blank\">Materials : engineering, science, processing and design / Michael Ashby, Hugh Shercliff, David Cebon</a>\". Année:2007. ISBN:978-0-7506-8391-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

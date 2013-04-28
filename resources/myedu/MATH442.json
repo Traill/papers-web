@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47980922&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","442"],
+    "title":"Statistical theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47980922&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180565",
+      "name":"Panaretos Victor"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course aims to develop certain key aspects of the theory of statistics, providing a common general framework for statistical methodology. While the main emphasis will be on the mathematical aspects of statistics, an effort will be made to balance rigor and relevance to statistical practice.[br/]",
+      "Content":"[li] Stochastic convergence and its use in statistics: modes of convergence, weak law of large numbers, central limit theorem[br/][li] Formalization of a statistical problem : parameters, models, parametrizations, sufficiency, ancillarity, completeness [br/][li] Point estimation: methods of estimation, the plug-in principle, influence curves, relative efficiency[br/][li] Likelihood theory: the likelihood principle, asymptotic properties, misspecification of models, the Bayesian perspective[br/][li] Optimality: decision theory, minimum variance unbiased estimation, Cramér-Rao lower bound, efficiency[br/][li] Testing and Confidence Regions: Neyman-Pearson setup, likelihood ratio tests, UMP tests, duality with confidence intervals, confidence regions, large sample theory, goodness-of-fit testing[br/][br/]",
+      "Type of teaching":"Ex cathedra lecture, exercises in classroom and homework",
+      "Form of examination":"Continued control, written exam",
+      "Required prior knowledge":"Real Analysis, Linear Algebra, Probability, Statistics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58488-178-X&amp;con_lng=ENG\" target=\"blank\">Mathematical statistics / Keith Knight</a>\". Year:2000. ISBN:1-58488-178-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180565",
+      "name":"Panaretos Victor"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse réelle, Algèbre linéaire, Probabilités, Statistique",
+      "Bibliographie et matériel":"Knight, K. (2000). Mathematical Statistics. Chapman & Hall.[br/]Documents d'appoints distribués pendant le cours.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe et à rédiger à la maison",
+      "Contenu":"[li] Convergence stochastique et son utilisation en statistique : types de convergence, loi faible des grands nombres, théorème central limite[br/][li] Formalisation d'un problème statistique : paramètres, modèles, paramétrisation, statistiques exhaustives, auxiliaires et complètes[br/][li] Estimation ponctuelle : méthodes d'estimation, principe du \"plug in\", courbes d'influence, efficacité relative[br/][li] Théorie de la vraisemblance : principe de la vraisemblance, propriétés asymptotiques, mauvaise spécification de modèles, perspective baysienne[br/][li] Optimalité : théorie de la décision, estimation non-biaisée de variance minimum, borne inférieure de Cramér-Rao, efficacité[br/][li] Tests et régions de confiance : lemme de Neymann-Pearson, tests du rapport de vraisemblances, tests UMP, théorie des grands échantillons, test d'adéquation",
+      "Forme du contrôle":"Contrôle continu, examen écrit",
+      "Objectifs d'apprentissage":"Le cours a pour but de développer certains aspects clefs de la théorie de la statistique en procurant un cadre général de la méthodologie statistique. L'accent sera mis sur les aspects mathématiques de la statistique et un effort sera fait pour trouver le juste milieu entre rigueur et correspondance aux pratiques statistiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58488-178-X&amp;con_lng=FRE\" target=\"blank\">Mathematical statistics / Keith Knight</a>\". Année:2000. ISBN:1-58488-178-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

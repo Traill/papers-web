@@ -1,0 +1,103 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965520401&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","731"],
+    "title":"Magnetic confinement",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965520401&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104815",
+      "name":"Cooper Wilfred Anthony"
+    },{
+      "url":"http://people.epfl.ch/105078",
+      "name":"Fasoli Ambrogio"
+    },{
+      "url":"http://people.epfl.ch/105910",
+      "name":"Moret Jean-Marc"
+    },{
+      "url":"http://people.epfl.ch/106126",
+      "name":"Pochelon Antoine"
+    },{
+      "url":"http://people.epfl.ch/176621",
+      "name":"Ricci Paolo"
+    },{
+      "url":"http://people.epfl.ch/106355",
+      "name":"Sauter Olivier"
+    },{
+      "url":"http://people.epfl.ch/153200",
+      "name":"Testa Duccio"
+    },{
+      "url":"http://people.epfl.ch/106568",
+      "name":"Tran Minh Quang"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course provides an overview of the fundamentals of magnetic confinement of plasmas for fusion. The different magnetic confinement configurations are presented, with a description of their operating regimes. [br/]The basic elements of particle and energy transport are introduced. Finally, the plasma heating techniques are addressed.[br/]The course aims at providing both an experimental and a theoretical approach to the subjects. The introductory plasma physics courses are a pre-requisite.[br/]",
+      "Content":"The course will consist of three parts:[br/]- an overview of the different magnetic confinement configurations (tokamaks, stellarator, RFPs, ...) and of the operating regimes (L mode, H mode, ...), with an introduction to the plasma-wall interaction (5 lectures);[br/]- introduction to particle and energy transport in magnetic confinement devices (classical, neoclassical, and turbulent transport) (6 lectures); [br/]- basic principles of plasma heating and current drive, including heating due to fusion-generated alpha particles (3 lectures). [br/]",
+      "Required prior knowledge":"Basic plasma physics courses"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Magnetic confinement",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104815",
+      "name":"Cooper Wilfred Anthony"
+    },{
+      "url":"http://people.epfl.ch/105078",
+      "name":"Fasoli Ambrogio"
+    },{
+      "url":"http://people.epfl.ch/105910",
+      "name":"Moret Jean-Marc"
+    },{
+      "url":"http://people.epfl.ch/106126",
+      "name":"Pochelon Antoine"
+    },{
+      "url":"http://people.epfl.ch/176621",
+      "name":"Ricci Paolo"
+    },{
+      "url":"http://people.epfl.ch/106355",
+      "name":"Sauter Olivier"
+    },{
+      "url":"http://people.epfl.ch/153200",
+      "name":"Testa Duccio"
+    },{
+      "url":"http://people.epfl.ch/106568",
+      "name":"Tran Minh Quang"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Magnetic confinement",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  }
+}

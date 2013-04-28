@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","150"],
+    "title":"Numerical analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://iacs.epfl.ch/asn/teaching.html","http://iacs.epfl.ch/asn/teaching.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106096",
+      "name":"Picasso Marco"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Several mathematical problems arising from engineering applications will be solved numerically.",
+      "Content":"Polynomial interpolation.[br/]Numerical quadrature.[br/]Direct and iterative methods for solving linear systems.[br/]Linear and non linear systems.[br/]Differential equations and systems.[br/]Finite difference and finite element methods for elliptic, parabolic and hyperbolic partial differential equations.[br/][br/]",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom and exercises of programming",
+      "Required prior knowledge":"Analysis, Linear algebra, Programming"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Numerical analysis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-363-X&amp;con_lng=ENG\" target=\"blank\">Introduction à l'analyse numérique / Jacques Rappaz, Marco Picasso</a>\". Year:2004. ISBN:2-88074-363-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://iacs.epfl.ch/asn/teaching.html","http://iacs.epfl.ch/asn/teaching.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106096",
+      "name":"Picasso Marco"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle et exercices de programmation[br/]",
+      "Contenu":"Interpolation polynomiale.[br/]Intégration et différentiation numériques.[br/]Méthodes directes pour la résolution de systèmes linéaires.[br/]Equations et systèmes d'équations non linéaires.[br/]Equations et systèmes différentiels.[br/]Différences finies.[br/]Eléments finis.[br/]Approximation des problèmes elliptiques, paraboliques, hyperboliques, ainsi que de convection-diffusion.",
+      "Prérequis":"Analyse, algèbre linéaire, programmation[br/]Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"Livre \"Introduction à l'Analyse Numérique\", J. Rappaz, M. Picasso, PPUR 1998.",
+      "Objectifs d'apprentissage":"L'étudiant apprendra à résoudre numériquement divers problèmes mathématiques susceptibles de se poser aux ingénieurs."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse numérique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-363-X&amp;con_lng=FRE\" target=\"blank\">Introduction à l'analyse numérique / Jacques Rappaz, Marco Picasso</a>\". Année:2004. ISBN:2-88074-363-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

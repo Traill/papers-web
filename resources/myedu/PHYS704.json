@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136714727&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","704"],
+    "title":"Introduction to QCD and collider phenomenology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136714727&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182248",
+      "name":"Frixione Stefano"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The LHC collider will study particle physics at energies much larger than those probed so far at accelerator facilities. This will likely lead to exciting discoveries of beyond-the-standard-model physics. The road to such discoveries is, however, far from being trivial. [br/]A necessary condition in almost all scenarios is a fairly good understanding of Quantum Chromo Dynamics (QCD) which, apart from being interesting in itself, is the dominant source of background to signals of new physics.[br/]The aim of this course is twofold. First, after an introduction to the basic concepts of QCD, I shall illustrate several approaches to the computation of hard reaction cross  sections. Second, these approaches will be applied to cases of interests for LHC phenomenology.[br/]",
+      "Content":"- Quantum Chromo Dynamics (QCD) as the theory of strong interactions: [br/]  theoretical and experimental motivations.[br/]- Peculiarities of QCD as a Quantum Field Theory[br/]- The Lagrangian of QCD and its properties (among which, asymptotic freedom)[br/]- Colour algebra[br/]- Approaches to the computations of hard reactions in high-energy collisions[br/]- Altarelli-Parisi equations and PDFs[br/]- Fixed-order computations[br/]- Resummations[br/]- Event Generators (Monte Carlos)[br/]- Applications to phenomenology: vector boson, top pair, Higgs production[br/]",
+      "Required prior knowledge":"Undergraduate courses on Quantum Field Theory"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to QCD and collider phenomenology",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182248",
+      "name":"Frixione Stefano"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to QCD and collider phenomenology",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352056029&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","310"],
+    "title":"Deformation and fracture of materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352056029&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112836",
+      "name":"Mortensen Andreas"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course aims to give the student a basic understanding of the mechanical behaviour of solid materials and of underlying microstructural phenomena.[br/][br/]  [br/][br/]",
+      "Content":"- The tensile test, elastic and plastic deformation, fragile and ductile fracture.[br/]- Dislocations and twinning: definition, mechanical and crystallographic characteristics.[br/]- Work hardening: phenomenology and mechanisms, metal forming.[br/]- Mechanics and mechanisms for elastic and elastoplastic fracture.[br/]- Characterization of fracture toughness, toughening mechanisms.[br/]- Fatigue: characterization, and fatigue fracture.[br/]- Deformation at high temperatures: experimental characterization, phenomenology and theory.[br/]- Damage and rupture at high temperature.[br/][br/][br/]",
+      "Type of teaching":"Ex-cathedra with discussions and homework",
+      "Form of examination":"Continuous assessment and oral exam",
+      "Required prior knowledge":"Continuum mechanics, Cristallography or equivalents"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Deformation and fracture of materials",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112836",
+      "name":"Mortensen Andreas"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra avec discussions et devoirs",
+      "Contenu":"- L'essai de traction, déformation élastique, déformation plastique, rupture fragile et ductile.[br/]- Les dislocations et le maclage: définition, caractéristiques mécaniques et cristallographiques.[br/]- L'écrouissage, les mécanismes de durcissement et le formage des métaux.[br/]- La mécanique et les mécanismes de rupture élastique et élastoplastique. Caractérisation de la ténacité, mécanismes d'augmentation de la ténacité.[br/]- La fatigue, sa mesure, et la rupture en fatigue.[br/]- La déformation à chaud: caractérisation expérimentale, phénoménologie, théorie.[br/]- Endommagement, rupture et durée de vie à température élevée.[br/]",
+      "Forme du contrôle":"Contrôle continu et examen oral",
+      "Prérequis":"Milieux continus, Cristallographie ou équivalents",
+      "Objectifs d'apprentissage":"Ce cours cherche à donner à l'étudiant une connaissance de base du comportement mécanique des matériaux solides, et des phénomènes qui le régissent à l'échelle de la microstructure.  [br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Déformation et rupture des matériaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

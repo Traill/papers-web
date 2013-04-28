@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352072600&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIOENG","390"],
+    "title":"Project in bioengineering and biosciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352072600&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To provide students with a practical experience of doing researches in life sciences, from planning experiment to troubles shooting.[br/]Proactivity to identify, to contact, and to convince a supervisor is an integral part of the learning process.",
+      "Content":"[b]Projects in Bioengineering[/b][br/]Students receive an introduction to the drafting of projects and the writing of scientific reports. Then, projects are done by groups of 3-5 students. Each group chooses a subject and works on it under the mentoring of a professor or an experienced EPFL collaborator. Students address both scientific and non scientific issues related to the project. Non technical issues include the marketing of new products or devices, the intellectual property, the respect of national and international regulations,... Bench work is usually not part of such projects.[br/][br/][br/][b]Projects in Biosciences[/b][br/]These projects can take many different forms, depending on the selected subject. Some projects include bench work, some do not. Projects with little or no bench work are more oriented toward data analysis. [br/]Projects can be done in any area related to life sciences (including signal analysis, Imaging, biostatistics, bioinformatics,... provided students find a supervisor willing to take the responability for the project.[br/]Interested students themselves find a supervisor with whom they define both the project content and the modalities of the final evalualtion. The mode of evaluation must be clearly defined before the project begins.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in bioengineering and biosciences",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[b]Projets en bioingénierie[/b][br/]Les étudiants reçoivent une introduction sur comment rédiger un projet de recherche et un rapport scientifique. Ensuite, les projets sont réalisés par groupes de 3-5  étudiants. Chaque groupe choisit un sujet et y travaille sous la supervision d'un professeur ou d'un collaborateur expérimenté de l'EPFL. Les étudiant travaillent aussi bien sur les aspects techniques que les aspects non techniques du projet. Les problèmes non techniques sont, par exemple, le marketing d'un nouveau produit ou d'un nouvel appareil médical, la propriété intellectuelle, les normes nationales et internationales en vigueur, etc. Du travail à la paillasse n'entre généralement pas dans ce type de projet.[br/][br/][b]Projets en biosciences[/b][br/]Ces projets peuvent prendre des formes très variées selon le sujet traité. Certains projets impliquent du travail à la paillasse, d'autre non. Ces derniers sont plutôt orientés vers l'analyse de données.[br/]Les projets peuvent être dans tous les domaines ayant un rapport avec les sciences de la vie (le traitement du signal, l'imagerie, la biostatistique, la bioinformatique, etc. inclus) pour autant que les étudiants trouvent un superviseur EPFL acceptant la responsabilité de leur projet.[br/]Les étudiant intéressés contactent eux-mêmes un superviseur avec qui ils définissent avant le début du projet le contenu du projet et le mode d'évaluation de leur travail. ",
+      "Objectifs d'apprentissage":"Permettre aux étudiants de découvrir concrètement tout ce qu'implique la conduite d'une recherche, de la planification des expériences à la résolution des problèmes techniques.[br/]Choisir, contacter, convaincre un superviseur est une partie du processus d'apprentissage."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in bioengineering and biosciences",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

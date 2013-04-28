@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399798173&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","752"],
+    "title":"Topics in geometric analysis II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399798173&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://wiki.epfl.ch/grtr","http://wiki.epfl.ch/grtr"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To lay some foundations in modern geometric analysis.",
+      "Content":"Geometric Analysis, which was traditionally  dealing with smooth Riemannian manifolds has been developed over the last two decades to the context of non Riemannian metric spaces which may be quite irregular. This development has revitalized the subject of metric geometry which faded away after 1940. The goal of this course is to introduce the student to the basic notion of analysis on metric (measure)  spaces, quasiconformal mappings, potential theory on metric spaces, etc. The subjects covered will vary each year.",
+      "Keywords":"geometry, analysis",
+      "Required prior knowledge":"Basic culture in geometry, smooth manifolds, tensors, measure theory and functional analysis."
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Topics in geometric analysis II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://wiki.epfl.ch/grtr","http://wiki.epfl.ch/grtr"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Geometric Analysis, which was traditionally  dealing with smooth Riemannian manifolds has been developed over the last two decades to the context of non Riemannian metric spaces which may be quite irregular. This development has revitalized the subject of metric geometry which faded away after 1940. The goal of this course is to introduce the student to the basic notion of analysis on metric (measure)  spaces, quasiconformal mappings, potential theory on metric spaces, etc. The subjects covered will vary each year.",
+      "Mots clés":"geometry, analysis",
+      "Prérequis":"Basic culture in geometry, smooth manifolds, tensors, measure theory and functional analysis.",
+      "Objectifs d'apprentissage":"To lay some foundations in modern geometric analysis."
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Topics in geometric analysis II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

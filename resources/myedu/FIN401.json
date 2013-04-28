@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80395102&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","401"],
+    "title":"Introduction to finance  (only for IF students)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80395102&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192818",
+      "name":"Fahlenbrach Rüdiger"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"This course is only open to students enrolled in the Financial Engineering Master",
+      "Form of examination":"35% Homework[br/]25% Midterm exam[br/]40% Final exam[br/][br/]Homework is open book. Final exam is closed-book.",
+      "Bibliography and material":"Berk and DeMarzo, Corporate Finance, Pearson, 2007.",
+      "Prerequisite for":"Advanced derivatives[br/]Advanced topics in financial econometrics[br/]Credit risk[br/]Derivatives[br/]Design of market-based solutions to allocation problems[br/]Financial econometrics[br/]Fixed income analysis[br/]Investments[br/]Real options and financial structuring[br/]Venture capital",
+      "Content":"1. Introduction to finance[br/]2. Arbitrage, discounting, and the term structure of interest rates [br/]3. Introduction to the valuation of bonds and stocks[br/]4. Risk and return[br/]5. Capital Budgeting[br/]6. Capital Structure Decisions[br/]7. Financial derivatives[br/]8. Option Valuation",
+      "Keywords":"Corporate Finance, Valuation, Arbitrage Pricing, Option Pricing Theory, Risk Management",
+      "Type of teaching":"Lectures, homework, exercises",
+      "Learning outcomes":"To introduce students to financial valuation and value enhancement through financial decision making."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to finance  (only for IF students)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-56440-5&amp;con_lng=ENG\" target=\"blank\">Corporate finance : the core / Jonathan Berk, Peter DeMarzo</a>\". Year:2009. ISBN:978-0-321-56440-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192818",
+      "name":"Fahlenbrach Rüdiger"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Ce cours est exclusivement réservé aux étudiants inscrits au master en Ingénierie Financière",
+      "Bibliographie et matériel":"Berk and DeMarzo, Corporate Finance, Pearson, 2007.",
+      "Mots clés":"Finance d'entreprise, évaluation d'actifs, évaluation par arbitrage, analyse des produits dérivés, gestion des risques",
+      "Forme d'enseignement":"Cours, devoirs, exercices",
+      "Contenu":"1. Introduction à la finance[br/]2. Arbitrage, actualisation, et structure par terme des taux d'intérêt[br/]3. Introduction à l'évaluation des actions et obligations[br/]4. L'évaluation du risque sur les marchés financiers[br/]5. Décisions d'investissement[br/]6. Décisions de financement[br/]7. Introduction aux produits dérivés[br/]8. Evaluation des options",
+      "Forme du contrôle":"35% Devoirs[br/]25% Examen intermédiaire[br/]40% Examen final[br/][br/]Les devoirs sont à livre ouvert. Les examens sont à livre fermé.",
+      "Préparation pour":"Advanced derivatives[br/]Advanced topics in financial econometrics[br/]Credit risk[br/]Derivatives[br/]Design of market-based solutions to allocation problems[br/]Financial econometrics[br/]Fixed income analysis[br/]Investments[br/]Real options and financial structuring[br/]Venture capital ",
+      "Objectifs d'apprentissage":"Initier les étudiants à l'évaluation financière et à l'accroissement de valeur par le biais des décisions financières."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to finance  (only for IF students)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-56440-5&amp;con_lng=FRE\" target=\"blank\">Corporate finance : the core / Jonathan Berk, Peter DeMarzo</a>\". Année:2009. ISBN:978-0-321-56440-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

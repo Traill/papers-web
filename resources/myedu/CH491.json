@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71883318&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","491"],
+    "title":"Project in molecular sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71883318&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":12,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will be able to complete a short independant research project in molecular sciences. ",
+      "Content":"Learn to work in a research environment et to complete an own project. [br/]",
+      "Note":"The student selects un research domain within the chemistry Laboratories of the Institute of chemical sciences and engineering (ISIC).[br/]He/her is encouraged to contact our professors to get a large information about possibilities available in our Laboratories.[br/]Before the beggining of the semester, the student informs the secretary of the Section of Chemistry and Chemical Engineering."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in molecular sciences",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":16,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":12,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"L'étudiant choisit un domaine de recherche parmi les Laboratoires de chimie qui figurent sur le site de l'Institut des sciences et ingénierie chimique (ISIC). [br/]Il peut librement contacter le professeur responsable pour connaître les possibilités offertes par le Laboratoire.[br/]Avant le début du semestre, il informe le secrétariat de la Section de chimie et de génie chimique de son choix.",
+      "Contenu":"Apprendre à travailler dans un environnement de recherches et à mener à bien son propre projet. ",
+      "Objectifs d'apprentissage":"L'étudiant sera capable de réaliser un projet court et indépendant dans les domaines des sciences moléculaires. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in molecular sciences",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":16,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

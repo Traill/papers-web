@@ -1,0 +1,61 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354374746&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","491"],
+    "title":"EDA TP",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354374746&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This hands-on lab session (practical lab work / Travaux Pratiques - TP) is an integral component of VLSI design education, and it should be taken in the same semester (concurrently) with the course VLSI deisgn I and Hardware systems modeling I. In this practical lab session, the students will follow exercises in full-custom mask layout design, RTL / semi-custom design and automatic placement & routing, using state-of-the-art EDA (Electronic Design Automation) tools."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"EDA TP",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Objectifs d'apprentissage":"This hands-on lab session (practical lab work / Travaux Pratiques - TP) is an integral component of VLSI design education, and it should be taken in the same semester (concurrently) with the course VLSI deisgn I and Hardware systems modeling I. In this practical lab session, the students will follow exercises in full-custom mask layout design, RTL / semi-custom design and automatic placement & routing, using state-of-the-art EDA (Electronic Design Automation) tools."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"EDA TP",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

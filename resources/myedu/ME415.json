@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1567044774&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","415"],
+    "title":"Methods for rapid production and development",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1567044774&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104571",
+      "name":"Boillat Eric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral and student project",
+      "Bibliography and material":"Kalpakjian , Manufacturing Engineering and Technology, Addison Wesley",
+      "Content":"The course will describe the technico-economical environment[br/]of industry, that has led to the need for an improvement of performances.[br/]The methods and techniques allowing a reduction[br/]of the design, prototyping and industrialization phases will be[br/]presented. We will then concentrate on the presentation of a[br/]particular method known as selective laser sintering (SLS). We[br/]will discuss its principles and its main limitations. We will then[br/]study the selective laser sintering process under two different[br/]aspects. At first, it will be used as an example to illustrate[br/]how it is possible to produce a part with a generative process[br/]directly from a CAD file. We will introduce different notions[br/]like CLI and SLI-files as well as filling strategies. Finally, we[br/]will study the fundamental physical phenomena involved in the[br/]SLS process.[br/]The last point to be discussed will be the laser theory (wave[br/]length, power, intensity, beam radius, pulse length, repetition[br/]rate...). The laser is actually the energy source preferably used[br/]in the most efficient rapid manufacturing techniques.[br/]In conclusion and after attending this course, the student will[br/]- understand the rapidity and flexibility requirements related[br/]to the design and production of a product,[br/]- know the main rapid prototyping and rapid manufacturing[br/]techniques,[br/]- have a deep knowledge of a specific rapid tooling technique[br/]called selective laser sintering.",
+      "Keywords":"Production processes, prototyping methods, rapid production[br/]methods, additive processes.",
+      "Type of teaching":"Ex cathedra with examples",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Choose production tools and methods based on performance and cost requirements and needs, taking into consideration applicability limits and associated hypotheses, CP11[br/][li]Choose material and the relative treatments based on its use, performance and compatibility with the manufacturing process of the final product, CP13[br/][li]Illustrate the physics principles of production processes, CP16[br/][li]Illustrate the features and limits of production processes, CP17[br/][b]Transversal skills:[/b][br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Methods for rapid production and development",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-981-06-8144-9&amp;con_lng=ENG\" target=\"blank\">Manufacturing engineering and technology</a>\". Year:2010. ISBN:978-981-06-8144-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104571",
+      "name":"Boillat Eric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Kalpakjian , Manufacturing Engineering and Technology, Addison Wesley",
+      "Mots clés":"Procédés de production, méthodes de prototypage, méthodes[br/]de production rapides, procédés additifs.",
+      "Forme d'enseignement":"Ex cathedra avec exemples concrets",
+      "Contenu":"Le cours présentera d'abord l'environnement technico-économique des entreprises qui motive le développement des technologies de production rapide. Les méthodes principales permettant d'accélérer les phases de conception, de prototypage et d'industrialisation seront ensuite présentées. On se concentrera enfin sur la présentation d'une méthode particulière, appelée frittage sélectif par laser (SLS). On discutera ses principes ainsi que ses limitations actuelles. On étudiera ensuite le processus de frittage sélectif sous deux aspects. Tout d'abord, il servira d'exemple pour exposer la faon avec laquelle il est possible de passer d'une description CAD d'objet à sa réalisation pratique par une technologie générative. Cela nous permettra d'introduire des notions importantes comme les fichiers CLI et SLI ainsi que la détermination des stratégies de remplissage. Dans un second temps, on approfondira les phénomènes physiques fondamentaux qui interviennent dans le processus SLS.[br/]Le dernier point traité dans le cours sera la théorie du laser (longueur d'onde, puissance, intensité, rayon focal, longueur des pulses, taux de répétition...). Le laser est en effet la source d'énergie privilégiée intervenant dans les procédés de prototypage et de développement rapide les plus évolués.[br/]En résumé et après avoir suivi le cours, l'étudiant devra[br/]- comprendre les aspects de rapidité et de flexibilité au niveau[br/]de la conception et de la production d'un produit.[br/]- connaître les principales techniques de prototypage et de fabrication[br/]rapides.[br/]- posséder une connaissance plus approfondie d'une technique[br/]de fabrication rapide appelé frittage sélectif par laser.",
+      "Forme du contrôle":"Oral et mini-projet étudiant",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodes et des outils de production en fonction des attentes et des exigences de performances et de coût en tenant comptes des limites d'application et les hypothèses associées, CP11[br/][li]Choisir un matériau et les traitements en fonction de son usage, de sa performance et son adéquation au mode de fabrication du produit final, CP13[br/][li]Enoncer les principes physiques des procédés de fabrication, CP16[br/][li]Enoncer les caractéristiques et les limites des procédés de fabrication, CP17[br/][b]Compétences transversales:[/b][br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Methods for rapid production and development",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-981-06-8144-9&amp;con_lng=FRE\" target=\"blank\">Manufacturing engineering and technology</a>\". Année:2010. ISBN:978-981-06-8144-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=852569763&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","557"],
+    "title":"Decision-aid methodologies in transportation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=852569763&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Decision-aid methodologies in transportation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-02217-6&amp;con_lng=ENG\" target=\"blank\">Discrete choice analysis : theory and application to travel demand / Moshe E. Ben-Akiva, Steven R.Lerman</a>\". Year:1997. ISBN:0-262-02217-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Recherche opérationnelle",
+      "Bibliographie et matériel":"Ben-Akiva & Lerman (1985) Discrete Choice Analysis, MIT Press.",
+      "Forme d'enseignement":"Ex cathedra + computer-based practical works",
+      "Contenu":"The course will be divided into modules associated to concrete case studies. Each module will contain four parts:[br/][br/]1.\tPresentation of the problem, outline of the process, analysis of major difficulties[br/]2.\tIntroduction to methodological and software tools[br/]3.\tSolution of a concrete problem by the lecturer, using real data.[br/]4.\tSolution of similar problems by the students, using also real data.[br/][br/][br/]The list of modules will evolve depending on data availability, and recent projects performed in our laboratory. At this point, the proposed modules are. [br/][br/][b]Demand forecasting[/b][br/]1. Transportation demand: discrete choice models[br/]2. Modal split forecasting, price optimization, value of time.[br/]3. Software package: BIOGEME (biogeme.epfl.ch)[br/]4. Case study : modal splits.[br/][br/][b]Planning of air transportation[/b][br/]1. Problems of airlines[br/]2. Scheduling of flights, aircrafts and crews[br/]3. Tool: Schedule Planner, APM Technologies[br/]4. Case study : Thomas Cook",
+      "Préparation pour":"Projet de master",
+      "Objectifs d'apprentissage":"Practical approach of complex transportation problems using modeling tools."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Decision-aid methodologies in transportation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-02217-6&amp;con_lng=FRE\" target=\"blank\">Discrete choice analysis : theory and application to travel demand / Moshe E. Ben-Akiva, Steven R.Lerman</a>\". Année:1997. ISBN:0-262-02217-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

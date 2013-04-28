@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774232&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","166"],
+    "title":"Basic software and internet tools",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774232&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enacit1.epfl.ch/faq-salles-SSIE/","http://enacit1.epfl.ch/faq-salles-SSIE/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105843",
+      "name":"Meylan David"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Form of examination":"Optional course. No exam.",
+      "Bibliography and material":"Lecture and exercises notes (printed and on Web)",
+      "Prerequisite for":"Information technology for engineer, Communication for engineer, Programmation",
+      "Content":"[b]IT facilities of EPFL and ENAC-SIE[/b][br/][li]\"Students\" facilities, SIE classrooms, Poseidon: Gaspar, storage and printers (quotas, accessing from laptops), removable media storage (USB keys, CD/DVD), mobility (\"yellow plugs\", WiFi, VPN/WAP)[br/][li]software overview: Poseidon standard software, specialized software, access to application servers (ssh/scp, X11, WinTerminal), those software you can install on your machine (packages servers)[br/][b]Teleinformatics, Internet, security[/b][br/][li]EPFL groupware: portals, Email (lists), documents and calendars sharing (my.EPFL), personal page (\"People\"), blogs/wikis[br/][li]Internet: targeting a Web search, documentary resources (Wikipedia...), forums (News), rules of behavior (\"netiquette\", plagiarism)[br/][li]IT security: threats (virus, holes, spyware, phishing, rootkits...) and protection measures (anti-virus, spam-filter, firewall, passwords, backup, patches, use of robust and well configured applications...)[br/][b]Documents and presentations (OpenOffice.org Writer, Math, Gallery  and Impress)[/b][br/][li]styles, listes, tables, graphics and equations, images, page setup, page headers/footers, titles, table of content, captions, references, footnotes, index, equations, fontwork, PDF[br/][li]slideshows[br/][b]Processing, visualization and data management (OpenOffice.org Calc)[/b][br/][li]data processing: series, arrays, dates and time, cross tables, macros...[br/][li]data visualization: 2D, 3D and combined charts[br/][br/][br/][br/][br/][br/][br/][br/]",
+      "Type of teaching":"Exercises in computer classrooms and on laptops",
+      "Learning outcomes":"Familiarization with IT facilities of EPFL and ENAC-SIE. Deepening knowledge on basic software (elaboration of documents and presentations, spreadsheet/charts,...) with emphasis on open source software."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Basic software and internet tools",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enacit1.epfl.ch/faq-salles-SSIE/","http://enacit1.epfl.ch/faq-salles-SSIE/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105843",
+      "name":"Meylan David"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Bibliographie et matériel":"Support de cours et d'exercices (polycopiés et Web)",
+      "Forme d'enseignement":"Exercices pratiques dans salles d'ordinateurs et sur laptops",
+      "Contenu":"[b]Environnement informatique EPFL et ENAC-SIE[/b][br/][li]environnement \"Students\", salles SIE, Poseidon: Gaspar, stockage et imprimantes (quotas, accès à partir de laptops), supports amovibles (clés USB, CD/DVD), mobilité (\"prises jaunes\", WiFi, VPN/WAP)[br/][li]panorama des applications: offre standard Poseidon, logiciels-métier SIE, accès à serveurs d'application (ssh/scp, X11, WinTerminal), ce que vous pouvez installer sur votre machine (serveurs de paquetages)[br/][b]Téléinformatique, Internet, sécurité informatique[/b][br/][li]outils collaboratifs EPFL: portails Web, Email (listes), partage de documents et de calendriers (my.EPFL), page personnelle (\"People\"), blogs/wikis.[br/][li]Internet: bien cibler une recherche, ressources documentaires (Wikipedia...), forums (News), règles de comportement (\"netiquette\", plagiat)[br/][li]sécurité informatique: menaces (virus, failles, logiciels espions, hameçonage, rootkits...) et mesures de protection (anti-virus, filtrage spam, pare-feu; mots de passe, sauvegardes, patches, usage d'applications robustes et bien configurées...)[br/][b]Documents et présentations (OpenOffice.org Writer, Math, Gallery et Impress)[/b][br/][li]styles, listes, tableaux, figures et équations, images, pagination, en-têtes/pieds de page, titres de chapitres, table des matières, légendes, renvois, notes, index, formules, fontwork, PDF[br/][li]présentation assistée par ordinateur[br/][b]Traitement, visualisation et gestion de données (OpenOffice.org Calc)[/b][br/][li]traitement de données: séries, matrices, dates et heures, tableaux croisés, macros...[br/][li]visualisation de données: graphiques 2D, 3D, combinés...[br/][br/]",
+      "Forme du contrôle":"Cours facultatif. Aucun examen.",
+      "Préparation pour":"Informatique pour l'ingénieur, Communication pour l'ingénieur, Programmation",
+      "Objectifs d'apprentissage":"Familiarisation avec l'environnement informatique EPFL et ENAC-SIE. Approfondissement des connaissances sur les applications de base (élaboration de documents et de présentations, tableur/grapheur, SGBD) avec un accent sur le logiciel libre."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Instruments informatiques",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

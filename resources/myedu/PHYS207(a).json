@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775462&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","207(a)"],
+    "title":"General physics IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775462&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125942",
+      "name":"Dietler Giovanni"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Give the student the basic notions in physics that will allow him to have a better understanding of the physical effects he/she is bound to encounter during his professional life. The student should be able to use the appropriate tools to estimate the consequences of the different effects with the appropriate theoretical tools.",
+      "Content":"[b]Quantum physics, and quantum mechanics:[/b][br/]Introduction to the basics of quantum mechanics. Basics of atomic physics, introduction to solid state physics.[br/][br/][b]Molecular physics:[/b][br/]Physical properties of molecules, interactions between molecules and macromolecules.[br/][br/][b]Introduction to nuclear physics:[/b][br/]Atomic nucleus, radioactivity, fission, fusion, principles of nuclear magnetic resonance.[br/]",
+      "Type of teaching":"Ex cathedra with demonstrations and exercises supervised",
+      "Required prior knowledge":"General Physics I, II and III"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-191336-3&amp;con_lng=ENG\" target=\"blank\">Mathematics for physics with Calculus / Biman Das</a>\". Year:2005. ISBN:978-0-13-191336-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-1794-4&amp;con_lng=ENG\" target=\"blank\">Physique generale: solutions et corrige des problemes / Giancoli</a>\". Year:1993. ISBN:2-8041-1794-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125942",
+      "name":"Dietler Giovanni"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec nombreuses expériences de cours et exercices dirigés",
+      "Contenu":"[b]Physique quantique et physique atomique :[/b][br/]Introduction aux quantas et à la mécanique quantique, rudiments de physique des solides et de physique atomique.[br/][br/][b]Physique moléculaire:[/b][br/]Propriétés physiques des molécules, interactions entre molécules et macromolécules.[br/][br/][b]Introduction à la physique nucléaire :[/b][br/]Noyau atomique, radioactivité, fission, fusion, principes de la résonance magnétique nucléaire.",
+      "Prérequis":"Physique générale I, II et III",
+      "Bibliographie et matériel":"Giancoli, Physique générale, Ed. de Boeck[br/]Biman Das, Mathematics for physics with calculus, Pearson Prentice Hall 2005 ISBN 0-13-19336-6",
+      "Objectifs d'apprentissage":"Donner à l'étudiant les notions de base nécessaires à la compréhension des phénomènes physiques qu'il rencontrera dans sa vie professionnelle. Il sera capable de prévoir quantitativement les conséquences de ces phénomènes avec les outils théoriques appropriés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-191336-3&amp;con_lng=FRE\" target=\"blank\">Mathematics for physics with Calculus / Biman Das</a>\". Année:2005. ISBN:978-0-13-191336-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-1794-4&amp;con_lng=FRE\" target=\"blank\">Physique generale: solutions et corrige des problemes / Giancoli</a>\". Année:1993. ISBN:2-8041-1794-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

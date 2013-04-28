@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354383074&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","350"],
+    "title":"Introduction to the finite elements method",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354383074&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118377",
+      "name":"Quarteroni Alfio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the numerical study of elliptic boundary value problems as well as of linear parabolic and hyperbolic problems, discretized by the finite element method.",
+      "Content":"- Examples of elliptic, parabolic and hyperbolic problems[br/]- Weak formulation [br/]- Finite element approximation[br/]- Stability and convergence analysis for elliptic problems[br/]- Discretization by finite differences in time and finite elements in space of time-dependent problems [br/]- Temporal stability analysis[br/]",
+      "Type of teaching":"Ex cathedra lecture and exercises in classroom",
+      "Form of examination":"Oral exam",
+      "Required prior knowledge":"Analysis I and II, Numerical Analysis"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to the finite elements method",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-85267-4&amp;con_lng=ENG\" target=\"blank\">Numerical approximation of partial differential equations / Alfio Quarteroni, Alberto Valli</a>\". Year:2008. ISBN:978-3-540-85267-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1070-3&amp;con_lng=ENG\" target=\"blank\">Numerical models for differential problems / Alfio Quarteroni</a>\". Year:2009. ISBN:978-88-470-1070-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118377",
+      "name":"Quarteroni Alfio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Analyse numérique",
+      "Bibliographie et matériel":"A. Quarteroni et A. Valli : « Numerical Approximation of Partial Differential Equations », Springer-Verlag, Berlin, 1994.[br/]A. Quarteroni : Numerical Models for Differential Problems, Springer 2009, ISBN 978-88-470-1070-3.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe",
+      "Contenu":"- Exemples de problèmes elliptiques, paraboliques et hyperboliques[br/]- Formulation faible[br/]- Approximation par éléments finis[br/]- Analyse de stabilité et convergence dans le cas des problèmes elliptiques[br/]- Discrétisation par différences finies en temps et éléments finis en espace des problèmes évolutifs[br/]- Analyse de stabilité temporelle",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Présenter une introduction à l'étude numérique des problèmes aux limites elliptiques et aux problèmes linéaires paraboliques et hyperboliques par la méthode des éléments finis."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to the finite elements method",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-85267-4&amp;con_lng=FRE\" target=\"blank\">Numerical approximation of partial differential equations / Alfio Quarteroni, Alberto Valli</a>\". Année:2008. ISBN:978-3-540-85267-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1070-3&amp;con_lng=FRE\" target=\"blank\">Numerical models for differential problems / Alfio Quarteroni</a>\". Année:2009. ISBN:978-88-470-1070-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

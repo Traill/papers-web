@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24346316&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","225"],
+    "title":"Topology II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24346316&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Students will learn certain advanced notions in general topology related to metric spaces and to homotopy theory.  This course should serve both as a source of tools for analysis and geometry and as a foundation for courses in algebraic topology and algebraic geometry.[br/]",
+      "Content":"[li] Separation axioms[br/][li] Complete metric spaces and function spaces[br/][li] Homotopy and the fundamental group",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Prerequisite for":"Advanced courses in analysis, geometry and topology",
+      "Required prior knowledge":"1st year courses"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Topology II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-40680-6&amp;con_lng=ENG\" target=\"blank\">Introduction to topology / Theodore W. Gamelin and Robert Everist Greene</a>\". Year:1999. ISBN:0-486-40680-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-13-036647-3&amp;con_lng=ENG\" target=\"blank\">Topologie generale / Jacques Dixmier</a>\". Year:1981. ISBN:2-13-036647-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-1025-X&amp;con_lng=ENG\" target=\"blank\">Topologie: cours et problemes / Seymour Lipschutz ; trad. par M. Lobenberg</a>\". Year:1995. ISBN:2-7042-1025-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-181629-2&amp;con_lng=ENG\" target=\"blank\">Topology / James R. Munkres</a>\". Year:2000. ISBN:0-13-181629-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de 1ère année",
+      "Bibliographie et matériel":"[b]Topology[/b], Second Edition, par James R. Munkres, Prentice Hall 2000.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[li] Notions de séparabilité[br/][li] Espaces métriques complets et espaces fonctionnels[br/][li] Homotopie et le groupe fondamental",
+      "Préparation pour":"Cours avancés d'analyse, de géométrie et de topologie",
+      "Objectifs d'apprentissage":"L'étudiant apprendra des notions plus avancées de topologie générale, surtout liées aux espaces métriques et à l'homotopie. Ce cours doit servir aussi bien de source d'outils pour l'analyse et la géométrie, que de base pour des cours de topologie algébrique et de géométrie algébrique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Topologie II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-40680-6&amp;con_lng=FRE\" target=\"blank\">Introduction to topology / Theodore W. Gamelin and Robert Everist Greene</a>\". Année:1999. ISBN:0-486-40680-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-13-036647-3&amp;con_lng=FRE\" target=\"blank\">Topologie generale / Jacques Dixmier</a>\". Année:1981. ISBN:2-13-036647-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-1025-X&amp;con_lng=FRE\" target=\"blank\">Topologie: cours et problemes / Seymour Lipschutz ; trad. par M. Lobenberg</a>\". Année:1995. ISBN:2-7042-1025-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-181629-2&amp;con_lng=FRE\" target=\"blank\">Topology / James R. Munkres</a>\". Année:2000. ISBN:0-13-181629-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

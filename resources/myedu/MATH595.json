@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355561756&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","595"],
+    "title":"Engineering internship (master in computational sciences and engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355561756&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Engineering internship (master in computational sciences and engineering",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Veuillez contacter la coordinatrice des stages pour la procédure à suivre pour la recherche de votre stage.[br/][br/]Au cas où le projet de master est fait en entreprise, le stage d'ingénieur peut être remplacé par un troisième projet de semestre."
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Stage d'ingénieur (master en  Sciences et ingénierie computationnelles)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

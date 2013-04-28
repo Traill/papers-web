@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771568&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","613"],
+    "title":"Principles of powder and densification processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771568&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    },{
+      "url":"http://people.epfl.ch/112836",
+      "name":"Mortensen Andreas"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course presents the fundamentals underlying materials processes whereby dense solids or components are produced from powder, with focus on ceramic and metallic materials and their composites.",
+      "Content":"Main elements of the course are listed (and will be presented) as follows :[br/][br/]1.[][]Powder synthesis: main processes and a few of their fundamentals [br/][br/]2.[][]Powder characterization principles: descriptive parameters and characteristics of engineering powders[br/][br/]3.[][]Principal densification processes: nature and basic features[br/][br/]4.[][]Solid state densification mechanisms: underlying atomistic and microstructural phenomena[br/][br/]5.[][]Grain growth and microstructural development[br/][br/]6.[][]Macroscopic solid state densification theory[br/][br/]7.[][]Liquid phase sintering",
+      "Keywords":"Powder synthesis, powder characterization, principal densification, microstructural development, liquid phase sintering",
+      "Required prior knowledge":"Prerequisites for the course include a knowledge of thermodynamics, kinetics and transport phenomena (including diffusion), and of the physics of deformation, as relevant to materials science and engineering."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of powder and densification processing",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    },{
+      "url":"http://people.epfl.ch/112836",
+      "name":"Mortensen Andreas"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Main elements of the course are listed (and will be presented) as follows :[br/][br/]1. Powder synthesis: main processes and a few of their fundamentals [br/][br/]2. Powder characterization principles: descriptive parameters and characteristics of engineering powders[br/][br/]3. Principal densification processes: nature and basic features[br/][br/]4. Solid state densification mechanisms: underlying atomistic and microstructural phenomena[br/][br/]5. Grain growth and microstructural development[br/][br/]6. Macroscopic solid state densification theory[br/][br/]7. Liquid phase sintering",
+      "Mots clés":"Powder synthesis, powder characterization, principal densification, microstructural development, liquid phase sintering",
+      "Prérequis":"Prerequisites for the course include a knowledge of thermodynamics, kinetics and transport phenomena (including diffusion), and of the physics of deformation, as relevant to materials science and engineering.",
+      "Objectifs d'apprentissage":"This course presents the fundamentals underlying materials processes whereby dense solids or components are produced from powder, with focus on ceramic and metallic materials and their composites."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of powder and densification processing",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47994028&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","511"],
+    "title":"Image processing I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47994028&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/imageprocessing.html","http://bigwww.epfl.ch/teaching/courses/imageprocessing.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the basic techniques of image processing. Introduction to image processing software development and prototyping in JAVA; application to real-world examples in industrial vision and biomedical imaging.",
+      "Content":"[br/][li]Introduction. Image processing versus image analysis. Applications. System components.[br/][li]Characterization of continuous images. Image classes. 2D Fourier transform. Shift-invariant systems.[br/][li]Image acquisition. Sampling theory. Acquisition systems. Histogram and simple statistics. Linear and Max-Lloyd Quantization. [br/][li]Characterization of discrete images and linear filtering.  z-transform. Convolution. Separability. FIR and IIR filters.[br/][li]Image processing operations. Point operators (thresholding, histogram modification). Spatial operators (smoothing, enhancement, non-linear filtering). Morphological operators.[br/][li]Introduction to image analysis and computer vision. Segmentation, edge detection,  objet detection, image comparison."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image processing I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/imageprocessing.html","http://bigwww.epfl.ch/teaching/courses/imageprocessing.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Signaux et systèmes I, II",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Forme d'enseignement":"Cours ex cathedra, exercices et travaux pratiques sur ordinateur",
+      "Contenu":"[br/][li]Introduction. Traitement et analyse d'images. Applications. Éléments d'un système de traitement.[br/][li]Caractérisation des images de type continu. Classe d'images. Transformée de Fourier 2D. Systèmes invariants par translation.[br/][li]Acquisition d'images. Théorie d'échantillonnage. Systèmes d'acquisition. Histogramme et statistiques simples. Quantification linéraire et Max-Lloyd.[br/][li]Caractérisation des images discrètes et filtrage linéaire. Transformée en z. Convolution. Séparabilité. Filtrage RIF et RII.[br/][li]Opérations de traitement d'images. Opérateurs ponctuels (seuillage, modification d'histogramme). Opérateurs spatiaux (lissage, rehaussement, filtrage non-linéaire). Opérateurs morphologiques simples.[br/][li]Introduction à l'analyse d'image et à la vision par ordinateur. Segmentation, détection de contours, détection d'objets, comparaison d'images",
+      "Forme du contrôle":"Contrôle continu (exercces + laboratoires), examen écrit",
+      "Préparation pour":"Traitement d'images II + projets",
+      "Objectifs d'apprentissage":"Introduction aux techniques de base du traitement d'images. Initiation au développement en JAVA et à la mise en oeuvre d'algorithmes de traitement d'images; application à des exemples concrets en vision industrielle et en imagerie biomédicale."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image processing I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

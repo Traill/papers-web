@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775437&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","106(b)"],
+    "title":"General physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775437&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176621",
+      "name":"Ricci Paolo"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam at the end of the course. For others tests, you will be informed at the beginning of the semester",
+      "Prerequisite for":"General physics III",
+      "Required prior knowledge":"General physics I",
+      "Content":"The course may contain, but not exclusively, the following elements : [br/][][br/][br/][b]Mechanics[/b][br/][b]Dynamics of a system of point masses and solides[/b][br/]Center of mass, angular momentum, energy, rigid body, gyroscopic effects.[br/][b]Change of reference frame[/b][br/]Galiliean invariance, dynamics in non-inertial reference frames.[br/][b]Special relativity[/b][br/]Lorentz transformations, relativistic momentum and energy.[br/][b]Supplementary material[/b][br/]Analytical mechanics[br/][][br/][b]Thermodynamics[/b] [br/][b]Equilibrium[/b][br/]Pressure, temperature, internal energy.[br/][b]Energy exchanges[/b][br/]Work and heat. First principle.[br/][b]Entropy[/b][br/]Second principle. Cycles,(Carnot). Efficiency.[br/][b]Supplementary material according to sections[/b][br/]Thermodynamic potentials, statistical interpretation of the 2nd principle, irreversible processes, heat conduction, bodily diffusion, phase transitions.[br/][br/]",
+      "Type of teaching":"ex cathedra + supervised exercises",
+      "Learning outcomes":"Give the student the basic notions that will allow him or her to have a better understanding of physical phenomena. Acquire the capacity to analyse quantitatively the consequences of these effects with appropriate theoretical tools."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4875-7&amp;con_lng=ENG\" target=\"blank\">Physics for scientists and engineers : with modern, physics / John W. Jewett, Raymond A. Serway</a>\". Year:2010. ISBN:978-1-4390-4875-7</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176621",
+      "name":"Ricci Paolo"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale I",
+      "Bibliographie et matériel":"R.A. Serway and J.W. Jewett \"Physics for scientists and Engineers with Modern Physics\", Brookes/Cole",
+      "Forme d'enseignement":"Cours + exercices en salle",
+      "Contenu":"L'enseignement peut contenir, mais pas exclusivement, les éléments suivants :\t[br/][br/][b]Mécanique[/b] [br/][b]Dynamique des systèmes [/b][br/]Centre de masse. Moment cinétique. Energie. Solide rigide. Effets gyroscopiques. [br/][b]Changements de référentiels[/b] [br/]Invariance galiléenne. Dynamique dans les référentiels non inertiels.[br/][b]Relativité restreinte[/b] [br/]Transformation de Lorentz. Quantité de mouvement et énergie relativistes.[br/][b]Compléments [/b][br/]Mécanique analytique[br/][br/][b]Thermodynamique[/b] [br/][b]Equilibre[/b] [br/]Pression, température, énergie interne.[br/][b]Echanges d'énergie[/b] [br/]Travail et chaleur. Premier principe.[br/][b]Entropie[/b] [br/]2ème principe. Cycles (Carnot). Rendement.[br/][b]Compléments[/b] (selon sections)[br/]Potentiels thermodynamiques. Interprétation statistique du 2ème  principe. Processus irréversibles, conduction de la chaleur et diffusion de la matière. Transitions de phase.[br/]",
+      "Forme du contrôle":"Le cours se conclut par un examen écrit. Toute autre forme de contrôle sera spécifiée par l'enseignant au début du cours",
+      "Préparation pour":"Physique générale III",
+      "Objectifs d'apprentissage":"Donner à l'étudiant les notions de base nécessaires à la compréhension des phénomènes physiques. Etre capable de prévoir quantitativement les conséquences de ces phénomènes avec des outils théoriques appropriés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4875-7&amp;con_lng=FRE\" target=\"blank\">Physics for scientists and engineers : with modern, physics / John W. Jewett, Raymond A. Serway</a>\". Année:2010. ISBN:978-1-4390-4875-7</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1619822259&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","630"],
+    "title":"CCMX Summer School \"Multiscale Modelling of Materials\"",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1619822259&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["www.ccmx.ch/news/news-single/article/152/31/","www.ccmx.ch/news/news-single/article/152/31/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The purpose of this course is to provide an overview of the different modelling techniques available to materials scientists and engineers, along with the basics to create such models. Each morning session will cover materials modelling fundamentals, while the afternoon presentations will demonstrate applications of these techniques to various materials problems.",
+      "Content":"- Ab initio modelling (N. Marzari EPFL)  [br/]- Molecular dynamics (P.Derlet PSI)  [br/]- Phase field modelling  (J. Dantzig UIUC)[br/]- Phase field crystal (M. Plapp CNRS)  [br/]- Monte Carlo and Cellular Automata (Ch. -A Gandin CNRS ) [br/]- Granular models (Ch. Martin CNRS) [br/]- Thermo-mechanics and residual stresses (J.-M Drezet EPFL)[br/]- Multi-scale modelling of fracture (W. Curtin EPFL)  [br/]- Modelling fragmentation and continuum damage (M. Chambart Stucky) [br/]- Multi-scale modelling of polymers flow (M. Laso Uni. Madrid)[br/]- Various presentations by participants on atomistic modelling, on meso-scale modelling and,on multi-scale modelling[br/]      [br/]",
+      "Keywords":"multiscale modelling, ab-initio, molecular dynamics, phase field, granular models",
+      "Required prior knowledge":"Materials scientits, physicists, mechanical engineers or chemists"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"CCMX Summer School \"Multiscale Modelling of Materials\"",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":17
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["www.ccmx.ch/news/news-single/article/152/31/","www.ccmx.ch/news/news-single/article/152/31/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"- Ab initio modelling (N. Marzari EPFL)  [br/]- Molecular dynamics (P.Derlet PSI)  [br/]- Phase field modelling  (J. Dantzig UIUC)[br/]- Phase field crystal (M. Plapp CNRS)  [br/]- Monte Carlo and Cellular Automata (Ch. -A Gandin CNRS ) [br/]- Granular models (Ch. Martin CNRS) [br/]- Thermo-mechanics and residual stresses (J.-M Drezet EPFL)[br/]- Multi-scale modelling of fracture (W. Curtin EPFL)  [br/]- Modelling fragmentation and continuum damage (M. Chambart Stucky) [br/]- Multi-scale modelling of polymers flow (M. Laso Uni. Madrid)[br/]- Various presentations by participants on atomistic modelling, on meso-scale modelling and,on multi-scale modelling[br/]      [br/]",
+      "Mots clés":"multiscale modelling, ab-initio, molecular dynamics, phase field, granular models",
+      "Prérequis":"Materials scientits, physicists, mechanical engineers or chemists",
+      "Objectifs d'apprentissage":"The purpose of this course is to provide an overview of the different modelling techniques available to materials scientists and engineers, along with the basics to create such models. Each morning session will cover materials modelling fundamentals, while the afternoon presentations will demonstrate applications of these techniques to various materials problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"CCMX Summer School \"Multiscale Modelling of Materials\"",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":17
+    }
+  }
+}

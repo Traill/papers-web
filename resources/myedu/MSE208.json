@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774577&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","208"],
+    "title":"Materials for microengineering II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774577&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    },{
+      "url":"http://people.epfl.ch/122028",
+      "name":"Rossoll Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Knowledge of process-structure-property relationships in plastics, composites and ceramics. Study of production and processing techniques for these materials. Discussion of the resulting properties and the selection of materials for the development of structures and components for applications in microtechnology.[br/]Knowledge on functional properties of ceramic materials[br/]",
+      "Content":"[b]Polymers and composites (cont)[/b][br/]Polymer engineering and applications[br/]Adhesive bonding, welding and fastening of polymer materials[br/]Introduction to composite materials[br/]Materials and process selection [br/][br/][b]Metals and alloys[/b][br/]Phase transformations[br/]Heat treatments[br/]Structure-property relation[br/]Important alloys[br/]Materials testing, characteristic values[br/]Deformation and hardening mechanisms[br/]The influence of temperature on the material properties[br/]Alloys based on Al,Cu,Fe,Sn,Ni,Mg,Ti, shape memory alloys, intermetallics[br/]Corrosion/oxidation and surface treatments[br/]Shaping, connecting and assembling techniques[br/]",
+      "Type of teaching":"Ex cathedra ",
+      "Form of examination":"Materials for microengineering I & II :[br/]3 written exams during both semesters (ceramics, polymers and metals).[br/]Final grade : (ceramics grade + polymers grade + metals grade) / 3",
+      "Required prior knowledge":"Materials for microtechnology I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Materials for microengineering II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    },{
+      "url":"http://people.epfl.ch/122028",
+      "name":"Rossoll Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Matériaux Microtechnique I",
+      "Bibliographie et matériel":"Documents distribués",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Matériaux Polymères et Composites (suite)[/b][br/]Ingénierie et applications des polymères[br/]Collage, assemblage et soudage des polymères[br/]Introduction aux matériaux composites[br/]Sélection des matériaux et procédés[br/][br/][b]Métaux et alliages[/b][br/]Transformations des phases[br/]Traitements thermiques[br/]Relation structure - propriétés[br/]Les alliages courants[br/]Essais des matériaux, valeurs caractéristiques[br/]La déformation, les mécanismes de durcissement[br/]L'influence de la température sur les propriétés d'un matériau[br/]Les alliages à la base d'Al,Cu,Fe,Sn,Ni,Mg,Ti, les alliages à mémoire de forme, les intermétalliques[br/]Corrosion/oxydation et les traitements de surface[br/]Technique de mise en forme, de connexion et d'assemblage[br/]",
+      "Forme du contrôle":"Matériaux microtechniques I et II :[br/]3 examens écrits durant les 2 semestres (sur céramiques, polymères[br/]et métaux).[br/]Note finale = (note céramiques + note polymères + note métaux) / 3",
+      "Objectifs d'apprentissage":"Connaissance des relations mise en oeuvre-structure-propriétés des plastiques, composites et des céramiques. Etude des méthodes d'élaboration et de mise en oeuvre de ces matériaux. Mise en évidence de leurs propriétés pour guider le choix des matériaux dans le développement de composants et de structures de la microtechnique.[br/]Connaissance des propriétés fonctionnelles des céramiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Matériaux microtechniques II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

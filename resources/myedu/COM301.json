@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4151162&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["COM","301"],
+    "title":"Network security",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4151162&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107463",
+      "name":"Oechslin Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To understand the threats which computer networks are exposed to and to know how to protect a network using appropriate technical and organisational measures.",
+      "Content":"[b]Threats :[/b][br/]- Spam, phishing, virus, Trojans, denial of service, exploitation of vulnerabilities[br/][br/][b]Protection :[/b][br/]- Firewalls, proxys, virus protection, intrusion detection[br/][br/][b]Protocols and applications :[/b][br/]- Secure e-mail (PGP, S/MIME)[br/]- PPTP, L2TP, IPSec, HTTPS, SSL/TLS, SSH[br/][br/][b]Organizational aspects :[/b][br/]- Risk analysis and security policies[br/]- Norms and standards[br/][br/][b]Regulatory aspects : [/b][br/]- Laws governing information systems",
+      "Type of teaching":"Ex cathedra and exercises in room",
+      "Bibliography and material":"Avoine, Junod, Oechslin : \"Sécurité Informatique, cours et exercices corrigés, 2ème éd., Vuibert\""
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Network security",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-14-8&amp;con_lng=ENG\" target=\"blank\">Computer system security : basic concepts and solved exercises / Gildas Avoine, Pascal Junod and Philippe Oechslin</a>\". Year:2007. ISBN:978-2-940222-14-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7117-4860-0&amp;con_lng=ENG\" target=\"blank\">Sécurité informatique : cours et exercices corrigés / Gildas Avoine, Pascal Junod, Philippe Oechslin</a>\". Year:2010. ISBN:978-2-7117-4860-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107463",
+      "name":"Oechslin Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices en salle",
+      "Contenu":"[b]Menaces :[/b][br/]- Spam, phishing, virus, chevaux de Troie, dénis de service, exploitation de failles.[br/][br/][b]Mesures de protection :[/b][br/]- Firewalls, proxys, anti-virus, détection d'intrusion[br/][br/][b]Protocoles et applications :[/b][br/]- Messageries sécurisés (PGP, S/MIME)[br/]- PPTP, L2TP, IPSec, HTTPS, SSL/TLS, SSH[br/][br/][b]Aspects organisationnels :[/b][br/]- Analyse de risques et politique de sécurité[br/]- Normes et standards[br/][br/][b]Aspects réglementaire : [/b][br/]- Droit concernant les systèmes d'information",
+      "Bibliographie et matériel":"Avoine, Junod, Oechslin : \"Sécurité Informatique, cours et exercices corrigés, 2ème éd., Vuibert\"",
+      "Objectifs d'apprentissage":"Comprendre les menaces présentes dans les réseaux informatiques et savoir comment protéger un réseau par des moyens techniques et organisationnels."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sécurité des réseaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-14-8&amp;con_lng=FRE\" target=\"blank\">Computer system security : basic concepts and solved exercises / Gildas Avoine, Pascal Junod and Philippe Oechslin</a>\". Année:2007. ISBN:978-2-940222-14-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7117-4860-0&amp;con_lng=FRE\" target=\"blank\">Sécurité informatique : cours et exercices corrigés / Gildas Avoine, Pascal Junod, Philippe Oechslin</a>\". Année:2010. ISBN:978-2-7117-4860-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

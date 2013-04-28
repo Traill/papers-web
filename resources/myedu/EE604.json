@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241560337&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","604"],
+    "title":"Estimation Theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241560337&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139973",
+      "name":"Karimi Alireza"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Estimation theory is widely used in many branches of science and engineering and there exists a rich collection of estimation methods and algorithms from which to choose. The objective of this course is to describe many of the important estimation methods and to show how they are interrelated. Because of the importance of digital technology, estimation is presented from a discrete-time viewpoint. Moreover, recursive algorithms, the most important one being the Kalman filter, are covered in depth. Applications are drawn from various fields, such as control, signal processing, and communications. ",
+      "Content":"- Classical estimation[br/][li] Minimum Variance Unbiased Estimator (MVU)[br/][li] Cramer-Rao Lower Bound (CRLB)[br/][li] Best Linear Unbiased Estimator (BLUE)[br/][li] Maximum Likelihood Estimator (MLE)[br/][li] Least Squares Estimator (LSE)[br/][br/]- Bayesian estimation[br/][li] Minimum Mean Square Error Estimator (MMSE)[br/][li] Maximum A Posteriori Estimator (MAP)[br/][li] Linear MMSE Estimator[br/][li] Kalman Filter",
+      "Keywords":"[br/]",
+      "Note":"Reference: Fundamentals of statistical signal processing - Estimation Theory. By Steven. M. Kay"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Estimation Theory",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139973",
+      "name":"Karimi Alireza"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Reference: Fundamentals of statistical signal processing - Estimation Theory. By Steven. M. Kay",
+      "Contenu":"- Classical estimation[br/][li] Minimum Variance Unbiased Estimator (MVU)[br/][li] Cramer-Rao Lower Bound (CRLB)[br/][li] Best Linear Unbiased Estimator (BLUE)[br/][li] Maximum Likelihood Estimator (MLE)[br/][li] Least Squares Estimator (LSE)[br/][br/]- Bayesian estimation[br/][li] Minimum Mean Square Error Estimator (MMSE)[br/][li] Maximum A Posteriori Estimator (MAP)[br/][li] Linear MMSE Estimator[br/][li] Kalman Filter",
+      "Objectifs d'apprentissage":"Estimation theory is widely used in many branches of science and engineering and there exists a rich collection of estimation methods and algorithms from which to choose. The objective of this course is to describe many of the important estimation methods and to show how they are interrelated. Because of the importance of digital technology, estimation is presented from a discrete-time viewpoint. Moreover, recursive algorithms, the most important one being the Kalman filter, are covered in depth. Applications are drawn from various fields, such as control, signal processing, and communications. "
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Estimation Theory",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

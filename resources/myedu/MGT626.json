@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597630205&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","626"],
+    "title":"Concepts in operations, economics and strategy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597630205&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216550",
+      "name":"Weber Thomas Alois"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Introduce PhD students to fundamental economic principles, with applications in operations and strategy. The focus is on model-based analysis that lays the foundation for quantitative research.",
+      "Type of teaching":"Once a week",
+      "Form of examination":"Written exam + project report",
+      "Required prior knowledge":"no"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Concepts in operations, economics and strategy",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216550",
+      "name":"Weber Thomas Alois"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Forme d'enseignement":"Once a week",
+      "Forme du contrôle":"Written exam + project report",
+      "Prérequis":"no",
+      "Objectifs d'apprentissage":"Introduce PhD students to fundamental economic principles, with applications in operations and strategy. The focus is on model-based analysis that lays the foundation for quantitative research."
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Concepts in operations, economics and strategy",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

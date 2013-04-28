@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129852945&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","435"],
+    "title":"Catalytic asymmetric reactions in organic chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129852945&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181574",
+      "name":"Waser Jérôme"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Underdstanding of principles of catalysis in organic synthesis. Knowledge of recent developments in the area and applications for the synthesis of chiral building blocks. Ability to understand and assay the quality or research articles in the area.[br/]",
+      "Content":"Principles and Methods of Catalysis:[br/]1. Asymmetric activation of electrophils with Lewis and Bronsted acids.[br/]2. Asymmetric activation of nucleophiles with metal-and organo-catalysts.[br/]3. Dual activation with acid-base, metal-base, metal-metal and single metal systems.[br/]4. Umpolung of reactivity."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Catalytic asymmetric reactions in organic chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181574",
+      "name":"Waser Jérôme"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Connaissances générales des réactions organiques. Connaissances de bases en chimie organo-métallique. Le cours \"Synthèse asymétrique\" facilite l'accès à ce cours, mais n'est pas absolument nécessaire.",
+      "Bibliographie et matériel":"Présentation power-point du cours en pdf. La présentation contiendra les réactions discutées durant le cours sans explications détaillées. Les étudiants recevront la présentation à l'avance et pourront la compléter durant le cours.",
+      "Forme d'enseignement":"Cours ex cathedra et présentations par les étudiants",
+      "Contenu":"Principes et méthodes de catalyse:[br/]1. Activation asymétrique des électrophiles avec des acides de Lewis et de Bronsted.[br/]2. Activation asymétrique des nucléophiles avec des catalyseurs métalliques ou organiques.[br/]3. Activation bifonctionnelle avec des systèmes acide-base, métal-base, métal-métal et métal unique.[br/]4. Inversion de la réactivité. ",
+      "Forme du contrôle":"Examen oral de 20 minutes avec 20 minutes de préparation. Bonus possible pour les présentations durant le cours (20% de la note finale).",
+      "Objectifs d'apprentissage":"Compréhension des principes de base de la catalyse en synthèse organique. Connaissances des développements récents dans le domaine et des applications pour la synthèse de fonctionnalités chirales. Capacité de comprendre et de juger de la qualité des articles de recherche dans le domaine."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Catalytic asymmetric reactions in organic chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

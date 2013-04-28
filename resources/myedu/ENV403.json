@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44989122&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","403"],
+    "title":"Environmental phytotechnology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44989122&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106401",
+      "name":"Schwitzguebel Jean-Paul"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Knowing the basic mechanisms and the latest developments on phytotechnologies.[br/]The use of green plants for the remediation of polluted sites and water, the improvement of food safety and the development of renewable energy sources contribute to sustainable land use and environmental management.[br/]",
+      "Content":"[br/][li]Uptake and translocation of organic pollutants and metals[br/][li]Plant metabolism of organic pollutants[br/][li]Use of plants to treat water and sites contaminated by toxic metals and organic pollutants[br/][li]Advantages and limitations of phytoremediation[br/][li]Food quality and safety[br/][li]Green plants as a source of renewable energy (biogas, bioethanol, biodiesel oil, etc.)[br/][li]Case studies",
+      "Type of teaching":"Lectures, case studies",
+      "Prerequisite for":"Specialization in environmental chemistry and bioprocesses[br/]Summer work experience[br/]ENAC and SIE projacts[br/]Practical master work",
+      "Form of examination":"33,3 % continuous control during the semester (projet)[br/]66,7 % written test (120 min) during the exam session"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Environmental phytotechnology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106401",
+      "name":"Schwitzguebel Jean-Paul"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Notes de cours polycopiées et publications (en anglais)",
+      "Forme d'enseignement":"Cours ex cathedra, études de cas",
+      "Contenu":"[li]Capture et transfert des polluants organiques et des métaux [br/][li]Métabolisme des polluants dans les plantes[br/][li]Utilisation des plantes pour traiter des eaux et des sites contaminés par des métaux toxiques et des polluants organiques[br/][li]Avantages et limites de la phytoremédiation[br/][li]Qualité et sécurité alimentaires[br/][li]Les plantes comme source d'énergie renouvelable (biogaz, bioéthanol, biodiesel, etc.)[br/][li]Études de cas",
+      "Forme du contrôle":"33,3 % contrôle continu pendant le semestre (projet)[br/]66,7 % épreuve écrite (120 min) durant la session d'examen",
+      "Préparation pour":"Spécialisation en chimie et bioprocédés environnementaux[br/]Stages pratiques d'été[br/]Projets ENAC et SIE[br/]Travaux pratiques de master",
+      "Objectifs d'apprentissage":"Connaître les mécanismes de base et les derniers développements en phytotechnologies.[br/]L'utilisation de plantes pour la remédiation des sites et des eaux pollués, l'amélioration de la sécurité alimentaire et le développement de sources d'énergie renouvelables contribuent à la gestion durable du territoire et de l'environnement.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Phytotechnologie pour l'environnement",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

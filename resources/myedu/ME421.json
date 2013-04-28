@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228384311&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","421"],
+    "title":"System Identification",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228384311&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139973",
+      "name":"Karimi Alireza"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam (40% theoretical questions, 40% project, 20% Lab reports)",
+      "Bibliography and material":"Course note: Identification de systèmes dynamiques",
+      "Required prior knowledge":"[li]Represent a physical process as a system with its inputs, outputs and disturbances, A1[br/][li]Analyze a linear dynamical system (both time and frequency responses), A4[br/][li]Represent a linear system by a transfer function, A5",
+      "Content":"Modelling, type of models and representations, time-domain nonparametric methods (impulse response, correlation method), frequency-domain nonparametric methods (Fourier and spectral analysis), linear regression (least squares method, recursive methods, instrumental variables), prediction error method (ARX, ARMAX, OE, BJ), practical aspects of identification (model validation, order estimation, closed-loop identification).",
+      "Keywords":"System identification, parametric identification, nonparametric identification, least squares algorithm, Fourier analysis",
+      "Type of teaching":"Ex-cathedra course with computer aided exercises and project",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Identify a dynamic system using experimental data (A8)[br/][li]Construct and analyse a discrete-time model for a dynamic system (A7)[br/][li]Evaluate and discuss the performance and the solutions, and draw conclusions (A26) [br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"System Identification",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139973",
+      "name":"Karimi Alireza"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Représenter un processus physique sous forme de système avec ses entrées, ses sorties et ses perturbations, A1[br/][li]Analyser un système dynamique linéaire (approches temporelle et fréquentielle), A4[br/][li]Représenter un système linéaire sous forme de fonction de transfert, A5",
+      "Bibliographie et matériel":"Cours polycopié « Identification de systèmes dynamiques » ",
+      "Mots clés":"Identification de système, identification paramétrique,  identification non paramétrique, algorithme des moindres carrés, analyse de Fourier",
+      "Forme d'enseignement":"Cours avec des travaux pratiques (TP) et projet ",
+      "Contenu":"Modélisation, typologie des modèles, méthode de représentation, méthodes non paramétriques temporelles (réponse impulsionnelle, méthode de corrélation), méthode non paramétriques fréquentielles (analyse de Fourier et spectrale), Régression linéaire (méthode des moindres carrés, méthodes récursives, variables instrumentales), méthode de l'erreur de prédiction (ARX, ARMAX, OE, BJ), Aspects pratiques de l'identification (validation du modèle, estimation de l'ordre, identification en boucle fermée).",
+      "Forme du contrôle":"Examen oral (40% questions théoriques, 40% projet, 20% rapports de TP)",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Identifier un système dynamique en utilisant les données expérimentales, A8[br/][li]Construire et analyser un modèle discret pour un système dynamique, A7[br/][li]Evaluer et critiquer les performances, la solution, et tirer un bilan, A26[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Identification de systèmes dynamiques",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774617&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","260"],
+    "title":"Discrete mathematics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774617&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108680",
+      "name":"Maze Gérard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Decision Models, Graphs and networks, Optimisation, Combinatorics",
+      "Required prior knowledge":"Linear Algebra, Analysis",
+      "Content":"Elementary Combinatorics, counting.[br/]Generating functions.[br/]Lattices, partially ordered sets, Moebius inversion.[br/]Graphs and elements of algebraic graph theory.[br/]Examples of the probabilistic method.[br/]Vector spaces over the binary field.",
+      "Type of teaching":"Ex cathedra lecture with exercises in the classroom",
+      "Learning outcomes":"Discrete mathematics dedicates itself to the study of structures and concepts that do not require the notion of continuity. Combinatorics, graph theory, or study of general countable sets are some of the areas that are covered by discrete mathematics. [br/][br/]The goal of this course is to give a basic understanding of concepts and methods from this discipline. Emphasis will be laid on structures that the students are most likely to see again and more in-depth in their later studies.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Discrete mathematics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-45897-9&amp;con_lng=ENG\" target=\"blank\">Algebraic graph theory / Norman Biggs</a>\". Year:2001. ISBN:978-0-521-45897-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-55802-5&amp;con_lng=ENG\" target=\"blank\">Concrete mathematics : a foundation for computer science / Ronald L. Graham, Donald E. Knuth, Oren Patashnik</a>\". Year:2004. ISBN:0-201-55802-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-331271-2&amp;con_lng=ENG\" target=\"blank\">Discrete mathematics and its applications / Kenneth H. Rosen</a>\". Year:2007. ISBN:978-0-07-331271-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108680",
+      "name":"Maze Gérard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire, analyse",
+      "Bibliographie et matériel":"Concrete Mathematics (Graham/Knuth/Patashnik), Discrete Mathematics and its Applications (Rosen), Algebraic graph theory (Biggs).",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices en salle",
+      "Contenu":"Combinatoire élémentaire, dénombrement.[br/]Fonction génératrices.[br/]Réseaux, ensemble partiellement ordonnée, inversion de Moebius. [br/]Graphes et notion de théorie algébrique des graphes.[br/]Exemple de la méthode probabiliste.[br/]Espace vectoriel sur le corps à deux éléments.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Modèles de décision, graphes et réseaux, optimisation, combinatorique",
+      "Objectifs d'apprentissage":"Les mathématiques discrètes portent sur l'étude des structures et des concepts qui n'utilisent pas la notion de continuité. Combinatoire, théorie des graphes ou étude des ensembles dénombrables sont quelques exemples de domaines couverts par les mathématiques discrètes.[br/][br/]L'objectif de ce cours est d'introduire les concepts et les méthodes utilisés dans cette discipline. En particulier, l'accent sera mis sur les structures que les étudiants reverront très probablement et plus en détail au cours de leur cursus."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathématiques discrètes",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-45897-9&amp;con_lng=FRE\" target=\"blank\">Algebraic graph theory / Norman Biggs</a>\". Année:2001. ISBN:978-0-521-45897-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-55802-5&amp;con_lng=FRE\" target=\"blank\">Concrete mathematics : a foundation for computer science / Ronald L. Graham, Donald E. Knuth, Oren Patashnik</a>\". Année:2004. ISBN:0-201-55802-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-331271-2&amp;con_lng=FRE\" target=\"blank\">Discrete mathematics and its applications / Kenneth H. Rosen</a>\". Année:2007. ISBN:978-0-07-331271-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

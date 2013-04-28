@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1591819603&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","778"],
+    "title":"Topics in Group Representation Theory II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1591819603&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://yam.epfl.ch","http://yam.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229121",
+      "name":"Kessar Radha"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"- Reflection Groups and Related Objects in Representation Theory:[br/]Complex reflection groups, classification, invariant rings, Chevalley theorem, braid groups, cyclotomic Hecke algebras, monodromy representations, relation with the theory of groups of Lie type, Cherednik algebras, open problems.[br/]Bibliography:[br/]-Michel Broué: Introduction to complex reflection groups and their braid groups. Lecture Notes in Mathematics, 1988. Springer-Verlag, Berlin, 2010. [br/]-Gustav I. Lehrer, Donald E. Taylor: Unitary reflection groups. Australian Mathematical Society Lecture Series, 20. Cambridge University Press, Cambridge, 2009.[br/]-Richard Kane: Reflection groups and invariant theory. CMS Books in Mathematics/Ouvrages de Mathématiques de la SMC, 5. Springer-Verlag, New York, 2001.[br/]- Introduction to the modular representation theory of finite groups: character theory, Brauer's main theorems, blocks as finite dimensional algebras, fusion systems. The emphasis will be on the local-global principles underlying the subject. Open problems in the area will be dis- cussed.[br/]References: [br/]- Curtis and Reiner, Methods of Representation theory, I, II, Wiley Interscience, 1987 [br/]- T. Nagao, Y. Tshumima, Representations of finite groups, Academic Press, 1989 [br/]- Fusion systems in algebra and topology, M. Aschbacher, B. Oliver, R. Kessar, CUP, 2011.[br/]",
+      "Required prior knowledge":"basic group theory and representation theory"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in Group Representation Theory II",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://yam.epfl.ch","http://yam.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229121",
+      "name":"Kessar Radha"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in Group Representation Theory II",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  }
+}

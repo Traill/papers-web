@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71809458&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","454"],
+    "title":"Applications for convex optimization and linear programming",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71809458&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http//arni.epfl.ch/courses","http//arni.epfl.ch/courses"]],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Homeworks, written midterm and final exams",
+      "Bibliography and material":"Book : Convex Optimization by Stephen Boyd and Lieven Vandenberghe[br/]",
+      "Required prior knowledge":"Basic Linear Algebra",
+      "Content":"The class will cover topics such as:[br/]Convex sets and functions[br/]Recognizing convex optimization problems[br/]Optimality Conditions and Duality[br/]Linear Programming (geometry of linear programming,  applications in network optimization, the simplex method)[br/]Least squares and quadratic programs[br/]Semidefinite programming[br/]Interior point  methods[br/]",
+      "Type of teaching":"Ex-cathedra lectures (in English).  ",
+      "Learning outcomes":"This class examines convex optimization  and linear programming problems that arise in a variety of applications in computer and communication sciences, such as, network flow algorithms,  signal processing, data analysis, and integrated ciruit design.[br/]The class goal is to recognize and formulate problems  as convex optimization problems, and  review the basic methods for solving such problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Applications for convex optimization and linear programming",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83378-3&amp;con_lng=ENG\" target=\"blank\">Convex optimization / Stephen Boyd, Lieven Vandenberghe</a>\". Year:2008. ISBN:978-0-521-83378-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83378-3&amp;con_lng=ENG\" target=\"blank\">Convex optimization / Stephen Boyd, Lieven Vandenberghe</a>\". Year:2010. ISBN:978-0-521-83378-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http//arni.epfl.ch/courses","http//arni.epfl.ch/courses"]],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire de base",
+      "Bibliographie et matériel":"Book : Convex Optimization by Stephen Boyd and Lieven Vandenberghe",
+      "Forme d'enseignement":"Ex-cathedra (en anglais).",
+      "Contenu":"Le cours va couvrir les sujets suivants :[br/]Ensembles et fonctions convexes[br/]Reconnaissance des problèmes d'optimisation convexe[br/]Conditions d'optimalité et de dualité[br/]Programmation linéaire (géométrie de la [br/]programmation linéaire, applications dans [br/]l'optimisation des réseaux, méthode du simplexe)[br/]Programmes quadratique et des moindres carrés[br/]Programmation semi-définie[br/]Méthodes de points intérieurs",
+      "Forme du contrôle":"Devoirs + examen écrit intermédiaire et examen écrit final",
+      "Objectifs d'apprentissage":"Ce cours examine les problèmes convexe et de programmation linéaire qui surviennent dans beaucoup d'applications en informatique et communications (algorithmes sur le flux des réseaux, traitement du signal, analyses de données et design de circuits intégrés). Le but de ce cours est de pouvoir reconnaître et formuler des problèmes tels que les problèmes d'optimisation convexe et de revoir les méthodes de bases servant à la résolution de ces problèmes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Applications for convex optimization and linear programming",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83378-3&amp;con_lng=FRE\" target=\"blank\">Convex optimization / Stephen Boyd, Lieven Vandenberghe</a>\". Année:2008. ISBN:978-0-521-83378-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83378-3&amp;con_lng=FRE\" target=\"blank\">Convex optimization / Stephen Boyd, Lieven Vandenberghe</a>\". Année:2010. ISBN:978-0-521-83378-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

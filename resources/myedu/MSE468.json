@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1511113178&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","468"],
+    "title":"Quantum simulations of materials: Properties and spectroscopies",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1511113178&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210230",
+      "name":"Marzari Nicola"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This class is aimed at newcomers to the field of first-principles (i.e. quantum mechanical) simulations, and is targeted at students with an experimental background or new to the field of first-principles simulations. The aim is to provide a basic understanding of the fundamental concepts behind atomistic and first-principles simulations, and especially a working knowledge of the state-of-the-art open-source tools available and how they can be used to predict materials properties - from mechanical properties to phase stability to electrical and thermal properties to optical properties and spectroscopies.[br/][br/]",
+      "Content":"Theory and application of atomistic computer simulations to model, understand, and predict the properties of real materials. Energy models: from classical potentials to first-principles approaches (density-functional theory and the total-energy pseudopotential method). Temperature and thermodynamic averages: Monte Carlo sampling and molecular dynamics simulations. Computational laboratories: Mechanical properties of materials. Phase transitions. Band structures and electrical transport. Molecular dynamics and diffusion coefficients. Phonons and vibrational spectroscopies. Magnetic spectroscopies: EPR and NMR. [br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and computational laboratories",
+      "Form of examination":"Written reports of computational labs ",
+      "Required prior knowledge":"Theory of materials: from structure to properties I and II, or similar"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum simulations of materials: Properties and spectroscopies",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210230",
+      "name":"Marzari Nicola"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Theory of materials: from structure to properties I et II, ou similaire",
+      "Bibliographie et matériel":"Handouts will be given",
+      "Forme d'enseignement":"Ex cathedra et travaux sur ordinateur",
+      "Contenu":"-\tThéorie et application des simulations atomistiques afin de comprendre, modéliser et prédire les propriétés des matériaux réels. [br/]-\tModèles d'énergie: des potentiels classiques aux approches des premiers principes (théorie de la fonctionnelle de la densité et méthode du pseudo-potentiel). [br/]-\tTempérature et moyennes thermodynamiques: échantillonnage Monte-Carlo et simulations de dynamique moléculaire. [br/]-\tTravaux pratiques de calculs: propriétés mécaniques des matériaux. Transitions de phase. Théorie des bandes et du transport électrique. Dynamique moléculaire et coefficients de diffusion. Phonons et spectroscopie vibrationnelle. Spectroscopies magnétiques: EPR et RMN.[br/]",
+      "Forme du contrôle":"rapports écrits des travaux sur ordinateur",
+      "Objectifs d'apprentissage":"Ce cours est destiné aux nouveaux arrivants dans le domaine des simulations des premiers principes (de la mécanique quantique) et s'adresse à des étudiants ayant une formation expérimentale ou débutants dans le domaine des simulations. L'objectif est de fournir une compréhension de base des concepts fondamentaux sous-jacents des simulations atomistiques et des premiers principes, et surtout une connaissance pratique des outils open-source disponibles. Ces outils peuvent être utilisés pour prédire les propriétés des matériaux - telles que : propriétés mécaniques, stabilité de phases, propriétés électriques, thermiques, optiques et ainsi que les spectroscopies."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum simulations of materials: Properties and spectroscopies",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

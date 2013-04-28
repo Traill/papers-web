@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=937848739&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","514"],
+    "title":"Flexible electronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=937848739&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208625",
+      "name":"Lacour Stéphanie"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Flexible electronics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-74362-2&amp;con_lng=ENG\" target=\"blank\">Flexible electronics : materials and applications / William S. Wong ... [et al.] eds.</a>\". Year:2009. ISBN:978-0-387-74362-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-87048-8&amp;con_lng=ENG\" target=\"blank\">Flexible flat panel displays / edited by Gregory P. Crawford</a>\". Year:2005. ISBN:978-0-470-87048-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-50586-1&amp;con_lng=ENG\" target=\"blank\">Materials science and engineering / William D. Callister, David G. Rethwisch</a>\". Year:2011. ISBN:978-0-470-50586-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208625",
+      "name":"Lacour Stéphanie"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"It is useful but not mandatory to have some background or interest in one of the following: Materials and microtechnology; thin-films, microfabrication; semiconductor devices; neural electrodes",
+      "Bibliographie et matériel":"Materials Science and Engineering: An Introduction by William D. Callister (Author), David G. Rethwisch (Author) January 5, 2010, Wiley 992pp. [br/][br/]Flexible Flat Panel Displays (Wiley Series in Display Technology) by Gregory Crawford (Editor), July 25, 2005, Wiley, 556pp.[br/][br/]Polymers for neural implants by Christina Hassler, Tim Boretius, and Thomas Stieglitz, Journal of Polymer Science Part B: Polymer Physics, Volume 49, Issue 1, pages 18-33, 1 January 2011",
+      "Forme d'enseignement":"Cours ex-cathedra, exercises \"en classe\"",
+      "Contenu":"Most electronics are made in the form of flat, rigid surfaces.  They can be diced into tiny integrated circuit chips or manufactured in m2 flat panel displays.  While these circuits are high performance electrically, they offer limited options when it comes to interfacing the human body and three-dimensional structures. [br/][br/]This course will overview recent advances in materials, technology and device manufacturing to enable flexible bioelectronics, i.e. sensors and integrated circuits, which can conform the human body or a surgery tool yet provide reliable functionality. [br/][br/]Furthermore flexible bioelectronics may be produced over large area surfaces using low cost manufacturing techniques such as roll to roll; the course will review some of these enabling fabrication processes.  [br/][br/]Because of the interdisciplinary nature of the subject, the course's content includes concepts from many disciplines in engineering (electrical, materials, mechanical, and bioengineering).  [br/][br/]Two case studies will be discussed throughout the course to illustrate the challenges and solutions to produce and use flexible bioelectronics: flexible thin-film transistors and compliant neural electrode arrays.  ",
+      "Forme du contrôle":"Oral (70%) + \"research paper and presentation\" (30%)[br/]Students will be encouraged to work on the research paper in groups of two. ",
+      "Objectifs d'apprentissage":"On completion of the course, students should :[br/][br/]- Understand the main challenges in materials and process selection, and sensor/circuit design for flexible bioelectronics[br/]- Be familiar with the electrical and mechanical properties of devices' materials and flexible substrates[br/]- Be able to design a process flow to fabricate standard thin-film transistor and sensor circuits[br/]- Have obtained a solid preliminary background to embark on R&D in compliant thin film sensors and electronics. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Flexible electronics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-74362-2&amp;con_lng=FRE\" target=\"blank\">Flexible electronics : materials and applications / William S. Wong ... [et al.] eds.</a>\". Année:2009. ISBN:978-0-387-74362-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-87048-8&amp;con_lng=FRE\" target=\"blank\">Flexible flat panel displays / edited by Gregory P. Crawford</a>\". Année:2005. ISBN:978-0-470-87048-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-50586-1&amp;con_lng=FRE\" target=\"blank\">Materials science and engineering / William D. Callister, David G. Rethwisch</a>\". Année:2011. ISBN:978-0-470-50586-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

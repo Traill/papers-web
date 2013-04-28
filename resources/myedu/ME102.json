@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784635773&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","102"],
+    "title":"Machine elements",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784635773&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100304",
+      "name":"Benoit Mathieu"
+    },{
+      "url":"http://people.epfl.ch/132574",
+      "name":"Kremer Daniel"
+    },{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control.",
+      "Bibliography and material":"J.L. FANCHON : Guide des sciences et technologies industrielles, AFNOR-NATHAN[br/]D. KREMER : Polycopié de cours : Liaisons et Guidages ",
+      "Required prior knowledge":"[li]Master basic vector analysis, basic kinematics, concepts of CAD and technology learned in ICM",
+      "Content":"Technology[br/][li] functional knowledge [br/][li]assembly elements, system elements (linkages, revolute joints) [br/]CAD[br/][li]3D modeling of objects and mechanical systems[br/][li]transfer of the 3D model to 2D representation and vice versa[br/][li]functional dimensioning[br/]Functional, kinematics and statics analyses[br/][li]isostatism, hyperstatism, mobility of systems[br/][li]representation using kinematic and technological diagrams[br/][li]representation and analysis of forces[br/][li]adhesion, friction, rolling[br/]Dimensioning machine elements[br/]Manufacturing processes and methods[br/][li]Knowledge of fitting, dimensioning for manufacturing and manufacturing program[br/][li]Assembly program[br/]Reverse Engineering project[br/][li]Functional analysis of a simple mechanism[br/][li]3D and 2D representation",
+      "Keywords":"[li]CAD - Bearings and guides - Manufacturing processes - Isostatism, hyperstatism, mobility - Reverse engineering",
+      "Type of teaching":"Ex-cathedra courses[br/]Reverse engineering project[br/]Led exercices",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Realize, analyse and discuss a model: 3D complex geometries and assemblies, CP8[br/][li]Choose production tools and methods based, CP11[br/][li]Choose material and the relative treatments based on its use, performance and compatibility with the manufacturing process of the final product, CP13[br/][li]Identify the class, the constitutive elements and the performances of a machine or a mechanical system, CP15[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Form and motivate a team, T13"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Machine elements",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-12-494172-8&amp;con_lng=ENG\" target=\"blank\">Guide des sciences et technologies industrielles</a>\". Year:2009. ISBN:978-2-12-494172-8</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100304",
+      "name":"Benoit Mathieu"
+    },{
+      "url":"http://people.epfl.ch/132574",
+      "name":"Kremer Daniel"
+    },{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser les notions vectorielles de base, les notions de cinématique, les notions de CAO et technologie acquises en ICM",
+      "Bibliographie et matériel":"J.L. FANCHON : Guide des sciences et technologies industrielles, AFNOR-NATHAN[br/]D. KREMER : Polycopié de cours : Liaisons et Guidages",
+      "Mots clés":"[li]CAO - Liaisons et guidages - Procédés de fabrication - Isostatisme, hyperstatisme, mobilité - Ingénierie inverse",
+      "Forme d'enseignement":"[li]Cours ex-cathedra[br/][li]Projet d'ingénierie inverse[br/][li]Exercices dirigés",
+      "Contenu":"Bases technologiques[br/][li]connaissances fonctionnelles [br/][li]éléments d'assemblage, éléments de systèmes (liaisons, guidages)[br/]CAO[br/][li]représentation 3D d'objets et systèmes mécaniques sur logiciel professionnel[br/][li]passage du modèle 3D à la représentation 2D et inversement[br/][li]cotation fonctionnelle[br/]Analyse fonctionnelle cinématique et statique[br/][li]isostatisme, hyperstatisme, mobilité des systèmes[br/][li]représentation à l'aide de schémas cinématiques et technologiques[br/][li]représentation et analyse d'efforts[br/][li]adhérence, frottement, roulement[br/]Dimensionnement d'éléments de machine[br/]Procédés et méthodes de fabrication[br/][li]connaissance des posages, cotations de fabrication et gammes de fabrication[br/][li]gammes d'assemblage[br/]Projet d'ingénierie inverse[br/][li]Analyse fonctionnelle d'un mécanisme simple[br/][li]Représentation 3D et 2D",
+      "Forme du contrôle":"Contrôle continu.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Réaliser, analyser et critiquer un modèle: forme géométrique 3D complexe et assemblages, CP8[br/][li]Choisir les méthodes et des outils de production, CP11[br/][li]Choisir un matériau et les traitements en fonction de son usage, de sa performance et son adéquation au mode de fabrication du produit final, CP13[br/][li]Identifier le type, les éléments constitutifs et les performances d'une machine ou d'un système mécanique, CP15[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Composer une équipe, la motiver, T13"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Eléments de machines",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-12-494172-8&amp;con_lng=FRE\" target=\"blank\">Guide des sciences et technologies industrielles</a>\". Année:2009. ISBN:978-2-12-494172-8</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4148741&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","315"],
+    "title":"Microinformatics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4148741&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/102717",
+      "name":"Mondada Francesco"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will acquire competences in embedded systems programming. He will be able to develop a complex robotic application integrating a PC and a robot platform. In this context he will be able to evaluate several programming languages (assembler, C and C++). Assembler and C languages should be known in advance. The C++ programming concepts are introduced in this course.",
+      "Content":"[li]Programming tools (assembler and C) for embedded systems, compiler steps, code generation. Limitation of C and assembler programming depending on hardware limitations.[br/][li]Real-time constraints, memory limitations, computational power available and their impact on C programming in respect to assembler code.[br/][li]Programming structure exploiting abstraction levels, code organization and resource sharing.[br/][li]C++ programming concepts [br/][li]C++ programming tools on a PC and link to an embedded system.[br/][br/]Hands-on will consolidate important notions seen during the lectures. ",
+      "Type of teaching":"Ex cathedra + practical work and short project"
+    },
+    "practical":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microinformatics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-212-12414-9&amp;con_lng=ENG\" target=\"blank\">Apprendre le C   / Claude Delannoy</a>\". Year:2008. ISBN:978-2-212-12414-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11500-8&amp;con_lng=ENG\" target=\"blank\">Programmer en langage C     / Claude Delannoy</a>\". Year:2004. ISBN:2-212-11500-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/102717",
+      "name":"Mondada Francesco"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et pratique (TP et miniprojet)",
+      "Contenu":"[li]Outils de programmation (assembleur, C) pour systèmes embarqués, étapes de compilation, code généré par un compilateur. Limites de la programmation en C et en assembleur, dépendance du matériel.[br/][li]Contraintes temps-réel, de mémoire ou de puissance de calcul, impact sur la programmation en C par rapport à l'assembleur.[br/][li]Structuration d'application par couches d'abstraction, partage de ressources matérielles, organisation du code.[br/][li]Concepts de programmation en C++[br/][li]Outils de programmation en C++ sur PC et lien avec un système embarqué.[br/][br/]Les travaux pratiques et le miniprojet permettront de consolider les concepts vus dans le cours.",
+      "Prérequis":"Blocs 1 et 2",
+      "Bibliographie et matériel":"Claude Delannoy, \"Apprendre le C++\", Ed. Eyrolles, ISBN 978-2-212-12414-9, octobre 2008",
+      "Objectifs d'apprentissage":"L'étudiant devra avoir assimilé les contraintes de la programmation de systèmes embarqués. Il devra être capable de développer une application complexe intégrant des aspects de programmation sur PC et sur un robot. Il devra savoir structurer cette application et choisir les outils de programmation (C++, C ou assembleur). C et assembleur sont considérés comme connus. Le concept de programmation orientée objet est introduit dans ce cours."
+    },
+    "practical":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microinformatique",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-212-12414-9&amp;con_lng=FRE\" target=\"blank\">Apprendre le C   / Claude Delannoy</a>\". Année:2008. ISBN:978-2-212-12414-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11500-8&amp;con_lng=FRE\" target=\"blank\">Programmer en langage C     / Claude Delannoy</a>\". Année:2004. ISBN:2-212-11500-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

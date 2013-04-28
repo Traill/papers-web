@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2246994&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","103"],
+    "title":"Atoms, ions, molecules and functions II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2246994&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"],["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148571",
+      "name":"Gerber Sandrine"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Atoms, ions, molecules and functions II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7445-0117-4&amp;con_lng=ENG\" target=\"blank\">Chimie et théorie des groupes / Paul H. Walton</a>\". Year:2001. ISBN:2-7445-0117-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5884-2&amp;con_lng=ENG\" target=\"blank\">Traité de chimie organique / K. Peter C. Vollhardt, Neil E. Schore</a>\". Year:2009. ISBN:978-2-8041-5884-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"],["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148571",
+      "name":"Gerber Sandrine"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li] Equilibres et réactivité chimiques[br/][li] Atomes, ions, molécules et fonctions I",
+      "Bibliographie et matériel":"\"Traité de Chimie\" K.P.C. Vollhardt, N.E. Schore",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices",
+      "Contenu":"[li] Classification et sélectivité des réactions chimiques[br/][li] Alcanes: analyse conformationnelle et réactions radicalaires [br/][li] Substitutions, éliminations: réactivité des halogénoalcanes et des alcools[br/][li] Additions électrophiles: réactivité des hydrocarbures insaturés (alcènes et alcynes)[br/][li] Additions nucléophiles: réactivité des composés carbonylés",
+      "Forme du contrôle":"Examen écrit (3h) à la session d'examen d'été",
+      "Objectifs d'apprentissage":"Acquisition des notions fondamentales liées à la réactivité des molécules organiques"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Atomes, ions, molécules et fonctions II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7445-0117-4&amp;con_lng=FRE\" target=\"blank\">Chimie et théorie des groupes / Paul H. Walton</a>\". Année:2001. ISBN:2-7445-0117-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5884-2&amp;con_lng=FRE\" target=\"blank\">Traité de chimie organique / K. Peter C. Vollhardt, Neil E. Schore</a>\". Année:2009. ISBN:978-2-8041-5884-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

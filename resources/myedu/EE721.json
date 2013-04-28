@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1391659988&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","721"],
+    "title":"Energy storage in power systems: technologies, applications and future needs",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1391659988&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"1.\tThe need of balancing power with storage: G. Andersson (ETHZ, time: 60')[br/][br/]2.\tTechnologies:[br/]a.\tModern Compound and Reversible Units for Pumped Storage Power Plants: F. Avellan (EPFL, time: 6')[br/]b.\tBattery energy storage systems (BESS): C. A. Nucci (Univ. of Bologna, time: 120')[br/]c.\tHydrogen (hydrolizer and fuel-cell coupling): A. Zuettel (EMPA)[br/]d.\tEnergy storage systems properties - case of Compressed Air Energy, Vanadium Redox flow Battery, Supercaps, etc.: A. Rufer (EPFL, time : 90')[br/]e.\tThermo electric energy storage systems: F. Marechal (EPFL, time: 90')[br/][br/]3.\tApplications[br/]a.\tLarge systems application[br/]i.\tHydro, view from power plant:  T. Aschwanden (KWO)[br/]ii.\tElectricity storage: issues and opportunities from a TSO perspective: M. Geidl (Swissgrid, time: 45')[br/]iii.\tApplications of BESS in electric power systems with renewable generation: A. Oudalov (ABB, time: 90')[br/]iv.\tAggregated Demand Response using Thermal Loads, Integration in Virtual Power Plants, and Evaluation of Flexibility: S. Koch/ A. Ulbig (ETHZ, time: 90')[br/]v.\tRequirements and possibilities for energy storage applications in railway power supply: M. Aeberhard, N. Cherix (SBB/EPFL, time 60')[br/][br/]b.\tDistribution systems applications[br/]i.\tDistribution networks support (voltage control, islanding): A. Borghetti (Univ. of Bologna), time: 60')[br/]ii.\tControlling and managing V2G and V2H: J. Peças Lopes (INESC, time: 90')[br/]iii.\tSeal-healing operation of microgrids with BESS: M. Paolone (EPFL, time: 90')[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Energy storage in power systems: technologies, applications and future needs",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1.\tThe need of balancing power with storage: G. Andersson (ETHZ, time: 60')[br/][br/]2.\tTechnologies:[br/]a.\tModern Compound and Reversible Units for Pumped Storage Power Plants: F. Avellan (EPFL, time: 6')[br/]b.\tBattery energy storage systems (BESS): C. A. Nucci (Univ. of Bologna, time: 120')[br/]c.\tHydrogen (hydrolizer and fuel-cell coupling): A. Zuettel (EMPA)[br/]d.\tEnergy storage systems properties - case of Compressed Air Energy, Vanadium Redox flow Battery, Supercaps, etc.: A. Rufer (EPFL, time : 90')[br/]e.\tThermo electric energy storage systems: F. Marechal (EPFL, time: 90')[br/][br/]3.\tApplications[br/]a.\tLarge systems application[br/]i.\tHydro, view from power plant:  T. Aschwanden (KWO)[br/]ii.\tElectricity storage: issues and opportunities from a TSO perspective: M. Geidl (Swissgrid, time: 45')[br/]iii.\tApplications of BESS in electric power systems with renewable generation: A. Oudalov (ABB, time: 90')[br/]iv.\tAggregated Demand Response using Thermal Loads, Integration in Virtual Power Plants, and Evaluation of Flexibility: S. Koch/ A. Ulbig (ETHZ, time: 90')[br/]v.\tRequirements and possibilities for energy storage applications in railway power supply: M. Aeberhard, N. Cherix (SBB/EPFL, time 60')[br/][br/]b.\tDistribution systems applications[br/]i.\tDistribution networks support (voltage control, islanding): A. Borghetti (Univ. of Bologna), time: 60')[br/]ii.\tControlling and managing V2G and V2H: J. Peças Lopes (INESC, time: 90')[br/]iii.\tSeal-healing operation of microgrids with BESS: M. Paolone (EPFL, time: 90')[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Energy storage in power systems: technologies, applications and future needs",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

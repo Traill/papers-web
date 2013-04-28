@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229369972&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","551"],
+    "title":"Bioinspired artificial intelligence",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229369972&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course will describe new approaches and technologies for designing software and hardware intelligent systems that are inspired upon biological mechanisms. Every topic will cover biological systems, artificial systems, and applications in software, electronics, and robotics. This course intends to stimulate scientific curiosity and provide students with new tools useful for software and hardware engineering. Each lecture is followed by a laboratory session to gain practical experience. Slides and lectures are in English.",
+      "Content":"Evolutionary Algorithms [br/]Evolutionary Electronics [br/]Neural Systems [br/]Bio-mimetic Robotic Control [br/]Behavior-Based Robotics [br/]Evolutionary Robotics [br/]Self-organizing and modular Robotics [br/]Cellular Systems [br/]Developmental Systems [br/]Immune Systems [br/]Collective Systems"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bio-inspired artificial intelligence",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=78-0-262-06271-8&amp;con_lng=ENG\" target=\"blank\">Bio-inspired artificial intelligence : theories, methods, and technologies / Dario Floreano, Claudio Mattiussi</a>\". Year:2008. ISBN:78-0-262-06271-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, laboratory work, research assignments, robot programming, presentations",
+      "Contenu":"Systèmes d'évolution [br/]Electronique évolutive [br/]Systèmes neuronaux [br/]Contrôle robotique bio-mimétique [br/]Robotique comportementale [br/]Robotique évolutive [br/]Auto-organisation et modularité robotique [br/]Systèmes cellulaires [br/]Systèmes de croissance [br/]Systèmes immunitaires [br/]Systèmes collectifs",
+      "Bibliographie et matériel":"- Floreano and Mattiussi (2008). Bio-inspired Artificial Intelligence. MIT Press, Cambridge, MA.[br/]- Lecture handouts",
+      "Objectifs d'apprentissage":"Le cours décrira de nouvelles approches et technologies pour concevoir des systèmes logiciels et matériels inspirés des mécanismes biologiques. Chaque sujet couvre les systèmes biologiques, les systèmes artificiels et les applications aux logiciels, circuits électroniques et robots. Ce cours a pour but de stimuler la curiosité et d'apporter aux étudiants de nouveaux outils pour la [br/]conception logicielle et matérielle. Chaque cours est suivi par des exercices afin d'acquérir de l'expérience pratique. Généralement le cours est donné en anglais. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bio-inspired artificial intelligence",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=78-0-262-06271-8&amp;con_lng=FRE\" target=\"blank\">Bio-inspired artificial intelligence : theories, methods, and technologies / Dario Floreano, Claudio Mattiussi</a>\". Année:2008. ISBN:78-0-262-06271-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

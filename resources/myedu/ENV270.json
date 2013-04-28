@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976279&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","270"],
+    "title":"Information technology for engineer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976279&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enacit1.epfl.ch/cours_matlab/","http://enacit1.epfl.ch/cours_matlab/ "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104589",
+      "name":"Bonjour Jean-Daniel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Tests during and at the end of the semester",
+      "Bibliography and material":"Lecture and exercises notes (printed and on the Web)[br/]",
+      "Prerequisite for":"Other classes using Matlab",
+      "Required prior knowledge":"Informatique I, Informatique II",
+      "Content":"[b]MATLAB & GNU Octave:[/b][br/][li] variables, types, workspace, operators (arithmetic, relational, logical) and basic functions (mathematical, logical...)[br/][li] series/vectors, arrays, array operators and functions, logical indexing, manipulation of character strings, N-D arrays, records, cells arrays[br/][li] management of dates and time, time series[br/][li] data visualization: 2D and 3D graphics, properties (handle graphics), animation and movies[br/][li] Matlab/Octave programming (M-files) : control structures (for, while, if, switch, try), scripts versus functions, user interaction, errors and warning management, GUI, debugging[br/][li] formatted input/output, file manipulation[br/][br/][b]Python:[/b][br/][li] basics of Python language, manipulation of numeric data (NumPy), scientific computing (SciPy), 2D plots (MatPlotLib), 3D vizualisation (Mayavi)[br/][br/]",
+      "Keywords":"Scientific computing, visualization, Matlab, Octave, Python",
+      "Type of teaching":"Exercises in computer classrooms and on laptops",
+      "Learning outcomes":"Introduction to scientific computing, programming, data management and data visualization with MATLAB and GNU Octave. Brief overview of capabilities offered by Python"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Information technology for engineer",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enacit1.epfl.ch/cours_matlab/","http://enacit1.epfl.ch/cours_matlab/ "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104589",
+      "name":"Bonjour Jean-Daniel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Informatique I, Informatique II",
+      "Bibliographie et matériel":"Support de cours et d'exercices (polycopiés et Web)[br/][br/]",
+      "Mots clés":"Calcul scientifique, visualisation, Matlab, Octave, Python",
+      "Forme d'enseignement":"Exercices pratiques dans salles d'ordinateur et sur laptops",
+      "Contenu":"[b]MATLAB & GNU Octave:[/b][br/][li] variables, types, workspace, opérateurs (arithmétiques, relationnels, logiques) et fonctions de base (mathématiques, logiques...)[br/][li] séries/vecteurs, matrices, opérateurs et fonctions vectorisées, indexation logique, manipulation de chaînes de caractères, tableaux N-D, structures (records), tableaux cellulaires[br/][li] gestion des dates et du temps, séries chronologiques[br/][li] visualisation de données: graphiques 2D et 3D, propriétés des graphiques (handle), animation et movies[br/][li] programmation Matlab/Octave (M-files) : structures de contrôle (for, while, if, switch, try), scripts versus fonctions, interaction avec l'utilisateur, gestion d'erreurs et warnings, interface graphique, debugging[br/][li] entrées/sorties formatées, manipulation de fichiers[br/][b]Python:[/b][br/][li] bases du langage Python, manipulation de données numériques (NumPy), calcul scientifique (SciPy), graphiques 2D (MatPlotLib), visualisation 3D (Mayavi)",
+      "Forme du contrôle":"Tests écrits en cours et à la fin du semestre",
+      "Préparation pour":"Autres cours utilisant Matlab",
+      "Objectifs d'apprentissage":"Introduction au calcul scientifique, à la programmation et à la gestion et visualisation de données avec MATLAB et GNU Octave. Bref aperçu des possibilités offertes sous Python"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Informatique pour l'ingénieur",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

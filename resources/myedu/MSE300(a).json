@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352056116&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","300(a)"],
+    "title":"Theory of materials : from structures to properties I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352056116&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106518",
+      "name":"Tagantsev Alexander"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Basic knowledge about theoretical description of properties of solid materials. Part I is devoted to the continuum phenomenological description of the materials properties based on thermodynamics and the structural symmetry.",
+      "Content":"1. The tools of phenomenological descriptions: symmetry, tensors, and thermodynamics.[br/]2. Description of static equilibrium properties: dielectric response, elasticity, piezoelectricity, pyroelectricity, and thermal dilatation.[br/]3. Description of dynamic equilibrium properties and transport properties: dielectric relaxation, sound propagation, electrical conductivity, heart conductivity, and thermoelectric phenomena.[br/]4. Light propagation in anisotropic materials .[br/]5. Landau theory of structural phase transitions. [br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises ",
+      "Prerequisite for":"Elecroceramic components ",
+      "Required prior knowledge":"General physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Theory of materials : from structures to properties I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-40543-5&amp;con_lng=ENG\" target=\"blank\">Physical properties of crystals : an introduction / Siegfried Haussühl</a>\". Year:2007. ISBN:978-3-527-40543-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106518",
+      "name":"Tagantsev Alexander"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique générale",
+      "Bibliographie et matériel":"J.F. Nye, \"Physical properties of crystals\", Oxford : Clarendon Press, 1995[br/]C.Kittel, \"Inroduction to Solid State Physics\", John Willy & Sons, New York, 1996[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"1. Les outils de la description phénoménologique : symétrie, tenseurs et thermodynamique.[br/]2. La description des propriétés d'équilibre statiques : réponse diélectriques, élasticité, piézoélectricité, pyroélectricité et dilatation thermique.[br/]3. La description des propriétés d'équilibre dynamiques et des propriétés de transport: relaxation diélectrique, propagation du son, conductivité électrique, conductivité thermique et thermoélectricité. [br/]4. La propagation de la lumière dans un matériau anisotrope.[br/]5. La théorie de Landau pour la transition de phase structural.[br/]",
+      "Préparation pour":"Composants électrocéramiques ",
+      "Objectifs d'apprentissage":"Connaissance de base de la description théorique de propriétés des solides. La partie I est consacrée au traitement phénoménologique qui est basé sur la thermodynamique et la symétrie structurale des matériaux.  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Theory of materials : from structures to properties I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-40543-5&amp;con_lng=FRE\" target=\"blank\">Physical properties of crystals : an introduction / Siegfried Haussühl</a>\". Année:2007. ISBN:978-3-527-40543-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

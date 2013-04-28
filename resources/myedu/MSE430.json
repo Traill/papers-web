@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840801900&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","430"],
+    "title":"Life cycle engineering of polymers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840801900&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105657",
+      "name":"Leterrier Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"LINK TO OTHER COURSES :[br/]Complementary to \"Recycling of materials\"",
+      "Form of examination":"The examination is in the form of a group project, which is evaluated with a \"1 slide\" oral presentation in the class and a written report. The final grade is the average of the following 5 grades :[br/]1. Quality of the report (English only; spelling, quality of the figures)[br/]2. Bibliography (relevance of the information; all sources MUST be cited!)[br/]3. Case study (data quality and novelty)[br/]4. Synthesis and conclusions of the project[br/]5. Quality of the 1-slide presentation (clarity, content and timing)[br/][br/][br/]",
+      "Required prior knowledge":"Polymers, structure and properties[br/]Polymer processing",
+      "Content":"[b]Introduction to life cycle engineering and sustainable development[/b][br/]- Resources, material intensity and durability[br/][br/][b]Durability of polymers[/b][br/]- Phenomenology of time-dependent polymer properties[br/]- Aging and degradation of polymers[br/]- Stabilization and protection of polymers[br/]- Accelerated aging methods and long term property prediction[br/]- Case study of an automotive component[br/]- Non-destructive testing and health monitoring[br/]- Self-repair polymers[br/][br/][br/][b]Recycling of polymers[/b][br/]- Collection, identification and recycling methods[br/]- Case study: closed-loop recycling of composites[br/]- Group work: recycling of pharmaceutical packaging[br/][b]Life cycle assessment and design[/b][br/]- Methods and examples[br/]- Case study: natural fibers vs glass fibers reinforced composites[br/]- Group work: life cycle engineering of an industrial component[br/]",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"To present the scientific, engineering and environmental factors relevant to the life cycle of polymer-based materials in relation with sustainable development :[br/][li]\tWhat Life Cycle Engineering is and how it can be used to adapt and improve the durability of polymer-based products;[br/][li]\tWhat determines the success of a recycling operation;[br/][li]\tWhat Life Cycle Assessment is and how to reduce the environmental impact of polymers;[br/][li]\tHow to optimise the design of polymer-based products with respect to the environment"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Life cycle engineering of polymers",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105657",
+      "name":"Leterrier Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"LIAISON AVEC D'AUTRES COURS:[br/]Complémentaire au \"Recyclage des Matériaux\"",
+      "Prérequis":"Polymères, structures, propriétés. [br/]Polymères, mise en oeuvre.",
+      "Bibliographie et matériel":"lecture notes polycopies",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Introduction à l'ingénierie du cycle de vie et au développement durable[/b][br/]- Ressources, intensité des matériaux et durabilité[br/][b]Durabilité des polymères[/b][br/]- Phénoménologie des propriétés dépendant du temps des polymères[br/]- Vieillissement et dégradation des polymères[br/]- Stabilisation et protection des polymères[br/]- Méthodes de vieillissement accéléré et prédiction du comportement à long-terme[br/]- Étude du cas d'un composant automobile[br/]- Tests non-destructifs et \"health monitoring\"[br/]- Polymères auto-réparables[br/][b]Recyclage des polymères[/b][br/]- Collection, identification et méthodes de recyclage[br/]- Étude du recyclage en boucle fermée de composites[br/]- Travail de groupe : recyclage de sachets pharmaceutiques[br/][b]Écobilan et éco-conception[/b][br/]- Méthodes et exemples[br/]- Étude du cas de composites renforcés de fibres naturelles ou de fibres de verre[br/]- Travail de groupe : ingénierie du cycle de vie d'une pièce industrielle",
+      "Forme du contrôle":"L'examen est sous la forme d'un projet par équipe, évalué avec une présentation orale '1 slide' devant la classe et un rapport écrit. La note finale est la moyenne des 5 notes suivantes :[br/]1. Qualité du rapport (anglais seulement ; orthographe, qualité des figures, etc)[br/]2. Bibliographie (pertinence des informations ; toutes les sources DOIVENT être citées !)[br/]3. Etude de cas (qualité des données, originalité)[br/]4. Synthèse et conclusions du projet[br/]5. Qualité de la présentation orale (clarté, contenu et ponctualité)[br/]",
+      "Objectifs d'apprentissage":"Présentation des facteurs scientifiques, techniques et environnementaux liés au cycle de vie des polymères, en relation avec le développement durable :[br/][li]\tCe qu'est l'ingénierie du cycle de vie, et comment adapter et améliorer la durabilité de produits à base polymère ;[br/][li]\tCe qui détermine le succès d'une opération de recyclage ;[br/][li]\tCe qu'est un écobilan, et comment l'utiliser pour réduire la charge environnementale des polymères ;[br/][li]\tComment optimiser la conception de produits à base polymère.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Life cycle engineering of polymers",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

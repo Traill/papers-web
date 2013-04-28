@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24334758&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","451"],
+    "title":"Image analysis and pattern recognition",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24334758&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115534",
+      "name":"Thiran Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control",
+      "Bibliography and material":"M. Kunt, Editeur, Reconnaissance des formes et analyse de scènes, Collection Electricité, PPUR, 2000M.[br/]Sonka, V. Hlavac, R. Boyle, Image Processing, Analysis and Machine Vision, PWS Publising, 1999",
+      "Prerequisite for":"Semester project, Master project, doctoral thesis",
+      "Required prior knowledge":"Introduction to signal processing, Image processing",
+      "Content":"[b]Introduction[/b][br/]Digital image acquisition and properties.[br/]Pre-processing: geometric transforms, linear filtering, image restoration.[br/]Introduction to Mathematical Morphology[br/]Examples and applications[br/][br/][b]Segmentation and object extraction[/b][br/]Thresholding, edge detection, region detection.[br/]Segmentation by active contours. Applications in medical image segmentation.[br/][br/][b]Shape representation and description[/b][br/]Contour-based representation, region-based representation. Morphological skeletons[br/][br/][b]Shape recognition[/b][br/]Statistical shape recognition, Bayesian classification, linear and non-linear classifiers, perceptrons, neural networks and unsupervised classifiers.[br/]Applications.[br/][br/][b]Practical works on computers[/b]",
+      "Type of teaching":"Ex cathedra and practical work",
+      "Learning outcomes":"Learning the basic methods of digital image analysis and pattern recognition: pre-processing, image segmentation, shape representation and classification. These concepts will be illustrated by applications in computer vision and medical image analysis."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Image analysis and pattern recognition",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115534",
+      "name":"Thiran Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction au traitement des signaux, Traitement d'images",
+      "Bibliographie et matériel":"M. Kunt, Editeur, Reconnaissance des formes et analyse de scènes, Collection Electricité, PPUR, 2000M.[br/]Sonka, V. Hlavac, R. Boyle, Image Processing, Analysis and Machine Vision, PWS Publising, 1999",
+      "Forme d'enseignement":"Ex cathedra et travaux pratiques",
+      "Contenu":"[b]Introduction[/b][br/]Acquisition et propriétés des images numériques.[br/]Pré-traitements : transformations géométriques, filtrage linéaires, restauration d'images.[br/]Introduction à la Morphologie Mathématique.[br/]Exemples et applications.[br/][br/][b]Segmentation et extraction d'objets[/b][br/]Seuillage, détection de contours, détection de régions.[br/]Segmentation par contours actifs. Applications en segmentation d'images médiales.[br/][br/][b]Représentation et description de formes[/b][br/]Représentation par les contours, représentation par les régions. Notions de squelette morphologique.[br/][br/][b]Reconnaissance de formes[/b][br/]Reconnaissance statistique, théorie de la classification bayésienne, classificateurs linéaires et non-linéaires, perceptrons, réseaux de neurones, classificateurs non supervisés. Applications.[br/][br/][b]Travaux pratiques sur ordinateurs[/b] ",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Projets de semestre et de master, Thèses de doctorat",
+      "Objectifs d'apprentissage":"Apprentissage des méthodes de base de l'analyse d'images numériques et de la reconnaissance des formes : pré-traitements, segmentation d'images, représentation et classification de formes. Ces concepts seront illustrés dans le cadre d'applications en vision par ordinateur et en analyse d'images médicales. "
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Image analysis and pattern recognition",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

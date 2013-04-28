@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=888121884&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","603"],
+    "title":"Energy planning: modeling and decision support systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=888121884&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://bpe.epfl.ch","http://bpe.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Present a state of the art review on modeling and simulation methods in energy planning[br/][li]Discuss innovative methods of techno-economic and environmental assessment in this area[br/][li]Illustrate with a case study related to the expansion of an electrical generating system[br/]",
+      "Content":"1.\tIntroduction to Energy Economics and Modeling[br/]1.1 Basic economics: microeconomic, macroeconomic theories[br/]1.2 Economic-Environment-Energy Modeling: optimization, simulation, time and space dimensions[br/]1.3 Various modeling approaches: Top-down, Bottom-up, Hybrid/Integrated approach[br/]1.4 Theory of energy economics: Cost-Benefit analysis, social welfare, marginal cost and investment decision, energy pricing[br/][br/]2.      Energy Demand/Supply Adequacy[br/]2.1 Energy Demand modeling and forecasting: projection, econometric, techno-economic and hybrid models[br/]2.2 Electrical Power generation planning: deterministic, probabilistic models; generation planning in a competitive environment; planning of distributed energy resources [br/]2.3 Comparative assessment of energy strategies: Mono-Criterion, Multi-objective programming, Multi-Criteria Decision Making[br/]2.4 Simulation of energy markets: Multi-agent simulation of generation expansion in the markets of electricity, system dynamics[br/][br/]3.      Modeling externalities of Energy[br/]3.1 Evaluation of environmental externalities[br/]3.2 Internalizing external effects in energy planning[br/]3.3 Case of Electrical Power Generating System[br/]3.4 Discussing the pricing of environmental externalities[br/][br/]4.      Energy Risk Management[br/]4.1 Price volatility and risk management[br/]4.2 Energy derivatives[br/]4.3 Value-at-Risk[br/]4.4 Portfolio risk analysis and application to electricity supply planning[br/][br/]5.      Case studies: Least cost planning of electrical generating system expansion[br/]5.1 Electricity demand forecasting[br/]5.2 Candidates for expansion and configurations of the system[br/]5.3 Modeling the operation of the system[br/]5.4 Elaborating expansion strategies[br/]5.5 Multi Criteria based comparative assessment of expansion strategies    ",
+      "Keywords":"energy planning; energy economics; techno-economic; environmental assessment"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Energy planning: modeling and decision support systems",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://bpe.epfl.ch","http://bpe.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1.\tIntroduction to Energy Economics and Modeling[br/]1.1 Basic economics: microeconomic, macroeconomic theories[br/]1.2 Economic-Environment-Energy Modeling: optimization, simulation, time and space dimensions[br/]1.3 Various modeling approaches: Top-down, Bottom-up, Hybrid/Integrated approach[br/]1.4 Theory of energy economics: Cost-Benefit analysis, social welfare, marginal cost and investment decision, energy pricing[br/][br/]2.      Energy Demand/Supply Adequacy[br/]2.1 Energy Demand modeling and forecasting: projection, econometric, techno-economic and hybrid models[br/]2.2 Electrical Power generation planning: deterministic, probabilistic models; generation planning in a competitive environment; planning of distributed energy resources [br/]2.3 Comparative assessment of energy strategies: Mono-Criterion, Multi-objective programming, Multi-Criteria Decision Making[br/]2.4 Simulation of energy markets: Multi-agent simulation of generation expansion in the markets of electricity, system dynamics[br/][br/]3.      Modeling externalities of Energy[br/]3.1 Evaluation of environmental externalities[br/]3.2 Internalizing external effects in energy planning[br/]3.3 Case of Electrical Power Generating System[br/]3.4 Discussing the pricing of environmental externalities[br/][br/]4.      Energy Risk Management[br/]4.1 Price volatility and risk management[br/]4.2 Energy derivatives[br/]4.3 Value-at-Risk[br/]4.4 Portfolio risk analysis and application to electricity supply planning[br/][br/]5.      Case studies: Least cost planning of electrical generating system expansion[br/]5.1 Electricity demand forecasting[br/]5.2 Candidates for expansion and configurations of the system[br/]5.3 Modeling the operation of the system[br/]5.4 Elaborating expansion strategies[br/]5.5 Multi Criteria based comparative assessment of expansion strategies    [br/]",
+      "Mots clés":"energy planning; energy economics; techno-economic; environmental assessment",
+      "Objectifs d'apprentissage":"Present a state of the art review on modeling and simulation methods in energy planning[br/][li]Discuss innovative methods of techno-economic and environmental assessment in this area[br/][li]Illustrate with a case study related to the expansion of an electrical generating system[br/]"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Energy planning: modeling and decision support systems",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

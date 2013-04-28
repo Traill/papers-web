@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399861968&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","620"],
+    "title":"MINTT: Management of innovatIon and technology transfer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399861968&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://mintt.epfl.ch/","http://mintt.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104790",
+      "name":"Clerc Gabriel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"MINTT's purpose is to provide EPFL PhD students with an accelerated training in Invention management, assessment of the potential, intellectual property rights elaboration, license negotiation, start-up option evaluation and experience sharing in the fields of academic results industrialization and sales.",
+      "Content":"MINTT is based on real-world EPFL invention cases and is teached by experienced and active professionals in the field of technology transfer working at the Tech Transfer Office of EPFL (SRI). "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"MINTT: Management of innovatIon and technology transfer",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://mintt.epfl.ch/","http://mintt.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104790",
+      "name":"Clerc Gabriel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"MINTT is based on real-world EPFL invention cases and is teached by experienced and active professionals in the field of technology transfer working at the Tech Transfer Office of EPFL (SRI).",
+      "Objectifs d'apprentissage":"MINTT's purpose is to provide EPFL PhD students with an accelerated training in Invention management, assessment of the potential, intellectual property rights elaboration, license negotiation, start-up option evaluation and experience sharing in the fields of academic results industrialization and sales."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"MINTT: Management of innovatIon and technology transfer",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  }
+}

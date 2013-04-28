@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126534033&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","366"],
+    "title":"Quantitative methods II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126534033&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    },{
+      "url":"http://people.epfl.ch/133327",
+      "name":"Fang Jiannong"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Development and application of quantitative methods for environmental engineering students",
+      "Content":"[li]Algebraic and numerical computation using software tools[br/][li]Formulation of process-based environmental engineering models[br/][li]Solution and analysis of environmental engineering models[br/][li]Numerical methods used in solution of environmental engineering models[br/][li]Data analysis and system control[br/]",
+      "Type of teaching":"Ex cathedra teaching, exercises using the Matlab software packages",
+      "Form of examination":"35 % spot check during the semester[br/]15 % continuous control (exercises) during the semester[br/]50 % final written test (180 min) during exam session"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantitative methods II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    },{
+      "url":"http://people.epfl.ch/133327",
+      "name":"Fang Jiannong"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices pratiques sur le logiciel Matlab",
+      "Contenu":"[li]Calculs algébriques et numériques à l'aide d'outils logiciels[br/][li]Élaboration de modèles basés sur les processsus d'ingénierie de l'environnement[br/][li]Résolution et analyse de modèles d'ingénierie de l'environnement[br/][li]Méthodes d'analyses numériques utilisées dans la résolution de modèles d'ingénierie de l'environnement[br/][li]Analyse de données et systèmes de contrôle",
+      "Forme du contrôle":"35 % contrôle ponctuel durant le semestre[br/]15 % contrôle continu (exercices) durant le semestre[br/]50 % épreuve finale écrite (180 min) pendant la session d'examen",
+      "Objectifs d'apprentissage":"Développement et application de méthodes quantitatives pour les étudiants en ingénierie de l'environnement"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantitative methods II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

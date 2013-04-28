@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775762&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","104"],
+    "title":"Design project of mecanisms",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775762&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=en",
+    "section":"EL",
+    "program":"MT",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104648",
+      "name":"Brugger Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    },{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Evaluation of the semester project: written report (including: technical drawings, calculation) and oral presentation. The final evaluation is given by the exercises of the first semester and the semester project.",
+      "Bibliography and material":"Polycopié \"Conception de mécanismes\", \"Extrait de normes VSM\", Technical documentation (e.g. Supplier catalogues, ).",
+      "Prerequisite for":"Mechanical design project, Electromechanics, Semester and Master projects.",
+      "Required prior knowledge":"Conception de mécansimes (Mechanical design)",
+      "Content":"This is a team work of 3 to 5 students with the goal to design systems such as:[br/][][][][][][]- mechanical transmission for electrical car (toy, small scale car)[br/][][][][][][]- robot[br/][][][][][][]- robot axis[br/][][][][][][]- security brake for robot[br/][][][][][][]- joystick with force feedback[br/][][][][][][]- orthosis[br/][][][][][][]- lift for disable people[br/][][][][][][]- home trainer[br/][][][][][][]- ....[br/][br/]All the teams work on the same subject. The originality of the proposed solutions is an added-value for the final evaluation. During the semester, additional short lectures are given specifically related to the project.[br/]",
+      "Type of teaching":"Coaching of the teams by assistants",
+      "Learning outcomes":"To know the basic rules of technical drawing. To correctly select, calculate and use of the most important basic mechanisms and to be able to integrate them in more complex electromechanical systems. To be able to communicate and collaborate with specialists in Mechanical engineering and Microengineering. To put into practice the design methodology, to plan a small project and to learn to work in a small group."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design project of mecanisms",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104648",
+      "name":"Brugger Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    },{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Conception de mécanismes",
+      "Bibliographie et matériel":"Polycopié \"Conception de mécanismes\", Extrait de normes VSM, Documentations techniques de fournisseurs",
+      "Forme d'enseignement":"Projets encadrés",
+      "Contenu":"Le projet  effectué en groupe de travail de 3 à 5 étudiants suivant les sujets permettra de concevoir des systèmes tels que:[br/][br/][][][][][][]- transmission pour voiture électrique (jouet , modèle réduit ou encore réelle)[br/][][][][][][]- robot[br/][][][][][][]- axe de robot[br/][][][][][][]- frein de sécurité pour robot (à défaut de courant)[br/][][][][][][]- robot ménager[br/][][][][][][]- joy-stick motorisé[br/][][][][][][]- ferme porte asservi pour voiture[br/][][][][][][]- ascenseur pour rampe pour handicapé[br/][][][][][][]- orthèse pour handicapé[br/][][][][][][]- \"home trainer\"[br/](Liste non exhaustive)[br/][br/]Tous les groupes d'étudiants travaillent sur le même sujet; l'originalité des solutions proposées est prise en compte lors de l'évaluation.[br/]Des compléments méthodologiques et théoriques seront donnés en auditoire en cours de projet selon les difficultés rencontrées.",
+      "Forme du contrôle":"Projet effectué en groupe; il est évalué sur la base des rapports écrits, des dessins de construction et de la présentation orale.[br/]Ce résultat sera combiné avec les résultats des exercices du premier semestre pour établir la note finale",
+      "Préparation pour":"Electromécanique, Projets de semestre et de Master",
+      "Objectifs d'apprentissage":"Savoir représenter un ensemble électromécanique selon les règles. Savoir choisir, utiliser et dimensionner les mécanismes de base, savoir les intégrer dans des systèmes plus complexes. Etre apte à collaborer avec des spécialistes en mécanique et en microtechnique.  Exercer la conception de systèmes et apprendre à organiser  le travail en groupes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de conception de mécanismes",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

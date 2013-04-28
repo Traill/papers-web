@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71858484&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","319"],
+    "title":"Biotechnology practice",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71858484&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174688",
+      "name":"Hatzimanikatis Vassily"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"General understanding of the design and optimization of bioprecesses through process simulation.",
+      "Content":"[br/][li] Modeling and simulation of bioreactors: [br/][tab] - Batch[br/][tab] - Continuous[br/][tab] - Fed-batch[br/][li] Modeling and simulation of downstream processing[br/][li] Modeling and simulation of bioprecess for ethanol production[br/][li] Modeling and simulation of bioprocess for protein production"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Biotechnology practice",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-003212-2&amp;con_lng=ENG\" target=\"blank\">Biochemical engineering fundamentals / James E. Bailey, David F. Ollis</a>\". Year:1986. ISBN:0-07-003212-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30759-1&amp;con_lng=ENG\" target=\"blank\">Biological reaction engineering : dynamic modelling fundamentals with simulation examples / Irving J. Dunn ...[et al.]</a>\". Year:2003. ISBN:3-527-30759-1</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174688",
+      "name":"Hatzimanikatis Vassily"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Computer laboratory, use of process design software",
+      "Contenu":"[br/][li] Modélisation et simulation de bioréacteurs:[br/][tab] - réacteur fermé[br/][tab] - continu[br/][tab] - réacteur fermé alimenté[br/][li] Modélisation et simulation de procédés à contre-courant[br/][li] Modélisation et simulation de bioprocédés pour la production d'éthanol[br/][li] Modélisation et simulation de bioprocédés pour la production de protéines",
+      "Remarque":"Enseignement partiel du module Biotechnologie",
+      "Bibliographie et matériel":"\"Biochemical Engineering Fundamentals\", James E. Bailey et David F. Ollis[br/]\"Biological Reaction Engineering: Dynamic Modelling Fundamentals with Simulation Examples\", Irving J. Dunn, Elmar Heinzle, John Ingham, Jiri E. Prenosil ",
+      "Objectifs d'apprentissage":"Compréhension globale de la conception et de l'optimisaation de bioprocédés par la simulation de procédés."
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Biotechnologie TP",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-003212-2&amp;con_lng=FRE\" target=\"blank\">Biochemical engineering fundamentals / James E. Bailey, David F. Ollis</a>\". Année:1986. ISBN:0-07-003212-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30759-1&amp;con_lng=FRE\" target=\"blank\">Biological reaction engineering : dynamic modelling fundamentals with simulation examples / Irving J. Dunn ...[et al.]</a>\". Année:2003. ISBN:3-527-30759-1</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47847929&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","101"],
+    "title":"Information sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47847929&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[["http://cours-scienceinfo.epfl.ch","http://cours-scienceinfo.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105633",
+      "name":"Le Boudec Jean-Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Files exchanged over the internet or stored on hard disks are eventually translated to text, sounds or images. How is the information in the files measured and compressed? How is it secured? Protected against errors?[br/][br/]These are the three questions addressed in this lecture.",
+      "Content":"I. How to measure information. Sources and probability. Entropy, entropy per symbol. Source coding. Compression and the first theorem of information theory.[br/][br/]II. Cryptography and information security. Modular arithmetic, modern algebra and number theory. The Chinese remainder theorem and RSA.[br/][br/]III. Protecting information. A few finite fields. Linear spaces. Hamming distance. Linear codes. Reed Solomon codes.",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Form of examination":"Continuous evaluations 10% and exam final 90%",
+      "Bibliography and material":"\"Sciences de l'Information\", J.Y. Le Boudec, R. Urbanke et P. Thiran, online"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Information sciences",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[["http://cours-scienceinfo.epfl.ch","http://cours-scienceinfo.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105633",
+      "name":"Le Boudec Jean-Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"I. La mesure de l'information. Source et probabilité. Entropie, entropie par symbole. Codage de source. Compression et le premier théorème de théorie de l'information.[br/][br/]II. Cryptographie et sécurisation de l'information. Arithmétique modulaire, algèbre abstraite et théorie des nombres. Théorème des restes chinois et RSA.[br/][br/]III. Protection de l'information. Quelques corps finis. Espaces vectoriels. Distance de Hamming. Codes linéaires. Codes de Reed Solomon.",
+      "Forme du contrôle":"Contrôle continu 10% et examen final 90%",
+      "Bibliographie et matériel":"\"Sciences de l'Information\", J.Y. Le Boudec, R. Urbanke et P. Thiran, online",
+      "Objectifs d'apprentissage":"Les fichiers échangés sur Internet et stockés sur les disques durs contiennent de l'information qui deviendra finalement du texte, des images ou des sons. Comment cette information est-elle mesurée et comprimée? Sécurisée? Protégée?[br/][br/]Ce sont les trois questions auxquelles ce cours répond."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sciences de l'information",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

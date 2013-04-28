@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776102&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","453"],
+    "title":"Robotics Laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776102&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115671",
+      "name":"Billard Aude"
+    },{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    },{
+      "url":"http://people.epfl.ch/102717",
+      "name":"Mondada Francesco"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The goal of this lab series is to learn how to apply control methods for a variety of robots, ranging from industrial robots to autonomous mobile robots, to robotic devices, all the way to interactive robots. The theory and methods covered in this lab series span a wide range of subjects. These include precise robot control, modeling and system identification, control of  mobile robots, vision-based control and bio-inspired vision, behavior-based control, and small humanoid robots. Students will use a variety of software and robots available in the labs.[br/]",
+      "Content":"1. Mobile robot position estimation and navigation[br/]2. DOF Box II: Creating a multi degrees of freedom mobile robot[br/]3. Optic Flow-based Mobile Robot Control: Insect-inspired Strategies[br/]4. Robot control: application to the Delta Thalès robot[br/]5. Robot control: application to the «Delta Direct Drive» robot[br/]6. Robot control: application to an ABB robot[br/]7. Robot calibration: application to the parallel robot Delta Keops[br/]8. Assembly, programming and characterization of a modular fish robot[br/]9. Altitude and Speed Control for Micro Air Vehicles[br/][br/]Languages : FR/EN"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Robotics Laboratory Work",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115671",
+      "name":"Billard Aude"
+    },{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    },{
+      "url":"http://people.epfl.ch/102717",
+      "name":"Mondada Francesco"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Exercices, travail sur robots mobiles",
+      "Contenu":"1. Estimation de position d'un robot mobile[br/]2. DOF Box II: Création d'un robot mobile a plusieurs DDL [br/]3. Contrôle de robot mobile par flux optique: stratégies inspirées des insectes [br/]4. Commande de robots : application au Delta Thalès [br/]5. Commande de robots, étude du robot «Delta Direct Drive»[br/]6. Commande de robot ABB [br/]7. Calibrage de robots, application au robot parallèle Delta Keops[br/]8. Assemblage, programmation et caractérisation d'un robot poisson modulaire[br/]9. Contrôle d'altitude et vitesse d'un robot volant miniature[br/][br/]Langues : FR/EN",
+      "Prérequis":"Robotique/Microrobotique",
+      "Objectifs d'apprentissage":"L'objectif de cette série de TP est d'apprendre l'application de méthodes de contrôle pour différents robots, qu'ils soient de type industriels, mobiles autonomes, périphériques ou interactifs. La théorie et les méthodes utilisées dans cette série de TP couvrent une large plage de sujets incluant le contrôle précis de robots, le contrôle basé sur la vision, la robotique bio-inspirée, la robotique comportementale et les petits robots humanoïdes. Les étudiants utiliseront différents programmes et robots disponibles dans les laboratoires."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Robotique TP",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

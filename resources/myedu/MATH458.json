@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497047397&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","458"],
+    "title":"Programming concepts in scientific computing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497047397&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course provides a scientific computing view to programming. The main goal is to familiarize the student with the modern programming techniques used to guarantee clean codes with safe and fast execution. The course is based on C++.[br/]",
+      "Content":"[li]Reminder: Arrays, typedef, pointers, std::vector[br/][li]Namespace, Class and Struct[br/][li]I/O[br/][li](Very) basics on the compiler[br/][li]Inheritance[br/][li]Templates[br/][li]STL[br/][li]Functors[br/][li]Exceptions[br/][li]Design Patterns[br/][li]Elements of Metaprogramming",
+      "Type of teaching":"Ex cathedra lecture and projects in the classroom",
+      "Form of examination":"Quiz and projects during the semester (75%) and a Lab Test (25%)",
+      "Required prior knowledge":"A programming language (C, C++, Fortran, Java, ...)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Programming concepts in scientific computing",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98990-0&amp;con_lng=ENG\" target=\"blank\">C   and object-oriented numeric computing for scientists and engineers / Daoqi Yang</a>\". Year:2001. ISBN:0-387-98990-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4471-2735-2&amp;con_lng=ENG\" target=\"blank\">Guide to scientific computing in C   / Joe Pitt-Francis, Jonathan Whiteley</a>\". Year:2012. ISBN:978-1-4471-2735-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-81754-4&amp;con_lng=ENG\" target=\"blank\">Parallel scientific computing in C   and MPI : a seamless approach to parallel algorithms and their implementation / George Em Karniadakis, Robert M. Kirby</a>\". Year:2003. ISBN:0-521-81754-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Un langage de programmation (C, C++, Fortran, Java, ...)",
+      "Bibliographie et matériel":"Guide to Scientific Computing in C++, J. Pitt-Francis and J. Whiteley, Springer 2012.[br/][br/]Other references:[br/]C++ and Object Oriented Numeric Computing for Scientists and Engineers, Daoqui Yang, Springer-Verlag, 2000.[br/]Parallel scientific computing in C++ and MPI, Karniadakis, G. and Kirby, R.M., Cambridge University Press, 2003.",
+      "Forme d'enseignement":"Cours ex cathedra et projets en classe",
+      "Contenu":"[li]Rappel : Arrays, typedef, pointeurs, std::vector[br/][li]Namespace, Class and Struct[br/][li]I/O[br/][li]Bases sur le compilateur[br/][li]Héritage[br/][li]Templates[br/][li]STL[br/][li]Functors[br/][li]Exceptions[br/][li]Design Patterns[br/][li]Eléments de Metaprogramming",
+      "Forme du contrôle":"Quiz et projets pendant le semestre (75%) et un test en laboratoire (25%)",
+      "Objectifs d'apprentissage":"Ce cours donne le point de vue du calcul scientifique sur la programmation. L'objectif principal est de familiariser l'étudiant avec les techniques de programmation modernes utilisées pour garantir des codes lisibles, corrects et propres, combinés avec une exécution fiable et rapide. Le cours est basé sur le C++."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Programming concepts in scientific computing",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98990-0&amp;con_lng=FRE\" target=\"blank\">C   and object-oriented numeric computing for scientists and engineers / Daoqi Yang</a>\". Année:2001. ISBN:0-387-98990-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4471-2735-2&amp;con_lng=FRE\" target=\"blank\">Guide to scientific computing in C   / Joe Pitt-Francis, Jonathan Whiteley</a>\". Année:2012. ISBN:978-1-4471-2735-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-81754-4&amp;con_lng=FRE\" target=\"blank\">Parallel scientific computing in C   and MPI : a seamless approach to parallel algorithms and their implementation / George Em Karniadakis, Robert M. Kirby</a>\". Année:2003. ISBN:0-521-81754-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

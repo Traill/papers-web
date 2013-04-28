@@ -1,0 +1,90 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775427&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","101(f)"],
+    "title":"General physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775427&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=&ww_c_langue=en",
+    "section":"MA",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://lphe.epfl.ch/oschneid/","http://lphe.epfl.ch/oschneid/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/179803",
+      "name":"Blanc Frédéric"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    },{
+      "url":"http://people.epfl.ch/162579",
+      "name":"Schneider Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Optional test (written test) and written examination at the end of the semester",
+      "Prerequisite for":"General physics II",
+      "Required prior knowledge":"Math level required for \"maturité fédérale\", see on the left the hyperlinks and the book, indicative of the level of math appropriate for a good start at EPFL. ",
+      "Content":"The course may contain, but not exclusively, the following elements :[br/][] [br/][br/][b]Mechanics[/b][br/][br/][b]Introduction and kinematics[/b][br/]Reference frames, trajectories, velocity, acceleration, Cartesian, spherical and cylindrical coordinates.[br/][br/][b]Dynamics of pint mass[/b][br/]Momentum, Newton's laws, fundamental forces, empirical forces and constraints. Oscillatory motion, Angular momentum[br/][br/][b]Work, power, energy[/b][br/]Kinetic energy, potential energy, conservation laws, gravitational motion. Collisions and percussions.[br/]",
+      "Type of teaching":"Ex cathedra + exercises in class.",
+      "Learning outcomes":"Give the student the basic notions that will allow him or her to have a better understanding of physical phenomena. Acquire the capacity to analyse quantitatively the consequences of these effects with appropriate theoretical tools."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-829-6&amp;con_lng=ENG\" target=\"blank\">MÃ©canique / Jean-Philippe Ansermet</a>\". Year:2009. ISBN:978-2-88074-829-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://lphe.epfl.ch/oschneid/","http://lphe.epfl.ch/oschneid/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/179803",
+      "name":"Blanc Frédéric"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    },{
+      "url":"http://people.epfl.ch/162579",
+      "name":"Schneider Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Niveau mathématique de la maturité fédérale, voir par exemple [br/]http://www.vsmp.ch/crm/cat.htm[br/]http://www.vsmp.ch/crp/informations/nouvelle_maturite_2.html[br/]\"Savoir-Faire en Maths\" PPUR",
+      "Bibliographie et matériel":"Livre de cours: \"Mécanique\", J.-Ph. Ansermet, Presses polytechniques  [br/]universitaires romandes, 2009, ISBN 978-2-88074-829-6[br/]Copie des transparents et autres ressources disponibles sur le site  [br/]web du cours dans moodle",
+      "Forme d'enseignement":"Ex cathedra + exercices en salle.",
+      "Contenu":"L'enseignement peut contenir, mais pas exclusivement, les éléments suivants :[br/][br/][b]Mécanique[/b][br/][br/][b]Introduction et Cinématique[/b][br/]Référentiels. Trajectoire. Vitesse. Accélération. Coordonnées cartésiennes, cylindriques et sphériques.[br/][br/][b]Dynamique du point matériel[/b][br/]Quantité de mouvement. Lois de Newton. Forces fondamentales, empiriques et de liaison. Mouvement oscillatoire. Moment cinétique.[br/] [br/][br/][b]Travail, puissance, énergie[/b][br/]Energies cinétique, potentielle, mécanique. Lois de conservation. Mouvements gravitationnels. Chocs et réactions. [br/]",
+      "Forme du contrôle":"Epreuve facultative (test écrit) et examen écrit en fin de semestre",
+      "Préparation pour":"Physique générale II",
+      "Objectifs d'apprentissage":"Donner à l'étudiant les notions de base nécessaires à la compréhension des phénomènes physiques. Etre capable de prévoir quantitativement les conséquences de ces phénomènes avec des outils théoriques appropriés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-829-6&amp;con_lng=FRE\" target=\"blank\">MÃ©canique / Jean-Philippe Ansermet</a>\". Année:2009. ISBN:978-2-88074-829-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

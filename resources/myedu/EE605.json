@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241587241&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","605"],
+    "title":"Statistical Sequence Processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241587241&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.idiap.ch/resource/lectures/statistical-sequence-processing","http://www.idiap.ch/resource/lectures/statistical-sequence-processing"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to provide the students with the main formalisms, models and algo-rithms required for the implementation of advanced processing of sequential patterns and time series, with application in speech recognition (as well as othjer applications like handwriting recognition, time series prediction). ",
+      "Content":"1. Introduction: Statistical (static and dynamic) pattern recognition, temporal pattern recognition problems, etc[br/]2. Basic tools in temporal pattern modeling: Correlation, autocorrelation, linear/nonlinear AR, ARMA and ARCH modeling.[br/]3. Statistical pattern recognition: Bayes classifiers, artificial neural networks (ANNs), discriminant functions, Expectation-Maximization algorithm, dynamic programming.[br/]4. Sequence processing: discrete Markov models, hidden Markov models (HMM), autoregressive (AR)-HMM, hybrid HMM/ANN systems, parameter estimation (EM and forward-backward algorithms applied to these models).[br/]5. Laboratory exercises: in statistical pattern recognition, autoregressive modeling, Markov models and hidden Markov models.[br/]",
+      "Keywords":"Statistical modeling, Markov models, hidden Markov models, artificial neural networks for sequence processing ",
+      "Note":"Course notes (and relevant book chapters) available: ",
+      "Required prior knowledge":"Undergraduate level statistics, linear algebra (matric computations, up to PCA) and minimum knowledge/interest in signal processing and machine learning.  Programming in Matlab or similar."
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Statistical Sequence Processing",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.idiap.ch/resource/lectures/statistical-sequence-processing","http://www.idiap.ch/resource/lectures/statistical-sequence-processing"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Course notes (and relevant book chapters) available: http://idiap.epfl.ch/courses",
+      "Contenu":"1. Introduction: Statistical (static and dynamic) pattern recognition, temporal pattern recognition problems, etc[br/]2. Basic tools in temporal pattern modeling: Correlation, autocorrelation, linear/nonlinear AR, ARMA and ARCH modeling.[br/]3. Statistical pattern recognition: Bayes classifiers, artificial neural networks (ANNs), discriminant functions, Expectation-Maximization algorithm, dynamic programming.[br/]4. Sequence processing: discrete Markov models, hidden Markov models (HMM), autoregressive (AR)-HMM, hybrid HMM/ANN systems, parameter estimation (EM and forward-backward algorithms applied to these models).[br/]5. Laboratory exercises: in statistical pattern recognition, autoregressive modeling, Markov models and hidden Markov models.[br/]",
+      "Mots clés":"Statistical modeling, Markov models, hidden Markov models, artificial neural networks for sequence processing ",
+      "Prérequis":"Undergraduate level statistics, linear algebra (matric computations, up to PCA) and minimum knowledge/interest in signal processing and machine learning.  Programming in Matlab or similar.",
+      "Objectifs d'apprentissage":"The goal of this course is to provide the students with the main formalisms, models and algo-rithms required for the implementation of advanced processing of sequential patterns and time series, with application in speech recognition (as well as othjer applications like handwriting recognition, time series prediction). "
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Statistical Sequence Processing",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

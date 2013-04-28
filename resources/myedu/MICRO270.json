@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772502&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","270"],
+    "title":"Chemistry of surfaces",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772502&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understanding the importance of intermolecular interaction forces in[br/]micro-engineering and technologies. Get rough insight in surface[br/]characterization methods. Learn the physico-chemical basics of liquid and gas phase chemical processing.[br/]",
+      "Content":"[b]1. Ideal and real surfaces; Pollution - Cleaning methods[/b][br/]Structure and chemical composition of surfaces[br/]Pollution sources[br/]Cleaning methods[br/][br/][b]2. Interaction Forces[/b][br/]Interaction types between atoms and molecules with surfaces[br/]Surface adsorption, Langmuir isotherm; Absorption[br/]Chemical bonds, metallic, ionic, donor-acceptor, hydrogen-bonds [br/]Electrostatic, electro-dynamic, van der Waals Forces[br/][br/][b]3. Surface functionalization methods[/b][br/]Chemical, and electrochemical coatings, oxidation in air[br/]Mono-layers: Langmuir-Blodgett, Self-assembly, Silanization[br/]Hydrophobic coatings, bio-specific coatings[br/]Complexes - importance in etching processes[br/]Complexes - in galvanic electrochemical solutions[br/][br/][b]4. Topographical characterization of surfaces[/b][br/]Classical optical methods: microscopes and ellipsommetry[br/]Electron microscopy[br/]Atomic Force Microscopy [br/][br/][b]5. Chemical characterization of surfaces[/b][br/]Optical methods : spectroscopy (example Infrared spectroscopy)[br/]Scanning electron microscopy, Electron Dispersive X-ray spectroscopy (EDX)[br/]X-Ray Photo-electron Spectroscopy (XPS) [br/]Scanning Tunneling Microscopy (STM)[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chemistry of surfaces",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-870072-5&amp;con_lng=ENG\" target=\"blank\">Atkins' physical chemistry / Peter Atkins, Julio de Paula</a>\". Year:2006. ISBN:0-19-870072-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"cours et exercices",
+      "Contenu":"[b]1.\tSurfaces idéales, réelles, Pollution - Méthodes de nettoyage[/b][br/]Structure et composition chimiques des surfaces[br/]Sources de pollution[br/]Méthodes de nettoyage[br/][br/][b]2.\tForces d'interaction[/b][br/]Types d'interactions entre les atomes et molécules avec des surfaces[br/]Adsorption en surface d'atomes, isotherme de Langmuir; absorption[br/]Différents types de liaisons chimiques, métalliques, ionique, donneur-accepteur, pont d'hydrogènes [br/]Forces électrostatiques, électrodynamiques,  van der Waals[br/][br/][b]3.\tMéthodes de fonctionnalisation des surfaces[/b][br/]Recouvrements chimiques, électrochimiques, oxydation dans l'air[br/]Mono-couches: Langmuir-Blodgett, Auto-assemblage, Silanisation[br/]Recouvrements hydrophobes, bio-spécifiques[br/]Complexation - pour dissolution électrochimique[br/]Complexation - pour stabilisation des bains de déposition galvanique[br/][br/][b]4.\tCaractérisation topographiques des surfaces[/b][br/]Méthodes optiques classiques: microscopie et ellipsométrie[br/]Microscopie électronique à balayage[br/]Microscopie à force atomique [br/][br/][b]5.\tCaractérisation chimique des surfaces[/b][br/]Méthodes optiques: la spectroscopie infrarouge[br/]Microscopie électronique à balayage, spectroscopie des rayons X (EDX)[br/]Spectroscopie des photoélectrons par rayons X (XPS) [br/]Microscopie à effet Tunnel, STM[br/]",
+      "Bibliographie et matériel":"Atkin's Physical Chemistry: 8ième edition (anglais); Editeur(s) : Oxford University Press; Auteur: P. Atkins, J. de Paula; ISBN: 0-19-870072-5",
+      "Objectifs d'apprentissage":"Comprendre l'importance des forces d'interaction moléculaire pour la microtechnique. Acquérir des notions préliminaires sur les méthodes de caractérisation de surfaces. Apprendre les bases physico- chimiques des procédés d'usinage chimique en phase liquide et en phase vapeur."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie des surfaces",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-870072-5&amp;con_lng=FRE\" target=\"blank\">Atkins' physical chemistry / Peter Atkins, Julio de Paula</a>\". Année:2006. ISBN:0-19-870072-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

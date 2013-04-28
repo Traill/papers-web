@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1625196041&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","785"],
+    "title":"Optimization Methods for High-Dimensional Statistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1625196041&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/231164",
+      "name":"Michailidis George"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Gaining an overview of central optimization methods in statistics, ranging from the basic techniques up to methods employed in high-dimensional statistics.[br/]",
+      "Content":"Introduction to Karush-Kuhn-Tucker theory and convexity; majorization-maximization algorithm and applications; Newton's method and variants, conjugate gradient method and convergence analysis; background results from convex analysis; duality theory; algorithms for convex optimization (e.g. proximal methods, homotopy methods, interior point methods); applications to statistical problems.[br/]",
+      "Keywords":"convex analysis; optimization; high dimensional statistics",
+      "Prerequisite for":"real analysis; elementary topology; multivariate statistics",
+      "Form of examination":"oral presentation and project work"
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Optimization Methods for High-Dimensional Statistics",
+    "recitation":{
+      "total_hours":16
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/231164",
+      "name":"Michailidis George"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Introduction to Karush-Kuhn-Tucker theory and convexity; majorization-maximization algorithm and applications; Newton's method and variants, conjugate gradient method and convergence analysis; background results from convex analysis; duality theory; algorithms for convex optimization (e.g. proximal methods, homotopy methods, interior point methods); applications to statistical problems.[br/]",
+      "Mots clés":"convex analysis; optimization; high dimensional statistics",
+      "Préparation pour":"real analysis; elementary topology; multivariate statistics",
+      "Forme du contrôle":"oral presentation and project work",
+      "Objectifs d'apprentissage":"Gaining an overview of central optimization methods in statistics, ranging from the basic techniques up to methods employed in high-dimensional statistics.[br/]"
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Optimization Methods for High-Dimensional Statistics",
+    "recitation":{
+      "total_hours":16
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

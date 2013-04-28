@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1542953756&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","404"],
+    "title":"Analysis and modelling of locomotion",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1542953756&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-B",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    },{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analysis and modelling of locomotion",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-39818-0&amp;con_lng=ENG\" target=\"blank\">Biomechanics and motor control of human movement / David A. Winter</a>\". Year:2009. ISBN:978-0-470-39818-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    },{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physics I,II,III,IV, MATLAB, Basic physiology and biology",
+      "Bibliographie et matériel":"Biomechanics and motor control of human movement, D.A. Winter",
+      "Mots clés":"Neurophysiology,motor system,locomotion, kinematics, gait analysis,MATLAB, modeling",
+      "Forme d'enseignement":" Ex cathedra, with exercises, modeling session with MATLAB",
+      "Contenu":"Introduction on the basics in anathomy and physiology of locomotion, kinematics measurement and motion capture. Stereo-photogrammetry, ultrasound and magnetic motion capture. Accelerometers, gyroscopes, magnetometers and inertial-based motion capture systems. Kinematics approach for gait analysis.[br/]Kinetics of locomotion. forces and moment measurements- Forces transducers and force plates, pressure measuring systems and pressure insoles, combining kinetics with kinematics, energy and power of body segment inverse dynamics, muscular activity. Application to gait analysis[br/]Spatio-temporal gait analysis. Walking phase detection, measurement of stride length, stride velocity, cadence and other spatio-temporal parameters. Gait symmetry, gait variability and gait coordination measurement. Clinical gait analysis. Practical examples of modeling  relevant analogies of equivalents of locomotion[br/][br/][br/]",
+      "Forme du contrôle":"Written exam with MCQ and short answer questions - a bonus will be given according short answer questions given during each class",
+      "Objectifs d'apprentissage":"The course aims to fill the gap in human movement science where fundamental principles and methods used for modeling and measuring the movement are integrated with anatomy and physiology to analyze and understand locomotion. The course aims at providing essential knowledge to understand the physiology of the locomotion system and master basic techniques to measure, model and analysis the locomotion.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analysis and modelling of locomotion",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-39818-0&amp;con_lng=FRE\" target=\"blank\">Biomechanics and motor control of human movement / David A. Winter</a>\". Année:2009. ISBN:978-0-470-39818-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=462269250&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","708"],
+    "title":"Supplementary Cementitious Materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=462269250&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lmc.epfl.ch","http://lmc.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"this course will present all aspects of supplementary cementitious materials and their use in concrete.",
+      "Content":"1.[][]Overview of course and summary objectives, perspective on sustainable development.[br/]2.[][]Sources of SCM- production, composition and characterisation[br/]3.[][]Effect of SCM of early age propersties of concrte: rheology, temperature rise, ec.[br/]4.[][]Effect of SCMs in cimentitious systems[br/]5.[][]Effect of SCMs on 'in service' performance: strength, transport properties, etc.[br/]6.[][]Role of SCMs in Durability[br/]7.[][]Alternative Cementitious Binders: Chemical Persperctives[br/]8.[][]Activiated clay for developing countries[br/]9.[][]Summary and conclusions[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supplementary Cementitious Materials",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lmc.epfl.ch","http://lmc.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Overview of course and summary objectives, perspective on sustainable development.[br/]2. Sources of SCM- production, composition and characterisation[br/]3. Effect of SCM of early age propersties of concrte: rheology, temperature rise, ec.[br/]4. Effect of SCMs in cimentitious systems[br/]5. Effect of SCMs on 'in service' performance: strength, transport properties, etc.[br/]6. Role of SCMs in Durability[br/]7. Alternative Cementitious Binders: Chemical Persperctives[br/]8. Activiated clay for developing countries[br/]9. Summary and conclusions[br/]",
+      "Objectifs d'apprentissage":"this course will present all aspects of supplementary cementitious materials and their use in concrete."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supplementary Cementitious Materials",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

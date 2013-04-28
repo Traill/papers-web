@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773802&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","125"],
+    "title":"Geometry II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773802&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the geometry of curves and surfaces.",
+      "Content":"1.\tParametrized curves[br/]2.\tVectorfields along a curve[br/]3.\tCurvature and torsion[br/]4.\tParametrized surfaces[br/]5.\tTangent vectors [br/]6.\tThe differential map[br/]7.\tThe metric tensor[br/]8.\tApplications to cartography[br/]9.\tCurvatures of a surface[br/]10.\tGeodesics[br/]11.\tThe Gauss curvature[br/]12.\tTowards non-Euclidean geometry",
+      "Type of teaching":"Ex cathedra lecture",
+      "Form of examination":"Written exam",
+      "Note":"Link with other courses: Linear Algebra, Analysis"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geometry II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=ENG\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Year:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Liaison avec d'autres cours : Algèbre linéaire, Analyse",
+      "Bibliographie et matériel":"Livre de M. Troyanov : \"Cours de Géométrie\", PPUR 2009.",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"1.\tCourbes paramétrées[br/]2.\tChamps vectoriels le long d'une courbe[br/]3.\tCourbure et torsion[br/]4.\tSurfaces paramétrées[br/]5.\tVecteurs tangents [br/]6.\tL'application tangente[br/]7.\tLe tenseur métrique[br/]8.\tApplications à la cartographie[br/]9.\tCourbures d'une surface[br/]10.\tGéodésiques[br/]11.\tLa courbure de Gauss[br/]12.\tNotions sur la géométrie non-Euclidienne",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Introduction à la géométrie différentielle des courbes et des surfaces."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Géométrie II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=FRE\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Année:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

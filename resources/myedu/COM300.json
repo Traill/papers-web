@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774997&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["COM","300"],
+    "title":"Stochastic models in communication",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774997&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://icawww1.epfl.ch/cours_thi/public/","http://icawww1.epfl.ch/cours_thi/public/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103925",
+      "name":"Thiran Patrick"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Mid-term 20%, final exam 80%",
+      "Bibliography and material":"Polycopié",
+      "Prerequisite for":"Courses in Communication Systems (Bachelor and Master) and Computer Science (Master)using stochastic models or random methods",
+      "Required prior knowledge":"Linear algebra, calculus, and first probability course (MATH-232)",
+      "Content":"1. Review of probability: axioms of probability, random variable and random vector.[br/][br/]2. Continuous-time and discrete-time stochastic processes: second-order analysis (stationarity, ergodism, spectral density, Wiener-Khintchine relations, response of a LTI system to random inputs, Gaussian processes, ARMA processes, Wiener filter). Application to simple optimal detection schemes, and to simple image restoration and compression.[br/][br/][br/]3. Poisson process and Poisson shot noise. Application to opical fiber transmission.[br/][br/]4. Discrete-time Markov chains. Ergodic chains, asymptotic behavior, absorbing chains, reaching time, simple random walks, branching processes.[br/][br/]5. Continuous-time Markov chains. Birth and death process: transient and steady-state analysis. Simple queues: definitions, Little's law, M/M/1... M/M/s/K, M/G/1 queues. Application to communication networks.",
+      "Type of teaching":"Ex cathedra and exercise sessions",
+      "Learning outcomes":"To acquire a working knowledge of the tools of random processes used by an engineer in communication and computer systems."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Stochastic models in communication",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://icawww1.epfl.ch/cours_thi/public/","http://icawww1.epfl.ch/cours_thi/public/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103925",
+      "name":"Thiran Patrick"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire, analyse et premier cours de probabilité (MATH-232)",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra et séances d'exercices",
+      "Contenu":"1. Rappels de probabilité: axiomes de probabilité, variable aléatoire et vecteur aléatoire.[br/][br/]2. Processus stochastiques à temps continu et à temps discret : analyse du second ordre (stationarité, ergodisme, densité spectrale, relations de Wiener-Khintchine, réponse d'un système linéaire invariant à des entrées aléatoires, processus gaussien, processus ARMA, filtres de Wiener). Application à des cas simples de détection optimale, de restauration et de compression d'image.[br/][br/]3. Processus de Poisson et bruit impulsif de Poisson. Application aux transmissions sur fibres optiques.[br/][br/]4. Chaînes de Markov à temps discret. Chaînes ergodiques, comportement asymptotique, chaînes absorbantes, temps d'atteinte, marches aléatoires simples, processus de branchement.[br/][br/]5. Chaînes de Markov à temps continu. Processus de naissance et de mort à l'état transitoire et stationnaire. Files d'attente simples: définition, loi de Little, files M/M/1... M/M/s/K, M/G/1. Application aux réseaux de communication.",
+      "Forme du contrôle":"Examen intermédiaire 20%, examen final 80%",
+      "Préparation pour":"Cours en Systèmes de Communication (Bachelor et Master) et informatique (Master)utilisant des modèles stochastiques ou des méthodes aléatoires",
+      "Objectifs d'apprentissage":"Maîtriser les outils des processus aléatoires utilisés par un ingénieur en systèmes de communication et informatique"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modèles stochastiques pour les communications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

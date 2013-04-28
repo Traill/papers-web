@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48289169&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","447"],
+    "title":"Stem cell biology and technology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48289169&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149977",
+      "name":"Barrandon Yann"
+    },{
+      "url":"http://people.epfl.ch/106911",
+      "name":"Lutolf Matthias"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to invertebrate and mammmalian stem cells; their role during development, tissue homeostasis and disease.",
+      "Content":"Embryonic stem cells, adult stem cells including hemaotopoietic, skin, intestine, neuronal and cancer stem cells. Concepts of nuclear reprogramming, cloning, and molecular basis of self-renewal.[br/]Stem cells and therapy, emerging concept in stem cell bioengineering.",
+      "Type of teaching":"Lectures and exercices",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Stem cell biology and technology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374729-7&amp;con_lng=ENG\" target=\"blank\">Essentials of stem cell biology / eds.: Robert Lanza ... [et al.]</a>\". Year:2009. ISBN:978-0-12-374729-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149977",
+      "name":"Barrandon Yann"
+    },{
+      "url":"http://people.epfl.ch/106911",
+      "name":"Lutolf Matthias"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours et exercices",
+      "Contenu":"Cellules souches embryonnaires, cellules souches adultes y compris les cellules hemaotopoietiques, de la peau, intestinales, cellules neuronales et cellules souches cancéreuses.[br/]Concepts de la reprogrammation nucléaire, du clonage et bases moléculaires de la régénéréscence.",
+      "Forme du contrôle":"Examen écrit",
+      "Bibliographie et matériel":"\"Essentials of stem cell biology\", J. Gearhard, B. Hogaan, D. Melton, R. Pedersen, ed.Robert Lanza. ISBN 978-0-12-088442-1 et 0-12-088442-9",
+      "Objectifs d'apprentissage":"Introduction aux cellules souches des invertébrés et des mammifères; leurs rôles durant le développement, l'homéostasie des tissus et la maladie."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Stem cell biology and technology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374729-7&amp;con_lng=FRE\" target=\"blank\">Essentials of stem cell biology / eds.: Robert Lanza ... [et al.]</a>\". Année:2009. ISBN:978-0-12-374729-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=621361085&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","217"],
+    "title":"Conception, simulation and computer science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=621361085&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"ENAC",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Conception, simulation and computer science",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Séminaires pluridisciplinaires qui impliquent l'intervention d'un ingénieur civil, d'un architecte, d'un informaticien et d'un biologiste pour visualiser les concepts introduits.[br/]Un travail de modélisation rapide et de calcul d'images de synthèse sera effectué pour conclure la semaine.[br/]Lieu et encadrement: sur le site de l'EPFL.[br/]",
+      "Contenu":"L'évaluation est faite sur la base des comptes-rendus présentés lors des séminaires, des documents produits et de la présentation finale.",
+      "Forme du contrôle":"Elaboration d'un petit dossier et présentation des images et modèles élaborés lors de la semaine.",
+      "Remarque":"L'encadrement sera assuré par le LIV: [br/]Georges Abou Jaoudé, professeur [br/]Ilaria Albisetti, assistante [br/]Marco Bellotti, assistant[br/][br/]Interventions de Roland Beylouné, ingénieur.[br/]",
+      "Objectifs d'apprentissage":"Comprendre l'implication de l'évolution de l'informatique en général sur le processus de conception.[br/]A titre d'exemple, nous travaillerons sur des modèles biologiques, des objets d'architecture et la conception d'ouvrages."
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Conception, simulation et informatique",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

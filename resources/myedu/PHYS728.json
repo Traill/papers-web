@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=238853796&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","728"],
+    "title":"Three-dimensional reconstruction of biological macromolecules from electron microscope images",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=238853796&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To develop skills necessary to reconstruct the three-dimensional structure of a biological specimen imaged using an electron microscope[br/]",
+      "Content":"Overview of an electron microscope[br/]Overview of specimen preparation techniques[br/]Image formation in an electron microscope: Contract transfer function[br/]Data collection techniques[br/]Single particle and tomographic data processing[br/]Symmetry, averaging and classification[br/]Overview of three-dimensional reconstruction algorithms[br/]Interpretation of three-dimensional EM reconstructions[br/]",
+      "Keywords":"Cryo-electron microscopy, three-dimensional image reconstruction, electron microscope, image processing[br/]",
+      "Note":"Desirable prior knowledge: Unix command line[br/]",
+      "Required prior knowledge":"Bachelor level physics, Good programming skills[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Three-dimensional reconstruction of biological macromolecules from electron microscope images",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Three-dimensional reconstruction of biological macromolecules from electron microscope images",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

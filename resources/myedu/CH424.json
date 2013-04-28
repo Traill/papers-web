@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771733&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","424"],
+    "title":"Supramolecular chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771733&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the field of Supramolecular Chemistry using selected examples from the recent literature.",
+      "Content":"[br/][li] Introduction[br/][li] Basics[br/][li] Receptors for cations[br/][li] Receptors for anions[br/][li] Receptors for neural molecules[br/][li] Supramolecular coordination chemistry[br/][li] Catenanes, rotaxanes and knots[br/][li] Molecular machines[br/][li] Supramolecular catalysis[br/][li] Self-replicating molecules[br/][li] Molecular imprinting[br/][li] Dynamic combinatorial libraries[br/][li] Foldamers[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supramolecular chemistry",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-97253-3&amp;con_lng=ENG\" target=\"blank\">Principles and methods in supramolecular chemistry / Hans-Jörg Schneider and Anatoly K. Yatsimirsky</a>\". Year:2000. ISBN:0-471-97253-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-51233-3&amp;con_lng=ENG\" target=\"blank\">Supramolecular chemistry / Jonathan W. Steed, Jerry L. Atwood</a>\". Year:2009. ISBN:978-0-470-51233-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[br/][li] Introduction[br/][li] Principes[br/][li] Récepteurs pour cations[br/][li] Récepteurs pour anions[br/][li] Récepteurs pour molécules neutres[br/][li] Chimie de coord. supramoléculaire[br/][li] Catenanes, rotaxanes et noeuds[br/][li] Machines moléculaires[br/][li] Catalyse supramoléculaire[br/][li] Molécules auto-réplicantes[br/][li] Impression moléculaire[br/][li] Bibliothèques combinatoires dynamiques[br/][li] Foldamers[br/]",
+      "Bibliographie et matériel":"\"Supramolecular Chemistry\", J.W. Steed, J.W. Atwood; [br/]\"Principles and Methods in Supramolecular Chemistry\", H.J. Schneider, A. Yatsimirsky[br/]",
+      "Objectifs d'apprentissage":"Introduction à la chimie supramoléculaire au moyen d'exemples tirés de la littérature récente."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supramolecular chemistry",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-97253-3&amp;con_lng=FRE\" target=\"blank\">Principles and methods in supramolecular chemistry / Hans-Jörg Schneider and Anatoly K. Yatsimirsky</a>\". Année:2000. ISBN:0-471-97253-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-51233-3&amp;con_lng=FRE\" target=\"blank\">Supramolecular chemistry / Jonathan W. Steed, Jerry L. Atwood</a>\". Année:2009. ISBN:978-0-470-51233-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

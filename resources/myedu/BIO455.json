@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543013152&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","455"],
+    "title":"Introduction to Law and ethics in LST",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543013152&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167298",
+      "name":"Pelet Robert-Nicoud Odile"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Provide an overview of the ethical debate in and the applicable law to the life sciences and technology.[br/]At the end of this course, students will be able to identify the ethical and legal issues at stake in specific cases, find pertinent legal norms by using internet resources, and develop basic ethical and legal arguments. They should also be able to formulate a problem related to life sciences and technology in ethical and legal terms and identify situations where they should seek further legal assistance.",
+      "Content":"The course will be divided into five parts:[br/][br/]1. Introduction to ethics and law, distinction between law, ethics, professional rules, etc. (internormativity), the various sources of law and how they are adopted and implemented.[br/]2. Legal notion of person, nature of the human body and body parts, nature and scope of the rights applying to them (personality rights, property rights, intellectual property rights, etc.), protection of the embryo (in vitro and in utero), protection of the cadaver.[br/]3. Regulation of research involving human subjects and biobanks: basic notions, fundamental rules, conflicts of interests, protection of scientific integrity of research, legal requirements for collecting storing, processing, and transferring human biological material, data protection issues, biosafety, quality control, etc.[br/]4. Legal status of the animal in constitutional and civil law, protection of the animals, ethical and legal requirements concerning research with the animals, ethical and legal framework concerning the GMO.[br/]5. Basic elements of intellectual property, international and biotechnologies aspects.",
+      "Type of teaching":"For English-speaking students, a project will be assigned and will have to be presented at the end of the semester."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to Law and ethics in LST",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167298",
+      "name":"Pelet Robert-Nicoud Odile"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Les cours de propriété intellectuelle seront donnés avec la participation de Daniel Kraus, chargé de cours à la Faculté de droit de l'Université de Neuchâtel.",
+      "Prérequis":"Bachelor en sciences et technologies du vivant",
+      "Bibliographie et matériel":"Une bibliographie est fournie avec le support de cours.",
+      "Forme d'enseignement":"Enseignement interactif à partir d'exemples concrets. En principe, une heure par cours sera consacré à des discussions en groupe.",
+      "Contenu":"Le cours sera divisé en 5 parties:[br/][br/]1. Introduction au droit et à l'éthique, distinction entre droit, éthique, normes professionnelles, etc. (internormativité), les principales sources du droit et leur mode d'adoption.[br/]2. Notion juridique de la personne, nature du corps humain et de ses parties, nature et étendue des droits y relatifs (droits de la personnalité, droits de propriété, droit de propriété intellectuelle, etc.), protection de l'embryon (in vitro et in utero), protection du cadavre.[br/]3. Réglementation de la recherche impliquant des êtres humains et des biobanques: notions de base, règles fondamentales, conflits d'intérêts, protection de l'intégrité scientifiques de la recherche, exigences légales pour la collecte, la conservation, le traitement et le transfert de matériel biologique humain, étendue et nature du consentement éclairé, enjeux de protection des données, sécurité biologique, contrôle de qualité, etc.[br/]4. Statut juridique de l'animal en droit constitutionnel et droit civil, mesures de protection des animaux, exigences éthiques et juridiques relatives à la recherche avec des animaux, cadre éthique et juridique concernant les OGM.[br/]5. Eléments de base de propriété intellectuelle, aspects internationaux et de biotechnologies.",
+      "Forme du contrôle":"Examen écrit en session",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Offrir un survol du débat éthique et du droit applicable dans les domaines des sciences et des technologies du vivant.[br/]Au terme du cours, les étudiant/e/s sont en mesure d'identifier les enjeux éthiques et juridiques dans des cas spécifiques, de trouver les normes légales pertinentes en faisant usages des ressources internet et de construire un raisonnement éthique et juridique de base. Elles/Ils sont également en mesure de formuler en termes éthiques et juridiques un problème lié aux sciences ou aux technologies du vivant, de même que d'identifier les situations pour lesquels elles/ils ont besoin d'une assistance juridique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction au droit et à l'éthique en STV",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

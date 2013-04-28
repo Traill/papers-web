@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838978162&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","304"],
+    "title":"Surfaces and interfaces",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838978162&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196998",
+      "name":"Stellacci Francesco"
+    },{
+      "url":"http://people.epfl.ch/202038",
+      "name":"Voitchovsky Kislon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Surface and interface phenomena are the basis for a plethora of key classical and modern material science problems, ranging from crystallization all the way to transistor performances. In this course we will develop the basis to understand and represent surface and interface structure and properties.[br/]",
+      "Content":"- Crystallographic representation of surfaces, reconstruction[br/]- Epitaxial growth[br/]- Surface energy[br/]- Solid-liquid interfaces, interfacial energy, work of adhesion[br/]- Solid-solid interfaces, grain boundaries, interfacial energy[br/]- Surface energy, surface states and catalysis[br/]- Electronic properties of surfaces, work function, surface dipoles[br/]- Surface states[br/]- Effect of surfaces in bulk materials properties.[br/][br/]",
+      "Type of teaching":"Ex cathedra et exercises",
+      "Required prior knowledge":"Thermodynamics for materials science, Cristallographie et méthodes de diffraction, Propriétés fonctionnelles des matériaux"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Surfaces and interfaces",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196998",
+      "name":"Stellacci Francesco"
+    },{
+      "url":"http://people.epfl.ch/202038",
+      "name":"Voitchovsky Kislon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"- Représentation cristallographique des surfaces, reconstruction[br/]- Croissance épitaxiale[br/]- Energie de surface[br/]- Interfaces solide-liquide, énergie interfaciale, travail d'adhésion[br/]- Interfaces solide-solide, joints de grain, énergie d'interface[br/]- Energie de surface, états de surface et catalyse[br/]- Propriétés électroniques des surfaces, fonctions de travail, dipôles de surface.[br/]- Etats de surface[br/]- Effets de surface sur les propriétés des matériaux[br/]",
+      "Prérequis":"Thermodynamics for materials science, Cristallographie et méthodes de diffraction, Propriétés fonctionnelles des matériaux",
+      "Objectifs d'apprentissage":"Les surfaces et interfaces sont à la base d'un grand nombre de phénomènes importants en science des matériaux classique et moderne. Elles sont impliquées dans des processus aussi variés que la cristallisation et les performances des transistors. Ce cours a pour but de développer une compréhension de base des surfaces et interfaces, ainsi que de leurs structure et propriétés. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Surfaces and interfaces",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

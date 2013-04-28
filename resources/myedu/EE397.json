@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578083156&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","397"],
+    "title":"Lab in digital systems design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578083156&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    },{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Acquire a practical knowledge about methodologies and tools for the design of moderately complex digital systems.[br/]Master a FPGA design platform and related design tools.[br/]Acquire a practical knowledge about the use of VHDL for RTL modeling, synthesis and verification.[br/]Acquire a practical knowledge about project management issues in general and specific to digital system design.",
+      "Content":"In this project, students will compile a complex digital system including analog interfaces and digital circuits arranged around a programmable logic device (FPGA). The foundation of the project is an FPGA evaluation board with many typical, state-of-the-art peripheral components. The guided work covers all steps from analyzing the application to understanding the data sheets of the involved circuits all the way to the implementation of a complete embedded digital system and its implementation in VHDL. The system is realized in steps with fully functional intermittent results, leaving freedom for individual improvements toward the end of the semester. ",
+      "Type of teaching":"Project-based form involving teams of students."
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Lab in digital systems design",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    },{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Travail sous forme de projet et réalisé par des groupes d'étudiants.",
+      "Contenu":"Dans ce projet, les étudiants réaliseront un système numérique complexe incluant des interfaces analogiques et des composants numériques sur une plate-forme FPGA disposant de plusieurs composants périphériques prédéfinis. Un travail guidé couvrira toutes les étapes depuis l'analyse de l'application jusqu'à la compréhension des spécifications des composants impliqués et la réalisation du système embarqué complet à partir de sa description VHDL. La réalisation du système par étapes laissera la liberté aux étudiants d'apporter des améliorations et d'optimiser les performances attendues.",
+      "Objectifs d'apprentissage":"Acquérir une connaissance pratique sur les méthodologies et outils pour la conception de systèmes numériques modérément complexes.[br/]Maîtriser l'usage d'une plate-forme de conception FPGA et des outils de conception associés.[br/]Acquérir une une connaissance pratique sur l'usage de VHDL pour la modélisation, la synthèse et la vérification.[br/]Acquérir une une connaissance pratique sur la gestion de projet en général et spécifiquement sur les aspects propres à la conception de systèmes numériques.[br/]Contenu:[br/]Dans ce projet, les étudiants réaliseront un système numérique complexe incluant des interfaces analogiques et des composants numériques sur une plate-forme FPGA disposant de plusieurs composants périphériques prédéfinis. Un travail guidé couvrira toutes les étapes depuis l'analyse de l'application jusqu'à la compréhension des spécifications des composants impliqués et la réalisation du système embarqué complet à partir de sa description VHDL. La réalisation du système par étapes laissera la liberté aux étudiants d'apporter des améliorations et d'optimiser les performances attendues."
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"TP de conception de systèmes numériques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

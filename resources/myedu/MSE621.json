@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963806778&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","621"],
+    "title":"Characterization Methods in Materials Science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963806778&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    },{
+      "url":"http://people.epfl.ch/220185",
+      "name":"Meibom Anders"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"LECTURES:[br/]How to find, read and comment a scientific paper: what is the message, the motivation, the methods used ?[br/]How to use web of science /scopus etc.[br/][br/] Description of modern experimental techniques:[br/][li] what physical principle is it based on, what kind of information can be gained[br/][li] what type of samples, preparation[br/][li] what are the method's limits, sensitivity, resolution[br/][li] typical time, costs etc.[br/][br/]Structural characterization methods: X-ray, electron diffraction, SEM, TEM[br/]Chemical characterization: EDX, EELS[br/]Tomographic methods (X-ray, Electron microscopy, atom-probe)[br/]Surface analysis: Auger, XPS, RBS, SIMS[br/]Electrical properties: measurement of conductivity and mobility, photocurrent spectroscopythermal[br/]Optical techniques: micro/macro photoluminescence, photolumnescence excitation spectroscopy, Raman spectroscopy[br/]Scanning probe techniques.AFM, STM, MFM, SNOM[br/]Mechanical and thermal properties:    Elastic resonance, speed of sound, Dilatometry, DSC, fracture energy, Laser flash, steady state conductivity [br/][br/]RECITATION/EXERCISES:[br/]Presentation of a scientific paper: summarizing the findings, are the methods used adequate, comment on the results, what is the context, rating (quality, importance). Answering questions.[br/]",
+      "Keywords":"Characterization methods",
+      "Form of examination":"Oral[br/]Oral Presentation"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Characterization Methods in Materials Science",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    },{
+      "url":"http://people.epfl.ch/220185",
+      "name":"Meibom Anders"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"LECTURES:[br/]How to find, read and comment a scientific paper: what is the message, the motivation, the methods used ?[br/]How to use web of science /scopus etc.[br/][br/] Description of modern experimental techniques:[br/][li] what physical principle is it based on, what kind of information can be gained[br/][li] what type of samples, preparation[br/][li] what are the method's limits, sensitivity, resolution[br/][li] typical time, costs etc.[br/][br/]Structural characterization methods: X-ray, electron diffraction, SEM, TEM[br/]Chemical characterization: EDX, EELS[br/]Tomographic methods (X-ray, Electron microscopy, atom-probe)[br/]Surface analysis: Auger, XPS, RBS, SIMS[br/]Electrical properties: measurement of conductivity and mobility, photocurrent spectroscopythermal[br/]Optical techniques: micro/macro photoluminescence, photolumnescence excitation spectroscopy, Raman spectroscopy[br/]Scanning probe techniques.AFM, STM, MFM, SNOM[br/]Mechanical and thermal properties:    Elastic resonance, speed of sound, Dilatometry, DSC, fracture energy, Laser flash, steady state conductivity [br/][br/]RECITATION/EXERCISES:[br/]Presentation of a scientific paper: summarizing the findings, are the methods used adequate, comment on the results, what is the context, rating (quality, importance). Answering questions.",
+      "Forme du contrôle":"Oral[br/]Oral Presentation",
+      "Mots clés":"Characterization methods"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Characterization Methods in Materials Science",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

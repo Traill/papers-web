@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772492&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","433"],
+    "title":"Food chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772492&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/144959",
+      "name":"Klein Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the fundamentals of food chemistry.",
+      "Content":"[li] Knowledge of the properties, the functionality and specific reactions of the important food constituents: water, proteins, carbohydrates and lipids[br/][br/][li] Essential nutriments (vitamins, minerals)[br/][br/][li] Additives[br/][br/][li] Toxic components[br/][br/][li] Food authenticity assessments and frauds identification"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Food chemistry",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-003827-3&amp;con_lng=ENG\" target=\"blank\">Biochimie alimentaire : 5e édition de l'abrégé / Charles Alais ... [et al.]</a>\". Year:2003. ISBN:2-10-003827-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-051930-9&amp;con_lng=ENG\" target=\"blank\">Biochimie alimentaire : IUT, licence, écoles d'ingénieurs / Charles Alais, Guy Linden, Laurent Miclo</a>\". Year:2008. ISBN:978-2-10-051930-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8493-9272-6&amp;con_lng=ENG\" target=\"blank\">Fennema's food chemistry</a>\". Year:2008. ISBN:978-0-8493-9272-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-85404-111-4&amp;con_lng=ENG\" target=\"blank\">Food : the chemistry of its components / T.P. Coultate</a>\". Year:2008. ISBN:978-0-85404-111-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-40817-7&amp;con_lng=ENG\" target=\"blank\">Food chemistry / H.-D. Belitz, W. Grosch, P. Schieberle</a>\". Year:2004. ISBN:3-540-40817-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-754-1&amp;con_lng=ENG\" target=\"blank\">Science et technologie des aliments : principes de chimie des constituants et de technologie des procédés / Werner J. Bauer, Raphaël Badoud, Jürg Löliger ; Alain Etournaud (éd.)</a>\". Year:2010. ISBN:978-2-88074-754-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/144959",
+      "name":"Klein Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Les planches du cours sont rédigées en anglais ",
+      "Contenu":"[li] Connaissance des propriétés, de la fonctionnalité et des réactions spécifiques des constituants principaux des denrées alimentaires : eau, lipides, hydrates de carbone et protéines[br/][br/][li] Nutriments essentiels (vitamines, sels minéraux) [br/][br/][li] Additifs [br/][br/][li] Substances toxiques[br/][br/][li] Contrôle de l'authenticité des denrées et détection des fraudes",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Chimie organique\"",
+      "Bibliographie et matériel":"\"Food Chemistry\", Belitz H.-D., Grosch W., Schieberle P., Springer, 3rd revised ed., 2004[br/]\" Fennema's Food Chemistry\", S. Damodaran, L.L. Parkin, O.R. Fennema, CRC Press, 2007[br/]\" Science et technologies des aliments\", W.J. Bauer, R. Badoud, J. Löliger, A. Etournaud, PPUR, 2010[br/]\"Food: The Chemistry of its Components\", T.P. Coultate, RSC Paperbacks, 2008",
+      "Objectifs d'apprentissage":"Introduction aux bases de la chimie des denrées alimentaires."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie des denrées alimentaires",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-003827-3&amp;con_lng=FRE\" target=\"blank\">Biochimie alimentaire : 5e édition de l'abrégé / Charles Alais ... [et al.]</a>\". Année:2003. ISBN:2-10-003827-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-051930-9&amp;con_lng=FRE\" target=\"blank\">Biochimie alimentaire : IUT, licence, écoles d'ingénieurs / Charles Alais, Guy Linden, Laurent Miclo</a>\". Année:2008. ISBN:978-2-10-051930-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8493-9272-6&amp;con_lng=FRE\" target=\"blank\">Fennema's food chemistry</a>\". Année:2008. ISBN:978-0-8493-9272-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-85404-111-4&amp;con_lng=FRE\" target=\"blank\">Food : the chemistry of its components / T.P. Coultate</a>\". Année:2008. ISBN:978-0-85404-111-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-40817-7&amp;con_lng=FRE\" target=\"blank\">Food chemistry / H.-D. Belitz, W. Grosch, P. Schieberle</a>\". Année:2004. ISBN:3-540-40817-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-754-1&amp;con_lng=FRE\" target=\"blank\">Science et technologie des aliments : principes de chimie des constituants et de technologie des procédés / Werner J. Bauer, Raphaël Badoud, Jürg Löliger ; Alain Etournaud (éd.)</a>\". Année:2010. ISBN:978-2-88074-754-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776992&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","553"],
+    "title":"Speech processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776992&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104991",
+      "name":"Drygajlo Andrzej"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Prerequisite for":"Semester projects, master thesis project, doctoral thesis",
+      "Required prior knowledge":"Introduction to signal processing",
+      "Content":"[b]Introduction[/b][br/]Speech - fundamental means of communication between humans. Voice signal generalities.[br/][br/][b]Speech production and perception[/b][br/]Anatomy. Voice production. Articulatory phonetics. Acoustic phonetics. Models of speech production. Auditory perception. Psychoacoustics. Masking and critical bands.[br/][br/][b]Speech analysis and modelling[/b][br/]Short-term processing. Time-domain analysis. Spectral and time-spectral analysis. Cepstral analysis. Linear prediction analysis. Pitch and formant estimation.[br/][br/][b]Speech compression and coding[/b][br/]Waveform coding (PCM, DPCM, ADPCM). Sub-band coding. Vocoders. Vector quantization. Code excited linear prediction (CELP). [br/][br/][b]Speech synthesis[/b][br/]Prosodics. Waveform synthesis. Parametric synthesis. Articulatory models. Text-to-speech.[br/][br/][b]Speech recognition[/b][br/]Dynamic time warping (DTW). Statistical modelling (hidden Markov models (HMMs), Baum-Welch and Viterbi algorithms). Isolated- and connected-word recognition systems.[br/][br/][b]Speaker recognition[/b][br/][br/][b]Man-machine voice communication[/b]",
+      "Type of teaching":"Ex cathedra, with exercices and demonstrations",
+      "Learning outcomes":"At the end of the course, the students will be able to apply the main methods of digital signal processing within the fieds of speech analysis, compression, synthesis and recognition."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Speech processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-388-5&amp;con_lng=ENG\" target=\"blank\">Traitement de la parole / René Boite ... [et al.]</a>\". Year:2000. ISBN:2-88074-388-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104991",
+      "name":"Drygajlo Andrzej"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction au traitement des signaux",
+      "Bibliographie et matériel":"Livre \"Traitement de la parole\", Collection Electricité, et notes polycopiées",
+      "Forme d'enseignement":"Ex cathedra complété par des exercices et démonstrations",
+      "Contenu":"[b]Introduction[/b][br/]La parole - moyen fondamental de communication entre les humains. Généralités sur le signal vocal.[br/][br/][b]Production et perception de la parole[/b][br/]Aperçu anatomique. Mécanisme de la phonation. Phonétique articulatoire. Acoustique de la phonation. Modélisation de la production de la parole. Mécanisme de l'audition. Psychoacoustique. Masquage et bandes critiques.[br/][br/][b]Analyse et modélisation de la parole[/b][br/]Traitement à court terme. Analyse temporelle. Analyse spectrale et spectro-temporelle. Analyse cepstrale. Analyse basée sur la prédiction linéaire. Estimation des formants et de la période du fondamental.[br/][br/][b]Compression et codage de la parole[/b][br/]Codeurs d'onde (MIC, MICD, MICDA). Codage en sous-bandes. Vocodeurs. Quantification vectorielle. Codage par dictionnaire d'excitations (CELP).[br/][br/][b]Synthèse de la parole[/b][br/]Prosodie. Synthèse directe. Synthèse à travers un modèle. Simulation du conduit vocal. Synthèse à partir d'un texte.[br/][br/][b]Reconnaissance de la parole[/b][br/]Comparaison dynamique (DTW). Méthodes statistiques (modèles de Markov cachés, algorithmes de Baum-Welch et de Viterbi). Reconnaissance de mots isolés et enchaînés.[br/][br/][b]Reconnaissance du locuteur[/b][br/][br/][b]Communication vocale homme-machine[/b]",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Projets de semestre, de master, thèses de doctorat",
+      "Objectifs d'apprentissage":"A la fin du cours, les étudiants seront capables d'appliquer les principales méthodes de traitement numérique du signal pour l'analyse, la compression, la synthèse et la reconnaissance de la parole."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Speech processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-388-5&amp;con_lng=FRE\" target=\"blank\">Traitement de la parole / René Boite ... [et al.]</a>\". Année:2000. ISBN:2-88074-388-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

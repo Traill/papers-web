@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580272494&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","366"],
+    "title":"Statistical genetics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580272494&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217758",
+      "name":"Jensen Jeffrey David"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical genetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-236-8&amp;con_lng=ENG\" target=\"blank\">A primer of genome science / Greg Gibson, Spencer V. Muse</a>\". Year:2009. ISBN:978-0-87893-236-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0974707759&amp;con_lng=ENG\" target=\"blank\">Coalescent theory : an introduction / John Wakeley</a>\". Year:2009. ISBN:0974707759</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217758",
+      "name":"Jensen Jeffrey David"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Interest for genomics and mathematical approach of genetic data - the biology is intended to be accessible to mathematicians, and the math accessible to life sciences and technology students.",
+      "Bibliographie et matériel":"Handouts or reference papers will be given during the class or placed on the moodle site before the course.[br/]\tReference textbook: \"Coalescent Theory: An Introduction\" by John Wakeley, Roberts and Company Publishers, 2009,[br/]\t ISBN: 0974707759[br/]More general reference: \"A Primer of Genome Science\", Third Edition, Greg Gibson and Spencer V. Muse, Sinauer Publisher, 2009[br/]http://www.sinauer.com/genomics/[br/]",
+      "Forme d'enseignement":"Course ex cathedra and exercices",
+      "Contenu":"[b]Thoretical part[/b][br/]I.  The first 100 years of evolutionary thought, from Darwin to Ohta[br/]II. The neutral theory and the age of genomics[br/]III.An introduction to coalescent theory and tree topologies[br/]IV. Connecting the coalescent to the site frequency spectrum[br/]V.  Tests of neutrality, and simple summary statistics[br/]VI. Models of positive and negative selection[br/]VII.Modeling population demographics[br/][br/][b]Practical part[/b][br/]VIII.From expectations to test statistics I: a maximum likelihood framework[br/]IX.  Case study I: In the age of Neanderthal genomics[br/]X.   From expectations to test statistics II: approximate Bayesian inference[br/]XI.  Case study II: The evolution of cryptic coat colour in wild mouse[br/]XII. Outstanding questions I: Uncoupling selection and demography[br/]XIII.Case study III: Direct characterization of the fitness landscape in yeast[br/]XIV. Outstanding questions II: The importance of adaptation",
+      "Forme du contrôle":"Oral exam",
+      "Objectifs d'apprentissage":"This course will introduce students to the basics of statistical analysis as applied to genomic data, as well as provide an in depth application by focusing upon current topics in population genetics and molecular evolution."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical genetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-236-8&amp;con_lng=FRE\" target=\"blank\">A primer of genome science / Greg Gibson, Spencer V. Muse</a>\". Année:2009. ISBN:978-0-87893-236-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0974707759&amp;con_lng=FRE\" target=\"blank\">Coalescent theory : an introduction / John Wakeley</a>\". Année:2009. ISBN:0974707759</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

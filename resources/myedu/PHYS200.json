@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775477&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","200"],
+    "title":"Physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775477&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105816",
+      "name":"Meister Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Two optional written tests during the semester[br/]Bonus (b) of 0,5 for each test passed[br/]Written exam: grade (e) between 1 and 6[br/]Final grade = e + b(1-e/6)[br/]",
+      "Prerequisite for":"Physics IV",
+      "Required prior knowledge":"Physics I and II",
+      "Content":"[b]Elastic properties of solids and fluids[/b][br/]States of matter, continuum mechanics; elastic behavior; viscous behavior; bending and torsion, elastic instability, stress tensor, equations of equilibrium; strain tensor; strain energy; hookean elastic solids; newtonian fluids.[br/][][br/][br/][br/][b]Physics of fluids[/b][br/]Kinematics of fluids; continuity equation; dynamics of ideal fluids; fluid statics; dynamics of viscous fluids; flow stability, Reynolds numbers and similarity; surfaces physics, surface tension and capillarity. [br/][br/][br/][b]Electromagnetism (1st part)[/b][br/]Electrostatics, electric field and potential; steady current; magnetostatics; electric and magnetic properties of matter, polarization and magnetization.",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Learning outcomes":"To understand the principles of physics and to analyze the models used for their explanation.[br/][][br/][][br/][]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105816",
+      "name":"Meister Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique I et II",
+      "Bibliographie et matériel":"Polycopiés, liste d'ouvrages recommandés et corrigés d'exercices",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]Propriétés élastiques des solides et des fluides[/b][br/]Etats de la matière, modèle continu; comportement élastique; comportement visqueux; efforts internes, flexion et torsion, instabilité élastique, tenseur des contraintes, équilibre d'un corps; tenseur des déformations; énergie de déformation élastique; solides hookéen, loi de Hooke généralisée; fluide newtonien: relation contrainte-vitesse de déformation.[br/][br/][b]Physique des fluides[/b][br/]Cinématique des fluides; équation de continuité; dynamique des fluides parfaits; statique des fluides; dynamique des fluides visqueux incompressibles; stabilité d'un écoulement, nombre de Reynolds et similitude; physique des surfaces, tension superficielle et capillarité.[br/][br/][b]Electromagnétisme (1ère partie)[/b][br/]Electrostatique, champ et potentiel électriques; courants électriques stationnaires; magnétostatique; champs électrique et magnétique dans la matière, polarisation et aimantation.",
+      "Forme du contrôle":"Deux tests écrits facultatifs durant le semestre[br/]Bonus (b) de 0,5 par test réussi[br/]Examen écrit: note (e) de 1 à 6[br/]Note finale = e + b(1-e/6)",
+      "Préparation pour":"Physique IV",
+      "Objectifs d'apprentissage":"Comprendre les phénomènes physiques fondamentaux et les modèles qui les décrivent.[br/]Utiliser l'outil mathématique pour relier le phénomène à sa formulation.[br/]Appliquer les lois de la physique à la résolution de problèmes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772557&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","263"],
+    "title":"Inorganic chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772557&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to inorganic chemistry.",
+      "Content":"[br/][li] Introduction[br/][li] The structure of the elements (metals, boron, carbon, silicon, phosphorous, sulfur)[br/][li] Binary compounds (carbonates, silicates, phosphates, hydroxides, sulfates, perovskites, spinelles)[br/][li] Transition metal compounds (coordination number, geometry and isomers, definition of Lewis acids and bases)[br/][li] Hard soft acid base theory[br/][li] Crystal field theory (high spin, low spin, spectrochemical series)[br/][li] Colour, magnetic and electrical properties of the transition metals[br/][li] Selected examples of natures use of transition metals in living systems"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"NOMBRE DE CRÉDITS :[br/]5 avec Chimie inorganique et avec Chimie organique et des[br/]polymères ",
+      "Prérequis":"Chimie générale ",
+      "Bibliographie et matériel":"Polycopié et transparents en français ",
+      "Contenu":"[br/][li] Introduction[br/][li] La structure des éléments (métaux, bore, carbone, silicium, phosphore, soufre)[br/][li] Composés binaires (structures basiques, oxydes, sulfures, halogènes, carbures, nitrures, hydrures)[br/][li] Composés polynaires (carbonates, silicates, phosphates, hydroxydes, sulfates, pérovskites, spinelles)[br/][li] Composés de métaux de transition (nombre de coordination, géométrie et isomères, définition des acides et bases de Lewis)[br/][li] Théorie hard soft acid base[br/][li] Théorie du champ cristallin (spint haut, spin bas, série spectrochimique)[br/][li] Couleur, propriétés magnétiques et électriques des métaux de transition[br/][li] Exemple de l'utilisation de métaux de transition par les systèmes vivants ",
+      "Forme du contrôle":"Examen écrit disponible en français ou en anglais[br/]SESSION D'EXAMEN : Printemps ",
+      "Préparation pour":"Surfaces et matériaux divisés, Céramiques I-II, Biomatériaux ",
+      "Objectifs d'apprentissage":"Introduction à la chimie minérale."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

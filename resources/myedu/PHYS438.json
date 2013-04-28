@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24374779&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","438"],
+    "title":"Fundamentals of biomedical imaging",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24374779&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"PH",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=250","http://moodle.epfl.ch/course/view.php?id=250"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161735",
+      "name":"Gruetter Rolf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to illustrate how modern principles of basic science approaches are integrated into the major  biomedical imaging modalities of importance to biology and medicine, with an emphasis on those of interest to in vivo. The student should at the end have a firm grasp on the physical principles used for these imaging methods and how they relate to each other, as well as their fundamental promises and limitations. ",
+      "Content":"1.\tIntroduction to the course, importance and essential elements of bioimaging - lab visit of CIBM [br/]2.\tUltrasound imaging; ionizing radiation and its generation[br/]3.\tX-ray imaging - when the photon bumps into living tissue, radioprotection primer[br/]4.\tComputed tomography - From projection to image[br/]5.\tEmission tomography - what are tracers and how to \"trace\" them in your body, x-ray detection, scintillation principle[br/]6.\tPositron emission tomography (PET) - imaging anti-matter annihilation [br/]7.\tTracer kinetics - modeling of imaging data [br/]8.\tIntroduction to biological magnetic resonance (MR) - Boltzmann distribution, from spins to magnetization[br/]9.\tExcitation of spins, Relaxation, the Basis of MR contrast (The Bloch Equations)[br/]10.\tMR spectroscopy: In vivo Biochemistry, without chemistry ...[br/]11.\tFrom Fourier to image: Principles of MR image formation, k-space  - echo formation[br/]12.\tBasic MRI contrast mechanisms, BOLD fMRI, contrast agents[br/]13.\tSpin gymnastics: Imaging Einstein's random walk - fiber tracking. Overview of imaging modalities treated in this course [br/]",
+      "Type of teaching":"Ex cathedra with a strong student participation",
+      "Form of examination":"a written exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of biomedical imaging",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-23766-3&amp;con_lng=ENG\" target=\"blank\">Introduction to biomedical imaging / Andrew Webb</a>\". Year:2003. ISBN:0-471-23766-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7817-8057-5&amp;con_lng=ENG\" target=\"blank\">The essential physics of medical imaging / Jerrold T. Bushberg ... [et al.]</a>\". Year:2012. ISBN:978-0-7817-8057-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=250","http://moodle.epfl.ch/course/view.php?id=250"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161735",
+      "name":"Gruetter Rolf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec une forte participation des étudiants",
+      "Contenu":"1.\tIntroduction du cours, l'importance et l'essentiel de l'imagerie biologique, visite du labo[br/]2.\tUltrason ; radiation ionisante et sa création[br/]3.\tImagerie au rayon X - quand le photon entre en collision avec le tissu vivant. [br/]4.\tTomographie informatisée - de la projection à l'image[br/]5.\tTomographie par émission - que sont les traceurs et comment les « tracer » dans le corps, détection des rayons X, principe de scintillation[br/]6.\tTomographie par émission de positrons - imagerie de l'annihilation de l'antimatière.[br/]7.\tCinétique des traceurs - modèlisation des images[br/]8.\tIntroduction à la résonance magnétique biologique (MR) - de spins à la magnétisation[br/]9.\tRelaxaton : Les bases du contraste MR (Equations de Bloch) : [br/]10.\tSpectroscopie RM : Biochimie in vivo sans chimie ...[br/]11.\tDe Fourier à l'image : espace k, principes de la formation d'images MR - les echos de gradient[br/]12.\tLes méchanismes de contraste de base d'IRM, IRMf BOLD ; agents de contraste[br/]13.\tLa gymnastique des spins : imagerie du parcours aléatoire d'Einstein imagerie des fibres. Survol des modalités [br/]",
+      "Forme du contrôle":"un examen écrit",
+      "Bibliographie et matériel":"\"Introduction to Biomedical Imaging\", Andrew Webb",
+      "Objectifs d'apprentissage":"Le cours illustre  la manière d'intégrer les principes modernes des sciences de base aux modalités fondamentales de l'imagerie biomédicale, modalités qui sont importantes pour la biologie et la médecine. L'étudiant devrait maîtriser les principes de physique qui sont utilisés dans ces méthodes d'imagerie, devrait savoir comment ils sont liés entre eux et arriver à une vision fondamentale de leurs promesses et limitations"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of biomedical imaging",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-23766-3&amp;con_lng=FRE\" target=\"blank\">Introduction to biomedical imaging / Andrew Webb</a>\". Année:2003. ISBN:0-471-23766-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7817-8057-5&amp;con_lng=FRE\" target=\"blank\">The essential physics of medical imaging / Jerrold T. Bushberg ... [et al.]</a>\". Année:2012. ISBN:978-0-7817-8057-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

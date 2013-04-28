@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2222268&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","535"],
+    "title":"Nanoelectronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2222268&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MNIS",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[br/][li]\tComprehension of ultimate limitations of microelectronic devices: physical and technological[br/][li]\tUnderstanding of the deep sub-micron (<70nm) innovative CMOS architectures and their limitations[br/][li]\tBe able to qualitatively and quantitatively describe the functionality of few-electron devices (single electron transistor and memory, QCA, etc)[br/][li]\tUnderstand the functionality of discrete charge logic cells (SET and QCA)[br/][li]\tLearn the new technological evolutions in nanoelectronics and their motivations",
+      "Content":"(1)\tUltimate CMOS technologies and their showstoppers[br/][br/](2)\tPhenomena specific to deep submicron devices: non-stationary phenomena (velocity overshoot), ballistic transport, quantum effects, atomic scale parameter fluctuation (fluctuation of number of dopants, interface roughness).[br/][br/](3)\tInnovative device architectures (Double-gate MOS transistor - DGMOS, dynamic threshold MOS transistor - DTMOS, gate-all-around transistor - GAA, vertical MOS transistors)[br/][br/](4)\tNano-scale and quantum devices: Single Electron Transistor (SET), quantum wires, few-electron memories, etc.[br/][br/](5)\tHybrid SET-FET circuits[br/][br/](6)\tCharge-based circuit architectures: quantum dot cellular automata (QCA)[br/][br/](7)\tCarbon Nanotubes: technology, devices and circuits[br/][br/](8)\tSpintronics",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Written",
+      "Required prior knowledge":"Basic electronics "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanoelectronics",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-4020-7533-2&amp;con_lng=ENG\" target=\"blank\">Emerging nanoelectronics : life with and after CMOS / ed. by Adrian M. Ionescu ... [et al.]</a>\". Year:2005. ISBN:1-4020-7533-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-55959-6&amp;con_lng=ENG\" target=\"blank\">Fundamentals of modern VLSI devices / Yuan Taur, Tak H. Ning</a>\". Year:2002. ISBN:0-521-55959-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-40363-9&amp;con_lng=ENG\" target=\"blank\">Nanoelectronics and information technology : advanced electronic materials and novel devices / Rainer Waser (ed.)</a>\". Year:2003. ISBN:3-527-40363-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electronique de base",
+      "Bibliographie et matériel":"Notes de cours polycopiées",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"(1)\tTechnologies des composants CMOS ultimes et leurs limitations fondamentales (\"showstoppers\")[br/][br/](2)\tPhénomènes spécifiques aux dispositifs fortement submicroniques: phénomènes non-stationnaires (survitesse des porteurs), transport balistique des porteurs, effets quantiques (effets de confinement des porteurs de charge, transport tunnel), fluctuations des paramètres à l'échelle atomique (fluctuation des dopants activés dans le silicium, rugosité d'interface, fluctuations de stoechiométrie).[br/][br/](3)\tArchitectures de dispositifs innovants (transistor MOS à double grille -DGMOS, transistor MOS à tension de seuil dynamique - DTMOS, transistor à grille circulaire - GAA, transistor MOS vertical)[br/][br/](4)\tComposants nanométriques et quantiques : transistor à un électron (SET), fils quantiques, mémoires à quelques électrons, etc.[br/][br/](5)\tCircuits électroniques hybrides SET - FET[br/][br/](6)\tArchitectures de circuits quantiques à charge discrète :\"quantum dot cellular automata\" (QCA)[br/][br/](7)\tNanotubes à Carbone : technologie, composants et circuits[br/][br/](8)\tSpintronique",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"[br/][li]\tMaîtriser la compréhension des limitations ultimes : physiques et technologiques, des composants microélectroniques[br/][li]\tComprendre le fonctionnement des architectures innovantes actuelles à base de composants CMOS fortement submicroniques (<70nm) et leurs limitations[br/][li]\tÊtre capable de décrire qualitativement et quantitativement le fonctionnement des composants à quelques électrons (transistor et mémoire à un électron, QCA)[br/][li]\tComprendre le fonctionnement d'une logique à charges discrètes (SET et QCA)[br/][li]\tConnaître les nouvelles évolutions technologiques en nano-électronique et leur motivation"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanoelectronics",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-4020-7533-2&amp;con_lng=FRE\" target=\"blank\">Emerging nanoelectronics : life with and after CMOS / ed. by Adrian M. Ionescu ... [et al.]</a>\". Année:2005. ISBN:1-4020-7533-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-55959-6&amp;con_lng=FRE\" target=\"blank\">Fundamentals of modern VLSI devices / Yuan Taur, Tak H. Ning</a>\". Année:2002. ISBN:0-521-55959-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-40363-9&amp;con_lng=FRE\" target=\"blank\">Nanoelectronics and information technology : advanced electronic materials and novel devices / Rainer Waser (ed.)</a>\". Année:2003. ISBN:3-527-40363-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

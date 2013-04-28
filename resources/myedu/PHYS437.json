@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774872&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","437"],
+    "title":"Diffraction methods in structural biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774872&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lbbs.epfl.ch","http://lbbs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the main physical methods that are used to investigate the structure and dynamics of biological macromolecules. Although these lectures are offered in the Physics department, they are of equal interest to students with a background in Life Sciences, who will have the opportunity to acquire a conceptual knowledge of the physical methods used in structural biology, thus avoiding the widespread attitude to consider these techniques as \"black boxes\".[br/]",
+      "Content":"[b]-\tIntroduction[/b][br/][li]\tScattering of X-rays, neutrons, electrons by biological materials.[br/][b]-\tDiffraction and Fourier transforms[/b][br/][li]\tFourier series and transforms. Convolution products. Applications of the convolution theorem in diffraction methods.[br/][b]-\tMacromolecular X-ray crystallography[/b][br/][li]\tDiffraction of X-rays from crystals. [br/][li]\tExperimental aspects: Crystallization of proteins. X-ray sources and detectors. X-ray diffraction data collection.[br/][li]\tMethods for phase determination in protein crystallography.[br/][b]-\tFibre diffraction[/b][br/][li]\tTheory of X-ray diffraction from helical structures (DNA, muscles).[br/][li]\tDiffraction from non-helical fibres (amyloid fibres)[br/][b]-\tMacromolecules in solution[/b][br/][li]\tWide- and Small-angle X-ray scattering.[br/][b]-\tNeutron scattering and diffraction on biological systems[/b][br/][li]\tNeutron sources and instrumentation. Interaction of neutrons with biological molecules. Contrast variation methods[br/][li]\tNeutron crystallography. Neutron solution scattering[br/][b]-\tElectron diffraction and microscopy[/b][br/][li]\tElectron diffraction from 2d crystals. Single-particle imaging.[br/][br/][br/][br/][br/]",
+      "Type of teaching":"Course ex cathedra and exercises",
+      "Required prior knowledge":"Basic course in Physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Diffraction methods in structural biology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-5416-7&amp;con_lng=ENG\" target=\"blank\">Crystallography of biological macromolecules / edited by Michael G. Rossmann ... [et. al.]</a>\". Year:2001. ISBN:978-1-4020-5416-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-49858-0&amp;con_lng=ENG\" target=\"blank\">Elements of modern x-ray physics / Jens Als-Nielsen, Des McMorrow</a>\". Year:2001. ISBN:0-471-49858-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-850958-5&amp;con_lng=ENG\" target=\"blank\">Fundamentals of crystallography / C. Giacovazzo ... [et al.] ; ed. by C. Giacovazzo</a>\". Year:2005. ISBN:978-0-19-850958-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-851051-9&amp;con_lng=ENG\" target=\"blank\">Outline of crystallography for biologists / David Blow</a>\". Year:2002. ISBN:0-19-851051-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850453-5&amp;con_lng=ENG\" target=\"blank\">Structure and dynamics of biomolecules : neutron and synchrotron radiation for condensed matter studies / ed. by Eric Fanchon ... [et al.]</a>\". Year:2000. ISBN:0-19-850453-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lbbs.epfl.ch","http://lbbs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[b]-\tIntroduction[/b][br/][li]\tDiffusion des rayons X, neutrons, électrons par la matière biologique.[br/][b]-\tDiffraction et transformées de Fourier[/b][br/][li]\tSéries et transformées de Fourier. Produits de convolution. Applications du théorème de la convolution à la diffraction.[br/][b]-\tRadiocristallographie des macromolécules biologiques[/b][br/][li]\tDiffraction des rayons X par des cristaux. [br/][li]\tAspects expérimentaux: Cristallisation de protéines. Sources et détecteurs de rayons X. Méthodes de collectes des données de diffraction.[br/][li]\tMéthodes d'estimation des phases en cristallographie des protéines.[br/][b]-\tDiffraction par des fibres[/b][br/][li]\tThéorie de la diffraction des rayons X par des structures hélicoïdales (ADN, muscles).[br/][li]\tDiffraction par des fibres non-hélicoïdales (fibres amyloïdes)[br/][b]-\tMacromolécules en solution[/b][br/][li]\tDiffusion des rayons X aux petits et aux grands angles.[br/][b]-\tDiffusion et diffraction des neutrons par des systèmes biologiques[/b][br/][li]\tSources de neutrons et instrumentation. Interaction des neutrons avec les molécules biologiques. Méthodes de variation de contraste.[br/][li]\tCristallographie aux neutrons. Diffusion des neutrons par des macromolécules en solution.[br/][b]-\tDiffraction et microscopie électronique[/b][br/][li]\tDiffraction des électrons par des cristaux 2d. Imagerie de particules isolées.",
+      "Prérequis":"Physique de base",
+      "Bibliographie et matériel":"Lecture notes (notes de cours)[br/]\"Structure and Dynamics of Biomolecules - Neutron and Synchrotron Radiation for Condensed Matter Studies\". Edited by [i]Eric Fanchon, E. Geissler, J.-L. Hodeau, J.-R. Regnard & P.A. Timmins[/i]. Oxford University Press. Oxford, New York, 2000.[br/]\"Outline of Crystallography for Biologists\". [i]David Blow[/i]. Oxford University Press. Oxford, New York, 2002.[br/]\"International Tables for Crystallography, Volume F : Cristallography of biological macromolecules\". Edited by [i]Michael G. Rossmann and Eddy Arnold[/i]. Kluwer Academic Publishers. Dordrecht, Boston, London 2001.[br/]\"Fundamentals of Crystallography - 2nd edition\". Edited [i]C. Giaccovazzo[/i], Oxford University Press, Oxford 2002.[br/]\"Elements of modern X-ray physics\", [i]J. Als-Nielsen & D. McMorrow[/i], John Wiley & Sons, Chichester 2001.",
+      "Objectifs d'apprentissage":"Présentation des principales méthodes physiques propres à l'étude structurale des systèmes macromoléculaires biologiques. Cet enseignement s'adresse tout autant à des étudiants formés aux Sciences Physiques qu'à des étudiants des Sciences de la Vie. A ces derniers, cet enseignement permet d'acquérir une maîtrise conceptuelle des méthodes physiques de la biologie structurale et d'éviter ainsi l'approche largement répandue qui consiste à considérer ces techniques comme des \"boîtes noires\"."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Diffraction methods in structural biology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-5416-7&amp;con_lng=FRE\" target=\"blank\">Crystallography of biological macromolecules / edited by Michael G. Rossmann ... [et. al.]</a>\". Année:2001. ISBN:978-1-4020-5416-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-49858-0&amp;con_lng=FRE\" target=\"blank\">Elements of modern x-ray physics / Jens Als-Nielsen, Des McMorrow</a>\". Année:2001. ISBN:0-471-49858-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-850958-5&amp;con_lng=FRE\" target=\"blank\">Fundamentals of crystallography / C. Giacovazzo ... [et al.] ; ed. by C. Giacovazzo</a>\". Année:2005. ISBN:978-0-19-850958-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-851051-9&amp;con_lng=FRE\" target=\"blank\">Outline of crystallography for biologists / David Blow</a>\". Année:2002. ISBN:0-19-851051-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850453-5&amp;con_lng=FRE\" target=\"blank\">Structure and dynamics of biomolecules : neutron and synchrotron radiation for condensed matter studies / ed. by Eric Fanchon ... [et al.]</a>\". Année:2000. ISBN:0-19-850453-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

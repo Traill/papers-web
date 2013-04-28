@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47865489&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","461"],
+    "title":"Micro and nanostructuration of materials + TP",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47865489&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To get acquainted to modern surface structurization methods and their applications as well as to understand the chemical/physical principles behind the techniques.",
+      "Content":"\tThe course focuses on microstructures formed on classical semiconductor substrates, but also treats non-classical materials such as ceramics and metals.[br/]\tThe lectures will address:[br/][li]Introduction / overview[br/][li]Standard lithographic techniques*[br/]-\tchemical etching*[br/]-\telectrochemical etching, photoelectroche-mical etching*[br/]-\tdry etching*[br/][li]Lithography using e-beams, ion beams, or synchrotron radiation[br/][li]Micromachining / Laser Ablation[br/][li]Localized material growth - electrotechnical deposition[br/]-\tfocused beam techniques (LASER, ion-beam)[br/]-\tSTM/AFM[br/][br/]*Practical laboratory exercises will concentrate on available standard methods.[br/]",
+      "Type of teaching":"Ex cathedra + lab.",
+      "Form of examination":"oral exam"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Micro and nanostructuration of materials + TP",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra + lab.",
+      "Contenu":"Le cours traite des microstructures formées sur des substrats semi-conducteurs classiques comme sur des matériaux non-classiques tels que céramiques et métaux.[br/]Les sujets abordés seront :[br/][li]Introduction[br/][li]Techniques lithographiques standards*[br/]-\tattaque chimique*[br/]-\tattaque électrochimique et photoélectrochimique*[br/]-\tattaque sèche*[br/][li]Lithographie par faisceau électronique, ionique ou radiation synchrotron[br/][li]Micro-usinage, ablation laser[br/][li]Croissance localisée des matériaux[br/]-\ttechniques de faisceau focalisé (LASER, ionique)[br/]-\tSTM/AFM[br/][br/]\t*Les travaux pratiques se concentrent sur les méthodes courantes.[br/]",
+      "Forme du contrôle":"examen oral",
+      "Bibliographie et matériel":"Polycopiés",
+      "Objectifs d'apprentissage":"Introduction aux méthodes modernes de structuration des surfaces et de leurs applications. Compréhension des principes chimiques et physiques à la base de ces techniques."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Micro and nanostructuration of materials + TP",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

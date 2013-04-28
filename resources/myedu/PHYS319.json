@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72259129&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","319"],
+    "title":"Physics, Laboratory work IIIa",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72259129&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://sb.epfl.ch/page-62023-fr.html","http://sb.epfl.ch/page-62023-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106344",
+      "name":"Sanjines Rosendo"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To acquire a knowledge of the physical phenomena and their applications as required for the education of an engineer in physics. To acquire a knowledge of methods of observation and measurement. To become familiar with the recent technologies used in today's research laboratory in physics. To know how to explain the experimental results in the framework of a theory and a model. To improve  the sense of initiative and creativity.",
+      "Content":"The proposed subjects cover most of the fields of physics with the exception of the physics of elementary particles. Nevertheless, two experiments address some aspects of nuclear reactors and detection of radiations.[br/][br/]In addition, a number of the proposed experiments are in the domain of research of the different Institutes of the School of Basic Sciences.[br/]",
+      "Type of teaching":"In the laboratory",
+      "Form of examination":"Written reports and oral presentation",
+      "Required prior knowledge":"Physics laboratory I, II, mathematical course and physical course"
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physics, Laboratory work IIIa",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://sb.epfl.ch/page-62023-fr.html","http://sb.epfl.ch/page-62023-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106344",
+      "name":"Sanjines Rosendo"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"TP I, II, cours de mathématiques et de physique générale",
+      "Bibliographie et matériel":"Notes polycopiées, bibliothèque",
+      "Forme d'enseignement":"En laboratoire",
+      "Contenu":"Les sujets couvrent la plupart des domaines de la physique à l'exclusion de la physique des particules élémentaires. Néanmoins, deux manipulations sont consacrées à quelques aspects de réacteurs nucléaires et la détection des radiations.[br/][br/]Par ailleurs, un bon nombre des expériences proposées illustrent les domaines de recherche des Instituts de la Faculté des Sciences de Base.",
+      "Forme du contrôle":"3 rapports écrits par semestre",
+      "Objectifs d'apprentissage":"Acquérir la connaissance des phénomènes physiques et de leurs applications intervenant dans la formation de l'ingénieur physicien. Acquérir des connaissances concernant les méthodes d'observation et de mesure. Se familiariser avec les différentes techniques actuelles d'un laboratoire de recherche en physique. Savoir interpréter les résultats obtenus en termes d'une théorie et d'un modèle. Développer le sens de l'initiative et de la créativité."
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physique TP IIIa",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

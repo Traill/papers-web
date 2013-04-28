@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229987786&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","403"],
+    "title":"Econometrics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229987786&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192822",
+      "name":"Mancini Loriano"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"30% Homework[br/]30% Midterm exam[br/]40% Final exam (close-book)",
+      "Bibliography and material":"Econometric Analysis, W. Greene, Prentice Hall, 2008",
+      "Prerequisite for":"Advanced topics in financial econometrics[br/]Credit risk[br/]Derivatives[br/]Financial econometrics[br/]Fixed income analysis[br/]Investments",
+      "Required prior knowledge":"Basic notions of statistics and economics",
+      "Content":"- Linear models;[br/]- Least squares regression;[br/]- Instrumental variables;[br/]- Nonlinear models;[br/]- Nonspherical errors;[br/]- Generalized method of moments;[br/]- Panel data models, fixed effects and random effects;[br/]- Consistency, efficiency and asymptotic distribution of estimators;[br/]- Hypothesis testing",
+      "Type of teaching":"Lectures, homework, exercises",
+      "Learning outcomes":"To present basic econometric models and methods to obtain inference results"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Econometrics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-513740-6&amp;con_lng=ENG\" target=\"blank\">Econometric analysis / William H. Greene</a>\". Year:2008. ISBN:978-0-13-513740-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192822",
+      "name":"Mancini Loriano"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Notions de base en statistique et économie",
+      "Bibliographie et matériel":"Econometric Analysis, W. Greene, Prentice Hall, 2008",
+      "Forme d'enseignement":"Cours, devoirs, exercices",
+      "Contenu":"- Modèles linéaires;[br/]- Régression linéaire;[br/]- Variables instrumentales;[br/]- Modèles non-linéaires;[br/]- Erreurs non-sphériques;[br/]- Méthodes des moments généralisés;[br/]- Modèles de données de panels; effets fixes et aléatoires;[br/]- Convergence, efficience et distribution asymptotique d'estimateurs;[br/]- Tests d'hypothèses",
+      "Forme du contrôle":"30% devoirs[br/]30% examen intermédiaire[br/]40% examen final (à livres fermés)",
+      "Préparation pour":"Advanced topics in financial econometrics[br/]Credit risk[br/]Derivatives[br/]Financial econometrics[br/]Fixed income analysis[br/]Investments",
+      "Objectifs d'apprentissage":"Présenter les méthodes et les modèles fondamentaux de l'économétrie"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Econometrics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-513740-6&amp;con_lng=FRE\" target=\"blank\">Econometric analysis / William H. Greene</a>\". Année:2008. ISBN:978-0-13-513740-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

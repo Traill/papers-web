@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652078044&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","597"],
+    "title":"Engineering internship credited with Project master (master in Microengineering)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652078044&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104911",
+      "name":"Delacrétaz Guy"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]The objectives of the internship are to immerse the student into the industrial world, to highten him to the teamwork, to familiarize him to the company's processes and the engineer in microengineering profession requirements.[br/][br/][li]In order to achieve these objectives, the student makes an industrial internship in a field where the engineer competences in microengineering are brought out.",
+      "Content":"Internship's offers can be found on Is-Academia"
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Engineering internship credited with Project master (master in Microengineering)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104911",
+      "name":"Delacrétaz Guy"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"L'offre de stage peut être consultée sur Is-Academia",
+      "Objectifs d'apprentissage":"[li]Le stage a pour objectifs l'immersion de l'étudiant dans le monde industriel, sa sensibilisation au travail en équipe, sa familiarisation aux processus de l'entreprise et à l'ensemble des exigences de la profession d'ingénieur microtechnicien.[br/][br/][li]Pour atteindre les objectifs précités, l'étudiant effectue un stage en entreprise dans un domaine d'activité où les compétences de l'ingénieur microtechnicien sont mises en valeur."
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Stage d'ingénieur crédité avec le PDM (master en  Microtechnique)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231896292&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","585"],
+    "title":"Space mission design and operations",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231896292&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123275",
+      "name":"Nicollier Claude"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The objective of this course is to present the general concepts of design, preparation and execution of missions beyond the Earth's atmosphere, with a special emphasis on human space exploration. [br/]Numerous examples will be presented and the concepts presented will be reinforced by exercice sessions. ",
+      "Content":"[br/][li]Types of space missions and their objectives.[br/][br/][li]General concepts of space vehicles.[br/][br/][li]Space environment.[br/][br/][li]Applied orbital mechanics.[br/][br/][li]Rendez-vous in space.[br/][br/][li]Propulsion.[br/][br/][li]Attitude determination and control.[br/][br/][li]On board systems.[br/][br/][li]Risk management.[br/][br/][li]Examples: Space Shuttle, Space Station, Tethered Satellite, the Hubble Space Telescope.[br/][br/][li]Extravehicular Activities.[br/][br/][li]Future programs.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Space mission design and operations",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123275",
+      "name":"Nicollier Claude"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"ex cathedra, avec exercices",
+      "Contenu":"[br/][li]Types de missions et objectifs de celles-ci.[br/][br/][li]Concepts généraux des engins spatiaux.[br/][br/][li]Environnement spatial.[br/][br/][li]Mécanique céleste appliquée.[br/][br/][li]Rendez-vous dans l'espace.[br/][br/][li]Propulsion.[br/][br/][li]Détermination et contrôle de l'attitude.[br/][br/][li]Systèmes de bord.[br/][br/][li]Gestion du risque.[br/][br/][li]Exemples: Navette spatiale, Station spatiale, Satellite captif, le Télescope Spatial Hubble.[br/][br/][li]Sorties extravéhiculaires.[br/][br/][li]Programmes futurs.",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de présenter les concepts généraux de préparation et d'exécution des missions au-delà de l'atmosphère terrestre, avec un accent particulier sur l'exploration de l'espace par l'homme. [br/]De nombreux exemples seront présentés et les concepts enseignés seront renforcés par des séances d'exercices."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Space mission design and operations",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

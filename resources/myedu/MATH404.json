@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144436&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","404"],
+    "title":"Fonctional analysis II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144436&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Functional analysis (linear and non linear) is an important tool in applied mathematics and in mathematical physics. We shall introduce some central topics, by studying fundamental theoretical notions and concepts useful in applications.",
+      "Content":"Locally convex spaces: semi-norms, inductive limit, locally convex spaces of linear maps, space of compactly supported smooth functions, distributions.[br/][br/]Spectral theory for bounded and self-adjoint operators: spectral family, associated self-adjoint operator, Reid's inequality, spectral theorem, integration with respect to a spectral family.[br/][br/]Calculus in Banach spaces: multilinear bounded operators, Fréchet's derivative, nonlinear analytic operators, Taylor's theorem.[br/][br/]",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classsroom",
+      "Required prior knowledge":"Linear algebra, Topology I and II, Analysis III and IV for mathematicians.[br/]Functional analysis I: recommended.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fonctional analysis II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"Distributions, analyse de Fourier, opérateurs aux dérivées partielles / Vo-Khac, Khoan\". Year:1972</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-04-010410-0&amp;con_lng=ENG\" target=\"blank\">Eléments d'analyse / J. Dieudonné</a>\". Year:1979. ISBN:2-04-010410-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-68410-3&amp;con_lng=ENG\" target=\"blank\">Espaces vectoriels topologiques / N. Bourbaki</a>\". Year:1981. ISBN:2-225-68410-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-68410-3&amp;con_lng=ENG\" target=\"blank\">Espaces vectoriels topologiques / N. Bourbaki</a>\". Year:1995. ISBN:2-225-68410-3</li><li>\"Espaces vectoriels topologiques et distributions / Julien Garsoux ; avec la coll. de Daniel Ribbens\". Year:1963</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0471100692&amp;con_lng=ENG\" target=\"blank\">Functional analysis / by Harro G. Heuser ; transl. by John Horváth</a>\". Year:1982. ISBN:0471100692</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-94422-2&amp;con_lng=ENG\" target=\"blank\">Main principles and their applications / Eberhard Zeidler</a>\". Year:1995. ISBN:0-387-94422-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"Espaces vectoriels localement convexes : seminormes, limite inductive, espaces localement convexes d'applications linéaires, espace des fonctions lisses à supports compacts, espace des distributions.[br/][br/]Théorie spectrale pour les opérateurs bornés autoadjoints : famille spectrale, opérateur autoadjoint associé, inégalité de Reid, théorème spectral, intégration par rapport à une famille spectrale.[br/][br/]Calcul différentiel dans les espaces de Banach : opérateurs multilinéaires bornés, dérivée de Fréchet, opérateurs non linéaires analytiques, théorème de Taylor.",
+      "Prérequis":"Algèbre linéaire, Topologie I et II, Analyse III et IV pour mathématiciens.[br/]Analyse fonctionnelle I : recommandé.",
+      "Bibliographie et matériel":"J. Garsoux, Espaces Vectoriels Topologiques et Distributions, Dunod, 1963.[br/]H. G. Heuser, Functional Analysis, John Wiley and Sons, 1982.[br/]E. Zeidler, Applied Functional Analysis: Main Principles and their Applications, Springer-Verlag, 1995.[br/]Vo-Khac Khoan, Distributions..., tome I, Vuibert, 1972.[br/]N. Bourbaki, Espaces Vectoriels Topologiques, Springer, 2007.[br/]J. Dieudonné, Eléments d'Analyse, tome I, Jacques Gabay, 2003.",
+      "Objectifs d'apprentissage":"L'analyse fonctionnelle (linéaire et non linéaire) est un outil important en mathématique appliquée et en physique mathématique. Nous introduirons quelques sujets centraux, en présentant des notions théoriques fondamentales et des concepts utiles aux applications."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse fonctionnelle II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"Distributions, analyse de Fourier, opérateurs aux dérivées partielles / Vo-Khac, Khoan\". Année:1972</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-04-010410-0&amp;con_lng=FRE\" target=\"blank\">Eléments d'analyse / J. Dieudonné</a>\". Année:1979. ISBN:2-04-010410-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-68410-3&amp;con_lng=FRE\" target=\"blank\">Espaces vectoriels topologiques / N. Bourbaki</a>\". Année:1981. ISBN:2-225-68410-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-68410-3&amp;con_lng=FRE\" target=\"blank\">Espaces vectoriels topologiques / N. Bourbaki</a>\". Année:1995. ISBN:2-225-68410-3</li><li>\"Espaces vectoriels topologiques et distributions / Julien Garsoux ; avec la coll. de Daniel Ribbens\". Année:1963</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0471100692&amp;con_lng=FRE\" target=\"blank\">Functional analysis / by Harro G. Heuser ; transl. by John Horváth</a>\". Année:1982. ISBN:0471100692</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-94422-2&amp;con_lng=FRE\" target=\"blank\">Main principles and their applications / Eberhard Zeidler</a>\". Année:1995. ISBN:0-387-94422-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

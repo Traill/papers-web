@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2991914&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","704"],
+    "title":"IC design for robustness",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2991914&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The purpose of this course is to discuss practical problems encountered in the design and production of analog ICs. The course covers technologies for analog ICs, testing, and many critically important problems involved in the design of low-noise analog circuits embedded in a noisy environment.",
+      "Content":"1. [][][]Noise Coupling in Mixed-Mode ICs: Simulation/Measurement[br/]2. [][][]Noise Coupling in Mixed-Mode ICs: Design Strategy/Hardware Example[br/]3. [][][]Reducing Substrate Crosstalk in Mixed-Mode CMOS Integrated Circuits[br/]4. [][][]Interference Effects: CMRR/PSRR[br/]5. [][][]Opamp Design Towards Max. GBW PSRR[br/]6. [][][]Noise in Analog Circuits[br/]7. [][][]Charge Injection and Clock Feedthrough[br/]8. [][][]Bus Routing and Grounding[br/]9. [][][]Delta-Sigma Modulation Techniques for Mixed-Signal Testing Applications[br/]10 [][]Design for Testability[br/]11.[][]Design Practices for Manufacturing Robustness[br/]12.[][]Reliability of ICs[br/]13.[][]MOS Transistor Modeling in Deep Submicron",
+      "Keywords":"Noise Coupling, Crosstalk, Robustness, Reliability",
+      "Note":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Required prior knowledge":"[li] Analog IC Design[br/][br/][li] Semiconductor devices"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"IC design for robustness",
+    "recitation":null,
+    "exam_form":"Written & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":33
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Contenu":"1. [][][]Noise Coupling in Mixed-Mode ICs: Simulation/Measurement[br/]2. [][][]Noise Coupling in Mixed-Mode ICs: Design Strategy/Hardware Example[br/]3. [][][]Reducing Substrate Crosstalk in Mixed-Mode CMOS Integrated Circuits[br/]4. [][][]Interference Effects: CMRR/PSRR[br/]5. [][][]Opamp Design Towards Max. GBW PSRR[br/]6. [][][]Noise in Analog Circuits[br/]7. [][][]Charge Injection and Clock Feedthrough[br/]8. [][][]Bus Routing and Grounding[br/]9. [][][]Delta-Sigma Modulation Techniques for Mixed-Signal Testing Applications[br/]10.[][]Design for Testability[br/]11.[][]Design Practices for Manufacturing Robustness[br/]12.[][]Reliability of ICs[br/]13.[][]MOS Transistor Modeling in Deep Submicron",
+      "Mots clés":"Noise Coupling, Crosstalk, Robustness, Reliability",
+      "Prérequis":"[li] Analog IC Design[br/][br/][li] Semiconductor devices",
+      "Objectifs d'apprentissage":"The purpose of this course is to discuss practical problems encountered in the design and production of analog ICs. The course covers technologies for analog ICs, testing, and many critically important problems involved in the design of low-noise analog circuits embedded in a noisy environment."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"IC design for robustness",
+    "recitation":null,
+    "exam_form":"Ecrit & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":33
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1623567851&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","784"],
+    "title":"Applications of homogeneous dynamics to Number theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1623567851&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224628",
+      "name":"Akka Ginosar Menashe-Hai"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Introduction to Ergodic and dynamical system methods to be used in the context of Number theory ",
+      "Content":"The course will have three parts. [br/][br/]The first will give an introduction to homogeneous dynamics one arithmetic spaces (spaces of lattices) and will be based mainly on chapters 8,9,11 of Einsiedler-Ward GTM book on ergodic theory. [br/][br/]The second will survey applications of this theory  to continued fraction expansions by Einsiedler-Fishman-Shapira, Aka-Shapira and C. McMullen. [br/][br/]The third will concern the work of Ellenberg-Venkatesh on representations of quadratic forms  by quadratic forms in the codimension >4 setting .     [br/]",
+      "Keywords":"ergodic theory",
+      "Prerequisite for":"basic number Theory, analysis",
+      "Form of examination":"oral"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Applications of homogeneous dynamics to Number theory",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224628",
+      "name":"Akka Ginosar Menashe-Hai"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course will have three parts. [br/][br/]The first will give an introduction to homogeneous dynamics one arithmetic spaces (spaces of lattices) and will be based mainly on chapters 8,9,11 of Einsiedler-Ward GTM book on ergodic theory. [br/][br/]The second will survey applications of this theory  to continued fraction expansions by Einsiedler-Fishman-Shapira, Aka-Shapira and C. McMullen. ",
+      "Mots clés":"ergodic theory",
+      "Préparation pour":"basic number Theory, analysis",
+      "Forme du contrôle":"oral",
+      "Objectifs d'apprentissage":"Introduction to Ergodic and dynamical system methods to be used in the context of Number theory "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Applications of homogeneous dynamics to Number theory",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

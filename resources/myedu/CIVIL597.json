@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652058540&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","597"],
+    "title":"Engineering internship (master in Civil engineering)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652058540&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-55320-fr.html","http://enac.epfl.ch/page-55320-fr.html"],["http://enac.epfl.ch/page-55320-fr.html","http://enac.epfl.ch/page-55320-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/134475",
+      "name":"Turberg Pascal"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Engineering internship (master in Civil engineering)",
+    "recitation":null,
+    "exam_form":"Term paper",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-55320-fr.html","http://enac.epfl.ch/page-55320-fr.html"],["http://enac.epfl.ch/page-55320-fr.html","http://enac.epfl.ch/page-55320-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/134475",
+      "name":"Turberg Pascal"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"Le stage doit avoir lieu dans une institution d'accueil telle que bureau d'ingénieurs, entreprise, laboratoire ou service public. Les activités classiquement ciblées pour les stages d'ingénieur en génie civil sont : étude préliminaire, étude du projet, étude particulière, appel d'offres, projet d'exécution, direction de travaux, campagne de terrain, surveillance, etc.[br/][br/][b]Déroulement:[/b][br/]Le stage doit durer 8 semaines au minimum. Il est réalisé entre la fin du cycle bachelor et le début du projet de master, soit en 4ème ou 5ème année d'étude.[br/]L'étudiant en stage est suivi par un professeur ou MER de l'EPFL (responsable EPFL) et par un maître de stage dans l'entreprise.",
+      "Forme du contrôle":"Le stage n'est pas crédité pour lui seul, mais sa réussite constitue une condition d'entrée au projet de master (PDM). La réussite du stage en entreprise est validé par le responsable EPFL sur la base d'un rapport de stage et d'un bilan évaluatif de stage rempli par l'entreprise.",
+      "Objectifs d'apprentissage":"Le stage d'ingénieur doit contribuer à développer le comportement et les aptitudes nécessaires à l'exercice de la profession, en particulier : la gestion de situations nouvelles, le travail de groupe, la communication, le sens des responsabilités, l'organisation du travail et l'autonomie."
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Stage d'ingénieur crédité avec le PDM (master en  Génie civil)",
+    "recitation":null,
+    "exam_form":"Mémoire",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

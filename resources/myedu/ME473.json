@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824162953&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","473"],
+    "title":"Dynamics of mechanical systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824162953&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105270",
+      "name":"Gmür Thomas"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral examination (60%) and mini-projects during the semester (40%)",
+      "Bibliography and material":"Gmür Th., Dynamique des sturctures - Analyse modale numérique, PPUR, Lausanne, 2009, ISBN 978-2-88074-813-5.",
+      "Required prior knowledge":"[li]Apply the concepts of structural dynamics to predict and optimize the vibration (free or forced, conservative or damped) behaviour of multiple-degree-of-freedom or continuum systems, S3 (Mécanique vibratoire)[br/][li]Derive a finite element formulation of a physical problem from its differential equations in strong form (virtual work method or variational approach), S8 (Méthode des éléments finis)[br/][li]Apply the concepts of the finite element method to realize a complete study of a real problem based on the specifications. Provide a critical analysis of the obtained results, S9 (Modélisation et simulation par éléments finis)",
+      "Content":"Starting from the strong form associated to the problem of linear three-dimensional elastodynamics, the corresponding integral formulation and the weak form are first developed. Based upon the finite element method, the approach focuses on the development of the elemental stiffness, mass, damping, Coriolis and spin and centrifugal stiffness matrices of rotating or non-rotating, conservative or dissipative, systems. Three-dimensional solid and thin to moderately thick shell finite elements are then developed. The possible numerical problems (shear locking, hourglass modes, etc) are discussed and solutions for circumventing these difficulties are presented. In a second part, the course addresses numerically the free motion (modal analysis) of conservative structures modelled with a large number of degrees of freedom and the subspace iteration method, well adapted to this problem, is described and discussed. Finally, the forced motion (time response) of damped structures discretised with a large number of degrees of freedom is studied and the methods of Newmark, powerful for the time response by modal superposition, are presented.",
+      "Keywords":"Finite element, Weak Form, Integral Form, Numerical Methods",
+      "Type of teaching":"Ex cathedra and mini-projects. Numerical simulations on an in-house developed finite element software will be regularly presented and the numerical modal and time analysis of a real structure will be performed.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Write in mathematical terms a problem of numerical structural dynamics corresponding to a real case. Choose and utilize a suitable modelling approach and algorithm depending on the nature of the problem: transient, harmonic or modal dynamics, with a physical or modal basis, S14[br/][li]Describe in scientific terms and apply a numerical method for multiphysics simulations appropriate for a complex physics problem. Develop an idealized model of dominant physical behaviours and of initial and boundary conditions, S15[br/][br/][b]Transversal skills:[/b][br/][li]Self-assessment of acquired skills, T2[br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamics of mechanical systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-813-5&amp;con_lng=ENG\" target=\"blank\">Dynamique des structures : analyse modale numérique / Thomas Gmür</a>\". Year:2008. ISBN:978-2-88074-813-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105270",
+      "name":"Gmür Thomas"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Appliquer les concepts de la dynamique des structures pour prédire  et optimiser le comportement vibratoire, libre ou forcé, conservatif ou amorti de systèmes continus ou à plusieurs degrés de liberté, S3 (Mécanique vibratoire)[br/][li]Dériver une formulation par éléments finis d'un problème physique quelconque à partir de ses équations différentielles en forme forte (méthode des travaux virtuels ou approche variationnelle), S8 (Méthode des éléments finis)[br/][li]Mettre en ½uvre les concepts théoriques de la méthode des éléments finis pour la réalisation d'une étude complète d'un problème réel à partir d'un cahier des charges d'étude, fournir une analyse critique des résultats obtenus, S9 (Modélisation et simulation par éléments finis)",
+      "Bibliographie et matériel":"Gmür Th., Dynamique des sturctures - Analyse modale numérique, PPUR, Lausanne, 2009, ISBN 978-2-88074-813-5.",
+      "Mots clés":"Elément fini, Forme faible, Forme intégrale, Méthodes numériques",
+      "Forme d'enseignement":"Ex cathedra et mini-projets. Des simulations numériques sur un code interne d'éléments finis seront régulièrement présentées et une démonstration de l'analyse numérique modale et temporelle d'une structure réelle est prévue.",
+      "Contenu":"A partir de la forme forte du problème de l'élastodynamique tridimensionnelle linéaire, une formulation intégrale, puis faible semi-discrète, du problème est développée dans un premier temps. Basée sur la méthode des éléments finis, l'approche s'attarde sur la construction des matrices élémentaires de rigidité, de masse, des pertes, de Coriolis et d'accélérations angulaire et centrifuge de systèmes tournants ou non tournants, conservatifs ou dissipatifs. Des éléments finis tridimensionnels solides et de coque mince à modérément épaisse sont ensuite développés. Les problèmes numériques possibles (blocage en cisaillement, modes cinématiques, ...) sont discutés et des solutions pour contourner ces difficultés sont présentées. Le cours s'intéresse dans un second temps à la résolution par la méthode des sous-espaces du régime libre (analyse modale) des structures conservatives à grand nombre de degrés de liberté. Enfin, la résolution par les méthodes de Newmark du régime forcé (analyse temporelle) des structures dissipatives discrétisées en un grand nombre de degrés de liberté est abordée.",
+      "Forme du contrôle":"Examen oral (60%) et mini-projets répartis sur le semstre (40%)",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Formuler mathématiquement un problème de dynamique numérique des structures répondant à une problématique réelle. Choisir et mettre en ½uvre une méthode de modélisation et un algorithme de résolution adéquats que ce soit en dynamique transitoire, harmonique ou modale, en base physique ou modale, S14[br/][li]Expliquer scientifiquement et mettre en ½uvre une méthode numérique de modélisation et simulation multiphysique appropriée à un problème physique complexe. Abstraire et dériver un modèle des comportements physiques dominants ainsi que des conditions initiales et aux limites, S15[br/][b]Compétences transversales:[/b][br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamique numérique des solides et des structures",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-813-5&amp;con_lng=FRE\" target=\"blank\">Dynamique des structures : analyse modale numérique / Thomas Gmür</a>\". Année:2008. ISBN:978-2-88074-813-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

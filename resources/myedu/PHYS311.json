@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775497&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","311"],
+    "title":"Nuclear and particle physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775497&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/oschneid/","http://lphe.epfl.ch/oschneid/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162579",
+      "name":"Schneider Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"oral exam (100%)",
+      "Prerequisite for":"Advanced course of nuclear and particle physics ",
+      "Required prior knowledge":"General physics. Quantum mechanics I",
+      "Content":"[b]Introduction:[/b][br/]Matter and light, radioactivity, Rutherford model of atom. Relativistic kinematics and dynamics.[br/][b]Interaction of radiation with matter:[/b][br/]Charged particles, photons, neutrons.[br/][b]Particle detectors:[/b][br/]Scintillators, gas ionisation counters and multiwire chambers, semi-conductor detectors, Cherenkov counters, photon and neutron detection, electromagnetic and hadronic calorimeters.[br/][b]Particle accelerators:[/b][br/]Linear accelerator, cyclotron, synchrocyclotron, synchrotron, collider.[br/][b]Particle physics:[/b][br/]Pion and muon, discoveries and properties.[br/]Positron, particle and antiparticle.[br/]Neutrino, Pauli hypothesis and observation.[br/]The neutral pion.[br/]Kaon and lambda: strange particles.[br/]Mesons, leptons and baryons.[br/]Fermi golden rule. Metastable states and resonances.[br/]Particle classification and conservation laws: spin, isospin, baryon number, hypercharge.[br/]Quark structure of hadrons, gluons, the colour field.[br/]Feynman diagrams. Quantum chromodynamics.[br/]Heavy flavours: charm, beauty and top.[br/][i]tau[/i] lepton. Weak interaction and intermediate vector bosons.[br/][]",
+      "Type of teaching":"Ex cathedra and exercises in classroom",
+      "Learning outcomes":"General introduction to the status of particle physics: from relativistic kinematics to phenomenological description of high energy collisions.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Nuclear and particle physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/oschneid/","http://lphe.epfl.ch/oschneid/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162579",
+      "name":"Schneider Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique générale. Physique quantique I",
+      "Bibliographie et matériel":"Polycopié, copie transparents, site web",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]Introduction:[/b][br/]Matière et lumière, radioactivité, atome de Rutherford. Cinématique et dynamique relativistes.[br/][b]Interaction des rayonnements avec la matière:[/b][br/]Particules chargées, photons, neutrons.[br/][b]Détection des particules:[/b][br/]Scintillateurs, compteurs et chambres multifilaires à ionisation de gaz, détecteurs à semi-conducteurs, détecteurs Cherenkov, détection des photons et des neutrons, calorimètres électromagnétiques et hadroniques.[br/][b]Accélérateurs de particules:[/b][br/]Accélérateur linéaire, cyclotron, synchro-cyclotron, synchrotron, collisionneur.[br/][b]Physique corpusculaire:[/b][br/]Pion et muon, découvertes et propriétés.[br/]Positon, particules et antiparticules.[br/]Neutrino, hypothèse de Pauli et découverte.[br/]Pion neutre.[br/]Kaon et lambda: particules étranges.[br/]Mésons, leptons et baryons.[br/]Règle d'or de Fermi. Etats métastables et résonances.[br/]Classification des particules et lois de conservation: spin, isospin, nombre baryonique, hypercharge.[br/]Structure en quarks des hadrons, gluons, champ de couleur. Diagrammes de Feynman. Chromodynamique quantique.[br/]Saveurs lourdes: charme, beauté et top.[br/]Lepton [i]tau[/i]. Interaction faible et bosons vectoriels intermédiaires.",
+      "Forme du contrôle":"examen oral (100%)",
+      "Préparation pour":"Cours avancés de physique nucléaire et corpusculaire",
+      "Objectifs d'apprentissage":"Introduction générale sur l'état des connaissances en physique des particules: de la cinématique relativiste à l'interprétation phénoménologique des collisions à haute énergie."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique nucléaire et corpusculaire I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

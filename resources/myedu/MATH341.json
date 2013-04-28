@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1583926565&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","341"],
+    "title":"Linear models",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1583926565&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180565",
+      "name":"Panaretos Victor"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Regression modelling is a basic tool of statistics, because it describes how one variable may depend on another. The aim of this course is to familiarize students with the basis of regression modelling, and of some related topics.[br/]",
+      "Content":"[li]Properties of the Multivariate Gaussian distribution and related quadratic forms. [br/][li]Gaussian linear regression: likelihood, least squares, variable manipulation and transformation, interactions.[br/][li]Geometrical interpretation, weighted least squares; distribution theory, Gauss-Markov theorem.[br/][li]Analysis of variance: F-statistics; sums of squares; orthogonality; experimental design.[br/][li]Linear statistical inference: general linear tests and confidence regions, simultaneous inference[br/][li]Model checking and validation: residual diagnostics, outliers and leverage points.[br/][li]Model selection: the bias variance effect, stepwise procedures. Information-based criteria.[br/][li]Multicollinearity and penalised estimation: ridge regression, the LASSO, relation to model selection, bias and variance revisited, post selection inference.[br/][li]Departures from standard assumptions: non-linear least Gaussian regression, robust regression and M-estimation.[br/][li]Nonparametric regression: kernel smoothing, roughness penalties, effective degrees of freedom, projection pursuit and additive models.[br/]",
+      "Type of teaching":"Ex cathedra lectures, exercises in class and at home",
+      "Form of examination":"Continuous control, written exam",
+      "Required prior knowledge":"Linear algebra, Probability, Statistics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Linear models",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-17082-8&amp;con_lng=ENG\" target=\"blank\">Applied regression analysis / Norman R. Draper, Harry Smith</a>\". Year:1998. ISBN:0-471-17082-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-23222-3&amp;con_lng=ENG\" target=\"blank\">Methods and applications of linear models : regression and the analysis of variance / Ronald R. Hocking</a>\". Year:2003. ISBN:978-0-471-23222-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-73449-3&amp;con_lng=ENG\" target=\"blank\">Statistical models / A.C. Davison</a>\". Year:2009. ISBN:978-0-521-73449-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180565",
+      "name":"Panaretos Victor"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire, Probabilités, Statistique[br/]Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"Davison, A. C. (2003) Statistical Models.  Cambridge University Press.[br/]Draper, N.R. & Smith, H. (1998). Applied Regression Analysis. Wiley.[br/]Hocking, R.R. (2003). Methods and Applications of Linear Models. Wiley.[br/]Documents d'appoints distribués pendant le cours.[br/]",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe et à rédiger à la maison",
+      "Contenu":"[li]Propriétés de la distribution Gaussienne multivariée et formes quadratiques correspondantes.[br/][li]Régression linéaire normale : vraisemblance, moindres carrés, traitement et transformation des variables, interactions.[br/][li]Interprétation géométrique, méthode des moindres carrés pondérés; distributions des estimateurs; théorème de Gauss et Markov.[br/][li]Analyses de la variance; orthogonalité ; planification des expériences.[br/][li]Inférence statistique linéaire : tests linéaires généraux, régions de confiance, inférence simultanée.[br/][li]Vérification et validation des modèles : résidus, diagrammes diagnostiques, valeurs aberrantes et valeurs «levier».[br/][li]Sélection des modèles : l'effet de biais et variance, procédures «stepwise», critères d'information.[br/][li]Multicolinéarité et estimation pénalisée : régression «ridge», le LASSO, connexions avec  la  sélection des modèles.[br/][li]Régression non-linéaire, régression robuste et M- estimateurs. [br/][li]Régression non-paramétrique, lissage, méthode des noyaux, pénalisation de rugosité, degrés de liberté effectifs, poursuite des projections, modèles additifs.[br/]",
+      "Forme du contrôle":"Contrôle continu, examen écrit",
+      "Objectifs d'apprentissage":"Les modèles de régression sont des outils de base statistique, car ils donnent les moyens de décrire la dépendance entre des variables. Ce cours a pour but d'apporter aux étudiants une connaissance de base de tels modèles, et de les rendre capables de les utiliser dans des problèmes pratiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modèles linéaires",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-17082-8&amp;con_lng=FRE\" target=\"blank\">Applied regression analysis / Norman R. Draper, Harry Smith</a>\". Année:1998. ISBN:0-471-17082-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-23222-3&amp;con_lng=FRE\" target=\"blank\">Methods and applications of linear models : regression and the analysis of variance / Ronald R. Hocking</a>\". Année:2003. ISBN:978-0-471-23222-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-73449-3&amp;con_lng=FRE\" target=\"blank\">Statistical models / A.C. Davison</a>\". Année:2009. ISBN:978-0-521-73449-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

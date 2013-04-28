@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=46641934&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","598"],
+    "title":"Pre-study master project (Only semester M3)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=46641934&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"- To give an actif theoretical potential by litterature review[br/]- To enable experimental Master projects[br/]- To give more maturity to the Master project by acquisition of required basic data and information[br/]- To reinforce the innovative aspect[br/]- To develop the entrepreneurship spirit and the ability for projects management[br/]- To allow external contacts with the firms and on the ground[br/]- To guide the choice among the optional courses in MA3"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Pre-study master project (Only semester M3)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Choix de sujets à partir du portail des projets sur IS-Academia, en accès sécurisé: http://is-academia.epfl.ch/",
+      "Préparation pour":"Projet de master",
+      "Objectifs d'apprentissage":"- Procurer un acquis théorique actif par étude bibliographique[br/]- Permettre des projets de master à caractère expérimental[br/]- Donner plus de maturité au projet de master en préparant les données de base nécessaires à acquérir[br/]- Renforcer l'aspect novateur[br/]- Développer l'esprit d'entrepreneur et la capacité de gestion de projets[br/]- Permettre les contacts externes avec les entreprises et sur le terrain[br/]- Guider les choix des cours à option en MA3"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Pré-étude projet de master",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

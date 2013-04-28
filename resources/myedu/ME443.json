@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228384077&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","443"],
+    "title":"Acoustic Hydrodynamic",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228384077&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114191",
+      "name":"Nicolet Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral exam (50%) and small project in two parts (50%)",
+      "Bibliography and material":"Bibliography and reference material",
+      "Required prior knowledge":"[li]Fluid mechanics[br/][li]Introduction to hydraulic turbomachinery",
+      "Content":"Physical understanding of the flow transients in hydraulic piping systems. Applying the corresponding concepts to the cases of hydroelectric power plants. Applying modelling, simulation and analysis approach to dynamics of hydraulic installations. Presentation of the different types of flow transient in the hydraulic piping systems such as mass oscillations, water hammer. Fundamental equations for the modelling of transients phenomena in hydraulic systems. Resolution with analytical, graphical and numiercal simulation methods. Introduction to electrical analogy for hydraulic system modelling including: pipes, surge tanks, pressurized air vessels, cavitation, pumps, Francis, Pelton and Kaplan turbines.[br/]Introduction to SIMSEN software and case studies: water hammer, mass oscillations, start-up and stop of pumps, emergency shutdown of turbines and pumps.",
+      "Keywords":"Propagation phenomena, flow transients, dynamic behaviour modelling, numerical methods",
+      "Type of teaching":"Ex cathedra, case study, small project with analytical, graphical and numerical simulation approaches",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Describe physical phenomena associated with compressibility; determine if a given flow can be treated as incompressible, AH3[br/][li]Identify the crucial aspects present in a real flow in order to propose an appropriate modelling, AH10[br/][li]Analyze the flow in water and gas turbines; know how to dimension the important elements of turbomachinery, AH14[br/][li]Apply the method of characteristics to the analysis of supersonic flows, AH21[br/][li]Evaluate numerical accuracy as a function of the choice of simulation parameters, AH28[br/][li]Optimize the behaviour of a given flow by a numerical or experimental approach, AH38[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12[br/][li]Estimate the accuracy level of a process, T18[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Acoustic Hydrodynamic",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114191",
+      "name":"Nicolet Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Mécanique des fluides[br/][li]Introduction aux turbomachines hydrauliques",
+      "Bibliographie et matériel":"Notes de cours polycopiées",
+      "Mots clés":"Phénomènes propagatifs, régimes transitoires hydrauliques, modélisation de comportement dynamique, méthodes numériques",
+      "Forme d'enseignement":"Ex cathedra, étude de cas, mini-projet avec approche analytique, graphique et simulation numérique",
+      "Contenu":"Appréhender les phénomènes d'écoulements transitoires dans les circuits hydrauliques. Appliquer les notions introduites aux cas des centrales hydroélectriques. Mettre en application la démarche de modélisation, simulation et analyse de comportement dynamique d'installations hydrauliques.  Présentation des différents types d'écoulements transitoires dans les circuits hydrauliques tells que oscillations de masse, coup de bélier. Equations fondamentales pour la modélisation de phénomènes transitoires dans les circuits hydrauliques. Résolution par méthode analytiques, graphiques et numérique des problèmes de propagatifs dans les circuits hydrauliques. Introduction à l'analogie électrique pour la modélisation des systèmes hydrauliques tells que : conduite, cheminée d'équilibre, réservoir d'air sous pression, cavitation, pompes,  turbines Francis, Pelton et Kaplan. Etude de la stabilité des systèmes hydrauliques. Introduction au logiciel de simulation SIMSEN et études de cas : coup de bélier, oscillation de masses, arrêt d'urgence de turbines et de pompes.",
+      "Forme du contrôle":"Examen oral (50%) et rapport mini-projet en deux parties (50%)",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire les phénomènes physiques associés avec la compressibilité; déterminer pour un écoulement donné s'il peut être traité comme incompressible, AH3[br/][li]Identifier les aspects cruciaux présents dans un écoulement  réel afin de proposer une modélisation appropriée, AH10[br/][li]Analyser l'écoulement dans des turbomachines hydrauliques et thermiques ; savoir dimensionner les éléments importants d'une turbomachine, AH14[br/][li]Appliquer la méthode des caractéristiques pour analyser les écoulements supersoniques, AH21[br/][li]Evaluer la précision numérique des résultats en fonction des choix des paramètres de simulation, AH28[br/][li]Optimiser le comportement d'un écoulement donné par une approche numérique ou expérimentale, AH38[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hydrodynamique acoustique",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

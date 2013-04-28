@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","110(d)"],
+    "title":"Computer-aided engineering I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6831","http://moodle.epfl.ch/course/view.php?id=6831"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104608",
+      "name":"Boulic Ronan"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"The percentages of the grades are given in proportion of the global grade obtained when integrating also the grades of the course Informatique II given in the second semester.",
+      "Form of examination":"Throughout semester[br/]2 written tests, 1 mini-project with 2 hand-in of report (8%)",
+      "Bibliography and material":"C. Delannoy, programmer en Langage C, Eyrolles ISBN 978-2-212-12546-7, 5ième édition 2009",
+      "Prerequisite for":"Computer-aided engineering II",
+      "Content":"Introduction : binary system, element of computer architecture and first steps with LINUX[br/]C Language (thematic topics)[br/][br/]    Types   (scientific computing)[br/]    Operators and expressions [br/]    Input-output [br/]    Control instructions (Algorithms and complexity)[br/]    Functions  (Principles of abstraction and reuse, recursivity)[br/][br/]   Arrays and pointers[br/]   Strings[br/]",
+      "Type of teaching":"Ex cathedra + Exercises",
+      "Learning outcomes":"A discipline of programming will be introduced for working with the C language due to its use for embedded systems; qualities of clarity and robustness will be particularly emphasized. it relies on great principles such as abstraction and re-use.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computer-aided engineering I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11072-3&amp;con_lng=ENG\" target=\"blank\">Programmer en langage C : cours et exercices corrigÃ©s / Claude Delannoy</a>\". Year:2003. ISBN:2-212-11072-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6831","http://moodle.epfl.ch/course/view.php?id=6831"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104608",
+      "name":"Boulic Ronan"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Les pourcentages des notes sont relatifs à la note globale obtenue en intégrant aussi les notes obtenues au cours d'informatique II donné au second semestre.",
+      "Bibliographie et matériel":"C. Delannoy, programmer en Langage C, Eyrolles ISBN 978-2-212-12546-7, 5ième édition 2009",
+      "Forme d'enseignement":"Ex cathedra + Exercices",
+      "Contenu":"Introduction: numération binaire et notions sur l'architecture d'un ordinateur (UC, mémoire). Eléments sur le système LINUX [br/]Langage C  (Thème approfondi )[br/][br/]    Les Types de base (calcul scientifique)[br/]    Les opérateurs et expressions [br/]    Les entrées-sorties conversationnelles[br/]     Les instructions de contrôle  (algorithme et complexité)[br/]     Les fonctions (Principes d'abstraction et de ré-utilisation, [br/]récursivité)[br/]     Les tableaux et les pointeurs [br/]     Les chaînes de caractères[br/]",
+      "Forme du contrôle":"Contrôle continu [br/]2 tests écrits (32%), 1 mini-projet avec 2 rendus (8%)",
+      "Préparation pour":"Informatique II",
+      "Objectifs d'apprentissage":"Le cours propose une discipline de programmation qui insiste particulièrement sur la maîtrise des qualités de clarté et de robustesse du code produit. Il repose sur les grands principes d'abstraction et de ré-utilisation.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Informatique I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11072-3&amp;con_lng=FRE\" target=\"blank\">Programmer en langage C : cours et exercices corrigÃ©s / Claude Delannoy</a>\". Année:2003. ISBN:2-212-11072-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

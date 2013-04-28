@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4650615&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","540"],
+    "title":"Imagery of the territory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4650615&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103150",
+      "name":"Pointet Abram"
+    },{
+      "url":"http://people.epfl.ch/150680",
+      "name":"Tuia Devis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Acquire knowledge about remote sensing (satellite or aerial) image processing[br/]Use remote sensing imagery in complex environmental problems[br/][br/]",
+      "Content":"1.\tSensors and captors[br/]2.\tBasics of digital imagery[br/]3.\tInformation extraction[br/]4.\tImage classification[br/]5.\tSpectral unmixing[br/]6.\tMultitemporal processing and change detection[br/]7.\tDigital terrain models[br/]",
+      "Keywords":"Imagery, remote sensing, signal processing, satellites",
+      "Form of examination":"60 % 1 mid-test [br/]40 % 1 final examen (project)[br/]",
+      "Type of teaching":"Ex-cathedra lectures 2/3 and training 1/3"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Imagery of the territory",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7605-1145-6&amp;con_lng=ENG\" target=\"blank\">Traitements numÃ©riques d'images de tÃ©lÃ©dÃ©tection / RÃ©gis Caloz et Claude Collet</a>\". Year:2001. ISBN:2-7605-1145-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103150",
+      "name":"Pointet Abram"
+    },{
+      "url":"http://people.epfl.ch/150680",
+      "name":"Tuia Devis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"[li]\tR. Caloz, C. Collet, Precis de Télédétection Volume 3: Traitements numériques d'images de télédétection, Presses Universitaires du Québec[br/][li]\tG. Camps-Valls, D. Tuia, L. Gomez-Chova, S. Jmenez, J. Malo, Remote Sensing Image Processing, Morgan and Claypool, available (on EPFL site) http://www.morganclaypool.com/doi/abs/10.2200/S00392ED1V01Y201107IVM012[br/]",
+      "Mots clés":"Imagerie, télédétection, traitement du signal, satellites",
+      "Forme d'enseignement":"Cours ex-cathedra 2/3 et séances d'exercices 1/3",
+      "Contenu":"1.\tSenseurs et capteurs[br/]2.\tPrincipes de l'imagerie numérique[br/]3.\tExtraction d'information[br/]4.\tClassification d'image[br/]5.\tDémélangeage spectral[br/]6.\tTraitement multitemporel et détection de changements[br/]7.\tModèles numériques de terrain[br/]",
+      "Forme du contrôle":"60 % 1 test de connaissances intermédiaire[br/]40 % 1 examen de fin de semestre (projet)",
+      "Objectifs d'apprentissage":"Acquérir des connaissances de traitement numérique d'image de télédétection (satellite ou aérienne)[br/]Exploiter l'imagerie pour répondre à des problématiques environnementales complexes[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Imagerie du territoire",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7605-1145-6&amp;con_lng=FRE\" target=\"blank\">Traitements numÃ©riques d'images de tÃ©lÃ©dÃ©tection / RÃ©gis Caloz et Claude Collet</a>\". Année:2001. ISBN:2-7605-1145-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

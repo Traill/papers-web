@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241595393&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","715"],
+    "title":"Optimal control",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241595393&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/230932",
+      "name":"Faulwasser Timm"
+    },{
+      "url":"http://people.epfl.ch/130352",
+      "name":"François Grégory"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective is to familiarize the student with the theoretical, numerical and practical issues associated with the optimal control of dynamic systems. This course (i) provides the basic analysis tools for future research, (ii) gives insight into the numerical techniques that can be used to optimize dynamic systems, and (iii) presents a number of methodologies for the implementation of optimal control in real-world applications.",
+      "Content":"The course will cover the following topics.[br/]Theory:[br/][li]The classical problem of the calculus of variations[br/][li]Pontryagin's maximum principle[br/][li]Necessary conditions of optimality (NCO)[br/][li]Dynamic programming and the Hamilton-Jacobi-Bellman equation[br/][li]Closed-loop form solution for LQ optimal control problems[br/][br/]Solution Methods:[br/][li]Analytical solution approach (type and sequence of arcs in optimal solutions)[br/][li]Indirect solution techniques[br/][li]Discretization approaches (control vector parameterization, orthogonal collocation)[br/][br/]Optimization in the Presence of Uncertainty:[br/][li]Robust optimization[br/][li]Incorporation of measurements in the optimization framework[br/][li]Model predictive control and repeated optimization[br/][li]Measurement-based optimization via NCO tracking[br/][li]Applications from the domain of parameter estimation, dynamic processes, etc.",
+      "Form of examination":"Oral exam, written exam and project report"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optimal control",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/230932",
+      "name":"Faulwasser Timm"
+    },{
+      "url":"http://people.epfl.ch/130352",
+      "name":"François Grégory"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course will cover the following topics.[br/]Theory:[br/][li]The classical problem of the calculus of variations[br/][li]Pontryagin's maximum principle[br/][li]Necessary conditions of optimality (NCO)[br/][li]Dynamic programming and the Hamilton-Jacobi-Bellman equation[br/][li]Closed-loop form solution for LQ optimal control problems[br/][br/]Solution Methods:[br/][li]Analytical solution approach (type and sequence of arcs in optimal solutions)[br/][li]Indirect solution techniques[br/][li]Discretization approaches (control vector parameterization, orthogonal collocation)[br/][br/]Optimization in the Presence of Uncertainty:[br/][li]Robust optimization[br/][li]Incorporation of measurements in the optimization framework[br/][li]Model predictive control and repeated optimization[br/][li]Measurement-based optimization via NCO tracking[br/][li]Applications from the domain of parameter estimation, dynamic processes, etc.",
+      "Forme du contrôle":"Oral exam, written exam and project report",
+      "Objectifs d'apprentissage":"The objective is to familiarize the student with the theoretical, numerical and practical issues associated with the optimal control of dynamic systems. This course (i) provides the basic analysis tools for future research, (ii) gives insight into the numerical techniques that can be used to optimize dynamic systems, and (iii) presents a number of methodologies for the implementation of optimal control in real-world applications."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optimal control",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

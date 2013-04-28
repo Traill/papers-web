@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772275&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","311"],
+    "title":"Molecular and cellular biophysic I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772275&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106666",
+      "name":"Vogel Horst"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Basic biophysical chemistry of biological processes.[br/]",
+      "Content":"[b]1. The conformation of biological macromolecules[/b][br/][li] Structure of proteins, nucleic acids and membranes[br/][br/][b]2. Thermodynamics and kinetics of ligand - receptor interactions[/b] [br/][br/][br/][b]3. Transport processes[/b][br/][br/][b]4. Conformational equilibria of polypeptides and proteins[/b][br/][li] Helix-coil transitions[br/][li] Folding of proteins[br/][br/][b]5. Self-assembly of biopolymers[/b]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Molecular and cellular biophysic I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-1042-0&amp;con_lng=ENG\" target=\"blank\">Biophysical chemistry / Charles R.Cantor, Paul Reinhard Schimmel</a>\". Year:1980. ISBN:0-7167-1042-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-666272-2&amp;con_lng=ENG\" target=\"blank\">Physical biochemistry / K. E. Van Holde</a>\". Year:1985. ISBN:0-13-666272-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106666",
+      "name":"Vogel Horst"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]1. Conformation des macromolécules biologiques[/b][br/][li] Structure des protéines, polynucléotides et membranes[br/][br/][b]2. Thermodynamique et cinétique des interactions ligands - récepteurs[/b][br/][br/][b]3. Processus de transport[/b][br/][br/][b]4. Équilibres conformationelles des polypeptides et protéines[/b][br/][li] Transitions de helix-coil[br/][li] Reploiement des protéines[br/][br/][b]5. Autoassemblage des biopolymères[/b]",
+      "Remarque":"Enseignement partiel du module Chimie biologique et biophysique",
+      "Bibliographie et matériel":"\"Biophysical Chemistry\", Cantor and Schimmel, Vols 1-3 (Freeman, New York 1980)[br/]\"Physical Biochemistry\", K.E. Van Holde (Prentice Hall, 1985)",
+      "Objectifs d'apprentissage":"Acquérir des bases de la chimie biophysique des processus biologiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biophysique moléculaire et cellulaire I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-1042-0&amp;con_lng=FRE\" target=\"blank\">Biophysical chemistry / Charles R.Cantor, Paul Reinhard Schimmel</a>\". Année:1980. ISBN:0-7167-1042-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-666272-2&amp;con_lng=FRE\" target=\"blank\">Physical biochemistry / K. E. Van Holde</a>\". Année:1985. ISBN:0-13-666272-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

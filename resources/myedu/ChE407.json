@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4147445&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","407"],
+    "title":"Electrochemical engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4147445&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/112631",
+      "name":"Foti György"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Knowledge of the theoretical bases of electrochemical engineering and their application to design electrochemical reactor .",
+      "Content":"[br/][li] Electrochemical thermodynamics.[br/][br/][li] Mass transfert in electrochemistry (by diffusion).[br/][br/][li] Mass transfert in electrochemistry (by convective diffusion).[br/][br/][li] Electrochemical kinetics.[br/][br/][li] Electrocatalysis.[br/][br/][li] Electrochemical reactor techniques.[br/][br/][li] Real reactors and ideal reactors.[br/][br/][li] Examples of processes used on industrial scale.[br/][br/][li] Reactors with electrodes of large specific surface area.[br/]",
+      "Bibliography and material":"Lecture notes"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrochemical engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/112631",
+      "name":"Foti György"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Phénomènes de transfert, Electrochimie",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[br/][li] Thermodynamique électrochimique.[br/][br/][li] Transfert de masse en électrochimie (par diffusion).[br/][br/][li] Transfert de masse en électrochimie (par diffusion convective).[br/][br/][li] Cinétique électrochimique.[br/][br/][li] Electrocatalyse.[br/][br/][li] Technique de la réaction électrochimique.[br/][br/][li] Réacteurs réels et réacteurs idéaux.[br/][br/][li] Exemples de quelques procédés utilisés à l'échelle industrielle.[br/][br/][li] Réacteurs à électrodes de grande surface spécifique.",
+      "Forme du contrôle":"Continu",
+      "Objectifs d'apprentissage":"Connaître les bases théoriques du génie électrochimique et les appliquer au dimensionnement du réacteur électrochimique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Génie électrochimique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

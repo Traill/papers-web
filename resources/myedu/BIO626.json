@@ -1,0 +1,62 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128977762&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","626"],
+    "title":"Mechanisms underlying reward-based learning and decision making (EDNE)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128977762&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDNE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157467",
+      "name":"Petersen Carl"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"A major function of the brain is to organise motor output and behaviour in a purposeful goal-oriented manner. One form of motivation is driven by rewards. Usually it is necessary to do something specific in order to obtain a reward, and during reward-based learning animals as-sociate specific sensory inputs with prediction of award availability. In this course we will study the current hypotheses of reward-based associative learning and how this might be imple-mented in the mammalian brain. Having learnt basic rules of how to obtain rewards, in any given situation an animal must make decisions on what it should do. Reward-based learning and decision making therefore are closely linked and we shall examine their neural bases.[br/]",
+      "Content":"The course will combine formal presentations together with informal discussions that aim to develop new ideas. We will focus on experimental neurophysiology of: 1. Dopaminergic neurons of the midbrain, which are thought to be involved in reward prediction errors. 2. Neural correlates of decision making in behaving monkeys and rodents based on tactile stimuli.[br/]",
+      "Note":"Maximum 10 students will be able to attend this class.[br/]",
+      "Required prior knowledge":"This is an advanced neuroscience course.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mechanisms underlying reward-based learning and decision making (EDNE)",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157467",
+      "name":"Petersen Carl"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mechanisms underlying reward-based learning and decision making (EDNE)",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

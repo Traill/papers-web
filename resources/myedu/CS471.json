@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128789807&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","471"],
+    "title":"Advanced multiprocessor architecture",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128789807&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://parsa.epfl.ch/courses.html","http://parsa.epfl.ch/courses.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177958",
+      "name":"Falsafi Babak"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Increasing levels of integration in semiconductor fabrication processes along with unprecedented levels of power consumption in large-window wide-issue single-core processors is forcing computer architects to organize transistors into multiple processing cores on a single chip.  While parallel computers have only held a niche market until now mostly in the server and supercomputer domains, this disruptive shift in architecture will result in parallel architectures becoming mainstream in all products from embedded computers all the way to supercomputers. This course covers the fundamentals of multiprocessor computer architecture -- i.e., computer systems built from individual processing elements while balancing performance, cost, and programmability. The course qualitatively and quantitatively examines multiprocessor design trade-offs. We will study, for example, parallel programming models, multithreaded processors, chip multiprocesssors, symmetric multiprocessors, distributed shared memory, and scalable clusters. The goal is to educate the student in the history and future trends of multiprocessor computer architecture.[br/]",
+      "Content":"Introduction to multiprocessor systems, parallel programming models including Pthreads, MPI, hardware and software transactional memory, synchronization primitives, memory consistency mdels, cache coherence, on-chip shared cache architectures, on-chip interconnects, multi-chip interconnects, multi-chip bus-based and general-purpose interconnect-based shared-memory systems, clusters.[br/]The course will include weekly readings, discussions, and student reviews and reports on publications (besides the text book) of seminal and recent contributions to the field of computer architecture. Student reviews, class discussions, and an independent research project will account for a significant fraction of the grade. Feedback on performance will be given only upon request by a student. There will be no recitation classes. [br/]The course will also include an independent and original research project, in which students study, improve, and evaluate multiprocessor innovations using a software simulation infrastructure. There will be a list of project ideas given out, but students can suggest and work on their own ideas with potentials for advancing the state of the art.[br/][br/][br/]",
+      "Type of teaching":"Lectures, homeworks, and a project",
+      "Form of examination":"A mid-term and a final exam.",
+      "Required prior knowledge":"Computer Architecture I & II (Processor Architecture Lab), basic C/C++ systems programming."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced multiprocessor architecture",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://parsa.epfl.ch/courses.html","http://parsa.epfl.ch/courses.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177958",
+      "name":"Falsafi Babak"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Lectures, homeworks, and a project",
+      "Contenu":"Introduction to multiprocessor systems, parallel programming models including Pthreads, MPI, hardware and software transactional memory, synchronization primitives, memory consistency mdels, cache coherence, on-chip shared cache architectures, on-chip interconnects, multi-chip interconnects, multi-chip bus-based and general-purpose interconnect-based shared-memory systems, clusters.[br/]The course will include weekly readings, discussions, and student reviews and reports on publications (besides the text book) of seminal and recent contributions to the field of computer architecture. Student reviews, class discussions, and an independent research project will account for a significant fraction of the grade. Feedback on performance will be given only upon request by a student. There will be no recitation classes. [br/]The course will also include an independent and original research project, in which students study, improve, and evaluate multiprocessor innovations using a software simulation infrastructure. There will be a list of project ideas given out, but students can suggest and work on their own ideas with potentials for advancing the state of the art.",
+      "Forme du contrôle":"A mid-term and a final exam.",
+      "Prérequis":"Computer Architecture I & II (Processor Architecture Lab), basic C/C++ systems programming.",
+      "Objectifs d'apprentissage":"Increasing levels of integration in semiconductor fabrication processes along with unprecedented levels of power consumption in large-window wide-issue single-core processors is forcing computer architects to organize transistors into multiple processing cores on a single chip.  While parallel computers have only held a niche market until now mostly in the server and supercomputer domains, this disruptive shift in architecture will result in parallel architectures becoming mainstream in all products from embedded computers all the way to supercomputers. This course covers the fundamentals of multiprocessor computer architecture -- i.e., computer systems built from individual processing elements while balancing performance, cost, and programmability. The course qualitatively and quantitatively examines multiprocessor design trade-offs. We will study, for example, parallel programming models, multithreaded processors, chip multiprocesssors, symmetric multiprocessors, distributed shared memory, and scalable clusters. The goal is to educate the student in the history and future trends of multiprocessor computer architecture."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced multiprocessor architecture",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

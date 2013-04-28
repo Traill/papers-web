@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773907&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","460"],
+    "title":"Land management and ground law",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773907&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103190",
+      "name":"Prélaz-Droux Roland"
+    },{
+      "url":"http://people.epfl.ch/130072",
+      "name":"Wermelinger Amédéo"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The contribution of land management for the implementation of strategies and development plans.[br/][br/]Tools and procedures of land management's law.[br/][br/][br/][br/][br/]",
+      "Content":"[b]The property ownership[/b]: concepts, different kind of property law, union and division of real estate, mechanisms of property's protection, restrictions to property ownership.[br/][br/][b]The expropriation [/b]: notions and procedures.[br/][br/][b]Land management instruments[/b] for feasibility study of land use plans and their implementation's conditions.[br/][br/][br/][b]The regrouping of lands and the associations of land owners[/b] : methods and concepts, actors, main stages, organisational and functional aspects, financing, and cost sharing.",
+      "Keywords":"Property law, expropriation, ownership"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Land management and ground law",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=005487183&amp;con_lng=ENG\" target=\"blank\">Les démarches foncières en Pays de Vaud : guide à l'usage des communes et des entreprises AF / Elaboré par le Service des Améliorations foncières,la Société vaudoise des améliorations foncières ; la réd. a été assurée par un groupe de travail sous la dir.: de Jean-Robert Schneider</a>\". ISBN:005487183</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103190",
+      "name":"Prélaz-Droux Roland"
+    },{
+      "url":"http://people.epfl.ch/130072",
+      "name":"Wermelinger Amédéo"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[b]La propriété foncière[/b]: les notions, les différents types de droits réels immobiliers, les réunions et divisions d'immeubles, les mécanismes de protection de la propriété, les restrictions de la propriété foncière.[br/][br/][b]L'expropriation[/b]: les notions et la procédure.[br/][br/][b]Les principales démarches foncières[/b] intervenant dans la faisabilité foncière des plans d'aménagement du territoire et leurs conditions de mise en oeuvre.[br/][br/][b]Le remaniement parcellaire et les syndicats d'améliorations foncières[/b]: les acteurs, les phases principales, les aspects organisationnels et de fonctionnement, le montage financier et la prise en charge des frais.",
+      "Mots clés":"Droits réels, expropriation, propriété",
+      "Bibliographie et matériel":"Notes de cours sur les droits réels.[br/]\"Les démarches foncières en Pays de Vaud\".",
+      "Objectifs d'apprentissage":"L'articulation entre l'aménagement du territoire et le droit foncier est de première importance pour la mise en oeuvre du développement territorial. Les différents types de mesures de gestion et d'aménagement du territoire ont des conséquences sur la quotité et la répartition des droits d'usage, notamment des droits à bâtir, et par là sur les possibilités de mise en valeur du bien immobilier. Ce cours se propose de présenter les fondements du droit foncier et les apports des principaux instruments de gestion foncière pour la mise en oeuvre du développement territorial."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Gestion foncière et droit foncier",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=005487183&amp;con_lng=FRE\" target=\"blank\">Les démarches foncières en Pays de Vaud : guide à l'usage des communes et des entreprises AF / Elaboré par le Service des Améliorations foncières,la Société vaudoise des améliorations foncières ; la réd. a été assurée par un groupe de travail sous la dir.: de Jean-Robert Schneider</a>\". ISBN:005487183</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

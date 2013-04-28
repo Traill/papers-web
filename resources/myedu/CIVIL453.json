@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=864711496&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","453"],
+    "title":"Systèmes de transports",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=864711496&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106595",
+      "name":"Tzieropoulos Panagiotis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral Examination",
+      "Bibliography and material":"Teaching notes, Various documents, Literature sheets",
+      "Prerequisite for":"Projects and Master theses",
+      "Required prior knowledge":"None (Basic understanding of transport may be helpful)",
+      "Content":"1.\tIntroduction: Prospective vision[br/]2.\tFundamentals of the operation of public transport networks: Problem identification, planning process and methodological issues; tools and models. [br/]3.\tClock-face Timetable: Ensuring spatial and round-the-clock service coverage[br/]4.\tUrban Systems and Choice of the Transport Technology[br/]5.\tFrom High Speed Links to the European Railway Reform: Options, Policies, and Stakes. Competition among operators and interoperability. [br/]6.\tRailway Network Capacity: definition, modelling and computer-aided system for the analysis of the network capacity; case study.[br/]7.\tFundamentals of Airport Planning[br/]8.\tFinancing transport",
+      "Type of teaching":"Partly ex cathedra, Participative and Interactive Teaching, Workshops[br/]",
+      "Learning outcomes":"[li]\tTo deepen the knowledge on transport systems planning and operations,[br/][li]\tTo understand the importance of system issues, interactions and intermodality, in order to be able to carry out system design and operation projects and to assess their impacts[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes de transports",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106595",
+      "name":"Tzieropoulos Panagiotis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Aucun (Connaissances de base en transports)",
+      "Bibliographie et matériel":"Notes de cours, documents, fiches bibliographiques",
+      "Forme d'enseignement":"Partiellement ex-cathedra, enseignement participatif et interactif, ateliers",
+      "Contenu":"1.\tIntroduction: Une vision prospective[br/]2.\tBases théoriques de l'exploitation de réseaux de transports publics: problématique, processus, démarche et instruments d'étude; modèles. [br/]3.\tHoraire cadencé intégral: couvrir le temps et l'espace[br/]4.\tTransports en milieu urbain et choix du mode de transport.[br/]5.\tDe la grande vitesse à la réforme européenne: options, politiques et enjeux. Concurrence entre exploitants et interopérabilité.[br/]6.\tCapacité de réseaux ferroviaires: définition, modélisation et système d'aide à l'analyse de la capacité de réseau ; étude de cas.[br/]7.\tAéroports: éléments de planification[br/]8.\tFinancement des transports",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Projet de semestre et Projet de Master",
+      "Objectifs d'apprentissage":"[li]\tApprofondir les connaissances en planification et exploitation des systèmes de transports,[br/][li]\tSaisir l'importance des aspects système, des interactions et de l'intermodalité, en vue de concevoir un projet d'aménagement et d'exploitation et d'évaluer ses impacts"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes de transports",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824161299&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","482"],
+    "title":"Biomechanics of the musculosquettal system",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824161299&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103117",
+      "name":"Pioletti Dominique"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"The mini-project will be presented (group presentation) Written exam on the theoretical part.",
+      "Bibliography and material":"The course material can be downloaded from the moodle website (http://moodle.epfl.ch/course/view.php?id=1201). [br/]1. Skeletal Tissue Mechanics, B. Martin, et al., Springer, 1998 (ISBN 0-387-98474-7)[br/]2. Continuum mechanics, Spencer, Longman, 1992 (ISBN 0-582-44282-6)",
+      "Required prior knowledge":"[li]Elementary knowledge in physiology[br/][li]Master the concepts of conservation laws ",
+      "Content":"Biomechanics at the body level (functional anatomy; joint kinematics; forces in the joints). Biomechanics at the tissue level (large deformations; passive and active constitutive laws; identification; laws of evolution). Biomechanics in clinical applications (orthopaedics biomechanics; traumatology, implant development). Mini-project in group.",
+      "Keywords":"Constitutive laws, Identification, Orthopedics",
+      "Type of teaching":"The course is organised as theoretical sessions and includes the resolution of exercises and the realization of a mini-project within a group.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Illustrate the biomechanical function of the different systems that form the human body, B1[br/][li]Explain the link between the physiology and the mechanical properties of a tissue, B2[br/][li]Calculate the kinematics and the forces in articulations, B3[br/][li]Identify the mechanical behaviour of tissues and fluids from experimental data, B5[br/][li]Propose or develop specific constitutive laws, B7[br/][li]Describe the feedback loop that, starting from a mechanical signal translated into a chemical signal, allows for the adaptation of the mechanical properties of tissues, B9[br/][li]Compute the stresses and strains at the interface of an implant and in the surrounding tissues, B10[br/][li]Compute the kinematics and forces in an implant, B11[br/][li]Describe the procedure to identity a constitutive law, B14[br/][b]Transversal skills:[/b][br/][li]Do a literature review and assess the state of the art, T4[br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomechanics of the musculosquettal system",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-486-43594-7&amp;con_lng=ENG\" target=\"blank\">Continuum mechanics / A.J.M. Spencer</a>\". Year:2004. ISBN:978-0-486-43594-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98474-7&amp;con_lng=ENG\" target=\"blank\">Skeletal tissue mechanics / R. Bruce Martin, David B. Burr, Neil A. Sharkey</a>\". Year:1998. ISBN:0-387-98474-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103117",
+      "name":"Pioletti Dominique"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Connaissances élémentaires de physiologie[br/][li]Maîtriser les notions de lois de conservation ",
+      "Bibliographie et matériel":"Le matériel du cours peut être téléchargé depuis le site moodle (http://moodle.epfl.ch/course/view.php?id=1201).[br/]1. Skeletal Tissue Mechanics, B. Martin, et al., Springer, 1998 (ISBN 0-387-98474-7)[br/]2. Continuum mechanics, Spencer, Longman, 1992 (ISBN 0-582-44282-6)",
+      "Mots clés":"Lois constitutives, Identification, Orthopédie",
+      "Forme d'enseignement":"Le cours est organisé en sessions théoriques et comprend la résolution d'exercices ainsi qu'un mini-projet à réaliser dans un projet de groupe.",
+      "Contenu":"Biomécanique au niveau du corps (anatomie fonctionnelle ; cinématique des articulations; forces dans les articulations). Biomécanique au niveau des tissus (grandes déformations; lois constitutives passives et actives; identification; lois dévolution). Biomécanique pour des applications cliniques (biomécanique orthopédique; traumatologie; développement d'implant). Mini-projet en groupe.",
+      "Forme du contrôle":"Présentation de groupe du mini-projet. Examen écrit sur la partie théorique.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Enoncer et expliquer le fonctionnement biomécanique des différents systèmes qui composent le corps humain, B1[br/][li]Expliquer le lien entre la physiologie et les propriétés mécaniques des tissus, B2[br/][li]Calculer la cinématique et les forces dans les articulations, B3[br/][li]Identifier le comportement mécanique de tissus à partir de données expérimentales, B5[br/][li]Proposer ou développer des lois constitutives spécifiques, B7[br/][li]Expliquer la boucle de rétroaction qui, à partir d'un signal mécanique transformé en un signal chimique, permet d'adapter les propriétés mécaniques d'un tissu, B9[br/][li]Calculer les contraintes et les déformations à l'interface d'un implant et des tissus environnants, B10[br/][li]Calculer la cinématique et les forces agissant dans les implants, B11[br/][li]Enoncer la procédure pour identifier une loi constitutive, B14[br/][b]Compétences transversales:[/b][br/][li]Réaliser une recherche bibliograph. et une revue de l'état de l'art, T4[br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomechanics of the musculosquettal system",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-486-43594-7&amp;con_lng=FRE\" target=\"blank\">Continuum mechanics / A.J.M. Spencer</a>\". Année:2004. ISBN:978-0-486-43594-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98474-7&amp;con_lng=FRE\" target=\"blank\">Skeletal tissue mechanics / R. Bruce Martin, David B. Burr, Neil A. Sharkey</a>\". Année:1998. ISBN:0-387-98474-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

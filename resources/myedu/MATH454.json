@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355581551&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","454"],
+    "title":"Parallel computing and pthreads",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355581551&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118999",
+      "name":"Rezzonico Vittoria"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Through this course, the student will gain insight into a broad variety of High Performance Computing (HPC) concepts and familiarize himself/herself with the majority of modern HPC architectures. Moreover, the student will learn to have a feeling about what architectures are suited for several types of common algorithms. Hands-on sessions add some practical skills that will familiarize the student with the kind of machines widely used in the HPC environment.",
+      "Content":"HPC overview:[br/][li] Today's HPC: Beowulf-style clusters, massively parallel architectures, Hybrid cores computing[br/][li] HPC history and background[br/][li] HPC benchmarks explained[br/][li] Multicore systems[br/][li] Scaling[br/][br/]Writing HPC code:[br/][li] Multi-Threading techiques and Pthreads[br/][li] Hybrid programming with Pthreads and MPI[br/][li] GPGPU primer",
+      "Required prior knowledge":"- Analysis, bachelor level[br/]- Numerical analysis for engineers[br/]- Matrix algebra[br/]- Basic C programming skills"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Parallel computing and pthreads",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118999",
+      "name":"Rezzonico Vittoria"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"HPC vue d'ensemble :[br/][li] HPC aujourd'hui : clusters de type Beowulf, architectures massivement parallèles, calcul avec multi-core hybride[br/][li] Historique et contexte HPC[br/][li] Benchmarks HPC[br/][li] Systèmes multi-core[br/][li] Scaling[br/][br/]Ecrire du code HPC :[br/][li] Techniques multi-thread, Pthreads[br/][li] Programmation hybride avec Pthreads et MPI[br/][li] GPGPU primer",
+      "Prérequis":"- Analyse (niveau bachelor)[br/]- Analyse numérique pour ingénieurs[br/]- Algèbre matricielle[br/]- Notions de programmation en C",
+      "Objectifs d'apprentissage":"Par ce cours, l'étudiant/e se fera une idée générale dans différents concepts du Calcul Haute Performance (HPC) et se familiarisera avec la majorité des architectures HPC modernes. En outre, l'étudiant/e apprendra à reconnaître quelles architectures sont adéquates pour les algorithmes les plus courants. Des séances pratiques ajoutent des compétences sur le terrain qui familiarisent l'étudiant/e avec les machines largement utilisées dans l'environnement HPC."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Parallel computing and pthreads",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231957812&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","425"],
+    "title":"Program parallelization on PC clusters",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231957812&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/enrol.php?id=281","http://moodle.epfl.ch/course/enrol.php?id=281"],["http://dps.epfl.ch","http://dps.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105390",
+      "name":"Hersch Roger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Demanding applications require the processing power and/or[br/]I/O throughput offered by multiple CPU's, organized as[br/]multi-cores and/or as PC clusters. The course will introduce[br/]methods for the parallelization of applications on PC clusters.[br/][br/]",
+      "Content":"- parallel architectures,[br/]- parallelization methods,[br/]- multi-threaded parallel programming[br/]- parallelization metrics,[br/]- theoretical performance models,[br/]- parallel program development,[br/]- debugging techniques and[br/]- measurement of program execution times[br/]- flow control & load balancing[br/]Environments:[br/]- Visual C++ under Windows or Linux[br/]- DPS C++ library for creating flow graphs defining parallel[br/]execution schedules.[br/]- OpenMP, MPI[br/]Project: Select a problem, predict the speedup, develop the[br/]parallel program (1 to 8 PC's) and compare predicted and[br/]measured performances.[br/]Proposed projects: sorting algorithms, knight tour,[br/]checkerboard path finding, synthesis of prime numbers,[br/]resource allocation, vector quantization, Matrix[br/]multiplication, FFT, linear equation systems (Jacobi[br/]iterations, Gaussian elimination), N-Body simulation, Hough[br/]transform, LU factorization, synthesis of color lookup table,[br/]image skeletonization, fish-eye transformation, boundary[br/]detection, distance transform, image filtering, interaction[br/]between light an prints (Monte-Carlo simulation) .",
+      "Type of teaching":"Lecture, laboratories and mini-project",
+      "Form of examination":"Continuous control (mini-project, rounding of grade[br/]according to laboratory reports)",
+      "Bibliography and material":"Cours polycopié: Program Parallelization, vente des cours[br/]B. Wilkinson, M. Allen, Parallel Programming, Prentice Hall, 1999[br/]T. Bräunl, Parallel  Image Processing, Springer, 2001[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Program parallelization on PC clusters",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-67400-4&amp;con_lng=ENG\" target=\"blank\">Parallel image processing / T. Bräunl ; with S. Feyrer ... [et al.]</a>\". Year:2001. ISBN:3-540-67400-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-191865-6&amp;con_lng=ENG\" target=\"blank\">Parallel programming : techniques and applications using networked workstations and parallel computers / Barry Wilkinson, Michael Allen</a>\". Year:2005. ISBN:0-13-191865-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/enrol.php?id=281","http://moodle.epfl.ch/course/enrol.php?id=281"],["http://dps.epfl.ch","http://dps.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105390",
+      "name":"Hersch Roger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra, labo sur ordinateur et mini-projet ",
+      "Contenu":"- Architectures parallèles[br/]- Méthodes de parallélisation,[br/]- Métriques de performances,[br/]- Modélisation des performances,[br/]- Développement de programmes parallèles,[br/]- Débusquage d'erreurs,[br/]- Mesure des temps d'exécution,[br/]- Contrôle de flux et équilibrage de charges[br/]Environnement de développement:[br/]- Visual C++ sous Windows ou Linux[br/]- Librairie DPS pour la création d'ordonnancements[br/]parallèles[br/]- OpenMP, MPI[br/]Mini-projet: Choix d'un problème, analyse, prédiction du[br/]gain de performances, développement du programme, test et[br/]comparaison avec les performances prédites[br/]Projets proposés: algorithmes de tri, tour du cheval, chemin[br/]optimal dans un échiquier, synthèse de nombres premiers,[br/]allocation de ressources, quantification vectorielle,[br/]multiplication matricielle, transformée de Fourier rapide,[br/]systèmes d'équations linéaires, corps célestes (N-Body),[br/]transformée de Hough, décomposition LU, squelettisation[br/]d'image, transformations géométriques d'images, détection[br/]de contours, plan de distances, filtrage d'images, interaction[br/]entre lumière et papier colorés (simulation Monte-Carlo). [br/]",
+      "Forme du contrôle":"Contrôle continu (mini-projet, note arrondie selon rapports[br/]de laboratoires)",
+      "Bibliographie et matériel":"Cours polycopié: Program Parallelization, vente des cours[br/]B. Wilkinson, M. Allen, Parallel Programming, Prentice Hall, 1999[br/]T. Bräunl, Parallel Image Processing, Springer, 2001",
+      "Objectifs d'apprentissage":"De nombreuses applications exigent une puissance de calcul[br/]et des débits d'entrées-sorties qui ne peuvent être offerts que[br/]par plusieurs CPU travaillant simultanément (multi-coeur[br/]et/ou cluster de PC). Ce cours vise à introduire des[br/]méthodes pour la programmation parallèle sur grappes de[br/]PC."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Program parallelization on PC clusters",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-67400-4&amp;con_lng=FRE\" target=\"blank\">Parallel image processing / T. Bräunl ; with S. Feyrer ... [et al.]</a>\". Année:2001. ISBN:3-540-67400-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-191865-6&amp;con_lng=FRE\" target=\"blank\">Parallel programming : techniques and applications using networked workstations and parallel computers / Barry Wilkinson, Michael Allen</a>\". Année:2005. ISBN:0-13-191865-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=914628573&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","431"],
+    "title":"Information : Strategy & Economics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=914628573&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216550",
+      "name":"Weber Thomas Alois"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course serves as an introduction to the economics of information and its strategic ramifications. The main objectives are:[br/]o\tto use economic theory to understand strategic interactions in the presence of uncertainty and estimate the value of information;[br/]o\tto analyze competitive strategy in an information economy.[br/][br/]",
+      "Content":"Readings and cases are used to discuss the following topics:[br/][br/]1.\tCompetition and Market Power[br/]2.\tProduct Differentiation[br/]3.\tPricing Methods[br/]4.\tExternalities and System Effects[br/]5.\tMoral Hazard and Incentives[br/]6.\tMarkets and Intermediaries[br/]7.\tImperfect Competition: Search Markets[br/]8.\tAuctions and Bargaining[br/]9.\tPrediction Markets[br/]10.\tSpecial Topics",
+      "Bibliography and material":"Reading bulkpack[br/][br/]McAfee, R.P. (2005) Competitive Solutions : The Strategist's Toolkit, Princeton University Press: Princeton, NJ.[br/][br/]Shapiro, C., Varian, H. (1999) Information Rules : A Strategic Guide to the Network Economy, Harvard Business School Press: Boston, MA.",
+      "Form of examination":"20% Homework[br/]40% Team project[br/]30% Written exam[br/]10% Class participation",
+      "Required prior knowledge":"Principles of Microeconomics (MGT-454) or equivalent course"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information : Strategy & Economics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-691-09646-5&amp;con_lng=ENG\" target=\"blank\">Competitive solutions : the strategist's toolkit / R. Preston McAfee</a>\". Year:2002. ISBN:0-691-09646-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87584-863-1&amp;con_lng=ENG\" target=\"blank\">Information rules : a strategic guide to the network economy / Carl Shapiro, Hal R. Varian</a>\". Year:2010. ISBN:978-0-87584-863-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216550",
+      "name":"Weber Thomas Alois"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Nous utiliserons une combinaison de lectures et de  cas pour traiter des sujets suivants:[br/][br/]1.\tCompétition et pouvoir de marché[br/]2.\tDifférenciation des produits[br/]3.\tMéthodes de tarification[br/]4.\tExternalités des réseaux et effets de système[br/]5.\tAléa moral et incitations[br/]6.\tMarchés et intermédiaires[br/]7.\tConcurrence imparfaite: marchés de recherche [br/]8.\tVentes aux enchères et négociation [br/]9.\tMarchés de prédictions [br/]10.\tQuestions spéciales[br/]",
+      "Forme du contrôle":"20% Devoirs[br/]40% Projet de groupe[br/]30% Examen écrit[br/]10% Participation",
+      "Prérequis":"Principles of Microeconomics (MGT-454) ou cours équivalent",
+      "Bibliographie et matériel":"Fascicule polycopié[br/][br/]McAfee, R.P. (2005) Competitive Solutions : The Strategist's Toolkit, Princeton University Press: Princeton, NJ.[br/][br/]Shapiro, C., Varian, H. (1999) Information Rules : A Strategic Guide to the Network Economy, Harvard Business School Press: Boston, MA.",
+      "Objectifs d'apprentissage":"Ce cours est une introduction à l'économie de l'information et à ses ramifications stratégiques. Les objectifs principaux sont:[br/][br/]o\tutiliser la théorie économique pour comprendre les interactions stratégiques en présence d'incertitude et évaluer la valeur de l'information; [br/]o\tanalyser la stratégie compétitive dans le cadre d'une économie de l'information.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information : Strategy & Economics",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-691-09646-5&amp;con_lng=FRE\" target=\"blank\">Competitive solutions : the strategist's toolkit / R. Preston McAfee</a>\". Année:2002. ISBN:0-691-09646-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87584-863-1&amp;con_lng=FRE\" target=\"blank\">Information rules : a strategic guide to the network economy / Carl Shapiro, Hal R. Varian</a>\". Année:2010. ISBN:978-0-87584-863-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

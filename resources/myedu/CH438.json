@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=468310629&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","438"],
+    "title":"Total synthesis of natural products",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=468310629&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206332",
+      "name":"Zhu Jieping"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understanding of reactions and strategy in natural products synthesis. Concepts of retro-synthesis of complex molecules. [br/]",
+      "Content":"Retro-synthesis and synthesis of different classes of natural products important for their structure and/or bioactivity. ",
+      "Required prior knowledge":"General knowledge of organic reactions. Basic knowledge of retro-syntheis. EPFL lectures fonctions et réactions organiques I and II, synthèse asymétrique, target synthesis, structure and reactivity or equivalent courses. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Total synthesis of natural products",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206332",
+      "name":"Zhu Jieping"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et présentations  ",
+      "Contenu":"Rétro-synthèse et synthèse de diverses classes de produits naturels importants pour leurs structures complexes et/ou leur bioactivité. ",
+      "Forme du contrôle":"Examen écrit",
+      "Prérequis":"Connaissances générales des réactions organiques et concepts de bases en rétro-synthèse (cours EPFL fonctions et réactions organiques I et II, synthèse asymétrique, target synthesis, structure and reactivity ou cours équivalents).",
+      "Objectifs d'apprentissage":"Compréhension de la stratégie et des réactions pour la synthèse de molécules naturelles complexes. Concepts de rétro-synthèse des molécules complexes. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Total synthesis of natural products",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

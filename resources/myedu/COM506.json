@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=25022918&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","506"],
+    "title":"Student seminar : Security protocols and applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=25022918&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SC-EPFL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lasecwww.epfl.ch/teaching.shtml","http://lasecwww.epfl.ch/teaching.shtml"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107463",
+      "name":"Oechslin Philippe"
+    },{
+      "url":"http://people.epfl.ch/131602",
+      "name":"Vaudenay Serge"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This seminar introduces the participants to the current trends, problems, and methods in the area of communication security.",
+      "Content":"We will look at today's most popular security protocols and new kinds of protocols, techniques, and problems that will play an emerging role in the future. Also, the seminar will cover methods to model and analyze such security protocols.[br/]This course will be held as a seminar, in which the students actively participate. The talks will be assigned in the first meeting to teams of students, and each team will have to give a 45 minutes talk, react to other students' questions, and write a 3-4 pages summary of their talk.[br/]",
+      "Type of teaching":"Seminar ",
+      "Form of examination":"Final exam 50%, seminar 50%",
+      "Required prior knowledge":"Cryptography and Security"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Student seminar : Security protocols and applications",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lasecwww.epfl.ch/teaching.shtml","http://lasecwww.epfl.ch/teaching.shtml"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107463",
+      "name":"Oechslin Philippe"
+    },{
+      "url":"http://people.epfl.ch/131602",
+      "name":"Vaudenay Serge"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Séminaire ",
+      "Contenu":"Nous allons aborder les protocoles de sécurité les plus courants et les nouveaux styles de protocoles, techniques et problèmes qui joueront un rôle primordial dans le futur. Ce séminaire s'intéressera également aux méthodes de modélisation et d'analyse de ces protocoles de sécurité. Ce cours sera donné sous forme de séminaire auquel les étudiants participent activement. Lors de la première réunion, des sujets de présentations seront distribués à des groupes d'étudiants. Chaque groupe devra ensuite faire un exposé de 45 minutes, répondre aux questions des autres étudiants et écrire un résumé de 3-4 pages sur leur présentation.",
+      "Forme du contrôle":"Examen final 50%, séminaire 50%",
+      "Prérequis":"Cryptography and Security",
+      "Objectifs d'apprentissage":"Ce séminaire présente aux participants les tendances actuelles, les problèmes et méthodes dans le domaine de la sécurité des communications."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Student seminar : Security protocols and applications",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

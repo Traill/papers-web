@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771493&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","605"],
+    "title":"Photonic crystals",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771493&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ipeq.epfl.ch","http://ipeq.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105419",
+      "name":"Houdré Romuald"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Important progress has been achieved in the past few years in the basic understanding of photonic crystals which may lead to new breakthroughs in fields such as integrated optics, all optical communications systems and quantum information processing. The meeting will focus on bidimensional photonic crystal structures where physical understanding, modeling and development of new concepts for integrated optics devices have seen the most promising evolution over the last two years.[br/]Key issues that will be addressed include: modeling tools and their specificities and limitations, writing and etching tools for different material systems, comparison between wave guide and membrane approaches, new concepts and functionalities for passive and active devices (add/drop and input/output couplers, lasers), use of photonic crystals in the transmission mode (superlens, superprism), tunable photonic crystals, high Q cavities with photonic crystals for fundamental physics (Purcell effect, quantum optics, single photon sources ), non-linear optics in photonic crystals.[br/] ",
+      "Content":"Fabrication of photonic crystals[br/]Tunable photonic crystals[br/]Modeling of the electromagnetic properties[br/]Non-linear optics in photonic crystals[br/]High Q cavities[br/]New concept for passive/active devices[br/]Nanostructured light emitters[br/]Integrated optics[br/]2D-PC in the transmission mode[br/]Quantum light sources",
+      "Keywords":"photonic crystals, photonic bandgap, non-linear optics, integrated optics",
+      "Note":"This course will be taught in French",
+      "Required prior knowledge":"Fundamentals of semiconductor physics and optics, basic elements of electronics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Photonic crystals",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ipeq.epfl.ch","http://ipeq.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105419",
+      "name":"Houdré Romuald"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course will be taught in French",
+      "Contenu":"Fabrication of photonic crystals[br/]Tunable photonic crystals[br/]Modeling of the electromagnetic properties[br/]Non-linear optics in photonic crystals[br/]High Q cavities[br/]New concept for passive/active devices[br/]Nanostructured light emitters[br/]Integrated optics[br/]2D-PC in the transmission mode[br/]Quantum light sources",
+      "Mots clés":"photonic crystals, photonic bandgap, non-linear optics, integrated optics",
+      "Prérequis":"Fundamentals of semiconductor physics and optics, basic elements of electronics",
+      "Objectifs d'apprentissage":"Important progress has been achieved in the past few years in the basic understanding of photonic crystals which may lead to new breakthroughs in fields such as integrated optics, all optical communications systems and quantum information processing. The meeting will focus on bidimensional photonic crystal structures where physical understanding, modeling and development of new concepts for integrated optics devices have seen the most promising evolution over the last two years.[br/]Key issues that will be addressed include: modeling tools and their specificities and limitations, writing and etching tools for different material systems, comparison between wave guide and membrane approaches, new concepts and functionalities for passive and active devices (add/drop and input/output couplers, lasers), use of photonic crystals in the transmission mode (superlens, superprism), tunable photonic crystals, high Q cavities with photonic crystals for fundamental physics (Purcell effect, quantum optics, single photon sources ), non-linear optics in photonic crystals.[br/] "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Photonic crystals",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

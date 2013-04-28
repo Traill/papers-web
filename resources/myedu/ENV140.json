@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4146612&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","140"],
+    "title":"Fundamentals of geomatics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4146612&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115027",
+      "name":"Gilliéron Pierre-Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To give an overview of geomatics, to present the basic methods for the acquisition, the modelling and the mapping of spatial data[br/]To understand the role of geomatics for building, land development and environmental management.[br/]To master the fundamentals of survey calculus[br/]",
+      "Content":"[b]Fundamentals of geodesy[/b][br/]-\tUnits and coordinate systems[br/]-\tGeodetic reference systems[br/]-\tMap projection[br/][b]Principles of geomatics techniques[/b][br/]-\tSpatial data modelling[br/]-\tData acquisition methods [br/]-\tMapping and visualization[br/][b]Surveying techniques[/b][br/]-\tTerrestrial surveying: levelling, theodolite, range finder[br/]-\tSatellite based positioning (GPS)[br/]-\tPhotogrammetry and laser scanning[br/][b]Applications and digital products[/b][br/]-\tGeomatics in civil and environmental engineering [br/]-\tDigital terrain model[br/]-\tOrthophotos[br/][br/]",
+      "Type of teaching":"Lecture ex cathedra and exercices",
+      "Prerequisite for":"Geographic information system (SIG), Geodetic engineering, Photo-interpretation ",
+      "Form of examination":"Written tests during the semester: MCQ and calculation exercices"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fundamentals of geomatics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115027",
+      "name":"Gilliéron Pierre-Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Polycopiés: Eléments de géomatique",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[b]Bases de géodésie[/b][br/]-\tUnités et systèmes de coordonnées [br/]-\tRéférences géodésiques[br/]-\tProjections cartographiques\t[br/][b]Principes des techniques de la géomatique[/b][br/]-\tModélisation des données spatiales[br/]-\tMéthodes d'acquisition des données[br/]-\tCartographie et représentation[br/][b]Méthodes de lever[/b][br/]-\tMensuration terrestre: nivellement, théodolite, mesure électronique des distances[br/]-\tLocalisation par satellites (GPS)[br/]-\tPhotogrammétrie et laser scanning[br/][b]Applications et produits numériques[/b][br/]-\tGéomatique pour le génie civil et l'ingénierie de l'environnement[br/]-\tModèle numérique de terrain[br/]-\tOrthophotos[br/]",
+      "Forme du contrôle":"Epreuves écrites durant le semestre: QCM et exercices de calculs",
+      "Préparation pour":"Systèmes d'information géographiques (SIG), Topométrie, Photo-interprétation ",
+      "Objectifs d'apprentissage":"Donner un aperçu de la géomatique, présenter les méthodes de base pour l'acquisition, la modélisation et la représentation de données géographiques.[br/]Comprendre le rôle de la géomatique pour la construction, l'aménagement du territoire et la gestion de l'environnement.[br/]Maîtriser les bases des calculs topométriques"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Eléments de géomatique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597424492&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","781"],
+    "title":"Arithmetic of del Pezzo and K3 surfaces",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597424492&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/226885",
+      "name":"Várilly Alvarado Anthony"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"(1) Acquire a working knowledge of the geometry of del Pezzo and K3 surfaces with a view towards solving diophantine problems;[br/][br/](2) Understand how to explicitly compute, in principle and in practice, geometric invariants (e.g., Picard rank/group, Brauer group) of del Pezzo surfaces and particular families of K3 surfaces;[br/][br/](3) Understand through examples the different known cohomological obstructions to the existence and distribution of rational points on varieties.[br/]",
+      "Content":"In this course we will survey classical and recent advances in the explicit study of failures of local-to-global principles on del Pezzo and K3 surfaces. Topics include: a review of geometric facts about these surfaces; (potential) density of rational points and unirationality results; explicit techniques for the computation of Picard and Brauer groups of these surfaces; Brauer-Manin obstructions. Time permitting, we will discuss these topics for Enriques surfaces (including etale-Brauer obstructions), by focusing on their K3 double covers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Arithmetic of del Pezzo and K3 surfaces",
+    "recitation":{
+      "total_hours":38
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/226885",
+      "name":"Várilly Alvarado Anthony"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Arithmetic of del Pezzo and K3 surfaces",
+    "recitation":{
+      "total_hours":38
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

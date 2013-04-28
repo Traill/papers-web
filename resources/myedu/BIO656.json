@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=961928205&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","656"],
+    "title":"Current topics in cancer bioengineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=961928205&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDBB",
+    "program":"EDBB",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/197162",
+      "name":"Munson Jennifer"
+    },{
+      "url":"http://people.epfl.ch/160091",
+      "name":"Swartz Melody"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"Topics covered:[br/][li]Biophysical aspects of the tumor microenvironment and the extracellular matrix[br/][li]Tumor cell motility and invasion[br/][li]Tumor immunobioengineering and immunotherapeutic strategies[br/][li]Tissue engineered models of the tumor microenvironment[br/][li]Cancer stem cells, microfluidic devices and high throughput approaches to cancer biology[br/][li]Systems biology in cancer cell cycle signaling[br/][br/]Each participant will be required to participate in weekly class discussion and will be asked to prepare an oral presention during one class per term.[br/][br/]Each participant will be asked to prepare a 3-5 page manuscript by the end of the term critically analyzing a current research article and discussing the results in the context of the emerging field of cancer bioengineering.[br/]",
+      "Keywords":"Cancer bioengineering",
+      "Form of examination":"Oral presentation and project report",
+      "Required prior knowledge":"PhD student with some biology background"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Current topics in cancer bioengineering",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/197162",
+      "name":"Munson Jennifer"
+    },{
+      "url":"http://people.epfl.ch/160091",
+      "name":"Swartz Melody"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Topics covered:[br/][li]Biophysical aspects of the tumor microenvironment and the extracellular matrix[br/][li]Tumor cell motility and invasion[br/][li]Tumor immunobioengineering and immunotherapeutic strategies[br/][li]Tissue engineered models of the tumor microenvironment[br/][li]Cancer stem cells, microfluidic devices and high throughput approaches to cancer biology[br/][li]Systems biology in cancer cell cycle signaling[br/][br/]Each participant will be required to participate in weekly class discussion and will be asked to prepare an oral presention during one class per term.[br/][br/]Each participant will be asked to prepare a 3-5 page manuscript by the end of the term critically analyzing a current research article and discussing the results in the context of the emerging field of cancer bioengineering.",
+      "Forme du contrôle":"Oral presentation and project report",
+      "Prérequis":"PhD student with some biology background",
+      "Mots clés":"Cancer bioengineering"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Current topics in cancer bioengineering",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

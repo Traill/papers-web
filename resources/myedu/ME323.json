@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772707&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","323"],
+    "title":"Chemical process control",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772707&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104596",
+      "name":"Bonvin Dominique"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduce the basic notions and tools for modeling and analysis of dynamic systems. Introduce the concept of feedback control and the procedure for designing controllers and analyzing the performance of controlled systems.",
+      "Content":"[br/][li]Principles of automatic control [br/][li]Dynamic models of chemical processes[br/][li]Linearization and concept of transfer function[br/][li]On-off and PID control algorithms[br/][li]System stability[br/][li]Control performance[br/][li]Advanced process control[br/][li]Elements of digital control[br/][li]Sensors and actuators[br/][br/]Classroom exercises[br/]Laboratory demos[br/]",
+      "Bibliography and material":"Lecture notes \"Commande de procédés\""
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chemical process control",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7430-0642-0&amp;con_lng=ENG\" target=\"blank\">Commande des procédés : 2e édition revue et augmentée / Jean-Pierre Corriou</a>\". Year:2003. ISBN:2-7430-0642-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-00077-9&amp;con_lng=ENG\" target=\"blank\">Process dynamics and control / Dale E. Seborg ... [et al.]</a>\". Year:2004. ISBN:0-471-00077-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104596",
+      "name":"Bonvin Dominique"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours, exercices et démonstrations en laboratoire",
+      "Contenu":"[br/][li]Principes de la commande automatique[br/][li]Mise en équation de procédés chimiques[br/][li]Concept de  fonction de transfert[br/][li]Commandes élémentaires : tout-ou-rien, PID[br/][li]Étude de stabilité[br/][li]Qualité de régulation[br/][li]Commandes avancées[br/][li]Éléments de commande numérique[br/][li]Organes de mesure et de commande[br/][br/]Exercices[br/]Démonstrations en laboratoire",
+      "Forme du contrôle":"Examen écrit avec contrôle facultatif durant le semestre (bonus)",
+      "Bibliographie et matériel":"Cours polycopié \"Commande de procédés\"[br/][br/]Process Dynamics and Control D.E. Seborg, T.F. Edgar, D.A. Mellichamp[br/]John Wiley, 2nd edition (2004)[br/][br/]Commande des procédés, J.-P. Corriou[br/]Technique & Documentation, 2nd edition (2003)",
+      "Objectifs d'apprentissage":"Apporter aux étudiants les connaissances de base nécessaires à la modélisation et à l'analyse des systèmes dynamiques. Leur apprendre à concevoir des régulateurs et à analyser la performance des systèmes commandés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Commande de procédés",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7430-0642-0&amp;con_lng=FRE\" target=\"blank\">Commande des procédés : 2e édition revue et augmentée / Jean-Pierre Corriou</a>\". Année:2003. ISBN:2-7430-0642-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-00077-9&amp;con_lng=FRE\" target=\"blank\">Process dynamics and control / Dale E. Seborg ... [et al.]</a>\". Année:2004. ISBN:0-471-00077-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

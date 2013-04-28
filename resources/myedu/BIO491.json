@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543116601&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","491"],
+    "title":"New tools and research strategies in personalized medicine",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543116601&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169239",
+      "name":"Beermann Friedrich"
+    },{
+      "url":"http://people.epfl.ch/199117",
+      "name":"Knowles Jonathan"
+    },{
+      "url":"http://people.epfl.ch/174228",
+      "name":"Simanis Viesturs"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To understand what the concept of personalised medicine is.[br/]To learn how to search the published literature, and to prepare a grant request and defend it orally.",
+      "Content":"We will discuss the technological challenges that the field faces, and the strategies to overcome them. We will take examples from the literature, with a focus on the application of personalised medicine to Cancer. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"New tools and research strategies in personalized medicine",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169239",
+      "name":"Beermann Friedrich"
+    },{
+      "url":"http://people.epfl.ch/199117",
+      "name":"Knowles Jonathan"
+    },{
+      "url":"http://people.epfl.ch/174228",
+      "name":"Simanis Viesturs"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra lectures, journal clubs (presentation and critical analysis of papers), preparation of a grant proposal, oral presentation of the proposal.",
+      "Contenu":"Nous allons discuter des défis technologiques de la médecine personnalisée, et des stratégies pour les surmonter. Nous allons utiliser des exemples de la littérature publiée, avec un accent sur l'application de la médecine personnalisée en cancérologie.",
+      "Forme du contrôle":"[b]Continuous control[/b][br/][i]Written project submitted during the course.[br/]Paper presentations during the semester.[br/]Oral presentation of project in final week of the semester.[/i][br/]",
+      "Prérequis":"Cancer Biology I (desirable ; not obligatory)[br/]Knowledge of signalling pathways relevant to cancer (suggested reference text: Robert A Weinberg, The Biology of Cancer, Garland Press)",
+      "Objectifs d'apprentissage":"De comprendre le concept de médecine personnalisée.[br/]D'apprendre à examiner la littérature publiée, de préparer une demande de bourse, et de défendre cette demande oralement."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"New tools and research strategies in personalized medicine",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

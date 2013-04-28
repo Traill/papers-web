@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=257434376&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","111"],
+    "title":"Biological chemistry I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=257434376&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138412",
+      "name":"Vandevyver Caroline"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li] To extend the student's knowledge of the structures and properties of biomolecules (proteins, sugars, lipids, nucleic acids). [br/][li] To develop the student's understanding of the relationship between the structure and biological function of biomolecules. [br/][li] To enable the student to recognize and understand the structural characteristics of component small molecules that dictate the final structure of multi-component macromolecules. [br/][li] To establish the student's appreciation of the structural features in macromolecules that take part in specific interactions with both small molecules and other macromolecules. [br/][li] To illustrate the importance of a sound understanding of structure and function through examples drawn from molecular pathology, protein engineering and protein modification.",
+      "Content":"[li] Introduction to the structure and function of biomolecules.[br/][li] Structure and function of amino acids, properties of side groups and their influence on protein structure.[br/][li] Chemical properties of the peptide bond. Structure and function of biologically active peptides. [br/][li] Protein structure. Primary structure, hydrogen bonding, hydrophobic bonding, electrostatic and Van der Waals forces. Secondary structure, alpha-helix, beta-sheet and other aspects of protein folding. Acquisition of tertiary structure, unfolding and refolding of proteins. Quaternary structure. Probing protein structure. The Prion Diseases.[br/][li] Structure and function of myoglobin and haemoglobin. Molecular pathology of haemoglobin. Interactions between proteins and ligands: antibody-antigen interactions as an example.[br/][li] Introduction to enzymes. I.U.B. classification of enzymes. Catalytic power. Enzyme specificity. Active site and ES complex. Introduction to enzyme kinetics, Michaelis-Menten. Factors which influence enzyme reaction rate. Enzyme inhibition. Regulatory enzymes.[br/][li] Structure and chemical properties of monosaccharides and oligosaccharides. Nomenclature, conformations and glycosidic linkages in oligosaccharides. Structure, function and properties of starch, cellulose, agarose, glycoaminoglycans, proteoglycan. Diabetes.[br/][li] Nomenclature, structure and properties of nucleic acids. Molecular structure of DNA and RNA.  Nucleic acid chemistry. Structure and function of ATP and NAD(H).  Basics of ATP generation in the cell.[br/][li] Structure and characteristics of lipids. Summary of their function in membranes, storage and transport of metabolic fuel. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biological chemistry I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=ENG\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Year:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138412",
+      "name":"Vandevyver Caroline"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Ce cours très important requière une bonne régularité dans l'apprentissage des notions requises pour réussir l'examen. Celui-ci, sous forme de QCM, permet d'évaluer si les notions requises ont été enregistrées et si l'étudiant les a bien comprises. Accrochez-vous cet effort sera récompensé dans les années suivantes.",
+      "Prérequis":"Chimie générale, chimie organique",
+      "Bibliographie et matériel":"Lehninger - Principles of Biochemistry by David L. Nelson, Michael M. Cox, 5th edition.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[li] Structure-fonction des acides aminés, propriété des groupes latéraux et de leur influence sur la structure des protéines.[br/][li] Propriétés chimiques de la liaison peptidique: Structure-fonction des peptides biologiquement actifs.[br/][li] Structure des protéines: structure primaire, ponts hydrogène, liaison hydrophobe, forces electrostatiques de Van der Waals. Structure secondaire, hélice-alfa, feuillet-beta et autres aspects du pliage des protéines. Structure quaternaire. Tests sur la structure des protéines. La maladie due aux Prions.[br/][li] Structure et fonction de la myoglobine et de l'hémoglobine. Pathologie moléculaire de l'hémoglobine. Interactions entre les protéines et les ligands: interaction antigène-anticorps comme exemple.[br/][li] Introduction aux enzymes. I.U.B. classification des enzymes. Pouvoir catalytique. Spécificité enzymatique. Site actif et complexe ES. Introduction à la cinétique enzymatique, Michaelis-Menten. Facteurs influençant la capacité de réaction enzymatique. Inhibition enzymatique. Enzymes de régulation.[br/][li] Structures et propriétés chimiques des monosaccharides et oligosaccharides. Nomenclature, conformations et liaisons glycosiques des oligosaccharides. Structure-fonction et propriétés de l'amidon, de la cellulose, agarose, glycoaminoglycans, protéoglycans. Diabète sucrés.[br/][li] Structure moléculaire de l'ADN et ARN. Chimie des acides nucléiques. Structure et fonction de l'ATP et du NAD(H). Bases de la génération d'ATP dans la cellule.[br/][li] Structure et caractéristiques des lipides. Résumé de leur fonction dans la membrane, stockage et transport de ressources énergétiques. Nomenclature, structure et propriétés des acides nucléiques.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Chimie biologique II",
+      "Objectifs d'apprentissage":"Introduction à la chimie biologique avec un accent mis sur le rapport structure-fonction des principales molécules trouvées dans la cellule.[br/]De plus, les étudiants seront introduits aux méthodes de base utilisées pour caractériser les propriétés des biomolécules."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie biologique I (pour SV)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=FRE\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Année:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230265995&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","316"],
+    "title":"Computer algebra",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230265995&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183121",
+      "name":"Eisenbrand Friedrich"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Computer Algebra is concerned with algorithmic challenges emerging from the interplay of Algebra and Computer Science. In this course, students will learn how to design and analyze efficient algorithms for basic arithmetic, polynomials, fast linear algebra and elementary number theory.",
+      "Content":"Arithmetic and greatest common divisor of integers and polynomials[br/]Fast Fourier Transform[br/]Fast Linear Algebra[br/]Primality Testing and Finding Primes[br/]Public Key Cryptography",
+      "Type of teaching":"Ex cathedra lecture and exercises in classroom",
+      "Required prior knowledge":"Linear algebra"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer algebra",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-60582-7&amp;con_lng=ENG\" target=\"blank\">Algebraic complexity theory / Peter Bürgisser, Michael Clausen, M. Amin Shokrollahi ; with the collab. of Thomas Lickteig</a>\". Year:1997. ISBN:3-540-60582-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82646-2&amp;con_lng=ENG\" target=\"blank\">Modern computer algebra / Joachim von zur Gathen and Jürgen Gerhard</a>\". Year:2003. ISBN:0-521-82646-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183121",
+      "name":"Eisenbrand Friedrich"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra avec exercices en salle",
+      "Contenu":"Arithmétique et plus grand diviseur commun des entiers et des polynômes[br/]Transformée de Fourier rapide[br/]Algèbre linéaire rapide[br/]Test de primauté et recherche des nombres premiers[br/]Cryptographie à clé publique",
+      "Prérequis":"Algèbre linéaire",
+      "Bibliographie et matériel":"Modern Computer Algebra  (von zur Gathen and Gerhard) [br/]Algebraic Complexity Theory (Bürgisser, Clausen, Shokrollahi)",
+      "Objectifs d'apprentissage":"L'algèbre d'ordinateur est concernée par les défis d'algorithmique qui émergent de l'interaction entre l'algèbre et l'informatique. Dans ce cours, les étudiants apprendront à : comment développer et analyser des algorithmes efficaces pour l'arithmétique de base, les polynômes, l'algèbre linéaire rapide et les bases de la théorie des nombres."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer algebra",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-60582-7&amp;con_lng=FRE\" target=\"blank\">Algebraic complexity theory / Peter Bürgisser, Michael Clausen, M. Amin Shokrollahi ; with the collab. of Thomas Lickteig</a>\". Année:1997. ISBN:3-540-60582-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82646-2&amp;con_lng=FRE\" target=\"blank\">Modern computer algebra / Joachim von zur Gathen and Jürgen Gerhard</a>\". Année:2003. ISBN:0-521-82646-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

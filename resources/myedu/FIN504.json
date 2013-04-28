@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840861451&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","504"],
+    "title":"Credit risk",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840861451&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213189",
+      "name":"Collin Dufresne Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Homework is open book. Final exam is closed-book.",
+      "Form of examination":"30% Homework[br/]30% Midterm[br/]40% Term projet",
+      "Bibliography and material":"Duffie and Singleton, Credit Risk: Pricing, Measurement and Management, Princeton University Press, 2003.[br/]Lando, Credit Risk Modeling, Princeton 2004.",
+      "Required prior knowledge":"Derivatives[br/]Econometrics[br/]Introduction to finance[br/]Investments[br/]Stochastic calculus I[br/]Stochastic calculus II",
+      "Content":"1. Introduction to credit markets[br/]2. Structural Framework[br/]3. Reduced-form Framework[br/]4. Empirical determinants of credit spreads[br/]5. Credit Default Swap (CDS) contracts[br/]6. The Cash-CDS basis[br/]7. Collateralized Debt Obligations (CDO)[br/]8. Copula models and beyond[br/]9. Credit Valuation Adjustment (CVA) modeling[br/]10. The Crisis, Regulatory Developments and the future of Credit Markets[br/]",
+      "Keywords":"Credit risk, bankruptcy, ratings, securitization, CDS, CDO, CVA, Structural models, Reduced form models, Copula.",
+      "Type of teaching":"Lectures, homework",
+      "Learning outcomes":"The course covers credit risk models as well as institutional features of credit derivative markets. Credit risk will be covered both from a \"sell-side\" as well as \"buy-side\" perspective. The course also covers CDO structures, and discusses implications of the recent crisis and regulatory changes for securitization markets."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Credit risk",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-81-224-2168-2&amp;con_lng=ENG\" target=\"blank\">Credit risk : pricing, measurement and management / Darrell Duffie and Kenneth J. Singleton</a>\". Year:2007. ISBN:978-81-224-2168-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-691-08929-9&amp;con_lng=ENG\" target=\"blank\">Credit risk modeling : theory and applications / David Lando</a>\". Year:2004. ISBN:0-691-08929-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213189",
+      "name":"Collin Dufresne Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Les devoirs sont à livre ouvert. Les examens sont à livre fermé",
+      "Prérequis":"Derivatives[br/]Econometrics[br/]Introduction to finance[br/]Investments[br/]Stochastic calculus I[br/]Stochastic calculus II",
+      "Bibliographie et matériel":"Duffie and Singleton, Credit Risk: Pricing, Measurement and Management, Princeton University Press, 2003.[br/]Lando, Credit Risk Modeling, Princeton 2004.",
+      "Mots clés":"Risque de crédit, faillite, agence de notation, titrisation, CDS, CDO, CVA, modèles structurel et à forme réduite, copula.",
+      "Forme d'enseignement":"Cours, devoirs",
+      "Contenu":"1. Introduction aux marchés de crédit[br/]2. Modèles structurels[br/]3. Modèles à forme réduite[br/]4. Déterminants empiriques des spreads de crédit[br/]5. Credit Default Swap (CDS) [br/]6. Base Cash-CDS [br/]7. Obligations collatéralisées (CDO)[br/]8. Modèles de copules et applications[br/]9. Modélisation de l'évaluation des ajustements de crédit (CVA)[br/]10. La crise, l'évolution de la règlementation et l'avenir des marchés du crédit",
+      "Forme du contrôle":"30% Devoirs[br/]30% Examen intermédaire[br/]40% Projet",
+      "Objectifs d'apprentissage":"Ce cours couvre le risque de crédit ainsi que les détails institutionnels des marchés du crédit. Il couvre les Credit Default Swaps (CDS), ainsi que les Collateralized Debt Obligations (CDO) tant d'un point de vue banque d'affaires (\"sell-side\") que d'un point de vue investisseur (\"buy-side\"). Le cours offre une discussion de la crise récente et des conséquences pour les marchés du  crédit. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Credit risk",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-81-224-2168-2&amp;con_lng=FRE\" target=\"blank\">Credit risk : pricing, measurement and management / Darrell Duffie and Kenneth J. Singleton</a>\". Année:2007. ISBN:978-81-224-2168-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-691-08929-9&amp;con_lng=FRE\" target=\"blank\">Credit risk modeling : theory and applications / David Lando</a>\". Année:2004. ISBN:0-691-08929-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

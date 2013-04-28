@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775427&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","101(d)"],
+    "title":"General physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775427&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189937",
+      "name":"Manley Suliana"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam at the end of the course. For others tests, you will be informed at the beginning of the semester",
+      "Prerequisite for":"General Physics II",
+      "Required prior knowledge":"Math level required for \"maturité fédérale\", see on the left the hyperlinks and the book, indicative of the level of math appropriate for a good start at EPFL. ",
+      "Content":"The course may contain, but not exclusively, the following elements :[br/][br/] [br/][b]Mechanics[/b][br/][br/][b]Introduction and kinematics[/b][br/]Reference frames, trajectories, velocity, acceleration, Cartesian, spherical and cylindrical coordinates.[br/][br/][b]Dynamics of pint mass[/b][br/]Momentum, Newton's laws, fundamental forces, empirical forces and constraints. Oscillatory motion, Angular momentum[br/][br/][b]Work, power, energy[/b][br/]Kinetic energy, potential energy, conservation laws, gravitational motion. Collisions and percussions.[br/][br/]",
+      "Type of teaching":"Ex cathedra + supervised exercises",
+      "Learning outcomes":"Give the student the basic notions that will allow him or her to have a better understanding of physical phenomena. Acquire the capacity to analyse quantitatively the consequences of these effects with appropriate theoretical tools."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189937",
+      "name":"Manley Suliana"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Niveau mathématique de la maturité fédérale, voir par exemple [br/]http://www.vsmp.ch/crm/cat.htm[br/]http://www.vsmp.ch/crp/informations/nouvelle_maturite_2.html[br/]\"Savoir-Faire en Maths\" PPUR",
+      "Forme d'enseignement":"Cours + exercices en salle",
+      "Contenu":"L'enseignement peut contenir, mais pas exclusivement, les éléments suivants :[br/][br/][b]Mécanique[/b][br/][br/][b]Introduction et Cinématique[/b][br/]Référentiels. Trajectoire. Vitesse. Accélération. Coordonnées cartésiennes, cylindriques et sphériques.[br/][br/][b]Dynamique du point matériel[/b][br/]Quantité de mouvement. Lois de Newton. Forces fondamentales, empiriques et de liaison. Mouvement oscillatoire. Moment cinétique.[br/] [br/][br/][b]Travail, puissance, énergie[/b][br/]Energies cinétique, potentielle, mécanique. Lois de conservation. Mouvements gravitationnels. Chocs et réactions. [br/]",
+      "Forme du contrôle":"Le cours se conclut par un examen écrit. Toute autre forme de contrôle sera spécifiée par l'enseignant au début du cours.  ",
+      "Préparation pour":"Physique Générale II",
+      "Objectifs d'apprentissage":"Donner à l'étudiant les notions de base nécessaires à la compréhension des phénomènes physiques. Etre capable de prévoir quantitativement les conséquences de ces phénomènes avec des outils théoriques appropriés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

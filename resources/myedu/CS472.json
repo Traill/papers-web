@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24164994&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","472"],
+    "title":"Design technologies for integrated systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24164994&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://si2.epfl.ch/~seicules/DTIS/web/","http://si2.epfl.ch/%7Eseicules/DTIS/web/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167918",
+      "name":"De Micheli Giovanni"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Students will learn the techniques used for designing integrated circuits and systems starting from design languages and formalism to the synthesis and optimization of digital circuits in terms of logic gates.[br/]",
+      "Content":"Hardware compilation is the process of transforming specialized hardware description languages into circuit descriptions, which are iteratively refined, detailed and optimized. The course will present the most outstanding features of hardware compilation, as well as the techniques for optimizing logic representations and networks. The course gives a novel, uptodate view of digital circuit design. Practical sessions will teach students the use of current design tools.[br/][br/][br/]Syllabus[br/]1)\tModeling languages and specification formalisms;[br/]2)\tHigh-level synthesis and optimization methods (scheduling, binding, data-path and control synthesis);[br/]3)\tRepresentation and optimization of combinational logic functions (encoding problems, binary decision diagrams);[br/]4)\tRepresentation and optimization of multiple-level networks (algebraic and Boolean methods, \"don't care\" set computation, timing verification and optimization);[br/]5)\tModeling and optimization of sequential functions and networks (retiming);[br/]6)\tSemicustom libraries and library binding.[br/]",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Continuous control :[br/]Homework : 25 %, Project 15 %, Midterm test : 20 %, [br/]End term test : 40 %",
+      "Bibliography and material":"Synthesis and Optimization of Digital Circuits by Pr. G. De Micheli"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Design technologies for integrated systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-016333-2&amp;con_lng=ENG\" target=\"blank\">Synthesis and optimization of digital circuits / Giovanni De Micheli</a>\". Year:1994. ISBN:0-07-016333-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://si2.epfl.ch/~seicules/DTIS/web/","http://si2.epfl.ch/%7Eseicules/DTIS/web/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167918",
+      "name":"De Micheli Giovanni"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"La synthèse hardware est effectuée grâce à la transformation d'un langage spécialisé de description hardware en une description de circuits, qui est affinée et optimisée par itérations successives.[br/]Ce cours présentera les principales spécificités de la synthèse hardware et les différentes techniques d'optimisation des représentations logiques. Ce cours donne une vision nouvelle et actuelle de la conception de circuits digitaux.[br/]Les travaux pratiques montreront aux étudiants l'utilisation des outils de conception principaux.[br/] [br/]Programme[br/]1)\tLangages de modélisation et de spécification[br/]2)\tSynthèse haut niveau et méthodes d'optimisation (planification, liaison, chemin de données et contrôle)[br/]3)\tReprésentation et optimisation de fonctions logique combinatoires (problème d'encodage, diagrammes de décision binaire)[br/]4)\tReprésentation et optimisation de réseau à couche multiple (méthodes algébriques et booléennes, calcul des ensembles « don't care », vérification et optimisation des temps de propagation)[br/]5)\tModélisation et optimisation de fonctions séquentielles et de réseaux (retiming)[br/]6)\tLibrairies partiellement personnalisées et liaison de librairies.[br/]",
+      "Forme du contrôle":"Contrôle continu :[br/]Homework : 25 %, Project 15 %, Midterm test : 20 %, [br/]End term test : 40 %",
+      "Bibliographie et matériel":"Synthesis and Optimization of Digital Circuits by Pr. G. De Micheli",
+      "Objectifs d'apprentissage":"Les étudiants étudieront les techniques utilisées pour la conception des circuits et systèmes intégrés en partant d'une description formelle à l'aide de langages de conception hardware et l'optimisation des circuits digitaux en terme de porte logique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Design technologies for integrated systems",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-016333-2&amp;con_lng=FRE\" target=\"blank\">Synthesis and optimization of digital circuits / Giovanni De Micheli</a>\". Année:1994. ISBN:0-07-016333-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

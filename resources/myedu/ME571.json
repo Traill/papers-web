@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228388903&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","571"],
+    "title":"Numerical methods in heat transfer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228388903&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169307",
+      "name":"Nichita Bogdan Alexandru"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"The students are evaluated by the grading of the reports presented during the course.",
+      "Bibliography and material":"Hand-outs given during the course.",
+      "Required prior knowledge":"[li]MATLAB basics would help.",
+      "Content":"Integration of skills from various basic sciences to effectively analyse, model and numerically solve typical engineering problems involving heat transfer and fluid flow. Detailed analysis of two real-life engineering problems: a first-rate design problem involving two-phase flow evaporation through a porous material and a combined conduction/convection problem related with experimental heat transfer data analysis. Bring students up to speed with the numerical solution of initial value problems (IVP) and boundary value problems (BVP) within MATLAB.",
+      "Keywords":"Numerics, Heat transfer, Initial value problem, Boundary value problem.",
+      "Type of teaching":"Learning-by-doing: the students are step-by-step guided through the solution of the problems analysed. Required theoretical aspects are introduced on an as-needed basis.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Identify the required level of modelling for a problem, A2.[br/][li]State the conserved quantities in a given flow and link them to a physical-mathematical description, AH16.[br/][li]Perform a numerical simulation with appropriate software; understand the limits of each software in terms of its application domain and accuracy of the results obtained, AH41.[br/][br/][br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical methods in heat transfer",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169307",
+      "name":"Nichita Bogdan Alexandru"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Des connaissances de base en MATLAB sont souhaitées.",
+      "Bibliographie et matériel":"Polycopiés donnés pendant le cours.",
+      "Mots clés":"Données numériques, Transfert de chaleur, Problème aux valeurs initiales, Problème aux limites",
+      "Forme d'enseignement":"Étude de cas : les étudiants sont guidés pas à pas vers la solution par l'analyse de problèmes. Les aspects théoriques requis sont introduits sur une base nécessaire.",
+      "Contenu":"L'intégration de compétences de diverses sciences de base pour analyser efficacement, modéliser et résoudre numériquement des problèmes typiques d'ingénierie impliquant le transfert thermique et les fluides. Analyse détaillée de deux problèmes réels d'ingénierie : un problème de conception de premier ordre impliquant l'évaporation de fluides à deux phases à travers un matériau poreux et un problème de conduction/convection combinée lié à l'analyse de données expérimentales de transfert thermique. Amener les étudiants à trouver de manière efficace des solutions numériques aux problèmes aux conditions initiales et aux limites dans MATLAB.",
+      "Forme du contrôle":"Les étudiants sont évalués par l'évaluation des rapports présentés pendant le cours.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Identifier le niveau de modélisation nécessaire au traitement du problème, A2.[br/][li]Enoncer les quantités conservées dans un écoulement donné et les relier avec la description physico-mathématique, AH16.[br/][li]Effectuer une simulation numérique avec des logiciels appropriés ; comprendre les limitations de chaque logiciel en termes de champ d'application et de précision des résultats, AH41.[br/][br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical methods in heat transfer",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

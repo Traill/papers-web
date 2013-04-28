@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773592&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","445"],
+    "title":"Energy within buildings",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773592&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    },{
+      "url":"http://people.epfl.ch/105906",
+      "name":"Morel Nicolas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"At the end of the course, the student should be able to calculate a building energy balance, to propose optimized solutions for a project and to propose energy retrofitting for an existing building.",
+      "Content":"[br/][li]\tGeneral introduction: energy flows in a building.[br/][li]\tHeat transfer: conduction, radiation, convection, steady state and dynamic behaviour of opaque and transparent building elements.[br/][li]\tThermal and visual comfort: inside and ouside climate, comfort parameters, Fanger's formalism.[br/][li]\tHeat balance: dynamic, steady-state and simplified methods.[br/][li]\tInsulation: principle, different types of acoustic and thermal insulation materials.[br/][li]\tHumidity in building elements: causes, consequences, water vapor migration, Glaser's model.[br/][li]\tHeat production and distribution: energy (electricity, gas, district heating, oil, coal, wood, solar energy), equipments (boiler, heat pump, heat exchanger, solar collector), heat distribution and emission.[br/][li]\tAdvanced control systems for building services (heating, cooling, ventilation, lighting, solar protections).[br/][li]\tBuilding envelope design: protection against humidity, noise and heat losses.[br/][li]\tEnergy consumption diagnosis methods: energy consumption index, energy signature, heat production efficiency, airflow measurement.[br/][li]\tEconomic optimisation and options selection: general methods, free parameters, criteria, annual cost of different solutions, optimal configurations.[br/][li]\tCase study: building envelope and heating equipment design with PC's software.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Energy within buildings",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-113-7&amp;con_lng=ENG\" target=\"blank\">Interactions entre le climat et le bâtiment</a>\". Year:1987. ISBN:2-88074-113-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-115-3&amp;con_lng=ENG\" target=\"blank\">Prestations du bâtiment, bilan énergétique global</a>\". Year:1987. ISBN:2-88074-115-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    },{
+      "url":"http://people.epfl.ch/105906",
+      "name":"Morel Nicolas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Participation active des étudiants, avec support informatique",
+      "Contenu":"[br/][li]\tIntroduction générale: les flux d'énergie dans le bâtiment.[br/][li]\tTransfert de chaleur : conduction, rayonnement, convection, régime stationnaire et dynamique dans les éléments de construction opaques et transparents.[br/][li]\tConfort thermique et visuel: climat intérieur/extérieur, paramètres influençant le confort, l'équation de Fanger.[br/][li]\tMatériaux d'isolation : principes et types d'isolants thermiques et acoustiques. [br/][li]\tHumidité dans le bâtiment: causes, conséquences, migration de vapeur, modèle de Glaser.[br/][li]\tProduction-distribution de chaleur : énergie de chauffage (électricité, gaz, chauffage à distance, mazout, charbon, bois, chaleur de l'environnement, énergie solaire) -  équipement (accumulateurs, chaudières, échangeurs, pompes à chaleur) - distribution et émission de chaleur.[br/][li]\tSystèmes avancés de contrôle des installations techniques (chauffage, refroidissement, ventilation, éclairage, protections solaires).[br/][li]\tConception des enveloppes: protection contre l'humidité, le bruit et les pertes de chaleur des murs et toitures.[br/][li]\tMéthodes de diagnostic énergétique : indice de dépense d'énergie, signature énergétique, isolation thermique, étanchéité à l'air, mesure de flux d'air, rendement de production de chaleur.[br/][li]\tOptimisation économique et choix énergétiques: méthodes générales d'optimisation technico-économique, paramètres libres et critères de dimensionnement, coûts annuels des diverses variantes et recherche de configuration optimales, interprétation des résultats et choix définitifs.[br/][li]\tÉtude de cas - EAO: dimensionnement à l'aide de l'ordinateur des enveloppes et de l'équipement d'un bâtiment.",
+      "Prérequis":"Physique élémentaire",
+      "Bibliographie et matériel":"Polycopié + C.A. Roulet, Énergétique du bâtiment I et II, PPUR.",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant est capable de calculer le bilan énergétique d'un bâtiment, de proposer des variantes optimisées pour un projet et de proposer des améliorations énergétiques pour un bâtiment existant."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Energétique du bâtiment",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-113-7&amp;con_lng=FRE\" target=\"blank\">Interactions entre le climat et le bâtiment</a>\". Année:1987. ISBN:2-88074-113-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-115-3&amp;con_lng=FRE\" target=\"blank\">Prestations du bâtiment, bilan énergétique global</a>\". Année:1987. ISBN:2-88074-115-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838977366&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","273"],
+    "title":"Communication for engineer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838977366&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196254",
+      "name":"Crettaz Decosterd Francine"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Enable future engineers to effectively communicate their projects and the[br/]results of their work, especially how to :[br/]- Understand the basics of communication and its role in the activity of the[br/]engineers[br/]- Acquire the basics of argumentation and tools to organize and to prioritize ideas[br/]- Master the main methods of redaction for the production of readable and[br/]convincing professional reports, summaries or news releases[br/]",
+      "Content":"[li] Introduction to communication and reading comprehension rules[br/][li] Before communicating: How to learn to list the good questions, to build an argumentation, to organize the ideas, (mind mapping, the six hats for[br/]thinking, journalistic approach)[br/][li] Written communication: How to connect ideas, give a maximal impact to a text, chose the right words, assert one's style and improve the quality[br/]writing (title, layout, illustration)",
+      "Keywords":"Communication, redaction, argumentation, creativity",
+      "Form of examination":"Optional course without exam",
+      "Type of teaching":"Theoretical contributions and practical exercises of writing on the basis of professional reports, press releases and texts brought by the participants. Virtual and real workshops to facilitate critical exchanges[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Communication for engineer",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196254",
+      "name":"Crettaz Decosterd Francine"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Bibliographie et matériel":"Support de cours, exercices et bibliographie[br/]mis à disposition (polycopiés et web).[br/]",
+      "Mots clés":"Communication, rédaction, argumentation, créativité",
+      "Forme d'enseignement":"Apports théoriques et exercices pratiques de rédaction sur la base de rapports professionnels, de communiqués et de textes amenés par les participants... Ateliers de relecture virtuels ou réels pour favoriser l'échange critique[br/]",
+      "Contenu":"[li] Introduction à la communication et aux règles de lisibilité.[br/][li] Avant de communiquer: apprendre à se poser les bonnes questions, à organiser les idées (mind mapping, les six chapeaux de la réflexion, approche journalistique...).[br/][li] Communiquer par écrit: relier les idées, donner de l'impact aux phrases, contrôler le choix des mots, affirmer son style. Améliorer la qualité des écrits (titres, mise en page, illustrations...).",
+      "Forme du contrôle":"Cours facultatif sans examen",
+      "Objectifs d'apprentissage":"Permettre au futur ingénieur de communiquer efficacement ses projets et les résultats de ses travaux, en particulier:[br/]- Comprendre les bases de la communication, sa place dans l'activité[br/]de l'ingénieur.[br/]- Acquérir les bases de l'argumentation, des outils pour organiser et hiérarchiser les idées.[br/]- Maîtriser les principales méthodes de rédaction pour la production de rapports professionnels, de synthèses, de communiqués, de posters... lisibles et convaincants."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Communication pour l'ingénieur",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

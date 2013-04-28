@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2977959&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","600"],
+    "title":"Solar photovoltaics and energy systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2977959&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to provide a presentation of main ideas, principles and theoretical bases of photovoltaic solar energy conversion. The parameters for application of photovoltaic energy conversion devices, including the electromagnetic and solar spectrum, basics of climatology as relevant for solar energy conversion and other environmental considerations will be  given attention. Fundamental concepts in photovoltaics technology, solid state photonics, electrochemistry and photochemistry will be presented and the exemplary case of molecular photovoltaic systems (dye sensitized nanocrystalline solar cells) more particularly studied. Materials of significance for photovoltaics and electrochemistry for  energy applications will be identifed, together with the structures of devices. Short hands-on experiments and demonstrations in research labs will help students grasping the physical phenomena taking place in systems of interest and understanding advanced strategies applied in technological developments.",
+      "Content":"1. Solar irradiation as an energy source for electricity generation.[br/]2. Thermodynamic efficiency restrictions in photochemical energy conversion.[br/]3. Solar thermal energy conversion.[br/]4. Electronic and electrochemical materials for energy applications; relevant solid-state and physical concepts.[br/]5. Structure of solar cells, p-n junctions, heterojunctions, Schottky junctions.[br/]6. Organic materials in photochemistry.[br/]7. Fundamentals of semiconductor photo-electrochemistry.[br/]8. Dynamics of electron transfer and charge transport processes.[br/]9. Bio-inspired molecular photovoltaics.[br/]10. Dye-sensitization of wide bandgap materials.[br/]11. Direct solar-to-chemical conversion with Photoelectrochemical cells.[br/]12. Electrochemistry in energy conversion devices - overview.[br/]13. Advanced strategies and materials for photochemical solar energy conversion.[br/]",
+      "Form of examination":"Oral exam and project report",
+      "Note":"This course will be given in Spring 2014",
+      "Required prior knowledge":"Dipl-Ing or M.S., including physics, chemistry or materials science"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Solar photovoltaics and energy systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course will be given in Spring 2014",
+      "Contenu":"1. Solar irradiation as an energy source for  electricity generation.[br/]2. Thermodynamic efficiency restrictions in photochemical energy conversion[br/]3. Electronic and electrochemical materials for  energy applications; relevant solid-state and physical concepts[br/]4. Structure of solar cells, p-n junctions, heterojunctions, Schottky junctions.[br/]5. Organic materials in photochemistry.[br/]6. Fundamentals of semiconductor photo-electrochemistry[br/]7. Dynamics of electron transfer and charge transport processes[br/]8. Bio-inspired molecular photovoltaics[br/]9. Dye-sensitization of wide bandgap materials[br/]10. Electrochemistry in energy conversion devices - overview[br/]11. Advanced strategies and materials for photochemical solar energy conversion[br/][br/]Hands-on experiments and demonstrations:[br/][br/][][][][][li] Construction and testing of dye-sensitized solar cells[br/][][][][][li] Electrochemical characterization of photovoltaic devices[br/][][][][][li] Time-resolved laser spectroscopy (dynamics of competing electron transfer processes)",
+      "Forme du contrôle":"Oral exam and project report",
+      "Prérequis":"Dipl-Ing or M.S., including physics, chemistry or materials science",
+      "Objectifs d'apprentissage":"The aim of this course is to provide a presentation of main ideas, principles and theoretical bases of photovoltaic solar energy conversion. The parameters for application of photovoltaic energy conversion devices, including the electromagnetic and solar spectrum, basics of climatology as relevant for solar energy conversion and other environmental considerations will be  given attention. Fundamental concepts in photovoltaics technology, solid state photonics, electrochemistry and photochemistry will be presented and the exemplary case of molecular photovoltaic systems (dye sensitized nanocrystalline solar cells) more particularly studied. Materials of significance for photovoltaics and electrochemistry for  energy applications will be identifed, together with the structures of devices. Short hands-on experiments and demonstrations in research labs will help students grasping the physical phenomena taking place in systems of interest and understanding advanced strategies applied in technological developments."
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Solar photovoltaics and energy systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

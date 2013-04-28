@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241589118&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","706"],
+    "title":"Active noise control",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241589118&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To be able to model and design audio devices or systems, in order to fit electroacoustic specifications. To acquire knowledge of the main audio techniques and know how to conceive and design different devices, apparatus and transducers. To know how to interact with sound fields by way of electroacoustic transduction.",
+      "Content":"Chapter I. Fundamental acoustics[br/]- Sound propagation - sound sources - interferences - refraction of sound - Guided waves in 1D (transmission lines, lumped-elements model)[br/][br/]Chapter II. Active noise control concepts[br/]- Historics of active noise control - Feedforward active noise control - Feedback active noise control - From active noise cancellation to active sound absorption[br/][br/]Chapter III. Electroacoustic transductions [br/]- Transductions and models (actuators, sensors, arrays of transducers) - Sound sources optimization and control[br/][br/]Chapter IV. Transducer-based active concepts[br/]- Shunt loudspeakers - Bridging the gap between shunt loudspeakers and active sound absorption[br/][br/]",
+      "Keywords":"Acoustics, electroacoustics transducers, filters design, antennas, active noise control, sound field control",
+      "Form of examination":"Project report and oral presentation",
+      "Required prior knowledge":"Audio I and II, acoustic propagation"
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Active noise control",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Chapter I. Fundamental acoustics[br/]- Sound propagation - sound sources - interferences - refraction of sound - Guided waves in 1D (transmission lines, lumped-elements model)[br/][br/]Chapter II. Active noise control concepts[br/]- Historics of active noise control - Feedforward active noise control - Feedback active noise control - From active noise cancellation to active sound absorption[br/][br/]Chapter III. Electroacoustic transductions [br/]- Transductions and models (actuators, sensors, arrays of transducers) - Sound sources optimization and control[br/][br/]Chapter IV. Transducer-based active concepts[br/]- Shunt loudspeakers - Bridging the gap between shunt loudspeakers and active sound absorption[br/][br/]",
+      "Mots clés":"Acoustics, electroacoustics transducers, filters design, antennas, active noise control, sound field control",
+      "Prérequis":"Audio I and II, acoustic propagation",
+      "Forme du contrôle":"Project report and oral presentation",
+      "Objectifs d'apprentissage":"To be able to model and design audio devices or systems, in order to fit electroacoustic specifications. To acquire knowledge of the main audio techniques and know how to conceive and design different devices, apparatus and transducers. To know how to interact with sound fields by way of electroacoustic transduction."
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Active noise control",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

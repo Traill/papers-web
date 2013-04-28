@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47865593&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","106"],
+    "title":"Programming theory and practice",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47865593&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103610",
+      "name":"Schinz Michel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Mid-term test 50%, final test 50%",
+      "Bibliography and material":"[i]Absolute Java[/i] 2nd edition, Walter Savitch, 2006, Pearson Education, ISBN 0-321-31252-8",
+      "Prerequisite for":"Information technology project",
+      "Required prior knowledge":"Introduction to objects oriented programming",
+      "Content":"Contents of the Java API[br/]Construction and use of packages[br/]Exception handling[br/]Streams, text files, binary files[br/]Threads and synchronization [br/]Construction of a graphical user interface[br/]Basic graphical components[br/]Handling of interaction events[br/]Generic data structures: collections, sets, lists, maps, trees, hash tables, iterators[br/]Basic design patterns[br/]",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"Improve theoretical and practical programming skills in Java.[br/][br/]Acquire experience with the major packages and classes of the Java API.[br/][br/]Know the most important data structures, how to use and implement them.[br/]Learn the concept of design patterns and examine the most frequently used patterns.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Programming theory and practice",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-136589-6&amp;con_lng=ENG\" target=\"blank\">Absolute Java / Walter Savitch ; contrib.: Kenrick Mock</a>\". Year:2010. ISBN:978-0-13-136589-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-212-12866-6&amp;con_lng=ENG\" target=\"blank\">Programmer en Java / Claude Delannoy</a>\". Year:2011. ISBN:978-2-212-12866-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103610",
+      "name":"Schinz Michel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction à la programmation objet",
+      "Bibliographie et matériel":"[i]Absolute Java[/i], 2nd edition, Walter Savitch, 2006, Pearson Education, ISBN 0-321-31252-8[br/][i]Programmer en Java[/i], Claude Delannoy, Editions Eyrolles, 2011[br/]",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Le contenu de l'API Java[br/]Construction et utilisation de paquetages[br/]Traitement d'exceptions[br/]Flux, fichiers texte, fichiers binaires[br/]Processus et synchronisation[br/]Construction d'une interface utilisateur graphique[br/]Composants graphiques de base[br/]Gestion des événements d'interface[br/]Structures de données génériques: collections, ensembles, listes, maps clef-valeur, arbres,  tables de hachage, itérateurs[br/]Quelques modèles de conception [i](design patterns)[/i][br/]",
+      "Forme du contrôle":"Test intermédiaire 50%, test final 50%",
+      "Préparation pour":"Projet de technologie de l'information",
+      "Objectifs d'apprentissage":"Approfondir les connaissances théoriques et pratiques en programmation orientée objets Java. [br/]Connaître les paquetages centraux de l'API Java et leurs classes principales[br/]Connaître les structures de données les plus importantes et leur mise en ½uvre.[br/]Se familiariser avec les modèles de conception [i](design patterns)[/i] et examiner les plus communs.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie et pratique de la programmation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-136589-6&amp;con_lng=FRE\" target=\"blank\">Absolute Java / Walter Savitch ; contrib.: Kenrick Mock</a>\". Année:2010. ISBN:978-0-13-136589-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-212-12866-6&amp;con_lng=FRE\" target=\"blank\">Programmer en Java / Claude Delannoy</a>\". Année:2011. ISBN:978-2-212-12866-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840813814&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","463"],
+    "title":"Recycling of materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840813814&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105657",
+      "name":"Leterrier Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To familiarize the student with different technologies, and economic and environmental problems of recycling of materials and the disposal of waste in relation with sustainable development.[br/]",
+      "Content":"[li]\tWaste and possibilities for recuperation[br/][li]\tPrinciples of recycling[br/][li]\tRecycling of metals[br/][li]\tRecycling of building materials[br/][li]\tRecycling of polymers and composites[br/][li]\tIncineration and energy recovery[br/][li]\tToxic wastes[br/][li]\tRecycling of paper and glass[br/][li]\tNew products out of waste[br/][li]\tLife Cycle Assessment of recycling[br/]",
+      "Type of teaching":"Seminars and discussions, visits of companies and recycling sites",
+      "Form of examination":"The examination is in the form of a group project, which is evaluated with[br/]a \"1 slide\" oral presentation in the class and a written report. The final[br/]grade is the average of the following 5 grades :[br/]1. Quality of the report (English only; spelling, quality of the figures)[br/]2. Bibliography (relevance of the information; all sources MUST be cited!)[br/]3. Case study (data quality and novelty)[br/]4. Synthesis and conclusions of the project[br/]5. Quality of the 1-slide presentation (clarity, content and timing)[br/][br/]",
+      "Note":"LINK TO THE FOLLOWING COURSES : Life cycle engineering of polymers"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Recycling of materials",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105657",
+      "name":"Leterrier Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"LIAISON AVEC D'AUTRES COURS: Cycle de vie des polymères",
+      "Bibliographie et matériel":"lecture notes polycopies and articles",
+      "Forme d'enseignement":"Séminaires et discussions, visites d'entreprises et sites de recyclage ",
+      "Contenu":"[li]\tDéchets et possibilités de récupération[br/][li]\tPrincipes des processus de recyclage[br/][li]\tRecyclage des métaux[br/][li]\tRecyclage des matériaux de construction[br/][li]\tRecyclage des plastiques et composites[br/][li]\tIncinération et revalorisation énergétique[br/][li]\tDéchets toxiques[br/][li]\tRecyclage du papier et du verre[br/][li]\tNouveaux produits à partir de déchets[br/][li]\tÉcobilan du recyclage[br/]",
+      "Forme du contrôle":"L'examen est sous la forme d'un projet par équipe, évalué avec une[br/]présentation orale '1 slide' devant la classe et un rapport écrit. La[br/]note finale est la moyenne des 5 notes suivantes :[br/]1. Qualité du rapport (anglais seulement ; orthographe, qualité des[br/]figures, etc)[br/]2. Bibliographie (pertinence des informations ; toutes les sources[br/]DOIVENT être citées !)[br/]3. Etude de cas (qualité des données, originalité)[br/]4. Synthèse et conclusions du projet[br/]5. Qualité de la présentation orale (clarté, contenu et ponctualité)",
+      "Objectifs d'apprentissage":"Connaître les processus de recyclage des matériaux et les principes de gestion des déchets, ainsi que leurs aspects techniques, économiques et environnementaux, en relation avec le développement durable."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Recycling of materials",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

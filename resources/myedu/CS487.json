@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771173&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","487"],
+    "title":"Industrial automation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771173&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lamspeople.epfl.ch/kirrmann/","http://lamspeople.epfl.ch/kirrmann/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/228536",
+      "name":"Pignolet Yvonne-Anne"
+    },{
+      "url":"http://people.epfl.ch/228535",
+      "name":"Tournier Jean-Charles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Individual assignment 25% and final oral exam 75%",
+      "Bibliography and material":"Nussbaumer, Informatique Industrielle (EPFL)[br/]Olsson, Gustav & Rosen, Christian - industrial automation,Dept. of Industrial Electrical Engineering and Automation, Lund University, Lund, Sweden.",
+      "Prerequisite for":"Work in companies",
+      "Content":"1. Processes and plants, control system architecture[br/]2. Instrumentation, Programmable Logic Controllers and embedded computers[br/]3. Industrial communication networks, field busses[br/]4. Field device access protocols and application program interfaces[br/]5. Human interface and supervision[br/]6. Manufacturing Execution Systems (optional*)[br/]7. Plant configuration and commissioning (optional*)[br/]8. Real-time response and performance analysis[br/]9. Dependability[br/]9.1 Reliability, Availability, Safety[br/]9.2 Evaluation of dependability[br/]9.3 Safe and Reliable communication[br/]9.4 Fault-tolerant computers[br/]9.5 Software reliability[br/]9.6 Safety evaluation[br/]In addition, a workshop giving hands-on experience and a factory visit are included.[br/][i](*) If time permits this part will be covered.[br/]",
+      "Type of teaching":"Oral, exercises, practical work",
+      "Learning outcomes":"This course is intended for computer science, mechanical, electronical or communication engineers.Industrial Automation considers the control, command and communication in real-time systems : factories, energy production and distribution, vehicles and other embedded systems. [br/]Industrial Automation encompasses the whole chain from sensors, motors, controllers, communication networks, operator visualization, archiving and up to manufacturing execution systems and enterprise resource management.[br/]It includes fault-tolerance against hardware and software faults and the evaluation methods.[br/]This application-oriented course does not require previous knowledge in control theory. It complements communication systems courses with a focus on industrial application.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Industrial automation",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-100-9&amp;con_lng=ENG\" target=\"blank\">Informatique industrielle. T.1: Représentation et traitement de l????????information / Henri Nussbaumer</a>\". Year:1986. ISBN:2-88074-100-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-101-7&amp;con_lng=ENG\" target=\"blank\">Informatique industrielle. T.2: Introduction à l'informatique du temps réel / Henri Nussbaumer</a>\". Year:1994. ISBN:2-88074-101-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-119-6&amp;con_lng=ENG\" target=\"blank\">Informatique industrielle. T.3: Automates programmables, commande et réglage, capteurs / Henri Nussbaumer</a>\". Year:1987. ISBN:2-88074-119-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-120-4&amp;con_lng=ENG\" target=\"blank\">Informatique industrielle. T.4: Commande numérique, téléinformatique, sécurité, sûreté, fiabilité / Henri Nussbaumer</a>\". Year:1987. ISBN:2-88074-120-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lamspeople.epfl.ch/kirrmann/","http://lamspeople.epfl.ch/kirrmann/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/228536",
+      "name":"Pignolet Yvonne-Anne"
+    },{
+      "url":"http://people.epfl.ch/228535",
+      "name":"Tournier Jean-Charles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Réseaux de communication",
+      "Bibliographie et matériel":"Nussbaumer, Informatique Industrielle (EPFL)[br/]Olsson, Gustav & Rosen, Christian - industrial automation,Dept. of Industrial Electrical Engineering and Automation, Lund University, Lund, Sweden.[br/]",
+      "Forme d'enseignement":"Orale, exercices, travaux pratiques",
+      "Contenu":"1. Processus et usines, architecture de contrôle-commande[br/]2. Instrumentation, Automates programmables et calculateurs embarqués[br/]3. Réseaux industriels, bus de terrain[br/]4. Protocoles d'accès aux dispositifs de terrain et interfaces programmes applicatifs[br/]5. Interface Homme-machine et supervisation[br/]6. Gestion de production (optionnel*)[br/]7. Configuration et mise en service (optionnel*)[br/]8. Temps réel et évaluation des performances[br/]9. Sûreté de fonctionnement[br/]9.1 Fiabilité, disponibilité, sécurité[br/]9.2 Méthodes de calcul[br/]9.3 Communication sûre et disponible[br/]9.4 Calculateurs tolérants aux fautes[br/]9.5 Fiabilité du logiciel[br/]9.6 Evaluation de la sécurité[br/]Le cours comporte un laboratoire sur des systèmes réels et une visite d'usine.[br/][i](*)Partie du cours optionnelle suivant l'avancement global des autres parties.[/i][br/]",
+      "Forme du contrôle":"Contrôle continu 25% et examen final oral 75%",
+      "Préparation pour":"Travail en entreprises",
+      "Objectifs d'apprentissage":"Ce cours s'adresse aux ingénieurs informaticiens, mécaniciens, électroniciens ou de communication.L'Automation Industrielle concerne le contrôle, la commande et la communication en systèmes temps-réel : usines, centrales et réseaux électriques, véhicules et autres systèmes embarqués. [br/]Elle englobe toute la chaîne depuis les capteurs de mesure et moteurs, en passant par les automates de protection et de contrôle, les réseaux de communication, la visualisation, l'archivage jusqu'à la gestion de production et des ressources de l'entreprise. [br/]Elle inclus la tolérance aux fautes matérielles et logicielles ainsi que les méthodes d'évaluation.[br/]Ce cours pratique n'exige pas comme préalable la théorie du contrôle automatique. Il complémente les cours de téléinformatique avec l'accent sur l'usage industriel. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Industrial automation",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-100-9&amp;con_lng=FRE\" target=\"blank\">Informatique industrielle. T.1: Représentation et traitement de l????????information / Henri Nussbaumer</a>\". Année:1986. ISBN:2-88074-100-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-101-7&amp;con_lng=FRE\" target=\"blank\">Informatique industrielle. T.2: Introduction à l'informatique du temps réel / Henri Nussbaumer</a>\". Année:1994. ISBN:2-88074-101-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-119-6&amp;con_lng=FRE\" target=\"blank\">Informatique industrielle. T.3: Automates programmables, commande et réglage, capteurs / Henri Nussbaumer</a>\". Année:1987. ISBN:2-88074-119-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-120-4&amp;con_lng=FRE\" target=\"blank\">Informatique industrielle. T.4: Commande numérique, téléinformatique, sécurité, sûreté, fiabilité / Henri Nussbaumer</a>\". Année:1987. ISBN:2-88074-120-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

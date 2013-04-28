@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597643611&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","629"],
+    "title":"Research methods II: Surveys and Psychometrics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597643611&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162370",
+      "name":"Tucci Christopher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This seminar is oriented to developing research skills in and around organizations with an emphasis on survey methods and survey dat aanalysis.  We will focus on levels of analysis and research design up and to the organization.  We will develop understanding of research design, reliability and validity, measurement, multi-trait-multi-method-matrices, and multi-level analysis.",
+      "Content":"The Process of Organizational Research; Theory Building; Measurement and Scale Design; Ex-perimental Design; Reliability and Validity Testing; Confirmatory Factor Analysis, Causality, and SEM in Organizational Research; Archival Measures in Organizational Research; Learning about research databases for research purposes; Reporting Research and Getting Published; Moderation and Moderated Mediation, Regression Interaction, Graphing Regression Assumptions; Multilevel Modeling in Organizational Research",
+      "Required prior knowledge":"Passed the course \"Engaged Scholarship\" or equivalent course on research methods, philosophy of science, and research desogn"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Research methods II: Surveys and Psychometrics",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162370",
+      "name":"Tucci Christopher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Research methods in organizations",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

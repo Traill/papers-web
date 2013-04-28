@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241565237&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","702"],
+    "title":"Co-design of Systems-on-Chip on Reconfigurable Hardware",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241565237&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Learning co-design methodologies of Multi-Processor System-on-Chip (MPSoCs) platforms based on current FPGA technology.[br/]Efficient synthesis and interconnection of custom hardware/software components of MPSoCs on FPGAs.[br/]Real-time interaction between FPGAs and attached workstations for advanced signal co-processing and prototyping of MPSoCs.[br/]Simulation and validation techniques of MPSoCs on FPGAs.[br/]",
+      "Content":"[li] Module 1: General Overview about SoC: MPSoC, homogeneous vs. heterogeneous. Current co-design frameworks of SoC for FPGAs and examples of actual SoC platforms.[br/][li] Module 2: Design of complete MPSoCs: Synthesizable processors, types of integrated memo-ries. Utilization of compiler/assembler for co-design and basic I/O.[br/][li] Module 3: Connection of custom VHDL blocks and Intellectural Property (IP) blocks in SoCs: Integration of own VHDL modules and IP blocks, connectivity of the blocks to on-chip buses and accessing the modules using C code in included processing cores.[br/][li] Module 4: Multi-programming: Integration of multiple processing cores in a single FPGA to create an MPSoC platform and how to program it.[br/][li] Module 5: Interconnection: Definition of SoC interconnects for FPGA-based implementations through hierarchies of buses and packet-based interconnects or Network-on-Chip (NoC).[br/][li] Module 6: Interaction with a personal computer (PC): Advanced communication buses be-tween FPGA-PC in real time (PCI, plug&play, etc.) and device controllers in Windows/Linux.[br/][br/]",
+      "Keywords":"Multi-Processor System-on-Chip (MPSoC); Co-design methodologies; Field-Programmable Gate Array (FPGA), Hardware description languages; Intellectual Property (IP) blocks ",
+      "Note":"Due to the practical nature of the course, it is compulsory the completion of the entire set of lab exercises in group and its exposition to the instructors (30%). Also, it is compulsory the development of an MPSoC project in group and its public exposition to the instructors (70%).",
+      "Required prior knowledge":"\"Hardware Systems Modeling I\"; \"Logic Systems\"; Also, while not compulsory, it would be recommended to have followed: \"Microelectronics for systems on chips\""
+    },
+    "practical":{
+      "total_hours":42
+    },
+    "language":"English",
+    "title":"Co-design of Systems-on-Chip on Reconfigurable Hardware",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Due to the practical nature of the course, it is compulsory the completion of the entire set of lab exercises in group and its exposition to the instructors (30%). Also, it is compulsory the development of an MPSoC project in group and its public exposition to the instructors (70%).",
+      "Contenu":"[li] Module 1: General Overview about SoC: MPSoC, homogeneous vs. heterogeneous. Current co-design frameworks of SoC for FPGAs and examples of actual SoC platforms.[br/][li] Module 2: Design of complete MPSoCs: Synthesizable processors, types of integrated memo-ries. Utilization of compiler/assembler for co-design and basic I/O.[br/][li] Module 3: Connection of custom VHDL blocks and Intellectural Property (IP) blocks in SoCs: Integration of own VHDL modules and IP blocks, connectivity of the blocks to on-chip buses and accessing the modules using C code in included processing cores.[br/][li] Module 4: Multi-programming: Integration of multiple processing cores in a single FPGA to create an MPSoC platform and how to program it.[br/][li] Module 5: Interconnection: Definition of SoC interconnects for FPGA-based implementations through hierarchies of buses and packet-based interconnects or Network-on-Chip (NoC).[br/][li] Module 6: Interaction with a personal computer (PC): Advanced communication buses be-tween FPGA-PC in real time (PCI, plug&play, etc.) and device controllers in Windows/Linux.[br/][br/]",
+      "Mots clés":"Multi-Processor System-on-Chip (MPSoC); Co-design methodologies; Field-Programmable Gate Array (FPGA), Hardware description languages; Intellectual Property (IP) blocks ",
+      "Prérequis":"\"Hardware Systems Modeling I\"; \"Logic Systems\"; Also, while not compulsory, it would be recommended to have followed: \"Microelectronics for systems on chips\"",
+      "Objectifs d'apprentissage":"Learning co-design methodologies of Multi-Processor System-on-Chip (MPSoCs) platforms based on current FPGA technology.[br/]Efficient synthesis and interconnection of custom hardware/software components of MPSoCs on FPGAs.[br/]Real-time interaction between FPGAs and attached workstations for advanced signal co-processing and prototyping of MPSoCs.[br/]Simulation and validation techniques of MPSoCs on FPGAs.[br/]"
+    },
+    "practical":{
+      "total_hours":42
+    },
+    "language":"English",
+    "title":"Co-design of Systems-on-Chip on Reconfigurable Hardware",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

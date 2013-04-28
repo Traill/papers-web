@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239755822&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","639"],
+    "title":"Practical - McKinney Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239755822&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://mckinney-lab.epfl.ch/","http://mckinney-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178252",
+      "name":"Dhar Neeraj"
+    },{
+      "url":"http://people.epfl.ch/177246",
+      "name":"McKinney John"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Microbial growth and division[br/](1) The participating students will receive didactic training in the fundamentals of bacterial molecular cell biology.[br/](2) The participating students will receive practicum training in bacterial microfluidic culture, time-lapse fluorescence microscopy, and microscopic image analysis.[br/][br/]",
+      "Content":"(1) Didactic training. The course will begin with an overview lecture covering the fundamentals of bacterial cell growth, division, and gene expression. The lecture will emphasize deterministic and stochastic sources of cell-to-cell phenotypic variation. Fundamentals of microfluidics and low-Reynolds fluid dynamics will also be discussed.[br/](2) Practicum training. The participating students will acquire hands-on experience in culturing bacteria in microfluidics devices and recording the time evolution of individual cell behavior using automated time-lapse fluorescence microscopy. Data analysis will include microscopic image segmentation and quantification of multiple cell parameters, including cell growth rate, interdivision time, size at division, size at birth, and gene expression. This study plan will expose the participating students to the concept that cells with identical genotypes growing in identical environments can nonetheless display dramatic cell-to-cell phenotypic variation.[br/]",
+      "Keywords":"Bacteria, cell growth, cell division, gene expression, phenotypic variation, microfluidics, time-lapse, fluorescence microscopy[br/]",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the McKinney laboratory cannot take this course. Access is limited to 4 students.[br/]",
+      "Required prior knowledge":"Basic biology. Microbiology helpful but not essential. Assigned review articles.[br/]"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - McKinney Lab",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://mckinney-lab.epfl.ch/","http://mckinney-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178252",
+      "name":"Dhar Neeraj"
+    },{
+      "url":"http://people.epfl.ch/177246",
+      "name":"McKinney John"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course is open to all first-year EPFL doctoral students. Priority will be given to students enrolled in the EDMS graduate program. Doctoral students from the McKinney laboratory are not eligible to take this course. Access is limited to four students.[br/]",
+      "Contenu":"(1) Didactic training. The course will begin with an overview lecture covering the fundamentals of bacterial cell growth, division, and gene expression. The lecture will emphasize deterministic and stochastic sources of cell-to-cell phenotypic variation. Fundamentals of microfluidics and low-Reynolds fluid dynamics will also be discussed.[br/](2) Practicum training. The participating students will acquire hands-on experience in culturing bacteria in microfluidics devices and recording the time evolution of individual cell behavior using automated time-lapse fluorescence microscopy. Data analysis will include microscopic image segmentation and quantification of multiple cell parameters, including cell growth rate, interdivision time, size at division, size at birth, and gene expression. This study plan will expose the participating students to the concept that cells with identical genotypes growing in identical environments can nonetheless display dramatic cell-to-cell phenotypic variation.[br/]",
+      "Mots clés":"Bacteria, cell growth, cell division, gene expression, phenotypic variation, microfluidics, time-lapse, fluorescence microscopy[br/]",
+      "Prérequis":"Basic biology. Microbiology helpful but not essential. Assigned review articles.[br/]",
+      "Objectifs d'apprentissage":"Microbial growth and division[br/](1) The participating students will receive didactic training in the fundamentals of bacterial molecular cell biology.[br/](2) The participating students will receive practicum training in bacterial microfluidic culture, time-lapse fluorescence microscopy, and microscopic image analysis.[br/][br/]"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - McKinney Lab",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499340075&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","371"],
+    "title":"Power distribution networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499340075&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course aims at providing the elements related to the design and operation of distribution electrical systems (medium and low voltage) taking also into account the presence of embedded power generation. In particular, the course is intended to the deal with the following topics: structure and components of distribution electrical systems, design procedures, elements related to the integration of embedded generation.",
+      "Content":"The course is divided in five parts as described below.[br/]1.\tPart I: Components: recall on transmission line theory, parameters and equivalent circuits, thermal effects related to the current flow and Joule integral, cable and lines ampacity, short-circuit and overload behaviors, specific characteristics of medium and low voltage lines. Breakers and other medium and low voltage maneuver apparatuses, electromagnetic transients associated to the inception and interruption of the currents, characteristics and sizing. Protection relays types and operation principles, relay coordination.[br/]2.\tPart II: Short circuit current calculation for components design: recall on symmetrical components and short circuit current calculation, application to distribution networks, asynchronous machines contribution. [br/]3.\tPart III: Distribution networks: typical schemes of medium and low voltage networks, stations configurations, status of the neutral connection. Protection schemes and relays adopted in medium voltage networks.[br/]4.\tPart IV: Design principles of distribution networks: design layout, sizing criteria of medium/low voltage lines and relays coordination with reference to the short circuit currents. [br/]5.\tPart V: Integration of embedded generation: impact on distribution networks in terms of sizing, operation and protection.[br/]",
+      "Type of teaching":"Ex cathedra and integrated exercises.",
+      "Form of examination":"Written",
+      "Required prior knowledge":"Electromagnetics I and II, Circuits and systems I and II."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Power distribution networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra. Exercices sur papier et sur ordinateur. ",
+      "Contenu":"Le cours est organisé en 5 partie:[br/]1.\tPart I: Composants: rappel sur la théorie des lignes de transmission, paramètres et circuits équivalents, effets thermiques (circulation du courant et effet Joule), capacité des lignes et des câbles, comportement en surcharge et en court-circuit, caractéristiques spécifiques des liaisons en moyenne et basse tension. Disjoncteurs et autres appareillages de coupure en moyenne et basse tension, transitoires électromagnétiques associés à la coupure du courant. Relais de protection: type, principe de fonctionnement, coordination.[br/]2.\tPart II: Calcul des courants de court-circuit pour la conception des composants: Rappel sur les composantes symétriques et le calcul des courants de court-circuit, application au cas des réseaux électriques de distribution, contribution des machines asynchrones.[br/]3.\tPart III: Réseaux de distribution: schémas types de réseaux en moyenne et basse tension, topologie des sous-stations, régime du point neutre. Dispositifs de protection pour les réseaux de distribution.[br/]4.\tPart IV: Conception des réseaux de distribution: critère de dimensionnement des liaisons en moyenne et basse tension, vérification de la coordination des relais sur la base des courants de court-circuit.[br/]5.\tPart V: Intégration de de la production et du stockage décentralisés: impact sur le dimensionnement, l'exploitation et la protection des réseaux de distribution.[br/]",
+      "Forme du contrôle":"Ecrit",
+      "Prérequis":"Electromagnétisme I et II, Circuits et Systèmes I et II",
+      "Objectifs d'apprentissage":"Le cours a pour objectif de présenter les éléments principaux relatifs à la conception et l'exploitation des réseaux électriques de distribution (moyenne et basse tension) tout en tenant compte de la présence de sources décentralisées de production et de stockage d'énergie. En particulier, le cours insistera sur les points suivants: structure et composants des réseaux électriques de distribution, méthodes de conception et éléments relatif à l'intégration de la production et du stockage d'énergie décentralisés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Distribution de l'énergie électrique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

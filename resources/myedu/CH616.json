@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=199403971&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","616"],
+    "title":"Strategy for the assignment of 2D NMR spectra of complex organic molecules",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=199403971&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Be able to assign 2D NMR spetra of complex organic molecules.",
+      "Content":"Information that can be extracted from COSY, TOCSY, ROESY, HSQC, HMBC.[br/]Strategy of assignment of complex organic molecules, superimposition of spectra.[br/]Practical exercices (done independently by each attendee): full spectra assignment of chloropromazine, indometacin, budesonide, cocaine, loperamide, cyclosporin.[br/]",
+      "Keywords":"2D NMR assignment, COSY, TOCSY, ROESY, HSQC, HMBC, organic molecule, natural compounds [br/]",
+      "Required prior knowledge":"1D NMR spectra assignment[br/]"
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Strategy for the assignment of 2D NMR spectra of complex organic molecules",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Information that can be extracted from COSY, TOCSY, ROESY, HSQC, HMBC.[br/]Strategy of assignment of complex organic molecules, superimposition of spectra.[br/]Practical exercices (done independently by each attendee): full spectra assignment of chloropromazine, indometacin, budesonide, cocaine, loperamide, cyclosporin.[br/]",
+      "Mots clés":"2D NMR assignment, COSY, TOCSY, ROESY, HSQC, HMBC, organic molecule, natural compounds [br/]",
+      "Prérequis":"1D NMR spectra assignment[br/]",
+      "Objectifs d'apprentissage":"Be able to assign 2D NMR spetra of complex organic molecules."
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Strategy for the assignment of 2D NMR spectra of complex organic molecules",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

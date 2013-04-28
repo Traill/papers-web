@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784635267&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","101"],
+    "title":"Introduction to mechanical design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784635267&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100304",
+      "name":"Benoit Mathieu"
+    },{
+      "url":"http://people.epfl.ch/132574",
+      "name":"Kremer Daniel"
+    },{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control",
+      "Bibliography and material":"- Extracts of references fits : SN, EN, ISO.[br/]- Book : « J.L. FANCHON : « Guide des sciences et technologies industrielles », AFNOR-NATHAN »[br/]- Polycopy :« Introduction à la Conception assistée par ordinateur CAO »",
+      "Required prior knowledge":"[li]Plane and spatial geometry[br/][li]Basic spatial representation, perspectiv, etc.[br/][li]Basic vector analysis",
+      "Content":"Technology : functional basic knowledge, assembly elements and elementary fixings, 3D modeling of parts and mechanical assemblies, transfer of the 3D model to 2D representation and vice-versa, dimensioning - tolerances - surface finishing and roughness, introduction to functional quotation. Dimensioning: first approach. Introduction to processes and methods of basic manufacturing: knowledge of setting for manufacturing, quotations and ranges manufacturing. Materials use for mechanics conception. During the course students will use skills acquired in Geometry, Physics and Materials courses.",
+      "Keywords":"CAD - Representation, Quotation - Tolerences - Fittings, Manufacturing process",
+      "Type of teaching":"Ex-cathedra courses and guided exercises. Supervision performed by tutors and assinsting students.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Realize, analyse and discuss a model: 3D complex geometries and assemblies, static, kinematic, dynamic, thermal and ultimate behaviour, life-cycle and costs of a system (product, manufacturing process or production system), CP8[br/][br/][li]Illustrate the physics principles of production processes, CP16[br/][li]Illustrate the features and limits of production processes, CP17"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to mechanical design",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-12-494172-8&amp;con_lng=ENG\" target=\"blank\">Guide des sciences et technologies industrielles</a>\". Year:2009. ISBN:978-2-12-494172-8</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100304",
+      "name":"Benoit Mathieu"
+    },{
+      "url":"http://people.epfl.ch/132574",
+      "name":"Kremer Daniel"
+    },{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Géométrie plane et spatiale[br/][li]Notions de représentation spatiale, perspective etc..[br/][li]Notions vectorielles de base",
+      "Bibliographie et matériel":"- Extraits de normes de références SN, EN, ISO, [br/]- Livre «  Guide des sciences et technologies industrielles » de J.-L. Fanchon »[br/]- Polycopié « Introduction à la Conception assistée par ordinateur CAO ».",
+      "Mots clés":"CAO - Représentation, Cotation - Tolérances - Ajustements, Procédés de fabrication",
+      "Forme d'enseignement":"Cours ex-cathedra et exercices dirigés. L'encadrement est assuré par les chargés de cours, appuyés par des assistants étudiants.",
+      "Contenu":"Bases technologiques: connaissances fonctionnelles de base, éléments d'assemblage et de fixations simples, représentation 3D d'objets et systèmes mécaniques sur logiciel professionnel, passage du modèle 3D à la représentation 2D et inversement, cotation - tolérancement - états de surface, introduction à la cotation fonctionnelle. Dimensionnement : première approche. Introduction aux Procédés et méthodes de fabrication de base : connaissance des posages, cotations de fabrication et gammes de fabrication. Matériaux à l'usage de la conception mécanique. Pendent le cours les étudiants utiliseront des compétences acquises pendent les cours de Géométrie, de Physique et de Matériaux. ",
+      "Forme du contrôle":"Contrôle continu ",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Réaliser, analyser et critiquer un modèle: forme géométrique 3D complexe et assemblages, comportement statique, cinématique, dynamique, thermique et de résistance d'un système, cycles de vie et les coûts associés d'un système (produit, processus de fabrication ou système de production), CP8[br/][li]Enoncer les principes physiques des procédés de fabrication, CP16[br/][li]Enoncer les caractéristiques et les limites des procédés de fabrication, CP17[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à la conception mécanique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-12-494172-8&amp;con_lng=FRE\" target=\"blank\">Guide des sciences et technologies industrielles</a>\". Année:2009. ISBN:978-2-12-494172-8</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770893&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","441"],
+    "title":"Color reproduction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770893&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lsp.epfl.ch/page-16625-en.html","http://lsp.epfl.ch/page-16625-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105390",
+      "name":"Hersch Roger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"With continuous control : Laboratories, mini-project and oral final exam",
+      "Bibliography and material":"Course & laboratory notes, [br/]Digital Color Imaging Handbook (ed. G. Sharma), CRC Press, 2003[br/]",
+      "Prerequisite for":"Master project in the field (possibly in industry)",
+      "Content":"[i]Color theory:[/i][br/]Illuminants, spectral sensibility of the eye, colorimetric[br/]equalization, the CIE-XYZ, xyY, CIELAB, RGB, YIQ, CMYK[br/]color systems.[br/][br/][i]Interaction between light and printed paper[/i][br/]Elements of radiometry, Beer's law, the Saunderson correction[br/](multiple reflections) and the Clapper-Yule spectral reflection[br/]prediction model.[br/][br/][i]Color devices:[/i] [br/]Modellization of scanners (+ cameras), cameras, displays and printers, black-white and color printing, density[br/]measurements, color separation, device characterization[br/](scanner, display, printer), gamut mapping, color prediction[br/]models (Neugebauer, Yule-Nielson), dot gain models, fitting of[br/]unknown parameters by optimization techniques.[br/][br/][i]Halftoning algorithms[/i][br/]Clustered-dot dithering, dispersed-dot dithering, super-cells,[br/]error diffusion, moiré phenomena between color layers, color[br/]halftoning.[br/][br/]The course is coupled with laboratories in [i]MatLab[/i] which[br/]enable exercising the concepts presented during the lectures.[br/]A small R&D project enables every student to gain concrete[br/]experience with some of the course's topics.",
+      "Type of teaching":"Lecture, laboratories and small R&D project",
+      "Learning outcomes":"The course introduces the fundaments of colorimetry, as well[br/]as models for displays, scanners, digital cameras and printers.[br/]The main focus is on halftoning and color reproduction (color[br/]separation, interaction between light and prints, gamut[br/]mapping, color prediction). The reviewed concepts are useful[br/]for the understanding of anti-counterfeiting methods[br/](protective features for banknotes, checks, etc).[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Color reproduction",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-4148-4&amp;con_lng=ENG\" target=\"blank\">Digital color imaging handbook / ed. by Gaurav Sharma</a>\". Year:2003. ISBN:978-1-4200-4148-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lsp.epfl.ch/page-16625-en.html","http://lsp.epfl.ch/page-16625-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105390",
+      "name":"Hersch Roger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Course & laboratory notes, [br/]Digital Color Imaging Handbook (ed. G. Sharma), CRC Press, 2003[br/]",
+      "Forme d'enseignement":"Ex-cathedra, labo sur ordinateur et mini-projet ",
+      "Contenu":"[i]Fondements de la colorimétrie[/i][br/]Sources de lumière, sensibilité spectrale des récepteurs[br/]rétinaux, égalisation colorimétrique, les systèmes CIE-XYZ,[br/]xyY, CIELAB, RGB, YIQ, CMYK.[br/][br/][i]Interaction entre lumière et papier imprimé[/i][br/]Eléments de radiométrie, loi de Beer, correction de[br/]Saunderson (réflexions multiples) et modèle prédictif de[br/]Clapper-Yule.[br/][br/][i]Périphériques couleur[/i][br/]Modélisation des numériseurs, caméras, écrans, et[br/]imprimantes, impression noir/blanc et couleur, séparation[br/]couleur, calibration d'une chaîne de reproduction couleur,[br/]mise en correspondance de volumes couleur, modèles[br/]prédictifs de Neugebauer, Yule-Nielson, engraissement du[br/]point imprimé, déduction de paramètres inconnus[br/](optimisation).[br/][br/][i]Génération d'images en demi-tons (halftoning)[/i][br/]Procédés de génération d'images tramées: points groupés,[br/]super-trames, points dispersés, diffusion d'erreurs,[br/]phénomènes de moirés, trames couleur.[br/][br/]Les laboratoires s'effectueront en [i]MatLab[/i] et permettront[br/]d'exercer les notions présentées au cours. Un mini-projet de[br/]R&D permettra d'approfondir certaines notions.",
+      "Forme du contrôle":"Avec contrôle continu : Laboratoires, Mini-projet & examen oral",
+      "Préparation pour":"Projets de master dans le domaine (ev. chez industriel)",
+      "Objectifs d'apprentissage":"Ce cours donne une introduction à la colorimétrie et[br/]présente les éléments de base permettant de modéliser les[br/]dispositifs d'affichage, les scanners et les imprimantes[br/]couleur. La reproduction d'images couleur en demi-tons,[br/]l'interaction de la lumière avec les imprimés ainsi que la[br/]modélisation et la calibration d'imprimantes sont traités de[br/]manière approfondie. Les notions acquises sont utiles pour[br/]comprendre certaines techniques de protection contre la contrefaçon."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Color reproduction",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-4148-4&amp;con_lng=FRE\" target=\"blank\">Digital color imaging handbook / ed. by Gaurav Sharma</a>\". Année:2003. ISBN:978-1-4200-4148-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

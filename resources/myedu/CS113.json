@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775702&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","113"],
+    "title":"Programming II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775702&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=&ww_c_langue=en",
+    "section":"MX",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://lsmx.epfl.ch/page59498.html","http://lsmx.epfl.ch/page59498.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104937",
+      "name":"Desbiolles Jean-Luc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous assessment, 2 tests per semester[br/]Each control counts for 25% of the final grading",
+      "Bibliography and material":"Polycopié[br/]C. Delannoy, Programmer en Langage C, Eyrolles",
+      "Required prior knowledge":"Programming I",
+      "Content":"[br/][li]\tCharacter strings[br/][li]\tText files[br/][li]\tBinary files[br/][li]\tDynamic memory allocation[br/][li]\tStructures[br/][li]\tPreprocessor[br/][li]\tRecursion[br/][li]\tLinked lists[br/][br/]Training by means of the programming of simple algorithms in the frame of exercices on computer",
+      "Type of teaching":"Ex cathedra, practical work on computer",
+      "Learning outcomes":"To carry on with the acquisition of the basic concepts of programming.[br/]To go deeper into the knowledge of the C programming language.[br/]To use this knowledge to solve simple numerical problems (interpolation, integration, root finding, minimum finding,...)."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Programming II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11072-3&amp;con_lng=ENG\" target=\"blank\">Programmer en langage C : cours et exercices corrigés / Claude Delannoy</a>\". Year:2004. ISBN:2-212-11072-3</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://lsmx.epfl.ch/page59498.html","http://lsmx.epfl.ch/page59498.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104937",
+      "name":"Desbiolles Jean-Luc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Programmation I",
+      "Bibliographie et matériel":"Polycopié[br/]C. Delannoy, Programmer en Langage C, Eyrolles",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"[br/][li]\tChaînes de caractères[br/][li]\tFichiers texte[br/][li]\tFichiers binaires[br/][li]\tGestion dynamique de la mémoire[br/][li]\tStructures[br/][li]\tPréprocesseur[br/][li]\tRécursivité[br/][li]\tListes chaînées[br/][br/]Mise en pratique à travers la programmation d'algorithmes simples dans le cadre d'exercices sur ordinateur.",
+      "Forme du contrôle":"Contrôle continu, 2 tests par semestre[br/]Chaque contrôle compte pour 25% de la note finale",
+      "Objectifs d'apprentissage":"Poursuivre l'acquisition des concepts de base de la programmation.[br/]Approfondir la connaissance du langage C.[br/]Utiliser les connaissances acquises pour résoudre des problèmes numériques simples (interpolation, intégration, recherche de zéro, recherche de minimum,...)."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Programmation II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11072-3&amp;con_lng=FRE\" target=\"blank\">Programmer en langage C : cours et exercices corrigés / Claude Delannoy</a>\". Année:2004. ISBN:2-212-11072-3</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

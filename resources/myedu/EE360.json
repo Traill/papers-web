@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499248312&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","360"],
+    "title":"Energy conversion",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499248312&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123862",
+      "name":"Barrade Philippe"
+    },{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course aims at providing the elements related to the energy conversion with particular reference to the electricity production by means of conventional and renewable energy sources. The course illustrates the fundamental notions for the modeling of energy conversion systems as well as the methodologies related to the conversion into electrical energy.",
+      "Content":"The course is divided in three parts covering the aspects related to energy conversion into electricity:[br/]1.\tpart I: elements of conversion systems.[br/]1.1.\tEnergy resources and energy needs.[br/]1.2.\tMain power conversion systems: gas turbines and combined-cycle units, governing systems of steam and gas turbines, hydraulic turbines and governing systems, dynamic behavior of hydroelectric power plants, wind turbines: elements of aerodynamic, characteristics and main controls, photovoltaic systems.[br/]1.3.\tStorage systems: characteristics and modeling approach of energy storage systems with particular reference to batteries, state-of-charge definition, charging-discharging cycles, charge and energy efficiencies, behavior in dynamic conditions, life cycles.[br/]2.\tpart II: electromechanical conversions[br/]2.1.\tIntroduction: Role of electrical energy, definition of an electromechanical system as well as different related forms of energy (electrical, mechanical, thermal, magnetic). Origin of an electromechanical force, energetic balance, efficiency.[br/]2.2.\tMain electromechanical transducers in power conversion systems (transformers, direct-current machines, induction machines, synchronous machines): morphology, modeling, principle of operation, characteristic equations, performances and main applications.[br/]3.\tpart III: Static conversion.[br/]3.1.\tIntroduction to power electronics: fundamental definitions, switching principle and efficiency, sources interconnection, systematic study methodology, switching cell, static characteristics, switching mechanisms, power semiconductors [br/]3.2.\tConversion DC/DC: definitions and classifications, from the one quadrant converters to the reversible converters, introduction to the switching-mode dc converter.[br/]3.3.\tInverters and rectifiers: definitions and classifications, current source converter: topology and inverter/rectifier behavior, voltage source inverter, rectangular and PWM modulations, main equations and inverter/rectifier behavior, introduction to the multilevel conversion.[br/]",
+      "Type of teaching":"Ex cathedra and integrated exercises.",
+      "Form of examination":"Written",
+      "Required prior knowledge":"General physics III and IV, Electronics I and II, Circuit and systems I and II."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Energy conversion",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123862",
+      "name":"Barrade Philippe"
+    },{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra. Exercices sur papier et à l'ordinateur.",
+      "Contenu":"Le cours est divisé en trois parties, qui couvrent les aspects liés à la conversion de l'énergie en électricité:[br/]1.\tPartie I: Considérations sur les systèmes de conversion[br/]1.1.\tRessources en énergie et besoins en énergie.[br/]1.2.\tSystèmes de conversion principaux: turbines à gaz et unités à cycles combinés, systèmes de gestion des turbines à gaz et à vapeur, turbines hydrauliques et leur contrôle, comportement dynamique des centrales de hydro-électriques, systèmes éoliens: éléments d'aérodynamique, caractéristiques principales et contrôle, systèmes photovoltaïques.[br/]1.3.\tSystèmes de stockage: caractéristiques et modélisation des systèmes de stockage se référant principalement aux batteries, définition de l'état de charge, cycles de charge/décharge, charge et rendement en énergie, comportement en régime dynamique, cycle de vie.[br/]2.\tPartie II: Conversion électromécanique[br/]2.1.\t Introduction: Rôle de l'énergie électrique, définition d'un système électromécanique ainsi que des différentes formes d'énergie (électrique, mécanique, thermique, magnétique). Origines d'une force électromécanique, bilan énergétique, rendement.[br/]2.2.\tPrincipaux transducteurs électromécaniques dans les systèmes de conversion  d'énergie (transformateurs, machines à courant continu, machines asynchrones, machines synchrones):  structure, modélisation, principe, équations caractéristiques, performances et principales applications.[br/]3.\tPartie III: Conversion statique.[br/]3.1.\tIntroduction à l'électronique de puissance: définitions fondamentales, notion de commutation et rendement, interconnexion de sources, méthodologie d'étude systématique:  cellule de commutation, caractéristique statique, mécanismes de commutation, semi-conducteurs de puissance:[br/]3.2.\tConversions DC/DC: définitions et classifications, des convertisseurs un quadrant aux convertisseurs reversibles, complément sur les alimentations à decoupage.[br/]3.3.\tOnduleurs et redresseurs: définitions et classifications, convertisseur de courant: structure et fonctionnement redresseur/onduleur, onduleurs de tension, modulations rectangulaires et PWM, relations fondamentales et fonctionnement redresseur/onduleur, compléments sur la conversion multiniveaux[br/]",
+      "Forme du contrôle":"Ecrit",
+      "Prérequis":"Physique général III et IV, Electronique I et II, Circuit et systèmes I et II.",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est d'introduire les systèmes et outils liés à la conversion d'énergie, en se référant au contexte particulier de la production d'énergie, qu'elle soit conventionnelle ou bien en lien avec les sources d'énergie renouvelable. Ce cours définit les notions fondamentales pour la compréhension et la modélisation des systèmes de conversion, tout en introduisant les méthodologies d'étude associées."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conversion d'énergie",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

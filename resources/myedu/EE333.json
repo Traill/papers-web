@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354352828&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","333"],
+    "title":"Micro and nanoelectronic devices",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354352828&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written",
+      "Prerequisite for":"Design of Analog Circuits I and II, Laboratory and projects",
+      "Required prior knowledge":"Electronics I and II",
+      "Content":"1. Introduction[br/]2. Fundamentals of semiconductor devices physics[br/]Electrons and Holes in Silicon: energy bands, n- and p-type silicon, carrier transport, p-n junction: built-in potential and applied potential, abrupt junction, equations: current-voltage, diffusion capacitance, MOS Capacitor: accumulation, depletion, inversion, charge distribution in silicon, capacitances in MOS structure, MOS under nonequilibrium, gated diode, high-field effects[br/]3. Diodes: p-n junction diode, p-i-n diode, Schottky barrier diode[br/]4. Negative resistance devices: N-shape: tunnel (Esaki) diode, resonant-tunneling diode, S-shape: Metal-Insulator-Semiconductor Switch, Amorphous Threshold Switch (Ovonic)[br/]5. Transistors: MOSFET: bulk versus emerging multi-gate transistors, CMOS performance factors and scaling rules, JFET, bipolar transistors, high voltage devices, Single-Electron Transistor, Carbon Nanotube Field Effect, ballistic transistors, tunnel FET, spin-valve transistor[br/]6. Non-volatile memory: Floating-gate transistor, Metal-Insulator-Oxide Transistor, NEMS memory/transistors",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"[li] Provide the student with a global view on semiconductor device principles, operation and architectures[br/][li] Understanding of fundamentals of carrier transport and energy bands in solid-state microelectronic device[br/][li] Provide the student with the basic ability to calculate orders of magnitude (models) and figures of merit of microelectronic devices[br/][li] Learn associated device architectures and main device technology[br/][li] Learn/understand main applications of the microelectronic devices"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Micro and nanoelectronic devices",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-20240-1&amp;con_lng=ENG\" target=\"blank\">Complete guide to semiconductor devices / Kwok K. Ng</a>\". Year:2002. ISBN:0-471-20240-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83294-6&amp;con_lng=ENG\" target=\"blank\">Fundamentals of modern VLSI devices / Yuan Taur, Tak H. Ning</a>\". Year:2009. ISBN:978-0-521-83294-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electronique I et II",
+      "Bibliographie et matériel":"Polycopié et références:[br/]1. Kwok K. Ng, Complete Guide to Semiconductor devices, IEEE Press, Wiley-Interscience, 2002 (in English).[br/]2. Y. Taur and T.H. Ning, Fundamentals of Modern VLSI Devices, Cambridge University Press, 1998 (in English)",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1. Introduction[br/]2. Physique de base des dispositifs à semiconducteurs[br/]Electrons et trous dans le silicium, bandes d'énergie, silicium de type n et p, jonction p-n, potentiel interne et externe, jonction abrupte, equations courant-tension, capacité de diffusion, capacité MOS : accumulation, dépletion, inversion, distribution des charges dans le silicium, capacités de la structure MOS, régime non-stationnaire, Diode avec grille, effets à haut champ électrique[br/]3. Diodes: jonction p-n, diode p-i-n diode, diode Schottky[br/]4. Dispositifs à résistance négative: Caractéristiques \"N\" : diode tunnel (Esaki), diode tunnel résonante, Caractéristiques \"S\" : Switch Métal - Isolant - Semiconducteur, switch amorphe à seuil (ovonique)[br/]5. Transistors: MOSFET: transistors sur silicium massif et architectures nano-CMOS nouvelles, figures de mérite et règles de réduction d'échelle du CMOS, JFET, transistors bipolaires, dispositifs haute-tension, transistor mono-électronique, transistor à effet de champ à nanotubes de carbone, transistor balistique, transistor à effet tunnel, transistor spin-valve[br/]6. Mémoire non-volatiles: transistor à grille flottante, transistor Métal-Insolant-Oxyde, transistors et mémoires NEMS",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Conception des Circuits analogiques I et II, Laboratoires et projets",
+      "Objectifs d'apprentissage":"[li] Offrir à l'étudiant une vision générale des dispositifs à semiconducteurs : principes, utilisations et architectures[br/][li] Comprendre les bases du transport des porteurs de charge et bandes d'énergie dans un dispositif microélectronique[br/][li] Transmettre à l'étudiant l'habilité de pouvoir calculer les ordres des grandeurs des caractéristiques électriques des dispositifs[br/][li] Apprendre les architectures des dispositifs et leur technologie[br/][li] Apprendre/comprendre les applications des dispositifs microélectroniques"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dispositifs micro- nanoélectroniques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-20240-1&amp;con_lng=FRE\" target=\"blank\">Complete guide to semiconductor devices / Kwok K. Ng</a>\". Année:2002. ISBN:0-471-20240-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83294-6&amp;con_lng=FRE\" target=\"blank\">Fundamentals of modern VLSI devices / Yuan Taur, Tak H. Ning</a>\". Année:2009. ISBN:978-0-521-83294-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

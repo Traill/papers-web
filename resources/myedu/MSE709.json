@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=476682878&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","709"],
+    "title":"Powder Characterisation and Dispersion",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=476682878&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.ccmx.ch/","http://www.ccmx.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"From nanometers to milimeters and from theory to practice[br/][br/]Introduction to some basic methods used for powder characterisation, particle size measurement and an introduction to powder milling, powder dispersion and suspension characterisation. Detailed discussion of the fundamental theory behind the methods and their limitations.Measurement of real samples and correct interpretation of the results collected.Examples of \"real\" powders in varied applications related to ceramics and materials science",
+      "Content":"[li]Particle size measurement[br/][li]Crystallite size - Xray diffraction[br/][li]Image analysis[br/][li]Surface area and poristy[br/][li]Particle dispersion and suspension characterisation[br/][li]Milling of powders[br/]",
+      "Keywords":"nanopowders, particle size, dispersion, aggregation, colloidal stability ",
+      "Note":"Maximum 15 participants[br/]Online registration are not allowed. Please contact CCMX (see below)"
+    },
+    "practical":{
+      "total_hours":6
+    },
+    "language":"English",
+    "title":"Powder Characterisation and Dispersion",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.ccmx.ch/","http://www.ccmx.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Maximum 15 participants[br/]Online registration are not allowed. Please contact CCMX (see below)",
+      "Contenu":"Particle size measurement[br/]Crystallite size - Xray diffraction[br/]Image analysis[br/]Surface area and poristy[br/]Particle dispersion and suspension characterisation[br/]Milling of powders[br/]",
+      "Mots clés":"nanopowders, particle size, dispersion, aggregation, colloidal stability ",
+      "Objectifs d'apprentissage":"From nanometers to milimeters and from theory to practice[br/][br/]Introduction to some basic methods used for powder characterisation, particle size measurement and an introduction to powder milling, powder dispersion and suspension characterisation. Detailed discussion of the fundamental theory behind the methods and their limitations.Measurement of real samples and correct interpretation of the results collected.Examples of \"real\" powders in varied applications related to ceramics and materials science"
+    },
+    "practical":{
+      "total_hours":6
+    },
+    "language":"English",
+    "title":"Powder Characterisation and Dispersion",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

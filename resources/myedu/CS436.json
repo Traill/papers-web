@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353953884&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","436"],
+    "title":"Computational game theory & applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353953884&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105074",
+      "name":"Faltings Boi"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"40% Course project[br/]60% Final written exam",
+      "Bibliography and material":"Yoav Shoham, Kevin Leyton-Brown[br/]Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations[br/]Cambridge University Press[br/][br/]Papers from the literature[br/]",
+      "Required prior knowledge":"Algorithms, linear programming",
+      "Content":"1. Introduction : games, pure and mixed strategies.[br/][br/]2. Equilibria: Nash, correlated, mediated, Stackelberg.[br/]Computing equilibria. Applications.[br/][br/]3. Negotiation, Bargaining, Coalitions.[br/][br/]4. Social choice; voting; manipulation.[br/][br/]5. Mechanism design, incentive-compatibility, online mechanisms.[br/][br/]6. Auctions, combinatorial auctions, internet ad auctions[br/][br/]7. Eliciting truthful information, with applications to rating systems and information markets.[br/][br/]8. Evolutionary Game Theory.[br/]",
+      "Type of teaching":"Course and exercises, course project",
+      "Learning outcomes":"Business and finance are increasingly networked. Decisions need to be taken not only based on fixed own objectives, but also on those of others, a situation that is modeled by game theory. Information technology opens a wide range of new possibilities for taking advantage of such models. This course provides an introduction to game-theoretic principles and their implementation in algorithms for a variety of problems in resource allocation, social choice, and information elicitation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational game theory & applications",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-89943-7&amp;con_lng=ENG\" target=\"blank\">Multiagent systems : algorithmic, game-theoretic, and logical foundations / Yoav Shoham, Kevin Leyton-Brown</a>\". Year:2009. ISBN:978-0-521-89943-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105074",
+      "name":"Faltings Boi"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Algorithmes, programmation linéaire",
+      "Bibliographie et matériel":"Yoav Shoham, Kevin Leyton-Brown[br/]Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations[br/]Cambridge University Press[br/][br/]Papers from the literature[br/]",
+      "Forme d'enseignement":"Cours et exercices, projet",
+      "Contenu":"1. Introduction : jeux, stratégies pures et mixtes.[br/][br/]2. Équilibres : Nash, corrélé, par médiation, et Stackelberg.[br/]Calcul d'équilibres. Applications.[br/][br/]3. Négociation, marchandage, coalitions.[br/][br/]4. Choix social; vote; manipulation.[br/][br/]5. Conception de mécanismes d'incitation, compatibilité des incitations, mécanismes en ligne.[br/][br/]6. Ventes aux enchères, ventes aux enchères combinatoires, ventes de publicité sur Internet[br/][br/]7.Mécanismes pour obtenir des informations véridiques, avec applications aux systèmes d'évaluation et aux marchés de l'information.[br/][br/]8. Théorie des jeux évolutionnaires.[br/]",
+      "Forme du contrôle":"40% Projet[br/]60% Examen final écrit",
+      "Objectifs d'apprentissage":"Les affaires et la finance sont de plus en plus traitées en réseau. Les décisions doivent être prises non seulement sur base des propres objectifs fixés, mais aussi sur ceux des autres, une situation qui est modelée par la théorie des jeux. Leurs décisions dépendent non seulement de leurs propres objectifs, mais aussi de ceux des autres - une situation qui est le mieux représentée par la théorie des jeux. La technologie de l'information ouvre une vaste gamme de nouvelles possibilités pour profiter de tels modèles. Ce cours donnera une introduction aux principes qui sous-tendent la théorie des jeux et à leur implémentation en algorithmes pour une variété de problèmes dans les domaines de l'allocation des ressources, du choix social et de l'obtention d'informations."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational game theory & applications",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-89943-7&amp;con_lng=FRE\" target=\"blank\">Multiagent systems : algorithmic, game-theoretic, and logical foundations / Yoav Shoham, Kevin Leyton-Brown</a>\". Année:2009. ISBN:978-0-521-89943-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241605791&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","708"],
+    "title":"Advanced topics in electromagnetic compatibility",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241605791&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of the course is to provide the students with some selected topics in various areas of electromagnetic compatibility. As part of the final examination, each graduate student will be assigned a mini research project, and will be expected to develop and present a lecture on this topic. The graduate student lectures will be presented to the instructor and interested classmates. Each lecture will last approximately 30 minutes.  Each student will present the talk as a PowerPoint presentation, or equivalent, and these (or a written report) will be made available to the class to support their lecture. ",
+      "Content":"Common introductory topics:[br/]1. Introduction to EMC and modeling techniques[br/]2. Representation of EMI signals[br/][br/]Other topics to be selected (non-exhaustive list):[br/]1. Printed circuit board design[br/]2. High frequency electromagnetic field coupling to transmission lines[br/]3. Grounding techniques[br/]4. Shielding[br/]5. Modeling of a lightning discharge[br/]6. Biological effects of electromagnetic fields",
+      "Keywords":"Electromagnetic Compatibility",
+      "Required prior knowledge":"Electromagnetism, Circuit Theory"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced topics in electromagnetic compatibility",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Common introductory topics:[br/]1. Introduction to EMC and modeling techniques[br/]2. Representation of EMI signals[br/][br/]Other topics to be selected (non-exhaustive list):[br/]1. Printed circuit board design[br/]2. High frequency electromagnetic field coupling to transmission lines[br/]3. Grounding techniques[br/]4. Shielding[br/]5. Modeling of a lightning discharge[br/]6. Biological effects of electromagnetic fields",
+      "Mots clés":"Electromagnetic Compatibility",
+      "Prérequis":"Electromagnetism, Circuit Theory",
+      "Objectifs d'apprentissage":"The aim of the course is to provide the students with some selected topics in various areas of electromagnetic compatibility. As part of the final examination, each graduate student will be assigned a mini research project, and will be expected to develop and present a lecture on this topic. The graduate student lectures will be presented to the instructor and interested classmates. Each lecture will last approximately 30 minutes.  Each student will present the talk as a PowerPoint presentation, or equivalent, and these (or a written report) will be made available to the class to support their lecture. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced topics in electromagnetic compatibility",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

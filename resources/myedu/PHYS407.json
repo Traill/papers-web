@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=243429820&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","407"],
+    "title":"Frontiers in nanosciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=243429820&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7781","http://moodle.epfl.ch/course/view.php?id=7781"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105546",
+      "name":"Kern Klaus"
+    },{
+      "url":"http://people.epfl.ch/132653",
+      "name":"Rusponi Stefano"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Nanoscale science and technology is a prospering field at the interface between basic science, engineering and life science. The course provides a comprehensive introduction to the rapidly developing field and its physical foundations. The relevant experimental and theoretical tools and concepts will be introduced, moving from basic concepts like quantum size effects to \"hot fields\" such as spin transport for data storage applications (spintronics), carbon electronics, nanocatalysis or biomolecular machines. It is a modular course that emphasizes cooperative learning approaches involving strong student participation and laboratory visits.[br/][br/][br/]",
+      "Content":"[b]1.\tIntroduction to the concepts of nanoscale science[/b][br/][b]2.\tThe art of making nanostructures:[/b][br/]a.\tBottom-up assembly[br/]b.\tTop-down fabrication[br/][b]3.\tQuantum structures and devices:[/b][br/]a.\tCurrent at the nanoscale[br/]b.\tQuantum technology[br/][b]4.\tCarbon nanotechnology:[/b][br/]a.\tFrom fullerenes to graphene[br/]b.\tMolecular electronics and machines[br/][b]5.\tMicroscopy and manipulation tools:[/b] [br/]a.\tElectron microscopy[br/]b.\tScanning probe microscopy: STM, AFM, MFM[br/][b]6.\tSpectroscopy tools: [/b][br/]a.\tElectron and photon spectroscopy: XPS, XAS, Auger[br/]b.\tElectron and photon diffraction: LEED, TEM, SXRD[br/]c.\tSynchrotron radiation[br/][b]7.\tMagnetism at the nanoscale:[/b][br/]a.\tOrbital and spin magnetic moment[br/]b.\tSuperparamagnetic limit in magnetic data storage[br/][b]8.\tFrom electronics to spintronics:[/b][br/]a.\t2D electron gas at heterogeneous semiconductor interfaces[br/]b.\tSingle electron transistor[br/]c.\tSpin transport: spin valve, GMR and TMR effects[br/]",
+      "Type of teaching":"Ex cathedra with visiting of laboratories at EPFL and the Max-Planck-Institute for Solid State Research in Stuttgart, Germany",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Solid state physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Frontiers in nanosciences",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-019-954420-2&amp;con_lng=ENG\" target=\"blank\">Introduction to nanoscience / S.M. Lindsay</a>\". Year:2010. ISBN:978-019-954420-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-32147-6&amp;con_lng=ENG\" target=\"blank\">Physics at surfaces / Andrew Zangwill</a>\". Year:1996. ISBN:0-521-32147-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-34709-5&amp;con_lng=ENG\" target=\"blank\">Physics of surfaces and interfaces / Harald Ibach</a>\". Year:2006. ISBN:978-3-540-34709-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-63145-7&amp;con_lng=ENG\" target=\"blank\">Quantum transport : atom to transistor / Supriyo Datta</a>\". Year:2005. ISBN:978-0-521-63145-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-52681-1&amp;con_lng=ENG\" target=\"blank\">Surfaces and interfaces of solids / Hans Lüth</a>\". Year:1993. ISBN:3-540-52681-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7781","http://moodle.epfl.ch/course/view.php?id=7781"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105546",
+      "name":"Kern Klaus"
+    },{
+      "url":"http://people.epfl.ch/132653",
+      "name":"Rusponi Stefano"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique du solide",
+      "Bibliographie et matériel":"S.M. Lindsay: Introduction to Nanoscience (Oxford, 2010)[br/]S. Datta: Quantum Transport, Atom to Transistor (Cambridge Univ. Press,2005)[br/]A. Zangwill: Physics at surfaces (Cambridge Univ. Press)[br/]H. Lüth: Surfaces and interfaces of solids[br/]H. Ibach: Physics of surfaces and interfaces",
+      "Forme d'enseignement":"Ex cathedra avec visite de laboratoires à l'EPFL et au Max-Planck-Institute for Solid State Research à Stuttgart, Allemagne",
+      "Contenu":"[b]1.\tIntroduction aux concepts de la nano-science[/b][br/][b]2.\tL'art de produire des nanostructures : [/b][br/]a. Assemblage bottom-up[br/]b. Assemblage top-down[br/][b]3.\tNanostructures et dispositifs quantiques : [/b][br/]a. Courent à l'échelle nanométrique[br/]b. Dispositifs quantiques[br/][b]4.\tNanotechnologie à base de carbone : [/b][br/]a. Fullerenes et graphene[br/]b. Dispositifs et électroniques moléculaire[br/][b]5.\tMicroscopie et outils expérimentaux : [/b][br/]a. Microscopie électronique[br/]b. Microscopie à champ proche : STM, AFM, MFM[br/][b]6.\tSpectroscopie et diffraction : [/b][br/]a. Spectroscopie électronique et photonique : XPS, XAS, Auger[br/]b. Diffraction d'électrons et photons : LEED, TEM, SXRD[br/]c. Lumière de synchrotron[br/][b]7.\tMagnétisme à l'échelle nanométrique :[/b][br/]a. Moment magnétique orbital et de spin[br/]b. Limite superparamagnétique dans le stockage magnétique d'information[br/][b]8.\tElectronique et spintronique :[/b][br/]a. Gaz électronique 2D à l'interface hétérogène de semi-conducteurs[br/]b. Transistor à un seul électron[br/]c. Transport de spin : valve de spin, GMR et TMR effects[br/]",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"La science et la technologie à l'échelle nanométrique constituent des pôles de recherche jeune et actifs à l'interface entre science, ingénierie et science de la vie. Ce cours offre une introduction compréhensive et détaillée à ce domaine en pleine croissance ainsi qu'à ses fondements physiques. Le cours introduit les outils et les concepts pertinents, aussi bien expérimentaux que théoriques. Partant de concepts fondamentaux comme les effets de taille quantiques, des \"sujets chauds\" seront progressivement abordés comme le transport de spin pour le stockage de données (spintronics), l'électronique à base de carbone, la nanocatalyse ou les machines biomoléculaires. Ce cours modulaire favorise des approches coopératives et encourage une forte participation des étudiants ; des visites de labos sont planifiées. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Frontiers in nanosciences",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-019-954420-2&amp;con_lng=FRE\" target=\"blank\">Introduction to nanoscience / S.M. Lindsay</a>\". Année:2010. ISBN:978-019-954420-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-32147-6&amp;con_lng=FRE\" target=\"blank\">Physics at surfaces / Andrew Zangwill</a>\". Année:1996. ISBN:0-521-32147-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-34709-5&amp;con_lng=FRE\" target=\"blank\">Physics of surfaces and interfaces / Harald Ibach</a>\". Année:2006. ISBN:978-3-540-34709-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-63145-7&amp;con_lng=FRE\" target=\"blank\">Quantum transport : atom to transistor / Supriyo Datta</a>\". Année:2005. ISBN:978-0-521-63145-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-52681-1&amp;con_lng=FRE\" target=\"blank\">Surfaces and interfaces of solids / Hans Lüth</a>\". Année:1993. ISBN:3-540-52681-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

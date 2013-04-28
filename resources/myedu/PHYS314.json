@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775512&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","314"],
+    "title":"Quantum physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775512&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-60676.html","http://itp.epfl.ch/page-60676.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126010",
+      "name":"Chapochnikov Mikhail"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"1 optional test giving up to 1 point bonus",
+      "Prerequisite for":"Solid state physics, nuclear physics, relativistic quantum fields",
+      "Required prior knowledge":"Quantum mechanics I",
+      "Content":"1. Spin[br/]2. Addition of angular momenta[br/]3. Symmetries and quantum mechanics[br/]4. Time-independent perturbation theory[br/]5. Time-dependent perturbation theory[br/]6. Identical particles: fermions and bosons[br/]7. Secondary quantification[br/]8. Elements of relativistic quantum mechanics",
+      "Type of teaching":"Ex cathedra and exercises in classroom",
+      "Learning outcomes":"Explore further the consequences of quantum mechanics (spin, fermions and bosons, ...), introduce the students to approximate methods (perturbation theory, variational approach, ...), and give a flavour of further developments (path integrals, relativistic theory, ...)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Quantum physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53929-2&amp;con_lng=ENG\" target=\"blank\">Modern quantum mechanics / J. J. Sakurai; San Fu Tuan, ed.</a>\". Year:1995. ISBN:0-201-53929-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7056-6074-7&amp;con_lng=ENG\" target=\"blank\">Mécanique quantique / Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë</a>\". Year:1998-2000. ISBN:2-7056-6074-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-3539-8&amp;con_lng=ENG\" target=\"blank\">Quantum mechanics : non-relativistic theory / by L.D. Landau and E.M. Lifshitz</a>\". Year:2010. ISBN:0-7506-3539-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-60676.html","http://itp.epfl.ch/page-60676.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126010",
+      "name":"Chapochnikov Mikhail"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique quantique I",
+      "Bibliographie et matériel":"\"Mécanique Quantique I-II\", Cohen-Tannoudji, Diu, Lahoë (Hermann);[br/]\"Modern Quantum Mechanics\", J. Sakurai[br/]\"Quantum Mechanics\", Landau, Lifshits",
+      "Forme d'enseignement":"Ex cathedra, exercices préparés en classe",
+      "Contenu":"1. Le spin[br/]2. Addition des moments cinétiques[br/]3. Symétries et mécanique quantique[br/]4. Théorie des perturbations indépendantes du temps[br/]5. Théorie des perturbations dépendantes du temps[br/]6. Particules identiques : fermions et bosons[br/]7. Seconde quantification[br/]8. Eléments de mécanique quantique relativiste",
+      "Forme du contrôle":"1 test bonus facultatif donnant au maximum 1 point",
+      "Préparation pour":"Physique du solide, physique nucléaire, champs quantiques relativistes",
+      "Objectifs d'apprentissage":"Continuer l'exploration des conséquences de la mécanique quantique (spin, fermions et bosons, ...), familiariser l'étudiant avec différentes méthodes d'approximation (théorie des perturbations, approche variationnelle, ...), et ouvrir des perspectives sur d'autres développements (intégrale de chemin, théorie relativiste, ...)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique quantique II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53929-2&amp;con_lng=FRE\" target=\"blank\">Modern quantum mechanics / J. J. Sakurai; San Fu Tuan, ed.</a>\". Année:1995. ISBN:0-201-53929-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7056-6074-7&amp;con_lng=FRE\" target=\"blank\">Mécanique quantique / Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë</a>\". Année:1998-2000. ISBN:2-7056-6074-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-3539-8&amp;con_lng=FRE\" target=\"blank\">Quantum mechanics : non-relativistic theory / by L.D. Landau and E.M. Lifshitz</a>\". Année:2010. ISBN:0-7506-3539-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770713&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","422"],
+    "title":"Advanced databases",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770713&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"IN",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://data.epfl.ch/advanced-databases","http://data.epfl.ch/advanced-databases"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205917",
+      "name":"Koch Christoph"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Updates to the programme and all course material are posted on Moodle.",
+      "Form of examination":"Written examinations and continuous control.",
+      "Required prior knowledge":"Basic course on database systems (e.g. covering parts III, IV, and V of Ramakrishnan and Gehrke on storage and indexing, query processing, and concurrency control).[br/]Solid programming skills, preferably in Java; familiarity with working on a Unix-style operating system desirable. ",
+      "Content":"Topics addressed by this course may include:[br/][br/][li]\tData models and data management systems architectures.[br/][li]\tQuery processing and optimization.[br/][li]\tStorage and out-of-core data processing algorithms.[br/][li]\tParallel and distributed databases. Data management in the cloud.[br/][li]\tData stream processing.[br/][li]\tDynamic, incremental, and online data analysis techniques.[br/][li]\tLarge-scale data analysis for data warehousing and scientific applications.[br/][br/]The lectures will be supported by a subset of the publications in the collection « Readings in Databases » by Hellerstein and Stonebraker (see below), supplemented by additional recent papers. These papers will be made available for download from the course web page.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra courses; exercises; projects in groups.",
+      "Learning outcomes":"This course is intended for students who want to understand modern large-scale data analysis systems and database systems. It covers a wide range of topics and technologies, and will prepare students to be able to build such systems as well as read and understand recent research publications.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced databases",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-135428-9&amp;con_lng=ENG\" target=\"blank\">Database systems : the complete book / Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom</a>\". Year:2009. ISBN:978-0-13-135428-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-12226-7&amp;con_lng=ENG\" target=\"blank\">Fundamentals of database systems / Ramez Elmasri, Shamkant B. Navathe</a>\". Year:2004. ISBN:0-321-12226-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-69314-3&amp;con_lng=ENG\" target=\"blank\">Readings in database systems / ed. by Joseph M. Hellerstein ... [et al.]</a>\". Year:2005. ISBN:0-262-69314-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://data.epfl.ch/advanced-databases","http://data.epfl.ch/advanced-databases"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205917",
+      "name":"Koch Christoph"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Updates to the programme and all course material are posted on Moodle.",
+      "Prérequis":"Cours Bachelor Bases de données.[br/][br/]Compétences approfondies en programmation, de préférence sur Java, connaissance d'un système d'exploitation de type Unix souhaitée.",
+      "Bibliographie et matériel":"J. Hellerstein & M. Stonebraker, Readings in Database Systems, 4th Edition, 2005.[br/]Database Systems - The Complete Book, H.Garcia-Molina, J.D.Ullman, J,Widom, Prentice Hall, 2002[br/]R. Elmasri & S. Navathe: \" Fundamentals of Database Systems \", Benjamin-Cummings, 3rd edition, 2000.",
+      "Forme d'enseignement":"Cours ex cathedra; exercices en classe; projets.",
+      "Contenu":"Les sujets traités dans ce cours comprendront : [br/][br/][li]\tModèles de données et gestion des architectures des systems de données [br/][li]\tQuestions sur le traitement et l'optimisation des données [br/][li]\tAlgorithmes à la gestion de données en mémoire de masse. [br/][li]\tBase de données parallèles et réparties. Gestion des données dans le cloud.[br/][li]\tTraitement du flux de données [br/][li]\tTechniques dynamiques et progressives sur l'analyse de données en ligne [br/][li]\tAnalyse à grande échelle du stockage de données et des applications scientifiques [br/][br/]Les cours seront documentés par un sous-ensemble de publications tirées de la collection « Readings in Databases » par Hellerstein and Stonebraker (voir ci-dessous), et complétés par des articles récents, qui seront disponibles par téléchargement sur la page web du cours.",
+      "Forme du contrôle":"Continu",
+      "Objectifs d'apprentissage":"Ce cours s'adresse à des étudiants qui souhaitent comprendre les méthodes d'analyses de bases de données à grande échelle ainsi que les systèmes de base de données. [br/]Il couvre un large éventail de sujets et technologies et permettra aux étudiants de construire de tels systèmes, de lire et comprendre les récentes publications et recherches effectuées dans ce domaine.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced databases",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-135428-9&amp;con_lng=FRE\" target=\"blank\">Database systems : the complete book / Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom</a>\". Année:2009. ISBN:978-0-13-135428-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-12226-7&amp;con_lng=FRE\" target=\"blank\">Fundamentals of database systems / Ramez Elmasri, Shamkant B. Navathe</a>\". Année:2004. ISBN:0-321-12226-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-69314-3&amp;con_lng=FRE\" target=\"blank\">Readings in database systems / ed. by Joseph M. Hellerstein ... [et al.]</a>\". Année:2005. ISBN:0-262-69314-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

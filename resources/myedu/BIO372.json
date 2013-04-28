@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=260077392&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","372"],
+    "title":"Microbiology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=260077392&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177246",
+      "name":"McKinney John"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to fundamentals of bacteriology and virology. Emphasis will be on microbial diversity and aspects of microbial physiology that are unique to microbes.",
+      "Content":"1. Microbial diversity[br/]2. Microbial cell structure[br/]3. Microbial transmembrane transport[br/]4. Microbial motility and chemotaxis[br/]5. Microbial differentiation[br/]6. Microbial metabolic diversity[br/]7. Microbial ecology[br/]8. Microbial symbiosis[br/]9. Microbial phenotypic heterogeneity[br/]10. Putting microbes to work[br/]11. Principles of microbial pathogenesis[br/]12. Virology - molecular aspects[br/]13. Virology - pathogenesis[br/]14. Virology - retroelements"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microbiology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73551-5&amp;con_lng=ENG\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Year:2012. ISBN:978-0-321-73551-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-55581-259-7&amp;con_lng=ENG\" target=\"blank\">Principles of virology : molecular biology, pathogenesis, and control of animal viruses / S.J. Flint ... [et al.]</a>\". Year:2004. ISBN:1-55581-259-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177246",
+      "name":"McKinney John"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Biologie cellulaire I,II, Biologie moléculaire I,II, Biologie du développement I,II",
+      "Bibliographie et matériel":"Brock Biology of Microorganisms 12th Edition, by M.T. Madigan, J.M. Martinko, P.V. Dunlap, and D.P. Clark, Published by Benjamin Cummings (© 2008).[br/][br/]Principles of Virology, by S.J. Flint, V.R. Racaniello, L.W. Enquist, and A.M. Skalka, Published by ASM Press (© 2003).",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"1. Diversité microbienne[br/]2. Structure cellulaire microbienne[br/]3. Transport transmembranaire microbien[br/]4. Motilité et chémotaxie microbiennes[br/]5. Différenciation microbienne[br/]6. Diversité métabolique microbienne[br/]7. Écologie microbienne[br/]8. Symbiose microbienne[br/]9. Hétérogénéité phénotypique microbienne[br/]10. Les microbes au travail[br/]11. Principes de pathogenèse microbienne[br/]12. Virologie - aspects moléculaire[br/]13. Virologie - pathogenèse[br/]14. Virologie - retroéléments",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Introduction aux principes de base de la bactériologie et de la virologie. L'accent sera mis sur la diversité microbienne et sur différents aspects de physiologie spécifiques aux microbes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microbiology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73551-5&amp;con_lng=FRE\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Année:2012. ISBN:978-0-321-73551-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-55581-259-7&amp;con_lng=FRE\" target=\"blank\">Principles of virology : molecular biology, pathogenesis, and control of animal viruses / S.J. Flint ... [et al.]</a>\". Année:2004. ISBN:1-55581-259-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348760034&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","554"],
+    "title":"Automatic speech processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348760034&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to provide the students with the main formalisms, models and algorithms required for the implementation of advanced speech processing applications (involving, among others, speech coding, speech analysis/synthesis, and speech recognition).",
+      "Content":"1. [u]Introduction[/u]: Speech processing tasks, language engineering applications.[br/][br/]2. [u]Basic Tools[/u]: Analysis and spectral properties of the speech signal, linear prediction algorithms, statistical pattern recognition, dynamic programming.[br/][br/]3. [u]Speech Coding[/u]: Human hearing properties, quantization theory, speech coding in the temporal and frequency domains.[br/][br/]4. [u]Speech Synthesis[/u]: Morpho-syntactic analysis,  phonetic transcription, prosody, speech synthesis models.[br/][br/]5. [u]Automatic Speech Recognition[/u]: Temporal pattern matching and Dynamic Time Warping (DTW) algorithms, speech recognition systems based on Hidden Markov Models (HMMs).[br/][br/]6. [u]Speaker recognition and speaker verification[/u]: Formalism, hypothesis testing, HMM based speaker verification.[br/][br/]7. [u]Linguistic Engineering[/u]: state-of-the-art and typical applications"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Automatic speech processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-388-5&amp;con_lng=ENG\" target=\"blank\">Traitement de la parole / René Boite ... [et al.]</a>\". Year:2000. ISBN:2-88074-388-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Basic knowledge in signal processing, linear algebra, statistics and stochastic processes.",
+      "Bibliographie et matériel":"Traitement de la parole, PPUR. Various papers. Courses and lab notes. Slides",
+      "Forme d'enseignement":"Ex cathedra + class exercises and labs",
+      "Contenu":"1. [u]Introduction[/u]: Tâches du traitement de la parole, domaines d'applications de l'ingénierie linguistique.[br/][br/]2. [u]Outils de base[/u]: Analyse et propriétés spectrales du signal de parole, reconnaissance statistique de formes (statiques), programmation dynamique.[br/][br/]3. [u]Codage de la parole[/u]: Propriétés perceptuelles de l'oreille, théorie de la quantification, codage dans le domaine temporel et fréquenciel.[br/][br/]4. [u]Synthèse de la parole[/u]: Analyse morpho-syntaxique, transcription phonétique, prosodie, modèles de synthèse.[br/][br/]5. [u]Reconnaissance de la parole[/u]: Classification de séquences et algorithme de déformation temporelle dynamique (DTW), systèmes de reconnaissance à base de chaînes de Markov cachées (HMM).[br/][br/]6. [u]Reconnaissance et vérification du locuteur[/u]: Formalisme, test d'hypothèse, HMM pour la vérification du locuteur.[br/][br/]7. [u]Ingénierie linguistique[/u]: état de l'art et applications types.",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de présenter les principaux formalismes, modèles et algorithmes permettant la réalisation d'applications mettant en oeuvre des techniques de traitement de la parole (codage, analyse/synthèse, reconnaissance)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Automatic speech processing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-388-5&amp;con_lng=FRE\" target=\"blank\">Traitement de la parole / René Boite ... [et al.]</a>\". Année:2000. ISBN:2-88074-388-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352259786&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","513"],
+    "title":"Signal processing for functional brain imaging",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352259786&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206506",
+      "name":"Saenz Melissa"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to demonstrate how advanced signal processing techniques contribute to study brain function using modern medical imaging modalities. Over the past decade, seeing the brain at work has had a tremendous impact on neurosciences and medicine. The essentials of signal and image processing methods that lead to successful interpretation of functional brain imaging data are described, with a particular emphasis on multivariate techniques that jointly consider signals from various spatial positions. The proposed methodologies are widely applicable; particular examples include functional brain imaging using fMRI, EEG, and optical modalities.",
+      "Content":"[li] Brief overview of standard confirmatory processing (univariate methods)[br/][li] Stimulation paradigm (design and optimization, resting state)[br/][li] Functional connectivity (source separation methods such as principal components analysis and independent components analysis)[br/][li] Brain decoding (supervised machine learning)[br/][li] Multimodal imaging (simultaneous fMRI and EEG recordings)[br/][li] Sensory topographic mapping (high-field fMRI)[br/][li] Neurofeedback (real-time fMRI)[br/][li] Impact and significance for cognitive neurosciences and clinical applications"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Signal processing for functional brain imaging",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206506",
+      "name":"Saenz Melissa"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[li] Brief overview of standard confirmatory processing (univariate methods)[br/][li] Stimulation paradigm (design and optimization, resting state)[br/][li] Functional connectivity (source separation methods such as principal components analysis and independent components analysis)[br/][li] Brain decoding (supervised machine learning)[br/][li] Multimodal imaging (simultaneous fMRI and EEG recordings)[br/][li] Sensory topographic mapping (high-field fMRI)[br/][li] Neurofeedback (real-time fMRI)[br/][li] Impact and significance for cognitive neurosciences and clinical applications",
+      "Objectifs d'apprentissage":"The aim of this course is to demonstrate how advanced signal processing techniques contribute to study brain function using modern medical imaging modalities. Over the past decade, seeing the brain at work has had a tremendous impact on neurosciences and medicine. The essentials of signal and image processing methods that lead to successful interpretation of functional brain imaging data are described, with a particular emphasis on multivariate techniques that jointly consider signals from various spatial positions. The proposed methodologies are widely applicable; particular examples include functional brain imaging using fMRI, EEG, and optical modalities."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Signal processing for functional brain imaging",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

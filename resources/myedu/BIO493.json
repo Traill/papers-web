@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584773205&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","493"],
+    "title":"Project in integrative neurosciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584773205&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150822",
+      "name":"Markram Henry"
+    },{
+      "url":"http://people.epfl.ch/157467",
+      "name":"Petersen Carl"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in integrative neurosciences",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150822",
+      "name":"Markram Henry"
+    },{
+      "url":"http://people.epfl.ch/157467",
+      "name":"Petersen Carl"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in integrative neurosciences",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

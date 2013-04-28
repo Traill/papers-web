@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838979534&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","390"],
+    "title":"Materials project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838979534&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This project will deepen the student's knowledge in an area of materials[br/]science. Based on specific topics, the student shall develop working[br/]methods and a way of thinking applicable to all materials problems.",
+      "Content":"DOMAINE, PROFESSOR[br/]- Biomaterials, Prof. J. Lemaître[br/]- Ceramics, Prof. N. Setter[br/]- Ceramics and powders, Prof. P. Bowen[br/]- Functional polymers composites, MER Y. Leterrier[br/]- Composite processing, smart materials, Prof. V. Michaud[br/]- Thin films, Prof. P. Muralt[br/]- Building materials, Prof. K. Scrivener[br/]- Ferroelectric materials, Prof. A. Tagantsev[br/]- Macromolecular and organic materials, Prof. H. Frauenrath[br/]- Semiconductor materials, Prof. A. Fontcuberta i Morral[br/]- Mechanical metallurgy, Prof. A. Mortensen[br/]- supramolecular nanomaterials and interfaces, Prof. F. Stellacci[br/]- Polymers, Prof. H.A. Klok[br/]- Electronic properties of materials, Prof. D. Damjanovic[br/]- Computational materials, solidification, Prof. M. Rappaz[br/]- Simulations of materials on the atomic scale, Prof. N. Marzari[br/]- Composite and polymer technology, Prof. J.A. Månson[br/]- Powder technology, Prof. H. Hofmann[br/]- Tribology, corrosion, MER S. Mischler[br/]The choice of the area of this project has to be done before the end of[br/]the 5th semester.[br/]",
+      "Form of examination":"Continuous assessment (report)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Materials project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"DOMAINE, PROFESSEUR[br/]- Biomatériaux, Prof. J. Lemaître[br/]- Céramiques, Prof. N. Setter[br/]- Céramiques et poudres, Prof. P. Bowen[br/]- Composites polymères fonctionnels, MER Y. Leterrier[br/]- Elaboration des composites, matériaux intelligents, Prof. V. Michaud[br/]- Films minces, Prof. P. Muralt[br/]- Matériaux de construction, Prof. K. Scrivener[br/]- Matériaux ferroélectriques, Prof. A. Tagantsev[br/]- Matériaux organiques et macromoléculaires, Prof. H. Frauenrath[br/]- Matériaux semiconducteurs, Prof. A. Fontcuberta i Morral[br/]- Métallurgie mécanique, Prof. A. Mortensen[br/]- Nanomatériaux supramoléculaires et interfaces, Prof. F. Stellacci[br/]- Polymères, Prof. H.-A. Klok[br/]- Propriétés électroniques des matériaux, Prof. D. Damjanovic[br/]- Simulation des matériaux et solidification, Prof. M. Rappaz[br/]- Simulation des matériaux à l'échelle atomique, Prof. N. Marzari[br/]- Technologie des composites et polymères, Prof. J.A. Månson[br/]- Technologie des poudres, Prof. H. Hofmann[br/]- Tribologie, corrosion, MER S. Mischler[br/]Le choix du domaine de ce projet s'effectue avant la fin du 5ème[br/]semestre.",
+      "Forme du contrôle":"Contrôle continu (rapport)",
+      "Objectifs d'apprentissage":"Ce projet fait partie du travail d'approfondissement qui s'effectue dans[br/]un domaine de la science des matériaux. Il s'agit, à partir de[br/]problèmes précis, de développer des méthodes de travail et un mode[br/]de pensée applicables à l'ensemble des problèmes de matériaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet Matériaux",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

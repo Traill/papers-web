@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774522&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","420"],
+    "title":"Cementitious materials (advanced)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774522&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To give students a detailed knowledge of the chemistry, microstructure and properties of cementitious materi-als.[br/]To introduce students to some of the important research issues regarding these materials.",
+      "Content":"1. Introduction - overview of structure of cementitious materials, advantages and disavantages.[br/]2. Hydration.[br/]3. Supplementary cementitious materials.[br/]4. Understanding and characterising the pore structure of cementitious materials.[br/]5. Transport properties.[br/]6. Durability issues.[br/]7. Calcium aluminate cements.[br/]8. Ultra high performance concrete.[br/]9. Low cost housing[br/]10. Shotcrete technology",
+      "Type of teaching":"Ex cathedra ",
+      "Form of examination":"Project + binomial presentation ",
+      "Required prior knowledge":"Building materials"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cementitious materials (advanced)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra  (avec explication en français si nécessaire)",
+      "Contenu":"1. Introduction - vue globale des matériaux cimentaires.[br/]2. Hydratation.[br/]3. Supplementary cementitious materials. [br/]4. Compréhension et caractérisation de la structure poreuse.[br/]5. Popriétés de transfert.[br/]6. Durabilité.[br/]7. Ciments alumineux.[br/]8. Bétons très haute performance.[br/]9. Low cost housing.[br/]10. Béton projeté[br/][br/]",
+      "Forme du contrôle":"Projet + présentation en binôme",
+      "Prérequis":"Matériaux de construction ",
+      "Objectifs d'apprentissage":"Donner aux étudiants une vue détaillée de la chimie, de la microstructure et des performances des matériaux cimentaires.[br/]Introduire quelques questions de recherche sur ces matériaux.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cementitious materials (advanced)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

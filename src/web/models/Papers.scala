@@ -6,7 +6,7 @@ import net.liftweb.json._
 object PaperModel {
 
   // The main datastructure
-  private var A : Analyzer[Paper] = Analyzer(Map.empty[String, Document[Paper]])
+  private var A : Analyzer = Analyzer(Map.empty[String, Document])
 
   // Json nodes and edges ready to be served
   private var nodes : String = ""
@@ -20,7 +20,7 @@ object PaperModel {
 
   // Must be called to initialize all data from disk
   def init(path : String) : Unit = { 
-    A = Analyzer.fromCache[Paper](path).load[Paper]
+    A = Analyzer.fromCache(path).load
   }
 
   // Function for getting an abstract

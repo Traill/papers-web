@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352250335&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","600"],
+    "title":"Optimization and simulation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352250335&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://transp-or.epfl.ch/","http://transp-or.epfl.ch/"],["http://moodle.epfl.ch/course/view.php?id=6791","http://moodle.epfl.ch/course/view.php?id=6791"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Master the state-of-the art methods in continuous optimization and simulation. [br/]Understand the theoretical foundations of the algorithms and methods.[br/]Work involves: [br/][li]\treading the material beforehand[br/][li]\tclass hours to discuss the material and solve problems[br/][li]\thomework[br/]",
+      "Content":"Part 1: Non linear programming[br/]Bertsekas (1999) Nonlinear programming, Athena Scientific [BE][br/]Wright (1997) Primal-dual interior-point methods, Siam[br/]Bierlaire (2006) Introduction à l'optimisation differentiable, PPUR (in French) [BI][br/]1)\tReview on unconstrained optimization (BI Chap. 5, 9-16, BE Chap.1[br/]2)\tOptimization over a convex set  (BI Chap. 18, BE Chap 2)[br/]3)\tinterior point methods (BI Chap. 19, BE Section 4.1) [br/]4)\tAugmented lagrangian (BI Chap. 20, BE Section 4.2)[br/]5)     Sequential Quadratic Programming (BI Chap 21, BE SEction 4.3)[br/][br/]Part 2: Simulation[br/]Sheldon M. Ross (1997) Simulation[br/]6)\tDraws (Chapters 4 & 5)[br/]7)\tDiscrete event simulation (Chapter 6)[br/]8)\tstatistical data analysis, bootstrapping (Chapter 7)[br/]9)     variance reduction techniques (Chapter 8)[br/]10)   statistical validation techniqes (Chapter 9)[br/]11)   Markov Chain Monte Carlo methods (Chapter 10)[br/]",
+      "Keywords":"nonlinear optimization, simulation",
+      "Note":"5 weeks on nonlinear optimization + 8 weeks on simulation",
+      "Required prior knowledge":"Analysis, algebra, introduction to optimization (simplex algorithm, Newton's method, shortest path), probability and statistics, Matlab or Octave"
+    },
+    "practical":{
+      "total_hours":42
+    },
+    "language":"English",
+    "title":"Optimization and simulation",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://transp-or.epfl.ch/","http://transp-or.epfl.ch/"],["http://moodle.epfl.ch/course/view.php?id=6791","http://moodle.epfl.ch/course/view.php?id=6791"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"5 weeks on nonlinear optimization + 8 weeks on simulation",
+      "Contenu":"Part 1: Non linear programming[br/]Bertsekas (1999) Nonlinear programming, Athena Scientific [BE][br/]Wright (1997) Primal-dual interior-point methods, Siam[br/]Bierlaire (2006) Introduction à l'optimisation differentiable, PPUR (in French) [BI][br/]1)\tReview on unconstrained optimization (BI Chap. 5, 9-16, BE Chap.1[br/]2)\tOptimization over a convex set  (BI Chap. 18, BE Chap 2)[br/]3)\tinterior point methods (BI Chap. 19, BE Section 4.1) [br/]4)\tAugmented lagrangian (BI Chap. 20, BE Section 4.2)[br/]5)     Sequential Quadratic Programming (BI Chap 21, BE SEction 4.3)[br/][br/]Part 2: Simulation[br/]Sheldon M. Ross (1997) Simulation[br/]6)\tDraws (Chapters 4 & 5)[br/]7)\tDiscrete event simulation (Chapter 6)[br/]8)\tstatistical data analysis, bootstrapping (Chapter 7)[br/]9)     variance reduction techniques (Chapter 8)[br/]10)   statistical validation techniqes (Chapter 9)[br/]11)   Markov Chain Monte Carlo methods (Chapter 10)[br/]",
+      "Mots clés":"nonlinear optimization, simulation",
+      "Prérequis":"Analysis, algebra, introduction to optimization (simplex algorithm, Newton's method, shortest path), probability and statistics, Matlab or Octave",
+      "Objectifs d'apprentissage":"Master the state-of-the art methods in continuous optimization and simulation. [br/]Understand the theoretical foundations of the algorithms and methods.[br/]Work involves: [br/][li]\treading the material beforehand[br/][li]\tclass hours to discuss the material and solve problems[br/][li]\thomework[br/]"
+    },
+    "practical":{
+      "total_hours":42
+    },
+    "language":"English",
+    "title":"Optimization and simulation",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

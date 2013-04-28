@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771799&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","625(a)"],
+    "title":"Using Mathematica to analyse and model experimental data (Autumn)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771799&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To learn the basics of symbolic programming using Mathematica[br/]To understand Mathematica expressions and their use[br/]To be able to solve linear and non-linear differentials systems[br/]To present graphically experimental or simulated results",
+      "Content":"This course is aimed to PhD students who wish to learn the symbolic programming language \"Mathematica\" in order to model and analyze experimental results. It will give the necessary practice of Mathematica to start using it in real situations. The syntax of Mathematica expressions will be studied in details. The course is based on notebooks that are executed interactively on PC. Many examples and exercises will be fully explained. How to obtain solutions of linear or non-linear algebraic or differential systems will be shown with worked out exercises. The use of the graphical capabilities of Mathematica to present experimental or calculated results will be emphasized."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Using Mathematica to analyse and model experimental data (Autumn)",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"This course is aimed to PhD students who wish to learn the symbolic programming language \"Mathematica\" in order to model and analyze experimental results. It will give the necessary practice of Mathematica to start using it in real situations. The syntax of Mathematica expressions will be studied in details. The course is based on notebooks that are executed interactively on PC. Many examples and exercises will be fully explained. How to obtain solutions of linear or non-linear algebraic or differential systems will be shown with worked out exercises. The use of the graphical capabilities of Mathematica to present experimental or calculated results will be emphasized.",
+      "Objectifs d'apprentissage":"To learn the basics of symbolic programming using Mathematica[br/]To understand Mathematica expressions and their use[br/]To be able to solve linear and non-linear differentials systems[br/]To present graphically experimental or simulated results"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Using Mathematica to analyse and model experimental data (Autumn)",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

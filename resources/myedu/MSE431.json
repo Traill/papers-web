@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128686658&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","431"],
+    "title":"Polymer physical chemistry and materials properties",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128686658&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/186314",
+      "name":"Klok-Lermann Eva"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Plastic materials are endowed with an immense range of properties which allow them to be tailored to specific application. This course is intended to provide the students with a basic understanding of the physical and physicochemical principles which result from the chainlike structure of synthetic macromolecules. With the gained knowledge, the student should be able to predict major characteristics of a polymer from its chemical structure and molecular architecture, and to select the appropriate plastic material for a given application.[br/]",
+      "Content":"[li] Introduction[br/][li] Dilute solutions [br/][li] Concentrated solutions and phase behavior[br/][li] The amorphous state[br/][li] The crystalline state[br/][li] The glass-rubber transition[br/][li] Rubber elasticity[br/][li] Viscoelastic properties[br/][br/]",
+      "Type of teaching":"Lectures with integrated exercises",
+      "Form of examination":"written",
+      "Required prior knowledge":"General chemistry, Inorganic chemistry, organic and polymer chemistry[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polymer physical chemistry and materials properties",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-70606-9&amp;con_lng=ENG\" target=\"blank\">Introduction to physical polymer science / L.H. Sperling</a>\". Year:2006. ISBN:978-0-471-70606-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-57444-779-8&amp;con_lng=ENG\" target=\"blank\">Polymer chemistry / Paul C. Hiemenz, Timothy P. Lodge</a>\". Year:2007. ISBN:978-1-57444-779-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/186314",
+      "name":"Klok-Lermann Eva"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Chimie générale, Chimie inorganique, chimie organique et des polymères",
+      "Bibliographie et matériel":"- L. H. Sperling, Introduction to Physical Polymer Science 4th edition, Wiley-Interscience, 2005[br/]- P.C. Hiemenz, T.P. Lodge, Polymer Chemistry 2nd edition, CRC Press, 2007[br/]- polycopié",
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[li] Introduction[br/][li] Solutions diluées[br/][li] Solutions concentrées et diagramme de phase[br/][li] L'état amorphe[br/][li] L'état cristallin[br/][li] Transition vitreuse[br/][li] Elasticité caoutchoutique[br/][li] Propriétés viscoélastiques[br/][br/]",
+      "Forme du contrôle":"écrit",
+      "Objectifs d'apprentissage":"Les matières plastiques sont pourvues d'une large gamme de propriétés qui en font des matériaux uniques, s'adaptant à volonté à l'application envisagée. Le but de ce cours est de fournir à l'étudiant les bases théoriques et pratiques pour l'étude des propriétés fondamentales qui découlent de la nature organique et de la grande taille des macromolécules. Avec les connaissances acquises, l'étudiant devrait être capable de prédire le comportement d'une matière plastique à partir de sa structure chimique et son architecture moléculaire, et de choisir le bon matériau en fonction de l'application. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polymer physical chemistry and materials properties",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-70606-9&amp;con_lng=FRE\" target=\"blank\">Introduction to physical polymer science / L.H. Sperling</a>\". Année:2006. ISBN:978-0-471-70606-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-57444-779-8&amp;con_lng=FRE\" target=\"blank\">Polymer chemistry / Paul C. Hiemenz, Timothy P. Lodge</a>\". Année:2007. ISBN:978-1-57444-779-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

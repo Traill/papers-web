@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129286243&ww_x_anneeAcad=2012-2013&ww_i_section=99177298&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","445"],
+    "title":"Nuclear fusion and plasma physics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129286243&ww_x_anneeAcad=2012-2013&ww_i_section=99177298&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PH-NE",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105078",
+      "name":"Fasoli Ambrogio"
+    },{
+      "url":"http://people.epfl.ch/106568",
+      "name":"Tran Minh Quang"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Achieve basic understanding of plasma physcis concepts for fusion energy, and of basic principles of fusion reactors",
+      "Content":"1) Basics of thermonuclear fusion[br/]2) The plasma state and its collective effects[br/]3) Charged particle motion and collisional effects[br/]4) Fluid description of a plasma[br/]5) Plasma equilibrium and stability[br/]6) Magnetic confinement: Tokamak and Stellarator[br/]7) Waves in plasma[br/]8) Wave-particle interactions [br/]9) Heating and non inductive current drive by radio frequency waves[br/]10) Heating and non inductive current drive by neutral particle beams[br/]11) Material science and technology: Low and high Temperature superconductor - Properties of material under irradiation [br/]12) Some nuclear aspects of a fusion reactor: Tritium production[br/]13) Licensing a fusion reactor: safety, nuclear waste   [br/]14) Inertial confinement[br/][br/][br/][br/][br/] ",
+      "Type of teaching":"Ex cathedra and in-class exercises",
+      "Form of examination":"oral examen (100%)",
+      "Required prior knowledge":"Basicknowledge of electricity and magnetism, and of simple concepts of fluids"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nuclear fusion and plasma physics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-306-41332-2&amp;con_lng=ENG\" target=\"blank\">Introduction to plasma physics and controlled fusion / Francis F. Chen</a>\". Year:2006. ISBN:978-0-306-41332-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-85107-7&amp;con_lng=ENG\" target=\"blank\">Plasma physics and fusion energy / Jeffrey P. Freidberg</a>\". Year:2007. ISBN:978-0-521-85107-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-45912-9&amp;con_lng=ENG\" target=\"blank\">The physics of plasmas / T.J.M. Boyd, J.J. Sanderson</a>\". Year:2007. ISBN:978-0-521-45912-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105078",
+      "name":"Fasoli Ambrogio"
+    },{
+      "url":"http://people.epfl.ch/106568",
+      "name":"Tran Minh Quang"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Connaissance de base d'électricité et magnétisme et des concepts de base de la physique des fluides",
+      "Bibliographie et matériel":"- J. Freidberg, Plasma Physics and Fusion Energy, Cambridge University Press, 2007[br/]- F.F. Chen, [i] Introductionto Plasma Physcs[/i], 2nd edition, Plenum Press, 1984",
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe",
+      "Contenu":"1)\tLes principes de la fusion thermonucléare[br/]2)\tL'état de plasma et ses phénomèmes collectifs[br/]3)\tLe mouvement des particules chargées et les effets collisionnels[br/]4)\tUn plasma comme un fluide[br/]5)\tL'équilibre et la stabilité du plasma[br/]6)\tConfinement magnétique : Tokamak et stellarateur[br/]7)\tLes ondes dans les plasmas[br/]8)\tL'interaction onde-particule dans les plasmas[br/]9)\tMéthodes de chauffage et génération de courant non inductive : absorption d'ondes radio fréquence[br/]10) Méthodes de chauffage et génération de courant non inductive : par faisceau de neutres[br/]11) Science et technologie des matériaux pour la fusion : Supraconductivité à basse et haute température - Propriétés des matériaux de structure sous irradiation[br/]12) Aspects nucléaires d'un réacteur de fusion : Production de tritium[br/]13) Certification d'un réacteur de fusion et les questions de  sécurité, et des déchets [br/]14) Confinement inertiel",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Atteindre une compréhension de base des concepts de physique des plasmas pour la fusion et les principes d'un réacteur à fusion"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nuclear fusion and plasma physics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-306-41332-2&amp;con_lng=FRE\" target=\"blank\">Introduction to plasma physics and controlled fusion / Francis F. Chen</a>\". Année:2006. ISBN:978-0-306-41332-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-85107-7&amp;con_lng=FRE\" target=\"blank\">Plasma physics and fusion energy / Jeffrey P. Freidberg</a>\". Année:2007. ISBN:978-0-521-85107-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-45912-9&amp;con_lng=FRE\" target=\"blank\">The physics of plasmas / T.J.M. Boyd, J.J. Sanderson</a>\". Année:2007. ISBN:978-0-521-45912-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

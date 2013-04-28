@@ -1,0 +1,61 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=991205995&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","699(n)"],
+    "title":"Training Rotation (EDNE)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=991205995&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDNE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"[li]Doctoral students interested in conducting a training rotation must write a one page proposal delinating the educational objectives and the means by which they intend to achieve them[br/][li]This proposal must be approved by the supervisor, by the host laboratory, as well as by the doctoral program director[br/][li]Training rotations must take place within the first two years of doctoral studies and can last 1-4 months, with a maximum of 4 months in total[br/][li]The examination procedure consists in a project report written in the style of the candidacy exam report[br/]",
+      "Note":"Each month of training rotation gives 1 ECTS credit"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Training Rotation (EDNE)",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":{
+      "total_hours":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Each month of training rotation gives 1 ECTS credit",
+      "Contenu":"[li]Doctoral students interested in conducting a training rotation must write a one pAage proposal delinating the educational objectives and the means by which they intend to achieve them[br/][li]This Aproposal must be approved by the supervisor, by the host laboratory, as well as by the doctoral program director[br/][li]Training rotations must take place within the first two years of doctoral studies and can last 1-4 months, with a maximum of 4 months in total[br/][li]The examination procedure consists in a project report written in the style of the candidacy exam report[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Training Rotation (EDNE)",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":{
+      "total_hours":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

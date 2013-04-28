@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","251(b)"],
+    "title":"Numerical analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118353",
+      "name":"Nobile Fabio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student will learn how to numerically solve mathematical problems of practical interest in engineering applications, and choose appropriate algorithms in each case.",
+      "Content":"-\tStability, condition number and convergence of numerical methods.[br/]-\tPolynomial interpolation and least squares approximation.[br/]-\tNumerical integration.[br/]-\tDirect methods for the solution of linear systems.[br/]- Iterative methods for the solution of linear and nonlinear systems.[br/]-\tNumerical approximation of ordinary differential equations.[br/]-\tFinite difference approximation of 2-point boundary value problems.[br/]-\tIntroduction to MATLAB/OCTAVE.",
+      "Type of teaching":"Ex cathedra lectures, exercises in the classroom and on the computer",
+      "Form of examination":"The exam might require using a computer and MATLAB/OCTAVE software.",
+      "Required prior knowledge":"Analysis, Linear Algebra, Programming"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Numerical analysis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1675-0&amp;con_lng=ENG\" target=\"blank\">Calcul scientifique : cours, exercices corrigés et illustrations en MATLAB et Octave / by Alfio Quarteroni, Paola Gervasio, Fausto Saleri</a>\". Year:2010. ISBN:978-88-470-1675-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-0495-5&amp;con_lng=ENG\" target=\"blank\">Méthodes numériques : algorithmes, analyse et applications / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Year:2007. ISBN:978-88-470-0495-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-12429-7&amp;con_lng=ENG\" target=\"blank\">Scientific computing with MATLAB and Octave / Alfio Quarteroni, Fausto Saleri, Paola Gervasio</a>\". Year:2010. ISBN:978-3-642-12429-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118353",
+      "name":"Nobile Fabio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse, Algèbre linéaire, Programmation",
+      "Bibliographie et matériel":"A. Quarteroni et F. Saleri : « Calcul Scientifique : Cours, exercices corrigés et illustrations en MATLAB et OCTAVE », Springer, 2006, ISBN 978-88-470-0487-0.[br/]A. Quarteroni et F. Saleri : « Scientific Computing with MATLAB and OCTAVE », Springer, 2006, ISBN 978-3-540-32612-0.[br/]A. Quarteroni, R. Sacco et F. Saleri : « Méthodes Numériques - Algorithmes, analyse et applications », Springer, 2007, ISBN 978-88-470-0495-5.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe et sur ordinateur",
+      "Contenu":"-\tStabilité, conditionnement et convergence de problèmes numériques.[br/]-\tApproximation polynomiale par interpolation et moindres carrés.[br/]-\tIntégration numérique.[br/]-\tMéthodes directes pour la résolution de systèmes linéaires.[br/]-\tMéthodes itératives pour systèmes d'équations linéaires et non linéaires.[br/]-\tÉquations différentielles ordinaires.[br/]-\tProblèmes aux limites monodimensionnels traités par différences finies et éléments finis.[br/]-\tIntroduction à l'utilisation du logiciel MATLAB/OCTAVE.",
+      "Forme du contrôle":"L'examen pourrait prévoir l'utilisation d'un ordinateur et du logiciel MATLAB/OCTAVE.",
+      "Objectifs d'apprentissage":"L'étudiant apprendra à résoudre numériquement divers problèmes mathématiques susceptibles de se poser aux ingénieurs et à discuter la valeur des algorithmes proposés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse numérique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1675-0&amp;con_lng=FRE\" target=\"blank\">Calcul scientifique : cours, exercices corrigés et illustrations en MATLAB et Octave / by Alfio Quarteroni, Paola Gervasio, Fausto Saleri</a>\". Année:2010. ISBN:978-88-470-1675-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-0495-5&amp;con_lng=FRE\" target=\"blank\">Méthodes numériques : algorithmes, analyse et applications / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Année:2007. ISBN:978-88-470-0495-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-12429-7&amp;con_lng=FRE\" target=\"blank\">Scientific computing with MATLAB and Octave / Alfio Quarteroni, Fausto Saleri, Paola Gervasio</a>\". Année:2010. ISBN:978-3-642-12429-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

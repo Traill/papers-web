@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=168658767&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","700"],
+    "title":"Advanced electroanalytical chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=168658767&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Electroanalytical methods : Theory and Practice [br/]",
+      "Content":"1. Electrochemistry at soft interfaces : Theory of ion transfer reactions, theory of heterogene-ous electron transfer reactions[br/]2. Advanced voltammetry: Theory of cyclic voltammetry for thin layer and electrocatalytic re-actions, superposition theorem, pulsed techniques, e.g square wave voltammetry, differential pulse voltametry.[br/]3. Electrochemical sensor design: Surface tomoscopy and contactless electrochemical methods[br/]                                          4 half-days of experimental work:[br/][br/]1. Microelectrode studies[br/]2. Scanning Electrochemical microscope[br/]3. Pulse voltammetry[br/]4. Impedance spectroscopy[br/]",
+      "Keywords":"Voltametry, Amperometry, Electrochemical Sensors[br/]",
+      "Note":"Textbook recommended: \"Analytical and Physical Electrochemistry\" by H.H. Girault, EPFL Press, 2004.[br/]",
+      "Required prior knowledge":"Fundamental  electrochemistry"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced electroanalytical chemistry",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Textbook recommended: \"Analytical and Physical Electrochemistry\" by H.H. Girault, EPFL Press, 2004.",
+      "Contenu":"1. Electrochemistry at soft interfaces : Theory of ion transfer reactions, theory of heterogene-ous electron transfer reactions[br/]2. Advanced voltammetry: Theory of cyclic voltammetry for thin layer and electrocatalytic re-actions, superposition theorem, pulsed techniques, e.g square wave voltammetry, differential pulse voltametry.[br/]3. Electrochemical sensor design: Surface tomoscopy and contactless electrochemical methods[br/]                                          4 half-days of experimental work:[br/][br/]1. Microelectrode studies[br/]2. Scanning Electrochemical microscope[br/]3. Pulse voltammetry[br/]4. Impedance spectroscopy",
+      "Mots clés":"Voltametry, Amperometry, Electrochemical Sensors",
+      "Prérequis":"Fundamental  electrochemistry",
+      "Objectifs d'apprentissage":"Electroanalytical methods : Theory and Practice "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced electroanalytical chemistry",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

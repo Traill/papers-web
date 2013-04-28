@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71629989&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","473"],
+    "title":"Materials for sport",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71629989&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105745",
+      "name":"Månson Jan-Anders"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to apply basic engineering knowledge to the analysis of the performance of sports equipment and the development of new materials. An understanding of the factors that limit performance is provided from a theoretical and a practical point of view.[br/]Part of the course will be devoted to group works to define requirements and production set-ups for selected sport equipments. [br/]",
+      "Content":"The course is divided into chapters corresponding to the major classes of sport. Each chapter starts with a historical presentation of the evolution of the sport and its equipment, which serves to introduce the factors that limit today's performances. Part of the chapter then addresses materials selection, design selection and the associated processing techniques. Finally, specific research examples are given to help the student understand the modern approach to innovative sports equipment manufacture.[br/]An illustration is thus provided of the importance of materials for a wide range of phenomena including specific strength, energy management and transmission, and vibration absorption, as well as the physiology of the human body. [br/]Examples analysed in the course are racket sports, cycling, underwater sports, mechanical sports, winter sports, track and field, etc.[br/]",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"written exam",
+      "Required prior knowledge":"Basic knowledge in materials sciences"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Materials for sport",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105745",
+      "name":"Månson Jan-Anders"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Connaissance de base en sciences des matériaux",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Le cours est divisé en chapitres qui présentent des familles de sports. Chaque chapitre contient une partie historique présentant l'évolution du sport et de son équipement afin d'introduire les paramètres qui représentent aujourd'hui les facteurs limitant de la performance. Une partie des chapitres est consacrée au choix des matériaux, au choix du design et aux techniques de mise en oeuvre. Des exemples de recherche permettent de comprendre l'approche moderne proposée pour la confection de nouveaux articles de sports.[br/]Ce cours illustre l'importance des matériaux sur des phénomènes comme la résistance spécifique, la gestion et la transmission d'énergie, l'amortissement des vibrations et la physiologie du corps humain.[br/]Les exemples traités sont les sports de raquettes, les sports cyclistes, les sports subaquatiques, les sports mécaniques, les sports de neige, etc.",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Le but de ce cours est d'utiliser les connaissances de base de l'ingénieur, pour analyser la performance des équipements sportifs et le développement des nouveaux matériaux. Les facteurs limitant la performance serons traités d'un point de vue théorique et pratique.[br/]Une partie du cours sera consacrée à des travaux de groupes pour définir les cahiers des charges et l'organisation de la production pour des équipements sportifs choisis. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Materials for sport",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

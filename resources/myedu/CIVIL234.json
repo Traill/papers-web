@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227318424&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","234"],
+    "title":"Concrete structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227318424&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166236",
+      "name":"Fernández Ruiz Miguel"
+    },{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"During semester",
+      "Prerequisite for":"Structures en béton chap. Choisis, Ponts en béton",
+      "Required prior knowledge":"Mécanique des structures I, Statique et Mécanique des milieux continues (for GC)",
+      "Content":"[i]Introduction and basis of design[/i][br/][br/][i]Mechanical behaviour of steel and concrete[/i][br/][br/][i]Ties and tension chords[/i][br/]-\tbehaviour of reinforced concrete ties[br/]-\tcracking, deformation and design[br/][br/][i]Columns and compression chords[/i][br/]-\tbehaviour of concrete in compression, confinement[br/]-\tbehaviour of reinforced concrete columns[br/][br/][i]Beams and columns in bending[/i][br/]-\tbehaviour in bending: uncracked, cracked and plastic[br/]-\tdesign through M-N interaction diagrams[br/]-\tserviceability limit state[br/][br/][i]Beams in shear[/i][br/]-\tstress field approach[br/]-\tdesign and assessment[br/][br/][i]Slabs[/i][br/]-\tTypes, load carrying mechanisms[br/]-\tElastic and plastic approaches[br/]-\tStrip method[br/]-\tYield line method[br/]-\tShear in slabs without transverse reinforcement[br/]-\tPunching shear with and without transverse reinforcement[br/]",
+      "Type of teaching":"Courses ex cathedra and exercices",
+      "Learning outcomes":"To understand the behaviour and principles for design of structural concrete members.[br/][br/]To be able to design most common concrete members (buildings, retaining walls, garages,...)[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Concrete structures",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7643-5491-7&amp;con_lng=ENG\" target=\"blank\">Design of concrete structures with stress fields / A. Muttoni, J. Schwartz, B. Thürlimann</a>\". Year:1997. ISBN:3-7643-5491-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-330-3&amp;con_lng=ENG\" target=\"blank\">Dimensionnement des structures en béton : aptitude au service et éléments de structures / Renaud Favre ... [et al.]</a>\". Year:2004. ISBN:2-88074-330-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166236",
+      "name":"Fernández Ruiz Miguel"
+    },{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique des structures I, Statique et Mécanique des milieux continus (pour GC)",
+      "Bibliographie et matériel":"Polycopié béton armé[br/]Livre \"Design of Concrete Structures with Stress Fields\", A. Muttoni, J. Schwartz, B. Thürlimann, Birkhäuser, 1997[br/]Traité du Génie Civil vol. 8, R. Favre, J.-P. Jaccoud, O. Burdet, H. Charif, PPUR 1997",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe",
+      "Contenu":"[i]Introduction et bases du dimensionnement[/i][br/][br/][i]Comportement mécanique de l'acier d'armature et du béton[/i][br/][br/][i]Tirants et zones tendues[/i][br/]-\tmode de fonctionnement de tirants en béton armé [br/]-\tfissuration, déformation et dimensionnement [br/][br/][i]Colonnes et zones comprimées[/i][br/]-\tcomportement du béton armé à la compression, frettage [br/]-\tcomportement des colonnes en béton armé [br/][br/][i]Poutres et colonnes fléchies[/i][br/]-\tbases de la flexion comportement non fissuré, fissuré et plastique [br/]-\tdimensionnement et vérification diagrammes d'interaction M-N [br/]-\tcomportement à l'état limite de service[br/][br/][i]Poutres soumises à l'effort tranchant[/i][br/]-\tmodèle basé sur les champs de contraintes [br/]-\tdimensionnement et vérification[br/][br/][i]Dalles[/i][br/]-\tTypes de dalles, mode de fonctionnement [br/]-\tApproches élastiques et approches plastiques [br/]-\tMéthode des bandes [br/]-\tMéthode des lignes de rupture [br/]-\tEffort tranchant des dalles sans armature transversale[br/]-\tPoinçonnement sans et avec armature transversale[br/][br/][i]Stabilité des colonnes[/i][br/]",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Structures en béton, chap. choisis, Ponts en béton",
+      "Objectifs d'apprentissage":"Comprendre le comportement et les principes de dimensionnement des éléments de structure en béton armé.[br/][br/]Être capable de concevoir et de dimensionner les éléments constitutifs des structures en béton les plus courantes : halles, bâtiments, murs de soutènement, etc."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures en béton",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7643-5491-7&amp;con_lng=FRE\" target=\"blank\">Design of concrete structures with stress fields / A. Muttoni, J. Schwartz, B. Thürlimann</a>\". Année:1997. ISBN:3-7643-5491-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-330-3&amp;con_lng=FRE\" target=\"blank\">Dimensionnement des structures en béton : aptitude au service et éléments de structures / Renaud Favre ... [et al.]</a>\". Année:2004. ISBN:2-88074-330-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

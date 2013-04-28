@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776627&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","300"],
+    "title":"Vibrational systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776627&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105416",
+      "name":"Hongler Max-Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Vibrations being very common in engineering practice, this course aims at giving some basics of the physical phenomena and of mathematical modeling and analytical treatment of the dynamics of mechatronic systems.[br/][br/]The connections to electrical engineering, numerical modeling and automatic control are highlighted with the purpose of opening up the mind to a transdisciplinary point of view.",
+      "Content":"Simple Oscillator (one degree-of-freedom d.o.f.)[br/]Simple continuous examples (infinity of d.o.f., wave propagation, eigenfrequencies, mode shapes)[br/]Mass and stiffness matrices of multi-d.o.f. systems[br/]Analysis of stability, eigenmodes, modal coordinates.[br/]State representation. [br/]Frequency domain. [br/]Rotor modeling, simulation.[br/]A glimpse of nonlinear effects (limit cycles, chaotic systems).[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Vibrational systems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-301-X&amp;con_lng=ENG\" target=\"blank\">Conception des machines : principes et applications. Vol. 1 : Statique / Georges Spinnler</a>\". Year:2002. ISBN:2-88074-301-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-302-8&amp;con_lng=ENG\" target=\"blank\">Conception des machines : principes et applications. Vol. 2 : Dynamique / Georges Spinnler</a>\". Year:2001. ISBN:2-88074-302-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105416",
+      "name":"Hongler Max-Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Blocs 1 et 2",
+      "Bibliographie et matériel":"polycopié, PPUR Georges Spinnler Conception des machines, vol. 1 Statique, vol. 2 Dynamique",
+      "Forme d'enseignement":"ex cathedra avec exercices étroitement liés au cours",
+      "Contenu":"Oscillateur à un degré de liberté (ddl)[br/]Systèmes continus simples (nombre infini de ddl, fréquences propres, modes propres, propagation d'ondes)[br/]Matrices de masse et de rigidité pour systèmes à nombre fini de ddl.[br/]Analyse du comportement à partir des équations différentielles, stabilité. Solutions propres, interprétation des vecteurs propres, coordonnées normales; Découplage.[br/]Représentation par variables d'états, matrice fondamentale, solution générale, réponse indicielle.[br/]Réponse complexe en fréquence.[br/]Exemple d'application: rotor [br/]Logiciels de simulation[br/]Quelques effets non-linéaires (cycles limites, systèmes chaotiques).",
+      "Préparation pour":"Robotique/Microrobotique, Automatique ",
+      "Objectifs d'apprentissage":"Les vibrations étant très répandues dans la pratique de l'ingénieur, ce cours vise à donner les notions de base nécessaires à une compréhension du phénomène physique, à la modélisation, l'analyse et à des aspects de synthèse de systèmes dynamiques mécatroniques tels qu'ils se présentent souvent en microtechnique. [br/][br/]Ce cours de base très pluridisciplinaire se fonde sur les mathématiques (analyse et algèbre linéaire) et la mécanique, mais inclut également des concepts de systèmes électriques et surtout de modélisation en automatique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes vibratoires",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-301-X&amp;con_lng=FRE\" target=\"blank\">Conception des machines : principes et applications. Vol. 1 : Statique / Georges Spinnler</a>\". Année:2002. ISBN:2-88074-301-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-302-8&amp;con_lng=FRE\" target=\"blank\">Conception des machines : principes et applications. Vol. 2 : Dynamique / Georges Spinnler</a>\". Année:2001. ISBN:2-88074-302-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

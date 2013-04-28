@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71646415&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","350"],
+    "title":"Graph theory applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71646415&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://arni.epfl.ch","http://arni.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/124369",
+      "name":"Urbanke Rüdiger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Homeworks  and written mid-term and final exams",
+      "Bibliography and material":"Book: Graph Theory with Applications by J.A. Bondy and U.S.R. Murty[br/]Lecture Notes (supplementary)",
+      "Required prior knowledge":"Basic Linear Algebra",
+      "Content":"The class will cover topics such as:[br/]- Introduction to basic concepts in graph theory[br/]- Job scheduling and graph coloring[br/]- Network routing and graph connectivity[br/]- Labyrinths and Eulerian paths[br/]- Archeological data and trees[br/]- VLSI design and planar graphs[br/]- Internet routers and bipartite graphs[br/]- Wireless Networks and geometric graphs [br/]",
+      "Type of teaching":"Ex-cathedra lectures (in English).  [br/]Two hours exercises/week.  Homeworks.",
+      "Learning outcomes":"The objective of this class is to teach students[br/]to recognize graph theory related problems, that is,  express computer science and communication problems in graph theory \"language\", and then apply existing tools towards their solution.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Graph theory applications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-84628-969-9&amp;con_lng=ENG\" target=\"blank\">Graph theory / J.A. Bondy, U.S.R. Murty</a>\". Year:2008. ISBN:978-1-84628-969-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://arni.epfl.ch","http://arni.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/124369",
+      "name":"Urbanke Rüdiger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire de base",
+      "Bibliographie et matériel":"Book: Graph Theory with Applications by J.A. Bondy and U.S.R. Murty - Lecture Notes (supplementary)",
+      "Forme d'enseignement":"Ex-cathedra (en anglais).  Deux heures exercices/semaine.  [br/]Devoirs.",
+      "Contenu":"Le cours va couvrir les sujets suivants:[br/]- Introduction des concepts de base de la théorie des graphes[br/]- Ordonnement et  coloration des graphes[br/]- Routage de réseau et degré des graphes[br/]- Labyrinthes et les chemins eulériens[br/]- Données archéologiques et les arbres[br/]- Conception de VLSI et les graphes planaires[br/]- Routeurs d'Internet et les graphes bipartites[br/]- Les réseaux sans fils et les graphes géométriques[br/]",
+      "Forme du contrôle":"Devoirs, examen écrit intermédiaire et examen écrit final ",
+      "Objectifs d'apprentissage":"Le but de ce cours est d'apprendre à reconnaître les problèmes reliées à la théorie des graphes. C'est-à-dire, d'exprimer les problèmes de l'informatique ou de la communication dans la \"langue\" de la théorie des graphes et ensuite d'appliquer les outils existants pour résoudre ces problèmes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Graph theory applications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-84628-969-9&amp;con_lng=FRE\" target=\"blank\">Graph theory / J.A. Bondy, U.S.R. Murty</a>\". Année:2008. ISBN:978-1-84628-969-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

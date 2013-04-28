@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129200374&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","609"],
+    "title":"Research Seminar in Computer and Communication Sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129200374&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To become acquainted with the research projects offered by the labs that participate in EDIC[br/]",
+      "Content":"Every week a different lab will give an introduction to its current research projects[br/]",
+      "Note":"Attendance to all sessions mandatory to get the credit[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Research Seminar in Computer and Communication Sciences",
+    "recitation":null,
+    "exam_form":"Autre (reprise)",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Attendance to all sessions mandatory to get the credit[br/]",
+      "Contenu":"Every week a different lab will give an introduction to its current research projects",
+      "Objectifs d'apprentissage":"To become acquainted with the research projects offered by the labs that participate in EDIC[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Research Seminar in Computer and Communication Sciences",
+    "recitation":null,
+    "exam_form":"Autre (reprise)",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

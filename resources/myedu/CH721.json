@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80627503&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","721"],
+    "title":"Synthesis and formulation of advanced materials with complex fluids",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80627503&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109857",
+      "name":"Stora Thierry"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Complex fluids, such as liquid crystals or emulsions, as opposed to molecular fluids, display supramolecular structures from nanometric to micrometric scales. Liquid crystals and emulsions can be considered as an integral chapter of the soft-condensed matter physics, with recent theories that have been developed to understand the fabrication processes, flow properties, stability and ageing of these formulations.[br/][br/]This course will cover the latest scientific developments on emulsions and complex fluids and will show how these can be used to develop advanced organic and inorganic materials. Examples of applications will be taken from international chemical companies and from CERN (European Organization for Nuclear Research), an international organization at the forefront of many different scientific/technical innovations. Concrete examples of the development and application of innovative nanomaterials will finally be provided.     [br/]",
+      "Content":"[li] General introduction and recent theoretical developments on complex fluids (emulsions, phases diagram, flocculation, interaction potential, polymers surfactants or solid particles as stabilization agents, simple double or nano-emulsions, optical properties, flow properties)[br/][li] Experimental techniques (light and electron microscopy, light diffusion, X-ray and Neutron scattering, rheology, NMR)[br/][li] Illustration with recent examples of the scientific litterature and industrial products[br/][li] Development of a formulation/material from a R&D laboratory to its industrial production, and aspects related to its patent application     [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Synthesis and formulation of advanced materials with complex fluids",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109857",
+      "name":"Stora Thierry"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] General introduction and recent theoretical developments on complex fluids (emulsions, phases diagram, flocculation, interaction potential, polymers surfactants or solid particles as stabilization agents, simple double or nano-emulsions, optical properties, flow properties)[br/][li] Experimental techniques (light and electron microscopy, light diffusion, X-ray and Neutron scattering, rheology, NMR)[br/][li] Illustration with recent examples of the scientific litterature and industrial products[br/][li] Development of a formulation/material from a R&D laboratory to its industrial production, and aspects related to its patent application     [br/]",
+      "Objectifs d'apprentissage":"Complex fluids, such as liquid crystals or emulsions, as opposed to molecular fluids, display supramolecular structures from nanometric to micrometric scales. Liquid crystals and emulsions can be considered as an integral chapter of the soft-condensed matter physics, with recent theories that have been developed to understand the fabrication processes, flow properties, stability and ageing of these formulations.[br/][br/]This course will cover the latest scientific developments on emulsions and complex fluids and will show how these can be used to develop advanced organic and inorganic materials. Examples of applications will be taken from international chemical companies and from CERN (European Organization for Nuclear Research), an international organization at the forefront of many different scientific/technical innovations. Concrete examples of the development and application of innovative nanomaterials will finally be provided.     [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Synthesis and formulation of advanced materials with complex fluids",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

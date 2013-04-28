@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1531486340&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","705"],
+    "title":"Experimental Geomechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1531486340&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178175",
+      "name":"Ferrari Alessio"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"1. \tIntroduction[br/]2. \tFundamentals of data acquisition[br/]3. \tMicrostructural investigation of porous materials[br/]4. \tTesting geomaterials in partially saturated conditions[br/]4.1 \tAn insight into the \"suction\" concept[br/]4.2 \tExperimental methods to measure suction[br/]4.3  \tTechniques for suction control (liquid and vapour transfer)[br/]4.4\tAssessment of volume change[br/]4.5 \tHydro-Mechanical apparatuses[br/]5.   \tNon iso-thermal testing of geomaterials[br/]5.1 \tTechniques for temperature measurement and control[br/]5.2\tEffects of temperature on measurements[br/]5.3\tThermo-Hydro-Mechanical testing facilities[br/]6.\tSelected topics [br/]",
+      "Required prior knowledge":"Prior knowledge in Soil Mechanics is mandatory"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Experimental Geomechanics",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178175",
+      "name":"Ferrari Alessio"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Experimental Geomechanics",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  }
+}

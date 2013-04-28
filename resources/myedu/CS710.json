@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017280&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","710"],
+    "title":"Parallel and Distributed Query Processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017280&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177957",
+      "name":"Ailamaki Anastasia"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Note":"This course is designed for MS or PhD students with an interest in database management.",
+      "Form of examination":"Project report[br/]Oral presentation",
+      "Required prior knowledge":"Database management systems (undergraduate level), computer architecture (undergraduate level), data structures and algorithms",
+      "Content":"In this year's class we will discuss the latest and hottest topics in database research in conjuction with past yet related research. This includes the following topics: [br/]. distributed query processing[br/]. parallel query engines[br/]. networking topologies in parallel data management systems[br/]. cache awareness in parallel data management systems[br/]The course will include student presentations, weekly readings, discussions, student reviews and reports on publications of seminal and recent contributions to the field of database management systems. There will also be a choice of a project. Because this is a doctoral-level course, feedback on performance will be given only upon request by a student, and there will be no recitation classes.     [br/]",
+      "Keywords":"data management, database, parallel query execution, distributed query processing, pipelining, multicore, multithreading",
+      "Learning outcomes":"Database systems today are more ubiquitous than ever. With the explosion of information, new requirements for fast and reliable data management have emerged and database systems not only support the backend of most Internet applications but are also at the heart of many large-scale scientific experiments. Managing terabytes of information is now routine, petabytes a frequent necessity, and exabytes are around the corner. [br/]All of the above open new horizons for research on database system design and performance; we often need to revisit past research in order to indentify the bridge between past and today's problems and to understand which problems of today are closely related to past yet conceptually similar problems.[br/]This course presents past and new topics in Distributed and Parallel Query Processing, bridging the research problems and approaches thoughout the last three decades of research in data management. [br/]The course is intended for students who (a) have taken database courses before and want to know what is new and sizzling in the database community and bridge it with past milestone research works; or (b) are looking for a Ph.D. topic; or (c) are already involved in a project that needs database expertise, and want to learn more about it. The course is discussion-based, and aims to be an inspiration to researchers who are looking for new revolutionary ways to advance science technology."
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Parallel and Distributed Query Processing",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177957",
+      "name":"Ailamaki Anastasia"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Parallel and Distributed Query Processing",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

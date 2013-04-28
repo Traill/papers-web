@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=158989710&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","111(d)"],
+    "title":"Algèbre linéaire (pour GM)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=158989710&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189915",
+      "name":"Abdulle Assyr"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Learn the techniques of matrix algebra, be able to execute the corresponding mathematical manipulations and to apply these techniques in problems connected to one's specialization area.[br/][br/]The student will have to master the tools necessary to the resolution of problems connected to linearity, orthogonality and matrix diagonalization.",
+      "Content":"[li]\tSystems of linear equations[br/][li]\tMatrix Algebra[br/][li]\tDeterminants[br/][li]\tVector Spaces[br/][li]\tEigenvalues and eigenvectors[br/][li]\tOrthogonality and least-squares[br/][li]\tSymmetric matrices and quadratic forms",
+      "Type of teaching":"Ex cathedra lecture, exercises in classroom"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre linéaire (pour GM)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-616-7&amp;con_lng=ENG\" target=\"blank\">Algèbre linéaire : aide-mémoire, exercices et applications / Robert C. Dalang, Amel Chaabouni</a>\". Year:2004. ISBN:2-88074-616-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=ENG\" target=\"blank\">Algèbre linéaire : théorie, exercices et applications / David C. Lay</a>\". Year:2004. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-779-4&amp;con_lng=ENG\" target=\"blank\">Bien commencer ses études scientifiques : savoir-faire en maths / Yves Biollay, Amel Chaabouni, Joachim Stubbe</a>\". Year:2008. ISBN:978-2-88074-779-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-45821-1&amp;con_lng=ENG\" target=\"blank\">Elementary linear algebra / Howard Anton</a>\". Year:2010. ISBN:978-0-470-45821-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-43329-3&amp;con_lng=ENG\" target=\"blank\">Elementary linear algebra with applications : student solutions manual / Howard Anton, Chris Rorres ; prepared by Christine Black ... [et al.]</a>\". Year:2005. ISBN:978-0-471-43329-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-62335-5&amp;con_lng=ENG\" target=\"blank\">Linear algebra and its applications / David C. Lay</a>\". Year:2012. ISBN:978-0-321-62335-5</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189915",
+      "name":"Abdulle Assyr"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe",
+      "Contenu":"[li]\tSystèmes d'équations linéaires[br/][li]\tCalcul matriciel[br/][li]\tDéterminants[br/][li]\tEspaces vectoriels[br/][li]\tValeurs et vecteurs propres[br/][li]\tOrthogonalité et moindres carrés[br/][li]\tMatrices symétriques et formes quadratiques",
+      "Bibliographie et matériel":"Manuels recommandés :[br/][br/]Linear Algebra and its Applications, D.C. Lay, 3rd edition (or updated 2nd edition) Addison-Wesley.[br/]Algèbre Linéaire, Théorie exercices et applications D.C. Lay, traduction 3e édition, De Boeck et Larcier.[br/]\"Savoir-faire en mathématiques\", Y. Biollay, A. Chaabouni et J. Stubbe, PPUR.[br/][br/]On peut aussi consulter :[br/][br/]Algèbre linéaire : Aide mémoire, Exercices et Applications par R. Dalang et A. Chaabouni, PPUR Deuxième édition 2004.[br/]Elementary Linear Algebra with Applications par H. Anton et C. Rorres, John Wiley & Sons, neuvième édition 2003.",
+      "Objectifs d'apprentissage":"Apprendre les éléments de l'algèbre linéaire et les techniques du calcul matriciel. Etre apte à effectuer les manipulations mathématiques correspondantes et être capable d'appliquer ces techniques dans des problèmes issus de son domaine de spécialisation.[br/][br/]L'étudiant devra maîtriser les notions nécessaires à la résolution des problèmes liés à la linéarité, à l'orthogonalité et à la diagonalisation des matrices."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre linéaire (pour GM)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-616-7&amp;con_lng=FRE\" target=\"blank\">Algèbre linéaire : aide-mémoire, exercices et applications / Robert C. Dalang, Amel Chaabouni</a>\". Année:2004. ISBN:2-88074-616-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=FRE\" target=\"blank\">Algèbre linéaire : théorie, exercices et applications / David C. Lay</a>\". Année:2004. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-779-4&amp;con_lng=FRE\" target=\"blank\">Bien commencer ses études scientifiques : savoir-faire en maths / Yves Biollay, Amel Chaabouni, Joachim Stubbe</a>\". Année:2008. ISBN:978-2-88074-779-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-45821-1&amp;con_lng=FRE\" target=\"blank\">Elementary linear algebra / Howard Anton</a>\". Année:2010. ISBN:978-0-470-45821-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-43329-3&amp;con_lng=FRE\" target=\"blank\">Elementary linear algebra with applications : student solutions manual / Howard Anton, Chris Rorres ; prepared by Christine Black ... [et al.]</a>\". Année:2005. ISBN:978-0-471-43329-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-62335-5&amp;con_lng=FRE\" target=\"blank\">Linear algebra and its applications / David C. Lay</a>\". Année:2012. ISBN:978-0-321-62335-5</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

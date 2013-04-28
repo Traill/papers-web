@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838973065&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","103"],
+    "title":"Technology and practice of materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838973065&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    },{
+      "url":"http://people.epfl.ch/101178",
+      "name":"Drezet Jean-Marie"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[b]Technology of materials[/b] [br/]The main objective is to introduce the different aspects of materials in the industrial environment. The importance of materials science and engineering is described with real case studies. The technology specific to each material type is presented. The role of the engineer is thus described.[br/]The use of materials science in industry requires basic knowledge in[br/]chemistry, physics, mechanics...The links between these fields and the profession of engineer in materials science are presented.[br/][br/][br/][br/][br/][b]Materials laboratory work[/b][br/]To assimilate the general concepts of the Materials Science.[br/]To distinguish the microstructural features of the material classes[br/]To know the physical and mechanical behaviour of the materials[br/]To improve the redaction of reports[br/][br/][br/]",
+      "Content":" [b]Technology of materials[/b][br/]- Introduction to the importance of education for the future mission of an engineer. Advices for search and report writing.[br/]- Technology of Metals, Polymers,Ceramics,Composites and Powders[br/]- Team project on all tasks of an engineers linked to the life of a product[br/][br/][br/][br/] [b]Materials laboratory work[/b] (examples)[br/]- Hot deformation of metals (TP Forging)[br/]- Steel thermal treatment and Jominy test (TP Thermal treatment and Jominy test)[br/]- Phase diagram of aluminium alloys (TP Phase diagram)[br/]- Crystallography (atomic structure) (TP Crystallography)[br/]- Optical observation (TP Microstructures)[br/]- Tensile behaviour of materials (TP Mechanical behaviour)[br/]- Deformation under shock (TP Resilience)[br/]- Precipitation hardening of an aluminium alloy (TP Precipitation hardening)[br/]- Materials design (cases with Ashby's programme)[br/][br/]",
+      "Type of teaching":"Ex cathedra[br/]Team work and presentation[br/]",
+      "Required prior knowledge":"Introduction to materials science"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Technology and practice of materials",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    },{
+      "url":"http://people.epfl.ch/101178",
+      "name":"Drezet Jean-Marie"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra[br/]Travaux de groupe et exposés[br/]",
+      "Contenu":"[b]Technologie des matériaux[/b][br/]- Introduction au rôle de l'ingénieur, importance de la formation, conseils pour la recherche d'information et la rédaction de rapports scientifiques.[br/]- La technologie des différentes classes de matériaux.[br/]- Projets de groupe sur toutes les activités d'un ingénieur liées à la vie d'un produit[br/][br/][b]Pratique des matériaux[/b] (exemples de TP)[br/]- Déformation à chaud des métaux (TP Forgeage)[br/]- Traitement thermique des aciers et essai Jominy (TP Traitement thermique et essai Jominy)[br/]- Diagramme de phase d'alliages d'aluminium (TP Diagramme de Phase)[br/]- Cristallographie et structure atomique (TP Cristallographie)[br/]- Observation optique (TP Microstructures)[br/]- Comportement des matériaux en traction (TP Traction)[br/]- Déformation sous choc (TP résilience)[br/]- Durcissement par précipitation d'un alliage d'aluminium (TP Durcissement par précipitation).[br/]- Sélection des matériaux (cas avec le programme de Ashby)[br/]",
+      "Prérequis":"Introduction à la science des matériaux",
+      "Objectifs d'apprentissage":"[b]Technologie des matériaux[/b][br/]L'objectif du cours est d'offrir une introduction à l'utilisation industrielle des matériaux et au métier d'ingénieur. L'importance de la technologie des matériaux dans le milieu industriel et son évolution seront discutées et illustrées par des exemples concrets. Les spécificités technologiques relatives aux différentes classes des matériaux seront soulevées par des membres de l'institut. Le rôle de l'ingénieur en matériaux dans le milieu industriel sera ainsi décrit.[br/]L'application industrielle de la science des matériaux requiert certaines connaissances en sciences de base. Les liens entre les cours du premier cycle et la profession d'ingénieur en sciences des matériaux seront mis en exergue.[br/][br/][b]Pratique des matériaux[/b][br/]Assimiler les concepts généraux qui sont à la base de la science des matériaux.[br/]Savoir distinguer les particularités microstructurales des classes de matériaux, savoir interpréter les diagrammes de phase et connaître le comportement physico-chimique et mécanique des matériaux.[br/]Perfectionner la capacité de rédaction d'un rapport. [br/]"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Technologie et pratique des matériaux",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

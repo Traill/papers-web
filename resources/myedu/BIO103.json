@@ -1,0 +1,124 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772025&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","103"],
+    "title":"Biology I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772025&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[["http://www.campbellbiology.com/","http://www.campbellbiology.com/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185233",
+      "name":"Auwerx Johan"
+    },{
+      "url":"http://people.epfl.ch/169115",
+      "name":"Brisken Cathrin"
+    },{
+      "url":"http://people.epfl.ch/141236",
+      "name":"Duboule Denis"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    },{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    },{
+      "url":"http://people.epfl.ch/170716",
+      "name":"Schorderet Daniel Francis"
+    },{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To provide students with a general overview of the Life Science.",
+      "Content":"General introduction to the basics of Biology.[br/][br/][b]Unit 1, \"Molecules of life\" (Radtke):[/b] sugars, amino acids, fatty acids, nucleic acids, DNA, RNA, membranes, proteins, ...[br/][b]Unit 2, \"The Cell\" (Auwerx):[/b] introduction to metabolism, cellular respiration, photosynthesis, cell communication, ...[br/][b]Unit 3, \"Genetics\" (Schorderet and Brisken):[/b] mitosis, meiosis, chromosomes, genetics, genes, genomes, ..."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biology I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73975-9&amp;con_lng=ENG\" target=\"blank\">Campbell biology / Jane B. Reece ... [et al.]</a>\". Year:2011. ISBN:978-0-321-73975-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-50156-1&amp;con_lng=ENG\" target=\"blank\">Student study guide for Biology, Campbell - Reece / Martha R. Taylor</a>\". Year:2008. ISBN:978-0-321-50156-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[["http://www.campbellbiology.com/","http://www.campbellbiology.com/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185233",
+      "name":"Auwerx Johan"
+    },{
+      "url":"http://people.epfl.ch/169115",
+      "name":"Brisken Cathrin"
+    },{
+      "url":"http://people.epfl.ch/141236",
+      "name":"Duboule Denis"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    },{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    },{
+      "url":"http://people.epfl.ch/170716",
+      "name":"Schorderet Daniel Francis"
+    },{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"L'étudiant apprendra à travers ce cours annuel à mieux situer les différents maillons de l'organisation du vivant et à utiliser les notions acquises pour mieux pouvoir poser  dans la suite de ses études les questions relevantes de cette discipline complexe",
+      "Prérequis":"Aucun",
+      "Bibliographie et matériel":"Biology, 8th ed., Campbell[br/]Chapters 4-8 (Unit 1), 8-11 (Unit 2), 13-21 (Unit 3)",
+      "Mots clés":"Biologie générale, mise à niveau, développer un capacité de lecture",
+      "Forme d'enseignement":"Unité 1 et 3: cours ex cathedra (2 heures), exercices (1 heure)[br/]Unité 2: cours ex cathedra (3 heures)",
+      "Contenu":"Introduction générale aux notions et questions de base en Biologie[br/][br/][b]Unité 1, \"Molécules du vivant\" (Radtke): [/b]sucres, acides aminés, acides gras, acides nucléiques, ADN, ARN, membranes, protéines, ...[br/][b]Unité 2, \"La Cellule\" (Auwerx): [/b]introduction au métabolisme, respiration cellulaire, photosynthèse, communication cellulaire, ...[br/][b]Unité 3, \"Génétique\" (Schorderet et Brisken): [/b]mitose, méiose, chromosomes, génétique, gènes, génomes,...",
+      "Forme du contrôle":"Contrôles continus pendant le semestre",
+      "Préparation pour":"Biologie II, Biologie cellulaire et moléculaire I, cycle bachelor",
+      "Objectifs d'apprentissage":"Donner aux étudiants une vue globale des Sciences de la Vie, développer une capacité de lecture et d'intérêt pour l'approche des questions essentielles en sciences de la vie"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73975-9&amp;con_lng=FRE\" target=\"blank\">Campbell biology / Jane B. Reece ... [et al.]</a>\". Année:2011. ISBN:978-0-321-73975-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-50156-1&amp;con_lng=FRE\" target=\"blank\">Student study guide for Biology, Campbell - Reece / Martha R. Taylor</a>\". Année:2008. ISBN:978-0-321-50156-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

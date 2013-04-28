@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228383796&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","551"],
+    "title":"Engines and fuel cells",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228383796&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111369",
+      "name":"Gafner Irwin"
+    },{
+      "url":"http://people.epfl.ch/107971",
+      "name":"Van Herle Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Draw 1 question each from engines and from fuel cells, prepare for 30 min. Oral defense 15 min each for engines and for fuel cells.",
+      "Required prior knowledge":"[li]Master the concepts of mass, energy, and momentum balance, E1 (Thermodynamique et énergétique I)[br/][li]Compute the thermodynamic properties of a fluid, E2 (Thermodynamique et énergétique I)[br/][li]Master the concepts of heat and mass transfer, E3 (Heat and mass transfer)[br/][li]Understand the main thermodynamic cycles, E5 (Thermodynamique et énergétique I)",
+      "Content":"Operation principles, Mechanical (kinematics, dynamics) and thermodynamic principles (ideal cycles), Diesel and spark ignition engines (combustion process, load regulation, noise analysis and prevention, electronics regulation, supercharging), Characterization of combustion gases, pollutant formation, Means and methods of emissions reduction, Modeling (cycle modeling, time dependant combustion, sub-systems modeling), New concepts: hybrids systems, downsizing, direct injection, discussion.[br/]Construction and architecture of fuel cell families, for application at ambient and high temperature. Operating principles, thermodynamics and kinetics. Advantages and challenges, highlighting the efficiency (electrical, cogeneration, part-load). Fuel choice and fuel treatment (hydrogen, hydrocarbons). Aspects of modeling in fuel cells. Exercices with numerical exemples.",
+      "Keywords":"Efficiency, cycles, emissions, modeling",
+      "Type of teaching":"Ex cathedra with frequent questions. Resolved exercices.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Compute the main thermodynamic transformations of compressible and incompressible fluids, E4[br/][li]Understand the main thermodynamic cycles, E5[br/][li]Master the concepts of thermodynamic efficiency, E6[br/][li]Calculate fluid flows in energy conversion systems, compute pressure drops and heat losses and fluid-structure interactions, E10[br/][li]Calculate and design internal combustion engines, E16[br/][li]Calculate and design thermo-chemical (boilers, gasification) and thermo-electric (fuel cells) conversion units, E19[br/][li]Explain and calculate the main emission sources of energy conversion processes, E25[br/][b]Transversal skills:[/b][br/][li]Self-assessment of acquired skills, T2[br/][li]Take notes effectively, T3[br/][li]Differentiate between ideal and feasible, T19"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Engines and fuel cells",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111369",
+      "name":"Gafner Irwin"
+    },{
+      "url":"http://people.epfl.ch/107971",
+      "name":"Van Herle Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser les notions de bilans de matière, d'énergie et de quantité de mouvement, E1 (Thermodynamique et énergétique I)[br/][li]Calculer les propriétés thermodynamiques d'un fluide, E2 (Thermodynamique et énergétique I)[br/][li]Maîtriser les notions de transfert de chaleur et de masse, E3 (Heat and mass transfer)[br/][li]Comprendre les principaux cycles thermodynamiques, E5 (Thermodynamique et énergétique I)",
+      "Bibliographie et matériel":"Moodle. Thermodynamique énergétique, Borel/Favrat",
+      "Mots clés":"Rendement, cycles, émissions, modélisation",
+      "Forme d'enseignement":"Ex cathedra avec questions régulières. Exercices résolus.",
+      "Contenu":"Principes de fonctionnement, Principes mécaniques (cinématique, dynamique) et thermodynamiques (cycles idéaux), Moteurs Diesel et moteurs à allumage commandé (processus de combustion, régulation de la charge, analyse de bruit et prévention, gestion électronique, suralimentation), Caractérisation des gaz de combustion, formation des polluants, Méthode et moyens de réduction des émissions, Modélisation (calcul de cycle, combustion en régime non permanent, modélisation des sous-systèmes), Nouveaux développement : systèmes hybrides, réduction de cylindrée, injection directe, discussion.[br/]Architecture des différentes technologies de piles à combustible, pour application à basse et haute température (0-1000°C). Principes de fonctionnement, thermodynamique et cinétique. Avantages et défis; accent sur les rendements (électrique, cogénération, charge partielle). Choix et traitement du combustible (hydrogène, hydrocarbures). Aspects de modélisation. Exercices avec examples numériques.",
+      "Forme du contrôle":"Tirer une question \"Moteurs\" et une question \"Piles à combustible\", temps de préparation 30 min. Défense orale de 15 min par sujet.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Calculer les principales transformations thermodynamiques des fluides compressibles et incompressibles, E4[br/][li]Comprendre les principaux cycles thermodynamiques, E5[br/][li]Maîtriser les notions de rendements thermodynamiques, E6[br/][li]Calculer les écoulements de fluides dans les équipements de conversion d'énergie, calculer des pertes de charges et de chaleur et calculer les interactions fluide-structure, E10[br/][li]Calculer et concevoir des moteurs à combustion interne, E16[br/][li]Calculer et concevoir des unités de conversion thermo-chimique  et thermoélectrique (piles à combustible), E19[br/][li]Expliquer et calculer les principales sources d'émissions des processus de conversion d'énergie, E25[br/][b]Compétences transversales:[/b][br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Prendre des notes de manière efficace, T3[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Engines and fuel cells",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

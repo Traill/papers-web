@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126231628&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","214"],
+    "title":"Basis of Graphic Computing for architects II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126231628&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141271",
+      "name":"Feihl Olivier"
+    },{
+      "url":"http://people.epfl.ch/172450",
+      "name":"Heynick Mitchell"
+    },{
+      "url":"http://people.epfl.ch/116344",
+      "name":"Zufferey Jérôme"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li]Based around the central theme of stereotomy*, acquire the basic concepts and skills of three dimensional computer aided design and representation.[br/][li]Course will be focused on all aspects of 3D modeling from geometric construction to computer rendering, including the construction of digital models for production (cutting, prototyping, etc.).[br/][li]Acquisition of three-dimensional computer data from real objects via laser scanning, photogrammetry, etc. will also be introduced.[br/][li]The parallel theme of \"stereotomy\" in conjunction with the \"Art of Colour\" course allows connection between the digital representation of objects in two or three dimensions and the fabrication of their real physical counterparts.[br/]",
+      "Content":"[li]Types and families of software used in 3D modeling and design.[br/][li]Techniques of modeling of 3D geometry using a \"universal\" software package.[br/][li]Presentation (rendering) of 3D computer models (scenes, materials, lights, etc.).[br/][li]Composition and 2D/3D layout using appropriate software.[br/][li]Design and creation of a \"digital utopia\" in 2D or 3D based on critical analysis of the history and methods of digital representation available.[br/][li]Preparation and presentation of the year long theme project, both manual and digital, \"The hand and the mouse\".[br/]",
+      "Note":"[li]Theme to be parallel with the \"Art of Colour\" course.[br/][li]Important transitional phase of this course in conjunction with the course \"Art of Colour\", in accordance with the future philosophy of \"Stereotomic vision  [li]The Mouse and Digital Representation\".[br/][br/](*) The set of geometrical knowledge and techniques of drawing and cutting solid blocks (classically of stone) and their assembly into complex structures related to architectural construction.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Basis of Graphic Computing for architects II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141271",
+      "name":"Feihl Olivier"
+    },{
+      "url":"http://people.epfl.ch/172450",
+      "name":"Heynick Mitchell"
+    },{
+      "url":"http://people.epfl.ch/116344",
+      "name":"Zufferey Jérôme"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"[li]Thématique commune avec \"Art de la couleur\".[br/][li]Enseignement en phase transitoire pour une importante liaison avec le cours de \"Art de la couleur\", à considérer en son futur titre \"Vision stéréotomique - La Souris et la représentation numérique\".[br/]",
+      "Prérequis":"[li]Bases d'Informatique Graphiques I[br/][li]Art de la couleur I.[br/]",
+      "Bibliographie et matériel":"Transmise lors du cours. ",
+      "Forme d'enseignement":"[li]Cours ex cathedra, exercice, travail pratique autours de la thématique développée sur l'année.[br/][li]Apports externes sous forme de cours / conférences.[br/]",
+      "Contenu":"[li]Familles et typologies d'applications métier.[br/][li]Processus de modélisation 3D géométrique au travers d'une application \"standard\".[br/][li]Problématique de mise en valeur et d'expression infographique (rendu, matériaux, lumières).[br/][li]Composition et mise en page 2D/3D au moyen des applications appropriées.[br/][li]Réflexion théorique et réalisation d'une utopie informatique, 2D et/ou 3D, faisant usage avec recul et esprit critique des modes et moyens de représentation disponibles.[br/][li]Rendu et présentation du travail de l'année, numérique et manuel, \"La main et la souris\".[br/]",
+      "Forme du contrôle":"Rendus intermédiaires, rendu et affichage semestriel complété d'une réflexion théorique.",
+      "Préparation pour":"[li]Art du volume.[br/][li]UE-ENAC \"L'informatique au service de la mesure du réel\".",
+      "Objectifs d'apprentissage":"[li]A travers le thème central de la stéréotomie, l'étudiant sera en possession de bases géométriques nécessaires à la réalisation d'une modélisation informatique à trois dimensions.[br/][li]L'accent sera porté sur la modélisation (3D), de la construction géométrique au rendu informatique, incluant la réalisation de maquettes numériques (découpe, prototypage, etc.).[br/][li]L'étudiant sera sensibilisé aux techniques d'acquisition tridimensionnelle du réel (introduction à la laserométrie, relevé photographique, etc.).[br/][li]La thématique liée à l'enseignement de \"Art de la couleur\" permettra une réflexion théorique au travers de la réalisation d'une \"utopie\" numérique utilisant les moyens de représentation à deux ou trois dimensions. Cette \"utopie\" trouve cependant son point de départ dans la réalité, centrée sur la mesure et la modélisation stéréotomique.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Bases d'informatique graphique pour architectes II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

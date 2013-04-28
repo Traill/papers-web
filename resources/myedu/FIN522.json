@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=842513718&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","522"],
+    "title":"Venture Capital",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=842513718&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192818",
+      "name":"Fahlenbrach Rüdiger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"30% Homework and case studies[br/]25% midterm[br/]45% Final exam[br/][br/]Homework is open book. Midterm and final exam are closed-book.",
+      "Bibliography and material":"Venture Capital and the Finance of Innovation by Andrew Metrick and Ayako Yasuda, John Wiley and Sons.",
+      "Required prior knowledge":"Introduction to finance[br/]Investments (recommended but not mandatory) ",
+      "Content":"1. Introduction to venture capital [br/]2. Methods for valuation of high-growth companies[br/]3. Venture capital investing and option pricing analysis",
+      "Keywords":"Venture Capital, Private Equity, Finance of Innovation, Valuation, Option Pricing Theory",
+      "Type of teaching":"Lectures, homework, case studies, expert talks, exercises",
+      "Learning outcomes":"The course covers the finance of technological innovation, with an emphasis on the quantitative methods useful for venture capital investing. [br/][br/]My primary goals: [br/][br/]1) To teach and analyze a rigorous framework for making investment decisions about high-technology projects. [br/][br/]2) To provide students with institutional background, specialized vocabulary, and important facts about the venture capital and private equity industry. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Venture Capital",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-07428-2&amp;con_lng=ENG\" target=\"blank\">Venture capital and the finance of innovation / Andrew Metrick</a>\". Year:2007. ISBN:978-0-470-07428-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192818",
+      "name":"Fahlenbrach Rüdiger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction to finance[br/]Investments (souhaitable mais pas obligatoire)",
+      "Bibliographie et matériel":"Venture Capital and the Finance of Innovation by Andrew Metrick and Ayako Yasuda, John Wiley and Sons.",
+      "Mots clés":"Capital-risque, private equity, finance de l'innovation, évaluation, théorie des options",
+      "Forme d'enseignement":"Cours, devoirs, études de cas, interventions d'experts, exercices",
+      "Contenu":"1. Introduction au capital-risque[br/]2. Méthodes d'évaluation des entreprises à forte croissance[br/]3. Capital-risque et théorie des options",
+      "Forme du contrôle":"30% Devoirs et études de cas[br/]25% Examen intermédiaire[br/]45% Examen final[br/][br/]Les devoirs sont à livre ouvert. L'examen intermédiaire et l'examen final sont à livre fermé.",
+      "Objectifs d'apprentissage":"Le cours couvre la finance de l'innovation technologique, avec un accent sur les méthodes quantitatives utiles pour les investissements en capital-risque.[br/][br/]Objectifs principaux :[br/][br/]1) Fournir un cadre d'analyse rigoureux pour les décisions d'investissement dans les entreprises de haute technologie.[br/][br/]2) Fournir aux étudiants les connaissances institutionnelles, le langage spécifique et des faits importants concernant le capital-risque et l'industrie du private equity."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Venture Capital",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-07428-2&amp;con_lng=FRE\" target=\"blank\">Venture capital and the finance of innovation / Andrew Metrick</a>\". Année:2007. ISBN:978-0-470-07428-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501687491&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","522"],
+    "title":"Principles of computer systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501687491&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://pocs.epfl.ch","http://pocs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176638",
+      "name":"Argyraki Aikaterini"
+    },{
+      "url":"http://people.epfl.ch/229105",
+      "name":"Bugnion Edouard"
+    },{
+      "url":"http://people.epfl.ch/172241",
+      "name":"Candea George"
+    },{
+      "url":"http://people.epfl.ch/205917",
+      "name":"Koch Christoph"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"A modern computer system spans many layers: applications, libraries, operating systems, networks, and hardware devices; building a good system is all about making the right trade-offs and understanding emergent behaviors.  In this course we study some of the key principles underlying successful systems, as well as learn how to solve problems in computing using a diversified set of techniques/algorithms from operating systems, networks, databases, programming languages, and computer architecture.",
+      "Content":"Modularity, abstraction, layering, and hierarchy[br/]Naming[br/]Virtualization[br/]End-to-end principle[br/]Asynchrony vs. synchrony[br/]Lazy vs. speculative execution[br/]Sequential vs. random access/layout[br/]Mean-time-to-failure vs. mean-time-to-repair[br/]Transactions and restart[br/]Atomicity, consistency, isolation, durability[br/]Privacy, secrecy, authentication, and anonymity[br/]Data representation, coding, and querying[br/]",
+      "Type of teaching":"Ex cathedra + Exercises + Project",
+      "Form of examination":"Throughout semester [br/]40% homework, 40% project, 20% class participation[br/]",
+      "Required prior knowledge":"(COM-208) Computer networks, (CS-305) Software engineering, (CS-322) Introduction to database systems, (CS-323) Operating systems[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of computer systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://pocs.epfl.ch","http://pocs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176638",
+      "name":"Argyraki Aikaterini"
+    },{
+      "url":"http://people.epfl.ch/229105",
+      "name":"Bugnion Edouard"
+    },{
+      "url":"http://people.epfl.ch/172241",
+      "name":"Candea George"
+    },{
+      "url":"http://people.epfl.ch/205917",
+      "name":"Koch Christoph"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"This is an intellectually challenging course-survival requires a strong background in at least three of the following areas: operating systems, databases, networking, programming languages, and/or computer architecture.",
+      "Prérequis":"(COM-208) Réseaux informatiques, (CS-305) Software engineering, (CS-322) Introduction to database systems, (CS-323) Operating systems[br/]",
+      "Bibliographie et matériel":"See course website.",
+      "Forme d'enseignement":"Ex cathedra + Exercices + Projet",
+      "Contenu":"Modularité, abstraction, division en couches, hiérarchies[br/]Nommer[br/]Virtualisation[br/]Principe de bout-à-bout[br/]Processus asynchrones vs. synchrones[br/]Exécution spéculative vs. paresseuse[br/]Accès séquentiel et direct[br/]Temps moyen jusqu'à une panne vs. temps moyen jusqu'à la réparation[br/]Transactions et redémarrage[br/]Atomicité, cohérence, isolation et durabilité[br/]Protection de vie privée, secret, authentification, anonymat[br/]Représentation de données, codage et requêtes",
+      "Forme du contrôle":"Contrôle continu[br/]40% homework, 40% project, 20% class participation",
+      "Objectifs d'apprentissage":"Un système informatique est composé d'applications, librairies, systèmes d'exploitations, réseaux, matériel; pour créer un système performant, il faut comprendre les comportements qui émergent de l'interaction de ces couches. Ce cours présente des principes clés qui forment la fondation des systèmes réussis. Il vous propose un ensemble des techniques et algorithmes pour résoudre des problèmes d'informatique, provenant des systèmes d'exploitation, réseaux, bases de données, langages de programmation etc."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of computer systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

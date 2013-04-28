@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770873&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","703"],
+    "title":"Circuit design for wireless communications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770873&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"1. [][][]Recent Progress in Integrated RF Transceiver Design[br/]2. [][][]Integrated RF Power Amplifier Design[br/]3. [][][]Wireless CMOS Receiver Front-End Systems[br/]4. [][][]CMOS Down Converter Mixers[br/]5. [][][]CMOS LNA Circuits[br/]6. [][][]CMOS Up-Converters & Single Chip Transceivers[br/]7. [][][]GHz Low-Phase Noise VCOs & Synthesizers[br/]8. [][][]CMOS RF Power Amplifiers[br/]9. [][][]Design and modeling of Low Noise Oscillators[br/]10. [][]Truly Fully-Integrated CMOS Power Amplifiers for Wireless Applications[br/]11. [][]Fundamental Challenges in Bipolar LNA Design[br/]12. [][]Active Mixers: Basic Design Considerations[br/]13. [][]Active Mixers: Practical Monolithic Design[br/]14. [][]Monolithic IF Amplifiers and Gain Control[br/]15. [][]Data Conversion in Wireless Communication Systems[br/]16. [][]Practical Ex. of Transmitter & Receiver Circuits[br/]17. [][]Architectural Exploration of RF Frond-Ends[br/]18. [][]Parasitic Effects in High-Frequency ICs",
+      "Keywords":"RF Transceiver Design, Mixers, LNA, Power Amplifiers, Oscillators",
+      "Note":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Required prior knowledge":"Analog IC Design"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Circuit design for wireless communications",
+    "recitation":null,
+    "exam_form":"Written & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":31
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Contenu":"1. [][][]Recent Progress in Integrated RF Transceiver Design[br/]2. [][][]Integrated RF Power Amplifier Design[br/]3. [][][]Wireless CMOS Receiver Front-End Systems[br/]4. [][][]CMOS Down Converter Mixers[br/]5. [][][]CMOS LNA Circuits[br/]6. [][][]CMOS Up-Converters & Single Chip Transceivers[br/]7. [][][]GHz Low-Phase Noise VCOs & Synthesizers[br/]8. [][][]CMOS RF Power Amplifiers[br/]9. [][][]Design and modeling of Low Noise Oscillators[br/]10. [][]Truly Fully-Integrated CMOS Power Amplifiers for Wireless Applications[br/]11. [][]Fundamental Challenges in Bipolar LNA Design[br/]12. [][]Active Mixers: Basic Design Considerations[br/]13. [][]Active Mixers: Practical Monolithic Design[br/]14. [][]Monolithic IF Amplifiers and Gain Control[br/]15. [][]Data Conversion in Wireless Communication Systems[br/]16. [][]Practical Ex. of Transmitter & Receiver Circuits[br/]17. [][]Architectural Exploration of RF Frond-Ends[br/]18. [][]Parasitic Effects in High-Frequency ICs",
+      "Prérequis":"Analog IC Design",
+      "Mots clés":"RF Transceiver Design, Mixers, LNA, Power Amplifiers, Oscillators"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Circuit design for wireless communications",
+    "recitation":null,
+    "exam_form":"Ecrit & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":31
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105605&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","516"],
+    "title":"Histology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105605&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178419",
+      "name":"Sordet-Dessimoz Jessica"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Presentation of the diverse techniques to prepare samples for bright field and electron microscopy, as well as procedures for standard histology stains, proteins and mRNA detection.",
+      "Content":"[b]Theory :[/b][br/][li] Sample preparation for bright field microscopy[br/][li] Samples preparation for electron microscopy[br/][li] Protein detection[br/][li] ISH : mRNA detection[br/][b]Praxis :[/b][br/][li] Frozen and paraffin sections[br/][li] Routine stain for pathology (hematoxylin and eosine) and one special stain[br/][li] Automate presentation[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Histology",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-443-10279-0&amp;con_lng=ENG\" target=\"blank\">Theory and practice of histological techniques / ed. by John D. Bancroft ... [et al.]</a>\". Year:2008. ISBN:978-0-443-10279-0</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178419",
+      "name":"Sordet-Dessimoz Jessica"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cours théorique de 4 après-midis sur  une semaine et de 1 journée en laboratoire durant le semestre pour la partie pratique.",
+      "Prérequis":"1ère année de master en SV",
+      "Bibliographie et matériel":"Theory and practice of histological techniques / ed. by John D. Bancroft [et al.], 6th edition",
+      "Forme d'enseignement":"Cours ex cathedra et travaux pratiques",
+      "Contenu":"[b] Théorie : [/b][br/][li] Préparation d'échantillons pour la lumière transmise[br/][li] Préparation d'échantillons pour la microscopie électronique[br/][li] Détection de protéines[br/][li] ISH : détection de mRNA[br/][b] Pratique :[/b][br/][li] Coupes congelées et en paraffine[br/][li] Coloration standard pour la pathologie (hématoxyline et éosine) et une coloration spéciale[br/][li] Présentation des possibilités d'automatisation.[br/]",
+      "Forme du contrôle":"Rapport et question de biologie",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Présentation des techniques de préparation d'échantillons pour la microscopie à lumière transmise et électronique, ainsi que des procédures de colorations classiques d'histologie, de détection de protéines et de mRNA. "
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Histology",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-443-10279-0&amp;con_lng=FRE\" target=\"blank\">Theory and practice of histological techniques / ed. by John D. Bancroft ... [et al.]</a>\". Année:2008. ISBN:978-0-443-10279-0</li></ul>",
+    "lecture":null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","205"],
+    "title":"Analysis IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":14,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Second cycle of mathematics",
+      "Required prior knowledge":"Analysis I, II and III",
+      "Content":"[b]Lebesgue integral[/b][br/]- Measurable  sets and functions[br/]- Lebesgue integral[br/]- Monotone and dominated convergence theorems.[br/]- Lp spaces[br/][br/][b]Fourier Series[/b][br/]- Fourier series[br/]- Brief introduction to Fourier transform[br/]- Applications to partial differential equations[br/][br/][b]Ordinary differential equations[/b][br/]- Local existence and uniqueness for the Cauchy problem[br/]- Global existence[br/]- Solutions under a form of series",
+      "Type of teaching":"Ex cathedra lectures and exercises",
+      "Learning outcomes":"Presentation of the main tools of Lebesgue integral, Fourier series and ordinary differential equations."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis IV",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-350-8&amp;con_lng=ENG\" target=\"blank\">Equations différentielles ordinaires et aux dérivées partielles / Srishti D. Chatterji</a>\". Year:1998. ISBN:2-88074-350-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":14,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I, II et III",
+      "Bibliographie et matériel":"S.D. Chatterji: \"Cours d'analyse III et IV\" PPUR",
+      "Forme d'enseignement":"Cours ex cathedra et exercices assistés",
+      "Contenu":"[b]Intégrale de Lebesque[/b][br/]- Ensembles et fonctions mesurables[br/]- Intégrale de Lebesque[br/]- Théorèmes de la convergence monotone et de la convergence dominée.[br/]- Espaces Lp[br/][br/][b]Séries de Fourier[/b][br/]- Séries de Fourier[br/]- Brève introduction à la transformée de Fourier[br/]- Applications aux équations aux dérivées partielles[br/][br/][b]Equations différentielles ordinaires[/b][br/]- Théorème de Picard (existence locale et unicité pour le problème de Cauchy)[br/]- Prolongement des solutions et existence global[br/]- Solutions sous forme de séries entières",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Deuxième cycle de mathématiques",
+      "Objectifs d'apprentissage":"Présenter les outils principaux de l'intégrale de Lebesgue, des séries de Fourier et des équations différentielles ordinaires."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse IV",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-350-8&amp;con_lng=FRE\" target=\"blank\">Equations différentielles ordinaires et aux dérivées partielles / Srishti D. Chatterji</a>\". Année:1998. ISBN:2-88074-350-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

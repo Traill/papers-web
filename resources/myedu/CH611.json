@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322526&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","611"],
+    "title":"Inorganic chemistry \"Techniques and methods\"",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322526&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective of this course is to present and discuss important recent contributions in the field of inorganic chemistry incorporating techniques and methods.  This will be achieved by student literature seminars based on publications, which are selected by the instructors, emanating from the last 12 months.  The seminar will be preceded by an introduction to the topic by the instructors and followed by a group discussion.",
+      "Content":"The topics covered in this course will include recent advances in the field of: [br/]1. bioinorganic chemistry (e.g. EPR of metalloenzyme model compounds, X-ray diffraction techniques). [br/]2. Metallo-pharmaceuticals (cell culture assays, determining mode of activity). [br/]3. Organometallic compounds (e.g. new concepts in combinatorial catalysis, elucidation of reaction mechanisms using in situ high pressure spectroscopic methods). [br/]4. Supramolecular coordination chemistry (combinatorial methodologies). [br/]5. Computer modelling of inorganic and organometallic systems. Techniques from other fields which could find uses in inorganic chemistry (e.g. atomic force microscopy). [br/][br/]The specific content will be chosen by the instructors and will be renewed every year.",
+      "Keywords":"Inorganic, Organometallic, Materials, Catalysis, Spectroscopy, Theory.",
+      "Required prior knowledge":"Masters level knowledge of inorganic/organometallic chemistry."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry \"Techniques and methods\"",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Mots clés":"Inorganic, Organometallic, Materials, Catalysis, Spectroscopy, Theory.",
+      "Prérequis":"Masters level knowledge of inorganic/organometallic chemistry.",
+      "Objectifs d'apprentissage":"The objective of this course is to present and discuss important recent contributions in the field of inorganic chemistry incorporating techniques and methods.  This will be achieved by student literature seminars based on publications, which are selected by the instructors, emanating from the last 12 months.  The seminar will be preceded by an introduction to the topic by the instructors and followed by a group discussion."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry \"Techniques and methods\"",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

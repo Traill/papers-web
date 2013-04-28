@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136704309&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","491"],
+    "title":"Civil system project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136704309&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Analysis and optimisation of a system in the field of civil engineering such as LOGISTICS AND MANAGEMENT, WATER, ENERGY, TRANSPORTATION AND LAND PLANNING.",
+      "Content":"Definition and modelisation of a civil engineering system. Analysis of the behaviour of the system and possible improvements and enhancement. Systematic simulations of the system and parameter analysis. Optimisation of the system by adding of new elements. Performance analysis of the system. Technical report with detailed description of the system (including schemas and computer code) and the results obtained by systematic simulations. Executive summmary.[br/][br/]Team project based on a general project program established by professors in charge.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Civil system project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Choix de sujets à partir du portail des projets sur IS-Academia, en accès sécurisé: http://is-academia.epfl.ch/[br/]Possibilité de soumettre le projet de semestre à différents prix (voir http://sac.epfl.ch), notamment au prix RUMBA (développement durable, voir http://rumba.epfl.ch/page-39818-fr.html).",
+      "Prérequis":"Cours dans les domaines 5, 6, 7 et 8 du 2ème cycle",
+      "Forme d'enseignement":"Projet",
+      "Contenu":"Définition et modélisation d'un système de génie civil. Analyse du comportement du système et possibles améliorations et extensions. Simulations systématiques avec le système établi et analyse paramétrique. Optimisation du système en ajoutant des nouveaux éléments. Analyse du fonctionnement et des performances. Rapport technique avec description détaillée du système (incluant des schémas et des codes de calculs) et les résultats obtenus par simulations systématiques. Résumé exécutif.[br/][br/]Travail réalisé en groupe selon un programme établi d'un commun accord avec les professeurs responsables.",
+      "Forme du contrôle":"Rendu du projet, présentation orale",
+      "Préparation pour":"Projet de Master",
+      "Objectifs d'apprentissage":"Analyse et optimisation d'un système de génie civil : LOGISTIQUE ET MANAGEMENT, EAU, ENERGIE, TRANSPORT ET TERRITOIRE."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de systèmes civils",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

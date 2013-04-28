@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543106987&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","487"],
+    "title":"Project in translational neurosciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543106987&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185298",
+      "name":"Le Coutre Johannes"
+    },{
+      "url":"http://people.epfl.ch/189939",
+      "name":"Moore Darren"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in translational neurosciences",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374585-9&amp;con_lng=ENG\" target=\"blank\">A pharmacology primer : theory, applications, and methods / Terry Kenakin</a>\". Year:2009. ISBN:978-0-12-374585-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-22749-7&amp;con_lng=ENG\" target=\"blank\">Molecules and medicine / E.J. Corey, B. CzakÃ³ and L. KÃ¼rti</a>\". Year:2007. ISBN:978-0-470-22749-7</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185298",
+      "name":"Le Coutre Johannes"
+    },{
+      "url":"http://people.epfl.ch/189939",
+      "name":"Moore Darren"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bachelor in Life Science",
+      "Bibliographie et matériel":"[li] Corey E.J., Czako B, Kurti L \"Molecules and Medicines\" (2007)[br/][li] Kenakin T.P. \"A pharmacology primer, theory, applications and methods\" (2006)",
+      "Forme d'enseignement":"After ex-cathedra introduction sessions, the teaching proceeds with weekly sessions of office hours and group work in close collaboration with the teachers.",
+      "Contenu":"[li] General principles of drug development [target identification, target validation, screening, hit to lead optimization, process research (optimization of the chemical synthesis for the pilot plant and factory), efficacy, toxicity / safety, preclinical & clinical development.[br/][li] Development and use of animal models in biomedical research[br/][li] Pathophysiology and therapeutic strategies for disorders of energy balance [fasting-feeding cycles, nutrition, Perception Physiology, hormonal control of energy homeostasis, obesity, anorexia, prevention and treatments][br/][li] Pathophysiology and therapeutic strategies for treating neurodegenerative disease, including Alzheimer's and Parkinson's disease [development and insights from genetic and toxin-based animal models, genetic basis of disease, disease pathways and processes, neuropathology, clinical diagnosis, surgical and drug treatments, neuroimaging, biomarker discovery, target validation] [br/][li] The business environment [markets, patients/consumers, competitors][br/][li] Project management [sponsors, stake-holders and their expectations, checkpoints, milestones, execution][br/][li] Commercialization [business plan, regulatory, product launch, Intellectual property][br/][li] Case studies[br/]",
+      "Forme du contrôle":"- Written project[br/]- Oral defense of the project during the semester",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"The goal of this course is to instruct the student how fundamental scientific knowledge, acquired through the study of fundamental disciplines, including biochemistry, genetics, pharmacology, physiology, genomics, cell and molecular biology can be applied for drug discovery and development in a commercial context. We will illustrate how basic scientific knowledge translates into medical advances and serves as the stepping stone to identify and validate new disease targets, to develop drugs, and to improve diagnosis, prevention, and treatment of diseases of the nervous system. We will show these principles by examples, which will focus on conditions of the nervous system, such as neurodegenerative disorders, cognitive enhancement, taste perception but also calorie detection and reward representation in the brain."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in translational neurosciences",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374585-9&amp;con_lng=FRE\" target=\"blank\">A pharmacology primer : theory, applications, and methods / Terry Kenakin</a>\". Année:2009. ISBN:978-0-12-374585-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-22749-7&amp;con_lng=FRE\" target=\"blank\">Molecules and medicine / E.J. Corey, B. CzakÃ³ and L. KÃ¼rti</a>\". Année:2007. ISBN:978-0-470-22749-7</li></ul>",
+    "lecture":null
+  }
+}

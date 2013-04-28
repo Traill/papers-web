@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580216522&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["HUM","411(a)"],
+    "title":"Energy, climate, economy and society I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580216522&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210223",
+      "name":"Akhabbar Amanar"
+    },{
+      "url":"http://people.epfl.ch/209405",
+      "name":"Romerio Franco"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"[b]Languages[/b]:[br/]Teaching: English - Interaction (& writing): French and English.[br/][br/][b]Lecturers[/b]:[br/]Amanar Akhabbar, Maître Assistant (CWP, UNIL), Franco Romerio, MER (ISE et SES, UNIGE)",
+      "Form of examination":"Evaluation on a semester basis (grade associated to 3 ECTS). Fall semester evaluation is about knowledge acquisition and the elaboration of a project plan. Spring semester evalua-tion is about the realization of the project. More information is given at the beginning of the academic year.",
+      "Bibliography and material":"Proposed during the year on a project basis.",
+      "Content":"[b]Economic and social sciences, pluridisciplinary approach, key isues and controversies[/b][br/][br/]Industrial societies are concerned about the limits of economic growth, particularly because of their dependence on scarce natural resources such as fossil fuels. Currently, this questioning is focused on fears of disasters caused by global warming due to human activities. As the consumption of fossil fuels is a major source of CO2 emissions, a global economic strategy is the fossil fuels' abandonment and the adoption of other energy sources.[br/][br/]We propose to examine and discuss some aspects of this strategy by using methods and knowledge developed by technical, natural and social sciences, in particular economics. ",
+      "Keywords":"Energy, environnement, economy, case studies",
+      "Learning outcomes":"At the end of the teaching, students will be able to:[br/]- understand some key issues related to energy, environment and climate change by means of case studies, [br/]- use basic analysis tools provided by economics and social sciences, from a pluridisciplinary point of view."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Energy, climate, economy and society I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210223",
+      "name":"Akhabbar Amanar"
+    },{
+      "url":"http://people.epfl.ch/209405",
+      "name":"Romerio Franco"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[i][b]Langues[/b][/i]:[br/]Enseignement : anglais - Interaction (rédaction) : français et anglais.[br/][br/][b]Enseignants[/b] :[br/]Amanar Akhabbar, Maître Assistant (CWP, UNIL), Franco Romerio, MER (ISE et SES,  UNIGE).",
+      "Bibliographie et matériel":"Proposée pendant l'année par projet / proposed during the year on a project basis.",
+      "Mots clés":"Energie, environnement, économie, études de cas.",
+      "Contenu":"[b]Sciences économiques et sociales, approche pluridisciplinaire, enjeux et controverses[/b][br/][br/]Les sociétés industrielles s'inquiètent des limites de la croissance économique, notamment en raison de leur dépendance envers des ressources naturelles clés comme les énergies fossiles. Actuellement ce questionnement est surtout porté par les craintes de catastrophes causées par le réchauffement climatique dû aux activités humaines. Comme la consommation de ressources fossiles est une source majeure d'émissions de CO2, une stratégie économique globale est l'abandon du fossile et l'adoption d'autres sources d'énergie.[br/][br/]On propose d'éclairer et de discuter quelques aspects de cette stratégie en mobilisant des méthodes et connaissances développées par les sciences techniques, naturelles et sociales, en particulier l'économie.  ",
+      "Forme du contrôle":"Evaluation sur une base semestrielle par une note associée à 3 ECTS. L'évaluation du premier semestre porte sur l'acquisition de connaissances et l'élaboration du canevas d'un projet, qui sera réalisé en groupe ou individuellement. L'évaluation du semestre de printemps portera sur la réalisation d'un projet. Des précisions sont données en début d'année académique.",
+      "Objectifs d'apprentissage":"A la fin du cours les étudiant-e-s seront capables de :[br/]- comprendre quelques enjeux clés du dossier énergétique, environnemental et climatique au moyen d'études de cas.[br/]- mettre en oeuvre des outils d'analyse fournis par les sciences économiques et sociales, dans une optique pluridisciplinaire."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Énergie, climat, économie et société I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

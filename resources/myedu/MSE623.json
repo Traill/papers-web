@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1168086223&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","623"],
+    "title":"Laser Processing of Materials: From Optical Properties of Materials and Light-Matter Interaction to Applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1168086223&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    },{
+      "url":"http://people.epfl.ch/176629",
+      "name":"Kuzminykh Yury"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"1) Principles of laser operation, types of lasers[br/]2) Properties of the laser light: light controlled in time and space[br/]3) Optical properties of the materials and their physical origin at atomic level[br/]4) Fundamentals of light-matter interaction: linear/non-linear absorption, refractive index,  influence of light properties such as wavelength or pulse length on the process[br/]5) Laser light delivery: imaging, focusing, high resolution patterns - beam quality, resolution limits[br/]6) Principles of laser processing: efficiency, importance of understanding heat flow, serial processing, parallel processing, ... [br/]7) Applications of laser processing in micro-technique: welding, cutting, drilling, ablation, ...[br/]8) Generative techniques: sintering, 3D-lithography, laser induced CVD[br/]",
+      "Keywords":"Lasers, laser processing, optical properties, light-matter interaction",
+      "Note":"Course schedule: 6-8 September 2011 lecture at EPFL, 12-13 September 2011 praktical work at EMPA, Thun (splitted in groups, each student only one of the days), 14 September 2011 students presentations and lecture at EPFL",
+      "Required prior knowledge":"Basics of optics"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Laser Processing of Materials: From Optical Properties of Materials and Light-Matter Interaction to Applications",
+    "recitation":null,
+    "exam_form":"Written & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    },{
+      "url":"http://people.epfl.ch/176629",
+      "name":"Kuzminykh Yury"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Laser Processing of Materials: From Optical Properties of Materials and Light-Matter Interaction to Applications",
+    "recitation":null,
+    "exam_form":"Ecrit & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

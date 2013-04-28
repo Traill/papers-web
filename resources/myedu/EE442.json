@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499348352&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","442"],
+    "title":"Wireless receivers: algorithms and architectures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499348352&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control with presentation of a final project",
+      "Bibliography and material":"Slides distributed during the lecture.[br/]H. Meyr, M. Moeneclaey, S. A. Fechtel: Digital Communication Receivers: Synchronization, Channel Estimation, and Signal Processing, John Wiley & Sons.[br/]D. Tse, P. Viswanath: Fundamentals of Wireless Communication, Cambridge University Press[br/]",
+      "Prerequisite for":"Advanced wireless communications",
+      "Required prior knowledge":"Telecommunication systems",
+      "Content":"[b]Fundamentals[/b][br/]Modulation, baseband and passband signals, vector-space representation, matched filtering, maximum-likelihood estimation, performance metrics[br/][br/][b]Synchronized receiver[/b][br/]Carrier frequency and sampling frequency offset, time- and frequency synchronization, interpolation[br/][br/][b]Channel coding[/b][br/]Channel capacity, convolutional codes, Viterbi decoder[br/][br/][b]The wireless channel[/b][br/]Basic AWGN channel, signal propagation and attenuation, fading channels, multipath propagation, Doppler shift[br/][br/][b]Wideband modulation[/b][br/]Multicarrier communication, orthogonal frequency division multiplexing (OFDM), training based channel estimation and equalization for OFDM[br/]",
+      "Type of teaching":"Ex cathedra with computer exercises/labs",
+      "Learning outcomes":"This course provides an introduction to Wireless Communication Systems. The general architecture of a wireless receiver is presented and key algorithms for the individual building blocks are derived from few fundamental principles and ideas. In the end, students will have a good understanding of the key components of a coherent communication system, including the propagation channel. They will be able to understand the involved algorithms and their origin and will be able to apply this knowledge to design basic wireless transceivers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Wireless receivers: algorithms and architectures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50275-8&amp;con_lng=ENG\" target=\"blank\">Digital communication receivers : synchronization, channel estimation, and signal processing / Heinrich Meyr, Marc Moeneclaey, Stefan A. Fechtel</a>\". Year:1998. ISBN:0-471-50275-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-84527-0&amp;con_lng=ENG\" target=\"blank\">Fundamentals of wireless communication / David Tse and Pramod Viswanath</a>\". Year:2005. ISBN:0-521-84527-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Systèmes de télécommunications",
+      "Bibliographie et matériel":"Slides distribués aux cours.[br/]H. Meyr, M. Moeneclaey, S. A. Fechtel: Digital Communication Receivers: Synchronization, Channel Estimation, and Signal Processing, John Wiley & Sons.[br/]D. Tse, P. Viswanath: Fundamentals of Wireless Communication, Cambridge University Press[br/]",
+      "Forme d'enseignement":"Ex cathedra avec exercices sur ordinateur et labos",
+      "Contenu":"[b]Notions de base[/b][br/]Signaux de modulation, de bande de base et de bande passante, représentation d'espace vectoriel, filtrage adapté, estimation d'un maximum de vraisemblance, paramètres de performance,[br/][br/][b]Récepteur synchronisé[/b][br/]Décalage des fréquence porteuses et de la fréquence d'échantillonnage, synchronisation du temps et de la fréquence, interpolation[br/][br/][b]Le codage de canal[/b][br/]Capacité du canal, codes convolutifs, décodeur de Viterbi[br/][br/][b]Le canal sans fil[/b][br/]Canal AWGN basique, propagation du signal et atténuation, canaux à évanouissement, propagation par trajets multiples, décalage Doppler[br/][br/][b]Modulation à large bande[/b][br/]Multicarrier communication, multiplexage par répartition orthogonale de fréquence (OFDM), estimation de canal basée sur la formation et l'égalisation pour OFDM",
+      "Forme du contrôle":"Pendant le semestre avec présentation d'un projet final",
+      "Préparation pour":"Advanced wireless communications",
+      "Objectifs d'apprentissage":"Ce cours est une introduction aux systèmes de télécommunication sans fil. Il présente l'architecture générale d'un récepteur radio, et des algorithmes de clés pour les éléments de base sont dérivées sur la base de quelque principes fondamentaux. A la fin du cours, les étudiants auront une bonne compréhension des éléments clés d'un système de communication cohérent, y compris le canal de propagation. Ils seront capables de comprendre les algorithmes impliqués et leurs origines et pourront appliquer ces connaissances à la conception d'émetteurs-récepteurs sans fil."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Wireless receivers: algorithms and architectures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50275-8&amp;con_lng=FRE\" target=\"blank\">Digital communication receivers : synchronization, channel estimation, and signal processing / Heinrich Meyr, Marc Moeneclaey, Stefan A. Fechtel</a>\". Année:1998. ISBN:0-471-50275-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-84527-0&amp;con_lng=FRE\" target=\"blank\">Fundamentals of wireless communication / David Tse and Pramod Viswanath</a>\". Année:2005. ISBN:0-521-84527-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

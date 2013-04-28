@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773617&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","476"],
+    "title":"Aesthetics of civil structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773617&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"-\tLearn to describe and appreciate the aesthetic value of civil engineering structures in their environment[br/]-\tUnderstand the aesthetic value of important structures[br/]-\tAcquire familiarity with basic aesthetic concepts with     regard to structures and improvement of existing structures[br/]",
+      "Content":"[b]Consideration of aesthetics:[/b] moral duty, perception of a structure, urban and rural sites, types of aesthetics, prominent examples.[br/][br/][b]'' Objective '' rules for aesthetics [/b]for bridges, tunnels, retaining walls, anti-noise barriers, galleries, traffic routes, dams: Relationship with the (natural, built, cultural) environment, shape and structure, texture and colour, entity of structures.[br/][br/][br/][b]History of aesthetics [/b]: Concrete structures of three Swiss engineers - Maillart, Sarrasin and Menn; structures designed by famous engineers (Brunel, Eiffel, Freyssinet, Amman, Leonhardt, etc.).[br/][br/][br/][b]Trends[/b]: Aesthetics of rehabilitated and transformed structures; aesthetics in new construction: Calatrava, cable-stayed structures, metaphoric structures, industrial design.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Aesthetics of civil structures",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, séminaires",
+      "Contenu":"[b]Considérations d'ordre esthétique:[/b] devoir moral, perception d'un ouvrage, sites urbain et rural, sortes d'esthétique, exemples marquants.[br/][br/][b]Règles d'esthétique '' objectives ''[/b] pour les ponts, tunnels, murs de soutènement, parois anti-bruit, galeries, voies de circulation, barrages: Relation avec le milieu (environnement naturel et construit, culture), forme et structure, texture et couleur, entité d'ouvrages.[br/][br/][b]Aperçu historique [/b]: Ouvrages (ponts) en béton de trois ingénieurs suisses - Maillart, Sarrasin et Menn ; Ouvrages conçus par des grands ingénieurs (Brunel, Eiffel, Freyssinet, Amman, Leonhardt, etc.)[br/][br/] [br/][b]Tendances [/b]: Esthétique d'ouvrages remis en état ou transformés; esthétiques dans la nouvelle construction : Calatrava, structures haubanées, ouvrages métaphoriques, design industriel.",
+      "Prérequis":"Cours ENAC",
+      "Bibliographie et matériel":"Polycopié",
+      "Objectifs d'apprentissage":"-\tApprendre à décrire et apprécier les valeurs esthétiques des ouvrages de génie civil dans leur environnement [br/]-\tComprendre la valeur esthétique d'ouvrages marquants [br/]-\tAcquérir les notions de base pour la conception esthétique des ouvrages et l'amélioration de l'esthétique des ouvrages existants"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Esthétique des ouvrages de génie civil",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775537&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","316"],
+    "title":"Statistical physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775537&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159141",
+      "name":"Mila Frédéric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam. Mid-term optional exam giving up to one point of bonus",
+      "Bibliography and material":"Lecture notes",
+      "Required prior knowledge":"Quantum physics I, statistical physics I",
+      "Content":"[b]1. Quantum perfect gases[/b][br/][br/]- Equation of state. High temperature and low density limit[br/]- Fermions at low temperature : Sommerfeld expansion[br/]- Bosons at low temperature : Bose-Einstein condensation[br/]- Phonons and photons[br/][br/][b]2. Fluctuations and correlations[/b][br/][br/]- Review of probability theory :  moments, cumulants, central limit theorem[br/]- Energy fluctuations and specific heat[br/]- Particle number fluctuations and isothermal compressibility[br/][br/][b]3. Static properties of liquids[/b][br/][br/]- Radial distribution[br/]- Kirkwood, Percus-Yevick and Ornstein-Zernicke equations[br/]- Hard spheres : Percus-Yevick theory[br/]- Debye-Hückel theory of charged fluids[br/][br/][b]4. Elements of ergodic theory[/b][br/][br/]- Ergodic principle[br/]- Integrable systems and chaos[br/]",
+      "Type of teaching":"Ex cathedra. Exercises in class",
+      "Learning outcomes":"To develop a few applications of statistical physics[br/][]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statistical physics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159141",
+      "name":"Mila Frédéric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique quantique I, physique statistique I",
+      "Bibliographie et matériel":"Notes de cours",
+      "Forme d'enseignement":"Ex cathedra. Exercices en salle",
+      "Contenu":"[b]1. Les gaz parfaits quantiques[/b][br/][br/]- Equation d'état. Limite haute température et basse densité[br/]- Fermions à basse température : développement de Sommerfeld[br/]- Bosons à basse température : condensation de Bose-Einstein[br/]- Phonons et photons[br/][br/][b]2. Fluctuations et corrélations[/b][br/][br/]- Rappels de probabilités : moments, cumulants, théorème de la limite centrale[br/]- Fluctuations d'énergie et chaleur spécifique[br/]- Fluctuations du nombre de particules et compressibilité isotherme[br/][br/][b]3. Propriétés statiques des liquides[/b][br/][br/]- Distribution radiale[br/]- Equations de Kirkwood, de Percus-Yevick et d'Ornstein-Zernicke[br/]- Sphères dures : théorie de Percus-Yevick[br/]- Théorie de Debye-Hückel des fluides chargés[br/][br/][b]4. Eléments de théorie ergodique[/b][br/][br/]- Principe ergodique[br/]- Systèmes intégrables et chaos[br/]",
+      "Forme du contrôle":"Examen écrit. Examen facultatif en cours de semestre donnant au maximum un point de bonus",
+      "Objectifs d'apprentissage":"Développer quelques applications de la physique statistique[br/][]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique statistique II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

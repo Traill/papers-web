@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1494719763&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","448"],
+    "title":"UE P: Concrete. Construction and prefabrication",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1494719763&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169271",
+      "name":"Amstein Emy"
+    },{
+      "url":"http://people.epfl.ch/104128",
+      "name":"Voellinger Thierry"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The objective for both teaching units is to focus on the material, from a perceptive and constructive angle. The student will be able to define a concept relative to concrete in an architectural project.[br/][br/][b]Outcomes[/b][br/][br/]CONCRETE: CONSTRUCTION AND PRECASTING[br/]Formwork design.[br/]Appropriate structures (façade and building).[br/]Concrete precast process.[br/]Concrete façade design.[br/]",
+      "Content":"The student will make use of the knowledge gained from the observation and experimentation phases which he'll have completed before tackling questions of concept. The educational method used is based upon the scientific method, that is, observation, experimentation and interpretation (Claude Bernard).[br/][br/]CONCRETE: CONSTRUCTION AND PRECASTING[br/]The subject will revolve around the façade precast concrete element.[br/]Observation: drawings of a formwork for casting façade elements.[br/]Experimentation: relations between structure and façade.[br/]Interpretation: drawings of an urban building with mixed program.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE P: Concrete. Construction and prefabrication",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169271",
+      "name":"Amstein Emy"
+    },{
+      "url":"http://people.epfl.ch/104128",
+      "name":"Voellinger Thierry"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours, travaux dirigés, travaux pratiques.",
+      "Contenu":"L'étudiant se servira de ses expériences faites lors des phases d'observation et d'expérimentation qu'il aura effectuées avant d'aborder la question du concept même. La méthode pédagogique appliquée est la méthode expérimentale, soit observation, expérimentation et interprétation (Claude Bernard).[br/][br/]BETON: CONSTRUCTION ET PREFABRICATION[br/]Le thème se développera sur l'élément de façade en béton préfabriqué.[br/]Observation: représentation du moule d'un élément de façade.[br/]Expérimentation: relation entre structure et façade.[br/]Interprétation: représentation d'une construction urbaine avec mixité programmatique.[br/]",
+      "Forme du contrôle":"[li]3 rendus en cours de semestre selon un canevas proposé, comptant chacun pour 25%.[br/][li]1 critique finale (oral + beamer) selon un canevas proposé comptant pour les 25 derniers pourcents.[br/]",
+      "Objectifs d'apprentissage":"L'objectif des deux unités d'enseignement est d'approcher le matériau, des points de vue perceptif et constructif. L'étudiant sera capable d'établir un concept propre au béton pour un projet d'architecture.[br/][br/][b]Acquis de formation[/b][br/][br/]BETON: CONSTRUCTION ET PREFABRICATION[br/]Dessin d'un moule[br/]Application d'une structure appropriée (façade et bâtiment)[br/]Processus de préfabrication béton[br/]Dessin de façade béton (calepinage).[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE P : Béton. Construction et préfabrication",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  }
+}

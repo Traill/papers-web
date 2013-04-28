@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4145140&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","456"],
+    "title":"Energy powerplants",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4145140&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    },{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"At the end of the course, the student will be able to analyze from a systemic viewpoint the different electricty generating systems and to compare their respective merits. He is qualifed to hold a dialogue with his colleagues heat engineers and hydraulic engineers; he understands the working of the primary machines and knows their main technical characteristics.  ",
+      "Content":"[b]Energy stakes[/b][br/]Socio-economy of energy. Energy carriers, resources and reserves; electricity, evolution and perspectives.[br/][br/][b]Physics and thermodynamics remembering[/b][br/]Energy and energy transformations. First and Second Principles of thermodynamics. Energy economics. [br/][br/][b]Fossil-fuelled power plants[/b][br/]Combustion; thermodynamic cycles; gas turbine; combined cycles; engines; fuel cells. Components of a power station. Cogeneration and decentralized production. Comparison of technologies. Operation.[br/][br/][b]Nuclear power plants[/b][br/]Reactor physics. Main types of nuclear reactors. General characteristics and organization of plants.[br/][br/][b]Hydraulics[/b][br/]Flow and specific hydraulic energy. Hydraulic power. Characteristic curves of a hydraulic circuit.[br/][br/][b]Hydraulic Machines[/b][br/]Receiving or driving machine Work of an impeller/runner. Relative flow and velocity polygon. Euler equation and characteristics of a turbine or a pump. Operating points. Transmitted torque, runaway speed. Non-dimensional coefficients[br/][br/][b]Hydropower Plants[/b][br/]Different types of power plants. Specific speed concept. The different types of turbines and pump-turbines. Setting, control and off design operation of a hydraulic machine ",
+      "Type of teaching":"Ex cathedra + demonstrations and exercices",
+      "Bibliography and material":"Notes de cours",
+      "Required prior knowledge":"Introduction to electrical engineering, Physics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Energy powerplants",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    },{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra + démonstrations et exercices",
+      "Contenu":"[b]Les enjeux énergétiques[/b][br/]Socio-économie de l'énergie. Agents énergétiques, ressources et réserves; électricité, évolution et perspectives.[br/][br/][b]Rappels de physique et de thermodynamique[/b][br/]Energie et transformations énergétiques. Premier et Deuxième Principes de la thermodynamique. Economie énergétique.[br/][br/][b]Centrales thermiques fossiles[/b][br/]Combustion; cycles thermiques; turbine à gaz, cycles combinés; cycles de moteurs à combustion, pile à combustible. Composants d'une centrale. Cogénération et production décentralisée. Comparaison des technologies. Exploitation.[br/][br/][b]Centrales nucléaires[/b][br/]Principe de la physique des réacteurs nucléaires. Principaux types de réacteurs. Caractéristiques générales et organisation des centrales.[br/][br/][b]Hydraulique[/b][br/]Conservation du débit et de l'énergie hydraulique massique. Puissance hydraulique. Courbe caractéristique des circuits hydrauliques.[br/][br/][b]Machines hydrauliques[/b][br/]Machine réceptrice et motrice. Travail d'une roue. Ecoulement relatif et triangle des vitesses. Equation et caractéristiques d'Euler d'une turbine et d'une pompe, point de fonctionnement. Couple transmis. Vitesse d'emballement. Coefficients adimensionnels.[br/][br/][b]Centrales hydro-électriques[/b][br/]Différents types d'aménagement. Notion de vitesse spécifique les différents types de turbines et de pompes-turbines. Implantation des machines, réglage des machines et fonctionnement hors nominal",
+      "Prérequis":"Electrotechnique, Physique",
+      "Bibliographie et matériel":"Notes de cours",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant est capable d'analyser dans une optique système les différentes filières de production d'électricité et d'en comparer les mérites respectifs. Il est apte à dialoguer avec ces collègues thermiciens ou hydrauliciens; il comprend le fonctionnement des machines primaires et en connaît les caractéristiques techniques principales."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Centrales énergétiques (pour EL)",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

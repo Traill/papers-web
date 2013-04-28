@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","110(a)"],
+    "title":"Computer-aided engineering I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=5571","http://moodle.epfl.ch/course/view.php?id=5571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course aims at introducing the student to the use of computers (Unix workstations) and providing a first experience in computer programming (C++ language). It also presents a few basic notions of Computer Sciences.[br/]",
+      "Content":"Brief introduction to Unix environment (login, widow manager, text editor, emails and Internet access, ...), basics of computer[br/]architecture, first contact with a programming environment (editor, compiler, ...).[br/][br/]Introduction to programming (C++): variables, expressions, control structures, functions, input/output, ...[br/][br/]Informal presentation of Algorithmics (examples).[br/][br/]Practical sessions on basic examples: all theoretical concepts introduced in the lectures are experienced during practical sessions on computers (Unix workstations).[br/]",
+      "Type of teaching":"Ex cathedra, practical work on computer",
+      "Prerequisite for":"Computer-aided engineering II (CS-112(A))",
+      "Form of examination":"This course is graded jointly with its follower \"Computer-aided [br/]engineering II\" (CS-112(A)).[br/]For the current semester, we have:[br/]1 graded practical session (11% of the final grade)[br/]1 paper exam, open book (22% of the final grade)[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computer-aided engineering I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-604-9&amp;con_lng=ENG\" target=\"blank\">C     par la pratique : recueil d'exercices corrigés et aide-mémoire / Jean-Cédric Chappelier, Florian Seydoux</a>\". Year:2011. ISBN:978-2-88074-604-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-504-2&amp;con_lng=ENG\" target=\"blank\">Programmation orientée objets en C   : une approche évolutive / Marylène Micheloud, Medard Rieder</a>\". Year:2007. ISBN:978-2-88074-504-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=5571","http://moodle.epfl.ch/course/view.php?id=5571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Notes de cours ;[br/]Conseillé : [1] M. Micheloud et M. Rieder, Programmation orientée objet en C++,  PPUR,  2003 (2e édition)[br/][2] J.-C. Chappelier, C++ par la pratique, PPUR 2012 (3e édition)[br/]",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"Rapide introduction à l'environnement UNIX (connexion, multi-fenêtrage, édition de textes, email, ...), éléments de base sur le fonctionnement d'un système informatique et prise en main d'un environnement de programmation (éditeur, compilateur, ...).[br/][br/]Initiation à la programmation (langage C++) : variables, expressions, structures de contrôle, fonctions, entrées-sorties, ...[br/][br/]Présentation informelle de l'algorithmique (exemples).[br/][br/]Mise en pratique sur des exemples simples : les concepts théoriques introduits lors des cours magistraux seront mis en pratique dans le cadre d'exercices sur machines.[br/]",
+      "Forme du contrôle":"Ce cours est évalué avec «Informatique II» du second semestre (CS-112(A)). [br/]Pour ce semestre :[br/]Une série notée intermédiaire, 11% du total final[br/]Un examen écrit (2 h), 22% du total final[br/]",
+      "Préparation pour":"Informatique II (CS-112(A))",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de développer une compétence en programmation (langage C++) et de familiariser les étudiants avec un environnement informatique (station de travail sous UNIX), mais aussi de présenter les notions de base de l'informatique logicielle et de l'algorithmique."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Informatique I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-604-9&amp;con_lng=FRE\" target=\"blank\">C     par la pratique : recueil d'exercices corrigés et aide-mémoire / Jean-Cédric Chappelier, Florian Seydoux</a>\". Année:2011. ISBN:978-2-88074-604-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-504-2&amp;con_lng=FRE\" target=\"blank\">Programmation orientée objets en C   : une approche évolutive / Marylène Micheloud, Medard Rieder</a>\". Année:2007. ISBN:978-2-88074-504-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

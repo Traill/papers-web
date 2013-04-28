@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4150874&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","444"],
+    "title":"Multivariable statistic",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4150874&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105381",
+      "name":"Helbling Jean-Marie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Data actually collected are often of the multivariate form. In this course the student will be exposed to some multivariate methods (for example in exploratory data analysis) that will enable him/her to apply these techniques to practical problems.[br/]",
+      "Content":"[li] Multivariate normal distribution: estimation and tests[br/][li] Elliptical distribution[br/][li] Principal component analysis[br/][li] Canonical analysis[br/][li] Discriminant analysis[br/][li] Contingency tables: correspondence analysis simple and multiple[br/][li] Classification methods[br/][li] PLS regression[br/][li] Neural networks",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Required prior knowledge":"Course of Probability and Statistics 2nd cylce"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Multivariable statistic",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105381",
+      "name":"Helbling Jean-Marie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices  en classe",
+      "Contenu":"[li] Loi normale multivariée : estimation et tests[br/][li] Loi elliptique[br/][li] Analyse en composantes principales[br/][li] Analyse canonique[br/][li] Analyse discriminante[br/][li] Tableaux de contingence : analyse des correspondances simples et multiples[br/][li] Méthodes de classification[br/][li] Régression PLS[br/][li] Réseaux de neurones",
+      "Prérequis":"Cours de Probabilité et de Statistique de 2e année",
+      "Objectifs d'apprentissage":"Les données actuellement recueillies sont souvent de type multivariées. Ce cours a pour but de présenter aux étudiants quelques méthodes multivariées en particulier d'analyse exploratoire et de les rendre capables d'utiliser ces techniques dans des problèmes pratiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statistique multivariée",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

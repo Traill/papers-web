@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179240&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","112(a)"],
+    "title":"Linear algebra I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179240&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=en",
+    "section":"SV",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104781",
+      "name":"Cibils Michel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Learn the techniques of linear algebra and matrix calculation. Study of the corresponding mathematical methods with a view towards applications in problems stemming from various specialization areas. The students will have to master the tools necessary to the resolution of problems connected to linearity.[br/]",
+      "Content":"[li]Systems of linear equations[br/][li]Matrix algebra [br/][li]Determinants[br/][li]Vector spaces[br/]",
+      "Type of teaching":"Ex cathedra lectures and exercises",
+      "Prerequisite for":"Linear algebra II, Analysis II, III and IV, Numerical Analysis, Statistics",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Linear algebra I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=ENG\" target=\"blank\">Algèbre linéaire : théorie, exercices et applications / David C. Lay</a>\". Year:2004. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7583-4&amp;con_lng=ENG\" target=\"blank\">Algèbre linéaire et applications / David C. Lay ; trad. de l'américain par Michel Henri</a>\". Year:2012. ISBN:978-2-7440-7583-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-62335-5&amp;con_lng=ENG\" target=\"blank\">Linear algebra and its applications / David C. Lay</a>\". Year:2012. ISBN:978-0-321-62335-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104781",
+      "name":"Cibils Michel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Linear Algebra and its Applications, D. C. Lay, 4th edition (3rd or 2nd edition) Addison-Wesley.[br/]Algèbre linéaire, théorie, exercices et application, D. C. Lay (traduction 3e édition) De Boeck et Larcier.[br/]Algèbre linéaire et ses applications, D. C. Lay (traduction 4e édition) Pearson.[br/]",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[li]Systèmes d'équations linéaires[br/][li]Calcul matriciel[br/][li]Déterminants[br/][li]Espaces vectoriels[br/]",
+      "Forme du contrôle":"Examen propédeutique écrit",
+      "Préparation pour":"Algèbre linéaire II, Analyse II, III et IV, Analyse numérique, Statistique",
+      "Objectifs d'apprentissage":"Apprendre les éléments de l'algèbre linéaire et les techniques du calcul matriciel. Etudier les méthodes mathématiques correspondantes en vue de leur utilisation dans des problèmes issus de divers domaines de spécialisation. Les étudiants devront maîtriser les notions nécessaires à la résolution de problèmes liés à la linéarité."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre linéaire I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=FRE\" target=\"blank\">Algèbre linéaire : théorie, exercices et applications / David C. Lay</a>\". Année:2004. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7583-4&amp;con_lng=FRE\" target=\"blank\">Algèbre linéaire et applications / David C. Lay ; trad. de l'américain par Michel Henri</a>\". Année:2012. ISBN:978-2-7440-7583-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-62335-5&amp;con_lng=FRE\" target=\"blank\">Linear algebra and its applications / David C. Lay</a>\". Année:2012. ISBN:978-0-321-62335-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

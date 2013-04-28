@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771333&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","707"],
+    "title":"Microstructuring of glass",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771333&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113762",
+      "name":"Gijs Martinus"
+    },{
+      "url":"http://people.epfl.ch/145754",
+      "name":"Parashar Virendra Kumar"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] To provide a comprehensive overview of present days techniques and methods to realize micro- and nano-structures in glass.[br/][li] To provide an in-depth understanding of microscopic mechanisms which are at the basis of glass micromachining.[br/][li] To discuss complete microfabrication processes for the realization of glass micro- and nano-structures.[br/][li] To present examples of modern industrial applications based on glass microstructuring methods.",
+      "Content":"1. Glass as a material[br/]Definition, structure, composition, properties and kinds of glasses[br/][br/]2. Techniques for the microstructuring of glass[br/]Wet etching, dry etching, ultrasonic drilling,  powder blasting, laser structuring and photosensitive glass[br/][br/]3. Replication of glass microstructures[br/]The sol-gel process (spin-on-glass), photosensitive spin-on-glass, the replication process (moulding, de-moulding, annealing)[br/][br/]4. Bonding of glass[br/]Anodic bonding, fusion bonding, pressure-assisted bonding, chemical bonding[br/][br/]5. Applications of glass microstructures[br/]a. Optical systems  (Wave guides, gratings, lenses)[br/]b. Bio-chemical systems (Bio-separation and microfluidics, biosensors)[br/]c. Mechanical systems (Pressure sensors, inkjet printing heads)",
+      "Keywords":"Glass, microstructuring, replication, sol-gel process, bonding",
+      "Required prior knowledge":"[li] Introductory course to materials science or microfabrication technologies[br/][li] Basics of chemistry and physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microstructuring of glass",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113762",
+      "name":"Gijs Martinus"
+    },{
+      "url":"http://people.epfl.ch/145754",
+      "name":"Parashar Virendra Kumar"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Glass as a material[br/]Definition, structure, composition, properties and kinds of glasses[br/][br/]2. Techniques for the microstructuring of glass[br/]Wet etching, dry etching, ultrasonic drilling,  powder blasting, laser structuring and photosensitive glass[br/][br/]3. Replication of glass microstructures[br/]The sol-gel process (spin-on-glass), photosensitive spin-on-glass, the replication process (moulding, de-moulding, annealing)[br/][br/]4. Bonding of glass[br/]Anodic bonding, fusion bonding, pressure-assisted bonding, chemical bonding[br/][br/]5. Applications of glass microstructures[br/]a. Optical systems  (Wave guides, gratings, lenses)[br/]b. Bio-chemical systems (Bio-separation and microfluidics, biosensors)[br/]c. Mechanical systems (Pressure sensors, inkjet printing heads)",
+      "Mots clés":"Glass, microstructuring, replication, sol-gel process, bonding",
+      "Prérequis":"[li] Introductory course to materials science or microfabrication technologies[br/][li] Basics of chemistry and physics",
+      "Objectifs d'apprentissage":"[li] To provide a comprehensive overview of present days techniques and methods to realize micro- and nano-structures in glass.[br/][li] To provide an in-depth understanding of microscopic mechanisms which are at the basis of glass micromachining.[br/][li] To discuss complete microfabrication processes for the realization of glass micro- and nano-structures.[br/][li] To present examples of modern industrial applications based on glass microstructuring methods."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microstructuring of glass",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  }
+}

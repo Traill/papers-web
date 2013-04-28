@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1046491990&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","212"],
+    "title":"Biological chemistry II (pour SV)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1046491990&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183105",
+      "name":"Schoonjans Kristina"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To understand and apply the biochemical concepts of intermediary metabolism and energy homeostasis.",
+      "Content":"1. Introduction and key concepts. [br/]2. Bioenergetics and common biochemical reactions in metabolism. [br/]3. Citric acid cycle and oxidative phosphorylation. [br/]4. Glycolysis, gluconeogenesis and pentose phosphate pathway. [br/]5. Glycogen metabolism. [br/]6. Lipid metabolism.[br/]7. Amino acid metabolism.[br/]8. Regulation of energy metabolism"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biological chemistry II (pour SV)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=ENG\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Year:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183105",
+      "name":"Schoonjans Kristina"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Chimie générale, Chimie organique, chimie biologique I, Biologie I,II",
+      "Bibliographie et matériel":"Lehninger - Principles of Biochemistry by David L. Nelson, Michael M. Cox, Fifth edition",
+      "Forme d'enseignement":"Ex cathedra & exercices ",
+      "Contenu":"1. Introduction et concepts de base. [br/]2. Bioénergétique et réactions biochimiques principales. [br/]3. Le cycle de Krebs et la phosphorylation oxydative. [br/]4. La glycolyse, la gluconéogenèse et la voie des pentoses. [br/]5. Métabolisme du glycogène. [br/]6. Métabolisme des lipides.[br/]7. Métabolisme des acides aminés.[br/]8. La régulation du métabolisme énergétique. ",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Chimie biologique III, physiologie",
+      "Objectifs d'apprentissage":"Comprendre et appliquer les concepts biochimiques du métabolisme intermédiaire et de l'homéostasie énergétique. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biological chemistry II (pour SV)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=FRE\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Année:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

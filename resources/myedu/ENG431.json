@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230672732&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENG","431"],
+    "title":"Safety of chemical processes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230672732&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-ING",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113640",
+      "name":"Stoessel Francis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will become familiar with the most common techniques for hazard assessment of chemical processes and will be able to integrate the safety aspects into the design of safe processes.[br/]He will know the techniques allowing the assessment of thermal risks linked to the performance of chemical processes at industrial scale.[br/]He will be able to select and to design the most reliable and practicable the risk reducing measures for a chemical process.",
+      "Content":"[li] Thermal process safety, systematic procedure for the assessment of thermal risks, analysis of incidents[br/]\t[br/][li] Fundamental aspects of thermal safety, calorimetric methods[br/]\t[br/][li] Decomposition reactions, characterisation, autocatalytic reactions, heat accumulation conditions [br/]\t[br/][li] Safe chemical reactors: criteria for the choice of the best suited reactor type and design[br/]\t[br/][li] Technical aspects of process safety, choice of risk reducing measures[br/]\t[br/][li] Safety of physical unit operations, explosions[br/][br/][li] Reliability of technical systems"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Safety of chemical processes",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-97815-2&amp;con_lng=ENG\" target=\"blank\">Guidelines for hazard evaluation procedures / Center for Chemical Process Safety (CCPS)</a>\". Year:2008. ISBN:978-0-471-97815-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31712-7&amp;con_lng=ENG\" target=\"blank\">Thermal safety of chemical processes : risk assessment and process design / Francis Stoessel</a>\". Year:2008. ISBN:978-3-527-31712-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113640",
+      "name":"Stoessel Francis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Cours sur 4 heures, toutes les deux semaines",
+      "Prérequis":"\"Introduction au génie chimique\", \"Risk management\"",
+      "Bibliographie et matériel":"\"Thermal safety of chemical processes\", F. Stoessel, Wiley-VCH, 2008",
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[li] Sécurité thermique des procédés, principes d'évaluation des risques thermiques, analyse d'incidents[br/]\t[br/][li] Bases physico-chimiques de la sécurité thermiques des procédés, Méthodes calorimétriques[br/]\t[br/][li] Réactions de décomposition, leur caractérisation, les réactions auto-catalytiques, le confinement thermique [br/]\t[br/][li] Réacteurs chimiques thermiquement sûrs, critères de choix et de dimensionnement[br/]\t[br/][li] Les aspects techniques de la sécurité des procédés, mesures permettant de réduire le risque [br/]\t[br/][li] Sécurité des opérations unitaires physiques, explosions[br/][br/][li] Fiabilité des systèmes techniques[br/] ",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"L'étudiant se familiarisera avec les principales techniques d'évaluation des risques liés aux procédés chimiques et saura tenir compte des aspects de sécurité pour l'élaboration de procédés sûrs.[br/]Il connaîtra les techniques d'évaluations des risques thermiques liés à la pratique industrielle des procédés chimiques.[br/]Il sera en mesure de choisir et de concevoir les mesures les de réduction des risques les mieux adaptées à un procédé.[br/]  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Safety of chemical processes",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-97815-2&amp;con_lng=FRE\" target=\"blank\">Guidelines for hazard evaluation procedures / Center for Chemical Process Safety (CCPS)</a>\". Année:2008. ISBN:978-0-471-97815-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31712-7&amp;con_lng=FRE\" target=\"blank\">Thermal safety of chemical processes : risk assessment and process design / Francis Stoessel</a>\". Année:2008. ISBN:978-3-527-31712-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

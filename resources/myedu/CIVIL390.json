@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23610182&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","390"],
+    "title":"Project in civil engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23610182&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-65807-fr.html","http://enac.epfl.ch/page-65807-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Practical application and synthesis of the theoretical training within the scope of a project at the Bachelor's level; this project can relate to the multi-subject problems pertaining to the ENAC field or to the various civil engineering applications.",
+      "Content":"Developments of study methodology, management and analyses of project data, problem structuring, comparative evaluation of project's alternatives and schemes.[br/][br/][br/]Study process structuring to allow synthetic information and communication of issues, results and proposals (complete report including executive summary, notes and all the documents required to present the study process and its results).[br/][br/][br/][br/][br/][b]ORGANIZATION[/b][br/][br/]The project theme is chosen by the student from a list compiled by members of the teaching staff. The student may also submit ideas for projects to the professor under whose guidance he will work.[br/][br/]Civil engineering themes: the project will be placed under the responsibility of a professor from the department.[br/][br/]Multi-subject themes: guidance will be available not only from one of the department's professors but also from one or several professors from other departments, according to the subject chosen.[br/][br/]Individual or team work[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Project in civil engineering",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":6,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-65807-fr.html","http://enac.epfl.ch/page-65807-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Choix à partir du portail des projets sur IS-Academia, en accès securisé: http://is-academia.epfl.ch",
+      "Prérequis":"Cours dans les domaines GC du cycle Bachelor",
+      "Bibliographie et matériel":"Dossier des données de base par projet",
+      "Forme d'enseignement":"Projet",
+      "Contenu":"Rechercher, organiser et interpréter les données multiples relatives à un projet ou un aspect déterminé d'un projet, structurer le jeu des hypothèses, esquisser des variantes et présenter, discuter et comparer explicitement des résultats.[br/][br/]Accent mis sur la structuration et la clarté de la démarche, la formalisation des composants de l'étude ainsi que sur la présentation et la communication de la synthèse d'étude (rapport complet comprenant une synthèse, les développements et tous les documents nécessaires à la présentation de la démarche et de ses résultats).[br/][br/][br/][b]ORGANISATION[/b][br/][br/]Le thème du projet est choisi par l'étudiant dans une liste proposée par les enseignants. L'étudiant peut aussi soumettre une idée de projet à un professeur qui l'encadrera. [br/][br/][br/]Thèmes génie civil : le projet sera placé sous la responsabilité d'un professeur de la section.[br/][br/]Thèmes multi-disciplinaires : l'encadrement comprendra, en plus du professeur de la section, un ou plusieurs professeurs d'autres sections, en fonction du sujet choisi[br/][br/][br/]Travail individuel ou en groupe.[br/]",
+      "Forme du contrôle":"Rendu du projet et présentation orale",
+      "Préparation pour":"Projet de Master",
+      "Objectifs d'apprentissage":"Mise en pratique et synthèse de la formation théorique dans le cas d'un projet au niveau du Bachelor ; ce projet peut avoir trait aux problématiques très multidisciplinaires du domaine ENAC ou aux différentes applications du génie civil."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet GC",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":6,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

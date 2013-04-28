@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1583892572&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","301(a)"],
+    "title":"Analytical separation methods (For CGC)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1583892572&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    },{
+      "url":"http://people.epfl.ch/150841",
+      "name":"Roussel Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Understand the physical principles of analytical separation processes ",
+      "Content":"[b]1. Chromatography theory[/b][br/][li] Binomial, Poisson and Gaussian distributions[br/][li] Gas chromatography (GC)[br/][li] Liquid chromatography (HPLC)[br/][li] Ion exchange chromatography[br/][li] Affinity chromatography[br/][br/][br/][b]2. Electrophoresis theory[/b][br/][li] Regulation function.[br/][li] Electrophoretic separation[br/][li] Capillary electrophoresis "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analytical separation methods (For CGC)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-673-5&amp;con_lng=ENG\" target=\"blank\">Electrochimie physique et analytique / Hubert H. Girault</a>\". Year:2007. ISBN:978-2-88074-673-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    },{
+      "url":"http://people.epfl.ch/150841",
+      "name":"Roussel Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra + présentations industrielles + exercices ",
+      "Contenu":"[b]1. Théorie de la chromatographie[/b][br/][li] Distribution binomiale, distribution de Poisson, distribution Gaussienne[br/][li] Chromatographie en phase gazeuse (CPG)[br/][li] Chromatographie en phase liquide (HPLC)[br/][li] Chromatographie par échange d'ions[br/][li] Chromatographie par affinité[br/][br/][b]2. Théorie de l'électrophorèse[/b][br/][li] Fonction de régulation[br/][li] Séparation électophorétique[br/][li] Électrophorèse capillaire ",
+      "Forme du contrôle":"Examen écrit ",
+      "Bibliographie et matériel":"Électrochimie Physique et Analytique, PPUR 2006 ",
+      "Objectifs d'apprentissage":"Comprendre les mécanismes de séparation analytique. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Méthodes de séparation analytiques (Pour CGC)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-673-5&amp;con_lng=FRE\" target=\"blank\">Electrochimie physique et analytique / Hubert H. Girault</a>\". Année:2007. ISBN:978-2-88074-673-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

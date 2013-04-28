@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597628380&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","667"],
+    "title":"Practical - Huelsken Lab (EDMS)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597628380&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://huelsken-lab.epfl.ch/","http://huelsken-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171552",
+      "name":"Hülsken Jörg"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Assessment of signaling mechanisms in cancer[br/][br/]The objectives of the course are:[br/][br/]- to understand the importance of signaling pathways in cancer stroma interactions[br/]- to learn the techniques involved in assessing the function of signaling pathways in vitro and in vivo",
+      "Content":"Basics of major signaling pathways, experimental assays to detect pathway activity in vitro and in vivo and approaches to identify signaling mechanisms at various levels in the pathways.[br/]Practical part :[br/]preparation of primary cell cultures and viral transduction[br/]detection of signaling activity in situ and in vitro using reporter constructs and localization of signaling components.",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Note also that doctoral students from the Huelsken laboratory cannot take this course. Access is limited to 3 students."
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Practical - Huelsken Lab (EDMS)",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://huelsken-lab.epfl.ch/","http://huelsken-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171552",
+      "name":"Hülsken Jörg"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Practical - Huelsken Lab",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  }
+}

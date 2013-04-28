@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1123201598&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","642(a)"],
+    "title":"Scientific writing for biomedical articles (a)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1123201598&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDBB",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218442",
+      "name":"Bailat-Jones Michelle"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":null,
+    "free_text":{
+      "Content":"[li] Comparing different styles of scientific articles[br/][li] Comparing and commenting on a good and bad article[br/][li] Organizing the structure of a research article[br/][li] Writing a research proposal[br/][li] Grammar in scientific articles[br/][li] Readability exercises[br/][li] Peer reviewing each other's writing[br/][li] On the 4th day each student will have inividual coaching of 30 minutes on some writing of their choice.[br/]",
+      "Keywords":"Scientific writing introduction course",
+      "Required prior knowledge":"None, for 1st year PhD students"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Scientific writing for biomedical articles (a)",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218442",
+      "name":"Bailat-Jones Michelle"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Comparing different styles of scientific articles[br/][li] Comparing and commenting on a good and bad article[br/][li] Organizing the structure of a research article[br/][li] Writing a research proposal[br/][li] Grammar in scientific articles[br/] Readability exercises[br/][li] Peer reviewing each other's writing[br/][li] On the 4th day each student will have inividual coaching of 30 minutes on some writing of their choice.[br/]",
+      "Prérequis":"None, for 1st year PhD student",
+      "Mots clés":"Scientific writing introduction course"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Scientific writing for biomedical articles (a)",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  }
+}

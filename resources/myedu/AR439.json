@@ -1,0 +1,103 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24261148&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","439"],
+    "title":"UE F : Architecture and rehabilitation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24261148&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/187807",
+      "name":"Arlaud Blaise"
+    },{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    },{
+      "url":"http://people.epfl.ch/105221",
+      "name":"Genre Jean-Louis"
+    },{
+      "url":"http://people.epfl.ch/113297",
+      "name":"Ortelli Luca"
+    },{
+      "url":"http://people.epfl.ch/102987",
+      "name":"Paule Bernard"
+    },{
+      "url":"http://people.epfl.ch/104348",
+      "name":"Zurbrügg Peter"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This class aims to raise the students' awareness to the specificities of a renovation project. The Teaching Unit focuses on the relation between renovation demands and a broad architectural vision, with particular emphasis on sustainable development. The learning outcomes are the following:[br/][br/][li]Know the theoretical and practical tools of diagnostic in the field of renovation.[br/][li]Apply building diagnosis and evaluation methods to real examples.[br/][li]Define and develop an intervention concept with an analytical basis.[br/][li]Develop a renovation project in cooperation with different participants and carry out more detailed analyses of certain aspects.[br/][li]Confirm the pertinence of the proposals through modelling and representation tools.[br/][li]Present the work process and the results of the analyses in an efficient and effective way.[br/][br/]",
+      "Content":"In a first stage, case studies of real buildings will be analysed and evaluated, going on to establish a diagnosis and define a global concept of intervention.[br/][br/]A second stage will focus on the study and presentation of applicable architectural proposals supported by an interdisciplinary approach towards intervention measures. Within this framework, the students will verify the solutions that were selected, namely by using efficient computer programs.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE F : Architecture and rehabilitation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/187807",
+      "name":"Arlaud Blaise"
+    },{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    },{
+      "url":"http://people.epfl.ch/105221",
+      "name":"Genre Jean-Louis"
+    },{
+      "url":"http://people.epfl.ch/113297",
+      "name":"Ortelli Luca"
+    },{
+      "url":"http://people.epfl.ch/102987",
+      "name":"Paule Bernard"
+    },{
+      "url":"http://people.epfl.ch/104348",
+      "name":"Zurbrügg Peter"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Fiches thématiques.",
+      "Forme d'enseignement":"Cours théoriques. Visites techniques. Travaux pratiques. Séminaires.",
+      "Contenu":"Études de cas comprenant des bâtiments en situation réelle sur lesquels on appliquera, dans une première étape, une démarche d'analyse et d'expertise, suivie d'un diagnostic et d'un concept global d'intervention.[br/][br/]Dans une deuxième phase, des mesures d'intervention à travers une approche interdisciplinaire inciteront à étudier et à présenter des propositions en relation avec une matérialisation des intentions architecturales. Dans ce cadre, l'étudiant/e procèdera à la vérification des solutions choisies en s'appuyant notamment sur des logiciels performants.[br/]",
+      "Forme du contrôle":"Contrôle continu comprenant des présentations orales et la rédaction de rapports. ",
+      "Préparation pour":"Projet de Master.",
+      "Objectifs d'apprentissage":"Le cours vise à sensibiliser les étudiants aux spécificités du projet de réhabilitation. L'UE se concentre sur les rapports entre les impératifs de la réhabilitation et une vision architecturale élargie, avec un accent particulier sur le développement durable. Les objectifs d'apprentissage spécifiques sont les suivants :[br/][br/][li]Connaître la base théorique et pratique du diagnostic dans le domaine de la réhabilitation.[br/][li]Appliquer des méthodes d'évaluation diagnostic du bâtiment à des cas concrets.[br/][li]Définir et développer un concept d'intervention sur la base d'une analyse.[br/][li]Développer un projet de réhabilitation en collaboration avec différents intervenants spécialistes et réaliser des études avancées pour certaines parties.[br/][li]Vérifier la pertinence des propositions à l'aide d'outils de modélisation et de représentation.[br/][li]Communiquer la démarche et les résultats de l'étude de manière efficiente et convaincante.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE F : Architecture et réhabilitation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  }
+}

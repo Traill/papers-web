@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352249550&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","708"],
+    "title":"Statistical Thermodynamics for Engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352249550&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To gain an introductory understanding of the principles and concepts of Statistical hermodynamics; to see how these tools are used in contemporary problems in the applied chemical and materials sciences; and to gain experience with solving related problems.",
+      "Content":"Statistical thermodynamics establishes the connection between microscopic phenomena (quantum behaviors of molecules or particles) and macroscopic quantities of thermodynamics (entropy, enthalpy, free energy). This course will aim to:[br/][br/](1) provide an introductory understanding of the principles and concepts of Statistical Thermodynamics;[br/](2) show how these tools are used in contemporary problems in the applied chemical and materials sciences;[br/](3) and give the student experience with solving related problems on pen and paper and also using programming tools.[br/][br/]The first part of the course will cover a theoretical and conceptual foundation, including probability, ensembles, ergodicity, partition functions, independent and distinguishable systems, and the ideal gas case for polyatomic molecules. The second part of the course will explore practical applications of contemporary relevance, including chemical reaction kinetics, molecular dynamics treatment of condensed phase systems, and event sampling techniques such as thermodynamic integration, free energy perturbation, and others. Topics covered are especially relevant to students interested in condensed phase systems. If time allows, we will also touch on other scientific domains that have been inspired by theories of statistical thermodynamics.",
+      "Required prior knowledge":"calculus"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical Thermodynamics for Engineering",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Statistical thermodynamics establishes the connection between microscopic phenomena (quantum behaviors of molecules or particles) and macroscopic quantities of thermodynamics (entropy, enthalpy, free energy). This course will aim to:[br/][br/](1) provide an introductory understanding of the principles and concepts of Statistical Thermodynamics;[br/](2) show how these tools are used in contemporary problems in the applied chemical and materials sciences;[br/](3) and give the student experience with solving related problems on pen and paper and also using programming tools.[br/][br/]The first part of the course will cover a theoretical and conceptual foundation, including probability, ensembles, ergodicity, partition functions, independent and distinguishable systems, and the ideal gas case for polyatomic molecules. The second part of the course will explore practical applications of contemporary relevance, including chemical reaction kinetics, molecular dynamics treatment of condensed phase systems, and event sampling techniques such as thermodynamic integration, free energy perturbation, and others. Topics covered are especially relevant to students interested in condensed phase systems. If time allows, we will also touch on other scientific domains that have been inspired by theories of statistical thermodynamics.[br/][br/]",
+      "Prérequis":"calculus",
+      "Objectifs d'apprentissage":"To gain an introductory understanding of the principles and concepts of Statistical Thermodynamics; to see how these tools are used in contemporary problems in the applied chemical and materials sciences; and to gain experience with solving related problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical Thermodynamics for Engineering",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

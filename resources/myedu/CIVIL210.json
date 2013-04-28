@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71543597&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","210"],
+    "title":"Fluids mechanics (For GC)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71543597&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148669",
+      "name":"Ancey Christophe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To provide the students with the fundamentals of fluid mechanics[br/]",
+      "Content":"[li]Fluid properties : states of matter, viscosity, rhéology, surface tension[br/][li]Similitude: SI units, Vaschy-Buckingham theorem, Rayleigh method, dimensional analysis, applications [br/][li]Fluid statics: Pascal law, measurement[br/][li]Conservation equations: transport theorems, Bernoulli equation, applications[br/][li]Hydraulics: waterways (terminology), steady uniform and non-uniform regimes, critical flow, flow-depth profile[br/][li]Laminar and turbulent flows: Navier-Stokes equations, solving techniques, boundary layer, viscosity-dominated flows, turbulence, closure equations[br/][li]Pressure-driven flows : flow resistance, applications[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Midway examination (33 %) + final examination (66 % of the marks)",
+      "Required prior knowledge":"Physics, Mechanics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fluids mechanics (For GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148669",
+      "name":"Ancey Christophe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique, Mécanique",
+      "Bibliographie et matériel":"Polycopié de cours (sur Internet)",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[li]Propriétés des fluides : états de la matière, viscosité, rhéologie, tension de surface[br/][li]Similitude : mesures du système international, théorème de Vaschy-Buckingham, méthode de Rayleigh, analyse dimensionnelle applications à l'ingénierie [br/][li]Statique des fluides : loi de l'hydrostatique, origine physique de la pression, mesure de la pression[br/][li]Équations de bilan : théorèmes de transport, théorème de Bernoulli, applications[br/][li]Hydraulique des canaux : cours d'eau (vocabulaire), permanent uniforme, régime permanent non uniforme, courbe de remous, écoulement critique[br/][li]Écoulements laminaires et turbulents : équations de Navier-Stokes, méthode de résolution, couche limite, écoulements dominés par la viscosité, moyenne des équations de Navier-Stokes, problèmes de fermeture[br/][li]Écoulements en charge : écoulement permanent lisse, écoulement permanent rugueux, calcul pratique des pertes de charge",
+      "Forme du contrôle":"Examen intermédiaire (33 %) + examen final (66 % de la note)",
+      "Objectifs d'apprentissage":"Fournir à l'étudiant les notions fondamentales de la mécanique des fluides"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mécanique des fluides (pour GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

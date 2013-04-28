@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652076110&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","597"],
+    "title":"Engineering internship credited with Master project (master in Communication Systems)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652076110&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SC-EPFL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104858",
+      "name":"Dal Mas Sylviane"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Engineering internship credited with Master project (master in Communication Systems)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104858",
+      "name":"Dal Mas Sylviane"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":"Automne",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Stage d'ingénieur crédité avec le PDM (master en Systèmes de communication)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

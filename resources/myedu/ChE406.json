@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48102268&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ChE","406"],
+    "title":"Chemical processes of sustainable and renewable energy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48102268&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106543",
+      "name":"Thampi Ravindranathan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course is intended to introduce the chemistry and chemical engineering concepts related to sustainable and renewable energy vectors. As prior knowledge on the use of energy, important reactions in petroleum processing, coal liquefaction and hydrogen production from hydrocarbons will be briefly examined.[br/]The environmental issues related to CO2 release and the concept of CO2 neutral fuels will be introduced. Then, natural photosynthesis and the artificial mimicking of photosynthesis will be taught. The course will cover thermodynamic principles of energy conversion, technical processes involving biomass, bio-gas and liquid bio-fuels, natural gas usage, various types of solar energy conversion methods and principles, low carbon fuels, hydrogen economy, electrolysis and photoelectrolysis of water, fuel cells, and bio-fuel cell principles.The use of renewable energy for mobility applications will also be dealt with.[br/]The students will see and familiarise with different types of solar cells and fuel cells. [br/][br/]",
+      "Content":"Production of hydrogen from fossil fuels; CO2 chemistry: Environmental issues and CO2 neutral fuels; Principles of photosynthesis; Thermodynamics of Energy conversion processes; Low carbon fuels; Chemistry and chemical engineering of biomass, bio-gas and liquid bio-fuels; Chemistry of natural gas; Various types of solar energy conversion methods and principles; Energy storage issues; Hydrogen economy; Renewable hydrogen; Electrolysis and photoelectrolysis of water; Fuel cells,and bio-fuel cell principles.[br/][i]Demonstrations:[/i][br/]Dye sensitized, silicon and thin film solar cells. Solid oxide and Polymer electrolyte fuel cells.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra. Course given 6 hours every 2 weeks",
+      "Note":"The course will create a base for careers in chemistry, engineering, materials, energy planning, teaching, research, economics, and society management and development. ",
+      "Required prior knowledge":"3 years of study in any branches of physical and chemical sciences or engineering (@ bachelor level) "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical processes of sustainable and renewable energy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-85186-634-4&amp;con_lng=ENG\" target=\"blank\">Carbon dioxide chemistry : environmental issues / ed. by Jan Paul and Claire-Marie Pradier</a>\". Year:1994. ISBN:0-85186-634-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-408-00390-1&amp;con_lng=ENG\" target=\"blank\">Energy storage / Johannes Jensen</a>\". Year:1980. ISBN:0-408-00390-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-84857-9&amp;con_lng=ENG\" target=\"blank\">Fuel cell systems explained / James Larminie, Andrew Dicks</a>\". Year:2003. ISBN:978-0-470-84857-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-45713-8&amp;con_lng=ENG\" target=\"blank\">Fundamentals of industrial catalytic processes / Calvin H. Bartholomew, Robert J. Farrauto</a>\". Year:2006. ISBN:978-0-471-45713-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-49926-9&amp;con_lng=ENG\" target=\"blank\">Handbook of fuel cells : fundamentals, technology and applications / eds.: Wolf Vielstich ... [et al.]</a>\". Year:2004. ISBN:0-471-49926-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-18896-7&amp;con_lng=ENG\" target=\"blank\">Hydrogen as an energy carrier : technologies, systems, economy / Carl-Jochen Winter, Joachim Nitsch (eds.)</a>\". Year:1988. ISBN:0-387-18896-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-40137-7&amp;con_lng=ENG\" target=\"blank\">Third generation photovoltaics : advanced solar energy conversion / Martin A. Green</a>\". Year:2003. ISBN:3-540-40137-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106543",
+      "name":"Thampi Ravindranathan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Le cours sera une base pour une spécialisation en chimie, génie chimique, matériaux, planification d'énergie, enseignement, recherche, économie et développement et gestion de société.",
+      "Prérequis":"3 années d'études en physique, chimie ou génie chimique.",
+      "Bibliographie et matériel":"Handbook of Fuel Cells - Fundamental Technology and Applications, Vol. 2 Electrocatalysis; W. Vielstich & al. UK, 2003.[br/]CO2 Chemistry: Environmental issues, J. Paul and C.-M. Pradier, The Royal Society of Chemistry, UK, 1993.[br/]Fundamentals of Industrial Catalytic Processes, C.H. Bartholomew and R.J. Farrauto, John Wiley, USA, 2006.[br/]Third Generation Photovoltaics - Advanced solar energy conversion, M.A. Green, Springer-Verlag, Berlin, 2003.[br/]Fuel Cell systems explained - J. Larminie and A. Dicks. John Wiley, UK, 2003.[br/]Thermodynamics for Engineers and Chemists, - any standard book [br/]Hydrogen as an Energy Carrier, C.-J. Winter and J. Nitsch (Eds.), Springer Verlag, 1988.[br/]Energy Storage, J. Jensen, Newnes-Butterworths, UK, 1980.",
+      "Forme d'enseignement":"Ex cathedra. Cours donné 6 heures tous les 15 jours ",
+      "Contenu":"Procédés pétroliers et de gaz naturels: production d'hydrogène à partir de carburants fossiles; Chimie du CO2: impacts environnementaux et carburants neutres d'un point de vue du CO2; Principes de photosynthèse; Thermodynamque des procédés de conversion d'énergie avec des carburants pauvres en carbone; Chimie et génie chimique de la biomasse, du biogaz, et procédés de production de biocarburants liquides; Chimie du gaz naturel; Différentes méthodes de conversion de l'énergie solaire et principes; Emmagasinage de l'énergie; Economie de l'hydrogène et hydrogène renouvelable, Electrolyse et photoélectrolyse de l'eau; Principes des piles à combustible et piles à biocombustibles[br/][i]Démonstrations:[/i][br/]Cellules solaires à colorants, en silice et en films fins. Piles à combustible avec des oxydes solides et des polymères à électrolytes ",
+      "Forme du contrôle":"Ecrit (en français ou en anglais)",
+      "Objectifs d'apprentissage":"Introduction des concepts de chimie et de génie chimique orientés[br/]vers la durabilité et les énergies renouvelables. Un rappel sur l'utilisation de l'énergie, les procédés importants en chimie du pétrole, la liquéfaction du charbon et la production d'hydrogène à partir d'hydrocarbure. Présentation des problèmes environnementaux relatifs aux émissions de CO2 et le concept de carburants neutres d'un point de vue du CO2. Présentation de la photosynthèse naturelle et d'agents artificiels mimant la photosynthèse. Le cours couvrira les principes thermodynamiques de la conversion d'énergie, des procédés techniques mettant en jeu la biomasse, le biogaz et les biocarburants liquides, l'utilisation de gaz naturel et divers types de méthodes de conversion de l'énergie solaire ainsi que l'étude du carburants pauvres en carbone, le bilan d'hydrogène, l'électrolyse et la photoélectrolyse de l'eau, les piles à combustible et les piles à biocombustibles. L'utilisation de l'énergie renouvelable pour des application de mobilité sera également abordée. L'étudiant se familiarisera avec différents types de cellules solaires et à carburant. Possibles visites en laboratoire."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical processes of sustainable and renewable energy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-85186-634-4&amp;con_lng=FRE\" target=\"blank\">Carbon dioxide chemistry : environmental issues / ed. by Jan Paul and Claire-Marie Pradier</a>\". Année:1994. ISBN:0-85186-634-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-408-00390-1&amp;con_lng=FRE\" target=\"blank\">Energy storage / Johannes Jensen</a>\". Année:1980. ISBN:0-408-00390-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-84857-9&amp;con_lng=FRE\" target=\"blank\">Fuel cell systems explained / James Larminie, Andrew Dicks</a>\". Année:2003. ISBN:978-0-470-84857-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-45713-8&amp;con_lng=FRE\" target=\"blank\">Fundamentals of industrial catalytic processes / Calvin H. Bartholomew, Robert J. Farrauto</a>\". Année:2006. ISBN:978-0-471-45713-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-49926-9&amp;con_lng=FRE\" target=\"blank\">Handbook of fuel cells : fundamentals, technology and applications / eds.: Wolf Vielstich ... [et al.]</a>\". Année:2004. ISBN:0-471-49926-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-18896-7&amp;con_lng=FRE\" target=\"blank\">Hydrogen as an energy carrier : technologies, systems, economy / Carl-Jochen Winter, Joachim Nitsch (eds.)</a>\". Année:1988. ISBN:0-387-18896-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-40137-7&amp;con_lng=FRE\" target=\"blank\">Third generation photovoltaics : advanced solar energy conversion / Martin A. Green</a>\". Année:2003. ISBN:3-540-40137-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

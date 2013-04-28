@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352254240&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","382"],
+    "title":"Neuroscience for engineers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352254240&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/165806",
+      "name":"Blanke Olaf"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"In this course students will get an overview of the brain with special emphasis on areas of neuroscience where engineering approaches have made major contributions in the past, or are likely to contribute in the future. The student will learn about the major sensory, motor, and cognitive systems, the structure and function of the fundamental building blocks of the brain, its synapses and neurons. An important section of the course is dedicated to brain disorders and their repair with special emphasis on neuroprosthetics. Students will be exposed to the basic methods on how to study the brain in vivo and in vitro, in animals and humans, including cellular electrophysiology, optical imaging, electroencephalography, neuroimaging, and computational neuroscience. This will enable the student to critically evaluate how neurons, groups of neurons, and brain regions are studied and how they contribute to sensory, motor, and cognitive functions. The course will introduce key areas related to neuro-engineering.",
+      "Content":"[li][b]General Introduction & Visual system[/b] (Blanke)[br/]Exercises: To virtual reality (Blanke)[br/][li][b]Vision: Perception, Neurophysiology, Neuroimaging[/b] (Herzog)[br/]Exercises: Computer Vision (Herzog)[br/][li][b]Hodgkin-Huxley model: from Ion channels to Mathematics[/b] (Gerstner)[br/]Exercises: Neuron modelling (Gerstner)[br/][li][b]Large scale modelling of the brain[/b] (Markram)[br/]Exercises: Blue Brain (Schürmann)[br/][li][b]Systems: Audition[/b](BMI professor)[br/]Exercises: Cochlear Implants (External)[br/][li][b]Systems: Somatosensation and Optogenetics[/b] (Petersen)[br/]Exercises: Optogenetics (Petersen)[br/][li][b]Systems: Motor[/b] (Luthi-Carter)[br/]Exercises: Parkinson's and Huntington Disease, ALS (Moore)[br/][li][b]Neuroprosthetics: Artificial Arms [/b](Blanke)[br/]Exercises: Neuroprosthetics (Blanke)[br/][li][b]Neuroprosthetics: BCI and EEG[/b] (Blanke)[br/]Exercises: Brain-Computer Interface (Millan)[br/][li][b]Brain metabolism and Neuroimaging[/b](Magistretti)[br/]Exercises: Physics of Brain imaging (Gruetter)[br/][li][b]MRI in humans[/b](Hadjikhani)[br/]Exercises: Diffusion Tensor Imaging (Thiran)[br/][li][b]Memory[/b](Sandi)[br/]Exercises: Memory (Sandi)[br/][li][b]Alzheimer Disease[/b] (Fraering)[br/]Exercises: Therapeutic interventions (Fraering)[br/][li][b]Language and Summary[/b] (Blanke)[br/]Exercises: Aphasia (Blanke)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neuroscience for engineers",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-697-7&amp;con_lng=ENG\" target=\"blank\">Neuroscience / ed. by Dale Purves ... [et al.]</a>\". Year:2008. ISBN:978-0-87893-697-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4797-5&amp;con_lng=ENG\" target=\"blank\">Neurosciences / Purves ... [et al.] ; trad. de la 3e éd. américaine par Jean-Marie Coquery</a>\". Year:2005. ISBN:2-8041-4797-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/165806",
+      "name":"Blanke Olaf"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physiologie par systèmes I",
+      "Bibliographie et matériel":"\"Neuroscience\" ed. by Dale Purves... [et al.], 4th ed., Sunderland, MA: Sinauer, 2008, ISBN-10: 0878936971 ",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[li] [b] Introduction générale [/b] (Blanke) [br/]Exercices: A la réalité virtuelle (Blanke) [br/][li] [b] Vision: Perception, Neurophysiologie [/b] (Herzog) [br/]Exercices: Vision par Ordinateur (Herzog) [br/][li] [b] Modèle de Hodgkin-Huxley: des canaux ioniques aux mathématiques [/b] (Gerstner) [br/]Exercices: modélisation neuronale (Gerstner) [br/][li] [b] Modélisation du cerveau à grande échelle [/b] (Markram) [br/]Exercices: Projet Blue Brain (Schürmann) [br/][li] [b] Systèmes: Audition [/b](professeur IMC) [br/]Exercices: Les implants cochléaires (externe) [br/][li] [b] Systèmes: Somatosensation et Optogénétique [/b] (Petersen) [br/]Exercices: Optogénétique(Petersen) [br/][li] [b] Systèmes: La motricité[/b] (Luthi-Carter) [br/]Exercices: Maladie de Parkinson et de Huntington, sclérose latérale amyotrophique (Moore) [br/][li] [b] Neuroprothèses: bras artificiels [/b] (Blanke) [br/]Exercices: neuroprothèses (Blanke) [br/][li] [b] Neuroprothèses: BCI et EEG [/b] (Blanke) [br/]Exercices: interface cerveau-ordinateur (Millan) [br/][li] [b] Le métabolisme du cerveau et la neuroimagerie [/b] (Magistretti) [br/]Exercices: Physique de l'imagerie cérébrale (Gruetter) [br/][li] [b] IRM chez l'être humain [/b] (Hadjikhani) [br/]Exercices: L'imagerie du tenseur de diffusion (Thiran) [br/][li] [b] Mémoire [/b] (Sandi) [br/]Exercices: Mémoire (Sandi) [br/][li] [b] La maladie d'Alzheimer [/b] (Fraering) [br/]Exercices: Les interventions thérapeutiques (Fraering) [br/][li] [b] Langage [/b] (Blanke) [br/]Exercices: Aphasie (Blanke)",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Dans ce cours, les étudiants obtiendront un aperçu du cerveau avec un accent particulier sur les domaines de la neuroscience, où les approches techniques ont fait d'importantes contributions dans le passé et sont susceptibles de contribuer à l'avenir. L'étudiant devra connaître les grandes fonctions sensorielles, motrices, cognitives et des systèmes, la structure et la fonction des composantes fondamentales du cerveau, ses synapses et les neurones. Une partie importante du cours est consacrée à des troubles du cerveau et de leur réparation avec un accent particulier sur les neuroprothèses. Les étudiants seront exposés aux méthodes de base sur la façon d'étudier le cerveau in vivo et in vitro, chez les animaux et les humains, y compris l'électrophysiologie cellulaire, l'imagerie optique, l'électroencéphalographie, la neuro-imagerie et les neurosciences computationnelles. Cela permettra à l'étudiant d'évaluer de façon critique comment les neurones, les groupes de neurones, et les régions du cerveau sont étudiées et comment ils contribuent aux fonctions sensorielles, motrices et cognitives. Le cours vise à introduire des domaines clés liés à la neuro-ingénierie."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neuroscience for engineers",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-697-7&amp;con_lng=FRE\" target=\"blank\">Neuroscience / ed. by Dale Purves ... [et al.]</a>\". Année:2008. ISBN:978-0-87893-697-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4797-5&amp;con_lng=FRE\" target=\"blank\">Neurosciences / Purves ... [et al.] ; trad. de la 3e éd. américaine par Jean-Marie Coquery</a>\". Année:2005. ISBN:2-8041-4797-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

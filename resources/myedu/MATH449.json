@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354954033&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","449"],
+    "title":"Biostatistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354954033&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course teaches the methods that are useful in applications of statistics in medicine and biology.",
+      "Content":"[li] medical statistics, clinical trials, case/control studies[br/][li] analysis of counts and proportions, logistic regression[br/][li] contingency tables and log-linear models[br/][li] combining evidence from several studies: meta analysis[br/][li] cross-over studies[br/][li] generalised linear models[br/][li] random effects, mixed models[br/][li] longitudinal studies: conditional vs marginal models[br/][li] survival analysis: Cox's proportional hasard model, accelerated lifetimes"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biostatistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[li] statistique médicale, essais cliniques[br/][li] analyse de données de comptage et de proportions, régression logistique[br/][li] tableaux de contingences et modèles log-linéaires[br/][li] combiner les résultats de plusieurs essais : meta analysis[br/][li] essais avec intercroisement des traitements[br/][li] modèles linéaires généralisés[br/][li] effets aléatoires, modèles mixtes[br/][li] données longitudinales : modèles conditionnels et modèles marginaux[br/][li] données de survie : risque proportionnel et durée de vie accélérée",
+      "Objectifs d'apprentissage":"Le cours enseigne les méthodes que l'on rencontre souvent dans les applications de la statistique en médecine et en biologie."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biostatistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

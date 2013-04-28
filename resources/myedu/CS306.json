@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348719454&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","306"],
+    "title":"Software development project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348719454&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://sweng.epfl.ch/","http://sweng.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172241",
+      "name":"Candea George"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Throughout semester[br/]50% individual + 30% team + 20% class[br/]",
+      "Bibliography and material":"[i]The Deadline : A Novel About Project Management,[/i]  by T. DeMarco, Computer Bookshops, 1997 (ISBN 0932633390)",
+      "Required prior knowledge":"(CS-305) Software engineering[br/]",
+      "Content":"Building large-scale software systems[br/]Security, reliability, performance[br/]Agile development methods (SCRUM, etc.)[br/]Testing, validation, verification[br/]Specifications and documentation[br/]Reuse, patching, upgrading[br/]Usability[br/]Source code management[br/]Software project management",
+      "Type of teaching":"Project[br/]",
+      "Learning outcomes":"In this course we operate like in a startup and learn to develop software for the real world, work in large teams, be productive with code bases that cannot be comprehended in their entirety, and interact with real customers. Planning a feature, estimating total cost, packaging it up for distribution and maintenance are things that inexperienced developers rarely get right, but are vital for the success of a software project. Past project results include EPFL's PocketCampus smartphone app.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Software development project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-932633-39-0&amp;con_lng=ENG\" target=\"blank\">The deadline : a novel about project management / Tom DeMarco</a>\". Year:1997. ISBN:0-932633-39-0</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://sweng.epfl.ch/","http://sweng.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172241",
+      "name":"Candea George"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"(CS-305) Software engineering[br/]",
+      "Bibliographie et matériel":"\"The Deadline: A Novel About Project Management\", by Tom DeMarco, Computer Bookshops, 1997 (ISBN 0932633390)[br/]",
+      "Forme d'enseignement":"Projet[br/]",
+      "Contenu":"Construction de logiciels de grande envergure[br/]Sécurité, fiabilité, performance[br/]Méthodes de développement agiles (SCRUM, etc.)[br/]Test, validation, vérification[br/]Spécifications et documentation[br/]Réutilisation, patching, mise à jour[br/]Utilisabilité[br/]Gestion de code source[br/]Gestion de projet de génie logiciel",
+      "Forme du contrôle":"Contrôle continu[br/]50% individuel + 30% groupe + 20% classe[br/]",
+      "Objectifs d'apprentissage":"Dans ce cours nous prétendons être une start-up et on apprend comment développer des applications dans le monde réel, travailler dans de grandes équipes, manipuler de manière productive des bases de code qui ne peuvent être comprises dans leur totalité, et interagir avec de vrais clients. Planifier une fonctionnalité, estimer le coût total, distribuer une application et assurer sa maintenance sont des choses que les développeurs inexpérimentés ne font pas correctement, mais qui sont vitales pour le succès.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Software development project",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-932633-39-0&amp;con_lng=FRE\" target=\"blank\">The deadline : a novel about project management / Tom DeMarco</a>\". Année:1997. ISBN:0-932633-39-0</li></ul>",
+    "lecture":null
+  }
+}

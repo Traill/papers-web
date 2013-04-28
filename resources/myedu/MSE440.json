@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71630664&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","440"],
+    "title":"Composites technology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71630664&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    },{
+      "url":"http://people.epfl.ch/113157",
+      "name":"Michaud Véronique"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To introduce the latest developments in the field of polymer composites by presenting novel processing techniques, design concepts and the latest generations of composite materials and structures. [br/]To illustrate material selection, design, processing and implementation by discussing real application examples. [br/]",
+      "Content":"[b]Basics of composite materials[/b][br/][li]Constituents[br/][li]Processing of composites[br/][li]Design of composite structures[br/][br/][b]Current development[/b][br/][li]Nanocomposites [br/][li]Textile composites[br/][li]Biocomposites[br/][li]Adaptive composites[br/][br/][b]Applications[/b][br/][li]Driving forces and markets[br/][li]Cost analysis[br/][li]Aerospace[br/][li]Automotive[br/][li]Sport ",
+      "Prerequisite for":"Materials for sport",
+      "Form of examination":"Written exam + report and oral presentation in class"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Composites technology",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    },{
+      "url":"http://people.epfl.ch/113157",
+      "name":"Michaud Véronique"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et invités",
+      "Contenu":"[b]Introduction aux matériaux composites[/b][br/][li]Constituants [br/][li]Mise en oeuvre des composites [br/][li]Design de structures [br/][br/][b]Développements actuels[/b][br/][li]Nanocomposites [br/][li]Composites textiles [br/][li]Biocomposites[br/][li]Composites adaptatifs [br/][br/][b]Applications[/b][br/][li]Motivations et marchés [br/][li]Analyse des coûts [br/][li]Aérospatiale[br/][li]Automobile [br/][li]Sport",
+      "Forme du contrôle":"examen écrit + rapport et présentation orale en classe",
+      "Préparation pour":"Matériaux pour le sport",
+      "Objectifs d'apprentissage":"Présenter les derniers développements du domaine des matériaux composites organiques en présentant les nouvelles techniques de mise en oeuvre, de conception et les dernières générations de matériaux composites.[br/]Illustrer le choix des matériaux, la conception, la mise en oeuvre et la mise en application par des exemples concrets."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Composites technology",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

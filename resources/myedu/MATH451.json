@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497044684&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","451"],
+    "title":"Numerical approximation of partial differential equations I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497044684&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118353",
+      "name":"Nobile Fabio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Prerequisite for":"Numerical approximation of partial differential equations II",
+      "Required prior knowledge":"Analysis I and II, Numerical analysis, Introduction to the finite elements[br/]method",
+      "Content":"- Basics of functional analysis[br/]- Linear elliptic problems: weak form, well-posedness, Galerkin approximation[br/]- Finite element approximation in two and three dimensions: stability, convergence, a-priori error estimates in different norms, implementation aspects[br/]- Mixed problems: weak formulation, well-posedness, inf-sup condition; compatible finite element approximations, convergence analysis[br/]- Applications to incompressible elasticity, Stokes flows, Darcy equations[br/][br/]",
+      "Type of teaching":"Ex cathedra lectures, exercises in the classroom and computer lab sessions",
+      "Learning outcomes":"The aim of this course is to give a theoretical and practical knowledge of finite elements method for two and three dimensional partial differential equations.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical approximation of partial differential equations I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1070-3&amp;con_lng=ENG\" target=\"blank\">Numerical models for differential problems / Alfio Quarteroni</a>\". Year:2009. ISBN:978-88-470-1070-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118353",
+      "name":"Nobile Fabio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Analyse numérique, Introduction à la méthode des éléments finis",
+      "Bibliographie et matériel":"A.Quarteroni, Numerical Models for Differential Problems, Springer 2009, ISBN 978-88-470-1070-3.[br/][br/]D'autres références seront indiquées pendant le cours / Other references will be indicated during the course.[br/]",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe et sur ordinateur",
+      "Contenu":"- Notions de base d'analyse fonctionnelle[br/]- Problèmes elliptiques linéaires : forme faible, existence et unicité de la solution, approximation de Galerkin[br/]- Espaces des éléments finis conformes en deux et trois dimensions, mise en ½uvre de la méthode[br/]- Analyse de stabilité et convergence, estimations a-priori dans plusieurs normes[br/]- Problèmes mixtes : forme faible, résultats d'existence et d'unicité ; espaces des éléments finis compatibles ; analyse de convergence[br/]- Application aux équations de l'élasticité incompressible, écoulement de Stokes, équations de Darcy",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Numerical approximation of partial differential equations II",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de donner une base théorique et pratique des méthodes des éléments finis pour l'approximation numérique des équations aux dérivées partielles en deux et trois dimensions d'espace."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical approximation of partial differential equations I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1070-3&amp;con_lng=FRE\" target=\"blank\">Numerical models for differential problems / Alfio Quarteroni</a>\". Année:2009. ISBN:978-88-470-1070-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

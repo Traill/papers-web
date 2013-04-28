@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=830900311&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","452"],
+    "title":"Railway operation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=830900311&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101265",
+      "name":"Emery Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]\tTo master railway technical operations and dispatching:[/b][br/][li]\tTo understand signalling[br/][li]\tTo know some operation modes[br/][li]\tTo master dispatching[br/][li]\tTo be able to determine potentialities and limits of each operating system",
+      "Content":"High level signalling[br/][li]\tMulti-aspect block systems[br/][li]\tCab-signalling[br/][li]\tAutomatic Train Operation[br/][br/]Interoperability[br/][li]\tTrack gauge change and third-rail operation[br/][li]\tTraction mode and electrical sub-network transitions[br/][li]\tAutomatic Train Protection and signalling transitions[br/][li]\tTechnical Specification for Interoperability[br/][li]\tTram-train[br/][br/]Specific Operating Modes[br/][li]\tShunting moves[br/][li]\tMarshalling yards and intermodal terminals[br/][li]\tOperation without interlocking[br/][li]\tTram and wire-free operation[br/][li]\tRack-rail and Cable Railways[br/][br/]Control and special managements[br/][li]\tControl Centres[br/][li]\tConflicts and free flow[br/][li]\tEconomic driving[br/][li]\tSpecial speed limits[br/][li]\tCapacity reduction and bus substitution"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Railway operation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101265",
+      "name":"Emery Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Conception des infrastructures de transport (CIVIL-350)",
+      "Bibliographie et matériel":"Supports de cours, documents, références bibliographiques",
+      "Forme d'enseignement":"Ex-cathedra, étude de cas et exercices en salle, visites",
+      "Contenu":"Signalisation ferroviaire complexe[br/][li]\tBlocks ferroviaires à plus de trois aspects et block mobile[br/][li]\tSignalisations en cabine[br/][li]\tConduite automatique[br/][br/]Interopérabilité[br/][li]\tChangement d'écartement et 3e rail[br/][li]\tChangement de mode de traction et sectionnements[br/][li]\tChangement de type de signalisation et de surveillance[br/][li]\tSpécifications Techniques d'Interopérabilité[br/][li]\tTram-train[br/][br/]Modes d'exploitation particuliers[br/][li]\tMouvements de man½uvres[br/][li]\tGares de triage et plateformes intermodales[br/][li]\tExploitation sans enclenchements[br/][li]\tTrams et exploitation sans ligne de contact[br/][li]\tCrémaillères et funiculaires[br/][br/]Régulation et gestions particulières[br/][li]\tCentrales d'exploitation[br/][li]\tConflits et fluidification[br/][li]\tConduite économique[br/][li]\tLimitations exceptionnelles de vitesse[br/][li]\tRéduction de la capacité et substitution par bus",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Projets et Travail pratique de Master",
+      "Objectifs d'apprentissage":"[b]\tMaîtriser l'exploitation ferroviaire technique et sa régulation:[/b][br/][li]\tComprendre les différents types de signalisation ferroviaire[br/][li]\tConnaître les différents systèmes d'exploitation ferroviaire[br/][li]\tMaîtriser les différents modes de régulation ferroviaire[br/][li]\tÊtre capable de déterminer les potentialités et les limites de chaque système d'exploitation"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Exploitation ferroviaire",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

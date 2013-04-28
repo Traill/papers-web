@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230678232&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","401"],
+    "title":"Astrophysics III : Stellar and galactic dynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230678232&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"PH",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158695",
+      "name":"Meylan Georges"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to acquire the knowledge on specific dynamical phenomena related to the origin, equilibrium and evolution of star clusters, galaxies and galaxy clusters.[br/][]",
+      "Content":"1.  Introduction: distances, sizes, masses of stellar dynamics systems such as star and galaxy clusters.[br/][br/]2.  Potential theory.[br/][br/]3.  The orbits of stars.[br/][br/]4.  Equilibria of collisionless systems.[br/][br/]5.  Stability of collisionless systems.[br/][br/]6.  Disk dynamics.[br/][br/]7.  Kinetic theory: relaxation processes, thermodynamics of self-gravitating systems, Fokker-Planck approximation.[br/][br/]8.  Collisions and encounters of stellar systems[br/]     [br/]    ",
+      "Type of teaching":"Ex cathedra and exercises supervised in classroom",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Bachelor in physics or mathematics and Astrophysics I and II"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Astrophysics III : Stellar and galactic dynamics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-691-13026-2&amp;con_lng=ENG\" target=\"blank\">Galactic dynamics / James Binney and Scott Tremaine</a>\". Year:2008. ISBN:978-0-691-13026-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158695",
+      "name":"Meylan Georges"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Bachelor de physique ou mathématique et Astrophysique I et II",
+      "Bibliographie et matériel":"\"Galactic dynamics\", J. Binney & S. Tremaine, Princeton, second Edition (2008)",
+      "Forme d'enseignement":"Ex cathedra (avec polycopié) et exercices dirigés en classe",
+      "Contenu":"1.  Introduction : distances, tailles, masses des systèmes de la dynamique stellaire : amas d'étoiles et de galaxies.[br/][br/]2.  Théorie du potentiel.[br/][br/]3.  Les orbites stellaires.[br/][br/]4.  Equilibre des systèmes sans collisions.[br/][br/]5.  Stabilité des systèmes sans collisions.[br/][br/]6.  Dynamique des disques.[br/][br/]7.  Théorie cinétique : processus de relaxation, thermodynamique des systèmes autogravitants, approximation de Fokker-Planck.[br/][br/]8.  Collisions et rencontres de systèmes stellaires.[br/]     [br/]  ",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Le but de ce cours est d'acquérir les connaissances sur les phénomènes de dynamique spécifiques, déterminant l'origine, l'équilibre et l'évolution des objets cosmiques tels que les amas d'étoiles, les galaxies et les amas de galaxies."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Astrophysics III : Stellar and galactic dynamics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-691-13026-2&amp;con_lng=FRE\" target=\"blank\">Galactic dynamics / James Binney and Scott Tremaine</a>\". Année:2008. ISBN:978-0-691-13026-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

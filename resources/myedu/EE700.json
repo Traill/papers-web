@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241288750&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","700"],
+    "title":"Cognitive Vision for Cognitive Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241288750&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.idiap.ch/ftp/courses/EE-700/CogVisCogSys.html","http://www.idiap.ch/ftp/courses/EE-700/CogVisCogSys.html "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190271",
+      "name":"Caputo Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course will provide the students with a unified view on  techniques that enable the construction of vision algorithms for artificial cognitive systems.  The course will discuss the specific requirements of vision for artificial intelligent systems and the impact of embodiment on the required visual capabilities, while introducing methods for recognition and categorization of objects and human actions, attention, adaptive learning and spatial perception. ",
+      "Content":"1. Computer vision vs cognitive vision. Basic concepts; perception-action loop; embodiment. [br/]2. Object categories and categorization. Object identification and classification; classes and categories; the importance of tasks on categorization; taxonomies. The importance of semantic verbal attributes.[br/]3. Spatial perception: visual recognition of outdoor and indoor scenes. Gist representations and object banks. Semantic space representation for robot localization. Place recognition versus place categorization.[br/]4. Human action recognition. Manipulation actions and the importance of joint recognition of manipulated objects. Affordances.[br/]5. Learning and adaptation. Offline and online learning. Detection of ignorance. Memory growth and forgetting. Transfer of knowledge and one-shot learning. [br/]6. Attention. The relevance of task on attention; saliency maps; feature selection; top-down vs bottom-up models.  [br/]7. Laboratory exercises.[br/]8. Final project. [br/][br/]",
+      "Note":"The course includes ex-cathedra lectures followed by laboratory exercises. The exercises will serve as starting points for the individual projects used for student examination (report and oral defense).[br/]",
+      "Required prior knowledge":"Undergraduate-level knowledge in linear algebra (up to PCA), statistics (i.e. Gaussian Distributions, central limit theorem) and  image processing (i.e. Fourier analysis, image convolutions)[br/]"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Cognitive Vision for Cognitive Systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.idiap.ch/ftp/courses/EE-700/CogVisCogSys.html","http://www.idiap.ch/ftp/courses/EE-700/CogVisCogSys.html "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190271",
+      "name":"Caputo Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course includes ex-cathedra lectures followed by laboratory exercises. The exercises will serve as starting points for the individual projects used for student examination (report and oral defense).",
+      "Contenu":"1. Computer vision vs cognitive vision. Basic concepts; perception-action loop; embodiment. [br/]2. Object categories and categorization. Object identification and classification; classes and categories; the importance of tasks on categorization; taxonomies. The importance of semantic verbal attributes.[br/]3. Spatial perception: visual recognition of outdoor and indoor scenes. Gist representations and object banks. Semantic space representation for robot localization. Place recognition versus place categorization.[br/]4. Human action recognition. Manipulation actions and the importance of joint recognition of manipulated objects. Affordances.[br/]5. Learning and adaptation. Offline and online learning. Detection of ignorance. Memory growth and forgetting. Transfer of knowledge and one-shot learning. [br/]6. Attention. The relevance of task on attention; saliency maps; feature selection; top-down vs bottom-up models.  [br/]7. Laboratory exercises.[br/]8. Final project. [br/]",
+      "Prérequis":"Undergraduate-level knowledge in linear algebra (up to PCA), statistics (i.e. Gaussian Distributions, central limit theorem) and  image processing (i.e. Fourier analysis, image convolutions)",
+      "Objectifs d'apprentissage":"This course will provide the students with a unified view on  techniques that enable the construction of vision algorithms for artificial cognitive systems.  The course will discuss the specific requirements of vision for artificial intelligent systems and the impact of embodiment on the required visual capabilities, while introducing methods for recognition and categorization of objects and human actions, attention, adaptive learning and spatial perception. "
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Cognitive Vision for Cognitive Systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

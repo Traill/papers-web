@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4146460&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","306"],
+    "title":"Ecotoxicology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4146460&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205918",
+      "name":"Schirmer Kristin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Ecotoxicology aims to understand the impact of chemicals and nanoparticles on organisms in the environment with a particular focus on population-, community- and ecosystem effects. Mechanistic understanding requires consideration of physico-chemical properties of the stressors as well as linking biological effects from the molecular and cellular level to higher levels of biological organization. The ultimate goal is to be able to predict stressor-organism interactions in order to protect the respective environment and also human health[br/][br/][br/]",
+      "Content":"This course focuses on basic concepts in ecotoxicology and mechanistic consideration for risk assessment. Topics include:[br/][li] Source and behavior of chemicals in the environment[br/][li] Bioavailability[br/][li] Organisms and biological test protocols[br/][li] Quantification of biological effects[br/][li] Toxicokinetics (Processes of internal distribution, metabolism and excretion)[br/][li] Toxicodyamics (Processes leading to effects in organisms)[br/][li] Linking effects from molecular to ecosystem response[br/][li] Concepts of dealing with chemical mixtures, multiple stressors and organisms[br/][li] Environmental risk assessment[br/][br/][br/]",
+      "Type of teaching":"Lecture and exercises. Exercises focus on practical issues, such as estimation of exposure based on knowledge on chemical caracteristics and use of publicly available databases.[br/]",
+      "Form of examination":"Exercises 20 %, written exam 80 %",
+      "Required prior knowledge":"Some basic knowledge in environmental chemistry and biology are of advantage"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Ecotoxicology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7380-0688-4&amp;con_lng=ENG\" target=\"blank\">Ecotoxicologie : théorie et applications / V. E. Forbes et T. L. Forbes; trad. par Jean Louis Rivière</a>\". Year:1997. ISBN:2-7380-0688-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-6704-0&amp;con_lng=ENG\" target=\"blank\">Fundamentals of Ecotoxicology</a>\". Year:2009. ISBN:978-1-4200-6704-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-56670-546-0&amp;con_lng=ENG\" target=\"blank\">Handbook of ecotoxicology / ed. by David J. Hoffman ... [et al.]</a>\". Year:2003. ISBN:1-56670-546-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4398-0410-0&amp;con_lng=ENG\" target=\"blank\">Introduction to environmental toxicology : molecular substructures to ecological landscapes</a>\". Year:2011. ISBN:978-1-4398-0410-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205918",
+      "name":"Schirmer Kristin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Des connaissances de base en chimie environnementale et en biologie sont un avantage",
+      "Bibliographie et matériel":"Wayne G. Landis, Ruth M. Sofield and Ming-Ho Yu, Introduction to environmental toxicology: molecular substructures to ecological landscapes, fourth edition, CRC Press, 01.06.2010 - 514 pages",
+      "Forme d'enseignement":"Cours et exercices. Exercices focalisés sur la pratique, telle que l'estimation de l'exposition basée sur les connaissances de caractéristiques de chimie et l'utilisation des bases de données accessibles au public",
+      "Contenu":"Ce cours est axé sur des concepts de base en écotoxicologie et des considérations mécaniques pour une évaluation des risques[br/][li] Source et comportement des produits chimiques dans l'environnement[br/][li] Biodisponibilité[br/][li] Organismes et protocole de tests biologiques[br/][li] Quantification des effets biologiques[br/][li] Toxicocinétique (procédés de distribution interne, métabolisme et excrétion)[br/][li] Toxicodynamique (procédés menant à des effets dans les organismes)[br/][li] Liaison des effets du niveau moléculaire à la réponse des écosystèmes[br/][li] Concepts pour traiter des mélanges chimiques, des stresseurs multiples et leurs effets sur les organismes[br/][li] Evaluation des risques environnementaux",
+      "Forme du contrôle":"Exercices 20 %, examen écrit 80 %",
+      "Objectifs d'apprentissage":"L'écotoxicologie permet de comprendre l'impact des produits chimiques et des nano-particules sur les organismes dans l'environnement, en particulier sur leurs effets sur les populations, les communautés et l'écosystème. Une compréhension mécanique demande de considérer les caractéristiques physico-chimiques des \"stresseurs\" ainsi que de lier les effets biologiques du niveau moléculaire et cellulaire au niveau d'organisation biologique plus complexe.[br/]Le but ultime est d'être capable de prévoir les effets des \"stresseurs\" sur l'organisme afin de protéger l'environnement ainsi que la santé humaine."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Ecotoxicology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7380-0688-4&amp;con_lng=FRE\" target=\"blank\">Ecotoxicologie : théorie et applications / V. E. Forbes et T. L. Forbes; trad. par Jean Louis Rivière</a>\". Année:1997. ISBN:2-7380-0688-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-6704-0&amp;con_lng=FRE\" target=\"blank\">Fundamentals of Ecotoxicology</a>\". Année:2009. ISBN:978-1-4200-6704-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-56670-546-0&amp;con_lng=FRE\" target=\"blank\">Handbook of ecotoxicology / ed. by David J. Hoffman ... [et al.]</a>\". Année:2003. ISBN:1-56670-546-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4398-0410-0&amp;con_lng=FRE\" target=\"blank\">Introduction to environmental toxicology : molecular substructures to ecological landscapes</a>\". Année:2011. ISBN:978-1-4398-0410-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

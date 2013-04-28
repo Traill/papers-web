@@ -1,0 +1,62 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=297268599&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","601"],
+    "title":"Theoretical corporate finance",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=297268599&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185422",
+      "name":"Morellec Erwan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to expose students to important papers in the literature on corporate finance. Some important topics, such as corporate governance, are omitted. This is partly a function of my tastes and partly due to my sense of which fields are already crowded. The objective of the course is to give you a working understanding of key papers and to expose students to solution techniques to be applied in their own research.[br/]",
+      "Form of examination":"Written",
+      "Required prior knowledge":"Stochastic calculus; Asset pricing theory; Contract and game theory[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Theoretical corporate finance",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/185422",
+      "name":"Morellec Erwan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Prérequis":"Stochastic calculus; Asset pricing theory; Contract and game theory[br/]",
+      "Objectifs d'apprentissage":"The aim of this course is to expose students to important papers in the literature on corporate finance. Some important topics, such as corporate governance, are omitted. This is partly a function of my tastes and partly due to my sense of which fields are already crowded. The objective of the course is to give you a working understanding of key papers and to expose students to solution techniques to be applied in their own research.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Theoretical corporate finance",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

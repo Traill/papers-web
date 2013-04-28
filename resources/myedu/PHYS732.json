@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965572282&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","732"],
+    "title":"Plasma Diagnostics in Basic Plasma Physics Devices and Tokamaks: from Principles to Practice",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965572282&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111055",
+      "name":"Furno Ivo"
+    },{
+      "url":"http://people.epfl.ch/157100",
+      "name":"Labit Benoît"
+    },{
+      "url":"http://people.epfl.ch/112204",
+      "name":"Reimerdes Holger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"In this course, Ph.D. students will learn specific aspects of plasma diagnostics with hands-on training on the TORPEX device and the TCV tokamak at the CRPP. Both the theoretical foundations and the instrumental aspects of the course will be accessible to students with basic knowledge of plasma physics. For different types of diagnostics, theory and basic working principles will be covered during ex-cathedra classes. [br/]Students will then follow practical demonstrations by senior scientists (in smaller groups if necessary). Finally, they will personally carry out hands-on experiments and data analysis on the TORPEX device and on the TCV tokamak.[br/]The programme will allow students to learn plasma diagnostics and data processing methods of modern fusion experiments and to bridge the gap between diagnostics theory and experimental practice. [br/]The proposed course will benefit from the combination of a small basic plasma physics device, TORPEX, which allows for excellent diagnostic access and easiness of data interpretation, with the state-of-the-art TCV tokamak, in which students will have the opportunity to familiarize themselves with plasma diagnostics typical of high temperature fusion plasmas.[br/]This course can be ideally complemented by the course: Diagnostics of fusion plasmas.[br/]",
+      "Content":"Introduction: students will be taught the basics of both TORPEX and TCV facilities. The lecture will be followed by a visit of the experimental installations.[br/]Theory of magnetic probes: Rogowski-coil, Flux loop, Diamagnetic loop, Poloidal field probes, Non-axisymmetric measurements, Poloidal field probes, Saddle loops. Data analysis techniques: mode identification using MHD spectroscopy (spectrogram - autocorrelation), Cross-correlation, Toroidal mode decompostion/general least square fit/ Sparse spec, Singular Value Decomposition. Practicum: calibration of magnetic probes and measurements of transfer function, analysis of TCV data.[br/]Theory of various types of electrostatic probes, including single, double, and triple probes, Katsumata, ball pen, emissive probes, Mach probes, energy analyzers, turbulent particle flux probes. Data analysis techniques: Fourier analysis, Higher order Fourier analysis, Statistical analysis, Conditional sampling. Practicum: measurements of time averaged quantities and fluctuations in TORPEX and TCV data using single, double and triple probes; measurements of fluctuations in TORPEX, including statistical properties (skewness, etc.) perpendicular wave number and particle flux.[br/]Theory of plasma emission and fast imaging. CMOs/CCD cameras, fast framing cameras, streaked cameras; Image intensifiers; Gas-puffing systems. Data analysis techniques: Fourier based techniques (linear and higher-order techniques); space-based techniques (structure identification, etc.).  Practicum: installation and use of the fast camera to image radially propagating blobs in TORPEX; determination of physical quantities such as blob speed and size; use of advanced data analysis techniques, such as conditional sampling and box-averaging. On TCV: data analysis of camera data.[br/]",
+      "Keywords":"Plasma, plasma diagnostics, data analysis",
+      "Note":"Block course",
+      "Required prior knowledge":"Basics of plasmas physics, basics of electromagnetism and optices, MATLAB"
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Plasma Diagnostics in Basic Plasma Physics Devices and Tokamaks: from Principles to Practice",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111055",
+      "name":"Furno Ivo"
+    },{
+      "url":"http://people.epfl.ch/157100",
+      "name":"Labit Benoît"
+    },{
+      "url":"http://people.epfl.ch/112204",
+      "name":"Reimerdes Holger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Plasma Diagnostics in Basic Plasma Physics Devices and Tokamaks: from Principles to Practice",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  }
+}

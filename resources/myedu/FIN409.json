@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=842513529&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","409"],
+    "title":"Stochastic calculus II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=842513529&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196224",
+      "name":"Filipovic Damir"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"25% homework[br/]35% midterm exam[br/]40% final exam[br/]Midterm and final exams are open book (only lecture notes)",
+      "Bibliography and material":"Björk, T. (2004), \"Arbitrage Theory in Continuous Time\", Oxford University Press [br/]Glasserman, P. (2004), \"Monte Carlo Methods in Financial Engineering\", Springer Verlag [br/]Lamberton, D. and Lapeyre, B. (2000), \"Introduction to Stochastic Calculus Applied to Finance\", Chapman&Hall/CRC [br/]Oksendal, B. (2007), \"Stochastic Differential Equations. An Introduction with Applications\", Springer Verlag [br/]Shreve, S. (2004), \"Stochastic Calculus for Finance II. Continuous-Time Models\", Springer Verlag ",
+      "Prerequisite for":"Advanced derivatives[br/]Credit risk[br/]Derivatives (taken concurrently)[br/]Fixed income analysis[br/]Real options and financial structuring",
+      "Required prior knowledge":"Stochastic calculus I",
+      "Content":"Topics include :[br/][li] Ito calculus[br/][li] Stochastic differential equations[br/][li] Martingale representation[br/][li] Girsanov theorem[br/][li] Optimal stochastic control[br/][li] Jump processes[br/][li] Numerical simulation",
+      "Keywords":"Ito calculus, diffusion, martingale representation, change of measure, Brownian motion, compound Poisson process  ",
+      "Type of teaching":"Lectures, exercises, homework",
+      "Learning outcomes":"Introduction to fundamental notions and techniques of stochastic calculus necessary for applications in finance such as option pricing and hedging."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Stochastic calculus II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-957474-2&amp;con_lng=ENG\" target=\"blank\">Arbitrage theory in continuous time / Tomas Björk</a>\". Year:2004. ISBN:978-0-19-957474-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-58488-626-6&amp;con_lng=ENG\" target=\"blank\">Introduction to stochastic calculus applied to finance / Damien Lamberton, Bernard Lapeyre</a>\". Year:2008. ISBN:978-1-58488-626-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-00451-3&amp;con_lng=ENG\" target=\"blank\">Monte Carlo methods in financial engineering / Paul Glasserman</a>\". Year:2004. ISBN:0-387-00451-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-40100-3&amp;con_lng=ENG\" target=\"blank\">Stochastic calculus for finance / Steven E. Shreve</a>\". Year:2008. ISBN:978-0-387-40100-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-04758-2&amp;con_lng=ENG\" target=\"blank\">Stochastic differential equations : an introduction with applications / Bernt Øksendal</a>\". Year:2007. ISBN:978-3-540-04758-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196224",
+      "name":"Filipovic Damir"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Stochastic calculus I",
+      "Bibliographie et matériel":"Björk, T. (2004), \"Arbitrage Theory in Continuous Time\", Oxford University Press [br/]Glasserman, P. (2004), \"Monte Carlo Methods in Financial Engineering\", Springer Verlag [br/]Lamberton, D. and Lapeyre, B. (2000), \"Introduction to Stochastic Calculus Applied to Finance\", Chapman&Hall/CRC [br/]Oksendal, B. (2007), \"Stochastic Differential Equations. An Introduction with Applications\", Springer Verlag [br/]Shreve, S. (2004), \"Stochastic Calculus for Finance II. Continuous-Time Models\", Springer Verlag ",
+      "Mots clés":"Calcul d'Itô, diffusion, représentation des martingales, changement de mesure, mouvement Brownien, processus de Poisson composé ",
+      "Forme d'enseignement":"Cours, exercices, devoirs",
+      "Contenu":"Thèmes inclus :[br/][li] Calcul d'Itô[br/][li] Equations différentielles stochastiques[br/][li] Représentation des martingales[br/][li] Théorème de Girsanov[br/][li] Contrôle optimal stochastique[br/][li] Processus à sauts[br/][li] Simulations numériques",
+      "Forme du contrôle":"25% devoirs[br/]35% examen intermédiaire[br/]40% examen final[br/]Les examens intermédiaire et final se font \"à livre ouvert\" (uniquement les notes de cours)",
+      "Préparation pour":"Advanced derivatives[br/]Credit risk[br/]Derivatives (suivi simultanément)[br/]Fixed income analysis[br/]Real options and financial structuring",
+      "Objectifs d'apprentissage":"Introduction aux notions et techniques du calcul stochastique nécessaires pour des applications à la finance telles que, par exemple, l'évaluation et la couverture d'options."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Stochastic calculus II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-957474-2&amp;con_lng=FRE\" target=\"blank\">Arbitrage theory in continuous time / Tomas Björk</a>\". Année:2004. ISBN:978-0-19-957474-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-58488-626-6&amp;con_lng=FRE\" target=\"blank\">Introduction to stochastic calculus applied to finance / Damien Lamberton, Bernard Lapeyre</a>\". Année:2008. ISBN:978-1-58488-626-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-00451-3&amp;con_lng=FRE\" target=\"blank\">Monte Carlo methods in financial engineering / Paul Glasserman</a>\". Année:2004. ISBN:0-387-00451-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-40100-3&amp;con_lng=FRE\" target=\"blank\">Stochastic calculus for finance / Steven E. Shreve</a>\". Année:2008. ISBN:978-0-387-40100-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-04758-2&amp;con_lng=FRE\" target=\"blank\">Stochastic differential equations : an introduction with applications / Bernt Øksendal</a>\". Année:2007. ISBN:978-3-540-04758-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

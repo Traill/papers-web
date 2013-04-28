@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=444523163&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","525"],
+    "title":"Snow physics and hydrology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=444523163&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168453",
+      "name":"Huwald Wolf Hendrik"
+    },{
+      "url":"http://people.epfl.ch/167659",
+      "name":"Lehning Michael"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"50 % spot check during the semester (written midterm exam)[br/]50 % continuous control during the semester (project)",
+      "Required prior knowledge":"ENV-167,  ENV-221,  ENG-272",
+      "Content":"[li]\tProcesses of snow formation in the atmosphere[br/][li]\tSnow pack accumulation, snow transport, and redistribution[br/][li]\tHeat and mass transfer in the snow cover, metamorphism[br/][li]\tSurface energy balance over snow[br/][li]\tProcesses of snow pack ablation and melt[br/][li]\tMeasurement methods and field technique[br/][li]\tConcepts and approaches of snow cover modeling[br/][li]\tSnow modeling using the Swiss snow cover model SNOWPACK[br/][li] \tSnow cover-climate interactions at various spatial and temporal scales[br/][br/][br/][br/]",
+      "Keywords":"Snow, glaciology, cryosphere, hydrology, atmospheric boundary layer, environmental physics",
+      "Type of teaching":"Lectures (ex cathedra), exercises, self-learning, project, field trip",
+      "Learning outcomes":"Snow is a key component in the global climate system but also in our cultural life. The perennial or seasonal snow cover has a dominant impact on the energy budget at the earth's surface and therefore on the climate system. It crucially influences the water mass balance by storing water for ecosystems, irrigation, drinking water supply, and hydropower. Snow is also an important resource for tourism and recreation and artificial snow production has become common in most ski resorts worldwide. This course provides a comprehensive introduction to the principles of snow physics, snow hydrology, snow-atmosphere interaction and snow modeling. Dynamics and thermodynamics of snow will be discussed to develop a sound theoretical and practical understanding of physical processes within the snow and at its interfaces with the atmosphere and the ground. The course covers the broad field of snow science including field, laboratory, and modeling techniques. Practical work will include modeling problems with the snow model SNOWPACK and a field excursion (if conditions allow) presenting classical snow pit analysis. [br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Snow physics and hydrology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82362-5&amp;con_lng=ENG\" target=\"blank\">Principles of snow hydrology / David R. DeWalle, Albert Rango</a>\". Year:2008. ISBN:0-521-82362-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-85454-2&amp;con_lng=ENG\" target=\"blank\">Snow and climate : physical processes, surface energy exchange and modeling / Eds.: Richard L. Armstrong ... [et al.]</a>\". Year:2008. ISBN:978-0-521-85454-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-76981-5&amp;con_lng=ENG\" target=\"blank\">The global cryosphere : past, present, and future / Roger G. Barry and Thian Yew Gan</a>\". Year:2011. ISBN:978-0-521-76981-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168453",
+      "name":"Huwald Wolf Hendrik"
+    },{
+      "url":"http://people.epfl.ch/167659",
+      "name":"Lehning Michael"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"ENV-167,  ENV-221,  ENG-272",
+      "Bibliographie et matériel":"Armstrong, R.L. and E. Brun, (Eds.), 2008. Snow and climate, Cambridge University Press, 222 pp.[br/]Barry, R.G. and T.Y. Gan, 2011. The global cryosphere, Cambridge University Press, 472 pp.[br/]DeWalle, David R. and A. Rango, 2008. Principles of Snow Hydrology, Cambridge University Press, Cambridge, UK, 410 pp. [br/]Selected journal articles and other text books.\t[br/]",
+      "Mots clés":"Neige, glaciologie, cryosphère, hydrologie, couche limite de l'atmosphère, physique environnementale",
+      "Forme d'enseignement":"Cours (ex cathedra), exercices, auto-apprentissage, projet, excursion",
+      "Contenu":"[li]Processus de formation de la neige dans l'atmosphère[br/][li]Accumulation, transport et redistribution de la neige[br/][li]Transfert d'énergie et de masse dans la neige, métamorphisme[br/][li]Bilan énergétique à la surface du manteau neigeux[br/][li]Procédés d'ablation et de fonte du manteau neigeux[br/][li]Méthodes de mesures et techniques de terrain[br/][li]Concepts et approches de la modélisation numérique de la neige[br/][li]Modélisation de la neige en utilisant le modèle suisse SNOWPACK[br/][li]Interactions neige-climat aux différentes échelles spatiales et temporelles[br/]",
+      "Forme du contrôle":"50 % contrôle ponctuel pendant le semestre (test écrit)[br/]50 % contrôle continu pendant le semestre (exercices, projet)",
+      "Objectifs d'apprentissage":"La neige est un élément-clé dans le système climatique global ainsi que dans notre vie culturelle. Le manteau neigeux éternel ou saisonnier a une grande influence sur le budget énergétique à la surface terrestre et donc sur le système climatique. Il y a une influence majeure sur le bilan massique de l'eau par la rétention d'eau pour les écosystèmes, l'irrigation, les réservoirs d'eau potable et l'énergie hydraulique. La neige est aussi une ressource importante pour le tourisme et les loisirs et la production de la neige artificielle est devenue commune dans la plupart des stations de ski. Ce cours offre une solide introduction aux principes de la physique et de l'hydrologie de la neige, aux interactions entre la neige et l'atmosphère et à la modélisation. La dynamique et la thermodynamique de la neige sont présentées pour développer une compréhension théorique et appliquée complète des processus physiques de la neige et son interface avec l'atmosphère et le sol. Le cours aborde le vaste domaine de la science de la neige y compris les techniques de terrain, de laboratoire et de modélisation numérique. Les travaux pratiques contiennent quelques problèmes de modélisation utilisant le modèle SNOWPACK ainsi qu'une excursion (selon conditions) qui présente l'analyse classique du manteau neigeux sur le terrain."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Snow physics and hydrology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82362-5&amp;con_lng=FRE\" target=\"blank\">Principles of snow hydrology / David R. DeWalle, Albert Rango</a>\". Année:2008. ISBN:0-521-82362-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-85454-2&amp;con_lng=FRE\" target=\"blank\">Snow and climate : physical processes, surface energy exchange and modeling / Eds.: Richard L. Armstrong ... [et al.]</a>\". Année:2008. ISBN:978-0-521-85454-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-76981-5&amp;con_lng=FRE\" target=\"blank\">The global cryosphere : past, present, and future / Roger G. Barry and Thian Yew Gan</a>\". Année:2011. ISBN:978-0-521-76981-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

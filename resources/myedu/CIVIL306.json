@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348606859&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","306"],
+    "title":"Geotechnical engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348606859&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114728",
+      "name":"Labiouse Vincent"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Analyse the geological, geotechnical and environmental factors which condition the design of a foundation or an open excavation Design the foundation system and its constructive elements, according to the ground properties, to the construction methods and to the interaction with the supported structure. Applications to case studies.",
+      "Content":"[li]Factors conditioning a geotechnical project, in situ investigations[br/][li][i]Shallow foundations :[br/]Bearing capacity, elastic and consolidation settlements[br/][li][i]Deep foundations :[br/]Installation methods, bearing capacity, settlements, pile groups, negative shaft friction, controls[br/][li][i]Retaining walls : [br/]types, stability, construction methods[br/][li][i]Battered excavations :[br/]Slope stability, dewatering methods, construction methods[br/][li][i]Soil nailing : [br/]construction and design methods[br/][br/][li][i]Braced excavations :[br/]Construction methods, design of retaining structure, overall stability[br/][li][i]Anchors : [br/]construction, design and control[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geotechnical engineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114728",
+      "name":"Labiouse Vincent"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Géologie ; Mécanique des sols et écoulements souterrains",
+      "Bibliographie et matériel":"Polycopiés",
+      "Forme d'enseignement":"Ex cathedra, exercices",
+      "Contenu":"[li]Facteurs influençant un projet géotechnique, reconnaissances in situ[br/][li][i]Fondations superficielles :[/i][br/]    capacité portante, tassements instantanés et par consolidation[br/][li][i]Fondations sur pieux :[/i][br/]    méthodes d'exécution, capacité portante, tassements, effet de groupe, frottement négatif, contrôles[br/][li][i]Murs de soutènement :[/i][br/]types, stabilité, dispositions constructives[br/][li][i]Fouilles à talus :[/i][br/]    stabilité, rabattement de nappe, dispositions constructives[br/][li][i]Parois clouées :[/i][br/]    mode de fonctionnement, méthodes d'exécution et de dimensionnement[br/][li][i]Fouilles avec écran :[/i][br/]    méthodes d'exécution, dimensionnement, stabilité générale[br/][li][i]Tirants d'ancrage :[/i][br/]    méthodes d'exécution, de dimensionnement et de contrôle",
+      "Forme du contrôle":"Exam. oral",
+      "Préparation pour":"Interaction sol-structure",
+      "Objectifs d'apprentissage":"Analyser les facteurs géologiques, géotechniques et d'environnement qui influencent le choix d'un mode de fondation ou d'excavation à ciel ouvert. Concevoir et dimensionner les fondations et les éléments nécessaires à leur réalisation, en fonction de la nature du terrain, des méthodes d'exécution et des interactions avec l'ouvrage à construire. Appliquer les méthodes à des études de cas."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ouvrages géotechniques",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

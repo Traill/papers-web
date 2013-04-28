@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1090728522&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","583"],
+    "title":"Spacecraft avionics systems, architectures and processors",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1090728522&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173663",
+      "name":"Storni Bruno"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Embedded calculators have become famous with the spectacular Apollo missions demonstrating the great perspective of microelectronics and evolution of digital data processing have been essential for the success of space missions. Modern and very complex system structures based on distributed systems architectures applied today in robotics, aviation (flight by wire) or automotive fields, have been developed and first used on space programs. The course presents and analyses the different systems,  architectures and components of spacecraft avionics (on board data handling and processing systems) controlling and commanding spacecraft and payloads (instruments).",
+      "Content":"[b]Introduction[/b][br/]Classification of spacecraft in function of mission profile and identification of requirements and functions of  on board data handling systems[br/][b]Architecture[/b][br/]Typical spacecraft structure, system and major subsystem, redundancy management, data flow, telematics, service module, payloads[br/][b]Space environment threads and mitigation[/b] [br/]Radiation environment,  mitigation techniques, HW and SW error detection and correction  [br/][b]Components and subsystems[/b] [br/]Processors, buses and interfaces, mass memories, attitude and orbit control subsystems, payloads data processing, telemetry and telecommands  [br/][b]Standards[/b][br/]Space links protocols,  standard data units, spacecraft synchronization time, buses and networks[br/][b]Cases studies[/b][br/]International Space Station ISS, Automated Transfer Vehicle ATV, ExoMars (Rover, Lander and Orbiter) [br/]",
+      "Form of examination":"Written"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Spacecraft avionics systems, architectures and processors",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173663",
+      "name":"Storni Bruno"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Préalable conseillé :\tMicrocalculateurs, Systèmes distribuées, Télématique",
+      "Bibliographie et matériel":"Notes polycopiées et articles techniques en anglais",
+      "Forme d'enseignement":"Ex cathedra avec études de cas",
+      "Contenu":"[b]Introduction[/b][br/]Classifications des véhicules spatiaux par typologie de mission et identification des exigences et des fonctions du système de contrôle de bord et des charges utiles. [br/][b]Architectures[/b][br/]Structure classique, systèmes et sous-systèmes principaux, systèmes redondants, flux de données télématique, module de service, charges utiles.[br/][b]Environnement spatial, risques et minimisation[/b]  [br/]Type de risques de radiations, techniques de réduction et correction d'erreurs niveaux HW et SW[br/][b]Composants et sous-sytèmes[/b][br/]Calculateurs, bus et interfaces, mémoires de masse, contrôle d'orbite et de pointage,  contrôle de charges utiles, télémétrie et télécommande.[br/][b]Normes[/b][br/]Protocoles et format de transmissions,  codage, chronométrage, artères de données. [br/][b]Etudes de cas[/b][br/]International Space Station ISS,  Automated Transfer Vehicle ATV, ExoMars (Rover, Lander and Orbiter) ",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"Les calculateurs embarqués ont vécu une première spectaculaire avec les missions Apollo, démontrant tous le potentiel des technologies microélectroniques et de l'élaboration numérique des données qui ont été fondamentaux pour les mission spatiales. D'autre part les concepts de systèmes très complexes tels que  les systèmes distribuées comme on les retrouve aujourd'hui dans la robotique, l'aviation ou l'automobile, ont été développés dans le cadre spatial. Le cours présente et analyse les différentes structures, architectures et composants des systèmes de bord  (commandes de vol électronique et de traitement des données) qui contrôlent les véhicules spatiaux et leurs charges utiles."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Spacecraft avionics systems, architectures and processors",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

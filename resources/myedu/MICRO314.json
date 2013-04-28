@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23939091&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","314"],
+    "title":"Electromechanics conversion, Laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23939091&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[br/][li]Through experiments, to assimilate the fundamentals of electromechanics as well as the concepts and the static and dynamic behaviour of electrical motors and drives.[br/][li]To master the corresponding measurement techniques[br/]",
+      "Content":"[b][br/][li]Using the measurement appliances[/b][br/][br/][b][br/][li]Magnetic circuit - Transformer[/b][br/]Illustration of the concepts of self and mutual inductances for  coup1. led circuits, measuring of those variables; experimental approach of the phenomena of magnetic leaks, of saturation, of iron losses, of efficiency.[br/][br/][b][br/][li]Driving system composed of a DC motor  and of a self-commutated synchronous motor[/b][br/]Global characterization of an electric drive system; analysis of the behaviour of the DC machine and of its supply; analysis of the operation of the self commutated synchronous machine (closed and open-loop mode) as well as of its 120° driver; comparison of both machines and of their driver.[br/][br/][b][br/][li]Asynchronous motor[/b][br/]Study of the characteristics of an induction machine when on load to an industrial network (motor and generator operation).[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Electromechanics conversion, Laboratory Work",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-285-4&amp;con_lng=ENG\" target=\"blank\">Electromécanique / par Marcel Jufer</a>\". Year:2004. ISBN:2-88074-285-4</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[b][br/][li]Familiarisation aux instruments de mesure[br/][li]Circuit magnétique  - Transformateur[/b] [br/]Illustration des concepts d'inductances propre et mutuelle pour des circuits couplés, mesures de ces grandeurs; approche expérimentale des phénomènes de fuites magnétiques, de saturation, de pertes dans le fer, de rendement.[br/][b][br/][li]Système d'entraînement composé d'un moteur à courant continu et d'un moteur synchrone auto-commuté[/b][br/]Caractérisation de façon globale d'un système d'entraînement électrique; analyse du comportement de la machine à courant continu et de son alimentation; analyse du fonctionnement de la machine synchrone auto-commutée en boucles fermée et ouverte ainsi que de son alimentation à 120°; comparaison des 2 types de machines et de leur alimentation.[br/][b][br/][li]Moteur asynchrone[/b][br/]Etude des caractéristiques d'une machine asynchrone en charge sur un réseau industriel (fonctionnement en moteur et en génératrice). ",
+      "Forme du contrôle":"continu obligatoire",
+      "Prérequis":"Blocs 1 et 2",
+      "Bibliographie et matériel":"Traité d'électricité, vol. IX",
+      "Objectifs d'apprentissage":"[br/][li]Assimiler par des applications pratiques les lois principales de l'électromécanique, ainsi que les concepts et le comportement statique et dynamique relatifs aux moteurs et entraînements électriques.[br/][li]Maîtriser les techniques de mesures correspondantes"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Conversion électromécanique TP",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-285-4&amp;con_lng=FRE\" target=\"blank\">Electromécanique / par Marcel Jufer</a>\". Année:2004. ISBN:2-88074-285-4</li></ul>",
+    "lecture":null
+  }
+}

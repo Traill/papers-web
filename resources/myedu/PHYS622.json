@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771558&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","622"],
+    "title":"Principles and Practicals in X-Ray Scattering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771558&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["Plan of the course","Plan of the course"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122829",
+      "name":"Chapuis Gervais"
+    },{
+      "url":"http://people.epfl.ch/168557",
+      "name":"Pattison Philip"
+    },{
+      "url":"http://people.epfl.ch/153052",
+      "name":"Schenk Kurt"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[br/]This course aims at introducing PhD students and junior scientists to the applications of modern diffraction equipment for the resolution of structural problems. Each topic will be introduced theoretically as a refresher of the basic concepts and then be put into practice on diffraction equipments. At the end of the course, each participant should be able to manipulate the equipments, treat the data and interpret their results with various software tools.",
+      "Content":"Refresher Symmetry (Gervais Chapuis)[br/]Refresher Diffraction (Pëtr Leiman)                                                                          [br/]Refresher Properties of X-ray and Safety (Phil Pattison)[br/]Single Crystals (Kurt Schenk)[br/]Powders (Kurt Schenk)                                                                                             [br/]Pair Distribution Function (Radovan Cerný)                                                            [br/]Line Broadening (Radovan Cerný)                                                                             [br/]Crystal Optics (Dieter Schwarzenbach)[br/]LAUE's Method (Gervais Chapuis)                                                                             [br/]Raman Spectroscopy and X-ray Diffraction (Vladimir Dmitriev)                             [br/]Diffuse Scattering (Dmitry Chernsyhov)                                                                   [br/]Neutrons (Phil Pattison)                                                                                             [br/]Synchrotron radiation (Phil Pattison)                                                                        [br/]DEBYE-Scattering and Nanocrystals (Antonio Cervellino)                                         [br/]Phase Transitions (Michel Bonin)                                                                              [br/]Thin Films and Coatings (Antonia Neels)                                                                 [br/]High Resolution X-Ray Diffraction (Antonia Neels)                                                 [br/]Electron back-sacttered Diffraction (Emmanuelle Boehm-Coujault)                        [br/]Magnetic Structures (Henrik Rønnow, Oksana Zaharko)                                          [br/][br/]",
+      "Keywords":"X-ray diffraction, powders, crystal structures, high-resolution powder diffraction, diffuse scattering, neutron scattering, synchrotrons, phase transitions",
+      "Note":"Block course - Max. 12 participants[br/]",
+      "Required prior knowledge":"[br/]Introductory course in crystallography"
+    },
+    "practical":{
+      "total_hours":23
+    },
+    "language":"English",
+    "title":"Principles and Practicals in X-Ray Scattering",
+    "recitation":{
+      "total_hours":19
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["Plan of the course","Plan of the course"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122829",
+      "name":"Chapuis Gervais"
+    },{
+      "url":"http://people.epfl.ch/168557",
+      "name":"Pattison Philip"
+    },{
+      "url":"http://people.epfl.ch/153052",
+      "name":"Schenk Kurt"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[br/]1. Theoretical refresher[br/][br/]2. Powder diffraction[br/][][][][][][][]a. Analysis of mixtures[br/][][][][][][][]b. Structure solution by direct and Patterson methods and refinement by the Rietveld method[br/][br/]3. Single crystal diffraction[br/][][][][][][][]a. Precession method, reciprocal space explorer[br/][][][][][][][]b. automatic diffractometer with areas detector (CCD, image plate)[br/][][][][][][][]c. tructure solution, analysis and interpretation of the results[br/][br/]4. Selection of topics from[br/][][][][][][][]a. Small angle scattering[br/][][][][][][][]b. Texture[br/][][][][][][][]c. Amorphous/liquid diffraction[br/][][][][][][][]d. Size and strain effects[br/][br/]5. Crystallographic data bases[br/][][][][][][][]a. Data mining and use of the data base with application to chemical crystallography",
+      "Prérequis":"[br/]Introductory course in crystallography",
+      "Objectifs d'apprentissage":"[br/]This course aims at introducing PhD students and junior scientists to the applications of modern diffraction equipment for the resolution of structural problems. Each topic will be introduced theoretically as a refresher of the basic concepts and then be put into practice on diffraction equipments. At the end of the course, each participant should be able to manipulate the equipments, treat the data and interpret their results with various software tools."
+    },
+    "practical":{
+      "total_hours":23
+    },
+    "language":"English",
+    "title":"Principles and Practicals in X-Ray Scattering",
+    "recitation":{
+      "total_hours":19
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  }
+}

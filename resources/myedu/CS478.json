@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1637602195&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","478"],
+    "title":"Model-based system design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1637602195&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220186",
+      "name":"Sifakis Joseph"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li]\tTo understand key issues and methodological aspects in system design [br/][li]\tTo learn theory and methods for modelling, verifying and designing systems[br/][li]\tTo outline strengths and limitations of formal methods and learn how they can be  effectively applied  in system design[br/]",
+      "Content":"[li]\tExecutable models for the description of reactive systems such as process algebras, Petri nets, timed Automata and hybrid systems with emphasis on their semantics and properties.  [br/][br/][li]\tRequirements specification languages such as temporal logics and process algebras, and their semantic foundations.[br/][br/][li]\tVerification and synthesis techniques and their application for checking/enforcing correctness with respect to given requirements. [br/][br/][li]\tExamples of existing model-based design flows and supporting tools.[br/]",
+      "Bibliography and material":"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein\tIntroduction to Algorithms\t0262033844      978-0262033848[br/]Bruce A. Tate\tSeven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages\t193435659X    978-1934356593[br/]Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides\tDesign Patterns: Elements of Reusable Object-Oriented Software\t0201633612\t978-0201633610[br/]Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman\tCompilers: Principles, Techniques, and Tools (2nd Edition)\t0321486811\t978-0321486813[br/]Hermann Kopetz\t  Real-Time Systems: Design Principles for Distributed Embedded Applications\t1441982361\t978-1441982360[br/]Peter Marwedel\tEmbedded System Design: Embedded Systems Foundations of Cyber-Physical Systems\t9400702566\t978-9400702561[br/]Alan Burns\tReal Time Systems & Programming Language\t0321417453\t978-0321417459[br/]Zohar Manna, Amir Pnueli\tTemporal Verification of Reactive Systems: Safety\t0387944591\t978-0387944593[br/]Zohar Manna, Amir Pnueli\tThe Temporal Logic of Reactive and Concurrent Systems: Specification\t0387976647\t978-0387976648[br/]Edmund M. Clarke Jr., Orna Grumberg, Doron A. Peled\tModel Checking\t0262032708\t978-0262032704[br/]Wan Fokkink\tIntroduction to Process Algebra\t354066579X\t978-3540665793[br/]J. C. M. Baeten, T. Basten, M. A. Reniers\tProcess Algebra: Equational Theories of Communicating Processes\t0521820499\t978-0521820493[br/]Glynn Winskel\tFormal Semantics of Programming Languages\t0262731037\t978-0262731034[br/]José L. Fiadeiro\tCategories for Software Engineering\t3540209093\t978-3540209096",
+      "Form of examination":"With continuous control",
+      "Required prior knowledge":"[li]\tAutomata theory and formal languages[br/][li]\tLogics (axiomatization, proof methods, semantics)[br/][li]\tCompiler construction"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Model-based system design",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-48681-1&amp;con_lng=ENG\" target=\"blank\">Compilers : principles, techniques, and tools / Alfred V. Aho ... [et al.]</a>\". Year:2007. ISBN:0-321-48681-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-63361-2&amp;con_lng=ENG\" target=\"blank\">Design patterns : elements of reusable object-oriented software / Erich Gamma ... [et al.]</a>\". Year:2004. ISBN:0-201-63361-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-03384-8&amp;con_lng=ENG\" target=\"blank\">Introduction to algorithms / Thomas H. Cormen ... [et al.]</a>\". Year:2009. ISBN:978-0-262-03384-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4419-8236-0&amp;con_lng=ENG\" target=\"blank\">Real-time systems : design principles for distributed embedded applications / Hermann Kopetz</a>\". Year:2011. ISBN:978-1-4419-8236-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-934356-59-3&amp;con_lng=ENG\" target=\"blank\">Seven languages in seven weeks : a pragmatic guide to learning programming languages / Bruce A. Tate</a>\". Year:2011. ISBN:978-1-934356-59-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220186",
+      "name":"Sifakis Joseph"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]\tThéorie des automates et langages fomels[br/][li]\tLogiques (axiomatisation, méthodes de preuve, sémantique)[br/][li]\tConstruction de compilateurs[br/]",
+      "Bibliographie et matériel":"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein\tIntroduction to Algorithms\t0262033844      978-0262033848[br/]Bruce A. Tate\tSeven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages\t193435659X    978-1934356593[br/]Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides\tDesign Patterns: Elements of Reusable Object-Oriented Software\t0201633612\t978-0201633610[br/]Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman\tCompilers: Principles, Techniques, and Tools (2nd Edition)\t0321486811\t978-0321486813[br/]Hermann Kopetz\t  Real-Time Systems: Design Principles for Distributed Embedded Applications\t1441982361\t978-1441982360[br/]Peter Marwedel\tEmbedded System Design: Embedded Systems Foundations of Cyber-Physical Systems\t9400702566\t978-9400702561[br/]Alan Burns\tReal Time Systems & Programming Language\t0321417453\t978-0321417459[br/]Zohar Manna, Amir Pnueli\tTemporal Verification of Reactive Systems: Safety\t0387944591\t978-0387944593[br/]Zohar Manna, Amir Pnueli\tThe Temporal Logic of Reactive and Concurrent Systems: Specification\t0387976647\t978-0387976648[br/]Edmund M. Clarke Jr., Orna Grumberg, Doron A. Peled\tModel Checking\t0262032708\t978-0262032704[br/]Wan Fokkink\tIntroduction to Process Algebra\t354066579X\t978-3540665793[br/]J. C. M. Baeten, T. Basten, M. A. Reniers\tProcess Algebra: Equational Theories of Communicating Processes\t0521820499\t978-0521820493[br/]Glynn Winskel\tFormal Semantics of Programming Languages\t0262731037\t978-0262731034[br/]José L. Fiadeiro\tCategories for Software Engineering\t3540209093\t978-3540209096[br/][br/]",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"[li]\tModèles exécutables pour la description des systèmes réactifs tels que les algèbres de processus, les réseaux de Petri, les automates temporisés, les automates hybrides[br/][br/][li]\tLangages de spécification tels que les logiques temporelles et les algèbres de processus ainsi que leurs fondements sémantiques[br/][br/][li]\tTechniques de vérification et leur application pour vérifier/respecter leur correction par rapport à des spécifications données[br/][br/][li]\tExemples de flots de conception existants et des outils associés",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"[li]\tComprendre les aspects fondamentaux de la conception des systèmes [br/][li]\tApprendre des théories et des méthodes pour la modélisation, la vérification et la conception des systèmes[br/][li]\tSouligner les points forts et les limitations des méthodes formelles et apprendre comment elles peuvent être appliquées à la conception des systèmes  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Model-based system design",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-48681-1&amp;con_lng=FRE\" target=\"blank\">Compilers : principles, techniques, and tools / Alfred V. Aho ... [et al.]</a>\". Année:2007. ISBN:0-321-48681-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-63361-2&amp;con_lng=FRE\" target=\"blank\">Design patterns : elements of reusable object-oriented software / Erich Gamma ... [et al.]</a>\". Année:2004. ISBN:0-201-63361-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-03384-8&amp;con_lng=FRE\" target=\"blank\">Introduction to algorithms / Thomas H. Cormen ... [et al.]</a>\". Année:2009. ISBN:978-0-262-03384-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4419-8236-0&amp;con_lng=FRE\" target=\"blank\">Real-time systems : design principles for distributed embedded applications / Hermann Kopetz</a>\". Année:2011. ISBN:978-1-4419-8236-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-934356-59-3&amp;con_lng=FRE\" target=\"blank\">Seven languages in seven weeks : a pragmatic guide to learning programming languages / Bruce A. Tate</a>\". Année:2011. ISBN:978-1-934356-59-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144432&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","302"],
+    "title":"Fonctional analysis I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144432&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Advanced courses of analysis and probability, Functional Analysis II",
+      "Required prior knowledge":"Linear algebra, Topology, Analysis III and IV for mathematicians",
+      "Content":"- Normed linear spaces, inner-product spaces, Banach and Hilbertian spaces, examples[br/]- Bounded linear operators, compact operators[br/]- Spectral theory for linear operators that are symmetric and compact[br/]- Application to the Sturm-Liouville problem[br/]- Linear functionals, the Hahn-Banach theorem, Banach limits, weak convergence[br/]- The Banach-Steinhaus, open mapping and closed graph theorems[br/]",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Learning outcomes":"For the teacher:[br/]To present the fundamental algebraic and topological framework that underlies much of advanced mathematics and its applications.[br/][br/][br/]For the student:[br/]To master this theory and its application to concrete examples."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fonctional analysis I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-049336-1&amp;con_lng=ENG\" target=\"blank\">Analyse fonctionnelle : théorie et applications / Haïm Brezis</a>\". Year:2005. ISBN:2-10-049336-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-35868-X&amp;con_lng=ENG\" target=\"blank\">Elements of functional analysis / I. J. Maddox</a>\". Year:1988. ISBN:0-521-35868-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-64062-0&amp;con_lng=ENG\" target=\"blank\">Foundations of modern analysis / Avner Friedman</a>\". Year:1982. ISBN:0-486-64062-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50731-8&amp;con_lng=ENG\" target=\"blank\">Introductory functional analysis with applications / Erwin Kreyszig</a>\". Year:1989. ISBN:0-471-50731-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire, Topologie, Analyse III et IV pour mathématiciens[br/]Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"E. Kreyszig, Introductory Functional Analysis with Applications, Wiley.[br/]Elements of Functional Analysis, I. J. Maddox, Cambridge Univ. Press.[br/]H. Brezis, Analyse fonctionnelle : théorie et applications, Dunod.[br/]A. Friedman, Foundations of Modern Analysis, Dover Publications.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"- Espaces vectoriels normés, préhilbertiens, de Banach et de Hilbert, exemples[br/]- Opérateurs linéaires, bornés, compacts, symétriques[br/]- Théorie spectrale des opérateurs compacts et symétriques[br/]- Application au problème de Sturm-Liouville[br/]- Fonctionnelles linéaires, théorème de Hahn-Banach, limites de Banach, convergence faible[br/]- Théorèmes de Banach-Steinhaus, de l'application ouverte et du graphe fermé",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Cours avancés d'analyse et de probabilités, Analyse Fonctionnelle II",
+      "Objectifs d'apprentissage":"Pour l'enseignant :[br/]Présenter une théorie qui réunit structures algébriques et topologiques et qui chapeaute l'analyse classique, notamment la théorie des équations différentielles et intégrales.[br/][br/]Pour l'étudiant :[br/]Connaître cette théorie et l'appliquer à des exemples concrets."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse fonctionnelle I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-049336-1&amp;con_lng=FRE\" target=\"blank\">Analyse fonctionnelle : théorie et applications / Haïm Brezis</a>\". Année:2005. ISBN:2-10-049336-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-35868-X&amp;con_lng=FRE\" target=\"blank\">Elements of functional analysis / I. J. Maddox</a>\". Année:1988. ISBN:0-521-35868-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-64062-0&amp;con_lng=FRE\" target=\"blank\">Foundations of modern analysis / Avner Friedman</a>\". Année:1982. ISBN:0-486-64062-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50731-8&amp;con_lng=FRE\" target=\"blank\">Introductory functional analysis with applications / Erwin Kreyszig</a>\". Année:1989. ISBN:0-471-50731-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4650607&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","417"],
+    "title":"Urban hydrology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4650607&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103441",
+      "name":"Rossi Luca"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Complementary course with this one: \"Urban Hydraulic Systems\", M. Pfister, LCH EPFL",
+      "Form of examination":"40 % spot check (written test) during the semester[br/]60 % continuous control (exercises, project) during the semester",
+      "Bibliography and material":"Slides (in English) and support material provided through the Moodle site of the course",
+      "Required prior knowledge":"General hydrology, Fluids mechanics, Hydraulics of structures[br/]",
+      "Content":"[li] Introduction to urban hydrology[br/][li] Legislative aspects linked with urban hydrology, new requirements (STORM immission approach)[br/][li] Planning tools at communal level : the PGEE «Master Plan for urban water management»;[br/][li] Planning tools at watershed level: the PREE «Regional approach for water management»;[br/][li] Simple sewer sizing method: the Rational method[br/][li] Deterministic modeling (Routing system model)[br/][li] Stochastic modeling (REBEKA software)[br/][li] Technical solutions I and II: from at-source control to end-of-pipe solutions[br/][li] Financial aspects specific to urban hydrology[br/][li] Measurements and sampling[br/][li] Field trip (Lausanne wastewater system)[br/][li] Management and maintenance of sewers and immission controls in receiving waters (Modular stepwise concept)[br/]",
+      "Keywords":"Urban hydrology, stormwater, wastewater, combined sewer overflow, impacts on receiving waters, integrated water management[br/][br/]",
+      "Type of teaching":"Ex cathedra, exercises in class and in computer room",
+      "Learning outcomes":"[li]\tTo know administrative / legal requirements in the field of urban hydrology[br/][li]\tTo be able to identify actual or future problems linked with urban hydrology, including the impacts on receiving waters[br/][li]\tTo be able to understand, manage and plan urban water systems[br/][li]\tTo be able to work with different mathematical tools[br/][li]\tTo be able to select and to size technical solutions[br/][li]\tTo be able to link different disciplines in order to promote sustainable development of cities regarding urban hydrology[br/][br/][br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Urban hydrology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103441",
+      "name":"Rossi Luca"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Cours complémentaire possible avec ce cours : \"Urban Hydraulic Systems\", M. Pfister, LCH EPFL",
+      "Prérequis":"Hydrologie générale, Mécanique des fluides, Hydraulique des ouvrages (structures - ouvrages et aménagements hydrauliques).",
+      "Bibliographie et matériel":"Slides (en anglais) et documentation disponibles par le biais de Moodle",
+      "Mots clés":"Hydrologie urbaine, eaux de ruissellement, eaux usées, déversoirs d'orage, impacts sur les milieux récepteurs, gestion intégrée des eaux[br/]",
+      "Forme d'enseignement":"Ex cathedra, exercices en classe et en salle informatique",
+      "Contenu":"[li] Introduction à l'hydrologie urbaine[br/][li] Les aspects législatifs liés à l'hydrologie urbaine, les nouvelles exigences (approche de type immission STORM)[br/][li] Les outils de planification au niveau communal: le PGEE «Plan général d'évacuation des eaux»[br/][li] Les outils de planification au niveau des bassins versants: le PREE «Plan régional d'évacuation des eaux»[br/][li] Méthode simplifiée de dimensionnement: la méthode rationnelle[br/][li] Modélisation déterministe (logiciel Routing System)[br/][li] Modélisation stochastique (logiciel REBEKA II)[br/][li] Solutions techniques I et II: de la lutte à la source aux solutions en fin de réseau[br/][li] Aspects financiers spécifiques à l'hydrologie urbaine[br/][li] Mesures et d'échantillonnage[br/][li] Visite de terrain (système d'assainissement de Lausanne)[br/][li] Gestion et entretien des réseaux d'assainissement et contrôle des impacts dans les milieux récepteurs (Système modulaire gradué)[br/]",
+      "Forme du contrôle":"40 % contrôle ponctuel (test écrit) pendant le semestre[br/]60 % contrôle continu (exercices, projet) pendant le semestre",
+      "Objectifs d'apprentissage":"[li]\tConnaître les outils administratifs / juridiques et les exigences dans le domaine de l'hydrologie urbaine[br/][li]\tÊtre en mesure d'identifier les problèmes actuels ou futurs liés à l'hydrologie urbaine, notamment au niveau des impacts sur les milieux récepteurs[br/][li]\tPouvoir comprendre, gérer et planifier les systèmes d'évacuation des eaux en milieu urbain[br/][li]\tConnaître et être capable de travailler avec différents outils mathématiques spécifiques à l'hydrologie urbaine[br/][li]\tÊtre en mesure de sélectionner et de dimensionner différentes solutions techniques[br/][li]\tÊtre à même de relier différentes disciplines liés à l'hydrologie en général afin de promouvoir un développement durable des villes[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hydrologie urbaine",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499338528&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","342"],
+    "title":"Systèmes de télécommunications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499338528&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/107296",
+      "name":"Gaumier Christian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Learning basic knowledge on transmission of information and identify the relevant criteria for the dimensioning of a telecommunication system.  Evaluate the quality of digital transmission systems (error probability) either in baseband or shifted passband.",
+      "Content":"[b]Introduction[/b][br/]Global approach. Quantity of information. Information sources: texts, voice, pictures, video.[br/][b]Transmission basics[/b][br/]Transmission quality, levels, bandwidth, distortions, perturbations, crosstalk, signal-to-noise ratio. Baseband and passband signals. Channel characteristics. Channel capacity. Sampling. Multiplexing.[br/][b]Transmission media[/b][br/]Metallic lines. Fibers. Radio waves.[br/][b]Baseband digital telecommunications systems[/b][br/]Binary and m-ary transmission. Pulse shaping. Inter symbol interference and regeneration. Eye pattern. Error probability. Dimensioning.[br/][b]Analog telecommunication systems[/b][br/]Amplification. Noise accumulation in a repeater chain. Dimensioning.[br/][b]Analog modulations[/b][br/]AM, AM-P, SSB, FM and PM.  Modulation, demodulation and bandwidth.[br/][b]Digital (discrete) modulations[/b][br/]OOK, ASK, PSK, DPSK, QAM and FSK. Constellation diagram. Bandwidth and error probability.[br/][b]Passband digital telecommunications systems[/b][br/]Link budget. Dimensioning examples.",
+      "Type of teaching":"Ex cathedra with examples and demos. Exercises in class and group discussions. [br/]",
+      "Prerequisite for":"Lectures, teaching labs, semester and master projects in telecommunications.[br/]",
+      "Form of examination":"Written"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes de télécommunications",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-313-3&amp;con_lng=ENG\" target=\"blank\">Systèmes de télécommunications / par Pierre-Gérard Fontolliet</a>\". Year:1999. ISBN:2-88074-313-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/107296",
+      "name":"Gaumier Christian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"'P.-G. Fontolliet, Systèmes de télécommunications, Traité d'électricité Vol. XVIII, PPUR 1996.[br/]",
+      "Forme d'enseignement":"Ex cathedra avec exemples et démonstrations. Exercices en classe avec discussion en groupes",
+      "Contenu":"[b]Introduction[/b][br/]Approche globale. Quantité d'information.[br/]Caractéristiques des principales sources d'information.[br/][b]Fondements de la transmission[/b][br/]Qualité de transmission, niveaux, largeur de bande, distorsions, perturbations, diaphonie, rapport signal-sur-bruit. Signaux en bande de base et en bande décalée. Caractéristiques des canaux. Capacité d'un canal. Echantillonnage. Multiplexage.[br/][b]Milieux de transmission[/b][br/]Lignes métalliques. Fibres optiques. Ondes radio.[br/][b]Systèmes de télécommunications numériques en bande de base (passe-bas)[/b][br/]Transmission binaire et m-aire. Signaux de type Nyquist. Interférence entre moments et régénération. Diagramme de l'½il. Probabilité d'erreur. Dimensionnement. [br/]Systèmes de télécommunications analogiques.[br/]Amplification. Bilan de bruit dans une chaine d'amplificateurs. Dimensionnement. [br/][b]Modulations analogiques[/b][br/]AM AM-P, SSB, FM et PM. Modulation, démodulation et largeur de bande. [br/][b]Modulations discrètes[/b][br/]OOK, ASK, PSK, DPSK, QAM et FSK. Diagramme de constellations. Largeur de bande. Probabilité d'erreurs.  [br/][b]Systèmes de télécommunications numériques en bande décalée (passe-bande)[/b][br/]Budget de la liaison. Exemples de dimensionnement.",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Cours, travaux pratiques, projets de semestre et de master en télécommunications",
+      "Objectifs d'apprentissage":"Maîtriser les notions de base d'un système de  base de la transmission de l'information et identifier les critères déterminants pour la planification d'un système de télécommunication.[br/]Evaluer les performances d'un système de transmission numérique (probabilité d'erreur) autant en bande de base qu'en bande décalée."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes de télécommunications",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-313-3&amp;con_lng=FRE\" target=\"blank\">Systèmes de télécommunications / par Pierre-Gérard Fontolliet</a>\". Année:1999. ISBN:2-88074-313-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

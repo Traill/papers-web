@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47564647&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","202"],
+    "title":"Microbiology for engineers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47564647&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171550",
+      "name":"Bernier-Latmani Rizlan"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"40 % spot check during the semester (two tests oblig.)[br/]60 % written exam (180 min) during the exam session",
+      "Bibliography and material":"Reading materials: class notes and Brock biology of microorganisms 11th Ed. (2007) in French or 12th Ed. (2009) in English",
+      "Prerequisite for":"Sanitary engineering, management and waste treatment; Sites remediation; Specialization in chemistry and environmental processes",
+      "Required prior knowledge":"Biochemistry and General Biology",
+      "Content":"[b]Enzymology and microbial growth[/b][br/]Enzymes et kinetics, growth theory and effects of environmental parameters on microbial growth, batch reactors and continuous cultures [br/][b]Human-microorganism interactions and microbial growth control[/b][br/]Beneficial interactions, virulence factors and toxins, host defense mechanisms, water-borne diseases, chemical and physical control, influence on and evaluation of treatment efficiency[br/][br/][b]Genetic engineering[/b][br/]Mutation, genetic transfert and recombination processes: Tools, techniques and applications[br/][br/][b]Biogeochemical cycles[/b][br/]Topics covered include: Photosynthesis, carbon fixation, fermentation, methanogenesis and methanotrophy, S cycle, N cycle, mechanisms of degradation of organic pollutants and metal biogeochemistry. We will consider the pathways involved as well as the microbial diversity associated with the various metabolisms and will introduce tools to study this diversity in the environment.[br/]",
+      "Keywords":"Enzyme and growth kinetics, genetic engineering, interaction human-microbes, microbial metabolism, microbial diversity[br/]",
+      "Type of teaching":"Lectures and homeworks",
+      "Learning outcomes":"The objective of this course is to introduce the students to microbiology topics relevant to environmental engineers such as enzyme and growth kinetics, human-microbe interactions, microbial diversity and its role in biogeochemical cycles.[br/]Furthermore, the students will be given an introduction to bioreactors, genetic engineering, and microbial ecology tools.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Microbiology for engineers",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-73551-X&amp;con_lng=ENG\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Year:2012. ISBN:0-321-73551-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7209-3&amp;con_lng=ENG\" target=\"blank\">Brock, biologie des micro-organismes / Michael T. Madigan, John M. Martinko</a>\". Year:2007. ISBN:978-2-7440-7209-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171550",
+      "name":"Bernier-Latmani Rizlan"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Biochimie et Biologie générale",
+      "Bibliographie et matériel":"Notes de cours polycopiées et Brock Biologie des micro organismes 11ème éd. (2007) en français, ou Brock biology of microorganisms, 13ème ed. en anglais (2012)",
+      "Mots clés":"Cinétique enzymologique et de croissance bactérienne, génie génétique, interaction homme-microbe, métabolisme microbien, diversité microbienne",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[b]Enzymologie et croissance microbienne[/b][br/]Enzymes et cinétiques enzymatiques, théorie de la croissance, influence des paramètres de l'environnement, réacteur batch et culture en continu[br/][b]Interactions homme-microbe et contrôle des microorganismes[/b][br/]Interactions bénéfiques, facteurs de virulence et toxines, mécanismes de défense de l'hôte, les maladies transmises par l'eau, les agents physiques et chimiques pour contrôler les microorganismes, influence et évaluation de l'efficacité[br/][b]Génie génétique[/b][br/]Mutation, transfert génétique et recombinaison: Outils, techniques et applications[br/][b]Les cycles biogéochimiques[/b][br/]Les thèmes traités incluent (entre autres) la photosynthèse, la fixation de carbone, la fermentation, la méthanogénèse et méthanotrophie, les cycles de l'azote et de soufre, la dégradation des polluants organiques et la biogéochimie des métaux. Les voies de dégradation et la diversité microbienne associée à ces processus microbiens vont être considérées. Les techniques pour étudier les microorganismes dans l'environnement seront aussi introduites.",
+      "Forme du contrôle":"40 % contrôle ponctuel pendant le semestre (deux tests obligatoires), [br/]60 % épreuve écrite (180 min) pendant la session d'examen",
+      "Préparation pour":"Génie sanitaire, gestion des eaux et des déchets; Remédiation des sites; Spécialisation en chimie et bioprocédés environnementaux",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de familiariser les étudiants avec différents aspects de la microbiologie importants pour un ingénieur en environnement comme la cinétique enzymatique et de croissance, les interactions entre les microorganismes et l'homme, la diversité microbienne et leur rôle dans les différents cycles biogéochimiques.[br/]En plus, les étudiants vont être introduits dans les bases du fonctionnement des bioréacteurs, les techniques du génie génétique et de l'écologie microbienne."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Microbiologie pour l'ingénieur",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-73551-X&amp;con_lng=FRE\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Année:2012. ISBN:0-321-73551-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7209-3&amp;con_lng=FRE\" target=\"blank\">Brock, biologie des micro-organismes / Michael T. Madigan, John M. Martinko</a>\". Année:2007. ISBN:978-2-7440-7209-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

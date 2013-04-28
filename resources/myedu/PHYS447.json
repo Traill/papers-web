@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128852199&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","447"],
+    "title":"Reactor Technology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128852199&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/187827",
+      "name":"Prasser Horst-Michael"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To comprehend (particularly in the context of light water reactors) the basic heat removal phenomena in a reactor core, identify the technological limits for heat generation from the viewpoints of fuel, cladding and coolant, and be introduced to optimization principles in reactor thermal design.",
+      "Content":"[li]\tFuel rod, LWR fuel elements[br/][li]\tTemperature field in fuel rod[br/][li]\tReactor core, design[br/][li]\tFlux and heat source distribution, cooling channel[br/][li]\tSingle-phase convective heat transfer, axial temperature profiles[br/][li]\tBoiling crisis and DNB ratio[br/][li]\tPressurized water reactors, design[br/][li]\tPrimary circuit design[br/][li]\tSteam generator heat transfer, steam generator types[br/][li]\tBoiling water reactors[br/][li]\tReactor design[br/][li]\tLWR power plant technology[br/][li]\tOther types of reactors (overview)[br/][li]\tGeneration IV systems[br/][br/][br/]",
+      "Type of teaching":"Lectures, numerical exercises",
+      "Note":"Prerequisite for: Nuclear Safety (2nd sem.)",
+      "Required prior knowledge":"Neutronics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Reactor Technology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/187827",
+      "name":"Prasser Horst-Michael"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Préparation pour : Nuclear Safety (2ème sem.)",
+      "Prérequis":"Neutronics",
+      "Bibliographie et matériel":"Distributed documents, recommended book chapters",
+      "Forme d'enseignement":"Ex cathedra et exercices numériques",
+      "Contenu":"[li]\tBarre de combustible, Eléments de combustible LWR [br/][li]\tDistribution de température dans une barre de combustible[br/][li]\tCoeur du réacteur, conception[br/][li]\tDistributions du flux et de la source de chaleur [br/][li]\tTransfert de chaleur convectif à 1 phase, distribution axiale de la température[br/][li]\tCrise d'ébullition et rapport DNB[br/][li]\tRéacteurs à eau pressurisée, conception  [br/][li]\tConcept du circuit primaire    [br/][li]\tTransfert de chaleur dans les générateurs de vapeur (GV), types de GV[br/][li]\tRéacteurs à eau bouillante[br/][li]\tConception du réacteur[br/][li]\tTechnologie des LWR à puissance[br/][li]\tAutres filières des réacteurs (survol) [br/][li]\tSystèmes « Génération IV »[br/] ",
+      "Objectifs d'apprentissage":"Comprendre (particulièrement dans le contexte des réacteurs à eau légère (LWR)) les phénomènes de base concernant le transfert de chaleur dans le coeur d'un réacteur nucléaire, identifier les limites technologiques pour la production de chaleur du point de vue du combustible, de la gaine et du caloporteur, et d'être introduit aux principes d'optimisation de la conception thermique d'un réacteur. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Reactor Technology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

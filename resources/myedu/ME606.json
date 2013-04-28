@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128784262&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","606"],
+    "title":"Introduction to aeroelasticity",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128784262&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111676",
+      "name":"Carstens Volker"
+    },{
+      "url":"http://people.epfl.ch/105662",
+      "name":"Leyland Pénélope"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Form of examination":"Written exam[br/]",
+      "Prerequisite for":"Hydrodynamics, Mechanics of continuous media, Elasticity[br/]",
+      "Required prior knowledge":"Mechanics of continuous media, Elasticity",
+      "Content":"Fluid-Structure interaction[br/][li] Analytical methods in fluid-structure interaction[br/]   - Linear theory and methods[br/]   - Nonlinear theory and methods[br/][li] Simulation techniques in fluid-structure interaction[br/]   - Linear (frequencies)[br/]   - Nonlinear (time)",
+      "Keywords":"Aeroelasticity, Algorithms for Multi Physics Coupling, Fluid-Structure Coupling. Applications",
+      "Learning outcomes":"Principles of Fluid-Structure interaction. Introduction to Aeroelasticity.  Unsteady aerodynamics, applications in aeronautics and turbomacinery[br/]Introduce the coupling approach of different mechanical systems (structures) with aerodynamic forces (fluid). Formulation and solution methods for fluid structure interaction. Energy methods. Frequeny Domain, Time domain, Computational methods ALE. Experimental methods. Applications[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to aeroelasticity",
+    "recitation":{
+      "total_hours":0
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111676",
+      "name":"Carstens Volker"
+    },{
+      "url":"http://people.epfl.ch/105662",
+      "name":"Leyland Pénélope"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Prérequis":"Mechanics of continuous media, Elasticity",
+      "Mots clés":"Aeroelasticity, Algorithms for Multi Physics Coupling, Fluid-Structure Coupling. Applications",
+      "Contenu":"Fluid-Structure interaction[br/][li] Analytical methods in fluid-structure interaction[br/]   - Linear theory and methods[br/]   - Nonlinear theory and methods[br/][li] Simulation techniques in fluid-structure interaction[br/]   - Linear (frequencies)[br/]   - Nonlinear (time)",
+      "Forme du contrôle":"Written exam",
+      "Préparation pour":"Hydrodynamics, Mechanics of continuous media, Elasticity[br/]",
+      "Objectifs d'apprentissage":"Principles of Fluid-Structure interaction. Introduction to Aeroelasticity.  Unsteady aerodynamics, applications in aeronautics and turbomacinery[br/]Introduce the coupling approach of different mechanical systems (structures) with aerodynamic forces (fluid). Formulation and solution methods for fluid structure interaction. Energy methods. Frequeny Domain, Time domain, Computational methods ALE. Experimental methods. Applications"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to aeroelasticity",
+    "recitation":{
+      "total_hours":0
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

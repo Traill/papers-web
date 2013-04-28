@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773492&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","202(a)"],
+    "title":"Electronics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773492&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104979",
+      "name":"Doré Chantal"
+    },{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Duplicated lecture notes. Laboratory notice ",
+      "Prerequisite for":"Electronics II ",
+      "Required prior knowledge":"Introduction to electrical engineering I and II ",
+      "Content":"[b]Courses[/b][br/]1. Linear passive circuits[br/]2. Non-linear passive circuits[br/]3. Op.-Amp. with negative feed-back[br/]4. Op.-Amp. with positive feed-back[br/]5. Non-ideal effects in Op.-Amp.[br/]6. Op.-Amp. applications[br/]7. Oscillators[br/]8. Triggers and timers[br/][br/][b]Exercises and laboratories[/b][br/]Exercises and laboratory experiments will allow the student to compare theory and practice. Different types of integrated circuits as well as discrete components will be used in various experiments.",
+      "Type of teaching":"Ex cathedra and exercises in class. Labs",
+      "Learning outcomes":"At the end of the course, the student will be able to understand and design basic electronics. This objective takes advantage of an in-depth knowledge of modern electronic components and their applications. The student will acquire both theoretical and physical approaches of phenomena as well as practical aspects of design limitations and measurements of circuits."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Electronics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104979",
+      "name":"Doré Chantal"
+    },{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Électrotechnique I et II ",
+      "Bibliographie et matériel":"Notes de cours polycopiées. Notice de laboratoire.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices dirigés en salle. Travaux pratiques en laboratoire ",
+      "Contenu":"[b]Cours[/b][br/]1.\tCircuits passifs linéaires[br/]2.\tCircuits passifs non-linéaires[br/]3.\tAmplificateur opérationnel en contre-réaction[br/]4.\tAmplificateur opérationnel en réaction positive[br/]5.\tImperfections des amplificateurs opérationnels[br/]6.\tApplications de l'amplificateur opérationnel[br/]7.\tOscillateurs[br/]8.\tBascules[br/][br/][b]Exercices et travaux pratiques[/b][br/]Avec les exercices et travaux pratiques, l'étudiant confrontera systématiquement la théorie aux résultats expérimentaux. Il mettra en oeuvre différents types de circuits intégrés et de composants discrets dans diverses expériences.",
+      "Forme du contrôle":"Écrit",
+      "Préparation pour":"Électronique II ",
+      "Objectifs d'apprentissage":"À la fin du cours, l'étudiant sera capable de comprendre et de concevoir correctement les circuits électroniques de base. Cet objectif s'appuie sur une connaissance fondamentale des composants électroniques modernes et la maîtrise de leur mise en oeuvre dans les circuits. L'étudiant aura une approche théorique et également \"physique\" des phénomènes et des techniques de circuits et saura interpréter des résultats de calcul ou de mesures. Il aura le sens des approximations et leurs limites de validité."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Electronique I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

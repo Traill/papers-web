@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23996402&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","421"],
+    "title":"Analog circuits design II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23996402&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control",
+      "Bibliography and material":"Notes de cours",
+      "Prerequisite for":"Master thesis project",
+      "Required prior knowledge":"Analog circuits design I",
+      "Content":"[b]Analog comparator.[/b][br/][br/][b]Voltage references[/b] : available voltage sources and circuits to extract them.[br/][br/][b]Current references[/b] : circuits based on various principles; voltage to current converters.[br/][br/][b]Switched capacitors[/b] : principle, insensitivity to parasitic capacitors and to amplifier offset. [br/][br/][b]Specific structures of Op. Amps[/b] : Class A and class AB in differential mode.[br/][br/][b]Case studies of analog systems[/b].",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"The student will be able to design analog integrated circuits (and the analog parts of VLSI circuits). He will master the device structures and the basic circuits used in bipolar and MOS technologies, as well as the basic principles underlying their correct layout."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analog circuits design II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analog circuits design I",
+      "Bibliographie et matériel":"Notes de cours",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"[b]Comparateur analogique.[/b][br/][br/][b]Sources de tension de référence[/b] : tensions à disposition et circuits permettant de les extraire.[br/][br/][b]Sources de courant de référence[/b] : circuits basés sur différents principes; convertisseurs tension-courant.[br/][br/][b]Capacités commutées[/b] : principe, insensibilité aux capacités parasites et à la tension d'offset.[br/][br/][b]Structures spécifiques d'amplificateurs[/b] : topologies en classe A et classe AB en mode différentiel.[br/][br/][b]Etudes de cas de systèmes analogiques[/b].",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Projet de Master",
+      "Objectifs d'apprentissage":"L'étudiant sera capable de concevoir des circuits intégrés analogiques (et les parties analogiques de circuits VLSI). Pour cela, il maîtrisera les structures des dispositifs et les circuits de base utilisés en technologies bipolaires et MOS, ainsi que les principes à respecter lors de leur implantation dans le layout."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analog circuits design II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

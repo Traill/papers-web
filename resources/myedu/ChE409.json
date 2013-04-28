@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4145236&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ChE","409"],
+    "title":"Chemical engineering lab & project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4145236&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-ING",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Familiarize the students with practical aspects encountered in chemical reaction engineering. ",
+      "Content":"The experiments involving fundamental knowledge of chemical reactors and  processes:[br/][br/]1. Thermal behavior and parameter sensitivity of a highly exothermic reaction (runaway, heat management in batch & semi-batch reactor, optimized performance, etc.).[br/][br/][br/]2. Kinetics of gas/solid reactions (tubular reactor, CSTR, mass-transfer influence on the global kinetics, heterogenous catalysis characterization).[br/][br/]3. Micro-reaction technology: macro & micro-mixing; segregation, micro-heat exchange, ...[br/][br/]4. Three phase reaction in a semi-batch reactor (internal & external mass-transfer, intrinsic kinetics modeling, apparent activation energy).[br/][br/][br/]5. Transient kinetics of  heterogeneous reactions: Temperature programmed reaction/ desorption (TPD/TPR), transient response method, residence time distribution (RTD). "
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Chemical engineering lab & project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Modules Génie chimique & Biotechnologie du cycle Bachelor ",
+      "Bibliographie et matériel":"Fiche polycopiées pour chacune des expériences et publications scientifques",
+      "Forme d'enseignement":"Groupes de 3 étudiants",
+      "Contenu":"Les expériences impliquent des connaissances fondamentales du génie de la réaction chimique :[br/][br/]1. Comportement thermique et  paramètres sensibles d'une réaction fortement exothermique (emballement, gestion de la chaleur dans le réacteur en batch et de semi-batch, optimisation de la performance, etc.).[br/][br/]2. Cinétique de réactions gaz/solides (réacteur tubulaire, réacteur différentiel - CSTR ; influence du transfert de masse sur la cinétique globale, catalyse hétérogèen).[br/][br/]3. Micro-réacteur : macro & micro mélange, ségrégation, micro-échangeur de chaleur, ...[br/][br/]4. Réaction 3 phases dans un réacteur semi-batch (transfert interne & externe, modélisation de la cinétique intrinsèque, énergie d'activation apparente).[br/][br/]5. Cinétique transitoire de réactions hétérogènes : réaction/désorption avec température programmée (TPD/TPR), réponses transitoires, distribution des temps de séjour (DTS).",
+      "Forme du contrôle":"Continu",
+      "Objectifs d'apprentissage":"Familiariser les étudiants avec des problèmes pratiques rencontrés dans le domaine du génie de la réaction chimique.  "
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Chemical engineering lab & project",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

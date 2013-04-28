@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770948&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","485"],
+    "title":"Computer-supported cooperative work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770948&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3","http://moodle.epfl.ch/course/view.php?id=3"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155704",
+      "name":"Dillenbourg Pierre"
+    },{
+      "url":"http://people.epfl.ch/157873",
+      "name":"Jermann Patrick"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral Exam with Continuous control[br/]We evaluate the reports you have to produce for the project",
+      "Bibliography and material":"Dix, A., Finlay, J., Abowd, G., and Beale, R. (1998) [b]Chapter 13: Groupware. In Human Computer Interaction, 2nd Edition.[/b]  463-508, Prentice Hall.",
+      "Required prior knowledge":"Java or C programming ",
+      "Content":"This course is about the user side of groupware[br/][li]\tFormal coordination process (workflows)[br/][li]\tKnowledge management versus communities of practice[br/][li]\tSynchronous workspaces: WYSIWIS, awareness and persistence[br/][li]\tQuality of communication and collaboration with different media [tab](audio/video conferencing, medium richness, imitation bias,...)[br/][li]\tJoint problem solving, group memory, cognitive load and distributed  [tab]cognition theories[br/][li]\tRoomware & ubiquitous computing[br/][li]\tMethods for empirical studies with users[br/][li]\tMethods for data  analysis[br/][li]\tUse of statistical tools (R)",
+      "Type of teaching":"Lectures + Project ",
+      "Learning outcomes":"The goal of this course is that students become able:[br/][li]\tTo analyze how collaborative processes are influenced by specific groupware features[br/][li]\tTo design and run an empirical study that measures the effects of groupware on group performance and interaction patterns.[br/][li]\tTo analyse collected data and to make recommendations for groupware design[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer-supported cooperative work",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-046109-4&amp;con_lng=ENG\" target=\"blank\">Human-computer interaction / Alan J. Dix ... [et al.]</a>\". Year:2004. ISBN:978-0-13-046109-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3","http://moodle.epfl.ch/course/view.php?id=3"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155704",
+      "name":"Dillenbourg Pierre"
+    },{
+      "url":"http://people.epfl.ch/157873",
+      "name":"Jermann Patrick"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Programmation en Java ou C",
+      "Bibliographie et matériel":"Dix, A., Finlay, J., Abowd, G., and Beale, R. (1998) Chapter 13: Groupware. In Human Computer Interaction, 2nd Edition.  463-508, Prentice Hall.",
+      "Forme d'enseignement":"Cours + Projet ",
+      "Contenu":"Ce cours porte sur l'aspect \"utilisateur\" des collecticiels[br/][li]\tProcessus formel de coordination (workflow)[br/][li]\tGestion des connaissances versus portails communautaires[br/][li]\tEspaces de collaboration synchrone: WYSIWIS, mutualisation et [tab] persistance [br/][li]\tQualité de la communication et la collaboration selon la nature des [tab]medias (audio/video,  richesse du medium, biais d'imitation,...)[br/][li]\tRésolution collaborative de problèmes (mémoire de groupe, [tab]charge cognitive,...) et théories de la  cognition distribuée[br/][li]\tRoomware & ubiquitous computing[br/][li]\tMéthodes pour les études empiriques [br/][li]\tMéthodes d'analyse de données[br/][li]\tUtilisation d'outils statistiques",
+      "Forme du contrôle":"Examen oral avec contrôle continu[br/]Evaluation des rapports prévus dans le projet",
+      "Objectifs d'apprentissage":"Les objectifs de ce cours sont d'être capable de [br/][li]\tAnalyser en quoi les processus de collaboration sont influencés par les caractéristiques du groupware utilisé[br/][li]\tConcevoir et réaliser des expériences avec des utilisateurs afin de mesurer les effets d'un collecticiel en termes de performance et de pattern d'interactions [br/][li]\tAnalyser les données récoltées pendant l'expérience et en extraire des propositions en matière de design d'un collecticiel."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer-supported cooperative work",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-046109-4&amp;con_lng=FRE\" target=\"blank\">Human-computer interaction / Alan J. Dix ... [et al.]</a>\". Année:2004. ISBN:978-0-13-046109-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

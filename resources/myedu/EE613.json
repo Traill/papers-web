@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304756&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","613"],
+    "title":"Machine Learning: Theory and Practice",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304756&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/221221",
+      "name":"Collobert Ronan"
+    },{
+      "url":"http://people.epfl.ch/146262",
+      "name":"Fleuret François"
+    },{
+      "url":"http://people.epfl.ch/161663",
+      "name":"Odobez Jean-Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Note":"Practical courses will consist in programming sessions matching lecture course topics.",
+      "Form of examination":"Written exam[br/]Project report",
+      "Required prior knowledge":"At least one prior course in probabilities, linear algebra and programming (C, Java or equivalent).",
+      "Content":"* Fundamentals 4h[br/]   - Notion of learning (classification vs. regression vs. density modeling vs. reinforcement learning)[br/]   - Probability theory (formalization, densities, density models)[br/]   - Standard statistical tools[br/]   - Cross validation and performance evaluation[br/]   - Signal processing (Fourier, edges, etc.)[br/]   - Optimization (gradient, newton, stochastic gradient, etc.)[br/]   - Information theory (Shanon entropy, mutual information)[br/]   - Dynamic programming[br/][br/]* Generative models 8h[br/]   - Directed / non-directed models[br/]   - Sampling, Conditional independence[br/]   - Naive Bayesian[br/]   - K-Means, Gaussian Mixture Models, Hidden Markov Models [br/]   - Probabilistic PCA[br/]   - Bayesian networks[br/]   - Expectation-Maximization (E-M), Belief propagation[br/][br/]* Discriminative models 8h[br/]   - K-NN[br/]   - Perceptron, MLP[br/]   - SVMs, Kernelization (Perceptron, PCA, etc.)[br/]   - CRF + Generalization[br/]   - Convolution networks, Recurrent networks[br/]   - Decision trees[br/][br/]* Meta-techniques 6h[br/]   - Bagging[br/]   - Boosting[br/]   - Feature selection[br/]   - Regularization and sparsity[br/][br/]* Learning theory 2h[br/]   - Capacity and VC dimension[br/]   - Generalization bounds[br/][br/]",
+      "Keywords":"Machine Learning",
+      "Learning outcomes":"This course will provide a unified presentation of the main algorithms in machine learning, from their theoretical basis, to practical implementation details during programming sessions. Through this course, diligent students will acquire the necessary tools and knowledge to address most real-life machine learning problems.[br/][br/]"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Machine Learning: Theory and Practice",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/221221",
+      "name":"Collobert Ronan"
+    },{
+      "url":"http://people.epfl.ch/146262",
+      "name":"Fleuret François"
+    },{
+      "url":"http://people.epfl.ch/161663",
+      "name":"Odobez Jean-Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Machine Learning: Theory and Practice",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

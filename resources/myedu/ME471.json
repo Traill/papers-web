@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824165036&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","471"],
+    "title":"Supersonic and hypersonic flows",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824165036&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168350",
+      "name":"Mickaily-Huber Elizabeth"
+    },{
+      "url":"http://people.epfl.ch/107543",
+      "name":"Vos Jan-Bernhard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Bibliography and material":"Course notes available on the internet, all other information provided in class.",
+      "Required prior knowledge":"[li]ME-343, Compressible flows, or equivalent[br/][li]ME-371, Finite difference and finite volume methods, or equivalent",
+      "Content":"[li]One dimensional unsteady flows : Isentropic flow, simple waves, compression and expansion waves, shock formation, piston, shock tube,[br/][li]Riemann invariants, introduction to the Riemann problem, initial and boundary conditions.[br/][li]High-resolution shock-capturing methods : Upwind and centered schemes for linear hyperbolic PDE's. Conservative schemes. Monotonic schemes. Numerical flux. Godunov method. Riemann solvers. Entropy condition. Limiters. TVD schemes. Boundary conditions. Supersonic and hypersonic flows, as well as combustion.  [br/][li]Assessment of computational results.",
+      "Keywords":"Shock, Riemann, invariants, numerical, methods, supersonic, hypersonic, flow, compressible",
+      "Type of teaching":"Course + Practice computer exercises",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]AH1, Describe flow in scientific terms[br/][li]AH2, Link flow behaviour with non-dimensional parameters[br/][li]AH3, Describe physical phenomena associated with compressibility[br/][li]AH10, Identify the crucial aspects present in a real flow in order to propose an appropriate modelling[br/][li]AH16, State the conserved quantities in a given flow and link them to a physical-mathematical description[br/][li]AH21, Apply the methods of characteristics to the analysis of supersonic flows[br/][li]A24, Choose the numerical approach appropriate for the accurate computation of shock locations in a compressible flow[br/][li]AH28, Evaluate numerical accuracy as a function of the choice of simulation parameters[br/][li]AH29, Analyse numerical solutions and identify any inconsistencies with respect to physical reality; understand and apply the concepts of verification and validation[br/][li]AH30, Describe different method used to discretize differential equations[br/][li]AH41, Perform a numerical simulation with appropriate software[br/][b]Transverse skills:[/b][br/][li]T2, Self-assessment of acquired skills[br/][li]T7, Make an oral presentation[br/][li]T23, Improve skills continuously"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supersonic and hypersonic flows",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168350",
+      "name":"Mickaily-Huber Elizabeth"
+    },{
+      "url":"http://people.epfl.ch/107543",
+      "name":"Vos Jan-Bernhard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]ME-343, Mécanique des fluides compressibles, ou équivalent[br/][li]ME-371, Méthodes des différences et volumes finis, ou équivalent",
+      "Bibliographie et matériel":"Notes de cours disponibles sur l'internet, tout autre renseignement donné en cours.",
+      "Mots clés":"Choc, Riemann, invariants, méthodes, numériques, supersonique, hypersonique, écoulement, compressible",
+      "Forme d'enseignement":"Cours + Exercices pratiques informatiques",
+      "Contenu":"[li]Ecoulements monodimensionels instationnaires: écoulement[br/]isentrope, ondes simples, onde de compression et de détente,[br/][li]Formation des chocs, piston, tube à choc, invariants de Riemann,[br/]Introduction au problème de Riemann, condition initiale et aux limites.[br/][li]Les techniques de capture de chocs : solution faible, schémas monotones,schémas conservatifs. Flux numérique. Méthodes de[br/]Godunov. Solveurs de Riemann. Conditions d'entropie. Contrôleur de régularité. Les limiteurs. Schémas non-oscillants. Schémas TVD. [br/]Conditions limites. Les écoulements supersoniques et hypersoniques ainsi que la combustion.[br/][li]Appréciation des résultats de calculs.",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Compétences de domaine :[br/][li]AH1, Décrire un écoulement en termes scientifiques[br/][li]AH2, Relier les comportements des écoulements aux paramètres adimensionnels[br/][li]AH3, Décrire les phénomènes physiques associes avec la compressibilité[br/][li]AH10, Identifier les aspects cruciaux présents dans un écoulement réel afin de proposer une modélisation appropriée[br/][li]AH16, Enoncer les quantités conservées dans un écoulement donné et les relier avec la description physico-mathématique[br/][li] AH21, Appliquer la méthode des caractéristiques pour analyser les écoulements supersoniques[br/][li]A24, Choisir les approches numériques appropriées pour calculer avec précision la position des chocs dans un écoulement compressible [br/][li] AH28, Evaluer la précision numérique des résultats en fonction des choix des paramètres de simulation[br/][li]AH29, Analyser les solutions numériques et identifier les inconsistances par rapport à la réalité physique ; comprendre et appliquer les concepts de la vérification et de la validation[br/][li]AH30, Décrire les différentes méthodes utilisées pour la discrétisation des équations différentielles[br/][li]AH41, Effectuer une simulation numérique avec des logiciels appropriés[br/][b]Compétences transversales :[/b][br/][li]T2, Evaluer sa formation en termes de compétences acquises[br/][li]T7, Réaliser une présentation orale[br/][li]T23, Développer ses compétences de manière continue"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supersonic and hypersonic flows",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

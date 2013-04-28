@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71644676&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","252"],
+    "title":"Advanced theoretical computer science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71644676&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217799",
+      "name":"Madry Aleksander"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"This course is designed to be taken in parallel with \"Theoretical Computer Science\"",
+      "Form of examination":"Homeworks and Quizzes",
+      "Bibliography and material":"Bernard Moret, The Theory of Computation, Addison Wesley[br/]Michael Sipser, Introduction to the Theory of Computation, PWS Publishing[br/]Christos Papadimitriou, Computational Complexity, Addison Wesley[br/]",
+      "Required prior knowledge":"Discrete structures, Algorithms, Theoretical Computer Science (co-requisite, same semester) and mathematical maturity",
+      "Content":"The course will touch upon more advanced topics in:[br/][br/][li] Automata and Language Theory [br/][li] Computability Theory[br/][li] Complexity Theory[br/]",
+      "Type of teaching":"Lectures and homework",
+      "Learning outcomes":"This course has as a co-requisite the course \"Theoretical Computer Science\". It covers some of the same topics in more depth, and also addresses more advanced topics. The objective is to build a more detailed picture of the main results and methods in theory of computation.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced theoretical computer science",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53082-1&amp;con_lng=ENG\" target=\"blank\">Computational complexity / Christos H. Papadimitriou</a>\". Year:1995. ISBN:0-201-53082-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-42426-4&amp;con_lng=ENG\" target=\"blank\">Computational complexity : a modern approach / Sanjeev Arora, Boaz Barak</a>\". Year:2009. ISBN:978-0-521-42426-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-619-21764-8&amp;con_lng=ENG\" target=\"blank\">Introduction to the theory of computation / Michael Sipser</a>\". Year:2006. ISBN:978-0-619-21764-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-25828-5&amp;con_lng=ENG\" target=\"blank\">The theory of computation / Bernard M. Moret</a>\". Year:1997. ISBN:0-201-25828-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217799",
+      "name":"Madry Aleksander"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Le cours est conçu pour être pris simultanément avec le cours «Informatique Théorique»",
+      "Prérequis":"Structures discrètes, Algorithmique,Informatique théorique (co-requis, même semestre) et à l'aise en mathématiques",
+      "Bibliographie et matériel":"Michael Sipser, Introduction to the Theory of Computation, PWS Publishing[br/]Bernard Moret, The Theory of Computation, Addison Wesley[br/]Sanjeev Arora and Boaz Barak, Computational Complexity: A Modern Approach, Cambridge University Press[br/]Christos Papadimitriou, Computational Complexity, Addison Wesley[br/][br/]",
+      "Forme d'enseignement":"Ex cathedra et travail personnel",
+      "Contenu":"Le cours enseignera des connaissances avancées en :[br/][br/][li] Théorie des automates et langage[br/][li] Théorie de la calculabilité[br/][li] Théorie de la complexité[br/]",
+      "Forme du contrôle":"Travail personnel noté et Quizz",
+      "Objectifs d'apprentissage":"Ce cours a comme co-requis le cours «Informatique Théorique».  Ce cours approfondit certains des sujets suivis dans le cours de base et y ajoute des sujets plus avancés.  Le but est de construire un panorama plus détaillé des résultats et méthodes les plus importantes dans la théorie du calcul."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced theoretical computer science",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53082-1&amp;con_lng=FRE\" target=\"blank\">Computational complexity / Christos H. Papadimitriou</a>\". Année:1995. ISBN:0-201-53082-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-42426-4&amp;con_lng=FRE\" target=\"blank\">Computational complexity : a modern approach / Sanjeev Arora, Boaz Barak</a>\". Année:2009. ISBN:978-0-521-42426-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-619-21764-8&amp;con_lng=FRE\" target=\"blank\">Introduction to the theory of computation / Michael Sipser</a>\". Année:2006. ISBN:978-0-619-21764-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-25828-5&amp;con_lng=FRE\" target=\"blank\">The theory of computation / Bernard M. Moret</a>\". Année:1997. ISBN:0-201-25828-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

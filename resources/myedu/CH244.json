@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47987718&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","244"],
+    "title":"Quantum chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47987718&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121774",
+      "name":"Drabbels Marcel"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To understand the fundamentals of quantum chemistry.",
+      "Content":"[br/][li] Introduction and historical perspective[br/][li] The Time Independent Schrödinger equation and applications to simple systems[br/][li] Measurements in quantum mechanical systems[br/][li] Operator formulation of the Schrödinger Equation[br/][li] Postulates of quantum mechanics[br/][li] Time dependent Schrödinger equation[br/][li] The harmonic oscillator[br/][li] Three dimensional systems[br/][li] Angular momentum[br/][li] The hydrogen atom [br/][li] Approximation methods[br/][li] Many electron atoms[br/][li] Electron spin and the Pauli principle[br/][li] Term symbols and coupling of angular momentum[br/][li] Quantum mechanical treatment of molecules[br/][li] Electronic structure calculations"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum chemistry",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-891389-50-4&amp;con_lng=ENG\" target=\"blank\">Quantum chemistry / Donald A. McQuarrie</a>\". Year:2008. ISBN:978-1-891389-50-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121774",
+      "name":"Drabbels Marcel"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Le cours est donné en anglais",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra ",
+      "Contenu":"[br/][li] Introduction et perspectives historiques[br/][li] L'équation de Schrödinger indépendante du temps et application à des systèmes simples[br/][li] Mesures dans les systèmes de mécanique quantique[br/][li] Formulation de l'opérateur de l'équation de Schrödinger[br/][li] Postulat de mécanique quantique[br/][li] Équation de Schrödinger dépendante du temps[br/][li] L'oscillateur harmonique[br/][li] Systèmes tridimensionnels[br/][li] Moment angulaire[br/][li] Le cas de l'atome d'hydrogène[br/][li] Méthodes d'approximation[br/][li] Le cas des atomes à plusieurs électrons[br/][li] Le spin de l'électron et le principe de Pauli[br/][li] Couplage du moment angulaire[br/][li] Traitement par mécanique quantique de molécules[br/][li] Calcul de la structure électronique ",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Comprendre les bases de la chimie quantique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum chemistry",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-891389-50-4&amp;con_lng=FRE\" target=\"blank\">Quantum chemistry / Donald A. McQuarrie</a>\". Année:2008. ISBN:978-1-891389-50-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

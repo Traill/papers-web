@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=46908235&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","413"],
+    "title":"Real-time networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=46908235&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"],["http://lamspeople.epfl.ch/decotignie/","http://lamspeople.epfl.ch/decotignie/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104900",
+      "name":"Decotignie Jean-Dominique"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Mid-term presentation 50% and final exam 50%",
+      "Bibliography and material":"Voir URL du cours / see course URL",
+      "Required prior knowledge":"Protocols and real-time system background",
+      "Content":"1. Introduction (hierarchy in communications, motivation for networks, types of applications)[br/]2. Requirements (delay, jitter, predictability, topology, cost, etc.)[br/]3. Communication systems architecture and its influence on temporal behavior(OSI model, communication models, real-time paradigms : Time-Triggered vs. Event-Triggered, interworking)[br/]4. Fieldbusses and how real-time performance assessment : FIP and CAN as examples[br/]5. Ethernet, industrial Ethernet and real-time Ethernet[br/]6. Wireless communications and their impact on real-time guarantees[br/]7. IEEE 802.11 and IEEE 802.11e[br/]8. Bluetooth, IEEE 802.15.4 (ZigBee) and wireless sensor networks[br/]9. Real-time in wireless sensor networks",
+      "Type of teaching":"Ex cathedra + student presentations",
+      "Learning outcomes":"At the completion of the course, the student will have mastered the main problems and solutions related to communications under real-time constraints in transportation systems and in the control of industrial processes. Applications to multimedia will also be sketched."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Real-time networks",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"],["http://lamspeople.epfl.ch/decotignie/","http://lamspeople.epfl.ch/decotignie/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104900",
+      "name":"Decotignie Jean-Dominique"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Informatique du temps réel, protocoles",
+      "Bibliographie et matériel":"Voir URL du cours / see course URL",
+      "Forme d'enseignement":"Ex cathedra + exposés",
+      "Contenu":"1. Introduction (Hiérarchie des communications, motivation pour les réseaux, types d'applications)[br/]2. Besoins (délai, gigue, prévisibilité, topologie, coût, etc.)[br/]3. Architecture des systèmes de communication et son influence sur le comportement temporel (modèle OSI, modèles d'interaction, approches architecturales - activation par événements ou temps, interconnexion)[br/]4. Les bus de terrain et les méthodes d'évaluation des performances temps réel : FIP and CAN comme exemples[br/]5. Ethernet, Ethernet industriel et Ethernet temps réel[br/]6. Communications sans fil et leur impact sur les garanties [br/]7. IEEE 802.11 et IEEE 802.11e[br/]8. Bluetooth, IEEE 802.15.4 (ZigBee) et les réseaux de capteurs sans fil[br/]9. Le temps réel dans les réseaux de capteurs sans fil",
+      "Forme du contrôle":"Présentation intermédiaire 50% et examen final 50%",
+      "Objectifs d'apprentissage":"A l'issue du cours, l'étudiant aura acquis les connaissances principales liées à la problématique et aux solutions apportées pour les communications temps réel dans les systèmes de transport et en contrôle de processus industriels, des systèmes temps réel. L'application de ces techniques au multimédia sera aussi abordée."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Real-time networks",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

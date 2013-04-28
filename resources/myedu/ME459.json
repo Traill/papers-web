@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228389155&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","459"],
+    "title":"Powerplants and heat pumps",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228389155&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    },{
+      "url":"http://people.epfl.ch/228965",
+      "name":"Pautz Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral examination at the end of the course",
+      "Bibliography and material":"Borel, Favrat Thermodynamics and energy systems analysis, EPFL Press + distributed documents available in pdf on moodle",
+      "Required prior knowledge":"[li]Thermodynamique et énergétique II[br/][li]Heat and mass transfer",
+      "Content":"[b]Energy, Economics and Environment[/b]: general knowledge[br/][br/][b]Thermal power plant cycles and equipment[/b]: Rankine, Brayton, supercritical, combined cycles, Cheng, Kalina, boilers  (incl. fluidised bed), turbomachines, cooling towers, specific power plant applications (oil & natural gas, coal incl. IGCC, waste incineration,...)[br/][br/][b]Nuclear power plants[/b]: nuclear physics elements-fission-critical size of a reactor-fuel cycles-specifics of nuclear power plants (physics design, thermohydraulics of the core, control, main types of power plants, environmental aspects, safety[br/][br/][b]Heat pumping technologies[/b]: main families of technologies for heat pumping (compression, chemical, magnetic, thermoelectric), main compressor and expander technologies (volumetric, dynamic), working fluids and refrigerants incl. mixtures ( diagr de Merkel-Bosnjakovic) and the global environmental impact factors",
+      "Keywords":"Power plant, heat pump, compressor, turbine",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Know the principles and limitations of the main energy conversion technologies, E7[br/][li]Understand the challenges related to energy: resources, energy services, economic and environmental impacts, E9[br/][li]Calculate fluid flows in energy conversion systems, compute pressure drops and heat losses and fluid-structure interactions, E10[br/][li]Calculate and design volumetric compressors and turbines, E14[br/][li]Analyse the energy and exergy efficiency of industrial energy systems, E23[br/][li]Explain and calculate the main emission sources of energy conversion processes, E25[br/][br/][br/][br/][b]Transversal skills:[/b][br/][li]Take notes effectively, T3[br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Estimate the accuracy level of a process, T18[br/][li]Analyse the consequences of a decision or solution, T20[br/][li]Work ethically respecting safety and the environment, T21"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Powerplants and heat pumps",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-45-2&amp;con_lng=ENG\" target=\"blank\">Thermodynamics and energy systems analysis : from energy to exergy / Lucien Borel and Daniel Favrat</a>\". Year:2010. ISBN:978-2-940222-45-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    },{
+      "url":"http://people.epfl.ch/228965",
+      "name":"Pautz Andreas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Thermodynamique et énergétique II[br/][li]Heat and mass transfer",
+      "Bibliographie et matériel":"Borel, Favrat Thermodynamique et énergétique + documents distribués disponibles en pdf sur moodle ",
+      "Mots clés":"Centrale thermique, pompe à chaleur, compresseur, turbine",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Energie, économie et environnement[/b] : connaissances générales[br/][br/][b]Centrales et équipements thermiques[/b] :[br/]Rankine, Brayton, supercritique, cycles combinés, Cheng, Kalina, chaudière  (y.c. lits fluidisés), turbomachines, tours de refroidissement,  applications spécifiques (mazout & gaz naturel, charbon y.c.. IGCC, incinération de déchets,...)[br/][br/][b]Centrales nucléaires[/b]: notions de physique -fission-taille critique de réacteur- cycles du combustible-spécifique des centrales nucléaires (conception physique, thermohydraulique du coeur, contrôle, principales filières, aspects environnementaux, sécurité[br/][br/][b]Filières de pompes à chaleur[/b]: principales familles (compression, chimique (absorption), magnétique, thermoélectrique), technologies principales de compresseur et de turbine (volumétrique, dynamique), fluides de travail et fluides frigorigènes y.c. mélanges (diagr. de Merkel-Bosnjakovic) et  aspects d'environnement global",
+      "Forme du contrôle":"Examen oral en fin de cours",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Connaître les principales technologies de conversion de l'énergie, leurs principes et leurs limites, E7[br/][li]Comprendre les enjeux de l'énergie: les ressources, les services énergétiques, les impacts économiques et environnementaux, E9[br/][li]Calculer les écoulements de fluides dans les équipements de conversion d'énergie, calculer des pertes de charges et de chaleur et calculer les interactions fluide-structure, E10[br/][li]Calculer et concevoir des compresseurs et turbines volumétriques, E14[br/][li]Analyser l'efficacité énergétique et le rendement exergétique des systèmes énergétiques industriels, E23[br/][li]Expliquer et calculer les principales sources d'émissions des processus de conversion d'énergie, E25[br/][br/][b]Compétences transversales:[/b][br/][li]Prendre des notes de manière efficace, T3[br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20[br/][li]Travailler éthiquement dans le respect de la sécurité et de l'environnement, T21"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Powerplants and heat pumps",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-45-2&amp;con_lng=FRE\" target=\"blank\">Thermodynamics and energy systems analysis : from energy to exergy / Lucien Borel and Daniel Favrat</a>\". Année:2010. ISBN:978-2-940222-45-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

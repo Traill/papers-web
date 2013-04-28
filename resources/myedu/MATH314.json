@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497037353&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","314"],
+    "title":"Representations of finite groups",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497037353&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123676",
+      "name":"Thévenaz Jacques"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to present the classical theory of reprensentations and characters of finite groups. Applications concerning the structure of finite groups will be given.",
+      "Content":"[li]Linear representations of groups[br/][li]Irreductible representations[br/][li]Character of a representation[br/][li]Orthogonality relations[br/][li]Character table[br/][li]Burnside theorem[br/][li]Induced representations[br/][li]Frobenius theorem",
+      "Type of teaching":"Ex cathedra, exercises in classroom"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Representations of finite groups",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7056-6352-5&amp;con_lng=ENG\" target=\"blank\">ReprÃ©sentations linÃ©aires des groupes finis / Jean-Pierre Serre</a>\". Year:1998. ISBN:2-7056-6352-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123676",
+      "name":"Thévenaz Jacques"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, exercices en classe",
+      "Contenu":"[li]Représentations linéaires des groupes[br/][li]Représentations irréductibles[br/][li]Caractère d'une représentation[br/][li]Relations d'orthogonalité[br/][li]Table des caractères[br/][li]Théorème de Burnside[br/][li]Représentations induites[br/][li]Théorème de Frobenius",
+      "Bibliographie et matériel":"J.P. Serre, Représentations linéaires de groupes finis, Hermann, Paris",
+      "Objectifs d'apprentissage":"Le but de ce cours est de présenter la théorie classique des représentations et des caractères des groupes finis. Des applications concernant la structure des groupes finis seront données."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Représentations des groupes finis",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7056-6352-5&amp;con_lng=FRE\" target=\"blank\">ReprÃ©sentations linÃ©aires des groupes finis / Jean-Pierre Serre</a>\". Année:1998. ISBN:2-7056-6352-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

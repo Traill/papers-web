@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017703&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","711"],
+    "title":"Large-Scale Distributed Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017703&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184811",
+      "name":"Kermarrec Anne-Marie"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Form of examination":"Oral presentation",
+      "Bibliography and material":". A Scalable Content Addressable Network. S. Ratnasamy, P. Francis, M. Handley, R. Karp and S. Shenker. Proceedings of the ACM SIGCOMM 2001 Conference. August, 2001. San Diego, CA. [br/]. Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications. I. Stoica and R. Morris and D. Karger and M. F. Kaashoek and H. Balakrishnan. Proceedings of the ACM SIGCOMM 2001 Conference. August, 2001. San Diego, CA. [br/]. Making Gnutella-like P2P Systems Scalable. Yatin Chawathe, Sylvia Ratnasamy, Lee Breslau, and Scott Shenker. SIGCOMM 2003. August 2003. Karlsruhe, Germany. [br/]. M. Castro, P. Druschel,A.-M. Kermarrec, A.I.T. Rowstron, \"Scribe: A Large-Scale and Decentralized Application-Level Multicast Infrastructure,\" IEEE JSAC, Vol. 20, No. 8, Oct. 2002. [br/]. B. Cohen Incentives Build Robustness in Bit Torrent. Workshop on Economics of Peer-to-Peer Systems. June 2003. Berkeley, CA.[br/]. M. Castro, P. Druschel, A.-M. Kermarrec, A. Nandi, A. Rowstron, A. Singh, \"SplitStream: high-bandwidth multicast in cooperative environments,\" In Proceedings of the nineteenth ACM symposium on Operating systems principles. [br/]. M. Jelasity, S. Voulgaris, R. Guerraoui, A.-M. Kermarrec, M. Van Steen: Gossip-based peer sampling. ACM Trans. Comput. Syst 25(3) 2007.[br/]. A. Rowstron and P. Druschel, \"Pastry: Scalable, decentralized object location and routing for large-scale peer-to-peer systems\".  IFIP/ACM International Conference on Distributed Systems Platforms (Middleware), Heidelberg, Germany, pages 329-350, November, 2001.[br/]. M. Jelasity, A. Montresor, and O. Babaoglu. 2005. Gossip-based aggregation in large dynamic networks. ACM Trans. Comput. Syst. 23, 3 (August 2005)[br/]. P. Eugster, S. Handurukande, R. Guerraoui, A.-M. Kermarrec, and P. Kouznetsov. Lightweight Probabilistic Broadcast. ACM Transaction on Computer Systems, 21(4), November 2003.[br/]. D. Kostic, A. Rodriguez, J.  Albrecht, A. Vahdat,  \"Bullet: High Bandwidth Data Dissemination Using an Overlay Mesh,\" SOSP 2003 [br/][br/]",
+      "Required prior knowledge":"knowledge in operating systems and networks, knowledge in distributed computing",
+      "Content":"I- P2P Overlay Networks[br/]This part will be devoted to the description of the algorithms building overlay structured and the routing operations. We will study first structured overlay networks (aka DHT by abuse of language). More precisely we will be studying Pastry, a ring-based overlay structured overlay, CAN, which builds an overall network over a multi-dimensional Euclidean space. De Bruijn-based overlay will be studied, time permitted. We will then study unstructured overlay networks and more specifically gossip-based solutions to build such topologies. Gossip algorithms to build semi-structured topologies will also be considered and detailed in the application part of this course.[br/][br/]II- Application-level multicast over P2P overlay networks[br/]One of the most popular applications leveraging P2P overlay networks is application-level multicast, ie information dissemination to a group of large and dynamic set of clients. In such approaches, the load of forwarding messages is spread among the peers of the system. The P2P topology is used as the substrate to disseminate messages. In this part we will study flooding-based algorithms as well as tree-based algorithms in the context of both structured and unstructured overlay networks. More specifically, performance, fault-tolerance and scalability properties will be considered.[br/][br/]III- P2P Streaming protocols[br/]While streaming protocols have become extremely popular for scalability reasons, enabling to shift the load from servers to clients themselves. Such protocols differ from application level multicast protocols due to the fact that the content to be disseminated is much more bandwidth consuming than the one considered in application-level multicast approaches and is subject to time constraints. We will study P2P streaming protocols on top of structured P2P overlay networks and mesh networks. Finally, we will study gossip-based P2P streaming protocols.[br/][br/]IV-P2P Event notification systems[br/]P2P overlay networks have also been acknowledged as a sound and scalable basis to implement event notification systems, also known as publish-subscribe systems. In such systems, users register to events or patterns of events in order to be asynchronously notified of any event matching their interest. They come in various flavor depending on the expressiveness of the model. In topic-based systems, users registered their interest in a specific kind of events while in content-based systems, specific values or range of value on attributes might be considered. We will study both topic-based and content-based systems in the context of P2P overlay networks. This will include event notification systems build on top of generic P2P structured infrastructures as well as dedicated P2P topologies.[br/][br/]V- P2P Monitoring[br/]We will study a number of functions that can be computed over P2P infrastructures. This includes aggregation, polling, slicing, renaming and system size computation. Such functions are extremely useful to monitor large scale systems where no central authority has the global knowledge of the system.[br/][br/]VI- Incentives and security aspects of P2P overlay networks[br/]P2P overlay networks rely on the assumption that the participating not only contribute to the system but also follow the protocols. In this part of the course, we will study the incentive mechanisms that have been designed in P2P systems. We will also study some security aspects and in particular some specific mechanism to detect and/or tolerate attacks in P2P networks (eg  Sybil attacks).[br/][br/]The course will include student presentations, readings, discussions, student reviews and reports on publications of seminar and recent contributions to the field of distributed systems.[br/] ",
+      "Keywords":"P2P, overlay networks, application-level multicast, distributed streaming",
+      "Learning outcomes":"While the scale of distributed systems keeps increasing, fully-decentralized systems emerged as an alternative to the client-server based systems in many areas, able to scale to millions of nodes collaborating toward an application. One of the early driving forces behind fully decentralized systems is to leverage the (storage and computing) resources at the edge of the network and to cope with a growing number of users. Pioneered by the file-sharing systems (Gnutella, Kazaa), the potential of fully-decentralized systems goes far beyond and have been applied to data dissemination, streaming, voice over, routing, search, ... Key to fully decentralized systems success is their ability to let global functionalities emerge from individual decisions of a large number of nodes, each relying on a partial knowledge of the entire system (application-level multicast, streaming, notification system,...) .This course introduces the protocols and algorithms to build the foundations of fully-decentralized large-scale distributed systems: fully decentralized topologies (structured, unstructured, hybrid) and companion algorithms for scalable applications (application-level multicast, aggregation, streaming protocols)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Large-Scale Distributed Systems",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184811",
+      "name":"Kermarrec Anne-Marie"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Large-Scale Distributed Systems",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

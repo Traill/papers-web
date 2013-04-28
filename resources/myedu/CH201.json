@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772250&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","201"],
+    "title":"Structural analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772250&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    },{
+      "url":"http://people.epfl.ch/174689",
+      "name":"Tsybin Yury"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To learn to establish the strucure of simple organic compounds  by their fonctional properties and spectral data",
+      "Content":"[br/][li] Review of organic compound properties (acidity, basicity, reduction, oxidation), separation by extraction, elemental analysis.[br/][br/][br/][li] Infra-red absorption spectroscopy: Hooke's law, energies of the streching vibrations, isotopic effects, solvent effects.[br/][br/][li] Theory of color (chromophores, Franck-Condon contours), how does structure affects the color of organic compounds,  introduction in photophysics, UV-visible absorption spectra, base and acid effects, solvatochomism.[br/][br/][li] Mass spectrometry (MS): mode of ionization, natural isotopic abundance, molecular peak, M-1, M+1, base peak, examples of fragmentations, high resolution mass spectrometry.[br/][br/][li] NMR (nuclear magnetic resonance): nuclei classes, nuclear spin, compass model, Larmor precession, resonance phenomenom, continous wave NMR measurements, pulse NMR and Fourier Transform, signal/noise ratio.[br/][br/][li] [i]1[/i]H-NMR and [i]13[/i]C-NMR: chemical shifts, spin/spin coupling, multiplicity, first order spectra, selective decoupling, Nuclear Overhauser Effect \"NOE\". Effects of structure and functions on spectral parameters ([i]d[/i],[i]J[/i]), effect of geometry, symmetry, of asymmetry (homotopic, diastereotopic, enantiotopic nuclei), dynamic effects (rate constants of fast reversible reactions) , solvent effects, effects of additives (LIS reagents). H/D extraction, determination of enantiomeric excesses.[br/][br/][li] Structural determinations by the analysis of combinations of spectra and chemical data ([i]only one-dimensional spectra[/i])."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structural analysis",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-2463-0&amp;con_lng=ENG\" target=\"blank\">Identification spectrométrique de composés organiques / R.M. Silverstein, G.C. Basler [i.e. Bassler], T.C. Morill</a>\". Year:2004. ISBN:2-8041-2463-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    },{
+      "url":"http://people.epfl.ch/174689",
+      "name":"Tsybin Yury"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: \"Atomes, ions, molécules et fonctions I, II\", \"Equilibres et réactivité chimiques\"",
+      "Bibliographie et matériel":"\"Identification spectrométrique des composés organiques\", Silverstein, Basler, Morill, DeBoeck-Université, Paris, 1998",
+      "Forme d'enseignement":"Cours et exercices sur ordinateur (http://e-chemistry.epfl.ch).",
+      "Contenu":"[br/][li] Rappel des propriétés des fonctions organiques principales ([i]acidité, basicité, réduction, oxidation[/i]), séparation par extraction, analyse élémentaire.[br/][br/][li] Spectre d'absorption infra-rouge : Loi de Hooke, énergie des vibrations d'élongation, effets isotopiques, de solvant.[br/][br/][li] Théorie simpliste de la couleur (principe de Franck-Condon, chromophores), comment la structure affecte la couleur des composés organiques, notions de photophysique, spectres UV-visibles, effet des bases et acides, solvatochromie.[br/][br/][li] Spectrométrie de masse (SM) : modes d'ionisation, abondance isotopique naturelle, pic moléculaire, M-1, M+1, pic de base, exemples de fragmentations,  SM à haute résolution.[br/][br/][li] RMN (résonance magnétique nucléaire) : classification des noyaux, spin nucléaire, modèle de la boussole, précession de Larmor, phénomène de la résonance, RMN à onde continue, RMN à impulsion et transformée de Fourier.[br/][br/][li] [i]1[/i]H-RMN et [i]13[/i]C-RMN: déplacements chimiques ([i]d[/i]), couplage noyaux/ noyaux (J(X,Y)), multiplicité, spectres du premier ordre, découplage sélectif, \"NOE\". Effets de la structure et des fonctions sur les paramètres spectraux, effets de la géométrie, de la symétrie, de l'asymétrie (homotopie, diastéréotopie, énantiotopie),  effets dynamiques, effets de solvant, effets d'additifs ([i]réactifs LIS[/i]), détermination de la pureté optique, extraction H/D.[br/][br/][li] Détermination de structures de composés organiques simples par l'analyse de spectres combinés et données chimiques ([i]seulement spectres à une dimension[/i])",
+      "Forme du contrôle":"Examen écrit (2h)",
+      "Préparation pour":"\"Fonctions & réactions organiques II\", \"Synthèse asymétrique\", Target synthesis of building blocks\", \"Physical organic chemistry\", \"Advanced NMR and imaging\"",
+      "Objectifs d'apprentissage":"Apprendre à établir la structure des composés organiques simples par leurs propriétés fonctionnelles et les méthodes spectroscopiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse structurale",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-2463-0&amp;con_lng=FRE\" target=\"blank\">Identification spectrométrique de composés organiques / R.M. Silverstein, G.C. Basler [i.e. Bassler], T.C. Morill</a>\". Année:2004. ISBN:2-8041-2463-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

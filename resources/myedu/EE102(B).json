@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773517&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","102(B)"],
+    "title":"Electrotechnics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773517&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105228",
+      "name":"Germano Paolo"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To be able to analyze and to apply the electricity main laws and to put in equation the linear circuits. To master the implementation of complex calculation to one- and three-phase sinusoidal systems. To be able to analyze linear systems in transient conditions.[br/]",
+      "Content":"[b]Sinusoidal quantities[/b][br/]Alternating generator principle. Defining of sinusoidal quantities. Complex number associated. Impedance and admittance. Study of steady-state by complex calculation. Active, reactive and apparent powers. Symmetrical and non symmetrical three-phase systems.[br/][br/][b]Transient conditions[/b][br/]Step response, R, L, C elements. Real elements, general method. Examples: voltage jumps at a terminal series RC circuit, series RL circuit. Switching on a sinusoidal voltage source.[br/][br/][b]Applications[/b][br/]Acquired methods synthesis through application examples.[br/][br/][b]Labs[/b][br/]Metrology basis. Linear circuits measurements. Experimental demonstrations.[br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, exercise sessions and demonstration, labs.",
+      "Form of examination":"Written exam (80%) + labs (20%)"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Electrotechnics II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-041-X&amp;con_lng=ENG\" target=\"blank\">Introduction à l'électrotechnique / par Frédéric de Coulon et Marcel Jufer</a>\". Year:2001. ISBN:2-88074-041-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105228",
+      "name":"Germano Paolo"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, séances d'exercices et démonstrations. Laboratoires.",
+      "Contenu":"[b]Grandeurs sinusoïdales[/b][br/]Principe d'un générateur alternatif. Définitions des grandeurs sinusoïdales. Nombres complexes associés. Impédances et admittances. Etude des régimes permanents par le calcul complexe. Puissances active, réactive et apparente. Systèmes triphasés symétriques et non symétriques.[br/][br/][b]Régimes transitoires[/b][br/]Réponses indicielles, éléments R, L, C. Eléments réels, méthode générale. Exemples: sauts de tension aux bornes d'un circuit RC en série, RL en série. Enclenchement sur une source de tension sinusoïdale.[br/][br/][b]Applications[/b][br/]Synthèse des méthodes acquises au travers d'exemples d'application.[br/][br/][b]Laboratoire[/b][br/]Bases de métrologie. Mesures de circuits linéaires. Démonstrations expérimentales.[br/]",
+      "Forme du contrôle":"Examen écrit (80%) + labo (20%)",
+      "Bibliographie et matériel":"Traité d'Électricité, vol. I[br/]Polycopié Électrotechnique I et II",
+      "Objectifs d'apprentissage":"Etre capable d'analyser et d'appliquer les principales lois de l'électricité et de mettre en équation les circuits linéaires. Maîtriser l'application du calcul complexe aux systèmes sinusoïdaux monophasés et triphasés. Etre capable d'analyser des systèmes linéaires en régime transitoire."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Electrotechnique II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-041-X&amp;con_lng=FRE\" target=\"blank\">Introduction à l'électrotechnique / par Frédéric de Coulon et Marcel Jufer</a>\". Année:2001. ISBN:2-88074-041-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

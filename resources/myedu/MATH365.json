@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128319867&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","365"],
+    "title":"Introduction to differentiable optimization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128319867&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course is an introduction to optimization theory, aimed at helping the students to appropriately use optimization algorithms and packages. The stress will be made on methodological issues and results analysis[br/]",
+      "Content":"1.\tIntroduction to optimization[br/][li]Modeling, problem transformations[br/]2.\tUnconstrained optimization: [br/][li]Problem analysis[br/][li]Problem definition[br/][li]Convexity / concavity; differentiability[br/][li]Conditioning and preconditioning[br/]3.\tUnconstrained optimization: optimality conditions[br/]4.\tSolving systems of nonlinear equations[br/][li]Newton's method[br/][li]Quasi-Newton methods[br/]5.\tUnconstrained optimization: algorithms[br/][li]Quadratic problems: conjugate gradients[br/][li]Linesearch [br/][li]Trust region[br/][li]Quasi-Newton methods[br/][li]Least squares problems - Kalman filter[br/]6.\tConstrained optimization : problem analysis[br/][li]Active constraints[br/][li]Constraints qualification[br/][li]Constraints elimination[br/]7.\tIntroduction to duality",
+      "Bibliography and material":"Bierlaire, M. Introduction à l'optimisation différentiable, PPUR (2006) [br/]D. P. Bertsekas, Nonlinear programming, Athena Scientific, 1995[br/]",
+      "Required prior knowledge":"Mandatory : Analyse III, Physique générale I, Physique générale II, Probability and statistics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to differentiable optimization",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-669-8&amp;con_lng=ENG\" target=\"blank\">Introduction à l'optimisation différentiable / Michel Bierlaire</a>\". Year:2006. ISBN:978-2-88074-669-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-886529-00-0&amp;con_lng=ENG\" target=\"blank\">Nonlinear programming / Dimitri P. Bertsekas</a>\". Year:1999. ISBN:1-886529-00-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire, Analyse",
+      "Bibliographie et matériel":"Bierlaire, M. Introduction à l'optimisation différentiable, PPUR (2006) [br/]D. P. Bertsekas, Nonlinear programming, Athena Scientific, 1995[br/]",
+      "Forme d'enseignement":"Cours Ex cathedra + travaux pratiques sur ordinateur",
+      "Contenu":"1.\tIntroduction à l'optimisation[br/][li]Modélisation, transformations du problème[br/]2.\tOptimisation sans contrainte : analyse du problème[br/][li]et préconditionnement Définition du problème[br/][li]Convexité / concavité ; Différentiabilité[br/][li]Conditionnement[br/]3.\tOptimisation sans contrainte : conditions d'optimalité[br/]4.\tRésolution de systèmes d'équations non linéaires[br/][li]Méthode de Newton[br/][li]Méthodes quasi-Newton[br/]5.\tOptimisation sans contrainte : algorithmes[br/][li]Problèmes quadratiques : gradients conjugués[br/][li]Recherche linéaire[br/][li]Région de confiance[br/][li]Méthodes quasi-Newton[br/][li]Problèmes de moindres carrés - Filtre de Kalman[br/]6.\tOptimisation avec contraintes : analyse du problème[br/][li]Contraintes actives[br/][li]Qualification des contraintes[br/][li]Elimination des contraintes[br/]7.\tIntroduction à la dualité[br/]",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Pratique des sciences de l'ingénieur",
+      "Objectifs d'apprentissage":"Le cours a pour but d'initier les étudiants à la théorie de l'optimisation afin de leur permettre d'utiliser des algorithmes et des logiciels de manière adéquate, en appréciant leurs limitations méthodologiques et en interprétant correctement les résultats. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à l'optimisation différentiable",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-669-8&amp;con_lng=FRE\" target=\"blank\">Introduction à l'optimisation différentiable / Michel Bierlaire</a>\". Année:2006. ISBN:978-2-88074-669-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-886529-00-0&amp;con_lng=FRE\" target=\"blank\">Nonlinear programming / Dimitri P. Bertsekas</a>\". Année:1999. ISBN:1-886529-00-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

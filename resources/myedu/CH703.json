@@ -1,0 +1,89 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127899392&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","703"],
+    "title":"Basic and advanced NMR - PART 2",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127899392&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122795",
+      "name":"Bodenhausen Geoffrey"
+    },{
+      "url":"http://people.epfl.ch/205378",
+      "name":"Carnevale Diego"
+    },{
+      "url":"http://people.epfl.ch/144957",
+      "name":"Helm Lothar"
+    },{
+      "url":"http://people.epfl.ch/181979",
+      "name":"Miéville Pascal"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The intention is to teach PhD students and post-docs so that they can benefit from the modern high field NMR spectrometers available at EPFL. The goal is to give them a sound theoretical and practical foundation in NMR for various applications in research. PhD students and post-docs who have followed the course successfully should be able to perform modern multi-dimensional NMR experiments independently. They should also be able to help colleagues in various research groups who wish to use NMR.[br/]Participation on the part 2 of the block course is only possible after having followed part 1 before (Basic and advanced NMR - Part 1), or under special circumstances (e.g., post-docs with prior knowledge) after discussion with the organizers. [br/]",
+      "Content":"Basic and advanced NMR-Part 2 comprises theoretical and practical aspects of modern bio-molecular NMR. The theoretical teaching given in the morning will comprise (among others) an introduction to density operator products and concepts of coherence transfer. Exercises (in the afternoon) will allow students to practice on multi-dimensional NMR experiments.[br/]A bi-annual alternation with other subjects like solid state NMR is possible.[br/]",
+      "Keywords":"NMR[br/]",
+      "Note":"The course \"Basic and Advanced NMR - Part 2\" will comprise a theoretical part with mainly ex-cathedra teaching, and practical exercises on research NMR spectrometers. The course will be organized annually during the break between autumn and spring semester in January/February. Participation in the practical work will be limited to 12 participants. Four groups of three participants will be accompanied by an assistant and practice on all 4 spectrometers in turn.  ",
+      "Required prior knowledge":"Basic and advanced NMR - PART 1[br/]"
+    },
+    "practical":{
+      "total_hours":13
+    },
+    "language":"English",
+    "title":"Basic and advanced NMR - PART 2",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122795",
+      "name":"Bodenhausen Geoffrey"
+    },{
+      "url":"http://people.epfl.ch/205378",
+      "name":"Carnevale Diego"
+    },{
+      "url":"http://people.epfl.ch/144957",
+      "name":"Helm Lothar"
+    },{
+      "url":"http://people.epfl.ch/181979",
+      "name":"Miéville Pascal"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course \"Basic and Advanced NMR - Part 2\" will comprise a theoretical part with mainly ex-cathedra teaching, and practical exercises on research NMR spectrometers. The course will be organized annually during the break between autumn and spring semester in January/February. Participation in the practical work will be limited to 12 participants. Four groups of three participants will be accompanied by an assistant and practice on all 4 spectrometers in turn.  ",
+      "Contenu":"Basic and advanced NMR-Part 2 comprises theoretical and practical aspects of modern bio-molecular NMR. The theoretical teaching given in the morning will comprise (among others) an introduction to density operator products and concepts of coherence transfer. Exercises (in the afternoon) will allow students to practice on multi-dimensional NMR experiments.[br/]A bi-annual alternation with other subjects like solid state NMR is possible.[br/]",
+      "Mots clés":"NMR",
+      "Prérequis":"Basic and advanced NMR - PART 1",
+      "Objectifs d'apprentissage":"The intention is to teach PhD students and post-docs so that they can benefit from the modern high field NMR spectrometers available at EPFL. The goal is to give them a sound theoretical and practical foundation in NMR for various applications in research. PhD students and post-docs who have followed the course successfully should be able to perform modern multi-dimensional NMR experiments independently. They should also be able to help colleagues in various research groups who wish to use NMR.[br/]Participation on the part 2 of the block course is only possible after having followed part 1 before (Basic and advanced NMR - Part 1), or under special circumstances (e.g., post-docs with prior knowledge) after discussion with the organizers. [br/]"
+    },
+    "practical":{
+      "total_hours":13
+    },
+    "language":"English",
+    "title":"Basic and advanced NMR - PART 2",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

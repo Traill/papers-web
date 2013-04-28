@@ -1,0 +1,90 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597935627&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","615"],
+    "title":"Topics in Autonomous Robotics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597935627&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPR",
+    "program":"EDPR",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["moodle.epfl.ch/course/view.php?id=252","moodle.epfl.ch/course/view.php?id=252"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115671",
+      "name":"Billard Aude"
+    },{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    },{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    },{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    },{
+      "url":"http://people.epfl.ch/102717",
+      "name":"Mondada Francesco"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Students will be introduced to modern approaches in control and design of autonomous robots through lectures and exercises. The course is organized into slots, one per day on a specific topic. Each slot is composed of 6 hours of lectures followed by practical and theoretical exercises that students will do at home. Each slot may change each year. We may also have additional slots/topics given by guest lecturers, who are renown researchers in the taught topic. Students will be assessed on the reports of their exercises.",
+      "Content":"Evolutionary Mobile Robotics (DF)[br/]Modular Robotics and Locomotion (AI)[br/]Collective and Distributed Robotics (AM)[br/]Human-Robot Interaction (AB)[br/]Mobile Robot Design (FM)[br/]Variable topic; e.g. map-based navigation, neural robotics, etc (NN)[br/]",
+      "Keywords":"Evolutionary Mobile Robotics Modular Locomotion, Human-robot, Interaction, Mobile Robot Design",
+      "Note":"External lecturer: Mettin Sitti"
+    },
+    "practical":{
+      "total_hours":26
+    },
+    "language":"English",
+    "title":"Topics in Autonomous Robotics",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["moodle.epfl.ch/course/view.php?id=252","moodle.epfl.ch/course/view.php?id=252"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115671",
+      "name":"Billard Aude"
+    },{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    },{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    },{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    },{
+      "url":"http://people.epfl.ch/102717",
+      "name":"Mondada Francesco"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":26
+    },
+    "language":"English",
+    "title":"Topics in Autonomous Robotics",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  }
+}

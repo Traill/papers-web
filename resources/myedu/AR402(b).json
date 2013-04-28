@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71472088&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","402(b)"],
+    "title":"Studio MA2 (Gugger)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71472088&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["laba.epfl.ch","laba.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/147009",
+      "name":"Gugger Harry"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The second semester focuses on the scale of an architectural project and can be considered a rehearsal for the specific master thesis at the epfl. Students work individually or in groups of two. Based on the UC they define their own site and program for an architectural project. [br/][br/]2nd semester learning outcomes[br/][br/]Initiate and follow a project through the various design phases: feasibility study, schematic design, design development and presentation documentation.[br/][br/]Conduct field research including the survey and documentation of a site.[br/][br/]Present the project through various media: drawings, models, text descriptions, photography, as well as through oral presentations.[br/][br/]",
+      "Content":"In the second semester students will develop architectural or urban design projects based on any of the 5 urban constitutions established in the previous semester. [br/][br/]",
+      "Note":"THE STUDIO STANDS AT BASEL.[br/]You find more detailed information on our teaching method and the CH2048 project by visiting our website > laba.epfl.ch > teaching > laba_manifest.pdf ."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Studio MA2 (Gugger)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["laba.epfl.ch","laba.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/147009",
+      "name":"Gugger Harry"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"L'ATELIER A LIEU A BALE.[br/]Vous trouverez des informations plus détaillées sur notre méthode d'enseignement et le projet CH2048 en visitant notre site web> laba.epfl.ch> enseignement> laba_manifest.pdf .",
+      "Contenu":"Dans le second semestre les étudiants développeront  des projets architecturaux ou urbains fondés sur l'une des 5 constitutions urbaines établies dans le semestre précédent.[br/][br/]",
+      "Forme du contrôle":"Jury.",
+      "Objectifs d'apprentissage":"Le second semestre se concentre sur l'échelle d'un projet architectural et peut être considéré comme une répétition générale du diplôme de master spécifique à l'EPFL. Les élèves travaillent individuellement ou en équipe de deux. Sur la base de l'UC, ils définissent leur propre site et programme pour un projet architectural.[br/]Résultats d'apprentissage du second semestre :[br/][br/]Initier et suivre un projet à travers les différentes phases de conception: étude de faisabilité, conception et développement du projet, et enfin documents de présentation.[br/][br/]Effectuer des recherches de terrain, y compris l'analyse et la documentation d'un site.[br/][br/]Présenter le projet à travers différents médias: dessins, maquettes, texte, photographie, ainsi que par le biais de présentations orales.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Théorie et critique du projet MA2 (Gugger)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

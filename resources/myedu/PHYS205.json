@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775427&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","205"],
+    "title":"General physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775427&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lpn.epfl.ch/teaching/index.php","http://lpn.epfl.ch/teaching/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105530",
+      "name":"Kapon Elyahou"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Formulation of the principles of classical physics and establishment of the physical phenomena underlying the functioning of mechanical and thermodynamic systems. Demonstration of experiments evidencing the relevant physical phenomena and illustrating various applications of the theories of classical physics.",
+      "Content":"[b]MECHANICS[/b][br/][b]Kinematics:[/b] frames of reference; trajectories; velocity; acceleration; rectilinear and curvilinear motion.[br/][b]Newtonian dynamics:[/b] mass; momentum; forces; Newton's laws; oscillatory motion; angular momentum; motion in central force field; change of referential frames.[br/][b]Work, power and energy:[/b] kinetic, potential and mechanical energy; conservation laws; motion in gravitational field.[br/][b]Dynamics of systems of particles:[/b] center of mass; collisions; angular momentum; kinetic energy of rotation; rigid solids; moment of inertia; tops and gyroscopes.[br/][b]Oscillations:[/b] harmonic, damped and forced oscillations, resonance.[br/][br/][br/][b]SPECIAL RELATIVITY[/b] [br/]Experiment of Michelson and Morley; Einstein's principle of relativity; simultaneity revisited; dilatation of time; contraction of length; transformations of Lorentz; light speed barrier; relativistic dynamics; energy and mass equivalence.[br/][br/][b]THERMODYNAMICS[/b][br/][b]Kinetic theory of perfect gases:[/b] pressure; temperature; internal energy; law of perfect gases; Maxwell's velocity distribution.[br/][b]Boltzmann's law:[/b] the exponential atmosphere; principle of equipartition; degrees of freedom.[br/][b]First law:[/b] work and heat; thermodynamic transformations; specific heat.[br/][b]Second law:[/b] entropy; irreversible processes; equivalent formulations of the second law, thermal machines.[br/][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations, exercises in class",
+      "Prerequisite for":"General Physics II",
+      "Bibliography and material":"Polycopiés / Course notes"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lpn.epfl.ch/teaching/index.php","http://lpn.epfl.ch/teaching/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105530",
+      "name":"Kapon Elyahou"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec démonstration, exercices en salle",
+      "Contenu":"[b]MÉCANIQUE[/b][br/][b]Cinématique :[/b] référentielles; trajectoires; vitesse; accélération; mouvement rectiligne et curviligne.[br/][b]Dynamique Newtonienne :[/b] masse; quantité de mouvement; forces; lois de Newton; mouvement oscillatoire; moment cinétique; mouvement central; changements de référentiels.[br/][b]Travail et énergie :[/b] énergie cinétique, potentielle et mécanique; lois de conservation; mouvements gravitationnels.[br/][b]Systèmes de particules :[/b] centre de masse; collisions; moment cinétique; énergie cinétique de rotation; solide rigide; moment d'inertie; toupies et gyroscopes.[br/][b]Mouvements vibratoires :[/b] oscillations harmoniques, amorties, et forcées, résonance.[br/][br/][b]RELATIVITÉ RESTREINTE[/b][br/]Expérience de Michelson et Morley; principe de relativité d'Einstein; simultanéité revisitée; dilatation de temps; contraction de longueur; transformations de Lorentz; barrière de la vitesse de la lumière; dynamique relativiste; équivalence masse-énergie.[br/][br/][b]THERMODYNAMIQUE[/b][br/][b]Théorie cinétique des gaz parfaits :[/b] pression; température; énergie interne; loi des gaz parfaits; distribution des vitesses de Maxwell.[br/][b]Loi de Boltzmann :[/b] l'atmosphère exponentielle, principe d'équipartition; degrés de liberté.[br/][b]Premier principe :[/b] travail et chaleur; transformations thermodynamiques; chaleur spécifique.[br/][b]Deuxième principe :[/b] entropie, phénomènes irréversibles ; énoncés équivalents du deuxième principe; machines thermiques.[br/][br/]",
+      "Préparation pour":"Physique générale II",
+      "Bibliographie et matériel":"Polycopiés / Course notes",
+      "Objectifs d'apprentissage":"Formuler les principes de la physique classique et connaître les phénomènes physiques gouvernant les fonctionnements des systèmes mécaniques et thermodynamiques. Montrer les expériences par lesquelles les phénomènes physiques pertinents sont mis en évidence et illustrer les applications des théories de la physique classique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227322132&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","366"],
+    "title":"Signals, instruments, and systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227322132&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://disal.epfl.ch/teaching/signals_instruments_systems/","http://disal.epfl.ch/teaching/signals_instruments_systems/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"50 % continuous control during the semester (exercises, projects)[br/]50 % final written test (180 min) during exam session",
+      "Bibliography and material":"Lecture notes, perhaps a course book (under evaluation)",
+      "Prerequisite for":"Distributed Intelligent Systems (M1 and M3)",
+      "Required prior knowledge":"Fundamentals in programming and basic knowledge in both compiled (e.g., Java, C) and interpreted languages (e.g., Matlab or equivalent), probability theory, and analysis",
+      "Content":"[li] Introduction to the C language and the UNIX environment[br/][li] Hardware resource constraints and their impact on C programming[br/][li] Basic signal processing techniques [br/][li] Dynamic systems without and with feedback, open-loop and closed-loop control[br/][li] Basic linear control techniques[br/][li] Basic communication techniques[br/][li] Microcontrollers, sensors, actuators, and transceivers[br/][li] Hardware choices and resource management[br/][li] Examples of programmable, mobile field instruments[br/][br/]",
+      "Keywords":"Signal processing, embedded systems, programming, control algorithms, mobile robotics, field instruments",
+      "Type of teaching":"Ex-cathedra with assisted exercises, course project",
+      "Learning outcomes":"The ultimate goal of this course is to give the student a general understanding of fundamental principles behind possibly programmable field instruments and, more generally, embedded systems. In particular, it aims to transmit to students concrete notions about sensing, computing, communicating, and actuating in real-world settings by leveraging fundamental knowledge in signal processing, automatic control, computer science, and communication systems. Most of the theoretical concepts introduced will be put in practice using a PC with dedicated software (e.g., Matlab or C code, simulators), a small mobile desktop robot  developed at EPFL for educational purposes (e-puck), and, when appropriate, a wireless embedded system endowed with sensors (Mica-z). Using the same tools, a small project allows teams of students to apply the knowledge acquired in the course to a concrete case study. [br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Signals, instruments, and systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://disal.epfl.ch/teaching/signals_instruments_systems/","http://disal.epfl.ch/teaching/signals_instruments_systems/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Connaissances fondamentales en langages de programmation compilés (par ex. Java ou C) et langages interprétés (Matlab ou équivalent), probabilités et analyse",
+      "Bibliographie et matériel":"Lecture notes, some papers and book chapters",
+      "Mots clés":"Traitement du signal, systèmes embarqués, programmation, algorithmes de contrôle, robotique mobile, instruments de terrain ",
+      "Forme d'enseignement":"Ex-cathedra avec laboratoires pratiques assistés, mini-projet",
+      "Contenu":"[li] Introduction au langage C et à l'environnement UNIX[br/][li] Contraintes sur les ressources matérielles et leur impact sur la programmation en C[br/][li] Techniques basiques de traitement du signal[br/][li] Systèmes dynamiques avec ou sans feedback, et contrôlé en boucle ouverte ou fermée[br/][li] Techniques de base en contrôle linéaire[br/][li] Techniques de base en communication[br/][li] Microcontrôleurs, senseurs, actuateurs et émetteurs-récepteurs[br/][li] Choix du matériel et gestion des ressources[br/][li] Exemples d'instruments de terrain programmables et mobiles[br/]",
+      "Forme du contrôle":"50 % contrôle continu pendant le semestre (exercices, projets)[br/]50 % épreuve écrite (180 min) pendant la session d'examen",
+      "Préparation pour":"Systèmes Intelligents Distribués (M1 and M3)",
+      "Objectifs d'apprentissage":"Le but de ce cours est de donner à l'étudiant une compréhension générale des principes fondamentaux des instruments de terrain, potentiellement programmables, et, plus généralement, des systèmes embarqués. En particulier, le cours vise à transmettre aux étudiants des notions concrètes au sujet de la perception, du calcul, de la communication et des actions dans les conditions réelles en exploitant les connaissances fondamentales en traitement du signal, en contrôle automatique, en informatique et en systèmes de communication. La plupart des concepts théoriques seront mis en pratique sur ordinateur avec des logiciels spécifiques (Matlab, code C, simulateurs), un robot mobile développé à l'EPFL pour l'enseignement (e-puck) et, le cas échéant, un système embarqué sans-fil équipé avec des capteurs (Mica-z). Tout en utilisant les mêmes outils, un mini-projet permettra à des équipes d'étudiants d'appliquer les notions apprises durant le cours à un cas d'étude concret. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Signals, instruments, and systems",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

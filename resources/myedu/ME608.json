@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240313914&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","608"],
+    "title":"Methods of asymptotic analysis in mechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240313914&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105889",
+      "name":"Monkewitz Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective is to introduce starting PhD students (and selected undergraduates) to the most important methods of asymptotic analysis used to construct simplified (analytical) models in mechanics.[br/]This is achieved through a combination of  lectures, common problem solving and class discussions.[br/]",
+      "Content":"The following topics are covered:[br/]- Problem solutions in terms of series and asymptotic series[br/]- Ordering parameters and asymptotic analysis[br/]- Asymptotic approximation of integrals (methods of stationary phase and of steepest descent applied to Fourier inversions, etc.)[br/]- Singular perturbations - Matched asymptotic expansions (generalized boundary layer approximation) with examples (correction to Stokes drag of a sphere, etc.)[br/]- Multi-scale methods with examples (flows with \"slow\" streamwise evolution such as developed flow in a tube with variable properties, waves evolving in slowly varying media, etc.)[br/]",
+      "Keywords":"asymptotic expansions, singular perturbations, multiple scales, WKB[br/]",
+      "Note":"The course is principally based on the book \"Perturbation Methods in the Computer Age\" by David C. Wilcox (ISBN 0963605127 -- published 1995 by DCW Industries, La Canada, California)[br/][br/]",
+      "Required prior knowledge":"Analysis[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Methods of asymptotic analysis in mechanics",
+    "recitation":{
+      "total_hours":7
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":21
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105889",
+      "name":"Monkewitz Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course is principally based on the book \"Perturbation Methods in the Computer Age\" by David C. Wilcox (ISBN 0963605127 -- published 1995 by DCW Industries, La Canada, California)[br/][br/]",
+      "Contenu":"The following topics are covered:[br/]- Problem solutions in terms of series and asymptotic series[br/]- Ordering parameters and asymptotic analysis[br/]- Asymptotic approximation of integrals (methods of stationary phase and of steepest descent applied to Fourier inversions, etc.)[br/]- Singular perturbations - Matched asymptotic expansions (generalized boundary layer approximation) with examples (correction to Stokes drag of a sphere, etc.)[br/]- Multi-scale methods with examples (flows with \"slow\" streamwise evolution such as developed flow in a tube with variable properties, waves evolving in slowly varying media, etc.)[br/]",
+      "Mots clés":"asymptotic expansions, singular perturbations, multiple scales, WKB[br/]",
+      "Prérequis":"Analysis[br/]",
+      "Objectifs d'apprentissage":"The objective is to introduce starting PhD students (and selected undergraduates) to the most important methods of asymptotic analysis used to construct simplified (analytical) models in mechanics.[br/]This is achieved through a combination of  lectures, common problem solving and class discussions.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Methods of asymptotic analysis in mechanics",
+    "recitation":{
+      "total_hours":7
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":21
+    }
+  }
+}

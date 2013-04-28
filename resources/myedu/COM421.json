@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543121548&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","421"],
+    "title":"Statistical neurosciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543121548&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUR-COMP",
+    "program":"SC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://linx.epfl.ch","http://linx.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122796",
+      "name":"Gastpar Michael Christoph"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This is an MS-level course in statistical analysis of neural data. Students from engineering, neuroscience, statistics, etc., are all welcome to attend.",
+      "Content":"We discuss various approaches to Statistical Neuroscience, including the following :[br/][br/]1. Linear and non-linear systems analysis[br/]2. Correlation analysis[br/]3. Information measures[br/]4. Methods from network science[br/][br/]The focus will be on analyzing data from electrophysiological recordings (single-unit and multi-node recordings).",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Form of examination":"4 homework sets 20%, midterm exam 30% and Matlab project 50%",
+      "Bibliography and material":"Handouts will be provided"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical neurosciences",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://linx.epfl.ch","http://linx.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122796",
+      "name":"Gastpar Michael Christoph"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"Discussion des différentes approches des statistiques de neurosciences, avec :[br/][br/]1. Analyses de systèmes linéaires et non-linéaires[br/]2. Analyse de corrélation[br/]3. Mesures d'information[br/]4. Méthodes de \"network science\"[br/][br/]L'attention sera mise sur l'analyse des données d'enregistrements électrophysiologiques (unité simple et enregistrements multi-noeuds).",
+      "Forme du contrôle":"4 devoirs (20%), examen mi-session 30% et projet Matlab 50%",
+      "Bibliographie et matériel":"Handouts will be provided",
+      "Objectifs d'apprentissage":"Ce cours est de niveau master en analyse et statistiques de données neuronales et s'adresse aux étudiants en ingénierie, neuroscience, statistiques, etc..."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical neurosciences",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

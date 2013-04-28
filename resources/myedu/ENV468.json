@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499342340&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","468"],
+    "title":"Workplace environments & occupational risks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499342340&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106641",
+      "name":"Vernez David"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li] Know the work environment and its risks. Be familiar with the assessment and control strategies required to address the physical, chemical and biological pollutants at the workplace. [br/][li] Understand the context of occupational health management and its relationships with environmental management and public health.[br/][br/]",
+      "Content":"[li] Context and specificities of the work environment, public health issues[br/][li] Basic principles in risk assessment, risk acceptance and risk management [br/][li] Chemical and physico-chemical pollutants at the workplace.[br/][li] Physical hazards (noise, radiations,...)  in the occupational environment.[br/][li] Biological hazards in the occupational environment.[br/][li] Assessment strategy: measurements, modeling, concepts of exposure, and dose-response relationships [br/][li] Risk control principles in relation to pollutants of the working environment[br/]",
+      "Type of teaching":"Lecture ex cathedra and exercises",
+      "Form of examination":"Oral test (20 min) during exam session",
+      "Required prior knowledge":"Environmental Chemistry, Ecotoxicology"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Workplace environments & occupational risks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106641",
+      "name":"Vernez David"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Chimie environnementale, Écotoxicologie",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[li] Contexte et particularités de l'environnement professionnels, enjeux de santé publique. [br/][li] Notions d'évaluation, de gestion et d'acceptation du risque. [br/][li] Les polluants chimiques et physico-chimiques au poste de travail. [br/][li] Nuisances physiques (bruit, rayonnements...) en milieu professionnel.[br/][li] Agents biologiques en milieu professionnel.[br/][li] Stratégies d'évaluation: mesure, modélisation, notions d'exposition et relations dose-réponse.[br/][li] Les principes de la maîtrise des risques liés aux polluants du milieu professionnel.",
+      "Forme du contrôle":"Epreuve orale (20 min) pendant la session d'examen",
+      "Objectifs d'apprentissage":"[li] Connaître l'environnement de travail et ses risques. Se familiariser avec les stratégies d'évaluation et de maîtrise des polluants physiques, biologiques et chimiques dans le contexte professionnel. [br/][li] Connaître et comprendre le contexte (réglementaire notamment) de la gestion des risques professionnels et sa relation avec la gestion environnementale et la Santé Publique.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Environnements de travail et risques professionnels",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

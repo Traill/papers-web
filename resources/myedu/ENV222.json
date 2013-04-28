@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71556171&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","222"],
+    "title":"Soil sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71556171&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    },{
+      "url":"http://people.epfl.ch/105325",
+      "name":"Guenat Claire"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Two written tests (1x45 min, 1x 90 min) during exam session",
+      "Prerequisite for":"Soil water regime management, concepts in ecological engineering",
+      "Required prior knowledge":"Analysis, Physics, Chemistry, Biology, Geology",
+      "Content":"[li]Soil definition, function and formation [br/][li]Soil components and properties[br/][li]Soil chemical and biological processes[br/][li]Water flow, and solute transport in the soil[br/][li]Soil-atmosphere interactions[br/][li]Soil functions: carbon source and sink, nutrition and filtering properties[br/][li]Soil diversity[br/][br/][br/]",
+      "Keywords":"Unsaturated flow, saturated flow, Darcy's Law, Richards' equation, advection, diffusion, tracer",
+      "Type of teaching":"Lecture and exercices",
+      "Learning outcomes":"Students will be introduced to conceptual and quantitative aspects of soil science, emphasizing soil components and properties, soil formation, water, pollutant and heat transport, chemical and biological cycles towards better understanding of the soil as a natural resource supporting food production, and serving the planet's environmental recycling processes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Soil sciences",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-718-3&amp;con_lng=ENG\" target=\"blank\">Le sol vivant : bases de pédologie - biologie des sols / Jean-Michel Gobat, Michel Aragno, Willy Matthey</a>\". Year:2010. ISBN:978-2-88074-718-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-05965-X&amp;con_lng=ENG\" target=\"blank\">Soil physics / William Jury, Robert Horton</a>\". Year:2004. ISBN:0-471-05965-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    },{
+      "url":"http://people.epfl.ch/105325",
+      "name":"Guenat Claire"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse, Physique, Chimie, Biologie, Géologie",
+      "Bibliographie et matériel":"Moodle, sites WEB, ouvrages divers[br/]En bibliothèques :[br/]Soil physics, William Jury, Robert Horton, 2004[br/]Le sol vivant, Gobat J-M. et al, 2010",
+      "Mots clés":"Unsaturated flow, saturated flow, Darcy's Law, Richards' equation, advection, diffusion, tracer",
+      "Forme d'enseignement":"Cours et exercices",
+      "Contenu":"[li]Définition, fonctions et formation du sol[br/][li]Composants du sol et propriétés de ses constituants [br/][li]Processus chimiques et biologiques[br/][li]Comportement et dynamique de l'eau, transport de substances solubles dans le sol [br/][li]Interactions sol-atmosphère[br/][li]Fonctions des sols: puits et source de carbone, nutrition et épuration [br/][li]Diversité des sols [br/]",
+      "Forme du contrôle":"Deux épreuves écrites (1x 45 min et 1x 90 min) pendant la session d'examen",
+      "Préparation pour":"Gestion du régime hydrique du sol,  Concepts in ecological engineering",
+      "Objectifs d'apprentissage":"Les étudiants se familiariseront avec les bases conceptuelles et quantitatives des sciences du sol. L'accent est placé sur les composants du sol et leurs propriétés, les facteurs de formation, les transferts de matière et de chaleur, ainsi que les propriétés chimiques et biologiques en vue de mieux connaître le sol en tant que ressource naturelle, support de production et milieu épurateur."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sciences du sol",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-718-3&amp;con_lng=FRE\" target=\"blank\">Le sol vivant : bases de pédologie - biologie des sols / Jean-Michel Gobat, Michel Aragno, Willy Matthey</a>\". Année:2010. ISBN:978-2-88074-718-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-05965-X&amp;con_lng=FRE\" target=\"blank\">Soil physics / William Jury, Robert Horton</a>\". Année:2004. ISBN:0-471-05965-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

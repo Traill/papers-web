@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=788996374&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","311"],
+    "title":"Dynamical effects in mechanical design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=788996374&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103651",
+      "name":"Schorderet Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Bibliography and material":"Class notes Méthode de conception Volume II,  [br/]Spinnler G., Conception des Machines, Vol 2, PPUR, Lausanne 1997, 1998, ",
+      "Required prior knowledge":"[li]Mécanique des structures[br/][li]Mécanique vibratoire",
+      "Content":"The aim of the course is to teach students modelling mechanical systems in order to evaluate and predict their dynamical behaviour. General approach. Dynamic conditions. Dynamic excitation sources. Modelling methods. Discretization and reduction. Groups kinetostatics. Dynamic movement precision. Dynamic forces. Vehicle, suspension and adherence. Eigenmodes and critical speeds of shafts and rotors.",
+      "Keywords":"Kinetostatics, dynamic conditions, movement's precision, dynamic forces",
+      "Type of teaching":"Lecture, interactive illustrative examples, supervised  problem sets and independent problem sets.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP6[br/][li]Choose the models and analysis criterions following the specifications, CP7[br/][b]Transversal skills:[/b][br/][li]Differentiate between ideal and feasible, T19"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamical effects in mechanical design",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-302-4&amp;con_lng=ENG\" target=\"blank\">Dynamique / Georges Spinnler</a>\". Year:2001. ISBN:978-2-88074-302-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103651",
+      "name":"Schorderet Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Mécanique des structures[br/][li]Mécanique vibratoire",
+      "Bibliographie et matériel":"Polycopié Méthode de conception tome II, [br/]Spinnler G., Conception des Machines, Vol 2, PPUR, Lausanne 1997, 1998",
+      "Mots clés":"Cinétostatique, régimes dynamiques, précision du mouvement, efforts dynamiques",
+      "Forme d'enseignement":"Cours avec exemples illustratifs interactifs, exercices supervisés et exercices indépendants.",
+      "Contenu":"Ce cours vise à apprendre aux étudiants à modéliser les systèmes mécaniques afin d'évaluer et prédire leur comportement dynamique. Démarche générale. Régimes dynamiques. Sources d'excitations dynamiques. Méthodes de modélisation. Discrétisation et réduction. Cinétostatique des groupes. Précision du mouvement dynamique. Efforts dynamiques associés. Véhicule, suspension et adhérence. Modes propres et vitesses critiques des arbres et rotors.",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (conception de produit, processus de fabrication et de systèmes de production), CP1[br/][li]Poser/extraire les hypothèses de modélisation adaptées et choisir les méthodes et outils en fonction des ressources pour le traitement du problème, CP6[br/][li]Choisir les modèles adéquats et définir des critères d'analyse à partir d'un cahier des charges, CP7[br/][b]Compétences transversales:[/b][br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamique des systèmes mécaniques",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-302-4&amp;con_lng=FRE\" target=\"blank\">Dynamique / Georges Spinnler</a>\". Année:2001. ISBN:978-2-88074-302-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

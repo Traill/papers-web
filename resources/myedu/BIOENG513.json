@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105221&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","513"],
+    "title":"Biosafety",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105221&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163673",
+      "name":"Karlen Stéphane"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To provide the students with a practical basic approach of safety in the laboratory.[br/]To identify the hazards and run the analysis of the resulting risks.[br/]To mitigate the risks through confinement, personal protection, decontamination procedures, good micro-biological techniques and waste management.[br/]To transfer the risks by the harnessing of infectious agents, the knowledge of viral vectors or through selection of appropriate safety systems.[br/]To work safely with chemicals[br/]",
+      "Content":"[b]Day 1 (4 hours) [/b][br/][li] Identification of dangers and risk analysis[br/][li] Biosafety principles[br/][li] Containment[br/][b]Day 2 (4 hours)[/b][br/][li] Good microbiological techniques[br/][li] Safety cabinets[br/][li] Decontamination, inactivation, sterilization[br/][b]Day 3 (4 hours)[/b][br/][li] Working safely with chemicals[br/][li] Toxicology[br/][b]Day 4 (4 hours)[/b][br/][li] Infectious organisms[br/][li] Viral vectors[br/][li] Working with animals[br/][b]Day 5 (4 hours)[/b][br/][li] Case analysis[br/][b]Day 6 (8 hours)[/b][br/][li] Practice in groups of 3-4 students[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Biosafety",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-9-2415-4650-8&amp;con_lng=ENG\" target=\"blank\">Laboratory biosafety manual / World Health Organization</a>\". Year:2004. ISBN:978-9-2415-4650-8</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163673",
+      "name":"Karlen Stéphane"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cours théorique de 4 après-midis sur  une semaine et de 1 journée en laboratoire durant le semestre pour la partie pratique.",
+      "Prérequis":"1ère année de master SV.",
+      "Bibliographie et matériel":"Laboratory safety manual (Third edition) 2004 [br/]www.who.org",
+      "Forme d'enseignement":"Seminars, written exercise, demonstrations and practical workSeminars, case analysis, exercise and practical work                         ",
+      "Contenu":"[b]Jour 1 (4 heures) [/b][br/][li] Identification des dangers et analyse du risque[br/][li] Les principes de sécurité biologique[br/][li] Confinement [br/][b]Jour 2 (4 heures)[/b][br/][li] Les bonnes techniques microbiologiques[br/][li] Les cabinets de sécurité[br/][li] Décontamination, inactivation, stérilisation[br/][b]Jour 3 (4 heures)[/b][br/][li] Travailler en toute sécurité avec les chimiques[br/][li] Toxicologie[br/][b]Jour 4 (4 heures)[/b][br/][li] Les agents infectieux[br/][li] Les vecteurs viraux[br/][li] Travail avec les animaux[br/][b]Jour 5 (4 heures)[/b][br/][li] Analyse de cas[br/][b]Jour 6 (8 heures)[/b][br/][li] Journée pratique par groupe de 3-4 étudiants",
+      "Forme du contrôle":"During semester: Case analysis and written control",
+      "Objectifs d'apprentissage":"Préparer les étudiants à aborder les activités de laboratoire de manière sûre par une approche pratique. [br/]Identifier les dangers et réaliser l'analyse des risques qui en découlent.[br/]Réduire les risques par le confinement, la protection personnelle, les procédures de décontamination, les techniques de travail ou la gestion des déchets.[br/]Transférer les risques par la maîtrise des agents infectieux, la connaissance des vecteurs viraux ou par la sélection de système de sécurité[br/]Travailler en toute sécurité avec les chimiques[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Biosafety",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-9-2415-4650-8&amp;con_lng=FRE\" target=\"blank\">Laboratory biosafety manual / World Health Organization</a>\". Année:2004. ISBN:978-9-2415-4650-8</li></ul>",
+    "lecture":null
+  }
+}

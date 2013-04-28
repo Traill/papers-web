@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144408&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","351"],
+    "title":"Surface analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144408&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/202038",
+      "name":"Voitchovsky Kislon"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Getting to know the main surface analysis methods for the characterization of surfaces, interfaces and thin films. Discussing how these methods can be applied to gain specific knowledge about functionalized surfaces and films. [br/][br/]",
+      "Content":"1. Introduction[br/]2. Electron Spectroscopy and Chemical Analysis (ESCA/XPS)[br/]3. Auger Electron Spectroscopy (AES)[br/]4. Secondary Ion Mass Spectrometry (SIMS)[br/]5. Depth profiling[br/]6. Scanning Tunnelling Microscopy (STM)[br/]7. Atomic Force Microscopy (AFM)[br/]8. Quantitative measurements of surface properties with AFM[br/]9. Comparison of the different methods[br/]",
+      "Type of teaching":"Ex cathedra"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Surface analysis",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-454-7&amp;con_lng=ENG\" target=\"blank\">Analyse et technologie des surfaces : couches minces et tribologie / Hans Jörg Mathieu, Erich Bergmann, René Gras</a>\". Year:2003. ISBN:2-88074-454-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/202038",
+      "name":"Voitchovsky Kislon"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1. Introduction[br/]2. Spectroscopie de photoélectrons et analyse chimique (ESCA/XPS)[br/]3. Spectroscopie d'électrons Auger  (AES)[br/]4. Spectroscopie des ions secondaires (SIMS)[br/]5. Profils en profondeur[br/]6. Microscopie à effet tunnel (STM)[br/]7. Microscopie à force atomique (AFM)[br/]8. Mesures quantitatives de propriétés de surfaces avec l'AFM[br/]9. Comparaison des différentes méthodes[br/]",
+      "Bibliographie et matériel":"H.-J. Mathieu, E. Bergmann, R. Gras, «Traité des Matériaux 4, Analyse et technologies des surfaces ; couches minces et tribologie », Lausanne PPUR 2003",
+      "Objectifs d'apprentissage":"Connaître et savoir appliquer les principales méthodes d'analyse de surface, interfaces et couches minces pour la caractérisation de divers matériaux. Discuter comment ces méthodes peuvent êtres utilisées pour obtenir des information spécifiques à propos de couches minces et surfaces fonctionnelles.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse des surfaces",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-454-7&amp;con_lng=FRE\" target=\"blank\">Analyse et technologie des surfaces : couches minces et tribologie / Hans Jörg Mathieu, Erich Bergmann, René Gras</a>\". Année:2003. ISBN:2-88074-454-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

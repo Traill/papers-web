@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71556446&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","268"],
+    "title":"Environmental engineering laboratory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71556446&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104872",
+      "name":"De Alencastro Luiz Felippe"
+    },{
+      "url":"http://people.epfl.ch/105325",
+      "name":"Guenat Claire"
+    },{
+      "url":"http://people.epfl.ch/168453",
+      "name":"Huwald Wolf Hendrik"
+    },{
+      "url":"http://people.epfl.ch/106407",
+      "name":"Seignez Chantal"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Reports on lab and field work including all modules",
+      "Bibliography and material":"Laboratory manuals where applicable and available",
+      "Required prior knowledge":"ENV-167, ENV-202, ENV-222",
+      "Content":"The lab course is organized in four modules:[br/]1. Chemical analysis of water[br/]2. Microbiological analysis of water. Basic microbiological techniques: observation, cultivation, identification[br/]3. Description and analysis of soil profiles[br/]4. Meteorological and hydrological measurements in the atmospheric boundary layer and in rivers/natural soils, respectively[br/]Each module consists of two afternoons with 4 hours of lab work. The modules are completed in groups.",
+      "Keywords":"Measurement techniques, instruments, sensors, analysis, laboratory, field work",
+      "Type of teaching":"Practical work in the laboratory and in the field",
+      "Learning outcomes":"Learn how to measure, analyze and interpret different physical, chemical, and microbiological variables of water, soil and the atmosphere.[br/]"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Environmental engineering laboratory",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104872",
+      "name":"De Alencastro Luiz Felippe"
+    },{
+      "url":"http://people.epfl.ch/105325",
+      "name":"Guenat Claire"
+    },{
+      "url":"http://people.epfl.ch/168453",
+      "name":"Huwald Wolf Hendrik"
+    },{
+      "url":"http://people.epfl.ch/106407",
+      "name":"Seignez Chantal"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"ENV-167, ENV-202, ENV-222",
+      "Bibliographie et matériel":"Manuel de TP où ils sont disponibles et applicables",
+      "Mots clés":"Techniques de mesure, instruments, capteurs, analyse, laboratoire, terrain",
+      "Forme d'enseignement":"Travaux pratiques en laboratoire et sur le terrain",
+      "Contenu":"Les travaux pratiques sont organisés en quatre modules:[br/]1. Analyse chimique de l'eau[br/]2. Analyse microbiologique de l'eau. Techniques de base de microbiologie: observation, culture, identification[br/]3. Description et analyse des profils de sols[br/]4. Mesures météorologiques et hydrologiques dans la couche limite de l'atmosphère et les rivières et sols naturels[br/]Chaque module contient des TPs de deux après-midis de 4 heures. Les TPs sont réalisés en groupe.",
+      "Forme du contrôle":"Rapports de laboratoire et de terrain pour tous les modules",
+      "Objectifs d'apprentissage":"Apprendre à faire des mesures, analyses et interprétation de base de différents variables physiques, chimiques et microbiologiques des eaux, sols et de l'atmosphère"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Travaux pratiques pour l'ingénieur en environnement",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

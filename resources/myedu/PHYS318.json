@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128832601&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","318"],
+    "title":"Optics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128832601&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105530",
+      "name":"Kapon Elyahou"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This three-semester course series presents the basic concepts of classical and modern optics. It provides the students with tools for understanding and analyzing optical phenomena and designing various optical systems",
+      "Content":"[b]1. Coherence Theory[/b][br/]1.1 Spatial and temporal coherence[br/]1.2 Partial and mutual coherence[br/]1.3 Correlation interferometry[br/][b]2. Photons[/b][br/]2.1 Electromagnetic field quantization[br/]2.2 Photon statistics[br/]2.3 Photon detection[br/][b]3. Generation of Light[/b][br/]3.1 Optical transitions[br/]3.2 Spontaneous and stimulated emission[br/]3.3 Einstein's relations[br/][b]4. Lasers[/b][br/]4.1 Amplification of light[br/]4.2 Optical resonators[br/]4.3 Laser characteristics[br/]",
+      "Type of teaching":"Ex cathedra with exercises in class",
+      "Required prior knowledge":"Optics I"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-18878-0&amp;con_lng=ENG\" target=\"blank\">Optics / Eugene Hecht</a>\". Year:2002. ISBN:0-321-18878-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7440-7063-7&amp;con_lng=ENG\" target=\"blank\">Optique / Eugene Hecht</a>\". Year:2005. ISBN:2-7440-7063-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-60997-8&amp;con_lng=ENG\" target=\"blank\">Quantum electronics / Amnon Yariv</a>\". Year:1989. ISBN:0-471-60997-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-39916-2&amp;con_lng=ENG\" target=\"blank\">Statistical optics / Joseph W. Goodman</a>\". Year:2007. ISBN:978-0-471-39916-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850177-3&amp;con_lng=ENG\" target=\"blank\">The quantum theory of light / Rodney Loudon</a>\". Year:2003. ISBN:0-19-850177-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105530",
+      "name":"Kapon Elyahou"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe",
+      "Contenu":"[b]1. Théorie de la cohérence[/b][br/]1.1 Cohérence spatiale et temporelle[br/]1.2 Cohérence partielle et mutuelle[br/]1.3 Interférométrie de corrélation[br/][b]2. Photons[/b][br/]2.1 Quantification du champs électromagnétique[br/]2.2 Statistique de photons[br/]2.3 Détection de photons[br/][b]3. Génération de la lumière[/b][br/]3.1 Transitions optiques[br/]3.2 Emission spontanée et stimulée[br/]3.3 Relations d'Einstein[br/][b]4. Lasers[/b][br/]4.1 Amplification de la lumière[br/]4.2 Résonateurs optiques[br/]4.3 Caractéristiques des lasers",
+      "Prérequis":"Optique I",
+      "Bibliographie et matériel":"Polycopié[br/]Optics, J. Hecht[br/]Quantum Electronics, A. Yariv, J. Wiley & sons[br/]The Quantum Theory of Light, R. Louden, Clarendon Press[br/]Statistical Optices, J.W. Goodman, J. Wiley & sons[br/]En bibliothèque / in libraries : (cliquez sur le lien pour consulter les informations du réseau de bibliothèque suisse / click on the link to consult[br/]information of the Swiss network of libraries)[br/]Optics / Eugene Hecht, 2002[br/]Quantum electronics / Amnon Yariv, 1989[br/]Statistical optics / Joseph W. Goodman, 2000[br/]The quantum theory of light / Rodney Loudon, 2003",
+      "Objectifs d'apprentissage":"Cette série de trois cours semestriels présente les concepts de base de l'optique classique et moderne. Les étudiants acquièrent des outils pour comprendre et analyser les phénomènes optiques et pour pouvoir concevoir des systèmes optiques divers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-18878-0&amp;con_lng=FRE\" target=\"blank\">Optics / Eugene Hecht</a>\". Année:2002. ISBN:0-321-18878-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7440-7063-7&amp;con_lng=FRE\" target=\"blank\">Optique / Eugene Hecht</a>\". Année:2005. ISBN:2-7440-7063-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-60997-8&amp;con_lng=FRE\" target=\"blank\">Quantum electronics / Amnon Yariv</a>\". Année:1989. ISBN:0-471-60997-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-39916-2&amp;con_lng=FRE\" target=\"blank\">Statistical optics / Joseph W. Goodman</a>\". Année:2007. ISBN:978-0-471-39916-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850177-3&amp;con_lng=FRE\" target=\"blank\">The quantum theory of light / Rodney Loudon</a>\". Année:2003. ISBN:0-19-850177-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774062&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","445"],
+    "title":"Microwaves",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774062&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106441",
+      "name":"Skrivervik Favre Anja"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"With mandatory continuous control",
+      "Bibliography and material":"Handouts",
+      "Prerequisite for":"Microwaves, practical work and projects",
+      "Required prior knowledge":"Electromagnetics",
+      "Content":"[b]Introduction[/b][br/]Definition of the basic notions, applications: radar, communications, satellites, space probes, microwave ovens, atomic clocks, biological effects[br/][br/][b]Microwave networks[/b][br/]S-parameters and scattering matrix[br/][br/][b]Microwave circuits[/b][br/]Description of devices with 1, 2, 3 and 4 ports. Ferrite devices: The gyromagnetic effect, isolators, circulators, switches, llimiters, component insertion, filters[br/][br/][b]Device and signal measurements[/b][br/]Basic principles, reflectometry, vector network analyzer, attenuation and phaseshift, TDR. Calibration for error compensation and deembedding. Measurement of frequency and power.[br/][br/][b]Generators and amplifiers[/b][br/]Tubes: Magnetron, klystron. Semiconductors: Gunn and avalanche diodes, bipolar and field effect transistors. Efficiency, pulling factor.",
+      "Type of teaching":"Ex cathedra with demonstrations and exercises",
+      "Learning outcomes":"At the end of the course, the student will know the basics of microwaves (300 MHz to 300 GHz). He will know the main passive and active components, as well as the usual measurement techniques. He will be able to face the problems most often encountered and to design simple microwave circuits."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microwaves",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106441",
+      "name":"Skrivervik Favre Anja"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electromagnétisme",
+      "Bibliographie et matériel":"Notes de cours et exercices",
+      "Forme d'enseignement":"Ex cathedra avec démonstrations et exercices",
+      "Contenu":"[b]Introduction[/b][br/]Définition des notions de base, applications: radar, télécommunications, satellites, fours microondes, horloges atomiques, effets biologiques.[br/][br/][b]Circuits hyperfréquences[/b][br/]Modèle en signaux, matrice de répartition[br/][br/][b]Composants[/b][br/]Description de composants à 1, 2, 3 et à 4. Dispositifs à ferrites: effet gyromagnétique, isolateurs, circulateurs, modulateurs, commutateurs, limiteurs, insertion de composants. Filtres[br/][br/][b]Mesure des composants et du signal[/b][br/]Principes fondamentaux, réflectométrie, analyseur de réseau vectoriel, affaiblissement et déphasage,  techniques de calibrage pour compenser les erreurs, épluchage. Mesure de la fréquence et de la puissance[br/][br/][b]Générateurs et amplificateurs[/b][br/]Tubes : magnétron, modulation de vitesse, klystron. Semiconducteurs : diodes de Gunn, diodes à avalanche, transistors bipolaires et à effet de champ. Rendement, facteur de glissement.",
+      "Forme du contrôle":"Contrôle continu obligatoire",
+      "Préparation pour":"Hyperfréquences, Travaux pratiques et projets",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant aura acquis une connaissance des bases des hyperfréquences (300 MHz - 300 GHz). Il connaîtra les principaux composants passifs et actifs et les principales techniques de mesure. Il sera en mesure de faire face aux principaux problèmes, et pourra réaliser des circuits simples."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microwaves",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

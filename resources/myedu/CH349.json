@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24352929&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","349"],
+    "title":"Experimental physical chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24352929&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121774",
+      "name":"Drabbels Marcel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[br/][li] Practical demonstrations of the experiments discussed during the thermodynamics, electrochemistry and spectroscopy courses.[br/][br/][li] Introduction into the basic techniques used in chemical physics.[br/][br/][br/][li] To develop the ability to conduct experiments independently and to critically evaluate obtained results.",
+      "Content":"[br/][li] Introduction into error analysis[br/][br/][li] Calorimetry[br/][br/][li] Amperometry[br/][br/][li] Laser spectroscopy, Fourier transform spectroscopy[br/][br/][li] Kinetics[br/][br/][li] Surfactants, surface tension"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Experimental physical chemistry",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121774",
+      "name":"Drabbels Marcel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Acquérir les crédits de 2 cours parmi: \"Chimie quantique\", \"Thermodynamique chimique I & II\", \"Physique III\"",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[br/][li] Introduction aux calculs d'erreurs[br/][br/][li] Calorimétrie[br/][br/][li] Ampérométrie[br/][br/][li] Spectroscopie laser, spectroscopie à transformée de Fourier[br/][br/][li] Cinétique[br/][br/][li] Surfactants, tension superficielle",
+      "Forme du contrôle":"Laboratoire de chimie",
+      "Objectifs d'apprentissage":"[br/][li] Illustration pratique des cours de thermodynamique, d'électrochimie et de spectroscopie.[br/][br/][li] Initiation aux techniques de base utilisées dans le domaine de la chimie-physique.[br/][br/][li] Apprendre à effectuer des expériences d'une façon indépendante et à évaluer les résultats obtenus d'une manière critique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie physique expérimentale",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47891977&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","431"],
+    "title":"Computational linguistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47891977&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://icwww.epfl.ch/~chappeli/coling/","http://icwww.epfl.ch/%7Echappeli/coling/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    },{
+      "url":"http://people.epfl.ch/112354",
+      "name":"Rajman Martin"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Efficient handling of textual data is an important requirement for modern information systems. In applications such as search engines on the Web, Text Mining systems (information extraction) or even advanced document processing systems (correction, summary, translation...), the use of techniques sensitive to the linguistic content represents nowadays a clear competitive advantage.[br/][br/][br/]The objective of this course is to present the main models, formalisms and algorithms necessary for the development of applications in the field of documentary information processing. The concepts introduced during the lectures will be applied during practical sessions.[br/][br/]",
+      "Content":"Several models and algorithms for automated textual data processing will be described: (1) morpho-lexical level:  electronic lexica, spelling checkers, ...; (2) syntactic level: regular, context-free, stochastic grammars, parsing algorithms, ...; (3) semantic level: models and formalisms for the representation of meaning, ... ; (4) pragmatic level: models and formalisms for dialogue management, contextual interpretation, speech acts.[br/][br/]Several application domains will be presented: Linguistic engineering, Information Retrieval, Text mining (automated knowledge extraction), Textual Data Analysis (automated document classification, visualization of textual data).[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra; practical work on computer",
+      "Form of examination":"5 quiz during semester 25%,  final exam 75%",
+      "Bibliography and material":"Courses notes"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational linguistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://icwww.epfl.ch/~chappeli/coling/","http://icwww.epfl.ch/%7Echappeli/coling/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    },{
+      "url":"http://people.epfl.ch/112354",
+      "name":"Rajman Martin"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra; travaux pratiques sur ordinateur",
+      "Contenu":"Divers modèles et algorithmes génériques pour le traitement de données textuelles seront présentés : (1) [i]niveau morpho-lexical[/i] : lexiques informatiques, correction orthographique, ...; (2) [i]niveau syntaxique [/i]: grammaires régulières, non-contextuelles, stochastiques ; algorithmes d'analyse syntaxique ; ...; (3) [i]niveau sémantique[/i] : modèles et formalismes pour la représentation du sens), (4) [i]niveau pragmatique[/i] : modèles et formalismes pour la gestion de dialogues, interprétation contextuelle, actes de langage.[br/]Plusieurs domaines pratiques seront abordés : [i]Ingénierie linguistique, Recherche Documentaire, Text-Mining [/i] (extraction automatique de connaissances), [i]Analyse des données textuelles[/i] (classification automatique de documents, visualisation de bases de données textuelles).[br/][br/]",
+      "Forme du contrôle":"5 quiz pendant le semestre (25%), examen final (75%)",
+      "Bibliographie et matériel":"Notes de cours",
+      "Objectifs d'apprentissage":"Manipuler de façon efficace les données textuelles est devenu une nécessité pour les systèmes d'information modernes. Dans des applications comme les moteurs de recherche sur le Web, les systèmes d'extraction d'information (Text Mining) ou plus simplement les systèmes avancés de traitement de documents (correction, résumé, traduction, ...), l'utilisation de techniques sensibles au contenu linguistique constitue aujourd'hui un avantage concurrentiel certain.[br/]L'objectif de ce cours est de présenter les principaux modèles, formalismes et algorithmes permettant l'intégration de techniques d'informatique linguistique dans les applications d'informatique documentaire. Les concepts introduits en cours seront mis en pratique lors de TP.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational linguistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

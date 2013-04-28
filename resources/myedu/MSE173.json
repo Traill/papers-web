@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824237798&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","173"],
+    "title":"Materials Laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824237798&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=en",
+    "section":"GC",
+    "program":"MX",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111726",
+      "name":"Dénéréaz Cyril"
+    },{
+      "url":"http://people.epfl.ch/154702",
+      "name":"Sofia-Gabrion Lionel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Acquire a practical knowledge on the fabrication and application of[br/]construction materials, their mechanical behaviour and methods of[br/]characterisation.",
+      "Content":"[b]Concrete testing[/b][br/]Fabrication and placing of concrete, characterisatics of fresh concrete,[br/]test of concrete samples - compresssion strength, elastic modulus.[br/]Tensile testing and fracture. Brasilian and bending tests. Creep testing.[br/][b]Tests on Metal and Steel[/b][br/]Behaviour under tensile loading (reinforcement bars, mechanisms of hardening); Deformation under shock[br/][b]Tests on Wood[/b][br/]Tests of specimens of wood : compressive strength, modulus of elasticity, tensile testing, interaction with water.[br/][b]Tests on masonry[/b][br/]Fabrication of masonry walls, mechanical[br/]behaviour of masonry and its components",
+      "Type of teaching":"Laboratory works and exercises",
+      "Prerequisite for":"Reinforced and prestressed concrete, structures and concrete bridges,[br/]metallic construction, hydraulic construction, subterranean works.",
+      "Form of examination":"Continuous assessment (reports + written test)"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Materials Laboratory Work",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111726",
+      "name":"Dénéréaz Cyril"
+    },{
+      "url":"http://people.epfl.ch/154702",
+      "name":"Sofia-Gabrion Lionel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Fascicule TP polycopié, courbes expérimentales types[br/]",
+      "Forme d'enseignement":"Enseignement en laboratoire et en salle d'exercices",
+      "Contenu":"[b]Essais sur béton[/b] :[br/]Mise en oeuvre du béton, caractérisation du béton frais, essais sur[br/]éprouvettes de béton : compression, résistance, modules d'élasticité[br/]dynamique [br/]Essais de traction et de mécanique de la rupture : brésilien et flexion[br/]trois points avec/sans entaille [br/]Flexion 3 points sur poutre en béton armé[br/][b]Essais sur métaux et acier[/b][br/]Comportement à la traction (barres d'armature, modes de durcissement); déformations sous choc.[br/][b]Essais sur bois[/b][br/]Essais sur éprouvettes de bois: compression, résistance, modules d'élasticité statique ; essais de traction, interaction avec de l'eau.[br/][b]Essais sur maçonnerie[/b][br/]Fabrication des murets en maçonnerie, comportement mécanique des maçonneries et de leurs composants.",
+      "Forme du contrôle":"Contrôle continu (rapports de labo + interrogation écrite)",
+      "Préparation pour":"Béton armé et précontraint, Structures et ponts en béton, Constr.[br/]métallique, Constr. hydrauliques, Ouvrages souterrains.",
+      "Objectifs d'apprentissage":"Acquérir des connaissances pratiques dans le domaine de la mise en[br/]oeuvre des matériaux de construction, de leur comportement[br/]mécanique ainsi que des méthodes de caractérisation."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Laboratoire de matériaux",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

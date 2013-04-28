@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","233"],
+    "title":"Probabilities and statistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106090",
+      "name":"Pfister Charles"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Weekly exercises in class, oral exam",
+      "Prerequisite for":"Statistical mechanics",
+      "Required prior knowledge":"Analysis I and II",
+      "Content":"Trial, event, probability.[br/]Model of Kolmogorov.[br/]Elements of combinatorics.[br/]Examples of probability spaces:[br/]- discrete probability space,[br/]- continuous probabililty space.[br/]Conditional probability.[br/]General properties of probability spaces.[br/]Independence.[br/]Random variable and related notions:[br/]- law, distribution function,[br/]- computation of expectation value, variance, etc.[br/]Law of large numbers.[br/]Central limit theorem.[br/]Fluctuations.[br/]Statistical model.[br/]Estimation.[br/]Confidence interval.[br/]Test.[br/]",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Learning outcomes":"The theory of probability and statistics are essential tools in sciences, in particular in physics. The goal of the course is to give an introduction to the basic concepts of the theory in simple situations, but so that to make the study of more advanced text-books easier.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilities and statistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106090",
+      "name":"Pfister Charles"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II",
+      "Bibliographie et matériel":"Ouvrages conseillés au cours.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"Epreuve, événement, probabilité.[br/]Modèle de Kolmogorov.[br/]Eléments d'analyse combinatoire.[br/]Exemples d'espaces de probabilité :[br/]- espace de probabilité discret,[br/]- espace de probabilité continu.[br/]Probabilité conditionnelle.[br/]Propriétés générales des espaces de probabilité.[br/]Notion d'indépendance.[br/]Variable aléatoire et les notions qui s'y rattachent :[br/]- loi, fonction de répartition,[br/]- calcul de l'espérance mathématique, variance, etc.[br/]Lois des grands nombres.[br/]Théorème de la limite centrale.[br/]Fluctuations.[br/]Modèle statistique.[br/]Estimation.[br/]Intervalle de confiance.[br/]Test.[br/]",
+      "Forme du contrôle":"Exercices hebdomadaires en classe, examen oral",
+      "Préparation pour":"Mécanique statistique",
+      "Objectifs d'apprentissage":"La théorie des probabilités et la statistique sont des outils essentiels dans les sciences, en particulier en physique. Le but du cours est d'initier les étudiants aux concepts de base, exposés dans des situations simples, mais formulés de façon à faciliter l'étude de textes plus approfondis."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilités et statistique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

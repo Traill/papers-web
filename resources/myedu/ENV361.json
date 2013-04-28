@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144316&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","361"],
+    "title":"Urban and regional planning and Management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144316&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192838",
+      "name":"Leroy Denis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"100 % exam session. Written test 90 min.",
+      "Prerequisite for":"Minor in Urban Planing and Territorial Development",
+      "Content":"[br/][li]Territorial dynamics and evolution of the urbanisation[br/][li]Land use planning and the instruments[br/][li]Property ownership and the method and tolls for its management[br/][li]Financial aspects of utilities[br/][li]The concept of « territorial project »[br/][li]The procedures and their coordination[br/][li]Relations between land planning and environment, nature, agriculture and landscape[br/][br/][br/]",
+      "Keywords":"Land use planing, property management, land transformation development",
+      "Type of teaching":"Lectures with case studies",
+      "Learning outcomes":"To explain main concepts of land use planning and main process and actors involving in the land transformation. To present principles, methods and tools of land use planning. To explain the main interactions between land use and property ownership. To present principles, method and tools of property management[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Urban and regional planning and Management",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192838",
+      "name":"Leroy Denis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Notes de cours",
+      "Mots clés":"Aménagement du territoire, gestion du territoire, aménagements fonciers, développement territorial",
+      "Forme d'enseignement":"Cours avec exemples de cas",
+      "Contenu":"[li]Les dynamiques territoriales et le développement de l'urbanisation[br/][li]L'aménagement du territoire: plan directeur, plan d'affectation, les problèmes liés à la densité[br/][li]La propriété foncière et les démarches foncières[br/][li]Les aspects financiers des équipements collectifs[br/][li]La notion de «projet territorial»[br/][li]Les différentes procédures et leur coordination[br/][li]Les relations entre l'aménagement et la protection de l'environnement, la conservation de la nature, l'agriculture et le paysage[br/]",
+      "Forme du contrôle":"100 % session d'examen. Examen écrit 90 min.",
+      "Préparation pour":"Mineur en développement territorial et urbanisme",
+      "Objectifs d'apprentissage":"Introduire les notions de base de l'aménagement et présenter les processus et les acteurs principaux influençant le développement territorial. Initier les étudiants aux concepts, principes, méthodes et instruments intervenant dans l'aménagement et la gestion du territoire. Les sensibiliser aux principales interactions spatiales et institutionnelles entre le territoire et le foncier. Présenter les principes et les instruments de base des aménagements fonciers."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Aménagement et gestion du territoire",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

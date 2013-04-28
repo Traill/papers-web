@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23325791&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","525"],
+    "title":"Concrete structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23325791&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Enrich the knowledge of the behaviour, conceptual design, dimensioning and detailing of concrete structures. [br/][br/]Design and dimension complex concrete structures.[br/][br/][br/]",
+      "Content":"-\tServiceability, long-term behaviour[br/][br/]-\tDesign of statically indeterminate structures and bases of plastic design[br/][br/]-\tStress fields method[br/][br/]-\tShear fields[br/][br/]-\tPunching of R/C slabs with and without shear reinforcement.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Concrete structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7643-5491-7&amp;con_lng=ENG\" target=\"blank\">Design of concrete structures with stress fields / A. Muttoni, J. Schwartz, B. Thürlimann</a>\". Year:1997. ISBN:3-7643-5491-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-169-6&amp;con_lng=ENG\" target=\"blank\">Dimensionnement des structures en béton : dalles, murs, colonnes et fondations / Renaud Favre ... [et al.]</a>\". Year:1990. ISBN:2-88074-169-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Des références bibliographiques concernant la matière du cours seront aussi mis à disposition des étudiants avant chaque leçon théorique",
+      "Prérequis":"Structures en béton ou équivalent",
+      "Bibliographie et matériel":"Livre « Design of Concrete Structures with Stress Fields », A. Muttoni, J. Schwartz, B. Thürlimann, Birkhäuser, 1997[br/]Traité du Génie civil 8, R. Favre, J-P. Jaccoud, O. Burdet, H. Charif",
+      "Forme d'enseignement":"Ex cathédra avec exercices ",
+      "Contenu":"-\tAptitude au service, déformations différées[br/][br/]-\tDimensionnement des structures hyperstatiques et bases du dimensionnement plastique[br/][br/]-\tMéthode des champs de contrainte[br/][br/]-\tChamps de cisaillement[br/][br/]-\tPoinçonnement avec et sans étriers",
+      "Préparation pour":"Ponts en béton, Structures et architecture",
+      "Objectifs d'apprentissage":"Approfondir les connaissances du comportement, de la conception, du dimensionnement et du développement des détails constructifs des structures en béton.[br/][br/]Apprendre à concevoir et dimensionner des structures complexes en béton."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures en béton, chapitres choisis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7643-5491-7&amp;con_lng=FRE\" target=\"blank\">Design of concrete structures with stress fields / A. Muttoni, J. Schwartz, B. Thürlimann</a>\". Année:1997. ISBN:3-7643-5491-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-169-6&amp;con_lng=FRE\" target=\"blank\">Dimensionnement des structures en béton : dalles, murs, colonnes et fondations / Renaud Favre ... [et al.]</a>\". Année:1990. ISBN:2-88074-169-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775697&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","111"],
+    "title":"Programming I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775697&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=&ww_c_langue=en",
+    "section":"MX",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://lsmx.epfl.ch/page59498.html","http://lsmx.epfl.ch/page59498.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104937",
+      "name":"Desbiolles Jean-Luc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous assessment, 2 tests per semester[br/]Each control counts for 25% of the final grading",
+      "Bibliography and material":"Polycopié[br/]C. Delannoy, Programmer en Langage C, Eyrolles",
+      "Prerequisite for":"Programming II, Materials modelling",
+      "Content":"[br/][li]\tIntroduction to the programming environment Visual C++[br/][li]\tProgram structure[br/][li]\tDeclarations and statements[br/][li]\tBasic data types[br/][li]\tOperators and expressions[br/][li]\tInteractive input/output[br/][li]\tControl structures[br/][li]\tArrays[br/][li]\tPointers[br/][li]\tFunctions[br/][br/]Training by means of the programming of simple examples in the frame of exercices on computer.[br/]",
+      "Type of teaching":"Ex cathedra, practical work on computer",
+      "Learning outcomes":"To gain the basic concepts of programming.[br/]To know a programming environment (Visual C++).[br/]To be able to implement the solution of a simple numerical problem in a program written in C."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Programming I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11072-3&amp;con_lng=ENG\" target=\"blank\">Programmer en langage C : cours et exercices corrigés / Claude Delannoy</a>\". Year:2004. ISBN:2-212-11072-3</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://lsmx.epfl.ch/page59498.html","http://lsmx.epfl.ch/page59498.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104937",
+      "name":"Desbiolles Jean-Luc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Polycopié[br/]C. Delannoy, Programmer en Langage C, Eyrolles",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"[br/][li]\tIntroduction à l'environnement de programmation Visual C++[br/][li]\tStructure d'un programme[br/][li]\tDéclarations et instructions[br/][li]\tTypes de données élémentaires[br/][li]\tOpérateurs et expressions[br/][li]\tEntrées-sorties conversationnelles[br/][li]\tInstructions de contrôle[br/][li]\tTableaux[br/][li]\tPointeurs[br/][li] \tFonctions[br/][br/]Mise en pratique à travers la programmation d'exemples simples dans le cadre d'exercices sur ordinateur.",
+      "Forme du contrôle":"Contrôle continu, 2 tests par semestre[br/]Chaque contrôle compte pour 25 % de la note finale",
+      "Préparation pour":"Programmation II, Modélisation des Matériaux",
+      "Objectifs d'apprentissage":"Acquérir les concepts de base de la programmation.[br/]Connaître un environnement de développement (Visual C++).[br/]Être capable d'implanter la solution d'un problème numérique simple dans un programme écrit en langage C."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Programmation I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-212-11072-3&amp;con_lng=FRE\" target=\"blank\">Programmer en langage C : cours et exercices corrigés / Claude Delannoy</a>\". Année:2004. ISBN:2-212-11072-3</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

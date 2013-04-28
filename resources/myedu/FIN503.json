@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229988298&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","503"],
+    "title":"Advanced derivatives",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229988298&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192823",
+      "name":"Trolle Anders"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"There will be an emphasis on implementation of models and numerical methods. Therefore, the course requires familiarity with a software package that can be used for numerical computation. I prefer MATLAB and I will present and distribute various MATLAB programs as we go along. However, students are free to use any software package they prefer.",
+      "Form of examination":"40% combine weight on assignments given during the course[br/]60% final exam - closed-book, closed notes",
+      "Bibliography and material":"The main textbook for the course is [br/]Jim Gatheral, The Volatility Surface, Wiley, 2006. [br/][br/]In addition, a number of journal articles will be used.[br/]",
+      "Required prior knowledge":"Derivatives[br/]Introduction to finance[br/]Investments[br/]Stochastic calculus I[br/]Stochastic calculus II",
+      "Content":"Models with stochastic volatility and jumps, pricing of vanilla options by Fourier inversion techniques, numerical methods including pricing of American-style options by simulation, exotic derivatives (such as barrier options and cliquets), volatility derivatives (such as variance swaps, gamma swaps, volatility swaps, and options on volatility), and term structure modeling with unspanned stochastic volatility.",
+      "Keywords":"Derivatives, stochastic volatility, jumps, numerical methods",
+      "Type of teaching":"Lectures",
+      "Learning outcomes":"The course covers a range of advanced topics in derivative securities"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced derivatives",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-79251-2&amp;con_lng=ENG\" target=\"blank\">The volatility surface : a practitioner's guide / Jim Gatheral</a>\". Year:2006. ISBN:978-0-471-79251-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192823",
+      "name":"Trolle Anders"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"L'accent sera mis sur l'implémentation de modèles et les méthodes numériques. De ce fait, le cours requiert d'être familier avec un programme de calcul numérique. La préférence sera donnée à MATLAB, qui sera présenté et dont différents modules seront distribués durant le cours. Les étudiants sont toutefois libres d'utiliser un autre programme.",
+      "Prérequis":"Derivatives[br/]Introduction to finance[br/]Investments[br/]Stochastic calculus I[br/]Stochastic calculus II",
+      "Bibliographie et matériel":"Livre de référence pour le cours:[br/]Jim Gatheral, The Volatility Surface, Wiley, 2006. [br/][br/]Nous utiliserons également des articles de journaux.",
+      "Mots clés":"Produits dérivés, volatilité stochastique, processus à sauts, méthodes numériques",
+      "Forme d'enseignement":"Cours",
+      "Contenu":"Modèles à volatilité stochastique et sauts, évaluation de produits dérivés par inversion de transformées de Fourier. Méthodes numériques incluant l'évaluation d'options américaines par simulation, d'options exotiques (telles que options à barrières et cliquets), de produits dérivés volatiles (tels que variance swaps, gamma swaps, volatility swaps et options on volatility), etc.",
+      "Forme du contrôle":"40% combinaison de notes sur les devoirs donnés durant le cours[br/]60% examen final - à livres fermés et sans les notes de cours",
+      "Objectifs d'apprentissage":"Le cours couvre une série de sujets avancés dans le domaine des titres dérivés"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced derivatives",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-79251-2&amp;con_lng=FRE\" target=\"blank\">The volatility surface : a practitioner's guide / Jim Gatheral</a>\". Année:2006. ISBN:978-0-471-79251-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

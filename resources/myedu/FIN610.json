@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965836465&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","610"],
+    "title":"International Finance",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965836465&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217006",
+      "name":"Chaieb Ines"
+    },{
+      "url":"http://people.epfl.ch/217005",
+      "name":"Hau Harald"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"1.\tIntroduction: The Role of the International Financial Market.[br/]2.\tRisk Sharing in International Business Cycles[br/]3.\tInternational Asset Pricing[br/]4.\tInternational Portfolio Choice[br/]5.\tFinancial Crisis and Contagion [br/]6.\tCurrency Unions and Sovereign Default [br/]7.\tCapital Flows, Current Account Openness and Development [br/]",
+      "Form of examination":"Multiple[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"International Finance",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217006",
+      "name":"Chaieb Ines"
+    },{
+      "url":"http://people.epfl.ch/217005",
+      "name":"Hau Harald"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1.\tIntroduction: The Role of the International Financial Market.[br/]2.\tRisk Sharing in International Business Cycles[br/]3.\tInternational Asset Pricing[br/]4.\tInternational Portfolio Choice[br/]5.\tFinancial Crisis and Contagion [br/]6.\tCurrency Unions and Sovereign Default [br/]7.\tCapital Flows, Current Account Openness and Development [br/]",
+      "Forme du contrôle":"Oral Presentation[br/]Term Paper"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"International Finance",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

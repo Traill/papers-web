@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128954826&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","709"],
+    "title":"Groupe de travail en Calcul des variations III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128954826&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    },{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Maîtriser les concepts modernes du calcul des variations[br/]",
+      "Content":"1)Existence des minimiseurs de problèmes non quasiconvexes et solutions presque partout d'équations de Hamilton-Jacobi[br/]2)Formulations variationnelles des ondes de surface gravifiques et méthodes minimax[br/]",
+      "Note":"http://phd.epfl.ch/page67880.html[br/]",
+      "Required prior knowledge":"Analyse fonctionnelle, théorie de l'intégration, espaces de Sobolev, équations aux dérivés partielles et ordinaires, calcul des variations I et II[br/]"
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"Français",
+    "title":"Groupe de travail en Calcul des variations III",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120861",
+      "name":"Buffoni Boris"
+    },{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"Français",
+    "title":"Groupe de travail en Calcul des variations III",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

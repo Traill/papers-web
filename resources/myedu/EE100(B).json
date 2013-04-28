@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773512&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","100(B)"],
+    "title":"Electrotechnics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773512&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104979",
+      "name":"Doré Chantal"
+    },{
+      "url":"http://people.epfl.ch/105228",
+      "name":"Germano Paolo"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To be able to analyze and to apply the electricity main laws and to put in equation the linear circuits. To master the implementation of complex calculation to one- and three-phase sinusoidal systems. To be able to analyze linear systems in transient conditions.",
+      "Content":"[b]Electricity fundamental laws[/b][br/]Conventions, symbols and units. Electric potential and voltage. Currents, Ohm's, Joule's and Kirchhoff's laws.[br/][br/][b]Circuit elements[/b][br/]Model of an electric circuit: sources, resistance, inductance, capacity, mutual inductance.[br/][br/][b]Continuous circuits[/b][br/]Equation implementing. Linear elements combining. Star-delta transformation. Thévenin and Norton theorems. Superposition principle. Node method. Mesh method. [br/]Real components. Non linear elements.[br/]",
+      "Type of teaching":"Ex cathedra, exercice sessions and demonstration.",
+      "Form of examination":"Written exam (80%) at the end of Electrotechnics II, + labs (20%)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechnics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-041-X&amp;con_lng=ENG\" target=\"blank\">Introduction à l'électrotechnique / par Frédéric de Coulon et Marcel Jufer</a>\". Year:2001. ISBN:2-88074-041-X</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104979",
+      "name":"Doré Chantal"
+    },{
+      "url":"http://people.epfl.ch/105228",
+      "name":"Germano Paolo"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, séances d'exercices et démonstrations.",
+      "Contenu":"[b]Lois fondamentales de l'électricité[/b][br/]Conventions, symboles et unités. Potentiel électrique et tensions. Courants, lois d'Ohm, de Joule et de Kirchhoff.[br/][br/][b]Eléments de circuits[/b][br/]Modèle d'un circuit électrique: sources, résistance, inductance, capacité, inductance mutuelle.[br/][br/][b]Circuits en régime continu[/b][br/]Mise en équation. Combinaison d'éléments linéaires. Transformation étoile-triangle. Théorèmes de Thévenin et de Norton. Principe de superposition.[br/]Méthode des noeuds. Méthode des mailles. [br/]Composants réels. Eléments non linéaires.",
+      "Forme du contrôle":"Examen écrit (80%) à la fin du cours Electrotechnique II, + labo (20%)",
+      "Bibliographie et matériel":"Traité d'Électricité, vol. I [br/]Polycopié Électrotechnique I et II",
+      "Objectifs d'apprentissage":"Etre capable d'analyser et d'appliquer les principales lois de l'électricité et de mettre en équation les circuits linéaires. Maîtriser l'application du calcul complexe aux systèmes sinusoïdaux monophasés et triphasés. Etre capable d'analyser des systèmes linéaires en régime transitoire."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechnique I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-041-X&amp;con_lng=FRE\" target=\"blank\">Introduction à l'électrotechnique / par Frédéric de Coulon et Marcel Jufer</a>\". Année:2001. ISBN:2-88074-041-X</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

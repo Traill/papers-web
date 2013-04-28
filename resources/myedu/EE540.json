@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772732&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","540"],
+    "title":"Optical communications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772732&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107296",
+      "name":"Gaumier Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To be able to :[br/][li]Situate and evaluate the potentialities, limits and perspectives of optical communications systems and networks.[br/][li]Design and dimension photonic communication systems and networks",
+      "Content":"[br/][li]Properties and imperfections of optical transmission systems: dispersion, non linearities, chirp, mode partition, etc. Special fibers. Solitons.[br/][br/][li]Coherent transmission systems: coherent sources, modulation methods, heterodyne and homodyne coherent reception; advantages and applications.[br/][br/][li]Multiplexing techniques: subcarrier multiplexing (SCM), wavelength division (WDM), optical frequency and time division (OFDM, OTDM). Crosstalk problems.[br/][br/][li]Topology and morphology of photonic networks: core and access network. «Last mile» problem. Possibilities and limits.[br/][br/][li]Planning: operation and capacity management, power budget, optical amplification, wavelength assignment. Reliability and economic aspects.",
+      "Bibliography and material":"Polycopié",
+      "Form of examination":"Oral",
+      "Required prior knowledge":"Introduction to transmission systems, Modulation and transmission, Introduction to optical signal processing, Optical signal processing"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optical communications",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107296",
+      "name":"Gaumier Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[br/][li]Propriétés et imperfections des systèmes de transmission optiques: dispersion, non linéarités, «chirp», partition de modes, etc. Fibres spéciales. Solitons.[br/][br/][li]Systèmes de transmission cohérents : sources cohérentes, possibilités de modulation, réception cohérente hétérodyne et homodyne; avantages et applications. [br/][br/][li]Techniques de multiplexage : fréquentiel électrique (SCM), en longueur d'onde (WDM), fréquentiel optique (OFDM), temporel optique (OTDM). Problèmes de diaphotie.[br/][br/][li]Topologie et morphologie des réseaux optiques : réseau de transport, réseau d'accès. Problème du «dernier kilomètre». Possibilités et limites.[br/][br/][li]Problèmes de planification : exploitation et gestion de la capacité, bilan de puissance, amplification optique, assignation de longueurs d'onde. Fiabilité et aspects économiques.",
+      "Forme du contrôle":"Oral",
+      "Prérequis":"Introduction aux systèmes de transmission, Modulation et transmission, Introduction au traitement optique, Traitement optique du signal",
+      "Bibliographie et matériel":"Polycopié",
+      "Objectifs d'apprentissage":"Etre capable de :[br/][li]Situer et évaluer les potentialités, les limites et les perspectives des systèmes et des réseaux de communications optiques.[br/][li]Planifier et dimensionner systèmes et réseaux de communications optiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Communications optiques",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

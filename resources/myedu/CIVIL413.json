@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=380690154&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","413"],
+    "title":"Urban hydraulic systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=380690154&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/202221",
+      "name":"Pfister Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Basic concepts, design and management of urban networks are presented, with a focus on fresh and waste water hydraulics.",
+      "Content":"[b]General introduction to urban hydraulics[/b][br/][br/][li]\tLegal and conceptual aspects, including common concepts of fresh and waste water nets[br/][li]\tDesign bases related to fresh water consumption, storm water run-off and dry-weather discharge in sewer [br/][li]\tIntroduction to flood retention with hydraulic design of components[br/][li]\tIntroduction to structural design of conduits and to maintenance[br/][br/][b]Focus on fresh water[/b][br/][br/][li]\tCapture[br/][li]\tReservoirs[br/][li]\tSupply net hydraulics[br/][br/][b]Focus on waste water hydraulics[/b][br/][br/][li]\tHydraulic design of sewer conduit[br/][li]\tStandard manhole[br/][li]\tSpecial manhole: Drop and junction[br/][li]\tSewer sideweir and bottom opening[br/][li]\tCulverts, throttling pipes and inverted siphons[br/][li]\tSewage pumping[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Urban hydraulic systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/202221",
+      "name":"Pfister Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Cours en parallèle : Hydrologie urbaine (ENV-417, Rossi)",
+      "Prérequis":"Mécanique des fluides I et II",
+      "Bibliographie et matériel":"Transparents du cours",
+      "Forme d'enseignement":"Ex cathedra et exercices d'application",
+      "Contenu":"[b]Cadre général des réseaux hydrauliques urbains[/b][br/][li]\tAspects légaux et conceptuels avec la conception des réseaux d'eau potable et usée[br/][li]\tConception et dimensionnement relié à la consommation d'eau potable, à l'évacuation des eaux pluviales et à l'écoulement de temps sec dans la canalisation[br/][li]\tIntroduction des bassins d'eaux pluviales avec leurs composants hydrauliques[br/][li]\tSollicitation et comportement statique des tuyaux enterrés, gestion et maintenance[br/][br/][b]Approfondissement du thème eau potable[/b][br/][li]\tCaptage[br/][li]\tRéservoirs[br/][li]\tDistribution[br/][br/][b]Approfondissement du thème eau usée[/b][br/][li]\tDimensionnement hydraulique des tuyaux[br/][li]\tTrou d'homme standard[br/][li]\tTrou d'homme spécial : Puits de chute et à jonction[br/][li]\tDéversoir latéral de décharge et ouverture de fond[br/][li]\tPonceau, conduit d'étranglement et aqueduc-siphon[br/][li]\tStations de pompage d'eaux usées[br/]",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Acquisition des connaissances de base nécessaires à la conception, au dimensionnement et à la gestion des réseaux hydrauliques urbains. Eau potable, eaux de ruissellement, eaux usées."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Urban hydraulic systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

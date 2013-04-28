@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=979662666&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","711"],
+    "title":"Information Science in Engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=979662666&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://imacwww.epfl.ch/CAE/cae-toc.jsp","http://imacwww.epfl.ch/CAE/cae-toc.jsp"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106443",
+      "name":"Smith Ian"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Content":"The course is divided into two parts. The first part deals with concepts such as complexity, task analysis as well as strategies for representation and reasoning using engineering knowledge (1 week). The second part (1 week 1 month later) is devoted to seminars by Doctoral candidates on selected topics complemented by a \"critique\" and supplementary theoretical background by the teachers.",
+      "Keywords":"Logic, complexity, search and optimisation, machine learning, data-base design",
+      "Required prior knowledge":"Some knowledge of programming is useful but it is not essential"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Information Science in Engineering",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://imacwww.epfl.ch/CAE/cae-toc.jsp","http://imacwww.epfl.ch/CAE/cae-toc.jsp"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106443",
+      "name":"Smith Ian"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course is divided into two parts. The first part deals with concepts such as complexity, task analysis as well as strategies for representation and reasoning using engineering knowledge (1 week). The second part (1 week 1 month later) is devoted to seminars by doctoral candidates on selected topics complemented by a \"critique\" and supplementary theoretical background by the teachers.",
+      "Prérequis":"Some knowledge of programming is useful but it is not essential",
+      "Mots clés":"Logic, complexity, search and optimisation, machine learning, data-base design"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Information Science in Engineering",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

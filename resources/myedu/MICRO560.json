@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23996093&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","560"],
+    "title":"Seminar in Physiology and instrumentation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23996093&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    },{
+      "url":"http://people.epfl.ch/107144",
+      "name":"Renaud Philippe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To get familiar with the state-of-the-art in medical and bio-instrumentation. To acquire basic understanding of related physiology associated to these instruments.",
+      "Content":"[b]Course:[/b][br/]Introduction to medical physiology. Series of topical lectures given by the instructors or by invited people.[br/][br/][b]Case studies:[/b][br/]Students \"mini-projects\" on selected instruments (list of topics given at the beginning of the course) with 10 min presentation and two pages written description of the instrument (physiology, principle of function, specifications).[br/][br/][b]Topics of the reference book:[/b] Basic Concepts of Medical Instrumentation, Basic Sensors and Principles, Amplifiers and Signal Processing, The Origin of Biopotentials,  Biopotential Electrodes, Biopotential Amplifiers, Blood Pressure and Sound, Measurement of Flow and Volume of Blood, Measurements of the Respiratory System, Chemical Biosensors , Clinical Laboratory Instrumentation, Medical Imaging Systems, Therapeutic and Prosthetic Devices .[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Seminar in Physiology and instrumentation",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-15368-0&amp;con_lng=ENG\" target=\"blank\">Medical instrumentation : application and design / John G. Webster, ed. ; contrib. authors: John W. Clark, Jr. ... [et al.]</a>\". Year:1998. ISBN:0-471-15368-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    },{
+      "url":"http://people.epfl.ch/107144",
+      "name":"Renaud Philippe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"exposé oral + discussions",
+      "Contenu":"[b]Cours:[/b][br/]Introduction à la physiologie médicale. Série de leçons données par les instructeurs du cours ou des intervenants invités externes.[br/][br/][b]Etudes de cas:[/b][br/]\"Mini-projets\" sur un instrument spécifique (liste des sujets donnée au début du cours) avec 10 min de présentation et 2 pages de résumé décrivant l'instrument (physiologie, principe de fonctionnement, spécifications).[br/][br/][b]Sujets du livre de référence:[/b] Concepts de l'instrumentation médicale, capteurs et principes, amplificateurs et traitement du signal, biopotentiels et amplificateurs, pression sanguine et ultrasons, mesure de débit et volume sanguin, mesure du système respiratoire, biocapteurs chimiques, instrumentation de laboratoire clinique, systèmes d'imagerie médicale, dispositifs thérapeutiques et prothèses.",
+      "Forme du contrôle":"Examen écrit (1/2) + projet (1/2)",
+      "Bibliographie et matériel":"J G Webster, Medical Instrumentation, application and design, Wiley, 1997  ",
+      "Objectifs d'apprentissage":"Acquérir la connaissance de l'état de l'art dans l'instrumentation bio-médicale. Comprendre la physiologie associée aux techniques de mesures."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Séminaire en physiologie et instrumentation",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-15368-0&amp;con_lng=FRE\" target=\"blank\">Medical instrumentation : application and design / John G. Webster, ed. ; contrib. authors: John W. Clark, Jr. ... [et al.]</a>\". Année:1998. ISBN:0-471-15368-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

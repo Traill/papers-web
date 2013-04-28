@@ -1,0 +1,62 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=297397946&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","603"],
+    "title":"Dynamic Asset Pricing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=297397946&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://Moodle TBA","http://Moodle TBA"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192824",
+      "name":"Hugonnier Julien"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course provides an advanced introduction to the methods and results of continuous time asset pricing theory. We will cover recent asset pricing models that have been proposed to study and explain the main asset pricing puzzles. Topics will include co-arbitrage restrictions on assets prices, complete and incomplete markets equilibrium models, learning, portfolio constraints, transaction costs and non additive preferences such as habit formation or recursive utility.[br/]",
+      "Keywords":"Asset pricing, general equilibrium, optimal portfolios[br/]",
+      "Form of examination":"Written"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamic Asset Pricing",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://Moodle TBA","http://Moodle TBA"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192824",
+      "name":"Hugonnier Julien"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Mots clés":"Asset pricing, general equilibrium, optimal portfolios[br/]",
+      "Objectifs d'apprentissage":"This course provides an advanced introduction to the methods and[br/]results of continuous time asset pricing theory. We will cover recent[br/]asset pricing models that have been proposed to study and explain[br/]the main asset pricing puzzles. Topics will include co-arbitrage[br/]restrictions on assets prices, complete and incomplete markets[br/]equilibrium models, learning, portfolio constraints and non[br/]additive preferences such as habit formation or recursive[br/]utility.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamic Asset Pricing",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

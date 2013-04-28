@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1581029108&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","405(a)"],
+    "title":"Technology & innovation management (a)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1581029108&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162370",
+      "name":"Tucci Christopher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Exposure to basic principles of managing innovation within firms",
+      "Content":"Incumbents vs. entrants; appropriability; complementary assets; creativity; new product development",
+      "Type of teaching":"Case studies",
+      "Prerequisite for":"Technology strategy & corporate entrepreneurship",
+      "Form of examination":"30% class participation[br/]70% case study (outline, case report, case analysis, presentation)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Technology & innovation management (a)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162370",
+      "name":"Tucci Christopher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Etudes de cas",
+      "Contenu":"Acteurs contrôlant les marchés vs nouveaux concurrents; appropriabilité; actifs complémentaires; créativité; développement d'un nouveau produit.",
+      "Forme du contrôle":"30% participation en classe[br/]70% étude de cas (outline, rapport, analyse de cas, presentation)",
+      "Préparation pour":"Technology strategy & corporate entrepreneurship",
+      "Objectifs d'apprentissage":"Introduction aux principes de base de la gestion de l'innovation dans les entreprises"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Technology & innovation management (a)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

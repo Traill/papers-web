@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598016987&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","709"],
+    "title":"Decision Making under Uncertainty",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598016987&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://liaww.epfl.ch/People/dimitrak/teaching/optimal_decisions/index.html","http://liaww.epfl.ch/People/dimitrak/teaching/optimal_decisions/index.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158533",
+      "name":"Dimitrakakis Christos"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course gives a firm foundation to decision theory from mainly a statistical, but also a philosophical perspective. The aim of the course is two-fold.[br/]Firstly, to give a thorough understanding of statistical decision theory, the meaning of hypothesis testing, automatic methods for designing and interpreting experiments and the relation of statistical decision making to human decision making. Secondly, to relate the theory to recent developments and practical problems in reinforcement learning and artificial intelligence.[br/]The first part introduces the concepts of subjective probability and utility, and how they can be used to represent and solve decision problems. The main objective is to see how most decision problems can be placed in this framework. As the course progresses, we shall start dealing with problems of a sequential nature. We will have the chance to see how these relate to applications such as network routing, behavioural analysis, and planning in games.[br/]The second part focuses on important recent research in decision making under uncertainty, and in particular reinforcement learning and learning with expert advice. First, we examine some representative statistical models and related algorithms. Then, we look at the problem of learning to act by following expert advice, a field that has recently found many applications in online advertising, finance and optimisation[br/]",
+      "Content":"Subjective probability and utility : While probability is generally seen as a tool to express randomness, the same mathematical machinery can be used to express subjective belief and uncertainty. We shall give an overview of the mathematical construction of subjective probability, and examples of how it can be used to quantify personal beliefs. We shall also look at preferences, the theory of utility, and its connections to psychological experiments.[br/]Decision problems: By combining subjective probability and utility, we arrive at statistical decision problems. These are problems where we must take a decision to maximise the expected utility that arise frequently in practice. We shall examine the general properties of such problems and give examples.[br/]Conjugate priors and estimation: Personal beliefs change over time. Assuming a probabilistic framework, this change can be realised via Bayes rule, or some other conditioning method. For conjugate priors, this conditioning is extremely simple and efficient. A few examples will be given. Conditioning can be used to form a more accurate belief about the value of some unknown parameter. Thus, conditioning leads us directly to Bayesian parameter estimation, where our uncertainty about the parameters is expressed as a probability distribution.[br/]Hypothesis testing: Frequently, we wish to perform an experiment in order to verify some hypothesis. This unit will take a detailed look at hypothesis testing. We shall start from Bayesian/subjective hypothesis testing, introduce the concepts of unconditional and conditional tests in frequentist hypothesis testing.[br/]Sequential sampling: Frequently, the number of experiments to be performed is not known a priori. In this situation, the experimenter must decide, at each stage of the experiment, whether to continue or stop. This is particularly common in e.g. clinical trials, where drug trials may be stopped early if it appears that the drug can have serious side-effects.[br/]Experiment design: The more general case is when our decisions are not just whether to continue or stop the experiment, but also what experiment to perform. This unit will give a thorough overview of problems in experiment design, by formalising them as Markov decision processes. This links directly to multi-armed bandit problems and reinforcement learning.[br/]Reinforcement learning: models: We take a closer look at reinforcement learning problems from a Bayesian perspective. We examine two general model classes. The first estimates the environment dynamics, while the second eschews this in favour of estimating the utilities of different strategies directly.[br/]Reinforcement learning: algorithms: We give two basic algorithm classes for multi-armed bandit and reinforcement learning problems. The first is based on confidence bounds and has an \"optimism under uncertainty\" behaviour. The second is based on sampling and has in a \"what if\" behaviour.[br/]When there is no model: prediction with expert advice: Frequently there is no way to construct a plausible model, but we have many rules-of-thumb to choose from. We take a look at the problem of prediction with expert advice in the full and partial information setting.[br/]",
+      "Keywords":"planning, uncertainty, reinforcement learning, statistics, Bayesian inference",
+      "Form of examination":"Project report[br/]Written exam",
+      "Required prior knowledge":"1. A basic understanding of probability and calculus;[br/]2. Programming experience (for the coursework and project work).[br/]Optionally: Courses in machine learning and/or artificial intelligence"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Decision Making under Uncertainty",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://liaww.epfl.ch/People/dimitrak/teaching/optimal_decisions/index.html","http://liaww.epfl.ch/People/dimitrak/teaching/optimal_decisions/index.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158533",
+      "name":"Dimitrakakis Christos"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Decision Making under Uncertainty",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

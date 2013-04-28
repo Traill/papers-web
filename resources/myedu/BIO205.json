@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351098607&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","205"],
+    "title":"Cellular and Molecular Biology II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351098607&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/212964",
+      "name":"Meylan Etienne"
+    },{
+      "url":"http://people.epfl.ch/171549",
+      "name":"van der Goot Grunberg Françoise Gisou"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":" The course builds on the knowledge acquired during year 1 in Molecular Biology of the Cell. The main aims are to discover the architecture of the eukaryotic cell, how cells communicate with each other and with the outside, and how intracellular communication takes place.",
+      "Content":"[li] Membranes (structure) (chapter 10)[br/][li] Membrane transport (chapter 11)[br/][li] Origin and transmission of mitochondria[br/][li] Organelles and trafficking (chapter 12 and 13)[br/][li] Cellular communication (chapter 15)[br/][li] The cytoskeleton (chapter 16)[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Cellular and Molecular Biology II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=ENG\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Year:2010. ISBN:978-0-8153-4129-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/212964",
+      "name":"Meylan Etienne"
+    },{
+      "url":"http://people.epfl.ch/171549",
+      "name":"van der Goot Grunberg Françoise Gisou"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"1ère année bachelor SV",
+      "Bibliographie et matériel":"Essential Cell Biology, 3rd Ed.[br/]Alberts et al.; Garland Science",
+      "Forme d'enseignement":"Ex cathedra  + exercices",
+      "Contenu":"[li] Membranes (structure) (chapitre 10)[br/][li] Transport membranaire (chapitre 11)[br/][li] Origine et transmission des mitochondries[br/][li] Organelles et transport (chapitres 12 et 13)[br/][li] Communication cellulaire (chapitre 15)[br/][li] Cytosqueleton (chapitre 16) [br/][br/][br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Laboratoire intégré en Sciences de la Vie",
+      "Objectifs d'apprentissage":"Ce cours s'appuie sur les connaissances de biologie moléculaire acquises en première année pour explorer la biologie cellulaire. Les objectifs principaux sont l'étude de l'architecture de la cellule, du trafic intracellulaire et de la communication entre cellules."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie cellulaire et moléculaire II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=FRE\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Année:2010. ISBN:978-0-8153-4129-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

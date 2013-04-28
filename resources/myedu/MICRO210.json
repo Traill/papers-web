@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774892&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","210"],
+    "title":"Microcontrollers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774892&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle/course/view.php?id=450","http://moodle/course/view.php?id=450"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108571",
+      "name":"Schmid Alexandre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Students are expected to understand the internal operation of a microcontroller, as well as the basics of microprocessor architecture. A thorough understanding of a basic computer system, how the microcontroller is interfaced and communicates with neighboring hardware systems will be acquired. Students will be able to program the AVR microcontroller using assembly language, interface the micro-controller using standard (serial) com-munication protocols, and control standard peripheral devices.",
+      "Content":"This course is offered as an introduction to the operation and use of microcontrollers, where architectural aspects, as well as assembly language programming  and basics of computer systems are presented. The 8-bit RISC AVR microcontroller has been selected to support theoretical concepts presented in the lectures and practical laboratory training sessions. The basic architecture of a microprocessor and of a computer system are studied using the example of the AVR microcontroller, operating on a STK-300 board. Assembly language programming techniques (Boolean operations, branching, software routines, pointers, lookup tables, etc), real-time operation techniques (interrupts, timers), serial transmission (RS232, UART, I2C, etc), and the control of common peripheral devices (stepping/servo motors, sensors, PC keyboard, IR remote control, etc) will be studied and implemented."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microcontrollers",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle/course/view.php?id=450","http://moodle/course/view.php?id=450"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108571",
+      "name":"Schmid Alexandre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, travaux pratiques, projet ",
+      "Contenu":"Ce cours est une introduction à l'utilisation de microcontrôleurs. Les aspects d'architecture de processeur, de programmation assembleur et de système informatique sont abordés. Le microcontrôleur AVR avec une architecture RISC 8-bit est choisi comme support à l'enseignement théorique, et aux travaux pratiques. Les thèmes abordés comprennent l'architecture de microprocesseur basé sur le microcontrôleur AVR, l'environnement de développement, le système informatique basé sur la carte STK-300, les techniques de programmation assembleur (opérations Booléennes, branchements, sous-routines, pointeurs, tables de transcorrespondance, etc), les techniques temps réel (interruptions, timers), les communications séries (RS232, UART, I2C, etc), la commande de périphériques usuels (moteur pas-à-pas/servo, capteurs, clavier PC, télécommande IR, etc).",
+      "Forme du contrôle":"Continu obligatoire:Travaux pratiques notés, test écrit des connaissances, et projet noté ",
+      "Bibliographie et matériel":"Notes de cours polycopiées, cf URL du cours",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant comprendra le fonctionnement interne d'un microcontrôleur, et aura des notions d'architecture de processeur; il connaîtra l'architecture d'un système informatique simple, et comprendra comment le microcontrôleur est interfacé et communique avec son environnement; il sera capable de programmer le microcontrôleur AVR en langage assembleur; il sera capable d'interfacer le microcontrôleur au moyen de protocoles (séries) courants et de contrôler des périphériques usuels."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microcontrôleurs",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

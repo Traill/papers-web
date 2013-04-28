@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965625964&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","734"],
+    "title":"Tokamak Plasma Control",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965625964&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://crpp.epfl.ch","http://crpp.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105676",
+      "name":"Lister Jonathan Bryan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Obtain an understanding of the principal requirements for the control of high power tokamak pulses and to understand how these can be met by applying the basic principles of control theory. [br/]The course targets an audience with an understanding of tokamak physics at the Master level and assumes no pre-requisites of control principles. [br/]Contact time is split 50:50 between formal presentation and practical exercises based on the ITER[br/]project.[br/]The course will be presented as a block, to enable the participation of international candidates in the field of tokamak research.[br/]",
+      "Content":"1. Overview of control requirements in a tokamak - current ITER design of plasma control[br/]2. Basic principles of control theory - model types, identification, controllers, LTI, non-LTI[br/]3. Design of controllers for plasma equilibrium control of ITER[br/]4. Advanced issues related to ITER plasma shape control - constraints, optimisation[br/]5. Design of controllers for kinetic control of 0-D quantities - energy and density, quantised actuators[br/]6. Advanced issues related to kinetic control of 0-D quantities[br/]7. Formulation of the control of continuous radial plasma profiles[br/]8. Advanced issues related to profile control - actuator conflict[br/]9. Stabilisation of MHD activity and current research work[br/]10. Issues related to the control of the plasma-wall interactions - divertor, wall contact[br/]11. Overview of the state of the art in the field and future tendencies in ITER[br/][br/]",
+      "Keywords":"Fusion, Plasma, Tokamak, Control",
+      "Note":"Block course",
+      "Required prior knowledge":"Plasma Physics III Master course, or equivalent"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Tokamak Plasma Control",
+    "recitation":{
+      "total_hours":7
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://crpp.epfl.ch","http://crpp.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105676",
+      "name":"Lister Jonathan Bryan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Tokamak Plasma Control",
+    "recitation":{
+      "total_hours":7
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

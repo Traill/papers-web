@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513564320&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","206"],
+    "title":"Rheology and fluid mechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513564320&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113157",
+      "name":"Michaud Véronique"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Polymer composites[br/]Polymers, structure and properties[br/]Polymer processing[br/]Dispersed materials[br/]",
+      "Required prior knowledge":"Continiuum mechanics",
+      "Content":"[b]INTRODUCTION TO RHEOLOGY[/b][br/]Rheological phenomena[br/]Definitions and basic equations[br/][b]RHEOLOGY OF SOLIDS[/b][br/]Linear viscoelasticity, mechanical models[br/]Stress relaxation, creep[br/]Harmonic tests, time-temperature equivalence[br/][b]RHEOLOGY OF LIQUIDS[/b][br/]Newtonian and non-Newtonian fluids[br/]Navier-Stokes equations, solutions, case of compressible fluids, of turbulent flows[br/]Molecular interpretation of the non-Newtonian behaviour[br/]Rheological flows[br/]Rheometry[br/]Suspensions and emulsions[br/]Chemorheology[br/]",
+      "Type of teaching":"Ex cathedra with exercises",
+      "Learning outcomes":"The main topics of the course are:[br/][li]Basic knowledge of fluid mechanics principles. Flow of Newtonian fluids, role of compressibility & fluid velocity [br/][li]Basic knowledge of the rheological behaviour of solids and liquids[br/][li]Analytical and experimental methods for rheological characterization[br/][li]Basic tools for process modelling[br/][li]Molecular and structural interpretation of the rheological behaviour[br/][li]Analysis of reactive systems[br/][li]Illustrative examples from practical industrial applications (food,[br/]polymer processing)[br/][br/][br/][br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Rheology and fluid mechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113157",
+      "name":"Michaud Véronique"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Milieux continus",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra avec exercices",
+      "Contenu":"[b]INTRODUCTION À LA RHÉOLOGIE[/b][br/]Phénomènes rhéologiques[br/]Définitions et équations de base[br/][b]RHÉOLOGIE DES SOLIDES[/b][br/]Viscoélasticité linéaire, modèles mécaniques[br/]Relaxation de contrainte et fluage[br/]Essais harmoniques, équivalence temps-température[br/][b]RHÉOLOGIE DES LIQUIDES[/b][br/]Fluides Newtoniens et non-Newtoniens[br/]Équations de Navier-Stokes, solutions, cas des fluides compressibles, turbulence[br/]Interprétation moléculaire du comportement non-Newtonien[br/]Écoulements rhéologiques[br/]Rhéométrie[br/]Suspensions et émulsions[br/]Chémorhéologie[br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Composites polymères[br/]Polymères, structure, propriétés[br/]Technologie et mise en oeuvre des polymères[br/]Matériaux divisés[br/]",
+      "Objectifs d'apprentissage":"Les sujets principaux du cours sont:[br/][li]Connaissances de base des principes de mécanique des fluides. Ecoulements des fluides newtoniens, influence de la compressibilité, de la vitesse[br/][li]Connaissances de base du comportement rhéologique des solides[br/]et des liquides[br/][li]Méthodes analytiques et expérimentales de caractérisation[br/]rhéologique[br/][li]Outils de base pour la modélisation de procédés de mise en[br/]oeuvre[br/][li]Interprétation moléculaire et structurale du comportement[br/]rhéologique[br/][li]Analyse des systèmes réactifs[br/][li]Illustration des exemples de mise en oeuvre dans les applications[br/]industrielles[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Rhéologie et mécanique des fluides",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

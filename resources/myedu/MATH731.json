@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=398910633&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","731"],
+    "title":"Topics in geometric analysis I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=398910633&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://wiki.epfl.ch/grtr","http://wiki.epfl.ch/grtr"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To lay some foundations in modern geometric analysis.",
+      "Content":"The subject of Geometric Analysis has appeared some 60 years ago although the name is more recent. The subject deals with differential geometry and its relation to global analysis, partial differential equations, geometric measure theory and variational principles to name a few. Geometric Analysis is at force whenever strong mathematical analysis is used to solve problems in differential geometry. The Calabi conjecture, the Yamabe conjecture and most spectacular the Poincaré conjecture all have been solved by methods from geometric analysis. The goal of this course is to introduce the student to the basic techniques of geometric analysis. The subject covered vary each year. Typical subjects will be: global analysis, Hodge theory, PDE's on Manifolds, advanced Riemannian geometry etc.",
+      "Keywords":"geometry, analysis",
+      "Required prior knowledge":"Basic culture in geometry, smooth manifolds, tensors, measure theory and functional analysis"
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Topics in geometric analysis I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://wiki.epfl.ch/grtr","http://wiki.epfl.ch/grtr"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The subject of Geometric Analysis has appeared some 60 years ago although the name is more recent. The subject deals with differential geometry and its relation to global analysis, partial differential equations, geometric measure theory and variational principles to name a few. Geometric Analysis is at force whenever strong mathematical analysis is used to solve problems in differential geometry. The Calabi conjecture, the Yamabe conjecture and most spectacular the Poincaré conjecture all have been solved by methods from geometric analysis. The goal of this course is to introduce the student to the basic techniques of geometric analysis. The subject covered vary each year. Typical subjects will be: global analysis, Hodge theory, PDE's on Manifolds, advanced Riemannian geometry etc.",
+      "Mots clés":"geometry, analysis",
+      "Prérequis":"Basic culture in geometry, smooth manifolds, tensors, measure theory and functional analysis",
+      "Objectifs d'apprentissage":"To lay some foundations in modern geometric analysis."
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Topics in geometric analysis I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

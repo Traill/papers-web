@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=232289783&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","482"],
+    "title":"Neurosciences II : cellular neuroscience and networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=232289783&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150822",
+      "name":"Markram Henry"
+    },{
+      "url":"http://people.epfl.ch/157467",
+      "name":"Petersen Carl"
+    },{
+      "url":"http://people.epfl.ch/169973",
+      "name":"Schneggenburger Ralf"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The brain processes information through the concerted activity of many neurons, which communicate with each other through synapses organised in highly dynamic networks.[br/]The first goal of this course is to gain a detailed understanding of the structure and function of the fundamental building blocks of the brain, its synapses and neurons. In considering this goal, we will also examine some basic methods including cellular electrophysiology and optical imaging. This will enable the student to critically evaluate how neurons are studied. The second goal is to learn how synaptic input is integrated and processed in single neurons based on the active and passive properties of axons and dendrites. Students will assemble their knowledge of synapses and neurons into a coherent picture of neuronal network function, with specific emphasis on the interactions of excitatory glutamatergic, inhibitory GABAergic neurons, plasticity and neuromodulation. The third goal, will be to place neuronal networks in the context of how they contribute to associative learning and sensory processing ultimately leading to behavioural decisions and motor output.",
+      "Content":"Passive neuronal membrane properties[br/]Excitability[br/]Synaptic transmission [br/]Glutamatergic synapses[br/]GABAergic synapses[br/]Dendritic integration[br/]Synaptic plasticity[br/]Motor control[br/]Touch and pain[br/]Vision [br/]Hearing[br/]Smell and taste[br/]Neuronal network modelling"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neurosciences II : cellular neuroscience and networks",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-695-3&amp;con_lng=ENG\" target=\"blank\">PNeuroscience / eds.: Dale Purves ... [et al.]</a>\". Year:2012. ISBN:978-0-87893-695-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150822",
+      "name":"Markram Henry"
+    },{
+      "url":"http://people.epfl.ch/157467",
+      "name":"Petersen Carl"
+    },{
+      "url":"http://people.epfl.ch/169973",
+      "name":"Schneggenburger Ralf"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Purves, Augustine et al. Neuroscience 5th edition 2011",
+      "Mots clés":"Neurons, synapses, neuronal networks, sensory processing",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"Propriétés membranaires passives du neurone[br/]Excitabilité[br/]Transmission synaptique[br/]Synapses glutamatergiques[br/]Synapses GABAergiques[br/]Intégration dendritique[br/]Plasticité synaptique[br/]Control moteur[br/]Toucher et douleur[br/]Vision[br/]Audition[br/]Odorat et goût[br/]Modélisation de réseaux neuronaux",
+      "Forme du contrôle":"Written exam",
+      "Préparation pour":"Master ",
+      "Objectifs d'apprentissage":"Le cerveau traite l'information par l'activité concertée de nombreux neurones qui communiquent entre eux via des synapses intégrées dans des réseaux hautement  dynamiques. [br/]Le premier objectif de ce module est d'acquérir une connaissance détaillée de la structure et de la fonction des unités fondamentales du cerveau que sont les synapses et les neurones. Tout en prenant en compte cet objectif, nous examinerons des méthodes expérimentales de base telles l'électrophysiologie cellulaire et l'imagerie optique. Ceci permettra aux étudiants d'évaluer d'un oeil critique la manière dont les neurones sont étudiés. [br/]Le second objectif est d'apprendre comment les contributions synaptiques sont intégrées et traitées par le neurone sur la base des propriétés électriques passives de ses axones et dendrites. [br/]Les étudiants rassembleront leurs connaissances de ces synapses et neurones en une image cohérente de la fonction des réseaux neuronaux, avec une emphase particulière sur les interactions des neurones excitatoires glutamatergiques et inhibitoires GABAergiques, la plasticité synaptique et la modulation neuronale. [br/]Le troisième objectif sera de placer les réseaux neuronaux dans le contexte de leurs contributions à l'apprentissage associatif et le traitement sensoriel débouchant sur une décision comportementale et son résultat moteur."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neurosciences II : cellular neuroscience and networks",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-695-3&amp;con_lng=FRE\" target=\"blank\">PNeuroscience / eds.: Dale Purves ... [et al.]</a>\". Année:2012. ISBN:978-0-87893-695-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

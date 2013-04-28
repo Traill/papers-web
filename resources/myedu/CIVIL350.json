@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348606196&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","350"],
+    "title":"Transport infrastructures design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348606196&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    },{
+      "url":"http://people.epfl.ch/106595",
+      "name":"Tzieropoulos Panagiotis"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li]To understand the fundamentals of transport facilities studies[br/][li]To be able to use this basic knowledge in project design[br/][li]To acquire the skills required in step-by-step designing a new transport facility or studying the improvement of an existing transport system or facility[br/][li]To learn how to comparatively assess alternatives",
+      "Content":"Introduction to transport[br/][li] System approach and trans-disciplinarity[br/][li] Technical, social, economic and environmental stakes[br/][br/]The making-up of a transport facilities project[br/][li] Fundamental choice elements et project parameters[br/][li] Life-cycle based alternatives assessment[br/][br/]Movement dynamics[br/][li] Mobile's (vehicle, train) characteristics and performance[br/][li] Interdependence with infrastructure's characteristics[br/][br/]Design of road and rail links[br/][li] Study of the alignment, geometric standards, and their relation with the target operating speed[br/][br/]Building transport links[br/][li] Constitution of a road and a rail infrastructure[br/][li] Static and dynamic traffic loads[br/][li] Sustainable building for the long run[br/][li] Maintenance issues during the life cycle[br/][br/]Introduction to railway operations[br/][li] Network operations and traffic control[br/][li] Safety and signalling system[br/][li] Rules and regulations[br/][br/]Urban facilities[br/][li] Design of urban networks and its specificities[br/][li] Urban road networks (intersections, traffic control, and traffic calming)[br/][li] Urban public transport[br/][br/]Environmental impacts[br/][li] Landscape, noise, air and water protection[br/][br/]Road safety[br/][li] Zone and risk assessment[br/][li] Planning for road safety[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Transport infrastructures design",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    },{
+      "url":"http://people.epfl.ch/106595",
+      "name":"Tzieropoulos Panagiotis"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, exercices en salle, visites",
+      "Contenu":"Introduction aux transports[br/][li] Approche par système et trans-disciplinarité[br/][li] Problématique technique, sociale, économique et environnementale[br/][br/]Paramètres d'un projet en moyens de transports[br/][li] Eléments de choix et paramètres du projet[br/][li] Evaluation de variantes sur le cycle de vie[br/][br/]Dynamique du  mouvement[br/][li] Caractéristiques et performances du véhicule[br/][li] Interdépendance avec les caractéristiques de l'infrastructure[br/][br/]Tracé des routes et voies ferrées[br/][li] Etude du tracé, des éléments géométriques et relations avec les vitesses[br/][br/]Construction des voies de transport[br/][li] Constitution des voies routières et  ferroviaires[br/][li] Charges appliquées et sollicitations [br/][li] Dimensionnement et comportement sur le long terme[br/][li] Problématique de la maintenance sur le cycle de vie[br/][br/]Introduction aux opérations ferroviaires[br/][li] Systèmes d'exploitation et régulation ferroviaire[br/][li] Sécurité et signalisation[br/][li] Règles et réglementation[br/][br/]Transports urbains[br/][li] Conception des réseaux urbains et de leurs aménagements[br/][li] Aménagement des voiries urbaines (noeuds, régulation et modération)[br/][li] Transports publics urbains[br/][br/]Impacts environnementaux[br/][li] Paysage, bruit, protection de l'air et des eaux[br/][br/]Sécurité routière[br/][li] Evaluation des secteurs à risques[br/][li] Aménagements favorables à la sécurité",
+      "Préparation pour":"Transportation Systems Engineering",
+      "Bibliographie et matériel":"Documents remis au cours",
+      "Objectifs d'apprentissage":"[li]Connaître les éléments intervenant dans les études liées aux infrastructures de transport[br/][li]Etre capable d'utiliser ces éléments pour réaliser un projet[br/][li]Savoir mener les étapes de conception  d'un nouveau projet d'une infrastructure ou d'étude d'un système de transport existant[br/][li]Pouvoir évaluer la valeur relative de plusieurs variantes"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conception des infrastructures de transport",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

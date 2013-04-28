@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499350331&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","470"],
+    "title":"Power systems dynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499350331&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To increase the knowledge of simulation methods and the role of computers in the management and the operation of modern electric power systems. At the end of the course, the students will be capable of analyzing and interpreting the behavior of a power system according to different operating states. They will be also capable of assessing critically the choice of power system component models, as well as the advantages and the limits of different numerical methods. The blackout phenomenon (ex: USA, Aug. 2003 and Italy, Sept. 2003) will be used among others as an illustration of this course.",
+      "Content":"[b]Role of simulation for power systems operation and planning[/b][br/][br/][b]Load-flow in steady-state balanced three-phase systems[/b][br/]Gauss-Seidel method. Newton-Raphson method. Active-reactive decoupling. Linearized method (DC flow).[br/][br/][b]Stability and dynamic behavior[/b][br/]Definitions: Steady-state, transient and long-term stability. General model of the power system. Direct methods. Time domain methods: partitioned approach, simultaneous approach, numerical integration methods.[br/][br/][b]Steady state stability and transient stability[/b][br/]Choice of generator and load models. Classical model of stability. Multi-machines stability. Application: case of one-machine connected to an infinite bus (equal-area criterion).[br/][br/][b]Long-term stability[/b][br/]Simulation of the dynamic behavior of the electric power system at the scale of minutes or several minutes after a disturbance. Modeling: primary and secondary frequency control, generators and loads.[br/][br/][b]Design and operation of simulation software[/b][br/]Case studies using an industrial simulation software (Eurostag).",
+      "Type of teaching":"Ex cathedra lectures with exercices and case studies",
+      "Form of examination":"Continuous control",
+      "Required prior knowledge":"Electric power systems"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power systems dynamics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-052-5&amp;con_lng=ENG\" target=\"blank\">Energie électrique / par Michel Aguet et Jean-Jacques Morf</a>\". Year:1990. ISBN:2-88074-052-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Réseaux électriques",
+      "Bibliographie et matériel":"Traité d'électricité, volume XII et notes de cours",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices et études de cas",
+      "Contenu":"[b]Rôle de la simulation pour la planification et l'exploitation des réseaux électriques[/b][br/][br/][b]Calcul de la répartition des puissances en régime permanent triphasé symétrique[/b][br/]Méthode de Gauss-Seidel. Méthode de Newton-Raphson. Découplage actif-réactif. Méthode linéarisée (DC flow).[br/][br/][b]Stabilité et comportement dynamique[/b][br/]Définitions: stabilité statique, transitoire et stabilité à long terme. Modèle général du réseau. Méthodes de calcul directes. Méthodes de calcul temporelles: approche partitionnée, approche simultanée; méthodes d'intégration numérique.[br/][br/][b]Stabilité statique et stabilité transitoire[/b][br/]Choix des modèles des générateurs et des charges. Modèle classique de stabilité. Stabilité multi-machines. Application: cas d'une machine reliée à un réseau infini (critère d'égalité des aires).[br/][br/][b]Stabilité à long terme[/b][br/]Simulation du comportement dynamique du réseau à l'échelle de minutes ou de dizaines de minutes après une perturbation. Modélisation: réglage primaire et secondaire de fréquence, générateurs et charges.[br/][br/][b]Conception et utilisation de programmes de calcul[/b][br/]Résolution de problèmes par les étudiants à l'aide d'un programme industriel (Eurostag).",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Etude approfondie de méthodes de simulation et du rôle de l'informatique pour la gestion et l'exploitation des réseaux électriques modernes. A la fin du cours, les étudiant(e)s seront capables d'analyser et d'interpréter le comportement d'un réseau pour différents régimes de fonctionnement. Ils seront également capables d'évaluer de façon critique le choix des modèles des éléments du réseau, ainsi que les avantages et les limites de différentes méthodes de calcul numérique. Le phénomène «black-out» (ex : USA, août 2003 et Italie, sept. 2003) sera utilisé comme l'une des illustrations de ce cours."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power systems dynamics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-052-5&amp;con_lng=FRE\" target=\"blank\">Energie électrique / par Michel Aguet et Jean-Jacques Morf</a>\". Année:1990. ISBN:2-88074-052-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

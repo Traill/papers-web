@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71646554&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","323"],
+    "title":"Operating systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71646554&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7241","http://moodle.epfl.ch/course/view.php?id=7241"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155705",
+      "name":"Zwaenepoel Willy"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will learn the role and the basic principles of an operating system, and the way it works.",
+      "Content":"Introduction to operating systems[br/]Functions of an operating system.[br/]Historical evolution and terminology: spooling, multiprogramming, batch,[br/]time-sharing, real-time. Micro-kernels.[br/][br/]Resource management[br/]Processor management.[br/]Main memory management: contiguous storage allocation, paging (virtual[br/]memory).[br/]Virtual machine.[br/]Information management[br/]File systems, logical and physical organization.[br/]Mass-Storage Structure[br/]I/O Systems[br/]Information sharing and protection: access matrix, limitation of 1 dimensional addressing mechanisms, segmentation, capability.[br/]Distributed File Systems[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra. Exercises on the computer",
+      "Form of examination":"Continuous, with final written exam.[br/]Midterm exam 30%, final exam 30%, homeworks 40%[br/]",
+      "Required prior knowledge":"CS-207 Systems programming"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Operating systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-12872-5&amp;con_lng=ENG\" target=\"blank\">Operating system concepts / Abraham Silberschatz, Peter Baer Galvin, Greg Gagne</a>\". Year:2008. ISBN:978-0-470-12872-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7241","http://moodle.epfl.ch/course/view.php?id=7241"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155705",
+      "name":"Zwaenepoel Willy"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra. Exercices sur ordinateur",
+      "Contenu":"Introduction aux systèmes d'exploitation[br/]Fonctions d'un système d'exploitation.[br/]Evolution historique des systèmes d'exploitation et terminologie:[br/]spooling, multiprogrammation, systèmes batch, temps partagé, temps[br/]réel. Concept de micro-noyau.[br/]Gestion des ressources[br/]Gestion du processeur.[br/]Gestion de la mémoire principale: gestion par zones, gestion par[br/]pages (mémoire virtuelle).[br/]Concept de machine virtuelle.[br/]Gestion de l'information[br/]Le système de fichiers, structure logique et organisation physique[br/]Unité de stockage de masse [br/]System E/S[br/]d'un fichier, contrôle des accès concurrents.[br/]Partage et protection de l'information: matrice des droits, limitation de[br/]l'adressage à 1 dimension, adressage segmenté, adressage par capacités.[br/]Système de fichiers décentralisés [br/]",
+      "Forme du contrôle":"Examen (ECRIT) avec contrôle continu[br/]examen intermédiaire 30%, examen final 30%, exercices 40%.[br/]",
+      "Prérequis":"CS-207 Programmation orientée système",
+      "Objectifs d'apprentissage":"L'étudiant apprendra le rôle, les principes de base et le  fonctionnement d'un système d'exploitation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Operating systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-12872-5&amp;con_lng=FRE\" target=\"blank\">Operating system concepts / Abraham Silberschatz, Peter Baer Galvin, Greg Gagne</a>\". Année:2008. ISBN:978-0-470-12872-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

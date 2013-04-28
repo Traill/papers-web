@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304307&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","724"],
+    "title":"Human language technology: applications to information access",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304307&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.idiap.ch/~apbelis/hlt-course/","http://www.idiap.ch/%7Eapbelis/hlt-course/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/191992",
+      "name":"Popescu-Belis Andrei"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Note":"The course includes lectures (2h) followed by laboratory exercises (2h) using freely-available software and language resources to perform one of the tasks introduced in the course and to illustrate the properties of one or several presented algorithms. The exercises will serve as starting points for the individual projects (graded based on report and oral defense at the end of the semester), on a topic to be chosen in agreement with the lecturer.  Once in the semester students will present a scientific article, and one laboratory exercise will be graded. [br/]",
+      "Form of examination":"Project report[br/]Oral presentation",
+      "Required prior knowledge":"At least one prior course in statistics, machine learning, computational linguistics, or artificial intelligence.  Programming proficiency in a language such as Perl or Java",
+      "Content":"The following technologies will be studied for each barrier to information access.  [br/]1. The quantity barrier: information retrieval, web search, document classification, topic models, learning to rank, question answering, recommender systems. [br/]2. The crosslingual barrier: machine translation (history of the field, presentation of rule-based and of statistical systems including phrase-based and tree-based ones, domain adaptation, the use of syntax and semantics), methods for text alignment, issues and metrics for MT evaluation, cross-language information retrieval. [br/]3. The subjective barrier: sentiment analysis, subjectivity detection, analysis of human exchanges (spoken or written) for information access, search within multimedia archives. [br/]4. Conclusion on the bases of HLT research: defining a problem, building reference data, finding features for machine learning algorithms, training the algorithms, evaluating and analyzing the performance.[br/]",
+      "Keywords":"Human language technology, language engineering, information retrieval, machine translation.",
+      "Learning outcomes":"This course introduces recent applications of human language technology (HLT), presenting the basic knowledge required to implement them, with an overview of possible alternatives, evaluation methods (including notions about evaluation campaigns), and challenges or limits of the state of the art.  The technologies focus on the problem of accessing text-based information across three main types of barriers: the quantity barrier (accessing information in very large repositories), the crosslingual barrier (accessing information across languages through machine translation), and the subjective barrier (accessing information that is enclosed in complex human interactions)."
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Human language technology: applications to information access",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.idiap.ch/~apbelis/hlt-course/","http://www.idiap.ch/%7Eapbelis/hlt-course/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/191992",
+      "name":"Popescu-Belis Andrei"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Human language technology: applications to information access",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

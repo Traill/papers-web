@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129608503&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","313"],
+    "title":"Introduction to the analytical number theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129608503&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178545",
+      "name":"Michel Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To present some of the basic methods available in number theory to count accurately arithmetical quantities such as integers of a given shapes, prime numbers in arithmetic progressions...[br/]",
+      "Content":"Arithmetic functions, Dirichlet convolution[br/]Primes: elementary methods[br/]Dirichlet characters[br/]Primes in arithmetic progressions[br/]Riemann's zeta function, Dirichlet L-functions[br/]Zero free regions and application to the counting of primes[br/]Sieve methods and applications",
+      "Type of teaching":"Ex cathedra lecture",
+      "Required prior knowledge":"Analysis"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to the analytical number theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2130418351&amp;con_lng=ENG\" target=\"blank\">Cours d'arithmétique / Jean-Pierre Serre</a>\". Year:1988. ISBN:978-2130418351</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-85629-161-9&amp;con_lng=ENG\" target=\"blank\">Un cours de théorie analytique des nombres / Emmanuel Kowalski</a>\". Year:2004. ISBN:2-85629-161-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178545",
+      "name":"Michel Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"Fonctions arithmétiques, convolution de Dirichlet[br/]Nombres premiers : méthodes élémentaires[br/]Caractères de Dirichlet[br/]Nombres premiers dans les progressions arithmétiques[br/]Fonction zêta de Riemann, fonctions L de Dirichlet[br/]Régions sans zéros et comptage des nombres premiers[br/]Méthodes de crible et applications",
+      "Prérequis":"Analyse",
+      "Bibliographie et matériel":"J-P. SERRE, Cours d'arithmétique.[br/]E. KOWALSKI, Un cours de théorie analytique des nombres.",
+      "Objectifs d'apprentissage":"Présenter les méthodes de bases qui sont disponibles en théorie des nombres pour évaluer de manière efficace diverses quantités de nature arithmétique : entiers de formes prescrites, nombres premiers, etc...."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à la théorie analytique des nombres",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2130418351&amp;con_lng=FRE\" target=\"blank\">Cours d'arithmétique / Jean-Pierre Serre</a>\". Année:1988. ISBN:978-2130418351</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-85629-161-9&amp;con_lng=FRE\" target=\"blank\">Un cours de théorie analytique des nombres / Emmanuel Kowalski</a>\". Année:2004. ISBN:2-85629-161-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

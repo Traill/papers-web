@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082255&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","602"],
+    "title":"Nanophotonics and plasmonics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082255&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://nam.epfl.ch","http://nam.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Plasmons are optical modes that occur in metals and semiconductors. This course focuses on metals and addresses the fundamental properties of plasmons and their applications for optical signal processing and biosensing. ",
+      "Content":"[li] Optics of metals and different models for their permittivity[br/][li] Localized plasmons on particles[br/][li] Plasmon-polaritons propagating on films[br/][li] Characterization, near-field microscopy, spectroscopy[br/][li] Plasmonic waveguides[br/][li] Passive and active plasmonic components[br/][li] Interactions with molecules, Raman, fluorescence, lifetime, quenching[br/][li] Plasmonic schemes for label-free sensing[br/]",
+      "Keywords":"Plasmons, polaritons, optics of metals, near-field, spectroscopy, sensing",
+      "Required prior knowledge":"[br/]Basic  physics (waves, electrodynamics, optics)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanophotonics and plasmonics",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://nam.epfl.ch","http://nam.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Optics of metals and different models for their permittivity[br/][li] Localized plasmons on particles[br/][li] Plasmon-polaritons propagating on films[br/][li] Characterization, near-field microscopy, spectroscopy[br/][li] Plasmonic waveguides[br/][li] Passive and active plasmonic components[br/][li] Interactions with molecules, Raman, fluorescence, lifetime, quenching[br/][li] Plasmonic schemes for label-free sensing",
+      "Mots clés":"Plasmons, polaritons, optics of metals, near-field, spectroscopy, sensing",
+      "Prérequis":"[br/]Basic  physics (waves, electrodynamics, optics)",
+      "Objectifs d'apprentissage":"Nanophotonics is a rapidly evolving field of photonics, which focuses on the control and manipulation of light at the subwave-length scale and finds a broad range of applications, from integrated optoelectronics to biological imaging. This course first presents the different physical mechanisms that lead to the polarization of matter and the localization of the electromagnetic near-field. The utilization of such confined fields in information transmission and imaging systems is then studied, including some modeling aspects."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanophotonics",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

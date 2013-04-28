@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774377&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","100"],
+    "title":"Introduction to computing systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774377&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://rdsg.epfl.ch/page-54167-en.html","http://rdsg.epfl.ch/page-54167-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106339",
+      "name":"Sanchez Eduardo"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Final exam 100%",
+      "Bibliography and material":"Cours polycopié[br/]J. S. Warford, Computer Systems, Jones and Bartlett Publishers, 1999",
+      "Prerequisite for":"Systèmes logiques, Architecture des ordinateurs, Programmation, Compiler construction, Systèmes d'exploitation",
+      "Content":"1.\tIntroduction.[br/]2.\tHistory of the computer.[br/]3.\tLevels of abstraction.[br/]4.\tHigh-order languages.[br/]5.\tInformation representation : numerical systems.[br/]6.\tInformation representation : integer and floating-point numbers.[br/]7.\tRepresentation of nonnumeric data.[br/]8.\tBasic organization of a von Neumann machine.[br/]9.\tAssembly language.[br/]10.\tLanguage translation principles.[br/]11.\tOperating systems.[br/]12.\tDigital systems : Boolean algebra.[br/]13.\tDigital systems : technological aspects.[br/]14.\tTest.  [br/][br/]    [br/]    [br/]    ",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"The goal is to establish the foundations of informatics, in order to better prepare the students for the more in-depth futur courses. Computing systems will be presented as a hierarchy of virtual machines, all of which will be described. The basic structure of computers will be explained, by showing how an instruction is performed and how different data types are represented. An introduction will be also given to operating systems, and to various tools and applications for software development (compiler, linker, loader, etc).[br/][br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to computing systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7637-7144-7&amp;con_lng=ENG\" target=\"blank\">Computer systems / J. Stanley Warford</a>\". Year:2010. ISBN:978-0-7637-7144-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://rdsg.epfl.ch/page-54167-en.html","http://rdsg.epfl.ch/page-54167-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106339",
+      "name":"Sanchez Eduardo"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Cours polycopié[br/]J. S. Warford, Computer Systems, Jones and Bartlett Publishers, 1999[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"1.\tIntroduction.[br/]2.\tHistoire de l'informatique.[br/]3.\tNiveaux d'abstraction.[br/]4.\tLangages de haut niveau.[br/]5.\tReprésentation de l'information : systèmes de numération.[br/]6.\tReprésentation de l'information : nombres entiers et réels.[br/]7.\tReprésentation de l'information non numérique.[br/]8.\tOrganisation de base d'une machine de von Neumann.[br/]9.\tLangages machine.[br/]10.\tTraduction des langages.[br/]11.\tSystèmes d'exploitation.[br/]12.\tSystèmes logiques : algèbre booléenne.[br/]13.\tSystèmes logiques : technologie.[br/]14.\tTest.  [br/]",
+      "Forme du contrôle":"Examen final 100%",
+      "Préparation pour":"Systèmes logiques, Architecture des ordinateurs, Programmation, Compiler construction, Systèmes d'exploitation",
+      "Objectifs d'apprentissage":"Le but est d'établir les fondations de l'informatique, afin de mieux préparer les étudiants aux cours d'approfondissements ultérieurs. Les systèmes informatiques seront présentés comme une hiérarchie des machines virtuelles, dont les différents rôles seront décrits. La structure de base des ordinateurs sera expliquée, en montrant comment une instruction est exécutée et comment les différents types de données sont représentés. Une introduction sera donnée également aux systèmes d'exploitation ainsi qu'aux différents outils et applications de développement du logiciel (compilateur, linker, loader, etc).[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction aux systèmes informatiques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7637-7144-7&amp;con_lng=FRE\" target=\"blank\">Computer systems / J. Stanley Warford</a>\". Année:2010. ISBN:978-0-7637-7144-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

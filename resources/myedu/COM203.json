@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773252&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["COM","203"],
+    "title":"Digital photography",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773252&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ivrg.epfl.ch/teaching/courses/dp","http://ivrg.epfl.ch/teaching/courses/dp"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125681",
+      "name":"Süsstrunk Sabine"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Exercises 30%, mid-term 20%, final exam 50%",
+      "Bibliography and material":"E. Allen and S. Triantaphillidou. The Manual of Photography, 10th edition, Focal Press, 2011",
+      "Required prior knowledge":"Linear Algebra",
+      "Content":"[i]Lectures:[/i][br/]- History of Photography[br/]- Physical Image Formation[br/]- Human Vision System[br/]- Light, Light Sources, and Photometry[br/]- Geometric Optics[br/]- Image Sampling and Quantization[br/]- Basic Image Filtering (Convolution, Fourier Domain)[br/]- Sensor Characteristics (Pixel size, Dynamic Range, Noise Resolution, OECF, CFA)[br/]- Incamera Processing[br/]- Encoding, Compression and File Formats[br/]- Displays[br/][br/][i]Exercises :[/i][br/]The exercises consist of implementing some of the topics discussed in class using Matlab and the students' own images.",
+      "Type of teaching":"Ex cathedra[br/]Exercises in Matlab",
+      "Learning outcomes":"This course enables the students to acquire a working knowledge of the components and processes of digital photography system."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Digital photography",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-005540-1&amp;con_lng=ENG\" target=\"blank\">Cours de traitement numérique de l'image / R. Bouillot</a>\". Year:2005. ISBN:978-2-10-005540-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-4148-4&amp;con_lng=ENG\" target=\"blank\">Digital color imaging handbook / ed. by Gaurav Sharma</a>\". Year:2003. ISBN:978-1-4200-4148-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-53244-9&amp;con_lng=ENG\" target=\"blank\">Digital color management : encoding solutions / Edward J. Giorgianni, Thomas E. Madden</a>\". Year:2008. ISBN:978-0-470-53244-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-505267-9&amp;con_lng=ENG\" target=\"blank\">Digital image processing / Rafael C. Gonzalez, Richard E. Woods</a>\". Year:2008. ISBN:978-0-13-505267-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8493-7364-0&amp;con_lng=ENG\" target=\"blank\">Image and video compression for multimedia engineering : fundamentals, algorithms, and standards / Yun Q. Shi, Huifang Sun</a>\". Year:2008. ISBN:978-0-8493-7364-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8493-3545-7&amp;con_lng=ENG\" target=\"blank\">Image sensors and signal processing for digital still cameras / ed. by Junichi Nakamura</a>\". Year:2006. ISBN:978-0-8493-3545-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-55860-276-3&amp;con_lng=ENG\" target=\"blank\">Principles of digital image synthesis / Andrew S. Glassner</a>\". Year:1995. ISBN:1-55860-276-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-412-80620-7&amp;con_lng=ENG\" target=\"blank\">The colour image processing handbook / ed. by S. J. Sangwine and R. E. N. Horne</a>\". Year:1998. ISBN:0-412-80620-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-08-092680-3&amp;con_lng=ENG\" target=\"blank\">The manual of photography / ed. by Elizabeth Allen, Sophie Triantaphillidou</a>\". Year:2011. ISBN:978-0-08-092680-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ivrg.epfl.ch/teaching/courses/dp","http://ivrg.epfl.ch/teaching/courses/dp"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125681",
+      "name":"Süsstrunk Sabine"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire",
+      "Bibliographie et matériel":"E. Allen and S. Triantaphillidou. The Manual of Photography, 10th edition, Focal Press, 2011",
+      "Forme d'enseignement":"Ex cathedra[br/]Exercices en Matlab",
+      "Contenu":"[i]Cours :[/i][br/]- Histoire de la photographie[br/]- Formation de l'image physique[br/]- Système visuel humain[br/]- Lumière, sources de lumière et photométrie[br/]- Optique géométrique[br/]- Echantillonnage et quantification de l'image[br/]- Les bases du filtrage de l'image (convolution, domaine de Fourier)[br/]- Caractéristiques des capteurs photosensibles (taille de pixl, dynamic range, bruit, résolution, OECF, CFA)[br/]- Traitement intra-appareil[br/]- Codage, compression et formats de fichier[br/]- Affichages[br/][br/][i]Exercices :[/i][br/]Les exercices consistent a des implémentations de certains des sujets discutés en classe avec utilisation de Matlab et images propres aux étudiants.[br/]",
+      "Forme du contrôle":"Exercices 30%, examen intermédiaire 20%, examen final 50%",
+      "Objectifs d'apprentissage":"Ce cours a pour but de permettre aux étudiants d'acquérir la maîtrise des composants et procédés des systèmes de photographie digitale."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Digital photography",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-005540-1&amp;con_lng=FRE\" target=\"blank\">Cours de traitement numérique de l'image / R. Bouillot</a>\". Année:2005. ISBN:978-2-10-005540-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-4148-4&amp;con_lng=FRE\" target=\"blank\">Digital color imaging handbook / ed. by Gaurav Sharma</a>\". Année:2003. ISBN:978-1-4200-4148-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-53244-9&amp;con_lng=FRE\" target=\"blank\">Digital color management : encoding solutions / Edward J. Giorgianni, Thomas E. Madden</a>\". Année:2008. ISBN:978-0-470-53244-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-505267-9&amp;con_lng=FRE\" target=\"blank\">Digital image processing / Rafael C. Gonzalez, Richard E. Woods</a>\". Année:2008. ISBN:978-0-13-505267-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8493-7364-0&amp;con_lng=FRE\" target=\"blank\">Image and video compression for multimedia engineering : fundamentals, algorithms, and standards / Yun Q. Shi, Huifang Sun</a>\". Année:2008. ISBN:978-0-8493-7364-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8493-3545-7&amp;con_lng=FRE\" target=\"blank\">Image sensors and signal processing for digital still cameras / ed. by Junichi Nakamura</a>\". Année:2006. ISBN:978-0-8493-3545-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-55860-276-3&amp;con_lng=FRE\" target=\"blank\">Principles of digital image synthesis / Andrew S. Glassner</a>\". Année:1995. ISBN:1-55860-276-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-412-80620-7&amp;con_lng=FRE\" target=\"blank\">The colour image processing handbook / ed. by S. J. Sangwine and R. E. N. Horne</a>\". Année:1998. ISBN:0-412-80620-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-08-092680-3&amp;con_lng=FRE\" target=\"blank\">The manual of photography / ed. by Elizabeth Allen, Sophie Triantaphillidou</a>\". Année:2011. ISBN:978-0-08-092680-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

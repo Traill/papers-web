@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71630377&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","478"],
+    "title":"Organic semiconductors",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71630377&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105997",
+      "name":"Nüesch Frank"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Acquire the fundamental knowledge to understand organic semiconductors based on conjugated molecules. Make the relationship between structure and property. Understand the major interaction mechanisms of light with organic matter, be it in synthetic or natural systems. Study of novel technologies that are utilizing organic semiconductors in the field of optoelectronics. Review of a scientific publication.",
+      "Content":"1. Conjugated molecules interacting with light (electronic orbitals, optical and electronic properties, photochemical reactions), biological systems[br/]2. Structure and properties of conjugated molecular materials (crystalline materials, polymers, liquid crystals)[br/]3. Applications in electronics and optoelectronics (LCD displays, solar cells, light-emitting diodes, transistors) [br/][br/]",
+      "Form of examination":"oral exam",
+      "Note":"LINK TO THE FOLLOWING COURSES : Organic electronic materials - Synthesis, applications, properties"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Organic semiconductors",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105997",
+      "name":"Nüesch Frank"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"LIAISON AVEC D'AUTRES COURS : Organic electronic materials - Synthesis, applications, properties",
+      "Contenu":"1. Molécules conjuguées interagissant avec la lumière (orbitales électroniques, propriétés optiques et électroniques, réactions photochimiques), systèmes biologiques[br/]2. Structure et propriétés des matériaux moléculaires conjugués (matériaux cristallins, polymères, cristaux liquides)[br/]3. Applications en électronique et optoélectronique (affichages LCD, cellules solaires, diodes électroluminescentes, transistors)",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Acquérir les bases fondamentales pour la compréhension des semiconducteurs organiques à base de molécules conjuguées. Relier structure et propriétés des semiconducteurs organiques. Comprendre les mécanismes principaux de l'interaction de la lumière avec la matière organique, aussi bien dans les systèmes synthétiques que naturels. Etude des nouvelles technologies qui utilisent des semiconducteurs organiques dans le domaine de l'optoélectronique. Analyse d'une publication scientifique. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Organic semiconductors",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

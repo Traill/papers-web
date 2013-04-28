@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770853&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","412"],
+    "title":"Chemical biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770853&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"CGC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123155",
+      "name":"Johnsson Kai"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction into concepts of chemical biology. Discussion of classic and recent examples from the literature.",
+      "Content":"[br/][li] Introduction of protein engineering[br/][br/][li] Directed evolution of protein function[br/][br/][li] Protein engineering of autofluorescent proteins[br/][br/][li] Chemical approaches to study kinase function[br/][br/][li] Chemical modification of proteins in living cells[br/][br/][li] Split protein sensors as tools to monitor protein-protein interactions[br/][br/][li] Incorporation of unnatural amino acids into proteins[br/][br/][li] Metabolic engineering[br/][br/][li] Engineering of biosynthesis of natural products[br/][br/][li] Chemical genetics[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical biology",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-3268-8&amp;con_lng=ENG\" target=\"blank\">Structure and mechanism in protein science : a guide to enzyme catalysis and protein folding / Alan Fersht</a>\". Year:2000. ISBN:0-7167-3268-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123155",
+      "name":"Johnsson Kai"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et présentations des étudiants",
+      "Contenu":"[br/][li] Introduction au génie protéinique[br/][br/][li] Evolution directe des fonctions protéiniques[br/][br/][li] Génie protéinique de protéines autofluorescentes[br/][br/][li] Approche chimique pour l'étude d'une fonction kinase[br/][br/][li] Modification chimique de protéines dans des cellules vivantes[br/][br/][li] Senseurs de protéines clivées comme outil pour visualiser les interactions protéine-protéine[br/][br/][li] Incorporation des acides aminés non-naturels dans les protéines[br/][br/][li] Génie métabolitique[br/][br/][li] Génie de la biosynthèse de produits naturels [br/][br/][li] Génétique chimique[br/]",
+      "Bibliographie et matériel":"\"Structure and Mechanism in Protein Science\", A. Fresh",
+      "Objectifs d'apprentissage":"Introduction aux concepts de biologie chimique. Discussion d'exemples classiques et récents de la littérature."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical biology",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-3268-8&amp;con_lng=FRE\" target=\"blank\">Structure and mechanism in protein science : a guide to enzyme catalysis and protein folding / Alan Fersht</a>\". Année:2000. ISBN:0-7167-3268-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

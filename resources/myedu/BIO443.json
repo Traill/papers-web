@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354986149&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","443"],
+    "title":"Fundamentals of biophotonics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354986149&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-B",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161458",
+      "name":"Radenovic Aleksandra"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of biophotonics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-24995-7&amp;con_lng=ENG\" target=\"blank\">Biophotonics : optical science and engineering for the 21st century / edited by Xun Shen and Roeland Van Wijk</a>\". Year:2005. ISBN:978-0-387-24995-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-28770-9&amp;con_lng=ENG\" target=\"blank\">Introduction to biophotonics / Paras N. Prasad</a>\". Year:2003. ISBN:0-471-28770-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-444-50974-7&amp;con_lng=ENG\" target=\"blank\">Optical biosensors : present and future / ed. by Frances S. Ligler and Chris A. Rowe Taitt</a>\". Year:2002. ISBN:0-444-50974-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-444-53125-4&amp;con_lng=ENG\" target=\"blank\">Optical biosensors : today and tomorrow / ed. by Frances S. Ligler ... [et al.]</a>\". Year:2008. ISBN:978-0-444-53125-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161458",
+      "name":"Radenovic Aleksandra"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physics and biology elementary bachelor degree courses[br/]Biomicroscopy I[br/]Biomicroscopy II[br/]",
+      "Bibliographie et matériel":"Handouts given during the course[br/]Introduction to Biophotonics[br/]Paras N. Prasad, John Wiley & Sons, Hoboken, New Jersey 2003[br/]Optical Biosensors[br/]Ligler, FS. and Rowe Taitt, CA. (2002), Elsevier[br/]Biophotonics: Optical Science and Engineering for the 21st Century[br/]Shen, X. and van Wijk, R. (Eds):Springer, Berlin, 2006[br/]Advances in Biophotonics[br/]Wilson, B.C., Tuchin, V.V. and Tanev, S. NATO Science Series: Life and Behavioural Sciences, Volume 369, IOS Press, Amsterdam, 2005",
+      "Forme d'enseignement":"Lectures and exercises",
+      "Contenu":"We will focus on aspects following biophotonics aspects: light - biological matter interactions, optical spectroscopies and their applications, lasers in biology and medicine, photobiology, optical imagery, optical biosensors, light as a therapeutic tool, micro-array technology, laser tweezers and emerging biophotonic technologies.",
+      "Forme du contrôle":"Written exam",
+      "Préparation pour":"Master in Bioengineering",
+      "Objectifs d'apprentissage":"The aims of the course are :[br/][br/][li] Understand light-biological matter interaction; such as absorption, emission, spectral response, reflection fluorescence, scattering, etc.[br/][li] Optical sources and detectors [br/][li] Extend this understanding to interaction with cells and tissue highlighting the physical characteristics used in the applications to follow [br/][li] Fluorophore development and functionality, fluorescence microscopy of the cell cycle [br/][li] Show some therapeutic applications of light (Photo-activation of drugs Photo-dynamic therapies Tissue engineering with light) [br/][li] Initiate the students to optical techniques applied to biological materials[br/][li] Give an overview of optical biosensor methods[br/]Fluorescent labeling and the mechanism of fluorescent resonant energy transfer (FRET), FLIM, FRAP, FCS: applications to biosensors, Raman-based biosensors.[br/]Labelfree: Surface Plasmon resonance (SPR) and dielectric waveguide methods, biosensors based on whispering gallery modes in microresonators.[br/][br/]At the end of the course, the student would have acquired the required knowledge to apprehend the future biophotonics practical applications."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of biophotonics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-24995-7&amp;con_lng=FRE\" target=\"blank\">Biophotonics : optical science and engineering for the 21st century / edited by Xun Shen and Roeland Van Wijk</a>\". Année:2005. ISBN:978-0-387-24995-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-28770-9&amp;con_lng=FRE\" target=\"blank\">Introduction to biophotonics / Paras N. Prasad</a>\". Année:2003. ISBN:0-471-28770-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-444-50974-7&amp;con_lng=FRE\" target=\"blank\">Optical biosensors : present and future / ed. by Frances S. Ligler and Chris A. Rowe Taitt</a>\". Année:2002. ISBN:0-444-50974-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-444-53125-4&amp;con_lng=FRE\" target=\"blank\">Optical biosensors : today and tomorrow / ed. by Frances S. Ligler ... [et al.]</a>\". Année:2008. ISBN:978-0-444-53125-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

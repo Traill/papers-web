@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=398901518&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","601"],
+    "title":"Topics in algorithmic game theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=398901518&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://roso.epfl.ch/games","http://roso.epfl.ch/games"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105665",
+      "name":"Liebling Thomas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Participants will have been made familiar with modern algorithmic game theoriy and applications in the design and operation of transportation and communication networks, in cost allocation, and in computation of economic equilibria. ",
+      "Content":"Theory:[br/][li] Non-cooperative games and linear programming [br/][li] Nash equilibria, the prize of anarchy, auctions, algorithms, complexity issues in computation and in imprlementability[br/][li] Subgame perfection. the folklore theorems, dynamic programming[br/][li] Notions of cooperative games, solution concepts, kernel, nucleolus and their computation[br/][br/]Applications: [br/][li] Modern approaches to scheduling and network design[br/][li] Fair cost allocations[br/]",
+      "Keywords":"games equilibria kernel transportation it network design",
+      "Note":"This course will bt held mainly as a Platonic seminar. Several recent publications will be treated in depth and discussed, upon presentation by participants  coached by the instructor.",
+      "Required prior knowledge":"Linear algebra, linear programming, elementary probability and stochastic processes"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in algorithmic game theory",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://roso.epfl.ch/games","http://roso.epfl.ch/games"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105665",
+      "name":"Liebling Thomas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course will bt held mainly as a Platonic seminar. Several recent publications will be treated in depth and discussed, upon presentation by participants  coached by the instructor.",
+      "Contenu":"Theory:[br/][li] Non-cooperative games and linear programming [br/][li] Nash equilibria, the prize of anarchy, auctions, algorithms, complexity issues in computation and in imprlementability[br/][li] Subgame perfection. the folklore theorems, dynamic programming[br/][li] Notions of cooperative games, solution concepts, kernel, nucleolus and their computation[br/][br/]Applications: [br/][li] Modern approaches to scheduling and network design[br/][li] Fair cost allocations",
+      "Mots clés":"games equilibria kernel transportation it network design",
+      "Prérequis":"Linear algebra, linear programming, elementary probability and stochastic processes",
+      "Objectifs d'apprentissage":"Participants will have been made familiar with modern algorithmic game theoriy and applications in the design and operation of transportation and communication networks, in cost allocation, and in computation of economic equilibria. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in algorithmic game theory",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

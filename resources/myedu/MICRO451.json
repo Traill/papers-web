@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824170994&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","451"],
+    "title":"Industrial and applied robotics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824170994&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104561",
+      "name":"Bleuler Hannes"
+    },{
+      "url":"http://people.epfl.ch/114980",
+      "name":"Bouri Mohamed"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral exam at the end of the semester",
+      "Bibliography and material":"Course support \"Robotique & Micro robotique\"",
+      "Required prior knowledge":"Systèmes vibratoires, Automatique I et II, Composants de la microtechnique I et II.",
+      "Content":"[b]Mechanical design[/b][br/][li]dynamic characterization[br/][li]materials[br/][li]guideways, bearings and transmissions[br/][li]flexure hinges[br/][b]Vacuum mechanisms[/b][br/][b]High precision robots[/b][br/][li]micro-actuators[br/][li]micro & nano-robots[br/][b]Peripherals[/b][br/][b]Medical robotics[/b][br/][b]Industrial applications and cost evaluation[/b][br/][b]Future perspectives of robotics[/b]",
+      "Keywords":"Robotics, Micro Robotics, Applications, Industrial Robotics, flexible guideways, Vacuum.",
+      "Type of teaching":"Courses ex cathedra + exercises.",
+      "Learning outcomes":"[li]Know the technology and the components related to industrial robotics and its applications.[br/][li]Master the mechanical design of industrial robots and the associated peripherals.[br/][li]Ability to take into account the constraints related to the high precision robotics (environment, components, guide ways, concepts, ...)[br/][li]Capability to evaluate a robotic system.[br/][li]Acquire the capacity to define a specification list and to design new robotic systems for innovative applications.[br/][li]Ability to take into account the constraints related to an industrial robotic application through lectures given by industrial people (Bosch Packaging Technology, Sysmelec, CSEM): cost evaluation, company performances, organization, applications, ...[br/][li]Acquire a futuristic vision of robotics.[br/][li]Know the particularities of medical robots"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Industrial and applied robotics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104561",
+      "name":"Bleuler Hannes"
+    },{
+      "url":"http://people.epfl.ch/114980",
+      "name":"Bouri Mohamed"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bases de la robotique, Systèmes vibratoires, Automatique I et II, Composants de la microtechnique I et II.",
+      "Bibliographie et matériel":"Polycopié \"Robotique & Micro robotique\"",
+      "Mots clés":"Robotique, Micro Robotique, Applications, Robotique industrielle, Guidages flexibles, Vide.",
+      "Forme d'enseignement":"Cours ex cathedra + exercices.",
+      "Contenu":"[b]Conception mécanique[/b][br/][li]Comportement dynamique[br/][li]Matériaux[br/][li]Guidages, transmissions[br/][li]Guidages flexibles[br/][b]Mécanismes fonctionnant dans le vide[/b][br/][b]Robots de haute précision[/b][br/][li]Micro-actionneurs[br/][li]Micro- et nano-robots[br/][b]Périphérie[/b][br/][b]Robotique Médicale[/b][br/][b]Applications industrielles et évaluation des coûts[/b][br/][b]Ouverture sur l'avenir de la robotique[/b]",
+      "Forme du contrôle":"Examen oral en fin de semestre.",
+      "Objectifs d'apprentissage":"[li]Connaitre la technologie et les composants liés à la robotique industrielle et ses applications.[br/][li]Maitriser la conception mécanique des robots industriels et de la périphérie associée.[br/][li]Capacité de prendre en compte les contraintes liées à la robotique de haute précision (environnement, composants, guidages, concepts, ...).[br/][li]Aptitude à évaluer un système robotique donné.[br/][li]Acquérir la capacité à définir un cahier des charges et à concevoir des systèmes robotisés nouveaux pour des applications novatrices.[br/][li]Capacité de prendre en compte les contraintes relatives à une application robotisée industrielle grâce à l'intervention d'industriels du domaine  (Bosch Packaging Technology, Sysmelec, CSEM): évaluation des coûts, performance d'une entreprise, organisation, applications, ...[br/][li]Acquérir une vision du futur de la robotique.[br/][li]Connaitre les particularités des robots médicaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Robotique industrielle et appliquée",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

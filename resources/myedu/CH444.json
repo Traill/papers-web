@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71877719&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","444"],
+    "title":"Electronic spectroscopy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71877719&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"CGC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122830",
+      "name":"Chergui Majed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Provide the basics of the electronic spectroscopy of dia- and polyatomic molecules. Present the experimental methodologies and techniques.[br/]",
+      "Content":"[br/][li] Review of quantum mechanics[br/][li] Interaction of electromagnetic radiation with atoms and molecules[br/][li] Atomic spectroscopy[br/][li] Electronic spectroscopy of diatomic molecules[br/][li] Electonic spectroscopy of polyatomic molecules[br/][li] Spectroscopy methods (photoelectron, Auger, X-ray and laser spectroscopies)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electronic spectroscopy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-470-84415-9&amp;con_lng=ENG\" target=\"blank\">Modern spectroscopy / J. Michael Hollas</a>\". Year:2004. ISBN:0-470-84415-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122830",
+      "name":"Chergui Majed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: Chimie quantique et Chimie physique expérimentale",
+      "Bibliographie et matériel":"Modern Spectroscopy (4ème édition) par J.M. Hollas (Wiley, Chichester 2004)",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"[br/][li] Rappel de mécanique quantique[br/][li] Interaction du rayonnement électromagnétique avec les atomes et molécules[br/][li] Spectroscopie électronique des molécules diatomiques[br/][li] Spectroscopie électronique des molécules polyatomiques[br/][li] Méthodes spectroscopiques (spectoscopie de photoélectrons, Auger, Rayon X et lasers)",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Donner les bases de la spectroscopie électronique des molécules dia- et polyatomiques. Présenter les méthodologies et techniques expérimentales. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electronic spectroscopy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-470-84415-9&amp;con_lng=FRE\" target=\"blank\">Modern spectroscopy / J. Michael Hollas</a>\". Année:2004. ISBN:0-470-84415-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

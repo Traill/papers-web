@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","201(b)"],
+    "title":"General physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107920",
+      "name":"Grioni Marco"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam. Optional test with bonus from 0.25 to 1 pt during the semester",
+      "Prerequisite for":"Electromagnetism II, advanced courses in electromagnetism, fluids mechanics, etc.",
+      "Required prior knowledge":"General Physics I, II; Analysis I, II",
+      "Content":"1. [b]Introduction to the physics of fluids[/b][br/]- Kinematics and dynamics of ideal fluids[br/]- Incompressible viscous fluids[br/]2. [b]Electrodynamics[/b][br/]- Electrostatics[br/]- Magnetostatics[br/]- Polarization and magnetization of matter[br/]- Induction[br/]- Maxwell's equations[br/]- Energy and momentum of the electromagnetic  [br/]   field[br/]- Radiation[br/]3. [b]Wave phenomena[/b][br/]- Wave propagation[br/]- Electromagnetic waves[br/]- Interference and diffraction[br/][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations, exercises in class",
+      "Learning outcomes":"The observation and quantitative description of some fundamental physical phenomena ; understanding the theoretical model and its applications to practical problems"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4875-7&amp;con_lng=ENG\" target=\"blank\">Physics for scientists and engineers : with modern, physics / John W. Jewett, Raymond A. Serway</a>\". Year:2010. ISBN:978-1-4390-4875-7</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107920",
+      "name":"Grioni Marco"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique générale I, II; Analyse I, II",
+      "Bibliographie et matériel":"Notes polycopiées[br/]R.A. Serway and J.W. Jewett \"Physics for scientists and Engineers with Modern Physics\", Brookes/Cole",
+      "Forme d'enseignement":"Ex cathedra avec expériences en salle, exercices en classe",
+      "Contenu":"[b]1. Introduction à la physique des fluides[/b][br/]- Cinématique et dynamique des fluids parfaits[br/]- Fluides visqueux incompressibles[br/][b]2. Électromagnétisme[/b][br/]- Électrostatique[br/]- Magnétostatique[br/]- Polarisation et aimantation de la matière[br/]- Induction[br/]- Equations de Maxwell[br/]- Energie et quantité de mouvement du champ [br/]  électromagnétique.[br/]- Rayonnement[br/][b]3. Phénomènes ondulatoires[/b][br/]- Propagation d'ondes[br/]- Ondes électromagnétiques[br/]- Interférence et diffraction",
+      "Forme du contrôle":"Examen écrit. Test facultatif avec bonus de 0.25 à 1 pt en cours de semestre",
+      "Préparation pour":"Electromagnétisme II, cours de spécialité en électromagnétisme, mécanique des fluides, etc.",
+      "Objectifs d'apprentissage":"L'observation et la description quantitative de phénomènes physiques fondamentaux ; la comphéhension du modèle théorique et son application aux problèmes pratiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4875-7&amp;con_lng=FRE\" target=\"blank\">Physics for scientists and engineers : with modern, physics / John W. Jewett, Raymond A. Serway</a>\". Année:2010. ISBN:978-1-4390-4875-7</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

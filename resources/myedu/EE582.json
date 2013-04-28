@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71621199&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","582"],
+    "title":"Lessons learned from the Space Exploration",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71621199&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173661",
+      "name":"Toussaint Marc JM R"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Semester continuous evaluation on the project",
+      "Bibliography and material":"Syllabus[br/]CD-Rom with reference documents ESA & NASA",
+      "Required prior knowledge":"Space technology and operations, C. Nicollier[br/]Space system engineering, M. Noca",
+      "Content":"[b]Introduction[/b][br/]The history of the space conquest and the origin of the first soviet successes, their working methodology, their way of designing, the technological limits. The Moon race, the reasons for the first space disasters and the soviet failure. The end of the Apollo programme.[br/][br/][b]Conception and Design of space vehicles[/b][br/]a. Soviet and American Space Stations[br/]The origin of the Soviet programme, Almaz, Salyut and Mir. The initial goals, the operational and human difficulties, the achieved results, the military space stations. The American programmes, MOL, Skylab and the ISS. The International cooperation.[br/][br/]b. The European launchers[br/]From Europa to Ariane, the initial concept, the successes of Ariane 4, the design evolution towards Ariane 5, the failures and the operational difficulties. The introduction of a launchers' family with Vega and Soyuz.[br/][br/]c. The NASA exploration programme[br/]The origin of the exploration programme, the Martian precursor missions, the project built-up and the new space vehicles, the recent programme evolutions - from Mars, to back to the Moon.[br/][br/][b]Project work[/b][br/]Set-up of students groups to define and conceive a project and defend it in the frame of the course. Follow-up and guidance when at EPFL, project final presentation and continuous evaluation during the semester.[br/]",
+      "Type of teaching":"Ex cathedra, English or French",
+      "Learning outcomes":"The main objective of the course is to present with a different viewpoint the reasons which lead to the choices and decisions in the space exploration and their consequences for the coming decades. Several past and present examples will be discussed. The lessons learned from the analysis for the young engineers willing to spent their professional life in the space domain will be elaborated."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lessons learned from the Space Exploration",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173661",
+      "name":"Toussaint Marc JM R"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Technologies et opérations spatiales, C. Nicollier[br/]Space system engineering, M. Noca",
+      "Bibliographie et matériel":"Syllabus du cours, avec références documentaires[br/]CD-ROM avec documents de référence ESA, NASA",
+      "Forme d'enseignement":"Ex cathedra, anglais ou français",
+      "Contenu":"[b]Introduction[/b][br/]L'historique de la conquête spatiale et l'origine des premiers succès soviétiques, leur méthode de travail, de conception, les limites technologiques. La course à la Lune, les raisons des premières catastrophes spatiales et de l'échec soviétique. La fin du programme Apollo.[br/][br/][b]La conception et le design d'engins spatiaux[/b][br/]a. Les stations spatiales soviétiques et américaines[br/]L'origine du programme soviétique, Almaz, Salyut et Mir. Les buts visés, les difficultés opérationnelles et humaines, les objectifs atteints, les stations spatiales militaires. Les programmes américains, MOL, Skylab et l'ISS. La coopération internationale.[br/][br/]b. Les lanceurs Européens[br/]De Europa à Ariane, la conception initiale, les succès d'Ariane 4, l'évolution du design vers Ariane 5, les échecs et les difficultés opérationnelles. L'introduction d'une famille de lanceurs avec Véga et Soyouz.[br/][br/]c. Le programme d'exploration de la NASA[br/]L'origine du programme d'exploration, les missions précurseurs martiennes, l'élaboration du projet et des nouveaux engins spatiaux, les évolutions récentes du programme - de Mars, au retour sur la Lune.[br/][br/][b]Travail sur un projet[/b][br/]Mise en place d'équipes d'étudiants devant concevoir un projet  et le défendre dans le cadre du cours. Suivi et orientation sur place, présentation et défense du projet, contrôle continu pendant le semestre.",
+      "Forme du contrôle":"Contrôle continu pendant le semestre sur le projet",
+      "Objectifs d'apprentissage":"L'objectif principal du cours est de présenter sous un angle différent les raisons qui ont conduit aux choix et décisions vécus dans l'exploration spatiale et leurs conséquences pour les prochaines décennies. Des exemples passés et présents seront discutés. Les enseignements à tirer et à retenir de cette analyse pour les jeunes ingénieurs qui veulent consacrer leur carrière professionnelle dans le domaine spatial seront élaborés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lessons learned from the Space Exploration",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

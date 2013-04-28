@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1648093907&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","713"],
+    "title":"Approximation Algorithms and Hardness of Approximation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1648093907&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://theory.epfl.ch/osven/courses/Approx13/","http://theory.epfl.ch/osven/courses/Approx13/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/231431",
+      "name":"Newman Alantha Landess"
+    },{
+      "url":"http://people.epfl.ch/213225",
+      "name":"Svensson Ola Nils Anders"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The goal of this course is twofold. First we aim to learn the powerful techniques used when designing approximation algorithms. Starting with basic techniques such as greedy and dynamic programming algorithms and then moving on to more powerful paradigms including the use and analysis of linear/semidefinite programs. Second we aim to learn the techniques for  analyzing our limitations by proving  so-called hardness of approximation results that are based on the now famous PCP-Theorem.[br/]The techniques for obtaining both kind of results have seen an incredible development during the last decade and we aim to understand them by studying famous applications. [br/]     [br/]",
+      "Content":"The exact topics to be covered will depend on our interests but a set of possibilities includes:[br/][br/]1. Combinatorial Algorithms (greedy algorithms, the local ratio technique). Possible applications: covering, packing, and scheduling problems.[br/][br/]2. Approximation to any degree: Some problems, such as Knapsack and Euclidean TSP allows for arbitrarily good approximation if we are willing to spend more time (a so called PTAS or FPTAS).[br/][br/]3. Linear Programming (randomized rounding, extreme point structure, primal-dual schema, iterative rounding). Examples of applications: Set cover, vertex cover, TSP, assignment problems, facility location, Steiner tree, degree bounded spanning trees. [br/][br/]4. Semidefinite Programming (hyperplane rounding). Most successful technique for problems with \"soft\" constraints, which may be violated by paying some additional costs. Examples of applications: Max Cut, Max-2-Sat.[br/][br/]5. Linear/Semidefinite  Programming  Hierarchies: Automatic ways of strengthening algorithms. Many new results based on the power of these methods that indicate further interesting developments. Example of application: Max Bisection.[br/][br/]6. Hardness of approximation: [br/]   - Dinur's proof of the PCP-theorem[br/]   - Tight hardness of Max 3-SAT (how to verify a proof by reading 3 bits) [br/]   - Unique Games Conjecture and its applications. For example, tight hardness of Max Cut and Vertex Cover.[br/] [br/]",
+      "Keywords":"Algorithms, Complexity Theory, Convex Optimization, Theoretical Computer Science",
+      "Form of examination":"Multiple",
+      "Required prior knowledge":"Mathematical maturity and basic background in algorithms and complexity theory. No previous experience with approximation algorithms is required. However, experience with algorithms beyond introductory level (i.e., advanced algorithms and discrete optimization) will be helpful. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Approximation Algorithms and Hardness of Approximation",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://theory.epfl.ch/osven/courses/Approx13/","http://theory.epfl.ch/osven/courses/Approx13/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/231431",
+      "name":"Newman Alantha Landess"
+    },{
+      "url":"http://people.epfl.ch/213225",
+      "name":"Svensson Ola Nils Anders"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Approximation Algorithms and Hardness of Approximation",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  }
+}

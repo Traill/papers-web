@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354366705&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","525"],
+    "title":"HF and VHF circuits and techniques II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354366705&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Master the design of circuits and systems at high frequency (HF) and very high frequency (VHF) (3 MHz-3GHz). This lecture is particularly oriented towards circuit aspects of modern communication systems.",
+      "Content":"1) HF PowerAmplifiers[br/]2) Mixers[br/]3) Oscillators[br/]4) Frequency Synthesizers[br/]5) Modulators and Demodulators (Circuit aspects)[br/]6) Transceivers Architecture[br/]7) Spread-Spectrum Techniques[br/]8) Aspects of Mobile Communications Systems: the GSM[br/]",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Form of examination":"Oral",
+      "Required prior knowledge":"HF and VHF circuits and techniques I"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"HF and VHF circuits and techniques II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Circuits et techniques HF et VHF I",
+      "Bibliographie et matériel":"Notes de cours polycopiées, articles techniques récents",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"1) Amplificateurs de puissance HF[br/]2) Mélangeurs[br/]3) Oscillateurs[br/]4) Synthétiseurs de fréquence[br/]5) Modulateurs et démodulateurs (aspects circuit)[br/]6) Architecture des émetteurs et récepteurs[br/]7) Technique de Spread Spectrum[br/]8) Aspects des communications mobiles: le GSM",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Maîtriser la conception des circuits et systèmes électroniques dans le domaine des hautes et très hautes fréquences (3 MHz-3GHz). Le cours est particulièrement orienté vers les aspects circuits des systèmes de communication modernes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"HF and VHF circuits and techniques II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

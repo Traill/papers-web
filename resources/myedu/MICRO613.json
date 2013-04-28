@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770718&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","613"],
+    "title":"Advanced design of digital VLSI systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770718&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course introduces the main concepts of digital system design and synthesis from the top-down design point-of-view. Various aspects of physical design automation, including system partitioning, floorplanning, block placement and routing are also discussed. Other subjects include technology-related limitations in very deep sub-micron CMOS design, power dissipation, interconnect delays and noise considerations.",
+      "Content":"1. [][][]Fundamental Aspects of Digital VLSI Design[br/]2. [][][]System Architecture Overview[br/]3. [][][]High Level Modeling[br/]4. [][][]Simulation and Verification[br/]5. [][][]Building Blocks for Complex Arithmetic Functions[br/]6. [][][]System Integration Issues[br/]7. [][][]Physical Design Automation[br/]8. [][][]Floorplanning and Block Placement[br/]9. [][][]Global Routing and Detailed Routing[br/]10. [][]Technology-Related Limitations[br/]11. [][]Power and Interconnect Considerations[br/]12. [][]Noise and Crosstalk issues in SoC Design",
+      "Keywords":"System Architecture, Arithmetic functions, Integration, Floorplanning, Placement, Routing, Interconnect",
+      "Required prior knowledge":"[li] Digital IC Design[br/][br/][li] Digital System Architecture"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced design of digital VLSI systems",
+    "recitation":null,
+    "exam_form":"Term paper",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. [][][]Fundamental Aspects of Digital VLSI Design[br/]2. [][][]System Architecture Overview[br/]3. [][][]High Level Modeling[br/]4. [][][]Simulation and Verification[br/]5. [][][]Building Blocks for Complex Arithmetic Functions[br/]6. [][][]System Integration Issues[br/]7. [][][]Physical Design Automation[br/]8. [][][]Floorplanning and Block Placement[br/]9. [][][]Global Routing and Detailed Routing[br/]10. [][]Technology-Related Limitations[br/]11. [][]Power and Interconnect Considerations[br/]12. [][]Noise and Crosstalk issues in SoC Design",
+      "Mots clés":"System Architecture, Arithmetic functions, Integration, Floorplanning, Placement, Routing, Interconnect",
+      "Prérequis":"[li] Digital IC Design[br/][br/][li] Digital System Architecture",
+      "Objectifs d'apprentissage":"This course introduces the main concepts of digital system design and synthesis from the top-down design point-of-view. Various aspects of physical design automation, including system partitioning, floorplanning, block placement and routing are also discussed. Other subjects include technology-related limitations in very deep sub-micron CMOS design, power dissipation, interconnect delays and noise considerations."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced design of digital VLSI systems",
+    "recitation":null,
+    "exam_form":"Mémoire",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  }
+}

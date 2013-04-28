@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2258965&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","491"],
+    "title":"Enterprise and service-oriented architecture",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2258965&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lams.epfl.ch/course/esoa","http://lams.epfl.ch/course/esoa"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112464",
+      "name":"Wegmann Alain"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The IT industry is going through a major shift with the notion of services. Engineers need to focus mainly on the service provided to the business and less on its implementation. In this course you will learn how to specify a hierarchy of services for a company, from the business service provided to the end customer to the IT service that prowers the business service. The skills taught in this course are essential if you are interested to become a consultant, an IT project manager, or need to specify IT system requirements.[br/][br/]In this course, you will : (1) Manage a (simulated) manufacturing company. (2) Specify the required business service and define the role of IT in providing this service. (3) Implement a prototype of the IT service.[br/][br/]In this course, we teach the theory only [b][u]after[/b][/u] the practical experimentation. [b][u]Without your active participation in the experimentation there will be no learning![/b][/u] This course mainly focuses on the business and IT strategies. No traditional programming is done in this course!",
+      "Content":"[b]1) Business Part (5 weeks) :[/b]practical experimentation and theoretical understanding of the key business processes of a manufacturing company : sale, development, planning, quality management and finance.[br/][b]2) Business / IT Part (7 weeks) :[/b]specification of customer service system. Taught techniques : interviews, root cause analysis, analysis/design of the services provided by the company and by the IT department.[br/][b]3) IT part (2 weeks) :[/b]implementation - using visual programming - of an IT system prototype. Overview of the service-oriented architecture (bpmn, wsdl, bpel) and of enterprise architecture (Zachman, TOGAF).",
+      "Type of teaching":"Problem-based teaching",
+      "Form of examination":"With continous control"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Enterprise and service-oriented architecture",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":6,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lams.epfl.ch/course/esoa","http://lams.epfl.ch/course/esoa"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112464",
+      "name":"Wegmann Alain"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Enseignement à base de problèmes",
+      "Contenu":"[b]1) Module métier (5 semaines) :[/b] expérience pratique et compréhension théorique des principaux processus métiers dans une entreprise de fabrication : vente, développement, planification, gestion qualité et finance.[br/][b]2) Module métier / informatique (7 semaines) :[/b]spécification d'un système de service après-vente. Techniques apprises : interviews, analyse de causes, analyse/design des services métiers et IT.[br/][b]3) Module informatique (2 semaines) :[/b]implémentation - en programmation visuelle - d'un prototype de système IT. Concepts d'architecture orientée service (bpmn, wsdl, bpel) et d'architecture d'entreprise (Zachman, TOGAF).",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Objectifs d'apprentissage":"La notion de service change fondamentalement l'industrie informatique. Les ingénieurs doivent se focaliser principalement sur le service rendu au métier et beaucoup moins sur sa réalisation. Ce cours enseigne comment spécifier et implémenter le service métier ainsi que le service informatique qui le supporte. Les compétences acquises dans ce cours sont essentielles pour tout étudiant intéressé au conseil, à la gestion de projet, ou à la spécification de système informatique.[br/][br/]Dans ce cours, les étudiants (1) gèrent un fabricant (entreprise simulée), (2) spécifie, pour cette entreprise, les services métiers et informatiques, (3) implémente un prototype de système informatique.[br/][br/]Dans ce cours, nous enseignons la théorie seulement [b][u]après[/b][/u] la pratique. [b][u]Sans participation active à la pratique, pas d'apprentissage![/b][/u] Ce cours se focalise principalement sur les stratégies commerciales et techniques. Pas de programmation traditionnelle dans ce cours!"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Enterprise and service-oriented architecture",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":6,
+      "weeks":14
+    }
+  }
+}

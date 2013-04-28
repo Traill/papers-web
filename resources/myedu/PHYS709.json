@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322469&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","709"],
+    "title":"Stellar evolution and nucleosynthesis (UNIGe)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322469&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"University of Geneva faculty members"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Introduction to the physical mechanisms governing stellar equilibrium, stellar evolution and nucleosynthesis.Study of evolution from star formation to supernovae and condensed remnants.",
+      "Content":"Mechanical equilibrium[br/]Thermal equilibrium and radiative transfer[br/]Nuclear reactions[br/]Numerical simulations[br/]Star formation and observations[br/]Hydrogen burning phase[br/]Helium burning and advanced nuclear phases[br/]Supernovae and nucleosynthesis[br/]White dwarfs, neutron stars and black holes[br/]Stellar pulsations[br/]Helioseismology and asteroseismology[br/][br/]Lecturer : Prof. Georges Meynet, Observatoire de Genève",
+      "Form of examination":"Written and oral exam.",
+      "Required prior knowledge":"Master, option astrophysics"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Stellar evolution and nucleosynthesis (UNIGe)",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"University of Geneva faculty members"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":null,
+    "free_text":{
+      "Prérequis":"Master, option astrophysics",
+      "Objectifs d'apprentissage":"Introduction to the physical mechanisms governing stellar equilibrium, stellar evolution and nucleosynthesis.Study of evolution from star formation to supernovae and condensed remnants."
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Stellar evolution and nucleosynthesis (UNIGe)",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  }
+}

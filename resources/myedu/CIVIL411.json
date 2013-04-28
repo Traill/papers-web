@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770632&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","411"],
+    "title":"Dams and appurtenant hydraulic structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770632&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The students should be able to analyse the elements to be considered in the selection and design of the type of dams and to compare the different solutions from technical, economical and environmental point of view.[br/]",
+      "Content":"[br/][li]\tObjectives, advantages and detrimental effects of dams, impact on environment.[br/][li]\tTypes of dams and its advantages, selection criteria.[br/][li]\tConcrete dams: design criteria. Determination of forces and stresses in gravity, buttress and arch dams. Behaviour during earthquakes. Construction details.[br/][li]\tSpecial foundation problems and uplift. Grout and drainage curtain. [br/][li]\tParticularities of mass concrete: construction modes, heating effects.[br/][li]\tMonitoring and measurement equipment for dam monitoring. Safety concept and risk management.[br/][li]\tEarth/rockfill and roller compacted concrete dams: Typical cross section and selection criteria. Leakage control: concrete faced rock fill dams, clay core, asphaltic membrane, homogeneous  earthfill dams. Foundation treatments. Stability calculations. Behavior during earthquakes. Surface protection. [br/][li]\tInteraction of dam with appurtenant structures (spillway, bottom outlet, intake, diversion, powerhouse, etc.) and its layout.[br/][br/][br/][br/] [br/][br/][br/]",
+      "Required prior knowledge":"Soil and rock mechanics, Hydraulic structures and schemes I, Hydrology, Concrete structures"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dams and appurtenant hydraulic structures",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-831-9&amp;con_lng=ENG\" target=\"blank\">Les barrages : du projet à la mise en service / Anton J. Schleiss et Henri Pougatsch</a>\". Year:2011. ISBN:978-2-88074-831-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique des sols et des roches, Aménagements hydrauliques I, Hydrologie, Structures en béton",
+      "Bibliographie et matériel":"Livre \"Barrages\" TGC Vol.17, édition 2011.",
+      "Forme d'enseignement":"Ex cathedra avec exercices pendant le cours.",
+      "Contenu":"[br/][li]\tButs, avantages et effets nuisibles des barrages, l'impact sur l'environnement.[br/][li]\tTypes de barrages et leurs avantages, critères de choix.[br/][li]\tBarrages en béton: critères de la conception. Calculs des efforts et contraintes dans les barrages-poids, les barrages à contreforts et les barrages-voûtes. Comportement en cas de séisme. Détails constructifs.[br/][li]\tProblèmes particuliers de fondations et des souspressions. Ecran de drainage et d'étanchéité. [br/][li]\tSpécificités du béton de masse: mode de construction, effet d'échauffement.[br/][li]\tSurveillance et équipements pour l'auscultation des barrages. Concept de sécurité et gestion des risques.[br/][li]\tDigues en terre ou enrochements et barrages en béton compacté au rouleau: Profils types et critères de choix. Systèmes d'étanchéité: masque amont, noyau en argile, membrane interne, digues homogènes. Traitement des fondations. Calculs de stabilité. Comportement en cas de séisme. Contrôles pendant l'exécution et l'exploitation. Protection de surface. [br/][li]\tInteraction barrage-ouvrages annexes. Disposition des ouvrages (évacuateur de crues, vidange de fond, prise d'eau, dérivation, centrale, etc.). [br/]",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Les étudiants seront capables d'analyser les éléments à considérer pour le choix et le dimensionnement des différents types de barrages et de comparer différentes solutions du point de vue technique, économique et environnemental. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Barrages et ouvrages hydrauliques annexes",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-831-9&amp;con_lng=FRE\" target=\"blank\">Les barrages : du projet à la mise en service / Anton J. Schleiss et Henri Pougatsch</a>\". Année:2011. ISBN:978-2-88074-831-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

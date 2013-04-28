@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47572541&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","424"],
+    "title":"Water resources engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47572541&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182281",
+      "name":"Rinaldo Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Homework assignments 30%, Final exam in the post-semester exam period 70%",
+      "Required prior knowledge":"Hydrology, elementary fluids mechanics, MatLab",
+      "Content":"[li]\tWater use and water withdrawals;[br/][li]\tCrop and irrigation water needs;[br/][li]\tMultipurpose water reservoir managements (irrigation, water use, flood control, energy production);[br/][li]\tWater distribution engineering;[br/][li]\tFlood protection.[br/]",
+      "Keywords":"Hydrologic modeling; water management; floods, droughts and a fair distribution of water",
+      "Type of teaching":"Ex cathedra teaching, exercises  ",
+      "Learning outcomes":"[li]\tPrinciples of Water Resources Management;[br/][li]\tHydrological and hydraulic engineering;[br/][li]\tPrinciples of provision of reliable supplies of drinking and irrigation water;[br/][li]\tPrinciples of protection of aquatic ecosystems;[br/][li]\tPrinciples of flood engineering.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Water resources engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-70524-1&amp;con_lng=ENG\" target=\"blank\">Water resources engineering / Larry W. Mays</a>\". Year:2005. ISBN:0-471-70524-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182281",
+      "name":"Rinaldo Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Hydrologie, mécaniques des fluides élémentaire, Matlab",
+      "Bibliographie et matériel":"Textbook: Mays L.W., Water Resources Engineering, Wiley, New York, 2005",
+      "Mots clés":"Modèle hydrologique, gestion de l'eau, crues, sécheresses et une distribution d'eau équitable",
+      "Forme d'enseignement":"Ex cathedra, exercices",
+      "Contenu":"[li]\tUsage d'eau et les prélèvements d'eau;[br/][li]\tBesoins d'irrigation et des cultures;[br/][li]\tUsages multiples de gestion des retenues d'eau (irrigation, [br/][li]    Utilisation de l'eau, minimiser les effets des crues, production d'énergie);[br/][li]\tIngénierie de la distribution d'eau;[br/][li]\tProtection des crues.[br/]",
+      "Forme du contrôle":"Devoirs 30%, Examen final pendant la session d'examen 70%",
+      "Objectifs d'apprentissage":"[li]\tPrincipes de gestion des ressources en eau; [br/][li]\tGénie hydrologique et hydraulique; [br/][li]\tPrincipes de la fourniture d'un approvisionnement fiable d'eau potable et d'irrigation; [br/][li]\tPrincipes de protection des écosystèmes aquatiques; [br/][li]\tPrincipes de l'ingénierie des inondations.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Water resources engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-70524-1&amp;con_lng=FRE\" target=\"blank\">Water resources engineering / Larry W. Mays</a>\". Année:2005. ISBN:0-471-70524-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

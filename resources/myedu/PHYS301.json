@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772265&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","301"],
+    "title":"Biophysics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772265&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"PH",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105816",
+      "name":"Meister Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To analyze functions and properties of living cells by the laws of physics, together with some models to interpret them.",
+      "Content":"[b]Introduction to cell biophysics[/b][br/][br/][b]Mechanisms of biological mass transport[/b][br/]- Thermodynamics tools[br/]- Diffusion, osmosis[br/]- Mass transport through a membrane[br/]- Facilitated diffusion and active transport[br/]- Pumps across membranes[br/][br/][b]Bioelectricity[/b][br/]- Resting membrane potential and action potential[br/]- Hodgkin - Huxley membrane model[br/]- Electrophysiology of excitable  cells[br/]- Extracellular potential, example of the electrocardiogram[br/][br/][b]Cell cytoskeleton[/b][br/]- Actin filaments: rheology and networks[br/]- Microtubules: dynamical instability, mechanical behavior[br/]- Intermediate filaments: function and properties[br/][br/][b]Molecular motors[/b][br/]- Myosins, dyneins and kinesins[br/]- Short duty ratio and processive motors[br/]- Single molecule force measurements[br/][br/][b]Mechanisms of muscle contraction[/b][br/]- Contraction of a muscle fiber[br/]- Huxley's molecular model[br/]- Analysis of isometric and isotonic contraction[br/]- Energy and muscle contraction[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises in classrooms",
+      "Form of examination":"Written exam at the end of the semester"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biophysics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105816",
+      "name":"Meister Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique et mathématiques du cycle propédeutique et 2e année",
+      "Bibliographie et matériel":"Polycopié, corrigés d'exercices.",
+      "Forme d'enseignement":"Ex cathedra et exercices dirigés en classe.",
+      "Contenu":"[b]Introduction à la biophysique cellulaire[/b][br/][br/][b]Mécanismes de transport de substances[/b][br/]- Bases thermodynamiques[br/]- Diffusion, osmose[br/]- Transport de substances à travers une membrane[br/]- Diffusion facilitée et transport actif[br/]- Pompes de la membrane cellulaire[br/][br/][b]Bioélectricité[/b][br/]- Potentiel transmembranaire de repos, potentiel d'action[br/]- Courant transmembranaire: Modèle de Hodgkin - Huxley[br/]- Electrophysiologie des cellules excitables[br/]- Potentiel extracellulaire, exemple de l'électrocardiogramme[br/][br/][b]Cytosquelette cellulaire[/b][br/]- Filaments d'actine: rhéologie et réseaux[br/]- Microtubules: instabilité, comportement mécanique[br/]- Filaments intermédiaires: fonction et propriétés[br/][br/][b]Moteurs moléculaires[/b][br/]- Myosines, kinésines et dynéines[br/]- Moteurs coopératifs et processifs[br/]- Mesure de forces à l'échelle moléculaire[br/][br/][b]Mécanisme de la contraction musculaire[/b][br/]- Contraction d'une fibre musculaire[br/]- Modèle moléculaire de Huxley[br/]- Contractions isométrique et isotonique[br/]- Energétique de la contraction",
+      "Forme du contrôle":"Examen écrit en fin de semestre",
+      "Objectifs d'apprentissage":"Décrire les fonctions et propriétés principales des cellules par les lois et modèles de la physique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biophysique I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

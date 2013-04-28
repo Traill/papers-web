@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","232"],
+    "title":"Probabilities and statistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Bibliography and material":"See URL of the lecture",
+      "Prerequisite for":"Electrometry, Theory of Signal, Telecommunication, Information and coding, fiability",
+      "Required prior knowledge":"Analysis I, II",
+      "Content":"Elementary combinatorial analysis: Review of elements of set theory and counting problems.[br/][br/]Elementary probability: Probability distributions, independent events, conditional probability.[br/][br/]Repeating random experiments: Bernoulli trials, binomial, geometric, negative binomial and hypergeometric probability distributions, limit theorems, random walk.[br/][br/]Random variables: discrete and continuous random variables, expectation, variance and covariance, moment generating function, change of variables technique, joint random variables, independent random variables.[br/][br/]Independent random variables and limit theorems: Sums of independent random variables, laws of large numbers, central limit theorem and applications[br/][br/]Bayesian inference and likelihood, maximum likelihood estimation, Gaussian and other elementary examples, confidence intervals, hypothesis testing.[br/][br/]Other topics as time permits, chosen from simulation, Poisson processes, inference.",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Learning outcomes":"To present the fundamental concepts and methods of probability theory and statistics."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilities and statistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-738-1&amp;con_lng=ENG\" target=\"blank\">Initiation aux probabilités / Sheldon M. Ross</a>\". Year:2007. ISBN:978-2-88074-738-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I, II",
+      "Bibliographie et matériel":"Matériel pédagogique : Initiation aux probabilités, S. Ross (recommandé)",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe",
+      "Contenu":"Combinatoire élémentaire : Rappel des notions de la théorie des ensembles et des notions de combinatoire.[br/][br/]Notions de probabilités : Distributions de probabilités, indépendance, probabilités conditionnelles.[br/][br/]Suites d'expériences aléatoires : Le schéma de Bernoulli, lois binomiales, géométriques, binomiales négatives et hypergéométriques, théorèmes limites.[br/][br/]Variables aléatoires discrètes et continues, espérance, variance et covariance, changement des variables, couples de variables aléatoires, variables aléatoires indépendantes.[br/][br/]Variables aléatoires indépendantes et théorèmes limites : Somme de variables aléatoires indépendantes, lois des grands nombres, théorème central limite, la pratique du théorème central limite.[br/][br/]Inférence bayesienne et la vraisemblance, maximum de vraisemblance, échantillons gaussiens et autres cas élémentaires, intervalles de confiance, tests.[br/][br/]Autres sujets choisis parmi simulation, processus de Poisson, inférence statistique.[br/]",
+      "Préparation pour":"Electrométrie, Théorie du signal, Télécommunications, Information et codage, fiabilités",
+      "Objectifs d'apprentissage":"Présenter les notions et méthodes fondamentales des probabilités et quelques méthodes statistiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilités et statistique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-738-1&amp;con_lng=FRE\" target=\"blank\">Initiation aux probabilités / Sheldon M. Ross</a>\". Année:2007. ISBN:978-2-88074-738-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

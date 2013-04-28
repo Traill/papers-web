@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775382&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","419"],
+    "title":"Solid state physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775382&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159141",
+      "name":"Mila Frédéric"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam. Optional presentations during the semester giving the right to choose the first topic of the oral exam.",
+      "Bibliography and material":"Lecture notes",
+      "Prerequisite for":"Solid state physics IV",
+      "Required prior knowledge":"Good grasp of quantum mechanics and solid state physics say at the level of [i]\"Lectures on quantum mechanics\"[/i] by Gordon Baym and [i]\"Solid state physics\"[/i] by Ashcroft and Mermin",
+      "Content":"[b]Magnetism of insulators[/b][br/][br/]- Review of band theory[br/]- Mott insulators and Hubbard model[br/]- Heisenberg model[br/]- Spin-wave theory of ferromagnets and antiferromagnets[br/][br/][b]Orbital magnetism of metals and semiconductors[/b][br/][br/]- Landau levels[br/]- De Haas-Van Alphen and Shubnikov-de Haas oscillations[br/]- 2D electron gas: Integer and fractional Quantum Hall effects[br/][br/][b]Theory of superconductivity[/b][br/][br/]- Electron-phonon interaction[br/]- BCS theory[br/]- Landau-Ginsburg theory[br/]- Flux quantization and Josephson effect[br/]",
+      "Type of teaching":"Ex cathedra. Exercises in class",
+      "Learning outcomes":"The aim of this course is to provide an introduction to the theory of a few remarkable phenomena of condensed matter physics ranging from the Quantum Hall effects to superconductivity. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Solid state physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-981-02-2474-5&amp;con_lng=ENG\" target=\"blank\">Lecture notes on electron correlation and magnetism / Patrik Fazekas</a>\". Year:2008. ISBN:978-981-02-2474-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850756-9&amp;con_lng=ENG\" target=\"blank\">Superconductivity, superfluids, and condensates / James F. Annett</a>\". Year:2004. ISBN:0-19-850756-9</li><li>\"Théorie quantique du solide / par C. Kittel\". Year:1967</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159141",
+      "name":"Mila Frédéric"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Maîtrise de la physique quantique et de la physique du solide au niveau de [i]\"Lectures on quantum mechanics\"[/i] par Gordon Baym ou de [i]\"Solid state physics\"[/i] par Ashcroft et Mermin",
+      "Bibliographie et matériel":"Notes de cours[br/]",
+      "Forme d'enseignement":"Ex cathedra. Exercices en salle",
+      "Contenu":"[b]Magnétisme des isolants[/b][br/][br/]- Rappels de théorie des bandes[br/]- Isolants de Mott et modèle de Hubbard[br/]- Modèle de Heisenberg[br/]- Théorie des ondes de spin pour les systèmes ferromagnétiques et antiferromagnétiques[br/][br/][b]Magnétisme orbital des métaux et des semiconducteurs[/b][br/][br/]- Niveaux de Landau[br/]- Oscillations de De Haas-Van Alphen et de Shubnikov-De Haas[br/]- Gaz d'électrons 2D: effet Hall quantique entier et fractionnaire[br/][br/][b]Théorie de la supraconductivité[/b][br/][br/]- Interaction électron-phonon[br/]- Théorie BCS[br/]- Théorie de Landau-Ginsburg[br/]- Quantification du flux et effet Josephson[br/]",
+      "Forme du contrôle":"Examen oral. Exposés facultatifs en cours de semestre donnant le droit de choisir le premier sujet de l'examen oral.",
+      "Préparation pour":"Physique du solide IV",
+      "Objectifs d'apprentissage":"Le but de ce cours est de proposer une introduction à la théorie de quelques phénomènes remarquables en matière condensée tels que l'effet Hall quantique ou la supraconductivité. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique du solide III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-981-02-2474-5&amp;con_lng=FRE\" target=\"blank\">Lecture notes on electron correlation and magnetism / Patrik Fazekas</a>\". Année:2008. ISBN:978-981-02-2474-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850756-9&amp;con_lng=FRE\" target=\"blank\">Superconductivity, superfluids, and condensates / James F. Annett</a>\". Année:2004. ISBN:0-19-850756-9</li><li>\"Théorie quantique du solide / par C. Kittel\". Année:1967</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

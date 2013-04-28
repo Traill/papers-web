@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777132&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","455"],
+    "title":"Thermal turbomachines",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777132&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106017",
+      "name":"Ott Peter"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"A printed version of the lecture can be ordered.",
+      "Required prior knowledge":"Introduction to turbomachinery, Fluid mechanics, Heat and mass transfer, Material sciences, Applied dynamics, Conception",
+      "Content":"1. Types of turbine stages, degree of reaction, efficiency, multistage turbines[br/]2. Types of compressor stages, degree of reaction, efficiency, multistage axial compressors, radial compressors[br/]3. Non-dimensional characteristic terms for turbomachines, definitions, typical values[br/]4. Flow through blade rows of blades, forces on blades, flow deviation and losses past turbine blades[br/]5. Performance characteristics of turbines and of compressors, operation of a compressor with receiver, regulation[br/]6. Similarity methods applied to the operating regimes of turbomachines[br/]7. Calculation methods applied to flow through cascades[br/]8. Three-dimensional flow in turbomachinery, radial equilibrium, design of blades for three-dimensional flow[br/]9. Transonic flows in turbomachinery[br/]10. Vibrations in turbomachinery (i.e. blade flutter)",
+      "Keywords":"Conversion of energy, axial and radial turbomachinery, internal flow, flow regimes",
+      "Type of teaching":"Lecture including exercises",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Link flow behaviour with non-dimensional parameters (e.g. Reynolds and Mach numbers), AH2[br/][li]Identify the crucial aspects present in a real flow in order to propose an appropriate modelling, AH10[br/][li]Describe flow in simple geometries, such as over a flat plate, in a tube, or around a sphere of airfoil, AH11[br/][li]Analyze the flow in water and gas turbines; know how to dimension the important elements of turbomachinery, AH14[br/][li]Apply the method of characteristics to the analysis of supersonic flows, AH21[br/][li]Resolve analytically or numerically the potential flow around an airfoil, AH25[br/][li]Compute the thermodynamic properties of a fluid, E2[br/][li]Compute the main thermodynamic transformations of compressible and incompressible fluids, E4[br/][li]Master the concepts of thermodynamic efficiency, E6[br/][br/][br/][br/][b]Transversal skills:[/b][br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20[br/][li]Be interested in the evolution of the profession, T24"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Thermal turbomachines",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106017",
+      "name":"Ott Peter"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction aux turbomachines, Mécanique des fluides, Transfert de chaleur et de masse, Science des matériaux, Dynamique appliquée, Construction",
+      "Bibliographie et matériel":"Le support du cours peut être commandé au secrétariat du GTT (bureau ME A2 444)",
+      "Mots clés":"Conversion d'énergie, turbomachines axiales et radiales, écoulements internes, régimes d'écoulement",
+      "Forme d'enseignement":"ex cathedra avec exercices",
+      "Contenu":"1. Types d'étages de turbine, degré de réaction, rendement, turbines[br/]multi-étages, turbines radiales[br/]2. Types d'étages de compresseur, degré de réaction, rendement,[br/]compresseurs axiaux multi-étages, compresseur radial[br/]3. Chiffres caractéristiques adimensionnels des turbomachines, définitions, valeurs typiques[br/]4. Écoulement dans des grilles d'aubes, efforts sur l'aube, déviation de l'écoulement et pertes dans les aubages[br/]5. Caractéristiques de fonctionnement d'une turbine et d'un compresseur, fonctionnement d'un compresseur avec récepteur, réglage[br/]6. Similitude des régimes de fonctionnement des turbomachines[br/]7. Méthodes de calcul de l'écoulement dans des grilles d'aubes[br/]8. Écoulement tridimensionnel dans l'aubage des turbomachines, équilibre radial, conception des aubages pour l'écoulement tridimensionnel[br/]9. Ecoulements transsoniques dans les turbomachines[br/]10. Vibrations dans les turbomachines (p.ex. flottement d'aubes)",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Relier les comportements des écoulements aux paramètres adimensionnels (nombre de Reynolds, Mach, etc.), AH2[br/][li]Identifier les aspects cruciaux présents dans un écoulement réel afin de proposer une modélisation appropriée, AH10[br/][li]Décrire l'écoulement dans des géométries simples, tel que sur une plaque plane, dans une tuyère ou autour d'une sphère ou un profil, AH11[br/][li]Analyser l'écoulement dans des turbomachines hydrauliques et thermiques; savoir dimensionner les éléments importants d'une turbomachine, AH14[br/][li]Appliquer la méthode des caractéristiques pour analyser les écoulements supersoniques, AH21[br/][li]Résoudre analytiquement ou numériquement l'écoulement potentiel autour d'un profil d'aile, AH25[br/][li]Calculer les propriétés thermodynamiques d'un fluide, E2[br/][li]Calculer les principales transformations thermodynamiques des fluides compressibles et incompressibles, E4[br/][li]Maîtriser les notions de rendements thermodynamiques, E6[br/][br/][b]Compétences transversales:[/b][br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20[br/][li]Faire preuve de curiosité pour les évolutions de la profession, T24"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Turbomachines thermiques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

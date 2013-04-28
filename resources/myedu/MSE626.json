@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1574856308&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","626"],
+    "title":"Textiles and textile composites",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1574856308&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131763",
+      "name":"Verpoest Ignaas Herman Johannes"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"Lecture 1: Introduction: Textiles as composites reinforcements. [br/][li]General terms and definitions of textile materials science.[br/][li]One-dimensional preforms: Textile yarns as reinforcements[br/][br/]Lecture 2: Two-dimensional preforms: [br/][li]General features of textile fabrics as reinforcements. [br/][li]Random fibre preforms [br/][li]Uni-directional preforms: one- and multiple layer[br/][br/]Lecture 3: Two-dimensional performs-2:[br/][li]Woven performs[br/][li]Braided preforms. Knitted preforms.[br/][br/]Lecture 4: Three-dimensional preforms[br/][li]Solid three-dimensional preforms. [br/][li]Sandwich preforms  [br/][br/]Lecture 5: Preform architecture and mechanical behaviour of composite material:[br/][li]Empirical data [br/][li]Modeling principles[br/][br/]Lecture 6: Preform architecture and mechanical behaviour of composite material-2:[br/][li]Intro to the WiseTex software suite[br/][br/]Lecture 7: Preform architecture and processing into composite material[br/]",
+      "Keywords":"textiles, textile composites",
+      "Required prior knowledge":"mechanics of materials, composite materials"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Textiles and textile composites",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131763",
+      "name":"Verpoest Ignaas Herman Johannes"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Textiles and textile composites",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  }
+}

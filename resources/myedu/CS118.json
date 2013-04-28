@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784637359&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","118"],
+    "title":"Introduction to programming",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784637359&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"SC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[["cowww.epfl.ch/infgmel/","cowww.epfl.ch/infgmel/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111472",
+      "name":"Lecoultre Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"1- Written exam[br/]2- Intermediary graded series",
+      "Prerequisite for":"Computer-aided engineering II",
+      "Required prior knowledge":"None",
+      "Content":"Introduction to the UNIX development environment. Basics of programming ( using C++) : variables, expressions, control structures, modularization, ...[br/][br/]The course topics will be extensively illustrated through practical exercises.[br/][br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, practical work on computer",
+      "Learning outcomes":"At the end of this course, the student will have mastered the fundamental aspects of programming using the C++ language.[br/]The course will also give an introduction to the UNIS development environment."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to programming",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[["cowww.epfl.ch/infgmel/","cowww.epfl.ch/infgmel/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111472",
+      "name":"Lecoultre Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Aucun",
+      "Bibliographie et matériel":"Polycopié des notes de cours ; livre(s) de référence indiqué(s) en début de semestre",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"Rapide introduction à l'environnement UNIX (connection, multifenêtrage, édition de textes, email, ...), éléments de base sur le fonctionnement d'un système informatique et prise en main d'un environnement de programmation (éditeur, compilateur, ...).[br/][br/]Initiation à la programmation (langage C++) : variables, expressions, structures de contrôle, fonctions, entrées-sorties, ...[br/][br/]Mise en pratique sur des exemples simples : les concepts théoriques introduits lors des cours magistraux seront mis en pratique dans le cadre d'exercices sur machines.[br/]",
+      "Forme du contrôle":"1- Examen écrit[br/]2- Série notée intermédiaire[br/]",
+      "Préparation pour":"Informatique II",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de développer une compétence en programmation (langage C++) et de familiariser les étudiants avec un environnement informatique (station de travail sous UNIX).[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à la programmation",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

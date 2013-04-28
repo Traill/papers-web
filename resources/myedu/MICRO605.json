@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771453&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","605"],
+    "title":"Optical MEMS and micro-optics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771453&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://samlab.epfl.ch/page77835.html","http://samlab.epfl.ch/page77835.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155721",
+      "name":"Herzig Hans Peter"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] To provide a comprehensive overview of present day's techniques and methods to realize microoptical and optical MEMS structures.[br/][li] To provide an in depth understanding of optics on the micrometer and nanometer scale, where diffraction and refraction effects strongly overlap.[br/][li] To discuss complete microfabrication processes for the realization of glass and silicon microoptical systems.[br/][li] To present examples of modern industrial applications of microoptical systems.",
+      "Content":"1. Microoptics[br/][br/]a) Propagation of light (Fourier optics)[br/]b) Diffractive optics and holograms[br/]c) Examples: (microlenses, diffractive optical elements (DOEs), micromirrors)[br/]d) Simulation of optics: matrix method, ABCD law, and Optical CAD[br/]e) Effects of real microoptical elements in an optical path (diffraction, aberrations, fill factor)[br/]f) Coupling efficiency between optical fibers and between optical fibers and collimated/focused beams[br/]g) Microfabrication of optical microstructures  (microlenses and DOEs)[br/]h) Limits of miniaturization[br/]i) Moving towards the nanoscale [br/][br/]2. Optical MEMS (MOEMS)[br/][br/]a) Bulk- and Surface-Micromachining[br/]b) Actuators[br/]c) Micromirrors (vertical and horizontal)[br/]d) Microfabrication of MOEMS[br/]e) Limits of microfabrication for MOEMS[br/]f) Examples of MOEMS Devices and applications[br/]g) Mechanical and optical simulations of MOEMS[br/]h) Measurements and Performance of MOEMS[br/]i) Important properties/characteristics: insertion loss, PDL, switching time, etc.",
+      "Keywords":"[br/]Microoptics, Microfabrication, Optical MEMS, Micromirrors, optical simulations",
+      "Note":"Building:[br/]IMT-NE / SAMLAB and CSEM Building - Rue Jaquet Droz 1 - 2000 Neuchatel[br/]",
+      "Required prior knowledge":"[li] Introductory course to optics and microfabrication technologies[br/][li] Basics of chemistry and physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optical MEMS and micro-optics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://samlab.epfl.ch/page77835.html","http://samlab.epfl.ch/page77835.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155721",
+      "name":"Herzig Hans Peter"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Building:[br/]IMT-NE / SAMLAB and CSEM Building - Rue Jaquet Droz 1 - 2000 Neuchatel",
+      "Contenu":"1. Microoptics[br/][br/]a) Propagation of light (Fourier optics)[br/]b) Diffractive optics and holograms[br/]c) Guided wave optics for optical fibers[br/]d) Examples: (microlenses, diffractive optical elements (DOEs), micromirrors)[br/]e) Simulation of optics: matrix method, ABCD law, and Optical CAD[br/]f) Effects of real microoptical elements in an optical path (diffraction, aberrations, fill factor)[br/]g) Coupling efficiency between optical fibers and between optical fibers and collimated/focused beams[br/]h) Microfabrication of optical microstructures  (microlenses and DOEs)[br/]i) Limits of Microfabrication for microoptical elements[br/][br/]2. Optical MEMS (MOEMS)[br/][br/]a) Bulk- and Surface-Micromachining[br/]b) Actuators[br/]c) Micromirrors (vertical and horizontal)[br/]d) Microfabrication of MOEMS[br/]e) Limits of microfabrication for MOEMS[br/]f) Examples of MOEMS Devices and applications[br/]g) Mechanical and optical simulations of MOEMS[br/]h) Measurements and Performance of MOEMS[br/]i) Important properties/characteristics: insertion loss, PDL, switching time, etc.",
+      "Mots clés":"[br/]Microoptics, Microfabrication, Optical MEMS, Micromirrors, optical simulations",
+      "Prérequis":"[li] Introductory course to optics and microfabrication technologies[br/][br/][li] Basics of chemistry and physics",
+      "Objectifs d'apprentissage":"[li] To provide a comprehensive overview of present day's techniques and methods to realize microoptical and optical MEMS structures.[br/][li] To provide an in depth understanding of optics on the micrometer and nanometer scale, where diffraction and refraction effects strongly overlap.[br/][li] To discuss complete microfabrication processes for the realization of glass and silicon microoptical systems.[br/][li] To present examples of modern industrial applications of microoptical systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optical MEMS and micro-optics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

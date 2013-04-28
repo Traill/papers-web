@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=331026780&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","606"],
+    "title":"Mathematics for Financial Economics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=331026780&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192820",
+      "name":"Malamud Semyon"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course is focused on continuous time models and their use in financial economics. Our objective is to study the tools employed in solving dynamic optimization and valuation problems. We will illustrate each technique with a financial application.[br/]",
+      "Content":"The course is divided into four parts:[br/]1. Basic Probability Theory[br/]2. Stochastic Processes in Discrete Time[br/]3. Brownian motion and Stochastic Calculus[br/]4. Dynamic Optimization and Optimal Stopping",
+      "Form of examination":"Written",
+      "Required prior knowledge":"Familiarity with basic concepts of analysis and probability"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematics for Financial Economics",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192820",
+      "name":"Malamud Semyon"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course is divided into four parts:[br/]1. Basic Probability Theory[br/]2. Stochastic Processes in Discrete Time[br/]3. Brownian motion and Stochastic Calculus[br/]4. Dynamic Optimization and Optimal Stopping",
+      "Prérequis":"Familiarity with basic concepts of analysis and probability",
+      "Objectifs d'apprentissage":"The course is focused on continuous time models and their use in financial economics. Our objective is to study the tools employed in solving dynamic optimization and valuation problems. We will illustrate each technique with a financial application."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematics for Financial Economics",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

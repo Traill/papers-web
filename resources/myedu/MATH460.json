@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129686166&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","460"],
+    "title":"Combinatorial optimization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129686166&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/225804",
+      "name":"de Zeeuw Frank"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This lecture will cover a selection of problems in Combinatorial Optimization. On this basis, the students will learn the relation between polyhedra and efficiency. This involves correctness proofs and the analysis of combinatorial algorithms. One of the main objectives is to enhance the mathematical modelling skills of the students to enable them to recognize and exploit combinatorial optimization problems in broader contexts.[br/]Assignments will monitor the learning process of the students.[br/][br/]",
+      "Content":"Paths and Trees (Connectivity, Shortest Path, Minimum Spanning Tree).[br/][br/]Cycles, Flow and Cuts (Negative Cycles, Minimum Mean Cycles, Max Flow, Min Cut, Min Cost Network Flow).[br/][br/]Matchings (Bipartite, Non-bipartite).",
+      "Type of teaching":"Ex cathedra lectures and exercises in the classroom",
+      "Required prior knowledge":"Linear Programming"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Combinatorial optimization",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/225804",
+      "name":"de Zeeuw Frank"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"Chemins et arbres (connectivité, chemin le plus court, arbre couvrant).[br/][br/]Cycles, flots et coupures (cycles négatifs, cycles moyens minimum, flots maximum, coupure minimale, flots à coût minimal).[br/][br/]Couplage (biparti, non-biparti).",
+      "Prérequis":"Programmation linéaire",
+      "Bibliographie et matériel":"The lecturer will recommend books during the course.",
+      "Objectifs d'apprentissage":"Ce cours couvre une sélection de problèmes en optimisation combinatoire. De cette base, les étudiants apprendront la relation entre les polyèdres et l'efficacité. Ceci inclut également des preuves d'exactitude et l'analyse des algorithmes combinatoires. Un des objectifs principaux est d'améliorer les capacités des étudiants en modélisation mathématique afin de leur permettre de reconnaître des problèmes d'optimisation combinatoire dans un contexte plus large et de les exploiter. Chaque semaine, des séries d'exercices théoriques seront données, permettant de contrôler le progrès d'apprentissage des étudiants."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Combinatorial optimization",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

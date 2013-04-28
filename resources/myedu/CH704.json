@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770913&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","704"],
+    "title":"Computation of molecular properties",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770913&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106285",
+      "name":"Rotzinger François"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Introduction to methods for the numerical solution of Schrödinger's equation. Application of these techniques to the computation of geometries, vibrational frequencies and electronic transitions.",
+      "Content":"Molecular properties - Self-consistent field (SCF) calculations - Basis functions - Basis set superposition error (BSSE) - Electron correlation - Interative natural orbital method (INO) - Geometry - Vibrational frequencies - Electronic transi-tions/excited states - Performance and comparision of computational methods - Solvation",
+      "Keywords":"ab initio molecular orbital methods, density functional theory",
+      "Required prior knowledge":"Basic items in quantum chemistry and group theory"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Computation of molecular properties",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106285",
+      "name":"Rotzinger François"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Molecular properties - Self-consistent field (SCF) calculations - Basis functions - Basis set superposition error (BSSE) - Electron correlation - Interative natural orbital method (INO) - Geometry - Vibrational frequencies - Electronic transi-tions/excited states - Performance and comparision of computational methods - Solvation",
+      "Mots clés":"ab initio molecular orbital methods, density functional theory",
+      "Prérequis":"Basic items in quantum chemistry and group theory",
+      "Objectifs d'apprentissage":"Introduction to methods for the numerical solution of Schrödinger's equation. Application of these techniques to the computation of geometries, vibrational frequencies and electronic transitions."
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Computation of molecular properties (2009-10)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

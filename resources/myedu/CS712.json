@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1648092957&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","712"],
+    "title":"Topics on Datacenter Design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1648092957&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177958",
+      "name":"Falsafi Babak"
+    },{
+      "url":"http://people.epfl.ch/217479",
+      "name":"Grot Boris Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Contemporary datacenters are warehouse-scale computers with tens of thousands of servers and multi-megawatt power budgets, running today's most demanding online services (e.g., Google search, Facebook, YouTube). In this course, students we will survey a broad and comprehensive spectrum of design topics in modern datacenters including infrastructure, server hardware, networking and storage technologies. Students will also understand the implications of warehouse-scale computing on software, including programming models, databases, file systems, and resource management. Finally, the course will cover a number of cross-cutting issues, such as quality-of-service, energy-efficiency, and TCO (total cost of ownership)",
+      "Content":"The course wil use the primer from ClayPool lecture series on Warehouse-Scale Computing by Barrosso and Hoelzle, and technical research papers from recent years in venues corresponding to the topic. The course will be run as a seminar series with student presentations followed by an in-class discussion. The students will be graded based on presentations and short reviews written for each reading assignment.[br/][br/]Datacenter basics: computing at scale of tens of thousands of servers[br/]Quality of service, energy proportionality and total cost of ownership[br/]Workloads[br/]Programming paradigms[br/]System software[br/]Virtualization[br/]Networking[br/]Storage systems[br/]Processors and memory systems[br/]Resource management[br/]Infrastructure: power distribution and cooling[br/]",
+      "Keywords":"datacenter, warehouse-scale computing, scale-out",
+      "Form of examination":"Oral presentation",
+      "Required prior knowledge":"Computer systems"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Topics on Datacenter Design",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177958",
+      "name":"Falsafi Babak"
+    },{
+      "url":"http://people.epfl.ch/217479",
+      "name":"Grot Boris Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Topics on Datacenter Design",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

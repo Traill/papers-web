@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771353&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","714"],
+    "title":"Modelling magnetic and spectroscopy properties of molecules containing d- and f- elements",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771353&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/144945",
+      "name":"Daul Claude Auguste Erwin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Introduction to user-friendly computational tools for the calculation of magnetic and spectroscopic properties of metal complexes (d- & f-block). Review of basic theory. Bring the students up to date with modern applied quantum chemistry. Study of practical projects. Applied sample calculations. Hands on exercises for graduate students.",
+      "Content":"[li]Relativistic effects[br/][li]Energy levels in free metal-ions: multiplets, spin-orbit coupling, Zeeman and hyperfine coupling[br/][li]Symmetry and wave functions: Full rotation group, molecular point groups, double groups.[br/][li]Energy levels in metal complexes I: Ligandfield theory, spin-orbit coupling.[br/][li]Energy levels in metal complexes II: Density Functional Theory, Pauli-relativistic calculations, Zero Order Regularisation Approximation.[br/][li]Modelling molecular magnetism: non-empirical calculation of Heisenberg-VanVleck-Dirac hamiltonian parameters, modeling spin-dependant (double) exchange.[br/][li]First principle calculation of the NMR spin Hamiltonian parameters including nuclear Zeeman, Shielding tensor and spin-spin coupling.[br/][li]First principle calculation of the EPR spin Hamiltonian parameters including Zeeman, hyperfine, Zero Field Splitting and Electric Field Gradients[br/][li]Etc...",
+      "Keywords":"DFT, Molecular Magnetism, EPR parameters, NMR parameters, open d-shells, open f-shells, excited states   ",
+      "Note":"This course will be given in Spring 2011.",
+      "Required prior knowledge":"Master in Science"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modelling magnetic and spectroscopy properties of molecules containing d- and f- elements",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/144945",
+      "name":"Daul Claude Auguste Erwin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course will be given in Spring 2011.",
+      "Contenu":"[li]Relativistic effects[br/][li]Energy levels in free metal-ions: multiplets, spin-orbit coupling, Zeeman and hyperfine coupling[br/][li]Symmetry and wave functions: Full rotation group, molecular point groups, double groups.[br/][li]Energy levels in metal complexes I: Ligandfield theory, spin-orbit coupling.[br/][li]Energy levels in metal complexes II: Density Functional Theory, Pauli-relativistic calculations, Zero Order Regularisation Approximation.[br/][li]Modelling molecular magnetism: non-empirical calculation of Heisenberg-VanVleck-Dirac hamiltonian parameters, modeling spin-dependant (double) exchange.[br/][li]First principle calculation of the NMR spin Hamiltonian parameters including nuclear Zeeman, Shielding tensor and spin-spin coupling.[br/][li]First principle calculation of the EPR spin Hamiltonian parameters including Zeeman, hyperfine, Zero Field Splitting and Electric Field Gradients[br/][li]Etc...",
+      "Mots clés":"DFT, Molecular Magnetism, EPR parameters, NMR parameters, open d-shells, open f-shells, excited states  ",
+      "Prérequis":"Master in Science",
+      "Objectifs d'apprentissage":"Introduction to user-friendly computational tools for the calculation of magnetic and spectroscopic properties of metal complexes (d- & f-block). Review of basic theory. Bring the students up to date with modern applied quantum chemistry. Study of practical projects. Applied sample calculations. Hands on exercises for graduate students."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modelling magnetic and spectroscopy properties of molecules containing d- and f- elements",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

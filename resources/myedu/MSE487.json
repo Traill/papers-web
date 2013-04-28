@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352060199&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","487"],
+    "title":"Advanced semiconductor nanomaterials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352060199&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This is an interactive course with the following objectives :[br/][br/]1. Deepen in the understanding of the properties of semiconductor nanostructures.[br/]2. Get more familiar with the latest discoveries in the world of nanotechnology research.[br/][br/]In the first part of the course, the basis for the understanding of scientific papers in the domain will be given. In the second part of the course, the students will choose a subject to study. They will be able to present it to their colleagues in a joint seminar session.[br/][br/]",
+      "Content":"1. How to fabricate nanostructures?[br/]2. New properties and nanoscale. Role of the confinement in 1, 2 and 3 dimensions.[br/]3. Confinement and optical emission properties[br/]4. Use of nanotechnology for thermoelectric devices.[br/]5. Wave-like behavior of the electrons[br/]6. Coulomb blockade and single electron transistor[br/]7. Very high mobility and quantum hall effect[br/]8. The use of quantum dots for quantum information science and technology[br/][br/]",
+      "Type of teaching":"Ex-cathedra and seminars",
+      "Required prior knowledge":"Theory of materials:from structure to properties I and II, Semiconductor materials and properties prefered"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced semiconductor nanomaterials",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra et séminaires",
+      "Contenu":"1. Comment réalise-t-on les nanostructures ?[br/]2. Nouvelles propriétés et taille nanométrique. Rôle du confinement en 1, 2 et 3 dimensions.[br/]3. Propriétés d'émission optique et confinement[br/]4. Usage de la nanotechnologie pour des dispositifs thermoélectriques[br/]5. Le comportement des électrons comme ondes[br/]6. Blocage de Coulomb et transistor à un seul électron[br/]7. Très grande mobilité et effet Hall quantique[br/]8. L'utilisation de puits quantiques pour la science et technologie d'information quantique[br/]",
+      "Prérequis":"Theory of materials:from structure to properties I and II, Semiconductor materials and properties souhaités",
+      "Bibliographie et matériel":"articles divers",
+      "Objectifs d'apprentissage":"Il s'agit d'un cours interactif dont les objectifs sont :[br/][br/]1. Approfondir dans la compréhension des propriétés des nanostructures semiconductrices, [br/]2. S'approcher des dernières découvertes dans le monde de la recherche en nanotechnologie.[br/][br/]Dans la première partie du cours, on apprend les bases pour la compréhension des articles scientifiques dans le domaine. Dans une deuxième partie du cours, les étudiants choisiront un sujet sur lequel approfondir. Ils pourront le présenter à leurs collègues lors d'une séance de séminaires conjointe. [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced semiconductor nanomaterials",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

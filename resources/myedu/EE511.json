@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354983306&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","511"],
+    "title":"Sensors in medical instrumentation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354983306&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lmam.epfl.ch/page17010.html","http://lmam.epfl.ch/page17010.html"],["Medical instrumentation : application and design / John G. Webster, 2010","Medical instrumentation : application and design / John G. Webster, 2010"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written",
+      "Prerequisite for":"Semester project and Master project",
+      "Required prior knowledge":"Semester project and Master project",
+      "Content":"1. [b]Physiological Mesurands[/b][br/]Biopotentials; bioimpedance; mechanical, acoustic and thermal signals[br/]2. [b]Noise in medical instrumentation[/b][br/]Source and nature of the noise; noise reduction; instrumentation amplifier[br/]for biopotential measurement[br/]3.[b] Biopotential measurement[/b][br/]Electrodes; ECG, EMG and EEG measurement[br/]4.[b] Resistive sensors[/b][br/]Thermistor and its biomedical applications; strain gage for the[br/]measurement of blood pressure; force and accelerations of the body[br/]5.[b] Inductive sensors[/b][br/]Simple and mutual inductance and its medical applications[br/]6. [b]Capacitive sensors[/b][br/]Respiratory flow measurement by the gradient of pressure[br/]7.[b] Piezoelectric sensors[/b][br/]Force platform, accelerometer, angular rate sensor for the measurement[br/]of tremors and body movements, ultrasound transducer : measurement of[br/]pressure and flow rate[br/]8.[b] Optical sensors[/b][br/]Photoplethysmography; pulsed oxymetry[br/]9.[b] Example of applications[/b]",
+      "Type of teaching":"Ex cathedra, with exercises",
+      "Learning outcomes":"Knowing the techniques used to detect and convert physiological[br/]information's to electrical signals. To be able to control the fundamental[br/]principles and methods used for physiological signal conditioning with the[br/]help of examples from existing medical instrumentation design. To[br/]establish a more efficient communication with the medical and clinical[br/]partners thanks to a better understanding of the medical instrumentation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Sensors in medical instrumentation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lmam.epfl.ch/page17010.html","http://lmam.epfl.ch/page17010.html"],["Medical instrumentation : application and design / John G. Webster, 2010","Medical instrumentation : application and design / John G. Webster, 2010"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Systèmes de mesure ou Capteurs ou Electronique",
+      "Bibliographie et matériel":"Polycopié, Medical Instrumentation : Application and design, JG Webster",
+      "Forme d'enseignement":"Ex cathedra, avec exercices",
+      "Contenu":"1. [b]Mesurandes physiologiques[/b][br/]Les biopotentiels; la bioimpédance; les signaux mécaniques,[br/]acoustiques, thermiques[br/]2. [b]Bruit en instrumentation médicale[/b][br/]Source et nature des bruits; réduction du bruit; amplificateurs[br/]d'instrumentation pour la mesure des biopotentiels[br/]3. [b]Mesure des biopotentiels[/b][br/]Les électrodes; mesure de l'ECG, de l'EMG et de l'EEG[br/]4. [b]Capteurs résistifs[/b][br/]Thermistor et ses applications médicales; Jauge de contrainte pour la[br/]mesure de la pression sanguine, la force et les accélérations du[br/]corps[br/]5. [b]Capteurs inductifs[/b][br/]Inductance simple et mutuelle et ses applications médicales.[br/]6. [b]Capteurs capacitifs[/b][br/]Mesure du débit respiratoire par gradient de pression[br/]7. [b]Capteurs piézoélectriques[/b][br/]Plate-forme de force, accéléromètre, gyromètre pour la mesure des[br/]tremblements et des mouvements, transducteurs à ultrason: mesure[br/]de pression et débit sanguin[br/]8. [b]Capteurs optiques[/b][br/]Photoplethysmographie; oxymétrie pulsée[br/]9. [b]Exemple d'applications[/b]",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Projets de semestre et de master",
+      "Objectifs d'apprentissage":"Connaître les techniques utilisées pour la détection et la conversion[br/]des informations physiologiques en signaux électriques. Maîtriser les[br/]outils nécessaires ainsi que les principes à respecter pour[br/]conditionner les signaux physiologiques à l'aide des exemples de[br/]réalisation existant en instrumentation médicale. Etablir une relation[br/]plus efficace avec les partenaires médicaux grâce à une meilleure[br/]compréhension des spécificité techniques relevant de[br/]l'instrumentation médicale."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Sensors in medical instrumentation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

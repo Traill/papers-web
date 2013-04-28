@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775302&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","325"],
+    "title":"Plasma physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775302&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://crppwww.epfl.ch/lectures/PHYSIQUE_PLASMAS_SA/INDEX.HTML","http://crppwww.epfl.ch/lectures/PHYSIQUE_PLASMAS_SA/INDEX.HTML"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104368",
+      "name":"Alberti Stefano"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course is an introduction to plasma physics aimed at giving an overall view of the essential properties specific to a plasma and at describing the approaches commonly used to de scribe its behaviour: Study of single particle motion, fluid description and kinetic model. The relation between plasma physics and the realisation of a thermonuclear reactor is presented and illustrated with examples.",
+      "Content":"[b]I. The plasma state[/b][br/]- Definition of a plasma[br/]- Debye screening[br/]- Thermonuclear fusion research [br/]- Confinement and heating of fusion plasma[br/]- Practical implementations (Tokamak, ...)[br/][br/][b]II. Microscopic description of a magnetised plasma[/b][br/]- The motion of charged particles in magnetic and electric fields[br/]- Particle confinement and fluid confinement. [br/]- Collisions and transport coefficients[br/][br/][b]III. Fluid model of a plasma[/b][br/]- Waves in a non-magnetised plasma: the transverse wave, the Langmuir wave and the ion acoustic wave[br/]\t[br/][br/][b]IV. Kinetic model of a plasma[/b][br/]- The Vlasov equation[br/]- The Langmuir wave in the kinetic model[br/]",
+      "Type of teaching":"Ex cathedra and exercises in classrooms",
+      "Prerequisite for":"Plasma Physics II and III",
+      "Required prior knowledge":"Electrodynamics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Plasma physics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://crppwww.epfl.ch/lectures/PHYSIQUE_PLASMAS_SA/INDEX.HTML","http://crppwww.epfl.ch/lectures/PHYSIQUE_PLASMAS_SA/INDEX.HTML"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104368",
+      "name":"Alberti Stefano"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours d'Electrodynamique",
+      "Bibliographie et matériel":"Notes polycopiées, références à la littérature",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]I. L'état plasma de la matière[/b][br/]- Définition du plasma[br/]- Ecrantage de Debye[br/]- La fusion thermonucléaire [br/]- Confinement et chauffage des plasmas de fusion[br/]- Réalisations pratiques (Tokamak, ...)[br/][br/][b]II. Description microscopique du plasma[/b][br/]- Mouvement des particules dans des champs magnétiques et électriques[br/]- Lien entre le confinement fluide et particulaire[br/]- Collisions et coefficients de transport[br/][br/][b]III. Description fluide du plasma[/b][br/]- Les ondes dans un plasma non-magnétisé : l'onde transverse, l'onde de Langmuir et l'onde ionique acoustique[br/][br/][b]IV. Modèle cinétique du plasma[/b][br/]- L'équation de Vlasov[br/]- L'onde de Langmuir en théorie cinétique",
+      "Préparation pour":"Physique des plasmas II et III",
+      "Objectifs d'apprentissage":"Ce cours est une introduction à la physique des plasmas destiné à donner une vue globale des propriétés essentielles spécifiques d'un plasma et à présenter les approches couramment utilisées pour modéliser son comportement : études du mouvement de particules chargées, modèle fluide et modèle cinétique. La relation entre la physique des plasmas et la réalisation d'un réacteur de fusion thermonucléaire est présentée et illustrée par des exemples"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique des plasmas I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

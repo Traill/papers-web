@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775667&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","212"],
+    "title":"Procédés de production",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775667&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104571",
+      "name":"Boillat Eric"
+    },{
+      "url":"http://people.epfl.ch/105264",
+      "name":"Glardon Rémy"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written examination in summer",
+      "Required prior knowledge":"[li]Basic understanding of material behavior[br/][li]Understanding of the concept of stress, strain and deformation of continuous matter[br/][li]Basic understanding and concept about metals and alloys",
+      "Content":"1) Terminology, economic role of the production, situation of industrial enterprises, role of the ETH engineer, production in the[br/]company.[br/]2) Reminder about the materials behavior: families of materials, mechanical properties, plasticity, heat, energy of deformation .[br/]3) Cutting processes: geometrical model, physical model, dynamic and thermal aspects, surface roughness, usinability.[br/]4) Conventional machining processes: cutting tools, cutting fluids, machining processes for cylindrical geometries, machining processes[br/]for other geometries, abrasive machining processes.[br/]5) Non-conventional machining processes: general characteristics and modeling of partial processes \"mechanical\", \"chemical\", \"electric\" and \"thermal\"[br/]6) Injection moulding: general characteristics, most widely used materials, injection conditions, economic aspects, shrinkages.[br/]7) Industrial fabrication: characteristics, objectives, criteria.[br/]8) Casting: non-permanent and permanent moulds; theoretical bases; alloys and microstructures; semi-products; rapid solidification[br/]9) Powder metallurgy: principles, production steps, theoretical bases, applications; hard metals and cermets, powder injection moulding.[br/]10) Forming by plastic deformation: principles, theoretical bases; stretching, wiredrawing, fluo-turning, forging, hot or cold rolling; friction; influence of the shape[br/]of the tools; energetic efficiency and different techniques; processing of foils",
+      "Keywords":"Production processes; metal forming, machining, non-conventional processes",
+      "Type of teaching":"Ex cathedra, videos",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Choose production tools and methods based on performance and cost requirements and needs, taking into consideration applicability[br/]limits and associated hypotheses, CP11[br/][li]Choose material and the relative treatments based on its use, performance and compatibility with the manufacturing process of[br/]the final product, CP13[br/][li]Illustrate the physics principles of production processes, CP16[br/][li]Illustrate the features and limits of production processes, CP17[br/][b]Transversal skills:[/b][br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Procédés de production",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104571",
+      "name":"Boillat Eric"
+    },{
+      "url":"http://people.epfl.ch/105264",
+      "name":"Glardon Rémy"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Connaissance de base du comportement des matériaux[br/][li]Maîtrise des notions de contraintes et de déformation des milieux continus[br/][li]Connaissance de base des alliages et des métaux",
+      "Bibliographie et matériel":"Polycopié",
+      "Mots clés":"Procédés de production; formage; usinage; procédés non-conventionels",
+      "Forme d'enseignement":"Ex cathedra, vidéos",
+      "Contenu":"1) Terminologie, rôle économique de la production, situation des entreprises industrielles, rôle de l'ingénieur EPF, la production dans l'entreprise.[br/]2) Rappel concernant le comportement des matériaux : les familles de matériaux, comportement et propriétés mécaniques, notions de plasticité, énergie de déformation et chaleur.[br/]3) Phénomène de coupe: modèle géométrique, modèle physique, aspects dynamiques, aspects thermiques, état de surface \"usinabilité\".[br/]4) Procédés d'usinage \"conventionnels\": outils de coupe, fluide de coupe, procédés d'usinage pour géométries cylindriques, procédés d'usinage pour autres géométries, procédés d'usinage par abrasion.[br/]5) Procédés d'usinage \"non-conventionnels\" : caractéristiques générales et médélisation partielle des procédés \"mécaniques\", \"chimiques\", \"électriques\" et \"thermiques\".[br/]6) Procédés d'injection : caractéristiques générales, matériaux les plus utilisés, conditions d'injection, aspects économiques, anticipation des retraits[br/]7) Fabrication industrielle: caractéristiques, ojectifs, critères.[br/]8) Fonderie: moules non-permanents [br/]et permanents; bases théoriques; alliages et microstructures; demi-produits; solidification rapide[br/]9) Métallurgie des poudres: principes, étapes de production, base théorique, applications; métaux durs et cermets, moulage par injection de poudres (MIP)[br/]10) Formage par déformation plastique: principes de mise en forme, fondements théoriques étirage, tréfilage, filage, fluotournage, forgeage, laminage; friction; effet de forme des outils; rendement énergétique des différentes techniques; travail des métaux en feuilles",
+      "Forme du contrôle":"examen écrit en été",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodes et des outils de production en fonction des attentes et des exigences de performances et de coût en tenant comptes des limites d'application et les hypothèses associées, CP11[br/][li]Choisir un matériau et les traitements en fonction de son usage, de sa performance et son adéquation au mode de fabrication du produit final, CP13[br/][li]Enoncer les principes physiques des procédés de fabrication, CP16[br/][li]Enoncer les caractéristiques et les limites des procédés de fabrication, CP17[br/][b]Compétences transversales:[/b][br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Procédés de production",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

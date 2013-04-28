@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597645462&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","707"],
+    "title":"Soil-structure interfaces",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597645462&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/227073",
+      "name":"Randolph Mark Felton"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course focuses on the detrimental effects of cyclic loading, but with specific application to the interface between a piled foundation and the adjacent soil. This is an increasingly important aspect of pile design, with application to energy piles, foundations for wind turbines, and coastal and offshore structures founded on piles. The specific objectives are to:[br/]   acquaint students with the underlying mechanisms leading to cyclic degradation of load transfer between pile and soils; [br/]   show how laboratory tests can form the basis for extracting suitable load transfer parameters for the design of pile subjected to cyclic loading;[br/]   describe modern approaches for estimating the axial capacity of piles driven into sand;[br/]   communicate corresponding design approaches for cast-in-place piles, specifically for piles grouted into carbonate material such as limestone or carbonate sands;[br/]   illustrate numerical analysis approaches for use in design;[br/]   provide direct experience of numerical design calculations through a computing exercise using load transfer software, RATZ.[br/]",
+      "Content":"The content involves three main aspects:[br/]1.  Laboratory test data from cyclic interface tests, and how they may be used as the basis to construct degradation models, with application to (a) gradual reduction in unit shaft resistance at a given depth due to continued pile driving; and (b) strain softening response of cast-in-place piles due to brittle post-peak reduction in shaft friction.[br/]2. The derivation of design approaches, using either critical state approaches to estimate the degree of soil densification during cyclic shearing under constant normal stiffness conditions, or more direct semi-empirical design equations.[br/]3. Numerical analysis of the effects of cyclic loading through purpose-writtend software.[br/] [br/]",
+      "Keywords":"cyclic loading; design; numerical analysis; pile foundations",
+      "Note":"The course is particularly relevant for graduate students investigating energy piles or aspects of thermo-mechanical cyclic soil-structure interaction.",
+      "Required prior knowledge":"General background in basic soil mechanics and foundation engineering"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Soil-structure interfaces",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/227073",
+      "name":"Randolph Mark Felton"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Soil-structure interfaces",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

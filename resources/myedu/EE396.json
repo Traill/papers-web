@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499341153&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","396"],
+    "title":"Lab in energy conversion",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499341153&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course aims at providing all the practical experiences associated to four courses of the orientation in power and energy of the BSc in Electrical Engineering. The experimental activities of the course covers two main branches, namely, (i) power systems (transmission and distribution networks) and (ii) electrical machines and power electronics.[br/]Elements related to energy conversion systems (including storage) are provided as well.[br/]",
+      "Content":"The TLs (teaching laboratories) related to the two main branches of this course are described below.[br/]1.\tPart I: power systems[br/]1.1.\tDynamic phenomena of transmission networks related to angular and voltage stability analysis in both steady state and dynamic conditions.[br/]1.1.1.\tSteady state analysis. This TL is realized using numerical simulation environment.[br/]1.1.2.\tVoltage stability. This TL is realized using numerical simulation environment.[br/]1.1.3.\tAngular stability. This TL is realized by mean of software implemented on microcontrollers and synchronous machine benchmarks.[br/]1.2.\tDistribution networks: protections systems and coordination with reference  [br/]1.2.1.\tBasic programming techniques of microcontrollers.[br/]1.2.2.\tDevelopment of a digital directional relay for distribution networks. The TL is based on the programming of a microcontroller.[br/]1.2.3.\tSmall-scale energy storage systems. The TL aims at evaluating the behaviour, charge and energy efficiencies of small-scale energy storage systems (i.e. supercapacitors and batteries).[br/]2.\tPart II: electrical machines and power electronics[br/]2.1.\tInduction motor fed by a frequency converter. Comparative analysis of the performances and behaviour of an induction motor directly supplied by the electrical network or fed with a frequency converter.[br/]2.1.1.\tDirect start of the induction motor by connection to the grid. The TL allows evaluating behaviour of the induction motor as well as evaluating the elements of the classical equivalent circuit.[br/]2.1.2.\tSoft start through a frequency converter. The TL aims at analysing the network behaviour during the induction motor start when supplied by a variable frequency converter.[br/]2.1.3.\tControl strategy of the motor with constant flux. The TL aims at evaluating the behaviour of the induction motor when supplied with a frequency converter with reference to different operating conditions.[br/]",
+      "Type of teaching":"Practical works in groups",
+      "Form of examination":"Obligatory continuous ",
+      "Required prior knowledge":"Courses of the EE-BSc orientation in \"Power and Energy\""
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Lab in energy conversion",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Travail pratique en groupes",
+      "Contenu":"Les TPs (Travaux Pratiques) liés aux deux parties sont décrits ci-dessous.[br/][br/]1.\tPart I: systèmes de puissance[br/]1.1.\tPhénomènes dynamiques des réseaux de transmission liés à l'analyse de la stabilité de phase et tension, en régimes permanents et dynamiques.[br/]1.1.1.\tAnalyse en régime permanent. Ce TP est réalisé à l'aide d'un outil de simulation numérique.[br/]1.1.2.\tStabilité en tension. Ce TP est réalisé à l'aide d'un outil de simulation numérique.[br/]1.1.3.\tStabilité de phase. Ce TP est réalisé par l'utilisation d'un logiciel implémenté sur un micro-contrôleur et un banc d'essai de machine synchrone.[br/]1.2.\tRéseaux de distribution : systèmes de protection et coordination référencée[br/]1.2.1.\tTechniques de base de programmation des microcontrôleurs.[br/]1.2.2.\tDéveloppement d'un relais de protection digital directionnel. Ce TP est basé sur la programmation d'un microcontrôleur.[br/]1.2.3.\tSystèmes de stockage d'énergie de petite taille. Ce TP a pour but d'évaluer le comportement, la recharge et le rendement énergétique de petits systèmes de stockage d'énergie (par exemple supercapacité et batteries).[br/][br/]2.\tPart II: machines électriques et électronique de puissance[br/]2.1.\tMoteur asynchrone alimenté par un convertisseur de fréquence. Analyse comparative du comportement et des performances d'un moteur asynchrone alimenté directement par le réseau ou par un convertisseur de fréquence.[br/]2.1.1.\tDémarrage direct du moteur sur le réseau. Ce TP a pour but d'étudier le comportement du moteur asynchrone et d'évaluer les éléments du schéma équivalent.[br/]2.1.2.\tDémarrage \"doux\" à l'aide d'un convertisseur de fréquence. Ce TP a pour but d'analyser la répercussion sur le réseau du démarrage d'un moteur asynchrone alimenté par un convertisseur de fréquence.[br/]2.1.3.\tStratégie de contrôle du moteur asynchrone à flux constant. Ce TP a pour but d'évaluer, pour différents points de fonctionnement, le comportement du moteur asynchrone alimenté par un convertisseur de fréquence.[br/]",
+      "Forme du contrôle":"Obligatoire et continu[br/]",
+      "Prérequis":"Cours de EE-BSc en orientation \"Energie\"",
+      "Objectifs d'apprentissage":"Le but de ces TPs (Travaux Pratiques) est d'expérimenter, par la pratique, des notions associées aux quatre cours de l'orientation 'Energie' du bachelor en électricité. Les domaines abordés peuvent être décomposés en deux parties, à savoir, (i) systèmes de puissance (transmission et réseaux de distribution et (ii) machines électriques et électronique de puissance.[br/]Certains aspects des systèmes de conversion d'énergie électrique (incluant le stockage) sont également abordés.[br/]"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"TP en conversion d'énergie",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

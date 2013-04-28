@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775482&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","206"],
+    "title":"Physics IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775482&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105816",
+      "name":"Meister Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To understand the principles of physics and to analyze the models used for their explanation.[br/][][br/][][br/][][br/]  [br/]  [br/]   ",
+      "Content":"[b]Electromagnetism (2nd part)[/b][br/]Electromagnetic induction and Faraday's law; Maxwell equations; electromagnetic energy, Poynting vector.[br/][br/][br/][b]Wave physics[/b][br/]Mechanical and electromagnetic waves: propagation, energy and wave motion, attenuation, Doppler effect; principle of superposition of waves: standing waves, beats, interferences; interactions waves-medium: refraction, reflection, diffraction, diffusion.[br/][br/][br/][b]Introduction to quantum mechanics[/b][br/]Limits of classical mechanics: black body radiation, the photoelectric effect, the Compton effect, Franck-Hertz experiment, spectroscopy. Wave-particle dual behavior, De Broglie waves: Heisenberg's uncertainty principle, wave function. Schrödinger's equation, 1D problems: particle in a box, potential wells and barriers, barrier tunneling. The hydrogen atom.[br/][][br/][][br/]  [br/]  [br/]   ",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Form of examination":"Two optional written tests during the semester[br/]Bonus (b) of 0,5 for each test passed[br/]Written exam: grade (e) between 1 and 6[br/]Final grade = e + b(1-e/6)[br/]",
+      "Required prior knowledge":"Physics I, II and III"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105816",
+      "name":"Meister Jean-Jacques"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique I, II et III",
+      "Bibliographie et matériel":"Polycopiés, liste d'ouvrages recommandés et corrigés d'exercices",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]Electromagnétisme (2ème partie)[/b][br/]Champ électromagnétique dépendant du temps, induction et loi de Faraday; équations de Maxwell; énergie électromagnétique, vecteur de Poynting.[br/][br/][b]Les ondes[/b][br/]Ondes dans un milieu matériel et ondes électromagnétiques: propagation, transport d'énergie, atténuation, effet Doppler; superposition d'ondes : ondes stationnaires, battements, interférences; interactions ondes-milieu de propagation: réfraction, réflexion, diffraction, diffusion.[br/][br/][b]Introduction à la mécanique quantique[/b][br/]Limites de la physique classique: rayonnement du corps noir, effet photoélectrique, effet Compton, expérience de Franck-Hertz, spectroscopie. Dualité onde-corpuscule, onde de De Broglie: photon, principe d'incertitude de Heisenberg, fonction d'onde et densité de probabilité de présence. Equation de Schrödinger, résolution de problèmes à une dimension: particule dans une boîte, barrières et puits de potentiel, effet tunnel. Atome d'hydrogène. ",
+      "Forme du contrôle":"Deux tests écrits facultatifs durant le semestre[br/]Bonus (b) de 0,5 par test réussi[br/]Examen écrit: note (e) de 1 à 6[br/]Note finale = e + b(1-e/6)[br/]",
+      "Objectifs d'apprentissage":"Comprendre les phénomènes physiques fondamentaux et les modèles qui les décrivent.[br/]Utiliser l'outil mathématique pour relier le phénomène à sa formulation.[br/]Appliquer les lois de la physique à la résolution de problèmes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

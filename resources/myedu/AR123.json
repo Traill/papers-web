@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773962&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=fr",
+    "code":["AR","123"],
+    "title":"History of architecture I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773962&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169225",
+      "name":"Adam Jean-Pierre"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course is meant for future architects and focuses more on the history of architectural techniques than on styles. Urbanism and programs, which of course will be tackled, are not exhaustively developed. Therefore, the course focuses mainly on the expressions and tools of the architect, hence the original plans, when they exist, or the modern ones. The course deals with the same development major subjects such as the pyramids or the cathedrals, and at the same time tackles secondary themes such as the cladding methods of the stones in the Pharaonic Egypt or on the Greek quarries. These problems and their solutions directly stem out of research in monumental archaeology and for architects, they fundamentally come before any achievement.[br/]",
+      "Content":"Four main chapters are dealt with:[br/][br/][b]1 - Egypt[/b][br/]Genesis of the monumental art - acquisition of geometry - materials, brick, stone - Djeser et the invention of the architecture in stone - development of pyramid building - funeral architecture funéraire of the great families - The New Empire and the temples - the inventions of the Egyptian building site - the royal necropolis.[br/][br/][b]2 - Greek world[/b][br/]The Minoen civilization - Palaces - the open cities.[br/]Mycenae - the fortified city - the spirit of war.[br/]Classical and Hellenistic Greece - new conception of the city - invention of urbanism - the program of the agora - the sanctuaries and their architecture - geometrical requirements - the stereotomic perfection - development of the framework.[br/][br/][b]3 - Rome[/b][br/]The Greek legacy in urbanism, techniques and programs - the stone, from quarry to building site, the work of the architect - masonry, lime, mortars - the permanent challenge and the use of vaults - wood and framework - the program of the domus.[br/][br/][b]4 - Middle Age[/b][br/]The Constantinian basilicas and their legacy.[br/]The Renaissance of the 12th century - The medieval architect - the building workers, education, statuses - the medieval building site, tools, machines, technical inventions - the gothic revolution, the vertical impulse, the abolition of the wall - wood, frameworks.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"History of architecture I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169225",
+      "name":"Adam Jean-Pierre"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra.",
+      "Contenu":"Quatre grands chapitres alimentent cette histoire de l'architecture :[br/][br/][b]1 - Egypte[/b][br/]Genèse de l'art monumental - acquisition de la géométrie - les matériaux, la brique, la pierre - Djeser et l'invention de l'architecture de pierre - développement de la construction des pyramides - l'architecture funéraire des grandes familles - Le Nouvel Empire et les temples - les inventions du chantier égyptien  - les nécropoles royales.[br/][br/][b]2 - Monde grec[/b][br/]La civilisation minoenne - les palais - les villes ouvertes[br/]Mycènes - les cités fortifiées - l'esprit de la guerre[br/]Grèce classique et hellénistique - nouvelle conception de la ville l'invention de l'urbanisme - le programme de l'agora - les sanctuaires et leur architecture - les exigences géométriques - la perfection stéréotomique - développement de la charpente.[br/][br/][b]3 - Rome[/b][br/]L'héritage grec dans l'urbanisme,  les techniques et les programmes - la pierre de la carrière au chantier, le travail de l'architecte - La maçonnerie, la chaux les mortiers - le défi permanent et l'usage des voûtes - le bois, la charpente - programme de la domus.[br/][br/][b]4 - Moyen Age[/b][br/]Les basiliques constantiniennes et leur héritage[br/]La renaissance du XIe s. - L'architecte médiéval - les ouvriers du bâtiment - le chantier médiéval, les outils, les machines, les inventions techniques - la révolution gothique, l'élan vertical, l'abolition du mur - le bois, les charpentes.[br/]",
+      "Préparation pour":"Histoire de l'architecture II.",
+      "Bibliographie et matériel":"Sera distribuée pendant les cours.",
+      "Objectifs d'apprentissage":"[b]De l'Egypte pharaonique à la fin du Moyen Age[/b][br/]Ce cours s'adresse à de futurs architectes et met l'accent plus sur l'histoire des techniques architecturales que sur les styles. L'urbanisme et les programmes, naturellement intégrés n'ont pas de développement exhaustif. Dans cet esprit, le cours privilégie les expressions et outils de l'architecte, c'est-à-dire les plans, originaux lorsqu'ils existent ou modernes. Le cours traite avec le même développement, aussi bien les sujets considérés comme majeurs, par exemple, les pyramides ou les cathédrales, que les ouvertures sur des rubriques considérées comme subalternes, tels les moyens de bardage des pierres dans l'Egypte pharaonique ou sur les carrières grecques. Ces problèmes et leurs solutions sont directement issus de la recherche en archéologie monumentale et pour des architectes sont fondamentalement situés en amont de toute réalisation.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Histoire de l'architecture I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

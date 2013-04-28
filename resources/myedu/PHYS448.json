@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24375105&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","448"],
+    "title":"Introduction to particle accelerators",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24375105&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lpap.epfl.ch","http://lpap.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173996",
+      "name":"Rivkin Leonid"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Accelerators play a major role in elementary particle physics, structural and dynamical analysis of matter and particularly also in medicine and industry. The basics of accelerator theory and accelerator technology are presented. Innovative accelerator projects for research and application are discussed.[br/]   [br/]               ",
+      "Content":"Overview, history and fundamentals[br/]Transverse particle dynamics (linear and nonlinear)[br/]Longitudinal particle dynamics[br/]Linear accelerators[br/]Circular accelerators[br/]Acceleration and RF-technology[br/]Beam diagnostics[br/]Accelerator magnets[br/]Injection and extraction systems[br/]Synchrotron radiation[br/][br/]    ",
+      "Type of teaching":"Ex cathedra"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to particle accelerators",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lpap.epfl.ch","http://lpap.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173996",
+      "name":"Rivkin Leonid"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Aperçu général et historique[br/]Dynamique transversale des particules dans les accélérateurs (linéaire  et non-linéaire)[br/]Dynamique longitudinale des particules dans les accélérateurs[br/]Accélérateurs linéaires[br/]Accélérateurs circulaires[br/]Accélération et technologie radio fréquence[br/]Diagnostique du faisceau[br/]Aimant des accélérateurs[br/]Système d'injection et extraction[br/]Rayonnement synchrotron",
+      "Prérequis":"Notion de relativité restreinte et d'électrodynamique",
+      "Bibliographie et matériel":"Ouvrages conseillés pendant le cours",
+      "Objectifs d'apprentissage":"Les accélérateurs jouent un rôle important pour la physique des particules élémentaires, pour l'analyse structurelle et dynamique de la matière ainsi que la médecine et l'industrie. Les bases théorie et  technologie des accélérateurs de particules sont présentées dans ce cours. Des projets innovateurs d'accélérateur pour la recherche et leurs applications sont également présentés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to particle accelerators",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

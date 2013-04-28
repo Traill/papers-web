@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","203(b)"],
+    "title":"Analysis III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106096",
+      "name":"Picasso Marco"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Present some elements of Vector Analysis and Fourier Analysis.[br/][br/]",
+      "Content":"[b]Vector analysis[/b][br/]- curvilinear integrals, surface integrals, volume integrals[br/]- differential operators: gradient, divergence, curl, laplacian[br/]- Stokes, divergence, theorems, Green formula[br/]- orthogonal curvilinear coordinates[br/][br/][b]Fourier analysis[/b][br/]- Fourier series[br/]- the heat and wave problems using Fourier series",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Required prior knowledge":"Analysis I, II, Linear Algebra"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-1019-5&amp;con_lng=ENG\" target=\"blank\">Analyse de Fourier et application aux problèmes de valeurs aux limites : cours et problèmes / Murray R. Spiegel; trad. par Romain Jacoud</a>\". Year:1994. ISBN:2-7042-1019-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-0003-3&amp;con_lng=ENG\" target=\"blank\">Analyse vectorielle : cours et problèmes / Murray R. Spiegel</a>\". Year:1994. ISBN:2-7042-0003-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106096",
+      "name":"Picasso Marco"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Algèbre linéaire",
+      "Bibliographie et matériel":"J. Rappaz, Analyse III-IV, polycopié EPFL. [br/]M. Spiegel, Analyse vectorielle et Analyse de Fourier, Shaum, McGraw-Hill 1973. ",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[b]Analyse vectorielle[/b][br/]- intégrales curvilignes, de surface, de volume[br/]- opérateurs gradient : divergence, rotationnel, laplacien[br/]- théorèmes de Stokes, Gauss (divergence), formules de Green[br/]- coordonnées curvilignes orthogonales[br/][br/][b]Analyse de Fourier[/b][br/]- séries de Fourier[br/]- problème de la chaleur et des ondes et séries de Fourier",
+      "Préparation pour":"L'étude des équations aux dérivées partielles en usage dans les sciences de l'ingénieur : cours de modélisation, mécanique des fluides, mécanique des solides",
+      "Objectifs d'apprentissage":"Présenter les outils de base de l'analyse vectorielle et de l'analyse de Fourier nécessaires aux sciences de l'ingénieur.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-1019-5&amp;con_lng=FRE\" target=\"blank\">Analyse de Fourier et application aux problèmes de valeurs aux limites : cours et problèmes / Murray R. Spiegel; trad. par Romain Jacoud</a>\". Année:1994. ISBN:2-7042-1019-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-0003-3&amp;con_lng=FRE\" target=\"blank\">Analyse vectorielle : cours et problèmes / Murray R. Spiegel</a>\". Année:1994. ISBN:2-7042-0003-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

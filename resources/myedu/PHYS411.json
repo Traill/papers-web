@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=138587084&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","411"],
+    "title":"Physics of atoms, nuclei and elementary particles",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=138587084&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160566",
+      "name":"Nakada Tatsuya"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Present the basic and common notions needed for describing atomic, nuclear and elementary particle physics.",
+      "Content":"- Introduction to general concepts commonly used in atomic, nuclear and elementary particle physics. [br/][br/]- Symmetry principles.[br/][br/]- Description of forces.[br/][br/]- Perturbation methods.[br/]",
+      "Type of teaching":"Ex cathedra, exercises in class and assignment presentation",
+      "Required prior knowledge":"Nuclear and particle physics[br/]Quantum mechanics I and II"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Physics of atoms, nuclei and elementary particles",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160566",
+      "name":"Nakada Tatsuya"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, exercices en classe et présentations",
+      "Contenu":"[b]Systèmes d'énergies renouvelables[/b][br/][br/]- Introduction aux concepts de base utilisés dans la physique atomique, des particules nucléaires et des particules élémentaires.[br/][br/]- Principes de symétrie.[br/][br/]- Description des forces.[br/][br/]- Méthode des perturbations.[br/] ",
+      "Prérequis":"Physique nucléaire et corpusculaire[br/]Physique quantique I et II",
+      "Objectifs d'apprentissage":"Présenter les notions générales de base nécessaires à la description de la physique atomique et des particules nucléaires et élémentaires."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Physics of atoms, nuclei and elementary particles",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

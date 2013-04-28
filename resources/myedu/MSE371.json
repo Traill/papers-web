@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771128&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","371"],
+    "title":"Functional materials in communication systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771128&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lc.epfl.ch/lc/TeachingLect.html","http://lc.epfl.ch/lc/TeachingLect.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    },{
+      "url":"http://people.epfl.ch/106518",
+      "name":"Tagantsev Alexander"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student will become familiar with important current and emerging materials for information and communication systems, and with the physical phenomena that govern the functioning of these materials.[br/]The student will understand the capacities and the limits of these materials in devices. ",
+      "Content":"Introduction to functional materials[br/]Logic devices and  processors (semiconductor materials, IC technology)[br/]Random access memories (charge storage materials) [br/]Data transmission  technology (optical fibers, lasers, etc.)[br/]Data acquisition technology : Technologies and materials for microsystems (AFM-based devices, artificial nose, imaging technologies, etc.)[br/]The course emphasizes the physical phenomena and the concepts that make the materials work and complements this with examples of presently used and emerging materials. Demonstrations and laboratory visits are included in the program.[br/][br/]",
+      "Bibliography and material":"Polycopié[br/]S. O. Kasap,  Principles of electronic materials and devices, 2nd Ed. McGraw Hill, ISBN 0-07-245161-0, 2002.",
+      "Form of examination":"Exercises and written exam.[br/]The final grade is attributed to the student based on the grade of the final examination (75%) and the average grade of home-work exercises (25%).",
+      "Required prior knowledge":"General physics, (electromagnetism)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Functional materials in communication systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-124458-1&amp;con_lng=ENG\" target=\"blank\">Principles of electronic materials and devices / S.O. Kasap</a>\". Year:2006. ISBN:0-07-124458-1</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lc.epfl.ch/lc/TeachingLect.html","http://lc.epfl.ch/lc/TeachingLect.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    },{
+      "url":"http://people.epfl.ch/106518",
+      "name":"Tagantsev Alexander"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"Introduction aux matériaux fonctionnels[br/]Logique et processeurs (matériaux semi-conducteurs, téchnologie des CI)[br/]RAM (matériaux pour le stockage des charges)[br/]Technologie de transmission de données (fibres optiques, lasers, etc.)[br/]Matériaux sensoriels (nez artificiel, technologie de champs proches, matériaux pour l'imagérie, téchnologies des microsystèmes, etc.).[br/]Le cours est centré autour des phénomènes physiques et des concepts qui sont à l'origine du fonctionnement des matériaux électroniques des systèmes informatiques et de communication. Des exemples de matériaux courants et de nouveaux matériaux illustrent les applications. Des visites sont inclues dans le programme.",
+      "Forme du contrôle":"Exercices et examen écrit.[br/]La note finale est attribuée à l'étudiant sur la base de la note de l'examen final (75%) et la moyenne des notes des exercices (25%)",
+      "Prérequis":"Physique générale, (électromagnétisme)",
+      "Bibliographie et matériel":"Polycopié[br/]S. O. Kasap,  Principles of electronic materials and devices, 2nd Ed. McGraw Hill, ISBN 0-07-245161-0, 2002.",
+      "Objectifs d'apprentissage":"L'étudiant(e) se familiarisera avec les principaux matériaux couramment utilisés ou en développement pour les systèmes informatiques et de communication, et les phénomènes physiques qui sont à l'origine de leur fonctionnement. Il (elle) acquérra les notions sur les possibilités et les limites de ces matériaux."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Functional materials in communication systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-124458-1&amp;con_lng=FRE\" target=\"blank\">Principles of electronic materials and devices / S.O. Kasap</a>\". Année:2006. ISBN:0-07-124458-1</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

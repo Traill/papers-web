@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228388747&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","474"],
+    "title":"Numerical flow simulation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228388747&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106362",
+      "name":"Sawley Mark"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Practical written/oral examination, mini-project",
+      "Bibliography and material":"Course material is available on-line [br/](http://moodle.epfl.ch/course/view.php?id=126)[br/]Various reference texts",
+      "Required prior knowledge":"[li]Numerical analysis[br/][li]Fluid mechanics[br/][li]Discretization methods (e.g. finite differences, finite elements)[br/][li]Computer-aided design (CAD)",
+      "Content":"The objective of this course is to provide practical experience in the numerical simulation of fluid, granular and multiphase flows. The course focuses on each of the three fundamental steps of numerical flow simulation: pre-processing, involving geometry creation and mesh generation; computation, including the selection of appropriate physical and numerical models to determine and resolve the governing partial differential equations; and post-processing, involving both visualization and quantitative analysis of the numerical solution.[br/]An overview of the broad theoretical aspects that constitute numerical flow simulation is provided in the lectures. A range of practical applications is considered through exercises and a mini-project using both commercial and open-source software packages.",
+      "Keywords":"Numerical simulation, Fluid mechanics, Mesh generation, Scientific visualization",
+      "Type of teaching":"Lectures, Practical exercises on workstations, mini-project",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Identify the crucial aspects present in a real flow in order to propose an appropriate modelling, AH10[br/][li]Identify the different steps in a numerical simulation (e.g. geometry and mesh generation, computation, post-processing) and integrate all the essential basic concepts in a numerical flow simulation, AH23[br/][li]Choose the appropriate wall treatment model for a given turbulent flow, AH26[br/][li]Choose the appropriate physical models and numerical methods to compute a physically-complex flow, such as a non-Newtonian, free surface or multiphase flow, AH27[br/][li]Analyse numerical solutions and identify any inconsistencies with respect to physical reality; understand and apply the concepts of verification and validation, AH29[br/][li]Perform a numerical simulation with appropriate software; understand the limits of each software in terms of its application domain and accuracy of the results obtained, AH41[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical flow simulation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106362",
+      "name":"Sawley Mark"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Analyse numérique[br/][li]Mécanique des fluides[br/][li]Méthodes de discrétisation (ex. différences finies, éléments finis) [br/][li]Conception assistée par ordinateur (CAO)",
+      "Bibliographie et matériel":"Matériel disponible en ligne (http://moodle.epfl.ch/course/view.php?id=126)[br/]Divers ouvrages de référence",
+      "Mots clés":"Simulation numérique, Mécanique des fluides, Génération de maillages, Visualisation scientifique",
+      "Forme d'enseignement":"Cours ex-cathedra, Exercices pratiques sur station de travail, mini-projet",
+      "Contenu":"L'objectif de ce cours est d'offrir une expérience pratique de la simulation numérique des écoulements fluides, granulaires et multiphasiques. Le cours porte sur les trois étapes fondamentales de la simulation numérique : pré-traitement, qui concerne la création de géométrie et la génération de maillages; calcul, comprenant la sélection des modèles physiques et numériques appropriés pour déterminer et résoudre les équations aux dérivées partielles régissant l'écoulement; et post-traitement, impliquant la visualisation et l'analyse quantitative de la solution numérique. Un résumé des aspects généraux qui constituent la simulation numérique des écoulements est fourni par la partie théorique du cours. Différentes applications pratiques sont étudiées à travers des exercices et un mini-projet, en utilisant des logiciels commerciaux et open-source.",
+      "Forme du contrôle":"Examen pratique écrit/oral, mini-projet",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Identifier les aspects cruciaux présents dans un écoulement  réel afin de proposer une modélisation appropriée, AH10[br/][li]Identifier les différentes étapes dans la simulation numérique (par ex. génération de géométrie et de maillage, calcul, post-traitement) et intégrer tous les concepts de base essentiels dans la simulation numérique d'un écoulement, AH23[br/][li]Choisir la modélisation appropriée dans le traitement des parois pour simuler un écoulement turbulent donné, AH26[br/][li]Choisir les modèles physiques et les méthodes numériques appropriées pour calculer un écoulement de physique complexe, tel que non newtonien, surface libre ou multiphasique, AH27[br/][li]Analyser des solutions numériques et identifier les inconsistances par rapport à la réalité physique; comprendre et appliquer les concepts de la vérification et de la validation, AH 29[br/][li]Effectuer une simulation numérique avec des logiciels appropriés ; comprendre les limitations de chaque logiciel en termes de champ d'application et de précision des résultats, AH41[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical flow simulation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773777&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","121"],
+    "title":"Geometry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773777&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course provides an introduction to curve and surface theory.[br/][br/]The main goal is to improve geometric intuition and vision through the study of curves and surfaces in the Euclidean plane and in Euclidean space.[br/]",
+      "Content":"Curves: parametrization, lengths, tangent vectors, curvature Bézier, curves.[br/][br/]Isometries: isometries of the Euclidean plane and of Euclidean space, algebraic and geometric classification of isometries.[br/][br/]Sufaces: parametrization, tangent planes, metric tensor, curves on surfaces, different types of curvature.",
+      "Form of examination":"Ex cathedra lecture and exercises in the classroom",
+      "Required prior knowledge":"Linear Algebra, Analysis I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geometry",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=ENG\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Year:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Courbes : paramétrisation, calcul de longueurs, vecteurs tangents, courbures, courbes de Bézier.[br/][br/]Isométries : isométries du plan et de l'espace euclidien, classification algébrique et géométrique des isométries.[br/][br/]Surfaces : paramétrisation, plan tangent, tenseur métrique, courbes sur les surfaces, les différentes notions de courbure.",
+      "Forme du contrôle":"Cours ex cathedra et exercices en salle",
+      "Prérequis":"Algèbre linéaire, analyse I",
+      "Bibliographie et matériel":"M. Troyanov, \"Cours de géométrie\"",
+      "Objectifs d'apprentissage":"Le cours présente une introduction à la théorie des courbes et surfaces.[br/][br/]Son but principal est de développer l'intuition et la vision géométrique à travers l'étude de courbes et surfaces dans le plan et l'espace euclidien."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Géométrie",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=FRE\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Année:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

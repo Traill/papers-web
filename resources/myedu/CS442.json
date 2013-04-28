@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4650155&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","442"],
+    "title":"Computer vision",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4650155&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://cvlab.epfl.ch/teaching/index.php","http://cvlab.epfl.ch/teaching/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112366",
+      "name":"Fua Pascal"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will be introduced to the basic techniques of the field of Computer Vision. He will learn to apply Image Processing techniques where appropriate.[br/][br/]Computer Vision is the branch of Computer Science whose goal is to model the real world or to recognize objects from digital images. These images can be acquired using video or infrared cameras,  radars or specialized sensors such as those used by doctors.[br/][br/]We will concentrate on the black and white and color images acquired using standard video cameras. We will introduce the  basic processing techniques.[br/]",
+      "Content":"[b]Introduction[/b][br/][li]\tHistory of Computer Vision[br/][li]\tHuman vs Machine Vision[br/][li]\tImage formation[br/][br/][b]2-D Image Analysis[/b][br/][li]\tScale-space[br/][li]\tDelineation[br/][li]\tTracking[br/][li]\tGray-level, color and texture segmentation[br/][br/][b]3-D Image Processing[/b][br/][li]\tShading[br/][li]\tStereo[br/][li]\tSilhouettes[br/][li]\tMotion",
+      "Type of teaching":"Ex cathedra, films and exercises on computer",
+      "Form of examination":"With continuous control",
+      "Bibliography and material":"V. S. Nalwa, A Guided Tour of Computer Vision, Addison-Wesley, 1993.[br/]D. A. Forsyth, J. Ponce, Computer Vision: A Modern Approach, Prentice Hall, 2002[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer vision",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-20-154853-4&amp;con_lng=ENG\" target=\"blank\">A guided tour of computer vision / Vishvjit S. Nalwa</a>\". Year:1993. ISBN:0-20-154853-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-085198-1&amp;con_lng=ENG\" target=\"blank\">Computer vision : a modern approach / David A. Forsyth, Jean Ponce</a>\". Year:2003. ISBN:0-13-085198-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://cvlab.epfl.ch/teaching/index.php","http://cvlab.epfl.ch/teaching/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112366",
+      "name":"Fua Pascal"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, films et exercices sur ordinateur",
+      "Contenu":"[b]Introduction[/b][br/][li]\tHistorique de la vision par ordinateur.[br/][li]\tVision humaine et Vision par Ordinateur[br/][li]\tFormation des images[br/][br/][b]Analyse d'images en deux dimensions[/b][br/][li]\tEspace des échelles[br/][li]\tDétection de contours[br/][li]\tSuivi d'objets[br/][li]\tSegmentation niveaux de gris, couleur et texture[br/][br/][b]La troisième dimension[/b][br/][li]\tOmbrage[br/][li]\tStéréographie[br/][li]\tSilhouettes[br/][li]\tMouvement",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Bibliographie et matériel":"V. S. Nalwa, A Guided Tour of Computer Vision, Addison-Wesley, 1993.[br/]D. A. Forsyth, J. Ponce, Computer Vision: A Modern Approach, Prentice Hall, 2002[br/]",
+      "Objectifs d'apprentissage":"L'étudiant pourra identifier le type de problèmes posés par la vision par ordinateur et saura mettre en oeuvre des méthodes adéquates de traitement d'image.[br/][br/]La vision par ordinateur est la branche de l'informatique qui tente de modéliser le monde réel ou de reconnaitre des objets à partir d'images digitales. Ces images  peuvent être acquises  par des caméras vidéos, infrarouges, des radars ou des senseurs specialisés tels ceux utilisés par les médecins.[br/][br/]Nous nous  concentrerons sur le  traitement d'images noir et  blanc ou couleur obtenues par des caméras vidéo classiques et nous introduirons les techniques de base."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer vision",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-20-154853-4&amp;con_lng=FRE\" target=\"blank\">A guided tour of computer vision / Vishvjit S. Nalwa</a>\". Année:1993. ISBN:0-20-154853-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-085198-1&amp;con_lng=FRE\" target=\"blank\">Computer vision : a modern approach / David A. Forsyth, Jean Ponce</a>\". Année:2003. ISBN:0-13-085198-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

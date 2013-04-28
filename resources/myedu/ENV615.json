@@ -1,0 +1,89 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412895983&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","615"],
+    "title":"Environmental Economics for Engineers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412895983&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://reme.epfl.ch/page-54814-en.html","http://reme.epfl.ch/page-54814-en.html"],["http://campus.hesge.ch/baranzia/","http://campus.hesge.ch/baranzia/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139020",
+      "name":"Baranzini Andrea"
+    },{
+      "url":"http://people.epfl.ch/106542",
+      "name":"Thalmann Philippe"
+    },{
+      "url":"http://people.epfl.ch/177861",
+      "name":"Vielle Marc"
+    },{
+      "url":"http://people.epfl.ch/179307",
+      "name":"Vöhringer Frank"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] Good understanding of economic mechanisms, particularly as regards environmental issues.[br/][li] Capacity to evaluate assessments of environmental impacts and natural resources.[br/][li] Capacity to contribute to the formulation of environmental and climate change policies.[br/]",
+      "Content":"[li] Introduction to economics: supply, demand, markets and prices (3h).[br/][li] Economic decision making, in particular cost-benefit analysis (3h).[br/][li] Assessment of economic impacts and natural resources (14h).[br/][li] Applied environmental economic modeling (14h).[br/][li] The economics of sustainable development (8h).[br/][li] Environmental policy, in particular for climate protection and climate change mitigation and adaptation (14h).[br/]",
+      "Note":"This course will be organised in half- or full-day blocs over a few weeks"
+    },
+    "practical":{
+      "total_hours":2
+    },
+    "language":"English",
+    "title":"Environmental Economics for Engineers",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":51
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://reme.epfl.ch/page-54814-en.html","http://reme.epfl.ch/page-54814-en.html"],["http://campus.hesge.ch/baranzia/","http://campus.hesge.ch/baranzia/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139020",
+      "name":"Baranzini Andrea"
+    },{
+      "url":"http://people.epfl.ch/106542",
+      "name":"Thalmann Philippe"
+    },{
+      "url":"http://people.epfl.ch/177861",
+      "name":"Vielle Marc"
+    },{
+      "url":"http://people.epfl.ch/179307",
+      "name":"Vöhringer Frank"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course will be organised in half- or full-day blocs over a few weeks",
+      "Contenu":"[li] Introduction to economics: supply, demand, markets and prices (3h).[br/][li] Economic decision making, in particular cost-benefit analysis (3h).[br/][li] Assessment of economic impacts and natural resources (14h).[br/][li] Applied environmental economic modeling (14h).[br/][li] The economics of sustainable development (8h).[br/][li] Environmental policy, in particular for climate protection and climate change mitigation and adaptation (14h).",
+      "Objectifs d'apprentissage":"[li] Good understanding of economic mechanisms, particularly as regards environmental issues.[br/][li] Capacity to evaluate assessments of environmental impacts and natural resources.[br/][li] Capacity to contribute to the formulation of environmental and climate change policies."
+    },
+    "practical":{
+      "total_hours":2
+    },
+    "language":"English",
+    "title":"Environmental Economics for Engineers",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":51
+    }
+  }
+}

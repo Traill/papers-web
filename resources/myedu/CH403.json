@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771263&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","403"],
+    "title":"Mass spectrometry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771263&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174689",
+      "name":"Tsybin Yury"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Become familiar with the principles of mass spectrometric techniques and their applications in chemistry, biology, life science, environmental and forensic science.[br/][br/]Mass spectrometry is a rapidly developing analytical technique with applications in many areas of science and technology. The current course covers basics of both fundamental and applied aspects of modern mass spectrometry. The emphasis is made on mass spectrometry application in peptide and protein structural analysis, including proteomics, targeted and broadband analysis of organic and inorganic molecules and their complex mixtures, including metabolomics and petroleomics. Discussion on the role of mass spectrometry in forensics and environmental sciences, accompanied by a short overview of portable mass spectrometers is specifically aimed for specialists in scientific police-related chemistry. The course will be concluded by a series of experimental stations (to be performed in small size groups of participants), including practical work on peptide sequencing, overview and demonstration of modern mass spectrometric platforms available at the EPFL in the Proteomics core facility (PCF, FSV), MS service facility (ISIC, FSB) and in Biomolecular MS laboratory (LSMB, ISIC, FSB).[br/][br/]",
+      "Content":"[br/][li] Mass spectrometry history[br/][li] Isotopes and molecular weight[br/][li] Mass analyzers[br/][li] Ion sources, ion detectors[br/][li] Mass spectrometers[br/][li] Combination with liquid separation[br/][li] Tandem mass spectrometry (MS/MS)[br/][li] Gas-phase ion chemistry/physics[br/][li] Organic mass spectrometry [br/][li] Biological mass spectrometry, proteomics[br/][li] Mass spectrometry in medical research[br/][li] Mass spectrometry in environmental science[br/][li] Mass spectrometry in forensics[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mass spectrometry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-85404-609-7&amp;con_lng=ENG\" target=\"blank\">Mass spectrometry : a foundation course / K. Downard</a>\". Year:2004. ISBN:0-85404-609-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-03310-4&amp;con_lng=ENG\" target=\"blank\">Mass spectrometry : principles and applications / Edmond De Hoffman, Vincent Stroobant</a>\". Year:2007. ISBN:978-0-470-03310-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-049449-X&amp;con_lng=ENG\" target=\"blank\">SpectromÃ©trie de masse : cours et exercices corrigÃ©s / Edmond de Hoffmann, Vincent Stroobant</a>\". Year:2005. ISBN:2-10-049449-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174689",
+      "name":"Tsybin Yury"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: Chimie générale, Physique générale, Chimie analytique, Biochimie générale",
+      "Bibliographie et matériel":"K. Downard. Mass Spectrometry - A Foundation Course. The Royal Society of Chemistry, 2004.[br/]E. Hoffmann, V. Stroobant. Mass Spectrometry - Principles and Applications. English version: Second edition, John Wiley and Sons, 2002; [br/]E. Hoffmann, V. Stroobant. Spectrometrie de masse. Cours et exercices corriges. French version: Third edition, Dunod, Paris, 2005 (suggested for French-only speaking course participants)[br/] ",
+      "Forme d'enseignement":"Ex cathedra. Discussions possible en français.",
+      "Contenu":"[br/][li] Histoire de la spectrométrie de masse[br/][li] Isotopes et masse moléculaire[br/][li] Analyseur de masse[br/][li] Sources de ions et détecteurs[br/][li] Spectromètres de masse[br/][li] Combinaison avec la séparation en phase liquide[br/][li] Tandem de spectromètres (MS/MS)[br/][li] Chimie/physique des ions en phase gazeuse[br/][li] Spectromètre de masse organique[br/][li] Spectrométrie de masse biologique, protéomique[br/][li] Spectrométrie de masse en recherche médicale[br/][li] Spectrométrie de masse environnementale[br/][li] Spectrométrie de masse en criminalistique",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Se familiariser avec les principes techniques de spectrométrie de masse, leurs applications en chimie, biologie, science du vivant, environnement et sciences forensiques.[br/][br/]La spectrométrie de masse est une technique analytique au développement rapide avec des applications nouvelles dans de nombreux domaines scientifiques ou techniques. Le cours couvre les bases des aspects scientifiques et appliqués de la spectrométrie de masse moderne. Un accent est porté sur l'analyse structurale de peptides et protéines, inclus protéomique, analyse ciblée ou à large spectre de molécules organiques ou inorganiques et leurs mélanges complexes ainsi que la métabolomique et la pétroléomique. Une discussion du rôle de la spectrométrie de masse en sciences environnementales et forensiques accompagné pas une brève revue des spectromètres de masse portables est  spécifiquement destinée aux spécialistes de la police scientifique. Le cours se terminera par une série de situations pratiques (réalisées par petits groupes) comprenant du séquençage de peptides, et démonstrations de plateformes modernes de spectrométrie de masse disponibles à l'EPFL aux Proteomics core facility (PCF, FSV), Service de spectrométrie de masse (ISIC, FSB) et Laboratoire de MS biomoléculaire (LSMB, ISIC, FSB)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mass spectrometry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-85404-609-7&amp;con_lng=FRE\" target=\"blank\">Mass spectrometry : a foundation course / K. Downard</a>\". Année:2004. ISBN:0-85404-609-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-03310-4&amp;con_lng=FRE\" target=\"blank\">Mass spectrometry : principles and applications / Edmond De Hoffman, Vincent Stroobant</a>\". Année:2007. ISBN:978-0-470-03310-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-049449-X&amp;con_lng=FRE\" target=\"blank\">SpectromÃ©trie de masse : cours et exercices corrigÃ©s / Edmond de Hoffmann, Vincent Stroobant</a>\". Année:2005. ISBN:2-10-049449-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

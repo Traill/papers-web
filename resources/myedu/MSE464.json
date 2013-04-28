@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840793830&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","464"],
+    "title":"",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840793830&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"intermediate tests after each bloc of subjects (metals, ceramics, polymers) + presentation of a case study.[br/]The final grade is composed to 50% by the grades of the tests and to 50% by the grade for the case study",
+      "Prerequisite for":"Master thesis",
+      "Required prior knowledge":"Knowledge in materials sciences",
+      "Content":"[li]Assembly systems[br/][br/][li]Metallic assemblies[br/]Assembly systems[br/]Brazing and welding[br/]Welding techniques[br/]Phenomena due to surfaces and interfaces[br/][br/][li]Polymer assemblies [br/]Theoretical aspects of adhesion[br/]Principal classes of adhesives and their applications[br/]Properties of polymeric joints[br/]Polymer interdiffusion in plastic welding[br/]Mechanical methods of plastic joining[br/][br/][li]Assemblies of ceramics[br/]Presentation of techniques used to make a ceramic/metal/glass joint[br/]Description of the physical and chemical bases determining the properties of heterogeneous joint[br/]Discussions of several typical applications[br/][br/]",
+      "Type of teaching":"Ex cathedra, seminars, workshop demonstration, exercises",
+      "Learning outcomes":"General knowledge about the possibilities of assembling different materials using either homogeneous or heterogeneous joints. Mechanical behaviour under mechanical loadings and environmental stress. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Connaissance en sciences des matériaux",
+      "Bibliographie et matériel":"Various documents ",
+      "Forme d'enseignement":"Ex cathedra, conférences, démonstration en atelier, exercices",
+      "Contenu":"[li]Systèmes d'assemblage[br/][br/][li]Assemblages métalliques[br/]Systèmes d'assemblage[br/]Brasage et soudage[br/]Procédés de soudage[br/]Phénomènes liés aux surfaces et interfaces[br/][br/][li]Assemblages des polymères [br/]Aspects théoriques du collage[br/]Types d'adhésifs et applications[br/]Comportement des joints collés[br/]Méthodes de soudage[br/]Interdiffusion des polymères[br/]Rivetage et encliquetage[br/][br/][li]Assemblages des céramiques[br/]Présentations des techniques utilisées pour la réalisation de joint céramique/métal/verre[br/]Description des phénomènes physiques et chimiques fondamentaux influençant le comportement des joints hétérogènes[br/]Discussion de plusieurs applications typ",
+      "Forme du contrôle":"Contrôle ponctuel après chaque bloc (métaux, céramiques et polymères) + présentation d'un projet[br/]Pondération : 50 % tests + 50 % projet",
+      "Préparation pour":"Projet de master",
+      "Objectifs d'apprentissage":"Connaissances succinctes de quelques possibilités d'assemblages des matériaux par joints homogènes ou hétérogènes. Comportement des joints sous sollicitations mécaniques ou par l'environnement."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Assembly techniques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

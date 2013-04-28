@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30685390&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","619"],
+    "title":"Practical - Kühn Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30685390&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169558",
+      "name":"Kühn Lukas"
+    },{
+      "url":"http://people.epfl.ch/187737",
+      "name":"Pauchard-Batschulat Ramona"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Note":"This course has been cancelled and won't take place any more!"
+    },
+    "practical":{
+      "total_hours":21
+    },
+    "language":"English",
+    "title":"Practical - Kühn Lab",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":3
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169558",
+      "name":"Kühn Lukas"
+    },{
+      "url":"http://people.epfl.ch/187737",
+      "name":"Pauchard-Batschulat Ramona"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":21
+    },
+    "language":"English",
+    "title":"Practical - Kühn Lab",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":3
+    }
+  }
+}

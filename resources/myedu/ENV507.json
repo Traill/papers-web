@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348637649&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","507"],
+    "title":"Fate and behaviour of organic pollutants",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348637649&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["Moodle.epfl.ch","Moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    },{
+      "url":"http://people.epfl.ch/173999",
+      "name":"Kohn Tamar"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"50 % continuous control (term project)[br/]50 % final written test (120 min) during the exam session[br/]",
+      "Prerequisite for":"Master project",
+      "Required prior knowledge":"General chemistry; Environmental chemistry",
+      "Content":"-  Phase transfer processes including vapor-liquid partitioning, liquid-liquid partitioning, and sorption processes[br/]-  Mass transfers through boundary layers, kinetics of air-water exchange;[br/]Structure-Activity relationships; [br/]-  Substitution and elimination reactions [br/]-  Hydrolysis reactions, incl. catalysis by metal ions and metal oxides[br/]-  Environmental redox reactions: Electron transfer reactions: inner and outer sphere reactions[br/]-  Direct and indirect photolysis reactions[br/]Effect of water constituents (NOM, metal ions and metal oxides) on reactions[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, exercises, term projects",
+      "Learning outcomes":"[li]Familiarize students with the behaviors and fate (transport and transformations) of organic contaminants in the environment. [br/][li]Understand the underlying molecular-level descriptors that determine phase partitioning, reaction mechanisms, and kinetics. [br/][li]Introduction into the most important tools in deducing mechanisms.[br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fate and behaviour of organic pollutants",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-35750-2&amp;con_lng=ENG\" target=\"blank\">Environmental organic chemistry / Rene P. Schwarzenbach, Philip M. Gschwend, Dieter M. Imboden</a>\". Year:2003. ISBN:0-471-35750-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["Moodle.epfl.ch","Moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    },{
+      "url":"http://people.epfl.ch/173999",
+      "name":"Kohn Tamar"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Chimie générale, Chimie environnementale",
+      "Bibliographie et matériel":"Schwarzenbach, Gschwend, Imboden: Environmental Organic Chemistry, Wiley 2003[br/]",
+      "Forme d'enseignement":"Ex cathedra, exercices, projets",
+      "Contenu":"-\tProcédé de transfert de phase, y compris partition vapeur-liquide, partition liquide-liquide et procédé de sorption[br/]-\tTransfert de masse à travers les couches limites, cinétique de l'échange air-eau [br/]-\tRelations entre structure et activité[br/]-\tRéactions de substitution et d'élimination[br/]-\tRéactions d'hydrolyse, y compris catalyse par les ions métalliques et les oxydes de métaux[br/]-\tRéactions redox environnementales : Réactions de transfert d'électrons : Réactions de sphère interne et externe[br/]-\tRéactions de photolyse directe et indirecte[br/]-\tEffet des constituants de l'eau (NOM, ions métalliques et oxydes de métaux) sur les réactions[br/]",
+      "Forme du contrôle":"50 % contrôle continu (projet) durant le semestre[br/]50 % épreuve écrite (120 min) durant la session d'examen",
+      "Préparation pour":"Projet de master",
+      "Objectifs d'apprentissage":"[li]Familiariser l'étudiant avec le comportement et le sort (transport et transformations) de contaminants organiques dans l'environnement. [br/][li]Comprendre les éléments au niveau moléculaire sous-jacents permettant de déterminer la partition de phase, les mécanismes de réactions et la cinétique. [br/][li]Introduction aux outils les plus importants pour la déduction de mécanismes.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fate and behaviour of organic pollutants",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-35750-2&amp;con_lng=FRE\" target=\"blank\">Environmental organic chemistry / Rene P. Schwarzenbach, Philip M. Gschwend, Dieter M. Imboden</a>\". Année:2003. ISBN:0-471-35750-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

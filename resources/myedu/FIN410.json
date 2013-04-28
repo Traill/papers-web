@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=236283202&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","410"],
+    "title":"Real options and financial structuring",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=236283202&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188388",
+      "name":"Valta Philip"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Homework is open book. Final exam is closed-book.",
+      "Form of examination":"30% Homework[br/]70% Final exam",
+      "Bibliography and material":"Dixit and Pindyck, Investment under Uncertainty, Princeton University Press",
+      "Required prior knowledge":"Derivatives[br/]Introduction to finance[br/]Quantitative methods in finance[br/]Stochastic calculus I[br/]Stochastic calculus II",
+      "Content":"1. Capital structure[br/]2. The security issuance process[br/]3. Valuation of corporate securities[br/]4. Introduction to real options[br/]5. Introduction to continuous time models[br/]6. Risk Management",
+      "Keywords":"Real options; Financial Contracting; Financing Decisions",
+      "Type of teaching":"Lectures, homework",
+      "Learning outcomes":"Introduces students to real options theory and applications of option pricing theory to financial contracting under uncertainty."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Real options and financial structuring",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-691-03410-9&amp;con_lng=ENG\" target=\"blank\">Investment under uncertainty / Avinash K. Dixit and Robert S. Pindyck</a>\". Year:1994. ISBN:0-691-03410-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188388",
+      "name":"Valta Philip"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Les devoirs sont à livre ouvert. L'examen est à livre fermé.",
+      "Prérequis":"Derivatives[br/]Introduction to finance[br/]Quantitative methods in finance[br/]Stochastic calculus I[br/]Stochastic calculus II ",
+      "Bibliographie et matériel":"Dixit and Pindyck, Investment under Uncertainty, Princeton University Press",
+      "Mots clés":"Options réelles; Contrats financiers; Décisions de financement",
+      "Forme d'enseignement":"Cours, devoirs",
+      "Contenu":"1. Structure du capital[br/]2. Emission des titres financiers[br/]3. Evaluation des titres financiers[br/]4. Introduction aux options réelles[br/]5. Introduction aux modèles en temps continu[br/]6. Gestion des risques financiers",
+      "Forme du contrôle":"30% Devoirs[br/]70% Examen final",
+      "Objectifs d'apprentissage":"Cours qui couvre de manière exhaustive les options réelles ainsi que différentes applications de la théorie des options aux contrats financiers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Real options and financial structuring",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-691-03410-9&amp;con_lng=FRE\" target=\"blank\">Investment under uncertainty / Avinash K. Dixit and Robert S. Pindyck</a>\". Année:1994. ISBN:0-691-03410-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

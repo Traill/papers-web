@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=232190328&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","203"],
+    "title":"Integrated labo in Life sciences I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=232190328&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181957",
+      "name":"Grisoni-Neupert Barbara"
+    },{
+      "url":"http://people.epfl.ch/168670",
+      "name":"Lingner Joachim"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the theory and practice of some basic experimental techniques in molecular and cellular biology and biochemistry. Manipulation of nucleic acids and proteins, culturing of bacterial and mammalian cells.[br/]To build skills in acquiring and analysing experimental data.",
+      "Content":"Theory and practice of the following techniques:[br/][br/][li] Good laboratory practice[br/][li] Sterile techniques: work with bacteria and mammalian cells[br/][li] Isolation and manipulation of nucleic acids and proteins; quality control[br/][li] DNA delivery into cells[br/][li] cDNA cloning and protein expression in mammalian cells[br/][li] Reverse transcription and polymerase chain reaction[br/][li] Agarose gel electrophoresis of nucleic acids[br/][li] SDS polyacrylamide gel electrophoresis of proteins and Western blot[br/][li] Analysis of an enzyme activity.[br/]"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Integrated labo in Life sciences I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181957",
+      "name":"Grisoni-Neupert Barbara"
+    },{
+      "url":"http://people.epfl.ch/168670",
+      "name":"Lingner Joachim"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"BCM I ; Biol I ; Chimie biologique 1",
+      "Bibliographie et matériel":".ppt et .pdf sur Moodle",
+      "Forme d'enseignement":"Travaux pratiques",
+      "Contenu":"Théorie et pratique des techniques suivantes :[br/][br/][li] Bonnes pratiques au laboratoire[br/][li] Techniques stériles: travailler avec des bactéries et cellules de mammifères[br/][li] Isolation et manipulation d'acides nucléiques et de proteins; contrôle de qualité[br/][li] Introduction d'ADN dans des cellules[br/][li] Clonage d'ADNc, expression de protéines dans des cellules de [br/]mammifères[br/][li] Transcriptase inverse et réaction en chaîne de la polymérase[br/][li] Electrophorèse d'acides nucléiques sur gel d'agarose[br/][li] Electrophorèse de protéines sur gel de polyacrylamide avec SDS et Immunoblot[br/][li] Essai et mesure d'activité enzyme",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Master en Sciences & Technologies du Vivant et Bioingénierie ",
+      "Objectifs d'apprentissage":"Introduction à la théorie et pratique de techniques expérimentales de base en biologie moléculaire et cellulaire et en biochimie. Manipulations des acides nucléiques et des protéines, ainsi que des cultures de bactéries et de cellules de mammifères.[br/]Développer des compétences dans l'acquisition et l'analyse de données expérimentales."
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Labo intégré en sciences de la vie I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598001339&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","632"],
+    "title":"Fusion and industrial plasma technologies",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598001339&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104368",
+      "name":"Alberti Stefano"
+    },{
+      "url":"http://people.epfl.ch/113537",
+      "name":"Bruzzone Pierluigi"
+    },{
+      "url":"http://people.epfl.ch/105038",
+      "name":"Duval Basil"
+    },{
+      "url":"http://people.epfl.ch/105077",
+      "name":"Fasel Damien"
+    },{
+      "url":"http://people.epfl.ch/112367",
+      "name":"Hogge Jean-Philippe"
+    },{
+      "url":"http://people.epfl.ch/105413",
+      "name":"Hollenstein Christoph"
+    },{
+      "url":"http://people.epfl.ch/105426",
+      "name":"Howling Alan"
+    },{
+      "url":"http://people.epfl.ch/105777",
+      "name":"Martin Yves"
+    },{
+      "url":"http://people.epfl.ch/106982",
+      "name":"Spätig Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course provides an overview of the technologies that are essential for fusion developments and[br/]for industrial plasma applications, highlighting the synergies between the two fields. The aim is to[br/]provide a combined theoretical and experimental backgorund to the various topics, including[br/]vacuum technologies, cryogenics, high current and voltage systems, materials for fusion,[br/]superconducting magnets, control and data acquisition, electrical arcs, plasma fuelling, mm-wave[br/]systems, plasma fuelling and the tritium cycle in fusion reactors. The introductory plasma physics[br/]and fusion courses are a pre-requisite.",
+      "Content":"The course will consist of three parts:[br/]1. Common aspects of fusion and industrial plasma technologies[br/]-Vacuum technologies; Cryogenics; Electrical arcs; High current and voltage systems (3 weeks)[br/]2. Specific fusion aspects[br/]-Control and data acquisition (1 week)[br/]-mm-wave sytems (2 weeks)[br/]-Plasma fuelling and tritium cycle (1 week)[br/]-Materials for fusion (3 weeks)[br/]-Superconducting magnets for fusion (2 weeks)[br/]3. Specific industrial plasma applications techniques (2 weeks)",
+      "Required prior knowledge":"Basic plasma physics and fusion courses"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fusion and industrial plasma technologies",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104368",
+      "name":"Alberti Stefano"
+    },{
+      "url":"http://people.epfl.ch/113537",
+      "name":"Bruzzone Pierluigi"
+    },{
+      "url":"http://people.epfl.ch/105038",
+      "name":"Duval Basil"
+    },{
+      "url":"http://people.epfl.ch/105077",
+      "name":"Fasel Damien"
+    },{
+      "url":"http://people.epfl.ch/112367",
+      "name":"Hogge Jean-Philippe"
+    },{
+      "url":"http://people.epfl.ch/105413",
+      "name":"Hollenstein Christoph"
+    },{
+      "url":"http://people.epfl.ch/105426",
+      "name":"Howling Alan"
+    },{
+      "url":"http://people.epfl.ch/105777",
+      "name":"Martin Yves"
+    },{
+      "url":"http://people.epfl.ch/106982",
+      "name":"Spätig Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fusion and industrial plasma technologies",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

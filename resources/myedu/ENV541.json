@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499350407&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","541"],
+    "title":"Sensor orientation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499350407&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["Moodle: http://moodle.epfl.ch/course/info.php?id=7541","Moodle: http://moodle.epfl.ch/course/info.php?id=7541"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126005",
+      "name":"Skaloud Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The presence of inertial sensors such as gyroscopes and accelerometers is ranging from mass-market personal devices (e.g. smartphones) to aircrafts, or space shuttles. They are also indispensible when orienting cameras, lasers or radars placed on moving platforms for mobile mapping and remote sensing. This course is aimed at teaching the fundamentals of inertial technology for trajectory determination, 3D attitude estimation and sensor orientation as well as their integration with satellite positioning. [br/][li]\tTo learn the principals of kinematic modelling and estimation of 3D motion with respect to global frames.  [br/][li]\tTo understand inertial sensors and their error models. [br/][li]\tTo develop algorithms for the optimal estimation of trajectory parameters by Kalman Filtering.[br/][li]\tTo grasp the importance of acquiring position and orientation together with other environmental data (mobile mapping/remote sensing).[br/][br/][br/][br/]",
+      "Content":"[b]Lectures[/b] [br/][li]Concept and principles. [li]Inertial and other reference frames. [li]Gyroscope and accelerometer technology. [li]Attitude parameterization and modeling. [li]Strapdown mechanization. [li]Initial alignment. [li]Random processes and noise models. [li]Bayes and Kalman Filters. [li]External aiding [br/]INS/GNSS integration and reliability. [li]Application to mobile mapping and remote sensing[br/][br/][b]Labs[/b] [br/][li]Estimating and characterizing sensor errors in synthetic and real data (practical lab / real instruments) [li]Determining trajectory from ideal and realistic inertial data [li]Witnessing inertial physics (practical lab / real instruments) [li]Performing Kalman Filtering with different motion models [li]Setting up loosely coupled INS/GNSS integration [br/][br/]",
+      "Type of teaching":"Ex cathedra, exercises (part. in computer room), demonstrations[br/]",
+      "Form of examination":"Continuous control, 3 tests",
+      "Required prior knowledge":"Recommanded: advanced satellite positioning, signals and systems, signal processing "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Sensor orientation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["Moodle: http://moodle.epfl.ch/course/info.php?id=7541","Moodle: http://moodle.epfl.ch/course/info.php?id=7541"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126005",
+      "name":"Skaloud Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Recommandés: advanced satellite positioning, signals and systems, signal processing ",
+      "Bibliographie et matériel":"Polycopiés, exercices corrigés, mode d'emploi de logiciels",
+      "Forme d'enseignement":"Cours ex cathedra, exercices (partiellement en salle informatique), démonstrations",
+      "Contenu":"[b]Cours[/b][br/][li]Concepts et principes. [li]Inertiel and autres cadres de référence. [li]Technologie des gyroscopes et accéléromètres. [li]Paramètres et modèles d'attitude. [li]Méchanisation strapdown.[br/]Alignement initial. [li]Processus aléatoire et modèles de bruits. [li]Fitres Bayésiens et de Kalman. [li]Aide extérieure. [li]Intégration INS/GNSS et fiabilité. [li]Applications en cartographie mobile et télédétection.[br/][br/][b]Exercices pratiques[/b][br/][li]Estimation et caractérisation des erreurs des capteurs avec des données de synthèse et des données réelles (pratique avec instruments). [li]Détermination de trajectoires à partir de données inertielles idéales et réalistes. [li]Principes de la physique inertielle (pratique avec instruments). [li]Filtre de Kalman avec différents modèles de vitesse. [li]Intégration INS/GNSS avec un couplage lâche. [br/]",
+      "Forme du contrôle":"Contrôle continu, 3 épreuves (tests)",
+      "Objectifs d'apprentissage":"Les capteurs inertiels (ex. gyroscopes et accéléromètres) font partie intégrante des périphériques du marché de masse de la téléphonie (smartphones), des équipements de bord des avions et des navettes spatiales. Ils sont indispensables pour orienter une caméra, un laser ou un radar placés sur une plateforme mobile pour la cartographie et la télédétection. Ce cours a pour but d'enseigner les bases des technologies inertielles pour la détermination de trajectoire, l'estimation d'attitude (3D) et l'orientation de capteurs, ainsi que leur intégration avec les méthodes de localisation par satellites.[br/][li] Apprendre les principes de la modélisation cinématique et de l'estimation des vitesses en 3D par rapports aux cadres globaux de coordonnées. [li] Comprendre les bases de capteurs inertiels et leurs modèles d'erreur. [li] Développer des algorithmes pour l'estimation optimale des paramètres d'une trajectoire en utilisant le filtre de Kalman. [li]\tSaisir l'importance de l'acquisition de positions et de paramètres d'orientations en relation avec des données environnementales (cartographie mobile, télédétection)[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Sensor orientation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

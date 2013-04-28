@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775072&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","531"],
+    "title":"Nanotechnology II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775072&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    },{
+      "url":"http://people.epfl.ch/145781",
+      "name":"Brugger Jürgen"
+    },{
+      "url":"http://people.epfl.ch/102445",
+      "name":"Maeder Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Modern engineered systems involve increasingly structures and devices that cover several length-scales from the macroscale (10-3m) over the micron-scale (10-6m) down to the nanoscale (10-9 m). By scaling down systems from micro to nanoscale, several fundamental issues, e.g. how to make, how to see and how to assemble or dissemble small objects, differ drastically from the well-known macroscopic methods.[br/][br/]The lectures and exercises provide details on issues such as the fabrication, the observation and the manipulation of objects that are 100-10000 times smaller than a human hair. With its high degree of interdisciplinarity the course provides the scientific basis as well as a comprehensive insight in technological concepts that are relevant for engineers interested in the field of advanced nanosystems.[br/]",
+      "Content":"[b]Nanotechnologie I + II, annual course[/b][br/][br/]Introduction[br/]Nano-materials[br/]Nano Fabrication[br/]Characterization[br/]Applications[br/]",
+      "Prerequisite for":"Semester and Master projects"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanotechnology II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    },{
+      "url":"http://people.epfl.ch/145781",
+      "name":"Brugger Jürgen"
+    },{
+      "url":"http://people.epfl.ch/102445",
+      "name":"Maeder Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[b]Nanotechnologie I + II, cours annuel[/b][br/][br/]Introduction[br/]Nanomatériaux [br/]Nanofabrication[br/]Caractérisation des nanosystèmes[br/]Applications",
+      "Préparation pour":"Projets de semestre et master",
+      "Objectifs d'apprentissage":"Aujourd'hui, la conception des systèmes modernes implique l'intégration de structures à différentes échelles allant de quelques nanomètres à quelques millimètres. En passant aux dimensions nanométriques, quelques notions fondamentales telles que la fabrication, la caractérisation, l'assemblage et le désassemblage, se distinguent d'une façon radicale des méthodes connues dans les dimensions macroscopiques.[br/][br/]Dans le cadre de ce cours et des séances d'exercices les concepts liés à la fabrication, l'observation et la manipulation d'objets 100 à 10'000 fois plus petits qu'un cheveu humain, sont expliqués en détails. Avec un haut niveau d'interdisciplinarité, ce cours fournit les bases scientifiques et les aperçus technologiques nécessaires pour tout ingénieur intéressé par les nanosystèmes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanotechnology II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

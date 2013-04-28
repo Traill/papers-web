@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772437&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","264"],
+    "title":"Biological chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772437&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106666",
+      "name":"Vogel Horst"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understanding the principles of biochemical reactions and cellular functions.[br/]knowing the different molecular [br/][li]components of biological cells: their composition and function[br/][li]understanding the principles of the use of genetic information and the different mechanisms of evolution[br/][li]understanding the basics of regulation mechanisms on enzyme and gene level[br/]",
+      "Content":"[b]Molecular cell components:[/b][br/]polysaccharides, nucleic acids (DNA, RNA), proteins (structure, functions, major enzyme classes), lipids, lipoproteins, membranes, cofactors, and vitamins[br/][b]Use of genetic information and mechanisms of evolution:[/b][br/]transcription, translation, replication, vertical and horizontal evolution[br/][b]Regulation on enzyme and gene level:[/b][br/]regulation of enzymatic activity, regulation of transcription: induction, repression, positive control, attenuation, global control, transduction of signals"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biological chemistry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4292-7635-1&amp;con_lng=ENG\" target=\"blank\">Biochemistry / Jeremy M. Berg, John L. Tymoczko, Lubert Stryer</a>\". Year:2012. ISBN:978-1-4292-7635-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106666",
+      "name":"Vogel Horst"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra.",
+      "Contenu":"[b]Composantes moléculaires des cellules :[/b][br/]polysaccharides, acides nucléiques (ADN, ARN), protéines (structure, fonctions, principales classes d'enzymes), lipides, lipoprotéines, membranes, cofacteurs et vitamines[br/][b]Utilisation de l'information génétique et mécanismes d'évolution:[/b][br/]transcription, traduction, réplication, évolution verticale et horizontale[br/][b]Régulation aux niveaux génétiques et biochimiques :[/b][br/]régulation de l'activité enzymatique, régulation de la transcription : induction, répression, contrôle positif, contrôle global, atténuation, transduction des signaux",
+      "Préparation pour":"\"Biophysique moléculaire et cellulaire I et II\"",
+      "Bibliographie et matériel":"J.M. Berg, J.L. Tymoczko, L. Stryer: \"Biochemistry\", 5th edition, Freeman 2002",
+      "Objectifs d'apprentissage":"Comprendre et savoir interpréter les principales actions biochimiques et le fonctionnement des cellules comme conséquence des propriétés des molécules.[br/][li]connaître les différentes composantes moléculaires des cellules : leur composition et leurs fonctions[br/][li]apprendre les principes de l'utilisation de l'information génétique et les mécanismes d'évolution[br/][li]apprendre les différents systèmes de régulation aux niveaux génétiques et biochimiques"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie biologique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4292-7635-1&amp;con_lng=FRE\" target=\"blank\">Biochemistry / Jeremy M. Berg, John L. Tymoczko, Lubert Stryer</a>\". Année:2012. ISBN:978-1-4292-7635-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23939045&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","313"],
+    "title":"Electromechanics conversion II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23939045&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105563",
+      "name":"Köchli Christian"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Students will be able to use the electro¬mechanical specific methods, to analyse the external characteristics of the main electric motors and to design an electric drive.",
+      "Content":"[b]Transducers[/b][br/][li]Reluctant[br/][li]Electrodynamic[br/][li]Electromagnetic[br/][li]Hybrid[br/][br/][b]Motors[/b][br/][li]Rotating field and space phaser[br/][li]Synchronous motor : principle and structure, (open-loop mode, self-commutated motor, generator)[br/][li]DC motor : principle and structure, external characteristics[br/][li]Induction motor : \tstructure and principle, external characteristics[br/][li]Synthesis of the different motors[br/][br/][b]Electric drives[/b][br/][li]Electric drive components[br/][li]Driver and control[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromechanics conversion II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-285-4&amp;con_lng=ENG\" target=\"blank\">Electromécanique / par Marcel Jufer</a>\". Year:2004. ISBN:2-88074-285-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105563",
+      "name":"Köchli Christian"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Blocs 1 et 2",
+      "Bibliographie et matériel":"Traité d'Electricité, volume IX «Electromécanique»",
+      "Forme d'enseignement":"ex cathedra + démonstrations et exercices",
+      "Contenu":"[b]Transducteurs[/b][br/][li]Réluctant[br/][li]Electrodynamique[br/][li]Electromagnétique[br/][li]Hybride[br/][br/][b]Moteurs[/b][br/][li]Champ tournant et phaseur spatial[br/][li]Moteur synchrone : principe et structure, (marche en circuit ouvert, régime auto-commuté, générateur)[br/][li]Moteur à courant continu : principe et structure, caractéristiques externes.[br/][li]Moteur asynchrone : structure et principe,caractéristiques externes[br/][li]Synthèse des différents moteurs[br/][br/][b]Entraînements électriques[/b][br/][li]Composants d'un entraînement électrique[br/][li]Alimentation et commande",
+      "Préparation pour":"Transducteurs et entraînements intégrés et[br/]Transducteurs et entraînements directs",
+      "Objectifs d'apprentissage":"Les étudiants seront capables d'utiliser les méthodes spécifiques de l'électromécanique en vue de la modélisation et de la conception, d'analyser les caractéristiques externes des principaux moteurs électriques et de concevoir un entraînement électrique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conversion électromécanique II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-285-4&amp;con_lng=FRE\" target=\"blank\">Electromécanique / par Marcel Jufer</a>\". Année:2004. ISBN:2-88074-285-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

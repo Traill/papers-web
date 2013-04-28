@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=455262375&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","523"],
+    "title":"Advanced methods in computational solid mechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=455262375&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced methods in computational solid mechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"Basic Linux usage and commands [br/]Basic programming/algorithmic concepts [br/]Selected topics in finite element modeling [br/]Meso and microscale methods [br/]Introduction to molecular dynamics [br/]Introduction to time accelerated methods [br/]Hierarchical and direct multiscale methods [br/]Homogenization [br/]Notions in high-performance computing",
+      "Forme du contrôle":"Numerical projects to be handed in during semester [br/]Oral presentation of a Research paper in mechanics/material science",
+      "Prérequis":"This is an advanced MS level class. It is of interest to engineering students who wish to develop know-how in computational science and engineering. As this class approaches current research challenges, it is also appropriate for Ph.D. level students. [br/]Prior knowledge in continuum mechanics and finite-element methods (e.g. GC class : Modélisation numérique des solides et structures) is mandatory. [br/]Students without prior knowledge in programming will be given resources and mentoring to catch up on basics of C/C++ programming.",
+      "Objectifs d'apprentissage":"This class will give an overview of recent developments in numerical methods used in mechanics of solids and structures. [br/]Modern finite-elements approaches in the field of mechanics of materials will be discussed. Multiscale methods for mechanics and material modeling will be presented. In particular, we will review current challenges in passing information from the microscale to the macroscopic scale. All these concepts will be tested directly on computers during hands on projects tackling engineering and research problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced methods in computational solid mechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

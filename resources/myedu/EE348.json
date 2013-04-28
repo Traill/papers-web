@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499336370&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","348"],
+    "title":"Electroacoustics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499336370&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To learn fundamentals basis of sound propagation and generation, in homogenous media for the linear case, with an emphasis on guided waves. To solve linear acoustics problems by way of electroacoustic analogies. To apply these notions to the design of simple acoustic systems, such as resonators or usual acoustic filters. [br/]",
+      "Content":"[b]Physical acoustics[/b][br/]The wave equation in linear acoustics; energy of sound waves; wave structures; harmonic waves; scales in acoustics; elementary sound sources; sound absorption; refraction of sound; wave superposition; diffraction of sound; notions of structural vibration.[br/][br/][b]Sound sources radiation[/b][br/]Elementary sound sources; theoretical sources; diffraction of sources; models of sources; the radiation model of the rigid piston.[br/][br/][b]Electroacoustic analogies[/b][br/]Modelization of guided waves; acoustic analogies; mechanical analogies; equivalent schemes; application of electroacoustic analogies (acoustic filters, psychophysical model of the ear, etc.).[br/]",
+      "Type of teaching":"Ex cathedra with exercises in class and on computer [br/]",
+      "Prerequisite for":"Audio engineering propagation of acoustic waves, semester and master projects, PhD thesis[br/]",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electroacoustics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-653-7&amp;con_lng=ENG\" target=\"blank\">Audio / Mario Rossi</a>\". Year:2007. ISBN:978-2-88074-653-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"M. Rossi, Audio, Presses Polytechniques et Universitaires Romandes, 2007.[br/]",
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe et sur ordinateur[br/]",
+      "Contenu":"[b]Acoustique physique[/b][br/]Equation d'onde en acoustique linéaire ; énergies des ondes acoustiques; structures d'ondes ; ondes harmoniques ; échelles en acoustique ; sources de son élémentaires ; absorption du son ; effets d'interface ; superposition d'ondes ; diffraction ; notions de vibrations des structures.[br/][br/][b]Rayonnement des sources sonores[/b][br/]Sources de son élémentaires ; sources théoriques ; diffraction à l'émission ; modèles des sources ; rayonnement des pistons rigides.[br/][br/][b]Analogies électroacoustiques[/b][br/]Modèles de propagation en ondes guidées ; analogies acoustiques ; analogies mécaniques ; schémas équivalents ; application des analogies électroacoustiques (filtres acoustiques, modélisation de la psychophysique de l'oreille, etc.).[br/]",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Ingénierie Audio, Propagation d'ondes acoustiques, Projets de semestre et de master, Thèses de doctorat[br/]",
+      "Objectifs d'apprentissage":"Maîtriser les bases fondamentales de la propagation et la génération d'ondes acoustiques, dans des milieux homogènes et pour des cas linéaires, en mettant l'accent sur des notions d'ondes guidées. Traiter de problèmes d'acoustique linéaire à l'aide des analogies électroacoustiques. Appliquer ces notions pour le dimensionnement de systèmes acoustiques simples comme des résonateurs ou des filtres acoustiques usuels. [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electroacoustique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-653-7&amp;con_lng=FRE\" target=\"blank\">Audio / Mario Rossi</a>\". Année:2007. ISBN:978-2-88074-653-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

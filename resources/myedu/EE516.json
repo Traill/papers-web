@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354987130&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","516"],
+    "title":"Data analysis and model classification",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354987130&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/137762",
+      "name":"Chavarriaga Lozano Ricardo"
+    },{
+      "url":"http://people.epfl.ch/149175",
+      "name":"Millán Ruiz José del Rocío"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Master",
+      "Required prior knowledge":"Bachelor",
+      "Content":"1 Introduction to Machine learning [br/]\tSupervised vs Unsupervised approach, Training and testing techniques [br/][br/]2 Regression methods [br/]\tLinear methods, Other methods, Statistical models[br/][br/]3 Feature selection[br/]\tFilters, wrappers,  Information theory[br/][br/]4 Dimensionality reduction[br/]\tPrincipal component analysis (PCA); Independent component analysis (/ICA), Clustering approaches\t[br/][br/]5 Temporal pattern recognition / Sequence analysis[br/]\tHidden Markov Models[br/][br/]6 Case studies - Prosthetics[br/]\tApplication specific constraints (e.g. single trial, compliance, time lag), Wearable robots, Neuroprosthetics[br/]",
+      "Type of teaching":"Classroom teaching, classroom exercises",
+      "Learning outcomes":"This course introduce several machine learning techniques for the data analysis and classification in Bioengineering applications.  Following an application oriented approach, each of these techniques is illustrated with examples from fields such as neural engineering, movement analysis and bioinformatics."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Data analysis and model classification",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/137762",
+      "name":"Chavarriaga Lozano Ricardo"
+    },{
+      "url":"http://people.epfl.ch/149175",
+      "name":"Millán Ruiz José del Rocío"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Bachelor",
+      "Forme d'enseignement":"Ex cathedra. Exercises en salle et sur ordinateur",
+      "Contenu":"1. Introduction à l'apprentissage automatique (Machine learning) [br/]Aprentissage supervisé et non-supervisé  [br/][br/]2. Régression  [br/]Méthodes lineaires, modèles statistiques[br/][br/]3. Feature selection[br/]Filters, wrappers, Theorie de l'informaiton[br/][br/]4. Réduction dimensionnelle[br/]Analyse en composants principales (PCA); Analyse en composants indépendentes component analysis (/ICA), Clustering \t[br/][br/]5. Analyse des  séequences[br/]Modelè de Markov caché[br/][br/]6. Cas d'études - Prothèses[br/]Application specific constraints (e.g. single trial, compliance, time lag), Wearable robots, Neuroprosthetics",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"L'objectif du cours est de présenter plusieurs téchniques d'apprentissage [br/]automatique pour l'analyse et classification de données. Ces téchniques sont illustrés à l'aide des examples issues de différents domains tels que la neuroscience, l'analyse de movement et la bioinformatique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Data analysis and model classification",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

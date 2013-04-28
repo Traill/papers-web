@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771253&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","705"],
+    "title":"Low-voltage analog CMOS IC design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771253&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The purpose of this course is to familiarize the student with low-voltage design techniques that are becoming increasingly important for deep-submicron and ultra low-power ICs. A wide range of circuit blocks and design approaches will be examined.",
+      "Content":"1. [][][]MOS Transistor Modeling for Low-Voltage and Low-Power Circuit Design[br/]2. [][][]Limits to Low-Voltage Analog Design[br/]3. [][][]Basic Low-Voltage Circuit Techniques[br/]4. [][][]Low-Voltage SC Circuits[br/]5. [][][]Design of Linear SC Circuits in Digital CMOS Technology[br/]6. [][][]Design of Op-Amps at Low Supply Voltages[br/]7. [][][]Towards Sub-1 Volt Analog IC Design[br/]8. [][][]Rail-to-Rail Input and Output Amplifiers[br/]9. [][][]Low-Voltage Sigma-Delta Converters[br/]10.[][][]Distortion in Continuous-Time Filters[br/]11.[][]Matching of MOS Transistors in Deep-Submircon[br/]12.[][]Switched-Capacitor Power Supplies[br/]13.[][]Low-Voltage Op-Amp Cells[br/]14.[][]Low-Voltage SC Filters[br/]15.[][]1V Log-Domain Filters",
+      "Keywords":"Low-Voltage Analog, Op-Amps, Sigma-Delta Converters, Switched-Capacitor",
+      "Note":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Required prior knowledge":"Analog IC Design"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Low-voltage analog CMOS IC design",
+    "recitation":null,
+    "exam_form":"Written & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":32
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Contenu":"1. [][][]MOS Transistor Modeling for Low-Voltage and Low-Power Circuit Design[br/]2. [][][]Limits to Low-Voltage Analog Design[br/]3. [][][]Basic Low-Voltage Circuit Techniques[br/]4. [][][]Low-Voltage SC Circuits[br/]5. [][][]Design of Linear SC Circuits in Digital CMOS Technology[br/]6. [][][]Design of Op-Amps at Low Supply Voltages[br/]7. [][][]Towards Sub-1 Volt Analog IC Design[br/]8. [][][]Rail-to-Rail Input and Output Amplifiers[br/]9. [][][]Low-Voltage Sigma-Delta Converters[br/]10.[][][]Distortion in Continuous-Time Filters[br/]11.[][]Matching of MOS Transistors in Deep-Submircon[br/]12.[][]Switched-Capacitor Power Supplies[br/]13.[][]Low-Voltage Op-Amp Cells[br/]14.[][]Low-Voltage SC Filters[br/]15.[][]1V Log-Domain Filters",
+      "Mots clés":"Low-Voltage Analog, Op-Amps, Sigma-Delta Converters, Switched-Capacitor",
+      "Prérequis":"Analog IC Design",
+      "Objectifs d'apprentissage":"The purpose of this course is to familiarize the student with low-voltage design techniques that are becoming increasingly important for deep-submicron and ultra low-power ICs. A wide range of circuit blocks and design approaches will be examined."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Low-voltage analog CMOS IC design",
+    "recitation":null,
+    "exam_form":"Ecrit & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":32
+    }
+  }
+}

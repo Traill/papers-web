@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80882129&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","602"],
+    "title":"Optical fibers and fiber devices",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80882129&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ioa.epfl.ch","http://ioa.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Understanding optical waveguides and mode coupling[br/]Acquiring skills for handling of optical fibers[br/]Overview about actual research and applications",
+      "Content":"[li]\tmaterials for optical waveguides[br/][li]\tbasics of optical waveguides (planar, circular)[br/][li]\tcoupled mode theory[br/][li]\twaveguide technology[br/][li]\tbasic devices [br/][li]\tapplications of optical waveguides[br/][li]\tfiber optic sensors [br/][li]\tphotonic crystal fibers[br/][li]\thands-on on fiber splicing and handling[br/]",
+      "Keywords":"Waveguides, gratings, optical fibers, devices, optical fiber sensors",
+      "Note":"[li]\tvisit of Swiss fiber manufacturer (optional)",
+      "Required prior knowledge":"Basics in physics (electrodynamics, waves)[br/]Basics in optics (light wave, diffraction, lasers)"
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Optical fibers and fiber devices",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":19
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ioa.epfl.ch","http://ioa.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"[li]\tvisit of Swiss fiber manufacturer (optional)",
+      "Contenu":"[li]\tmaterials for optical waveguides[br/][li]\tbasics of optical waveguides (planar, circular)[br/][li]\tcoupled mode theory[br/][li]\twaveguide technology[br/][li]\tbasic devices [br/][li]\tapplications of optical waveguides[br/][li]\tfiber optic sensors [br/][li]\tphotonic crystal fibers[br/][li]\thands-on on fiber splicing and handling[br/]",
+      "Mots clés":"Waveguides, gratings, optical fibers, devices, optical fiber sensors",
+      "Prérequis":"Basics in physics (electrodynamics, waves)[br/]Basics in optics (light wave, diffraction, lasers)",
+      "Objectifs d'apprentissage":"Understanding optical waveguides and mode coupling[br/]Acquiring skills for handling of optical fibers[br/]Overview about actual research and applications"
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Optical fibers and fiber devices",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":19
+    }
+  }
+}

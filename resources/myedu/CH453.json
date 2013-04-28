@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350477456&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","453"],
+    "title":"Molecular quantum dynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350477456&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181577",
+      "name":"Vanicek Jiri"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To become familiar with various approaches to quantum dynamics, i.e., the large part of theoretical quantum chemistry not covered in courses on electronic structure methods.[br/]The course will discuss exact quantum dynamics, semiclassical approximations and the path integral approach to quantum thermodynamics. Applications will include spectroscopy, chemical kinetics and quantum nuclear effects on thermodynamic properties of molecules.[br/][br/] [br/]",
+      "Content":"1. Review of classical molecular dynamics. [br/]Langrangian and Hamiltonian formalisms, phase space. [br/]Classical molecular dynamics and thermodynamics in phase space.[br/]2. Exact real-time quantum dynamics.[br/]Time-dependent Schrödinger's equation. Born-Oppenheimer approximation and potential energy surfaces.[br/]Time-correlation functions. [br/]Methods of quantum propagation of wave functions. [br/]Split operator method and the fast Fourier transform.[br/]3. Approximate methods for quantum dynamics.[br/]Sudden approximation.[br/]Adiabatic approximation.[br/]Time-dependant perturbation theory.[br/]Fermi's Golden Rule.[br/]Time-dependent Hartree method.[br/]4. Semiclassical dynamics.[br/]Old quantum theory and the WKB approximation.[br/]Wigner function.[br/]Van Vleck propagator.[br/]Semiclassical initial value representation.[br/]5. Quantum thermodynamics.[br/]Feyman path integral approach[br/]- interpreted as imaginary-time dynamics[br/]- interpreted as classical thermodynamics of a polymer chain.[br/]Path integral Monte Carlo method.[br/]Path integral molecular dynamics. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Molecular quantum dynamics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-891389-23-8&amp;con_lng=ENG\" target=\"blank\">Introduction to quantum mechanics : a time-dependent perspective / David J. Tannor</a>\". Year:2007. ISBN:978-1-891389-23-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181577",
+      "name":"Vanicek Jiri"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: Thermodynamique, mécanique quantique.[br/]Molecular dynamics and Monte Carlo (utile mais non requis) ",
+      "Bibliographie et matériel":"Les notes du cours seront distribuées.[br/]Selected chapters from: \"Introduction to quantum mechanics: a time-dependant approach\", David J. Tannor, University Science Books, 2007  ",
+      "Forme d'enseignement":"Ex cathedra ",
+      "Contenu":"1. Passage en revue de la dynamique moléculaire classique.[br/]Les formalismes de Lagrange et Hamilton. [br/]Espaces des phases.[br/]Dynamique moléculaire classique et thermodynamique dans l'espace des phases.[br/]2. Dynamique quantique exacte en temps réel.[br/]Equation de Schrödinger dépendante du temps.[br/]Approximation de Born-Oppenheimer et surfaces d'énergie potentielle.[br/]Fonctions de corrélation temporelle.[br/]Méthodes de propagation quantique des fonctions d'ondes.[br/]La méthode de séparation des opérateurs et transformée de Fourier rapide.[br/]3. Méthodes approximatives pour la dynamique quantique. [br/]Approximation soudaine.[br/]Approximation adiabatique.[br/]Théorie de la perturbation dépendante du temps.[br/]Règle d'or de Fermi.[br/]Méthode de Hartree dépendante du temps.[br/]4. Dynamique semiclassique.[br/]Ancienne théorie quantique et approximation de WKB.[br/]Fonction de Wigner.[br/]Propagateur de Van Vleck.[br/]Représentation semiclassique en fonction des valeurs initiales.[br/]5. Thermodynamique quantique.[br/]Approche par intégrale de chemin de Feynman[br/]- interprétée comme dynamique en temps imaginaire[br/]- interprétée comme thermodynamique classique d'une chaîne de polymère.[br/]Méthode Monte Carlo d'intégrale de chemin.[br/]Dynamique moléculaire d'intégrale de chemin.  ",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Se familiariser avec diverses approches de la dynamique quantique, c'est-à-dire une grande partie de chimie quantique théorique non abordée pendant des cours sur la structure électronique. [br/]Le cours traitera de la dynamique quantique exacte, des approximations semiclassiques et de l'approche par intégrale de chemin à la thermodynamique quantique. Les applications comprendront la spectroscopie, la cinétique chimique et les effets nucléaires quantiques sur les propriétés thermodynamiques des molécules. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Molecular quantum dynamics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-891389-23-8&amp;con_lng=FRE\" target=\"blank\">Introduction to quantum mechanics : a time-dependent perspective / David J. Tannor</a>\". Année:2007. ISBN:978-1-891389-23-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

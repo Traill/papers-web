@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24007074&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","303"],
+    "title":"Signal processing for communications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24007074&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcav.epfl.ch/sp4comm","http://lcav.epfl.ch/sp4comm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110610",
+      "name":"Prandoni Paolo"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[8]The goal of this class is to introduce the students to the principles of digital signal processing. The course studies discrete-time signals and systems which have become the basis for modern digital signal processing. It develops the principles behind most modern signal processing techniques.  The tentative course contents are given below.",
+      "Content":"[8][b]1 Basic discrete-time signals and systems[/b][br/][li]Signal classes and operations on discrete-time signals[br/][li]\tSignals as vectors in Hilbert space[br/][b]2 Fourier Analysis[/b][br/][li]\tProperties of Fourier transforms.[br/][li]\tThe FFT.[br/][b]3 Discrete-Time Systems[/b][br/][li]\tLTI filters.[br/][li]\tConvolution and modulation.[br/][li]\tDifference equations.[br/][li]\tFIR vs IIR, stability issues.[br/][b]4 Z-transform[/b][br/][li]\tProperties and regions of convergence.[br/][li]\tApplications to linear systems.[br/][b]5 Filter Design[/b][br/][li]\tFIR design methods.[br/][li]\tIIR design methods[br/][li]\tFilter structures.[br/][b]6 Stochastic Signal Processing[/b][br/][li]\tRandom processes.[br/][li]\tSpectral representation.[br/][b]7 Interpolation and Sampling[/b][br/][li]\tContinuous-time paradigm.[br/][li]\tInterpolation.[br/][li]\tSampling theorem, Aliasing.[br/][b]8 Quantization[/b][br/][li]\tA/D and D/A converters.[br/][b]9 Multi-rate signal processing[/b][br/][li]\tUpsampling and downsampling.[br/][li]\tOversampling.[br/][b]10 Multi-dimensional signals and processing[/b][br/][li]\tIntroduction to Image Processing.[br/][b]11 Practical applications[/b][br/][li]\tDigital communication system design.[/8]",
+      "Prerequisite for":"[8]Advanced digital communication",
+      "Bibliography and material":"[8]Textbook : Signal processing for Communications, EPFL Press, 2008, by P. Prandoni and M. Vetterli[br/]Recommended reading : Discrete-Time Signal Processing, Prentice Hall, by Alan V. Oppenheim, Ronald W. Schafer, John R. Buck.",
+      "Required prior knowledge":"[8]Circuits and systems, basic probability course, analysis and linear algebra"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Signal processing for communications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-206709-6&amp;con_lng=ENG\" target=\"blank\">Discrete-time signal processing / Alan V. Oppenheim, Ronald W. Schafer</a>\". Year:2010. ISBN:978-0-13-206709-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-20-9 (EPFL)&amp;con_lng=ENG\" target=\"blank\">Signal processing for communications / Paolo Prandoni, Martin Vetterli</a>\". Year:2008. ISBN:978-2-940222-20-9 (EPFL)</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcav.epfl.ch/sp4comm","http://lcav.epfl.ch/sp4comm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110610",
+      "name":"Prandoni Paolo"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[8][b]1 Bases de signaux et systèmes en temps discret[/b][br/][li]\tClassement des signaux en temps discret et opérateurs[br/][li]\tSignaux et vecteurs dans un espace d'Hilbert[br/][b]2 Transformée de Fourier[/b][br/][li]\tPropriété des transformées de Fourier[br/][li]\tFFT[br/][b]3 Systèmes en temps discret[/b][br/][li]\tFiltres LTI[br/][li]\tConvolution et modulation[br/][li]\tEquations aux différences[br/][li]\tFIR, IIR, stabilité[br/][b]4 Transformée en Z[/b][br/][li]\tPropriétés et régions de convergence[br/][li]\tApplication aux systèmes linéaires[br/][b]5 Filter Design [/b][br/][li]\tFiltres FIR[br/][li]\tFiltres IIR[br/][li]\tStructures[br/][b]6 Signaux stochastiques[/b][br/][li]\tProcessus aléatoires[br/][li]\tReprésentation spectrale[br/][b]7 Interpolation et échantillonnage[/b][br/][li]\tLe paradigme du temps continu[br/][li]\tInterpolation[br/][li]\tThéorèmes d'échantillonnage, aliasing[br/][b]8 Quantification[/b][br/][li]\tConversion analogique/numérique et numérique/analogique[br/][b]9 Traitement des signaux multi-cadencés [/b][br/][li]\tEchantillonnage vers le haut et vers le bas [/b][br/][li]\tSuréchantillonnage [/b][br/][b]10 Signaux et traitement multidimensionnels [/b][br/][li]\tIntroduction au traitement de l'image[br/][b]11 Applications pratiques [/b][br/][li]\tAnalyse d'un système de communication digitale[/8]",
+      "Préparation pour":"[8]Advanced digital communication",
+      "Prérequis":"[8]Circuits et systèmes, cours de base en probabilité, analyse et algèbre linéaire[/8]",
+      "Bibliographie et matériel":"[8]Textbook : Signal processing for Communications, EPFL Press, 2008, by P. Prandoni and M. Vetterli[br/]Recommended reading : Discrete-Time Signal Processing, Prentice Hall, by Alan V. Oppenheim, Ronald W. Schafer, John R. Buck.",
+      "Objectifs d'apprentissage":"[8]Le cours  introduit les principes numériques de traitement des signaux. Il étudie les signaux et systèmes en temps discrets qui sont devenus les bases des techniques du traitement des signaux numériques modernes.  Il développe les principes derrière la plupart des techniques du traitement de signaux.[/8]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Signal processing for communications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-206709-6&amp;con_lng=FRE\" target=\"blank\">Discrete-time signal processing / Alan V. Oppenheim, Ronald W. Schafer</a>\". Année:2010. ISBN:978-0-13-206709-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-20-9 (EPFL)&amp;con_lng=FRE\" target=\"blank\">Signal processing for communications / Paolo Prandoni, Martin Vetterli</a>\". Année:2008. ISBN:978-2-940222-20-9 (EPFL)</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

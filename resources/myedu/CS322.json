@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838992628&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","322"],
+    "title":"Introduction to database systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838992628&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"],["http://dias.epfl.ch/courses","http://dias.epfl.ch/courses"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177957",
+      "name":"Ailamaki Anastasia"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Homework, project, written examinations and continuous control.",
+      "Bibliography and material":"Copie des transparents, liste de livres recommandés",
+      "Prerequisite for":"Advanced databases",
+      "Required prior knowledge":"Data structures",
+      "Content":"[b]In this course, students will learn about:[/b][br/][li]\tThe Entity-relationship and Relational Models[br/][li]\tRelational Algebra and Calculus[br/][li]\tThe SQL Query Language[br/][li]\tData Storage, File Organizations, and Indexing[br/][li]\tHashing and Sorting[br/][li]\tQuery Evaluation and Relational Operators[br/][li]\tQuery Optimization[br/][li]\tSchema Refinement[br/][li]\tTransaction Management (Concurrency Control and Recovery)[br/][br/][b]Homework[/b][br/]Homework will be assigned to aid and assess comprehension of the above material. Homework will be either done using pen and paper or they will be programming exercises. During the semester the students will be asked to do a project to gain experience on how to build a database application, and to apply what they learn in class.[br/]",
+      "Type of teaching":"Ex cathedra; including exercises in class, practice with pen and paper or with a computer, and a project",
+      "Learning outcomes":"This course allows the student to acquire a database specialist profile, while providing a deep understanding of a typical database management system (DBMS). The course covers fundamental DBMS topics such as Database System Architectural Principles, Data models, Theory of database design, Query Storage Strategies, Query Processing, and Transaction Processing. Through this course students will learn how to design, install, use and manage a relational database, including how to:[br/]- Express application information requirements,[br/]- Design a database with an engineering approach,[br/]- Create and use a database on a relational DBMS,[br/]- Understand how a DBMS performs its work, and[br/]- Monitor performance for DBMS applications.[br/][br/][br/][br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to database systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"],["http://dias.epfl.ch/courses","http://dias.epfl.ch/courses"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177957",
+      "name":"Ailamaki Anastasia"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Data structures",
+      "Bibliographie et matériel":"Copie des transparents, liste de livres recommandés",
+      "Forme d'enseignement":"Ex cathedra; accompagné  d'exercices en classe, de pratique sur ordinateur et de la réalisation d'un projet ",
+      "Contenu":"[b]Dans ce cours, les étudiants vont apprendre :[/b] [br/][li] Les modèles Entité-association et relationnel[br/][li] L'algèbre et les calculs relationnels[br/][li] Le langage de requêtes SQL[br/][li] Les techniques de stockage de données, les organisations de fichiers et l'indexation[br/][li] Les fonctions de hachage et de tri[br/][li] L'évaluation de requêtes et les opérateurs algébriques [br/][li] L'optimisation de requêtes[br/][li] La normalisation de schéma[br/][li] La gestion des transactions (gestion de la concurrence et fiabilité) [br/][b]Travail personnel[/b][br/]Du travail personnel sera attribué afin de vérifier l'acquisition des sujets présentés ci-dessus. Le travail personnel sera soit sous forme d'exercices sur papier ou sur machine. Durant le semestre, les étudiants devront réaliser un projet afin d'acquérir de l'expérience sur la conception et implémentation d'une base de données, et mettre en pratique ce qu'ils apprennent en classe.",
+      "Forme du contrôle":"Notation du travail rendu, projet, examen écrit avec contrôle continu",
+      "Préparation pour":"Advanced databases",
+      "Objectifs d'apprentissage":"Ce cours permet aux étudiants d'acquérir un profil de spécialiste des bases de données, tout en leur apportant une compréhension avancée d'un système de gestion de bases de données typique (SGBD). Ce cours couvre des sujets fondamentaux relatifs aux bases de données tels que les principes architecturaux des Systèmes de Gestion de Bases de Données, les modèles de données, la conception de bases de données, les stratégies de stockage de requêtes, la gestion des requêtes et des transactions. Durant ce cours, les étudiants vont apprendre comment concevoir, installer, utiliser et gérer une base de données relationnelle, y compris comment :[br/]- exprimer les besoins en information des applications,[br/]- concevoir une BD avec une démarche d'ingénieur,[br/]- créer et utiliser une base de données sur un système de gestion de bases de données (SGBD) relationnel,[br/]- comprendre comment un SGBD fonctionne, et [br/]- maîtriser les facteurs d'optimisation des performances d'applications SGBD."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to database systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

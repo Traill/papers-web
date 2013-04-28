@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774082&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","343"],
+    "title":"Industrialization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774082&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105468",
+      "name":"Jacot Jacques"
+    },{
+      "url":"http://people.epfl.ch/115532",
+      "name":"Ryser Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This is an introductory course to the notion of product industrialization. The goal is to strengthen the awareness of the future engineer of the importance of product conception and industrialization.",
+      "Content":"[br/][li]Introduction to industrial production[br/][li]From marketing to delivery[br/][li]Product life cycle[br/][li]Choice of production technology[br/][li]Quality management[br/][li]Design for assembly[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Industrialization",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7081-2031-X&amp;con_lng=ENG\" target=\"blank\">Les plans d' expériences par la méthode Taguchi / Maurice Pillet</a>\". Year:2001. ISBN:2-7081-2031-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105468",
+      "name":"Jacot Jacques"
+    },{
+      "url":"http://people.epfl.ch/115532",
+      "name":"Ryser Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Blocs 1 et 2[br/]Méthodes de production, Conception de produits",
+      "Bibliographie et matériel":"Polycopié[br/]Les plans d'expérience par la méthode Taguchi de M. Pillet",
+      "Forme d'enseignement":"Exposé oral par les deux professeurs illustré d'exemples, exercices intégrés dans le cours. ",
+      "Contenu":"[b]Gestion d'un projet d'industrialisation[/b][br/]Comment passer de la conception d'un produit à la fabrication en séries, puis à l'introduction sur le marché[br/][br/][b]Management de la qualité[/b][br/]La maîtrise de la  qualité dans les différentes phases de réalisation d'un produit[br/][li]concevoir des produits qui fonctionnent[br/][li]analyse de la valeur des solutions proposées[br/][li]conduire une analyse qui permet de remonter aux causes en observant les effets[br/][li]analyse des défaillances en préséries[br/][li]la maîtrise statistique des procédés (MSP ou SPC en anglais)[br/][li]introduction aux plans d'expériences[br/][li]la démarche ISO 9001[br/][br/][b]Plan d'expériences[/b][br/]Introduction aux méthodes qui permettent de mettre en évidence les facteurs d'influence des défaillances de produits en optimisant le nombre d'expérimentations à mener[br/][br/][b]La conception de produits pour l'assemblage[/b][br/](Design For Assembly)",
+      "Forme du contrôle":"Examen par étude de cas en groupes et exposés individuels.",
+      "Préparation pour":"Techniques d'assemblage I et II",
+      "Objectifs d'apprentissage":"Ce cours est une initiation à la notion d'industrialisation d'un produit fabriqué en séries. Il a pour but d'apprendre aux ingénieurs les méthodes qui permettent d'aborder le processus de l'industrialisation de produits."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Industrialisation",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7081-2031-X&amp;con_lng=FRE\" target=\"blank\">Les plans d' expériences par la méthode Taguchi / Maurice Pillet</a>\". Année:2001. ISBN:2-7081-2031-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

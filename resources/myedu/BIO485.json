@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355180305&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","485"],
+    "title":"Laboratory in molecular neuroscience",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355180305&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171915",
+      "name":"Fraering Patrick"
+    },{
+      "url":"http://people.epfl.ch/150348",
+      "name":"Schneider Bernard"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Laboratory in molecular neuroscience",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95386-8&amp;con_lng=ENG\" target=\"blank\">Cellular and molecular methods in neuroscience research / Adalberto Merighi ... [et al.] eds.</a>\". Year:2002. ISBN:0-387-95386-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8385-7701-6&amp;con_lng=ENG\" target=\"blank\">Principles of neural science / ed. by Eric R. Kandel ... [et al.]</a>\". Year:2000. ISBN:0-8385-7701-6</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171915",
+      "name":"Fraering Patrick"
+    },{
+      "url":"http://people.epfl.ch/150348",
+      "name":"Schneider Bernard"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Only for SV master students (master in Life Sciences & Technology / Neuroscience orientation).[br/]Cours donné aux étudiants SV-Ma3 en 2012-2013.[br/]This course will be offered as a block course (duration: 1,5 weeks ) ",
+      "Prérequis":"Bachelor level in Life Sciences & Technology[br/]Neurosciences I, Neurosciences II and Neurosciences III",
+      "Bibliographie et matériel":"A. Merighi & G. Carmignoto, Cellular & Molecular Methods in Neuroscience Research, Springer; E. Kandel et al., Principles of Neural Science, (3rd Edition), McGraw-Hill; more bibliography will be communicated during the course",
+      "Contenu":"1. Neuroanatomical procedures for research and diagnosis: [br/][li] Histological brain tissue processing: fixation, sectioning, staining  [br/][li] Immunohistochemistry & staining of brain sections  [br/][li] In situ hybridization[br/]  [br/]2. Cell culture models in Neuroscience: advantages and limitations:[br/][li] Introduction to cell culture; organ cultures, explant cultures and dissociated cell cultures [br/][li] Mouse brain dissection, isolation of cortex and hippocampus[br/][li] Primary cultures of cortical and hippocampal neurons[br/]  [br/]3. Manipulating gene expression in neurons: [br/][li] Gene transfer technology [br/][li] Gene silencing[br/][li] Therapeutic applications for neurodegenerative diseases[br/]  [br/] 4. Synaptic vesicles: cellular fractionation and isolation from brain: [br/][li] Physical properties of the neuronal organites and macromolecules[br/][li] Procedure for the purification of synaptic vesicles   [br/] [br/]5. Preclinical animal experimentation:[br/][li] CNS stereotaxic surgery in the rodent[br/][li] Implantation and transplantation methods.[br/][li] Behavioural assessments in rodents including an overview of motor, sensorial and cognitive tasks.",
+      "Forme du contrôle":"One final written exam",
+      "Préparation pour":"Master LST, Neuroscience PhD programs",
+      "Objectifs d'apprentissage":"This laboratory course will provide students with the technical and methodological knowledge required to study molecular neuroscience. It will explore the most commonly used molecular, cellular and neuroanatomical techniques to develop strategies in the conduct of neuroscience research. The information provided by each method, the limitations of each approach, and the expected future developments will be considered. Main learning outcomes:  developing critical, analytical, synthesizing and problem-solving skills."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Laboratory in molecular neuroscience",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95386-8&amp;con_lng=FRE\" target=\"blank\">Cellular and molecular methods in neuroscience research / Adalberto Merighi ... [et al.] eds.</a>\". Année:2002. ISBN:0-387-95386-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8385-7701-6&amp;con_lng=FRE\" target=\"blank\">Principles of neural science / ed. by Eric R. Kandel ... [et al.]</a>\". Année:2000. ISBN:0-8385-7701-6</li></ul>",
+    "lecture":null
+  }
+}

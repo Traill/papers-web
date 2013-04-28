@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776377&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","240"],
+    "title":"Statistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776377&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course gives an introduction to the main ideas of statistics, oriented towards mathematics students, and with an emphasis on fundamental ideas.",
+      "Content":"[li] experiments and observations, models, estimators, inference[br/][li] likelihood, Kullback-Leibler divergence[br/][li] principles of estimation: method of moments, least squares, maximum likelihood[br/][li] large sample theory: consistency, asymptomatic distribution[br/][li] optimality theory: minimum variance, Bayes estimators and admissibility[br/][li] statistical tests: significance tests, errors of type I and II, Neyman-Pearson lemma, likelihood ratio[br/][li] interval estimation: duality with tests, pivots, examples",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Required prior knowledge":"Probability"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe",
+      "Contenu":"[li] expériences et observations, modèles, estimateurs, inférence[br/][li] vraisemblance, divergence de Kullback-Leibler[br/][li] principes d'estimation : méthode de moments, moindres carrés, maximum de la vraisemblance[br/][li] théorie asymptotique : consistance, loi asymptotique[br/][li] théorie d'optimalité : variance minimum, estimateur de Bayes et admissibilité[br/][li] tests statistiques : tests de significations, erreurs du type I et II, lemme de Neyman-Pearson, rapport des vraisemblances[br/][li] estimation par intervalle : dualité avec tests, pivots, exemples",
+      "Prérequis":"Probabilités",
+      "Bibliographie et matériel":"Clerc Bérod A. et Morgenthaler S. (2012) : Théorie mathématique de la statistique, polycopié.",
+      "Objectifs d'apprentissage":"Le cours offre une introduction à la statistique théorique. Il s'adresse à des étudiants de mathématiques et met l'accent sur les idées fondamentales de la statistique. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statistique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

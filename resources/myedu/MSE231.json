@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976035&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","231"],
+    "title":"Ceramics, structures and properties + TP",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976035&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107319",
+      "name":"Colla Enrico"
+    },{
+      "url":"http://people.epfl.ch/104860",
+      "name":"Damjanovic Dragan"
+    },{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To learn the essentials of structures, properties and applications of ceramics and other functional materials. To be able to explain the relations between structures and properties as well as the similarity and the differences between the main properties of ceramics and non-ceramic materials.",
+      "Content":"1. Important crystalline structures of ceramics.[br/]2. Point defects and their importance.[br/]3. Phase equilibria in ceramics[br/]4. Electrical, dielectric and optical properties.[br/]5. Mechanical and thermal properties.[br/]6. Experimental characterisation of properties of ceramics[br/]7. Analysis of experimental results[br/]8. Practice with instruments for electromechanical measurements[br/]",
+      "Type of teaching":"Ex cathedra (3H) and laboratory work (1H)",
+      "Form of examination":"The final grade is attributed based on the grade of the final exam (75%) and the average grade of the TP reports (25%).",
+      "Note":"Subjects examined : the entire content of the lectures and the knowledge aquired during the experimental work.[br/]"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Ceramics, structures and properties + TP",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7503-0902-4&amp;con_lng=ENG\" target=\"blank\">Fundamentals of ceramics / Michel W. Barsoum</a>\". Year:2003. ISBN:0-7503-0902-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-59873-9&amp;con_lng=ENG\" target=\"blank\">Physical ceramics : principles for ceramic science and engineering / Yet-Ming Chiang, Dunbar P. Birnie, III, W. David Kingery</a>\". Year:1997. ISBN:0-471-59873-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107319",
+      "name":"Colla Enrico"
+    },{
+      "url":"http://people.epfl.ch/104860",
+      "name":"Damjanovic Dragan"
+    },{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Matière examinée : Tout le contenu présenté Ex cathedra ainsi que les connaissances transmises lors des travaux en laboratoire [br/]",
+      "Bibliographie et matériel":"Polycopiés Y. -M. Chiang, D. P. Birnie, W. D. Kingery, Physical ceramics, Wiley, 1997 M. Barsum, Fundamentals of Ceramics, McGraw Hill 1997",
+      "Forme d'enseignement":"Ex cathedra (3H) et travaux pratiques en laboratoire (1H)",
+      "Contenu":"1. Structures crystallines importantes des céramiques.[br/]2. Défauts ponctuels dans les céramiques.[br/]3. Les principaux diagrammes de phases des céramiques.[br/]4. Propriétés électriques, diélectriques et optiques.[br/]5. Propriétés mécaniques et thermiques.[br/]6. La pratique dans la caractérisation des propriétés des céramiques[br/]7. L'analyse des résultats de mesures expérimentales[br/]8. L'utilisation des instruments de mesures électroméchaniques.[br/]",
+      "Forme du contrôle":"La note finale est attribuée sur la base de la note de l'examen final (75%) et la moyenne des notes des rapports de TP (25%)",
+      "Objectifs d'apprentissage":"Apprendre l'essentiel des structures cristallines, des propriétés et des applications des céramiques et autres matériaux fonctionels. Être en mesure d'expliquer les rélations entre les structures et les propriétés ainsi que les similitudes et différences entre les principales propriétés des céramiques et celles rélatives à d'autres types de matériaux."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Ceramics, structures and properties + TP",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7503-0902-4&amp;con_lng=FRE\" target=\"blank\">Fundamentals of ceramics / Michel W. Barsoum</a>\". Année:2003. ISBN:0-7503-0902-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-59873-9&amp;con_lng=FRE\" target=\"blank\">Physical ceramics : principles for ceramic science and engineering / Yet-Ming Chiang, Dunbar P. Birnie, III, W. David Kingery</a>\". Année:1997. ISBN:0-471-59873-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

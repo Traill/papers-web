@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976529&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","340"],
+    "title":"Polymer composites + Laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976529&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    },{
+      "url":"http://people.epfl.ch/105745",
+      "name":"Månson Jan-Anders"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"- Introduction to the properties of anisotropic materials[br/]- Selection and properties of basic constituents of composites[br/]- Appraisal of the range of mechanical and physical properties within reach by organic matrix composite materials[br/]- Presentation of the processing techniques and the structure-processing-properties relationships.[br/][br/]- Lab courses on the processing and testing of composite materials[br/][br/]",
+      "Content":"[br/]- Constituents of composite materials[br/]- Micromechanics of fiber reinforced systems [br/]- Short fiber composite mechanics[br/]- Classical laminate theory[br/]- Damage mechanisms in composites[br/]- Theory of composite processing[br/]- Composite processing methods[br/]- Applications, examples and exercices[br/]- Visit of a factory[br/]- Lab courses : wet lay-up, RTM, compression moulding, laminate mechanics, compression after impact..[br/]",
+      "Type of teaching":"Ex-cathedra, lab courses",
+      "Prerequisite for":"Composite technology "
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Polymer composites + Laboratory Work",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    },{
+      "url":"http://people.epfl.ch/105745",
+      "name":"Månson Jan-Anders"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra, Travaux pratiques",
+      "Contenu":"- Composants des matériaux composites[br/]- Micromécanique des systèmes renforcés de fibres[br/]- Mécanique des composites à fibres courtes[br/]- Théorie des stratifiés[br/]- Mécanismes d'endommagement des composites[br/]- Théorie de la mise en oeuvre des composites[br/]- Méthodes de mise en oeuvre[br/]- Applications des composites, exemples et exercices[br/]- Visite d'une entreprise[br/]- Travaux pratiques : moulage au contact, RTM, moulage par compression, mécanique des stratifiés, compression après impact...[br/]",
+      "Préparation pour":"Composite technology",
+      "Bibliographie et matériel":"notes de cours, Traité des Matériaux 15 PPUR",
+      "Objectifs d'apprentissage":"- Introduction aux propriétés des matériaux anisotropes[br/]- Sélection et propriétés des composants de base des composites.[br/]- Appréciation de la gamme de propriétés mécaniques et physiques réalisables avec des matériaux composites à matrice organique.[br/]- Présentation des techniques de mise en oeuvre et des relations structure-propriétés-mise en oeuvre.[br/][br/]- Tavaux pratiques sur la mise en oeuvre des composites et la mesure de leurs propriétés mécaniques.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Composites polymères + TP",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47830388&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","561"],
+    "title":"Biomicroscopy I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47830388&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUR-COMP",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120900",
+      "name":"Lasser Theo"
+    },{
+      "url":"http://people.epfl.ch/113715",
+      "name":"Leutenegger Marcel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Basic optics (geometrical optics, wave optics) for microscopy and imaging. [br/]Optical elements for microscopy.[br/]Introduction to widefield and confocal microscopy.[br/]Detection and detectors.[br/]Basics of fluorescence for bioimaging.",
+      "Content":"Geometrical optics, Fourier optics, resolution, contrasts, PSF, [br/]Illumination system, microscope components (objectives, ocular, filters, ...), cameras,[br/]Fluorescence and bioimaging",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomicroscopy I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-25921-5&amp;con_lng=ENG\" target=\"blank\">Handbook of biological confocal microscopy / ed. James B. Pawley</a>\". Year:2006. ISBN:978-0-387-25921-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46770-4&amp;con_lng=ENG\" target=\"blank\">Microscopy, immunohistochemistry, and antigen retrieval methods : for light and electron microscopy / M.A. Hayat</a>\". Year:2002. ISBN:0-306-46770-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-443-10279-0&amp;con_lng=ENG\" target=\"blank\">Theory and practice of histological techniques / ed. by John D. Bancroft ... [et al.]</a>\". Year:2008. ISBN:978-0-443-10279-0</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120900",
+      "name":"Lasser Theo"
+    },{
+      "url":"http://people.epfl.ch/113715",
+      "name":"Leutenegger Marcel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Script distribué pendant les cours",
+      "Forme d'enseignement":"Cours et TP",
+      "Contenu":"ABCD, Optique géométrique, optique de Fourier, résolution, contraste, PSF, types d'illumination, éléments du microscope (objectifs, oculaire, filtres, ...), caméras[br/]Fluorescence et microscopie",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Biomicroscopie II",
+      "Objectifs d'apprentissage":"Acquisition des connaissances de base en optique géométrique et en optique ondulatoire, nécessaires pour l'utilisation d'un microscope. [br/]Apprentissage des différents types de microscopes et des éléments constituant un microscope.[br/]Introduction en microscopie champs large et en microscopie confocale y compris les détecteurs.  [br/]Introduction en fluorescence pour la bioimagerie."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomicroscopy I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-25921-5&amp;con_lng=FRE\" target=\"blank\">Handbook of biological confocal microscopy / ed. James B. Pawley</a>\". Année:2006. ISBN:978-0-387-25921-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46770-4&amp;con_lng=FRE\" target=\"blank\">Microscopy, immunohistochemistry, and antigen retrieval methods : for light and electron microscopy / M.A. Hayat</a>\". Année:2002. ISBN:0-306-46770-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-443-10279-0&amp;con_lng=FRE\" target=\"blank\">Theory and practice of histological techniques / ed. by John D. Bancroft ... [et al.]</a>\". Année:2008. ISBN:978-0-443-10279-0</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

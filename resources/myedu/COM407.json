@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771764&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","407"],
+    "title":"TCP/IP networking",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771764&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=523","http://moodle.epfl.ch/course/view.php?id=523"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105633",
+      "name":"Le Boudec Jean-Yves"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Labos 20%, quizzes 10%, examen final 70%. A bonus of at most 10% may be acquired with the research exercise.",
+      "Bibliography and material":"Slides on moodle.[br/]\"Computer Networking : Principles, Protocols and Practice\", O. Bonaventure, open source textbook, http://inl.info.ucl.ac.be/CNP3[br/]\"Computer Networking; A Top Down Approach\" Kurose and Ross",
+      "Required prior knowledge":"Introduction aux systèmes informatiques (CS-100), Programmation orientée système (CS-207)",
+      "Content":"[b]Lectures[/b][br/][b]1.[/b] The TCP/IP architecture;[br/][b]2.[/b] Layer 2 networking; Bridging; the Spanning Tree Protocol. Bellman Ford. [b]3.[/b] The Internet protocol. IPv6. Distance vector, link state routing. Optimality of routing;[br/][b]4.[/b] Interdomain routing,BGP.  [b]5.[/b] Congestion control principles. Application to the Internet. The fairness of TCP;[br/][b]6.[/b] Hybrid constructions. MPLS. Transition to IPv6. VPNs. Wireless LANs; [b]7.[/b] Selected advanced topic.[br/][br/][b]Lab Sessions[/b](Internet engineering workshop)[br/][br/][b]Homeworks and guided self-study[/b][br/]",
+      "Type of teaching":"Ex cathedra + project",
+      "Learning outcomes":"In the lectures you will learn and understand the main ideas that underlie the Internet, the way it is built and run. In the labs you will test and clarify your understanding of the networking concepts."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"TCP/IP networking",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-285620-1&amp;con_lng=ENG\" target=\"blank\">Computer networking : a top-down approach / James F. Kurose, Keith W. Ross</a>\". Year:2013. ISBN:978-0-13-285620-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=523","http://moodle.epfl.ch/course/view.php?id=523"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105633",
+      "name":"Le Boudec Jean-Yves"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction aux systèmes informatiques (CS-100), Programmation orientée système (CS-207)",
+      "Bibliographie et matériel":"Slides on moodle.[br/]\"Computer Networking : Principles, Protocols and Practice\", O. Bonaventure, open source textbook, http://inl.info.ucl.ac.be/CNP3[br/]\"Computer Networking; A Top Down Approach\" Kurose and Ross",
+      "Forme d'enseignement":"Ex cathedra + projet",
+      "Contenu":"[b]Cours[/b][br/][b]1.[/b] L'architecture TCP/IP;[br/][b]2.[/b] Interconnexion de niveau 2 ; Spaninng Tree. Bellman-Ford;[br/][b]3.[/b] Le protocole IP. IPv6. Distance vector et link state. Routage intérieur : RIP, OSPF, IGRP. Optimalité du routage;[br/][b]4.[/b] Routage interdomaine, BGP.[br/][b]5.[/b] Principes du contrôle de congestion. Application à l'Internet. L'équité de TCP;[br/][b]6.[/b] Constructions hybrides. MPLS. Transition à IPv6. VPNs. Réseaux sans fils;[br/][b]7.[/b] Thème avancé choisi.[br/][br/][b]Laboratoires[/b](Internet engineering workshop)[br/][br/][b]Travaux personnels et étude guidée[/b][br/]",
+      "Forme du contrôle":"Labos 20%, quizzes 10%, examen final 70%. Un bonus de max 10% peut être acquis avec les exercices de recherche",
+      "Objectifs d'apprentissage":"Dans la partie théorique, vous découvrirez les concepts clés de l'internet, qui expliquent son fonctionnement et son organisation. Dans les laboratoires, vous pourrez tester et clarifier votre compréhension par une série de manipulations. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"TCP/IP networking",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-285620-1&amp;con_lng=FRE\" target=\"blank\">Computer networking : a top-down approach / James F. Kurose, Keith W. Ross</a>\". Année:2013. ISBN:978-0-13-285620-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

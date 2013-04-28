@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=106583009&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","218"],
+    "title":"Home 2.0",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=106583009&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"ENAC",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166540",
+      "name":"Huang Jeffrey"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    },{
+      "url":"http://people.epfl.ch/187694",
+      "name":"Waldvogel Muriel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Home 2.0",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166540",
+      "name":"Huang Jeffrey"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    },{
+      "url":"http://people.epfl.ch/187694",
+      "name":"Waldvogel Muriel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Home 2.0 comprend deux champs d'activités. Le premier est de nature analytique et concerne les visions de maisons du futur dans le passé. [br/]Le parcours sera dépeint en épisodes. Ceux-ci iront de l'Organon d'Athanasius Kircher aux propositions des firmes Microsoft, Intel et Cisco, [br/]en passant par le système de communication pneumatique installé dans les immeubles parisiens de l'époque d'Haussmann, [br/]la maison Monsanto produite par Disney, les dessins animés de Tex Avery ou les films de Jacques Tati. [br/]L'analyse de ces visions successives sera fait en groupes interdisciplinaires et comprendra des visites de sites réalisées. [br/]Le second champ de recherche est plus concret et passé par le design : [br/]l'invention, la conception, la fabrication de prototypes et l'évaluation de nouvelles interfaces architecturales destinées à la maison numérique, version 2.0.",
+      "Contenu":"Le cours \" home 2.0 \" se penche sur l'idée de la maison numérique et pose un regard critique sur le rôle joué, ces dernières années, [br/]par les technologies de communication dans l'environnement domestique. [br/]Son objectif est d'analyser de points de vue différentes [br/]- soit architectural, structurel et environnemental [br/]- l'évolution de la maison numérique et de concevoir, tester et valider sous forme de prototype la prochaine génération de maisons numériques.[br/][br/]En 1957, Disney réalisait sa version de la \" maison du futur \", la Monsanto House, [br/]dont la matérialité et l'audace formelle (monocoque de plastique, porte-à-faux spectaculaire) ont été largement discutées. [br/]D'autres aspects de la maison restent méconnus : les technologies de communication futuristes la transforment en une machine à vivre, [br/]en un organisme habitable grouillant d'informations. [br/]La cuisine est un puissant poste de commande, d'où la ménagère émancipée exerce son contrôle et gère l'information provenant de diverses interfaces multi-sensorielles. [br/]Les instruments acoustiques, interphones, capteurs vidéo, filtres et tubes à odeurs sont autant d'oreilles, bouches, yeux et nez distribués dans la maison. [br/]L'infiltration de tels systèmes d'information au coeur même de la maison suscite la controverse. Bien qu'il permette de communiquer de manière instantanée, [br/]le système d'interphones réduit la privacité. [br/]La caméra vidéo confère une impression de sécurité, mais laisse s'installer un climat de surveillance malsaine. [br/]Les tubes à odeurs rafraîchissent l'air, tout en brouillant la limite entre naturel et artificiel. [br/]Un doute demeure : jusqu'à quel point peut-on manufacturer la domesticité ?",
+      "Objectifs d'apprentissage":"Les étudiants des trois sections ENAC vont travailler ensemble, pour analyser et repenser la maison digitale. [br/]Ils mettront à profit leurs connaissances spécifiques, en favorisant l'interférence des disciplines."
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Home 2.0",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

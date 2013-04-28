@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2258520&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","321"],
+    "title":"Real-time systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2258520&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"],["http://lamspeople.epfl.ch/decotignie/#InfoTR","http://lamspeople.epfl.ch/decotignie/#InfoTR"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104900",
+      "name":"Decotignie Jean-Dominique"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Final exam 100%",
+      "Bibliography and material":"G. Buttazzo, \"Hard Real-Time Computing Systems\", Kluwer Academic, Boston[br/]P. Laplante, \"Real-Time Systems Design & Analysis : An Engineer's Handbook\", IEEE[br/]R. David, A. Alla, \"Petri nets and Grafcet\", Prentice Hall",
+      "Prerequisite for":"Embedded systems, Real-time embedded systems, Real-time networks",
+      "Required prior knowledge":"Programming",
+      "Content":"1. Introduction - Real-time systems and their characteristics[br/]2. Model ling real-time systems - context and types[br/]3. Asynchronous models of logical behavior - Petri nets[br/]4. Synchronous models - GRAFCET (link with synchronous languages)[br/]5. Programming real-time systems (polling, cyclic executives, co-routines, state based programming)[br/]6. Real-time kernels and operating systems - problems, principles, mechanisms (synchronous and sporadic tasks, synchronization, event and time management)[br/]7. Scheduling - problem, constraints, taxonomy[br/]8. Fixed priority and deadline oriented scheduling[br/]9. Scheduling in presence of shared resources, precedence constraints and overloads[br/]10.Scheduling of continuous media tasks[br/]11.Evaluation of worst case execution times[br/]12. Introduction to real-time distributed systems",
+      "Type of teaching":"Ex cathedra + hands-on",
+      "Learning outcomes":"At the completion of the course, the student will have mastered the main topics concerning the design and programming of real-time systems. The course topics will be illustrated through exercises and a practical case study."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Real-time systems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86601-325-5&amp;con_lng=ENG\" target=\"blank\">Du Grafcet aux réseaux de Petri / René David, Hassane Alla</a>\". Year:1997. ISBN:2-86601-325-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4614-0675-4&amp;con_lng=ENG\" target=\"blank\">Hard real-time computing systems : predictable scheduling algorithms and applications / Giorgio C. Buttazzo</a>\". Year:2011. ISBN:978-1-4614-0675-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-76864-8&amp;con_lng=ENG\" target=\"blank\">Real-time systems design and analysis : tools for the practitioner / Phillip A. Laplante, Seppo J. Ovaska</a>\". Year:2012. ISBN:978-0-470-76864-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"],["http://lamspeople.epfl.ch/decotignie/#InfoTR","http://lamspeople.epfl.ch/decotignie/#InfoTR"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104900",
+      "name":"Decotignie Jean-Dominique"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Programmation",
+      "Bibliographie et matériel":"G. Buttazzo, \"Hard Real-Time Computing Systems\", Kluwer Academic, Boston[br/]P. Laplante, \"Real-Time Systems Design & Analysis : An Engineer's Handbook\", IEEE[br/]R. David, A. Alla, \"Petri nets and Grafcet\", Prentice Hall",
+      "Forme d'enseignement":"Ex cathedra + laboratoires",
+      "Contenu":"1. Introduction sur l'informatique du temps-réel et ses particularités[br/]2. Modélisation des systèmes temps-réel - contexte, types[br/]3. Modélisation asynchrone du comportement logique - Réseaux de Petri[br/]4. Modélisation des systèmes temps-réels - GRAFCET[br/]5. Types de programmation (polling, par interruption, par états, exécutifs cycliques, coroutines, tâches)[br/]6. Noyaux et systèmes d'exploitation temps-réel - problèmes, principes, mécanismes (tâches synchrones et asynchrones, synchronisation des tâches, gestion du temps et des événements)[br/]7. Ordonnancement - problèmes, contraintes, nomenclature[br/]8. Ordonnancement à priorités statiques (Rate Monotonic) et selon les échéances (EDF)[br/]9. Ordonnancement en tenant compte des ressources, des relations de précédence et des surcharges[br/]10. Ordonnancement de tâches multimédia[br/]11. Evaluation des temps d'exécution[br/]12. Introduction aux systèmes répartis temps réel",
+      "Forme du contrôle":"Examen final 100%",
+      "Préparation pour":"Embedded systems, Real-time embedded systems, Real-time networks",
+      "Objectifs d'apprentissage":"A l'issue du cours, l'étudiant aura acquis les connaissances principales liées à la conception et la réalisation des systèmes temps réel. Les différentes notions seront illustrées par des exercices et des laboratoires. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Informatique du temps réel",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86601-325-5&amp;con_lng=FRE\" target=\"blank\">Du Grafcet aux réseaux de Petri / René David, Hassane Alla</a>\". Année:1997. ISBN:2-86601-325-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4614-0675-4&amp;con_lng=FRE\" target=\"blank\">Hard real-time computing systems : predictable scheduling algorithms and applications / Giorgio C. Buttazzo</a>\". Année:2011. ISBN:978-1-4614-0675-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-76864-8&amp;con_lng=FRE\" target=\"blank\">Real-time systems design and analysis : tools for the practitioner / Phillip A. Laplante, Seppo J. Ovaska</a>\". Année:2012. ISBN:978-0-470-76864-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

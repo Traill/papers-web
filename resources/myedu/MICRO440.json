@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776647&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","440"],
+    "title":"Assembly techniques I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776647&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105468",
+      "name":"Jacot Jacques"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Build up knowledge in [br/]- Assembly techniques for microengineering products[br/]- Production flux problems[br/]- Systematic planning and design methods for assembly lines[br/]",
+      "Content":"[b]Assembly Techniques I + II, annual course.[/b][br/][br/]Elements of production management and cost aspects (see french description).[br/][br/]Project teams of 3-4 students in second part of course."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Assembly techniques I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105468",
+      "name":"Jacot Jacques"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Exposé oral, étude de cas",
+      "Contenu":"[b]Techniques d'assemblage I + II, cours annuel [/b][br/][br/]Introduction à l'assemblage industriel[br/]Les spécificités de l'assemblage en microtechnique[br/]Les techniques d'attachement[br/]Les manipulateurs et les robots d'assemblage[br/]Les systèmes de transfert destinés aux chaînes d'assemblage[br/]Les distributeurs de composants[br/]Les systèmes de vision pour la maîtrise de la qualité [br/]Les flux de produits dans les installations d'assemblage[br/]Les spécificités du micro-assemblage, comment construire un modèle idoine[br/]La maîtrise des coûts de production[br/][br/]Pendant la seconde partie du second semestre, nous réalisons par groupes de 3 à 4 étudiants des petits projets d'application de conception d'installations d'assemblage pendant les heures de cours, avec présentation des étudiants sur transparents et débats des idées proposées.[br/][br/]Le cours est illustré par des vidéos d'installations d'assemblage qui servent de bases aux exercices.",
+      "Prérequis":"Méthodes de production, Industrialisation",
+      "Bibliographie et matériel":"Polycopié",
+      "Objectifs d'apprentissage":"[br/][li]Donner des connaissances sur les principales techniques utilisées dans l'assemblage de produits microtechniques et dans la maîtrise de la qualité produite [br/][li]sensibiliser les étudiants aux problèmes des flux des matériaux et des composants dans une fabrication de produits industriels[br/][li]former les étudiants à des méthodes rigoureuses de conception et d'analyse d'installations de fabrication et d'assemblage"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Techniques d'assemblage I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

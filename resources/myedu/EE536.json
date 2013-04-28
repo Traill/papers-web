@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=40249208&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","536"],
+    "title":"Physical models for micro and nanosystems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=40249208&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MNIS",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133331",
+      "name":"Kis Andras"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Physical models for micro and nanosystems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133331",
+      "name":"Kis Andras"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra and exercises on a computer",
+      "Contenu":"1. Finite element method - background and implementation[br/]2. Modeling electrostatic problems, voltage and charge distribution[br/]3. Micro and nanoelectromechanical devices: mechanical properties, modeling electromechanical coupling[br/]4. Detection systems for x-ray and gamma ray imaging devices[br/]5. Modeling of fluid mechanics in micro and nanosystems[br/]6. Modeling heat transfer[br/]",
+      "Forme du contrôle":"Written exam",
+      "Prérequis":"Basic electronics and physics",
+      "Objectifs d'apprentissage":"Students will learn the theoretical background of finite element modeling as well as its application to modeling charge, mass and heat transport in electronic, fluidic and electromechanical micro and nanosystems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Physical models for micro and nanosystems",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

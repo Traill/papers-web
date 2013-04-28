@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772912&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","213"],
+    "title":"Electromechanics conversion I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772912&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Students will be able to use the electromechanics specific methods for main electrical motors external characteristics modeling and analysis.",
+      "Content":"Methodology[br/][br/]Magnetic circuits[br/]- Analysis of magnetic circuits[br/]- Permeance, self- and mutual inductance,[br/]- Iron losses[br/][br/]Electromechanics Conversion[br/]- Derivative of the magnetic energy [br/]- Maxwell tensor[br/]- Laplace force[br/]- Energy balance[br/][br/]Permanent Magnet[br/]- Characteristics[br/]- Working point[br/][br/]Dynamic behavior[br/]- Induced voltage of transformation[br/]- Induced voltage of movement[br/]- Induced voltage of saturation[br/]- Implementation and resolution of equations[br/][br/]Tranducers[br/]Tranducer classification[br/]",
+      "Prerequisite for":"Conversion électromécanique II",
+      "Bibliography and material":"Traité d'Electricité, vol. IX «Electromécanique»"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromechanics conversion I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-285-4&amp;con_lng=ENG\" target=\"blank\">Electromécanique / par Marcel Jufer</a>\". Year:2004. ISBN:2-88074-285-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Méthodes[br/][br/]Circuits magnétiques[br/]- Analyse de circuits magnétiques[br/]- Perméance,  inductances, propres et mutuelles[br/]- Pertes fer[br/][br/]Conversion électromécanique[br/]- Dérivée de l'énergie magnétique[br/]- Tenseur de Maxwell[br/]- Force de Laplace[br/]- Bilan énergétique[br/][br/]Aimant permanent[br/]- Caractéristiques[br/]- Point de fonctionnement[br/][br/]Comportement dynamique[br/]- Tension induite de transformation[br/]- Tension induite de mouvement[br/]- Tension induite de saturation[br/]- Mise en équations et résolution[br/][br/]Transducteurs[br/]Classification des transducteurs ",
+      "Préparation pour":"Conversion électromécanique II",
+      "Bibliographie et matériel":"Traité d'Electricité, vol. IX «Electromécanique»",
+      "Objectifs d'apprentissage":"Les étudiants seront capables d'utiliser les méthodes spécifiques de l'électromécanique en vue de la modélisation et d'analyser les caractéristiques externes des principaux moteurs électriques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conversion électromécanique I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-285-4&amp;con_lng=FRE\" target=\"blank\">Electromécanique / par Marcel Jufer</a>\". Année:2004. ISBN:2-88074-285-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

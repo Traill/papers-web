@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=405250632&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["HUM","406(a)"],
+    "title":"Music, politics and society I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=405250632&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167293",
+      "name":"Giardina Adriano"
+    },{
+      "url":"http://people.epfl.ch/162050",
+      "name":"Starobinski Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"This course is intended primarily for students interested in classical music and jazz. Basic knowledge in music history is welcome.[br/][br/][b]Lecturers[/b][br/]Georges Starobinski, Professor, Adriano Giardina, First Assistant (Section d'histoire de l'art, UNIL)",
+      "Form of examination":"Evaluation on a semester basis (grade associated to 3 ECTS). Fall semester evaluation is about knowledge acquisition and the elaboration of a project plan. Spring semester evaluation is about the realization of the project with oral defence. More information is given at the beginning of the academic year.",
+      "Bibliography and material":"Provided at the beginning of the semester",
+      "Content":"Although great artworks transcend their times, the social conditions in which they have been created leave in different ways significant traces on them. Composers did not write in the same way for an aristocratic court, a public concert-hall or for the 19th century salons. Besides, censorship can play a decisive role in the shaping of the artworks, particularly in totalitarian societies. [br/]Our seminar will treat exemplary cases chosen from the history of classical music, from the Baroque era up to the 20th century, in a chronological way.",
+      "Keywords":"Music history, political history, sociology of music.",
+      "Type of teaching":"Seminar",
+      "Learning outcomes":"At the end of the teaching, students will be able to better understand the impact of the political and social context in musical works."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Music, politics and society I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167293",
+      "name":"Giardina Adriano"
+    },{
+      "url":"http://people.epfl.ch/162050",
+      "name":"Starobinski Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cet enseignement s'adresse en priorité aux étudiants intéressés par la musique classique et le jazz. Des connaissances de base en histoire de la musique sont souhaitables.",
+      "Bibliographie et matériel":"Support de cours et liste distribuée en début de semestre.",
+      "Mots clés":"Histoire de la musique, histoire politique, sociologie de la musique.",
+      "Forme d'enseignement":"Séminaire.",
+      "Contenu":"Les grandes oeuvres musicales du passé transcendent leur époque et les conditions de leur création. Elles sont intemporelles. Elles n'en portent pas moins les traces, à des degrés variables, des structures sociales dans lesquelles elles ont vu le jour. On ne compose pas de la même façon pour les cours aristocratiques de l'ancien régime, les salles de concert publiques ou les salons du 19e siècle. De plus, la censure est un élément qui peut jouer un rôle déterminant dans la forme que prennent les oeuvres, en particulier dans les régimes totalitaires.[br/]Notre séminaire portera sur des cas exemplaires choisis dans l'histoire de la musique classique, de l'époque baroque au 20e siècle. Le séminaire suivra un plan chronologique.",
+      "Forme du contrôle":"Evaluation sur une base semestrielle par une note associée à 3 ECTS. L'évaluation du premier semestre porte sur l'acquisition de connaissances et l'élaboration du canevas d'un projet, qui sera réalisé en groupe ou individuellement. L'évaluation du semestre de printemps portera sur la réalisation d'un projet. Des précisions sont données en début d'année académique.",
+      "Objectifs d'apprentissage":"A la fin du cours les étudiant-e-s seront capables de comprendre les incidences du contexte politique et social sur les oeuvres musicales."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Musique, politique, société I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

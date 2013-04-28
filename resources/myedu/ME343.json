@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774662&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","343"],
+    "title":"Compressible-fluid dynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774662&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172702",
+      "name":"Noca Flavio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written test (3h)",
+      "Bibliography and material":"All the material (Handout+power point presentation+exercises with correction) can be downloaded from the moodle website (http://moodle.epfl.ch/course/view.php?id=9231).",
+      "Required prior knowledge":"[li]Master the concepts of mass, energy, and momentum balance, E1 (Thermodynamique et énergétique I)[br/][li]Compute the thermodynamic properties of a fluid, E2 (Thermodynamique et énergétique I)[br/][li]Formulate the basic flow equations, such as the Navier-Stokes equations, AH17[br/][li]State the conserved quantities in a given flow and link them to a physical-mathematical description, AH16",
+      "Content":"Review on fundamental and thermodynamics equations. Stationary and ideal one-dimensional compressible flow and compressibility evaluation. Normal shock waves. Oblique shock waves .Prandtl-Meyer expansion. Basic equations of a perfect and stationary quasi one-dimensional flow applied to Laval nozzle. Perfect and stationary two-dimensional flow through the method of calculation of the characteristics and the theory of weak perturbations. Pressure, lift and drag coefficients.",
+      "Keywords":"Compressible flows, sonic speed, shock wave, expansion.",
+      "Type of teaching":"Ex cathedra +exercises",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Describe physical phenomena associated with compressibility; determine if a given flow can be treated as incompressible, AH3[br/][li]Link flow behaviour with non-dimensional parameters (e.g. Reynolds and Mach numbers), AH2[br/][li]Apply the method of characteristics to the analysis of supersonic flows, AH21[br/][li]Associate different flow regimes with the nature of the Navier-Stokes equations (e.g. hyperbolic, elliptic, ...), AH18[br/][li]Describe flow in simple geometries, such as over a flat plate, in a tube, or around a sphere of airfoil, AH11"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Compressible-fluid dynamics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-409-1&amp;con_lng=ENG\" target=\"blank\">Dynamique des fluides : un cours de base du deuxième cycle universitaire / Inge L. Ryhming</a>\". Year:2004. ISBN:2-88074-409-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172702",
+      "name":"Noca Flavio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser les notions de bilans de matière, d'énergie et de quantité de mouvement, E1 (Thermodynamique et énergétique I)[br/][li]Calculer les propriétés thermodynamiques d'un fluide, E2 (Thermodynamique et énergétique I)[br/][li]Formuler les équations de base décrivant un écoulement, telles que Navier-Stokes, AH17[br/][li]Enoncer les quantités conservées dans un écoulement donné et les relier avec la description physico-mathématique, AH16",
+      "Bibliographie et matériel":"Le matériel de référence (polycopié+présentation power point+exercices corrigés) peut être téléchargé depuis le site moodle (http://moodle.epfl.ch/course/view.php?id=9231). ",
+      "Mots clés":"Fluides compressibles, vitesse sonique, ondes de choc, détente.",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"Rappel sur les équations fondamentales et la thermodynamique. Ecoulement monodimensionnel, stationnaire et idéal  compressible et évaluation de la compressibilité. Ondes  de choc  droit. Ondes de choc oblique. Détente de Prandtl-Meyer. Équations de base d'un écoulement quasi-monodimensionnel, idéal et stationnaire avec une application à la tuyère de Laval. Ecoulement bidimensionnel, stationnaire et idéal traité à travers la méthode des caractéristiques et des petites perturbations. Coefficients de pression, de portance et de traînée.",
+      "Forme du contrôle":"Examen écrit (3h)",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire les phénomènes physiques associés avec la compressibilité; déterminer pour un écoulement donné s'il peut être traité comme incompressible, AH3[br/][li]Relier les comportements des écoulements aux paramètres adimensionnels (nombre de Reynolds, Mach, etc.), AH2[br/][li]Appliquer la méthode des caractéristiques pour analyser les écoulements supersoniques, AH21[br/][li]Associer chaque régime avec la nature des équations de Navier-Stokes (hyperbolique, elliptique, ...), AH18[br/][li]Décrire l'écoulement dans des géométries simples, tel que sur une plaque plane, dans une tuyère ou autour d'une sphère ou un profil, AH11"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mécanique des fluides compressibles",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-409-1&amp;con_lng=FRE\" target=\"blank\">Dynamique des fluides : un cours de base du deuxième cycle universitaire / Inge L. Ryhming</a>\". Année:2004. ISBN:2-88074-409-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

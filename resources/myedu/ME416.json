@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773647&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","416"],
+    "title":"Computer aided manufacturing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773647&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    },{
+      "url":"http://people.epfl.ch/107556",
+      "name":"Xirouchakis Paul"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Group project reports on CAM modeling. A written exam will concern the application of the theory in the projects.",
+      "Bibliography and material":"Course documentation is distributed during the semester. Project support material can be downloaded from the licp laboratory website (http://licpwww.epfl.ch/cours/SFAO/)",
+      "Required prior knowledge":"[li]Choose material and the relative treatments based on its use, performance and compatibility with the manufacturing process of the final product, CP13 (Méthodes et procédés de fabrication)[br/][li]Identify the class, the constitutive elements and the performances of a machine or a mechanical system, CP15 (Eléments de machines)[br/][li]Illustrate the physics principles of production processes, CP16 (Méthodes et procédés de fabrication)[br/]Illustrate the features and limits of production processes, CP17 (Méthodes et procédés de fabrication)[br/][li]Géométrie",
+      "Content":"The goal of this course is to expose the student to basic computer-aided manufacturing (CAM) modeling concepts, basic mathematical simulation, verification and optimization algorithms and methodologies and their applications. Furthermore, students will practice their knowledge with modern interactive CAM software.",
+      "Keywords":"Computer aided manufacturing, toolpath generation, process planning modeling",
+      "Type of teaching":"The course is organised in theoretical sessions and the CAM modelling to be realised in team projects.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]Master experimental and numerical analysis tools, CP2[br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP6[br/][li]Realize, analyse and discuss a model: 3D complex geometries and assemblies, static, kinematic, dynamic, thermal and ultimate behaviour, life-cycle and costs of a system (product, manufacturing process or production system), CP8[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12[br/][li]Form and motivate a team, T13[br/][li]Share knowledge and experience with peers, T25"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computer aided manufacturing",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    },{
+      "url":"http://people.epfl.ch/107556",
+      "name":"Xirouchakis Paul"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Choisir un matériau et les traitements en fonction de son usage, de sa performance et son adéquation au mode de fabrication du produit final, CP13 (Méthodes et procédés de fabrication)[br/][li]Identifier le type, les éléments constitutifs et les performances d'une machine ou d'un système mécanique, CP15 (Eléments de machines)[br/][li]Enoncer les principes physiques des procédés de fabrication, CP16 (Méthodes et procédés de fabrication)[br/][li]Enoncer les caractéristiques et les limites des procédés de fabrication, CP17 (Méthodes et procédés de fabrication)[br/][li]Géométrie",
+      "Bibliographie et matériel":"La documentation du cours est distribuée pendant le semestre. Le matériel de support des projets du cours peut être téléchargé du site du laboratoire licp (http://licpwww.epfl.ch/cours/SFAO/)",
+      "Mots clés":"Fabrication assistée par ordinateur, génération des parcours d'outils, modélisation des gammes d'usinage",
+      "Forme d'enseignement":"Le cours est organisé en sessions théoriques et comprend la modélisation FAO réalisée dans des projets de groupe.",
+      "Contenu":"Le but du cours est de transmettre aux étudiants les concepts, les modèles, les algorithmes mathématiques pour la simulation, vérification  et optimisation et les méthodologies  pour la FAO (fabrication assistée par ordinateur). De plus, les étudiants mettent leurs connaissances en pratique avec des logiciels de FAO interactifs et modernes.",
+      "Forme du contrôle":"Rapports de groupe des projets de modélisation FAO (50%). Examen écrit sur l'application de la théorie aux projets(50%).",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (conception de produit, processus de fabrication et de systèmes de production), CP1[br/][li]Maîtriser les outils d'analyse numériques et expérimentaux, CP2[br/][li]Poser/extraire les hypothèses de modélisation adaptées et choisir les méthodes et outils en fonction des ressources pour le traitement du problème, CP6[br/][li]Réaliser, analyser et critiquer un modèle: forme géométrique 3D complexe et assemblages, comportement statique, cinématique, dynamique, thermique et de résistance d'un système, cycles de vie et les coûts associés d'un système (produit, processus de fabrication ou système de production), CP8[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12[br/][li]Composer une équipe, la motiver, T13[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fabrication assistée par ordinateur",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

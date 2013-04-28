@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24166872&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","201"],
+    "title":"Mathematica",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24166872&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Project",
+      "Bibliography and material":"Notebooks et livres spécialisés",
+      "Prerequisite for":"laboratory works and advanced courses",
+      "Content":"OVERVIEW OF MATHEMATICA FOR PLOTTING :[br/][li]Real or complex functions :[br/][][][]- Surfaces.[br/][][][]- Experimental data sets.[br/][][][]- Symbolic algebra.[br/][li]Vectors, matrices and tensors[br/][li]Symbolic integration.[br/][li]Analytical solution of ordinary differential (ODE) and partial differential equations (PDE).[br/][li]Numerical integration.[br/][li]Numerical solution of differential equations (ODE & PDE).[br/][li]Statistics.[br/]IN DEPTH DESCRIPTION OF MATHEMATICA INTERNALS :[br/][li]Kernel.[br/][li]Front End.[br/][li]Help Browser.[br/][li]Expressions evaluation.[br/]IN DEPTH DESCRIPTION OF MATHEMATICA FOR PRESENTATION AND REPORT WRITING.[br/][br/][br/]",
+      "Type of teaching":"computer assisted",
+      "Learning outcomes":"To learn « Mathematica » in order to analyze and model experimental data sets, to prepare scientific reports and presentations, to visualize complex equations and models.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematica",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Mathematica Notebooks ",
+      "Forme d'enseignement":"Assisté par ordinateur",
+      "Contenu":"DESCRIPTION DES POSSIBILITÉS OFFERTES PAR LE LOGICIEL MATHEMATICA, EN PARTICULIER :[br/][li]Représentations graphiques de :[br/][][][]- Fonctions (réelles ou complexes).[br/][][][]- Surfaces.[br/][][][]- Données expérimentales.[br/][li]Algèbre symbolique.[br/][li]Vecteurs, matrices et tenseurs.[br/][li]Intégration symbolique.[br/][li]Solution analytique d'équations différentielles ordinaires (ODE) et aux dérivées partielles (PDE).[br/][li]Intégration numérique.[br/][li]Solution numérique d'équations différentielles (ODE & PDE).[br/][li]Statistique.[br/]DESCRIPTION DETAILLÉE DU FONCTIONNEMENT DE MATHEMATICA, EN PARTICULIER :[br/][li]Noyau.[br/][li]Front End.[br/][li]Systèmes d'aide.[br/][li]Évaluation des expressions.[br/]DESCRIPTION DETAILLÉE DE L'UTILISATION DE MATHEMATICA POUR ÉCRIRE UN RAPPORT SCIENTIFIQUE À FORT IMPACT.",
+      "Forme du contrôle":"Projet",
+      "Préparation pour":"Travaux pratiques et cours avancés",
+      "Objectifs d'apprentissage":"Apprendre à utiliser un outil universel « Mathematica » pouvant être employé pour analyser et modéliser des données expérimentales, préparer un exposé interactif, préparer un rapport scientifique et pour visualiser des équations et modèles complexes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematica",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

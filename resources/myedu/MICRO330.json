@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=46909636&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","330"],
+    "title":"Sensors",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=46909636&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    },{
+      "url":"http://people.epfl.ch/107144",
+      "name":"Renaud Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To get a basic understanding of physical principles that can be used in sensors. Overview of the transduction principles and associated electronics. Show selected application examples. ",
+      "Content":"Metrological characteristics of transducers [br/][br/][b]Mechanical sensors:[/b] strain gages, piezoresistance. Applications: force, pressure.[br/][b]Thermal sensors:[/b] resistance, thermocouples, semiconductor, thermopile. Applications: temperature, IR radiation, anamometry, mass flow. [br/][b]Capacitive sensors:[/b] Capacitive readout interfaces. Applications: proximity, position, pressure, acceleration, microphone. [br/][b]Inductive sensors:[/b] LVDT, variable reluctance, proximity. [br/][b]Magnetic sensors:[/b] Hall, magnetostrictive, magnetoresistive. [br/][b]Piezoelectric sensors:[/b] Materials, piezoelectric effect, readout interfaces. Applications examples: acceleration, microphone, pyroelectric sensors. [br/][b]Resonant sensors:[/b] Principles, interfacing, quartz oscillators applications: force, pressure, temperature, micro-balances, gyroscopes, flow sensors. [br/][b]Chemical sensors:[/b] Catalytic, conductance, electrochemical.[br/][b]Optical sensors:[/b] General overview. Applications: encoder, integrated optics. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sensors",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-005777-4&amp;con_lng=ENG\" target=\"blank\">Les capteurs en instrumentation industrielle / Georges Asch ... [et al.]</a>\". Year:2006. ISBN:2-10-005777-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    },{
+      "url":"http://people.epfl.ch/107144",
+      "name":"Renaud Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Blocs 1 et 2",
+      "Bibliographie et matériel":"[br/][li]Résumé des notes de cours, G. Boero et Ph. Renaud (en français) [br/][li]G. Asch: \"Les Capteurs en Instrumentation Industrielle\", DUNOD 1991, 5ème édition (1999) ",
+      "Forme d'enseignement":"Exposé oral + discussions ",
+      "Contenu":"Caractéristiques métrologiques de transducteurs [br/][br/][b]Capteurs mécaniques:[/b] jauges de contrainte, piézorésistances. Applications: force, pression. [br/][b]Capteurs thermiques:[/b] résistance, thermocouples, semiconducteurs, thermopile. Applications: température, rayonnement IR, anémométrie, débit. [br/][b]Capteurs capacitifs:[/b] Conditionneur de signal capacitif. Applications: proximité, position, pression, accélération, microphone. [br/][b]Capteurs inductifs: [/b]LVDT, réluctance variable, proximité. [br/][b]Capteurs magnétiques:[/b] Effet Hall, magnétostriction, magnétorésistance. [br/][b]Capteurs piézoélectriques:[/b] Matériaux, effet piézoélectrique, conditionneurs de signal. Applications: accélération, microphone, capteurs pyroélectriques. [br/][b]Capteurs résonnants:[/b] Principe, interfaçage, oscillateurs à quartz. Applications: force, pression, température, micro-balances, gyroscopes, débit. [br/][b]Capteurs chimiques:[/b] catalytiques, conductance, électrochimiques. [br/][b]Capteurs optiques:[/b] Vue d'ensemble. Applications: encodeurs, optiques intégrées. ",
+      "Préparation pour":"Master microtechnique",
+      "Objectifs d'apprentissage":"Comprendre les principes physiques utilisés dans les capteurs. Vue générale des différents principes de transduction et de l'électronique associée. Montrer des exemples d'application. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Capteurs",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-005777-4&amp;con_lng=FRE\" target=\"blank\">Les capteurs en instrumentation industrielle / Georges Asch ... [et al.]</a>\". Année:2006. ISBN:2-10-005777-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

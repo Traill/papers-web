@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=724082980&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","441"],
+    "title":"UE M : Space and light: the lighting project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=724082980&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103938",
+      "name":"Andersen Marilyne"
+    },{
+      "url":"http://people.epfl.ch/102987",
+      "name":"Paule Bernard"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course aims to improve the students' ability to see, plan and design light in architecture. The approach is to enable students to consider light as a resource that structures a project, and to master its effects so as to better serve architecture. The students are thus asked to understand the basic principles of natural and artificial lighting, and use them to generate a luminous atmosphere as well as specific performance objectives, that must then be tested through the use of appropriate evaluation tools.[br/][br/]This course adopts a technical approach, focused on performance in terms of illumination potential, visual and thermal comfort but within the framework of a global design intent, which also comprises luminous ambiance. It embraces a sustainable perspective, with an integrated approach combining comfort and energy concerns.[br/]",
+      "Content":"The course is organized in three successive phases : [br/][li]Problem statement (visual and luminous requirements based on space use), [br/][li]Preliminary design (design intent),[br/][li]Dimensioning and verification (project development and validation with adequate simulation tools). [br/][br/]The students work in teams and based on an existing plan (exhibition pavilion on the EPFL campus). Several themes are addressed such as luminous quantities, visual comfort and solar gains, luminaires and light play, as well as an important emphasis on evaluation tools and computer simulation. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE M : Space and light: the lighting project",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103938",
+      "name":"Andersen Marilyne"
+    },{
+      "url":"http://people.epfl.ch/102987",
+      "name":"Paule Bernard"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours théorique, exercices, séminaires, travaux de groupe (conception et évaluation d'un projet d'éclairage/mise en lumière).",
+      "Contenu":"Le cours se déroule en trois phases successives : [br/][li]Problématique (exigences visuelles et lumineuses en fonction de l'affectation d'un espace), [br/][li]Avant-projet (détermination du parti d'éclairage), [br/][li]Dimensionnement et vérification (matérialisation du projet d'éclairage et validation avec des logiciels adéquats). [br/][br/]Les étudiants travaillent en équipe et sur la base d'un plan existant (pavillon d'exposition sur le campus de l'EPFL). Parmi les thématiques abordées figurent les grandeurs lumineuses, le confort visuel et les gains solaires, les luminaires et la mise en lumière, ainsi qu'un accent important sur les outils d'évaluation et la simulation numérique.",
+      "Forme du contrôle":"Critiques intermédiaires à la table (30% de la note). [br/]Préparation et présentation d'un dossier de synthèse (rendu final, 70% de la note).",
+      "Objectifs d'apprentissage":"Ce cours vise à développer les capacités de l'étudiant à «voir», à «prévoir» et à «concevoir» la lumière. L'idée est que les étudiants puissent aborder l'éclairage comme un élément structurant du projet et apprendre à en maîtriser les effets de façon à mieux «servir» l'architecture. Les étudiants seront ainsi amenés à comprendre les principes de base d'éclairage naturel et artificiel, et à les utiliser pour générer une atmosphère lumineuse ainsi que des objectifs de performance spécifiques, qu'ils devront tester à travers l'utilisation d'outils d'évaluation appropriés. [br/][br/]Ce cours adopte une approche technique, focalisée sur la performance au niveau de l'apport de lumière, du confort visuel et thermique, mais dans le cadre d'un parti d'éclairage global, qui comprend également la question d'ambiance lumineuse. Il s'inscrit dans une perspective de développement durable en proposant une approche intégrée du confort des occupants et une utilisation rationnelle de l'énergie.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE M : Espace et lumière: le projet d'éclairage",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  }
+}

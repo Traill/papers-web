@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771578&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","452"],
+    "title":"Process development II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771578&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169257",
+      "name":"Zaza Philippe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Familiarize the student with integrated process development and industrial technologies.",
+      "Content":"[b]Optimization[/b][br/][br/][li] Influence of process modifications[br/][br/][li] Risk analysis introduction[br/][br/][li] Optimum choice[br/][br/][li] Development program definition[br/][br/][li] Use of process simulation software[br/][br/][li] Scale down & scale up"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Process development II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-064792-6&amp;con_lng=ENG\" target=\"blank\">Analysis, synthesis and design of chemical processes / Richard Turton ... [et al.]</a>\". Year:2007. ISBN:0-13-064792-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169257",
+      "name":"Zaza Philippe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Optimalisation[/b][br/][br/][li] Influence des modifications[br/][br/][li] Introduction à l'analyse de risques[br/][br/][li] Choix d'un optimum[br/][br/][li] Définition d'un programme de développement[br/][br/][li] Utilisation de programmes de simulation de procédés[br/][br/][li] Scale down et scale up",
+      "Prérequis":"Excellente formation en génie chimique",
+      "Bibliographie et matériel":"Ullmann, Perry's",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant au développement intégré de procédés et aux technologies industrielles."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Process development II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-064792-6&amp;con_lng=FRE\" target=\"blank\">Analysis, synthesis and design of chemical processes / Richard Turton ... [et al.]</a>\". Année:2007. ISBN:0-13-064792-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

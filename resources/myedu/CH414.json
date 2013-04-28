@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350477358&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","414"],
+    "title":"Pharmacological chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350477358&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163670",
+      "name":"Heinis Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[b] Introduction to the molecular and chemical basis of disease and therapy[/b][br/][br/]In the first part of the course the molecular and chemical basis of important human diseases and available therapies will be discussed. The second part of the course will be about different classes of therapeutics.[br/] [br/]",
+      "Content":"The molecular and chemical bases of the following diseases classes will be discussed:[br/][li] cancer[br/][li] cadiovascular diseases[br/][li] neurologic disorders[br/][li] infectious diseases[br/][li] inherited diseases[br/][br/]The mode of action of the following therapeutics will be analysed:[br/][li] blood and blood components[br/][li] enzymes[br/][li] hormones[br/][li] cytokines[br/][li] monoclonal antibodies[br/][li] antibody fragments and mimics[br/][li] macrocycles[br/][li] peptides and peptidomimetics "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pharmacological chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163670",
+      "name":"Heinis Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Conférence et présentation des étudiants ",
+      "Contenu":"Les mécanismes moléculaires et chimiques des classes de maladies suivantes seront discutées:[br/][li] cancer[br/][li] maladies cardiovasculaires[br/][li] maladies neurologiques[br/][li] maladies infectieuses[br/][li] maladies héréditaires[br/][br/]Le mode de fonctionnement des médicaments modernes suivants sera analysé:[br/][li] sang et ses composants[br/][li] enzymes[br/][li] hormones[br/][li] cytokines[br/][li] anticorps monoclonales[br/][li] fragments d'anticorps et mimétiques d'anticorps[br/][li] macrocycles[br/][li] peptides et mimétiques de peptides ",
+      "Forme du contrôle":"Examen oral",
+      "Prérequis":"Connaissances minimales en chimie biologique ",
+      "Objectifs d'apprentissage":"[b] Introduction des mécanismes moléculaires et chimiques des maladies thérapeutiques [/b][br/][br/]Dans la première partie du cours, les mécanismes moléculaires et chimiques des maladies humaines importantes et des médicaments seront discutés. Dans la deuxième partie du cours, les différentes classes de thérapies seront abordées. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pharmacological chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

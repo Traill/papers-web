@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771548&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","709"],
+    "title":"Power management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771548&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective of this course is to discuss the state-of-the-art in low-power analog and digital system design, with special emphasis on transistor level measures to limit and to control the power dissipation of portable systems.",
+      "Content":"1. [][][]DC-DC Converters, Topologies & Control Techniques[br/]2. [][][]Converter Modeling and Feedback Loop Design[br/]3. [][][]Microprocessor Power Supplies[br/]4. [][][]Switched-Capacitor Power Supplies[br/]5. [][][]CMOS Linear Regulators, Design and Case Studies[br/]6. [][][]Bandgap References[br/]7. [][][]Alternative Bandgaps and Applications[br/]8. [][][]Battery Charging Techniques & Circuits for Notebook Computers & Cellular Phones[br/]9. [][][]Transistor-Level Off-line DC-DC Controller Design[br/]10. [][]Circuit Techniques for Integrated Switching[br/]11. [][]Regulators",
+      "Keywords":"DC-DC Converters, Power Supplies, Bandgap References",
+      "Note":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Required prior knowledge":"Basic electronic circuits"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power management",
+    "recitation":null,
+    "exam_form":"Written & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"[b]* Organized by MEAD/EPFL (Contact: education@mead.ch)",
+      "Contenu":"1. [][][]DC-DC Converters, Topologies & Control Techniques[br/]2. [][][]Converter Modeling and Feedback Loop Design[br/]3. [][][]Microprocessor Power Supplies[br/]4. [][][]Switched-Capacitor Power Supplies[br/]5. [][][]CMOS Linear Regulators, Design and Case Studies[br/]6. [][][]Bandgap References[br/]7. [][][]Alternative Bandgaps and Applications[br/]8. [][][]Battery Charging Techniques & Circuits for Notebook Computers & Cellular Phones[br/]9. [][][]Transistor-Level Off-line DC-DC Controller Design[br/]10. [][]Circuit Techniques for Integrated Switching[br/]11. [][]Regulators",
+      "Mots clés":"DC-DC Converters, Power Supplies, Bandgap References",
+      "Prérequis":"Basic electronic circuits",
+      "Objectifs d'apprentissage":"The objective of this course is to discuss the state-of-the-art in low-power analog and digital system design, with special emphasis on transistor level measures to limit and to control the power dissipation of portable systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power management",
+    "recitation":null,
+    "exam_form":"Ecrit & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

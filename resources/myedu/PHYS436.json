@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128851824&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","436"],
+    "title":"Statistical physics IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128851824&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182444",
+      "name":"Kippenberg Tobias"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-54882-3&amp;con_lng=ENG\" target=\"blank\">Master equations and Fokker-Planck equations / H.J. Carmichael</a>\". Year:1999. ISBN:3-540-54882-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-71514-0&amp;con_lng=ENG\" target=\"blank\">Non-equilibrium statistical mechanics and turbulence / John Cardy, Gregory Falkovich and Krzysztof Gawedzki</a>\". Year:2008. ISBN:978-0-521-71514-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-53833-X&amp;con_lng=ENG\" target=\"blank\">Nonequilibrium statistical mechanics / R. Kubo, M. Toda, N. Hashitsume</a>\". Year:1991. ISBN:3-540-53833-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-22301-0&amp;con_lng=ENG\" target=\"blank\">Quantum noise : a handbook of Markovian and non-Markovian quantum stochastic methods with applications to quantum optics / C. W. Gardiner, P. Zoller</a>\". Year:2004. ISBN:3-540-22301-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-85913-3&amp;con_lng=ENG\" target=\"blank\">Statistical mechanics / Kerson Huang</a>\". Year:1987. ISBN:0-471-85913-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-65401-X&amp;con_lng=ENG\" target=\"blank\">Statistical physics / Gregory H. Wannier</a>\". Year:1987. ISBN:0-486-65401-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182444",
+      "name":"Kippenberg Tobias"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Lectures and exercices",
+      "Contenu":"[b]I. Introduction to non-equilibrium thermodynamics[/b][br/]- Brownian Motion and Einstein relation[br/]- Fokker Planck Equation\t[br/]- Boltzmann Equation[br/]- Examples of particle and heat diffusion, relaxation [br/][br/][b]II. Statistical Mechanics of Linear Response[/b][br/]- Kubo Formula[br/]- Fluctuation Dissipation Theorem\t[br/]- Markovian Processes\t[br/][br/][b]III. Quantum statistical processes[/b][br/]- The quantum Master equation and open quantum systems[br/]- The damped Harmonic oscillator interacting with a non-zero temperature bath[br/]- Two level system in a heat bath, de-phasing processes.[br/]- Quantum stochastic Langevin equations[br/][]\t[br/][b]IV. Special topics: applications of stochastic quantum Langevin equations in quantum optics[/b][br/]- Applications of quantum statistical processes and simulation thereof using the \"MATLAB\" Quantum Optical Toolbox[br/]- Input-output theory Gardiner and Collet[br/]- Applications of stochastic quantum Langevin equations in Quantum Optics:Master equation, Fokker Planck equation for Optical Parametric Oscillator, Ito formalism, Phase diffusion in Lasers[br/]- Thermodynamical noise in Physics and precision measurements (thermorefractive noises, 1/f noise and noise color).[br/]",
+      "Forme du contrôle":"un devoir chaque semaine fait = bonus de 50% sur la note finale",
+      "Bibliographie et matériel":"- Statistical Physics II: Nonequilibrium Statistical Mechanics: 2, Kubo, Ryogo; Springer Berlin Heidelberg; Auflage: 2nd ed. 1991, ISBN-10: 354053833X[br/]- Nonequilibrium statistical mechanics, Zwanzig, Oxford Univ Pr; Auflage: 0003 (1. Mai 2001), ISBN-10: 0195140184[br/]- Statistical Methods in Quantum Optics 1: Master Equations and Fokker-Planck Equations (Theoretical and Mathematical Physics), Springer Verlag, ISBN-10: 3540548823[br/]- Quantum Noise: A Handbook of Markovian and Non-Markovian Quantum Stochastic Methods with Applications to Quantum Optics (Springer Series in Synergetics)[br/]- Tan  \"Quantum Optics Toolbox\" for MATLAB (http://qo.phy.auckland.ac.nz/files/2011/08/acols98b.pdf )[br/][br/][b]Papers:[/b][br/]- \"Input and Output in damped quantum systems: Quantum Stochastic differential equations and the master equation\",  Gardiner and Collet, Phys. Rev. A. 31,6, 1985[br/]- H.B. Callen, T.A. Welton (1951). \"Irreversibility and Generalized Noise\". Physical Review 83: 34-40.[br/]- A.A. Clerk et al., \"Introduction to Quantum Noise, Measurement and Amplification\" Review of Modern Physics[br/]- Kubo, Fluctuation-Dissipation Theorem, Reports Progress in Physics, Bd. 29, 1966, S. 255[br/]",
+      "Objectifs d'apprentissage":"The objective of this course is to understand the mathematical foundations of classical and quantum systems that find themselves out of equilibrium via interactions with a reservoir leading to stochastic processes. In addition to analyzing classical systems and developing a linear response theory and stochastic Langevin equations, the course will also consider quantum systems interaction with a reservoir. The quantum master equation will be introduced and used to describe the interaction of a two-level systems and harmonic oscillators systems. The quantum stochastic Master equation MATLAB toolbox will be introduced to address a variety of open quantum system problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-54882-3&amp;con_lng=FRE\" target=\"blank\">Master equations and Fokker-Planck equations / H.J. Carmichael</a>\". Année:1999. ISBN:3-540-54882-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-71514-0&amp;con_lng=FRE\" target=\"blank\">Non-equilibrium statistical mechanics and turbulence / John Cardy, Gregory Falkovich and Krzysztof Gawedzki</a>\". Année:2008. ISBN:978-0-521-71514-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-53833-X&amp;con_lng=FRE\" target=\"blank\">Nonequilibrium statistical mechanics / R. Kubo, M. Toda, N. Hashitsume</a>\". Année:1991. ISBN:3-540-53833-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-22301-0&amp;con_lng=FRE\" target=\"blank\">Quantum noise : a handbook of Markovian and non-Markovian quantum stochastic methods with applications to quantum optics / C. W. Gardiner, P. Zoller</a>\". Année:2004. ISBN:3-540-22301-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-85913-3&amp;con_lng=FRE\" target=\"blank\">Statistical mechanics / Kerson Huang</a>\". Année:1987. ISBN:0-471-85913-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-65401-X&amp;con_lng=FRE\" target=\"blank\">Statistical physics / Gregory H. Wannier</a>\". Année:1987. ISBN:0-486-65401-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

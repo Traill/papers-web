@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228383314&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","434"],
+    "title":"Contact mechanics and nonsmooth tribology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228383314&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104846",
+      "name":"Curnier Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Essay",
+      "Required prior knowledge":"[li]Prerequisite 1  Mechanics of solids (ME-331)[br/][li]Prerequisite 2  Rheology of materials (ME-431)",
+      "Content":"This course is an initiation to mechanical modelling and mathematical formulating of the phenomena of unilateral contact between two bodies and dry friction between two materials, using élementary discrete problems and using the modern tools of nonsmooth convex analysis. [br/]The course is divided into 4 chapters. [br/]Chap. 2 deals with mechanical modelling of unilateral contact. [br/]It  covers contact mechanics (geometrical gap, static pressure, energetic work) and tribology (normal unilateral contact law, alternative forms, contact energy, inverse law). [br/]Chap. 3 deals with mathematical formulating of unilateral contact. [br/]It  covers classical mixed complementarity, minimisation of primal energy and minimaximisation of mixed energy Lagrangian. [br/]Chap. 4 deals with mechanical modelling of dry friction. [br/]It  covers contact mechanics (kinematic slip rate, dynamic shear, dissipation power) and tribology (tangential dry friction law, alternative forms, friction dissipation, inverse law). [br/]Chap. 5 deals with mathematical formulating of dry friction. [br/]It  covers classical mixed complementarity, minimisation of primal dissipation and minimaximisation of mixed dissipation Lagrangian.",
+      "Keywords":"Unilateral Contact, Dry Friction, Tribology",
+      "Type of teaching":"Classroom lectures ",
+      "Learning outcomes":"[li]Describe in scientific terms and apply tribology principles (rheological laws for normal and tangential contacts) and contact mechanics (kinematics, statics, dynamics) to formulate and solve two-body contact problems. Apply these concepts to develop numerical models and simulations of complex contact problems, S13"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Contact mechanics and nonsmooth tribology",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"Contact mechanics and nonsmooth tribology : book / Alain Curnier\". Year:2005</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104846",
+      "name":"Curnier Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Prérequis 1  Mécanique des solides (ME-331)[br/][li]Prérequis 2  Rhéologie des matériaux (ME-431)[br/]",
+      "Bibliographie et matériel":"Contact Mechanics and Nonsmooth Tribology, Alain Curnier, Polycopy, EPFL Press, 2011 ",
+      "Mots clés":"Contact unilateral, Frottement sec, Tribologie",
+      "Forme d'enseignement":"Cours magistral",
+      "Contenu":"Ce cours est une initiation à la modélisation mécanique et la formulation mathématique des phénomènes de contact unilatéral entre deux solides  et de frottement sec entre deux matériaux, par le biais de problèmes discrets élémentaires, en utilisant les outils modernes de l'analyse convexe non régulière. Le cours est divisé en 4 chapitres. [br/]Le chap. 2 concerne la modélisation mécanique du contact unilatéral. [br/]Il couvre la mécanique du contact (écart géométrique, pression statique, travail énergétique) et la tribologie (loi de contact unilatéral normal sous formes diverses, énergie de contact, loi inverse). [br/]Le chap. 3 concerne la formulation mathématique du contact unilatéral. [br/]Il couvre la complémentarité mixte classique, la minimisation de l'énergie primale et la minimaximisation du lagrangien mixte. [br/]Le chap. 4 concerne la modélisation mécanique du frottement sec.[br/]Il couvre la mécanique du contact (vitesse de glissement cinématique, le cisaillement dynamique, la puissance de dissipation) et la tribologie (loi de frottement sec tangentiel sous formes diverses, dissipation par frottement, loi inverse). [br/]Le chap. 5 concerne la formulation mathématique du frottement sec. [br/]Il couvre la complémentarité mixte classique, la minimisation de la dissipation primale et la minimaximisation du lagrangien de la dissipation mixte). ",
+      "Forme du contrôle":"Essai",
+      "Objectifs d'apprentissage":"[li]Décrire scientifiquement et mettre en ½uvre les principes de la tribologie (lois rhéologiques normales et tangentielles des contacts) et de la mécanique des contacts (cinématique, statique, dynamique et énergétique des corps en contact) pour formuler et résoudre des problèmes de contact à deux corps. Appliquer ces concepts pour la modélisation et la simulation numérique de problèmes de contact complexes, S13"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Contact mechanics and nonsmooth tribology",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"Contact mechanics and nonsmooth tribology : book / Alain Curnier\". Année:2005</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499251995&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","320"],
+    "title":"IC design I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499251995&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    },{
+      "url":"http://people.epfl.ch/111342",
+      "name":"Pastre Marc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student will be able to design the basic analog integrated structures. He will master the devices and structures used in MOS technologies, as well as the basic principles underlying their correct layout implementation.[br/]",
+      "Content":"MOS transistors: structure, modes of operation, large and small signal models, thermal behavior, noise, fabrication process and layout[br/]Passive devices: capacitors, resistors, MOS transistor used as a pseudo-resistor, diodes, interconnections[br/]Parasitic devices and parasitic effects: parasitic capacitors and resistors, leakage currents[br/]Basic analog structures design:[br/]a. Differential pair[br/]b. Current mirror[br/]c. Cascode stage[br/]d. Analog switch[br/]e. Operational Transconductance Amplifier (OTA)",
+      "Type of teaching":"Ex cathedra, exercises and labs (simulation with CAD tools)[br/]",
+      "Form of examination":"Written",
+      "Required prior knowledge":"Electronics I and II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"IC design I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    },{
+      "url":"http://people.epfl.ch/111342",
+      "name":"Pastre Marc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electronique I et II",
+      "Bibliographie et matériel":"Notes de cours",
+      "Forme d'enseignement":"Cours ex cathedra, séances d'exercices et TP (simulation avec outils CAD)[br/]",
+      "Contenu":"Transistors MOS: structure, modes de fonctionnement, modèles grands et petits signaux, comportement thermique, bruit, technologie et plans de masques[br/]Composants passifs: capacités, résistances, transistor MOS utilisé en pseudo-résistance, diodes, interconnexions[br/]Composants et effets parasites: capacités et résistances parasites, courants de fuite[br/]Conception des structures analogiques:[br/]a. Paire différentielle[br/]b. Miroir de courant[br/]c. Montage cascode[br/]d. Interrupteur analogique[br/]e. Amplificateur Opérationnel à Transconductance (OTA)[br/]",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"L'étudiant sera capable de concevoir les structures intégrées analogiques de base. Pour cela, il maîtrisera les dispositifs et les circuits utilisés en technologies MOS, ainsi que les principes à respecter lors de leur implantation dans le layout.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Circuits intégrés I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

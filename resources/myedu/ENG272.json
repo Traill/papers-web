@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1142078709&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","272"],
+    "title":"Fluid mechanics (for SIE)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1142078709&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155043",
+      "name":"Parlange Marc"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To provide students the fundamentals of fluid mechanics[br/]",
+      "Content":"[li] Introduction: Continuum assumption, basic fluid properties[br/][li] Fluid statics: pressure, forces on immerged body[br/][li] Flowing fluids and pressure variation: continuity, momentum, energy equations, applications in engineering[br/][li] Dimensional analysis and similitude[br/][li] Surface resistance[br/][li] Flow in conduits[br/][li] Flow in open channels[br/][li] Flow measurement",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"10 % exercises, 50 % two tests during the semester, 40 % written final exam (120 min) during exam session",
+      "Required prior knowledge":"Physics, Mathematics, Mechanics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fluid mechanics (for SIE)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-25977-1&amp;con_lng=ENG\" target=\"blank\">Engineering fluid mechanics</a>\". Year:2009. ISBN:978-0-470-25977-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155043",
+      "name":"Parlange Marc"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique, Mathématiques, Mécanique",
+      "Bibliographie et matériel":"Polycopié de cours sur internet[br/]Clayton T.Crow et al., \"Engineering Fluid mechanics\", 9th ed. (Librairie la Fontaine)",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[li] Introduction: propriétés fondamentales des fluides[br/][li] Paramètres statiques: pression et forces[br/][li] Ecoulements et variations de pression: continuité, moment, équation d'énergie, applications dans l'ingénierie[br/][li] Analyse dimentionnelle et similitude[br/][li] Force de frottement[br/][li] Ecoulement en conduits[br/][li] Ecoulement à surface libre[br/][li] Mesures des débits d'écoulement",
+      "Forme du contrôle":"10 % exercices, 50 % 2 tests durant le semestre, 40 % examen final écrit de 120 min durant la session d'examen",
+      "Objectifs d'apprentissage":"Fournir à l'étudiant les notions fondamentales de la mécanique des fluides"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fluid mechanics (for SIE)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-25977-1&amp;con_lng=FRE\" target=\"blank\">Engineering fluid mechanics</a>\". Année:2009. ISBN:978-0-470-25977-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

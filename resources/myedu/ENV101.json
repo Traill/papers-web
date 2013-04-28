@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144932&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","101"],
+    "title":"General Biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144932&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168011",
+      "name":"Rossi Pierre"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam 90 min.",
+      "Prerequisite for":"Microbiology for engineers",
+      "Content":"[b]Introduction to biology [/b][br/]Definition of life[br/]Classical taxonomy: basis[br/][b]Cellular structures and functions [/b][br/]Eukaryotic and Prokaryotic cells[br/]Photosynthesis[br/][b]Main groups of organisms[/b][br/]Viruses[br/]Bacteria and Archaea[br/]Protozoans[br/]Metazoans in general[br/][br/]",
+      "Keywords":"Cell, organism, bacteria, Archaea, plants, algae, fungi, photosynthesis[br/]",
+      "Type of teaching":"Lecture ex cathedra",
+      "Learning outcomes":"To learn the definition of life, the origin of life. To understand how a cell is organized, to review its main components and their inherent functions. To know the main groups of living organisms, including the viruses. To understand the bases of the interactions of the organisms with their habitat."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General Biology",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73551-5&amp;con_lng=ENG\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Year:2012. ISBN:978-0-321-73551-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168011",
+      "name":"Rossi Pierre"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Notes du cours, articles scientifiques et wiki \"Brock Biologie des Micro-organismes\"",
+      "Mots clés":"Cellule, organisme, bactéries, Archaea, plantes, algues, champignons, photosynthèse",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"[b]Introduction à la biologie[/b][br/]Définition du vivant[br/]Base de taxonomie classique[br/][b]Structures et fonctions cellulaires[/b][br/]Cellules eucaryote et procaryote[br/]La photosynthèse[br/][b]Les grands groupes d'organismes[/b][br/]Virus[br/]Bacteria et Archaea[br/]Protozoaires[br/]Métazoaires en général[br/][br/]",
+      "Forme du contrôle":"Examen écrit 90 min.",
+      "Préparation pour":"Microbiologie pour l'ingénieur",
+      "Objectifs d'apprentissage":"Connaître la définition du vivant, l'origine de la vie. Comprendre la structure des cellules, ses principaux constituants et ses fonctions de base. Connaître les grands groupes d'organismes vivants et leurs structures, y compris les virus. Comprendre les bases de l'interaction des organismes avec leur habitat."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie générale",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-73551-5&amp;con_lng=FRE\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Année:2012. ISBN:978-0-321-73551-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652078287&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","597"],
+    "title":"Engineering internship credited with Project master (master in Materials science and engineering)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=652078287&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/107522",
+      "name":"Sunderland Homeira"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]The objectives of the internship are to immerse the student into the industrial world, to highten him to the teamwork, to familiarize him to the company's processes and the engineer profession requirements.[br/][br/][li]In order to achieve these objectives, the student makes an industrial internship in a field where the materials science engineer competences are brought out.[br/]",
+      "Content":"Internship's offers can be found on IS-Academia.",
+      "Note":"Students are responsible for finding an internship position. They can use the EPFL data base or find a position by themselves. In the latter case, the students have to submit the content of the internship to the Section for approval and the registration must be done by the Section.[br/]"
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Engineering internship credited with Project master (master in Materials science and engineering)",
+    "recitation":null,
+    "exam_form":"Term paper",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/107522",
+      "name":"Sunderland Homeira"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"L'étudiant a la responsabilité de trouver un stage. L'EPFL met à disposition des étudiants une base de donnée contenant des offres de stage. Dans le cas où l'étudiant trouve un stage par ses propres moyens, le contenu du stage doit être approuvé auparavant par le section. L'inscription dans ce cas se fera par la Section.",
+      "Contenu":"Des offres de stage peuvent être consultées sur Is-Academia ",
+      "Objectifs d'apprentissage":"[li]Le stage a pour objectifs l'immersion de l'étudiant dans le monde industriel, sa sensibilisation au travail en équipe, sa familiarisation aux processus de l'entreprise et à l'ensemble des exigences de la profession d'ingénieur. [br/][br/][li]Pour atteindre les objectifs précités, l'étudiant effectue un stage en entreprise dans un domaine d'activité où les compétences de l'ingénieur en science et génie des matériaux sont mises en valeur.  "
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Stage d'ingénieur crédité avec le PDM (master en  Science et génie des matériaux)",
+    "recitation":null,
+    "exam_form":"Mémoire",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772592&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","239"],
+    "title":"Preparative chemistry I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772592&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148571",
+      "name":"Gerber Sandrine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Apply basic reactivity in organic chemistry to the multi-step synthesis of polyfunctional molecules. Instruction on safety regulation in laboratories of chemical synthesis. Instruction on the plannification and monitoring of simple synthetic pathways.[br/]",
+      "Content":"[li] One mono- or two-steps synthesis[br/][br/][li] One three steps synthesis[br/][br/][li] Characterization of synthetic products by spectral analysis (NMR, IR, Mass) [br/][br/][li] Redaction of scientific reports"
+    },
+    "practical":{
+      "total_hours":56
+    },
+    "language":"Français",
+    "title":"Preparative chemistry I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148571",
+      "name":"Gerber Sandrine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Une journée complète et obligatoire à la fin des TPs sera consacrée à une introduction à la \"Chimie analytique expérimentale\" dispensé en 3ème année",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Atomes, ions, molécules et fonctions I et II\"[br/]\"Chimie organique TP\"",
+      "Forme d'enseignement":"Travaux pratiques en laboratoire",
+      "Contenu":"[li] Une synthèse en une ou deux étapes[br/][br/][li] Une synthèse en trois étapes[br/][br/][li] Caractérisation de produits de synthèse par analyse spectrale (RMN, IR, Masse)[br/][br/][li] Rédaction de rapports scientifiques",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Application de la réactivité de base en chimie organique à la synthèse multi-étapes de molécules polyfonctionnelles. Instruction sur les règles de sécurité dans un laboratoire de chimie de synthèse. Apprentissage de la planification et du suivi de voies de synthèse simples."
+    },
+    "practical":{
+      "total_hours":56
+    },
+    "language":"Français",
+    "title":"Chimie préparative I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

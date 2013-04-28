@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597936612&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","614"],
+    "title":"Multiphysics Finite Element Methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597936612&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPR",
+    "program":"EDPR",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/197154",
+      "name":"Hakim Bandar Muntazar"
+    },{
+      "url":"http://people.epfl.ch/107108",
+      "name":"Pérez Suárez Ricardo"
+    },{
+      "url":"http://people.epfl.ch/190217",
+      "name":"Santi Gilles Raphaël"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Multiphysics modeling is required for solving a wide range of problems. Especially, those that are multidisciplinary in nature. The Finite Element Method (FEM) is a very versatile and powerful analytical tool when dealing with coupled effects of complex physical phenomena such as electromechanical, thermomechanical, micro- and nano-technology, microelectromechanical, etc. often found in engineering fields such as bioengineering, microengineering, electromagnetics, microfluidics and robotics. The main focus of the course is on multiphysics modeling, i.e. on the integration of different physical phenomena into a computational model. The course will therefore provide students with a working knowledge in the fundamental mathematical and physical basis of FEM. By the end of the course, students should be able to know how to do build FEM models of physical problems, develop critical thinking in interpreting results from FEM analysis, and identify incorrect results. Moreover, validate experimental results against numerical modeling.",
+      "Content":"This course presents the finite element theory and methods with emphasis on multiphysics problems. The course will cover the following topics:[br/]- Strong and weak formulations of boundary value problem[br/]- Variational methods[br/]- Stability, accuracy, and convergence[br/]- Formulation and physical modeling[br/]- Mesh generation and convergence study[br/]- Solution and postprocessing[br/]- Results analysis[br/]Multiphysics examples will be presented and several numerical problems are discussed. Term projects entail work on a complete FEM simulation. The project involves problem definition, outline of FEM approach, presentation of results, and evaluation of results.[br/]",
+      "Keywords":"Finite Elements, Numerical Methods, Differential Equations",
+      "Required prior knowledge":"Differential Equations, Numerical Methods"
+    },
+    "practical":{
+      "total_hours":32
+    },
+    "language":"English",
+    "title":"Multiphysics Finite Element Methods",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/197154",
+      "name":"Hakim Bandar Muntazar"
+    },{
+      "url":"http://people.epfl.ch/107108",
+      "name":"Pérez Suárez Ricardo"
+    },{
+      "url":"http://people.epfl.ch/190217",
+      "name":"Santi Gilles Raphaël"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":32
+    },
+    "language":"English",
+    "title":"Multiphysics Finite Element Methods",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

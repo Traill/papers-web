@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824169872&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","484"],
+    "title":"Numerical methods in biomechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824169872&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106533",
+      "name":"Terrier Alexandre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Exercises and mini-project report.",
+      "Required prior knowledge":"[li]Analyse[br/][li]Physique générale[br/][li]Analyse numérique",
+      "Content":"Examples of using numerical methods in biomechanics: tissue engineering, mechanical biology, artificial organs. Main physical laws of biomechanics (solid, fluid, heat diffusion). Partial differential equations: reminder and use in biomechanics. The finite element method: applications, limitations and problems in biomechanics and bioengineering. Multi-physics and coupling: theoretical and practical examples. Using Comsol software for interactive sessions of problem solving related to coupling in biomechanics. A mini-project is conducted in groups, with oral presentation and written report.",
+      "Keywords":"Biomechanics, multi-physics, coupling, numerical methods",
+      "Type of teaching":"The course is divided into ex cathedra sessions and exercises with Comsol. A mini-project is carried out in groups.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Explain the link between the physiology and the mechanical properties of a tissue, B2[br/][li]Identify the mechanical behaviour of tissues and fluids from experimental data, B5[br/][li]Define the mechanical tests for the characterization of biologic tissues and fluids, B6[br/][li]Implement a constitutive law in a simulation software, B8[br/][li]Compute the stresses and strains at the interface of an implant and in the surrounding tissues, B10[br/][b]Transversal skills:[/b][br/][li]Time management, T1[br/][li]Do a literature review and assess the state of the art, T4[br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7[br/][li]Organize activities prioritizing the objectives, T10[br/][li]Document and communicate a project, T12[br/][li]Form and motivate a team, T13[br/][li]Manage a meeting, T14[br/][li]Be perseverant through difficulties, T15[br/][li]Check each stage of a process, T16[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20[br/][li]Share knowledge and experience with peers, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical methods in biomechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-90-481-3574-5&amp;con_lng=ENG\" target=\"blank\">Computational Modeling in Biomechanics</a>\". Year:2010. ISBN:978-90-481-3574-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106533",
+      "name":"Terrier Alexandre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Analyse[br/][li]Physique générale[br/][li]Analyse numérique",
+      "Bibliographie et matériel":"1. moodle.epfl.ch[br/]2. www.comsol.com[br/]3. library.epfl.ch/ebooks/[br/]Computational Modeling in Biomechanics, 2010[br/](ISBN:978-90-481-3574-5 9789048135752 [EB-31090])[br/]",
+      "Mots clés":"Biomécanique, multi-physique, couplage, méthodes numériques",
+      "Forme d'enseignement":"Le cours est divisé en séances ex cathedra et exercices avec Comsol. Un mini-projet est réalisé en groupe.",
+      "Contenu":"Exemples de résultats des méthodes numériques en biomécanique : ingénierie tissulaire, mécano-biologie, organes artificiels. Principales lois physiques de la biomécanique (solide, fluide, chaleur, diffusion). Equations aux dérivées partielles : rappel et utilisation en biomécanique. La méthode des éléments finis : applications, problèmes et limitations en biomécanique et bioingénierie. La multi-physique et le couplage : exemples théorique et pratiques. Utilisation du logiciel Comsol pour séances interactives de résolution de problèmes de couplage en biomécanique. Réalisation d'un mini-projet en groupe, avec présentation orale et rapport écrit.",
+      "Forme du contrôle":"Exercices et rapport du mini-projet.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Expliquer le lien entre la physiologie et les propriétés mécaniques des tissus, B2[br/][li]Identifier le comportement mécanique de tissus et de fluides à partir de données expérimentales, B5[br/][li]Définir les tests mécaniques pour caractériser des tissus et des fluides biologiques, B6[br/][li]Implémenter une loi constitutive dans un code de simulation, B8[br/][b]Compétences transversales:[/b][br/][li]Gérer son temps, T1[br/][li]Réaliser une recherche bibliographique et une revue de l'état de l'art, T4[br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7[br/][li]Organiser ses activités en priorisant ses objectifs, T10[br/][li]Documenter et communiquer un projet, T12[br/][li]Composer une équipe, la motiver, T13[br/][li]Gérer une réunion, T14[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Contrôler chaque étape d'une action, T16[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical methods in biomechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-90-481-3574-5&amp;con_lng=FRE\" target=\"blank\">Computational Modeling in Biomechanics</a>\". Année:2010. ISBN:978-90-481-3574-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

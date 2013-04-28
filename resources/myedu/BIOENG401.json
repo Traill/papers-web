@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543010751&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","401"],
+    "title":"Computational motor control",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543010751&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"(1) To provide a review of numerical models developed for studying locomotion and movement control, sensory-motor coordination, and perception  in animals[br/](2) To present different types of techniques used in such types of modeling[br/](3) To analyze how these models and techniques can be used in robotics and in neuroprosthetics.[br/][br/]Note: This course was previously entitled (\"Models of biological sensory-motor systems\")",
+      "Content":"General concepts: Importance of numerical models in a scientific approach, introduction to nonlinear dynamical systems and neural network models.[br/][br/]Numerical models of motor systems : Neural network models of control of locomotion, rhythm generation in central pattern generators, reflexes, force fields, sensory-motor coordination,  and balance control.[br/][br/]Numerical models of the musculo-skeletal system: muscle models, biomechanical models of locomotion, Spring-Loaded Inverted Pendulum (SLIP) model, gait classification, applications to legged and humanoid robots.[br/][br/]Numerical models of sensory systems : Visual processing in the retina, salamander and primate visual systems, saccades, attentional mechanisms, applications to machine vision.[br/][br/]Neuroprosthetics: short overview of current developments, analysis of how modeling can be used to improve interfaces between machines and the central nervous system[br/][br/]Lab project: The course will also involve a lab project in which students will develop their own numerical simulations of sensory-motor systems.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational motor control",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Note: This course was previously entitled (\"Models of biological sensory-motor systems\")",
+      "Forme d'enseignement":"Cours ex-cathedra",
+      "Contenu":"Concepts généraux : importance de modèles numériques dans une approche scientifique, introduction aux systèmes dynamiques non-linéaires et aux réseaux de neurones.[br/][br/]Modèles numériques de systèmes moteurs : modèles à base de réseaux de neurones du contrôle de la locomotion, génération de rythmes à l'aide de « central pattern generators », réflexes, « force fields », coordination sensori-motrice et contrôle de l'équilibre. [br/][br/]Modèles numériques du système musculo-squelettique: modèles de muscle, modèles biomécaniques de la locomotion, \"Spring-Loaded Inverted Pendulum\" (SLIP), classification d'allures, application aux robots à pattes et robots humanoïdes.[br/][br/]Modèles numériques de systèmes sensoriels : traitement visuel dans la rétine, systèmes visuels de la salamandre et du primate, saccades, mécanismes d'attention, application à la vision par ordinateur..[br/][br/]Neuroprothèses : courte revue de l'état de l'art. Analyse de l'utilisation de modèles pour amélioration des interfaces entre des prothèses et le système nerveux central[br/][br/]Projet : le cours impliquera également un projet dans lequel les étudiants développeront leurs propres simulations de systèmes sensori-moteurs.[br/]",
+      "Forme du contrôle":"Examen oral ",
+      "Préparation pour":"Master en Bioingénierie ou en Sciences & Technologies du Vivant",
+      "Objectifs d'apprentissage":"(1) Revue de différents types de modèles numériques du contrôle de la locomotion et du mouvement, de la coordination sensori-motrice, et de la perception chez l'animal[br/](2) Présentation des différents types de techniques utilisées dans le cadre de ces modèles[br/](3) Analyse de comment ces modèles et ces techniques peuvent être utilisés en robotique et pour des neuroprothèses"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational motor control",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

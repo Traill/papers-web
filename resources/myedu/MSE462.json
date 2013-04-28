@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71630770&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","462"],
+    "title":"Powder technology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71630770&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Bibliography and material":"Articles de revue et ouvrages spécialisés",
+      "Required prior knowledge":"Ceramics, Ceramic processing",
+      "Content":"[br/][li] Theoretical and empirical models for powder packing and compaction.[br/][br/][li] Particle- particle interactions (colloidal chemistry, DLVO theory, non-DLVO forces , polymer adsorption)[br/][br/][li] Introduction to atomistic modelling[br/][br/][li] Sintering mechanisms (metal, ceramics, influence of the microstructure, simulation)[br/][br/][li] Novel technologies (includes rapid prototyping)[br/][br/]The support material for the course are copies of the slides used to present the course along with a few key text books and review articles - which the students are encouraged to use to supplement the documents provided.",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"To understand the basic principles and science of powder technology as well as the development of novel fabrication technologies. Examples from cement and concrete, landslides, powder metallurgy, colloidal crystals, selective laser sintering. Particular emphasis will be put on how various processes can be modelled, either, analytically, empirically or mathematically."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Powder technology",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Céramique, Céramique procédés",
+      "Bibliographie et matériel":"Articles de revue et ouvrages spécialisés",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[br/][li] Modèle théorique et empirique d'empilement et compactages des poudres. [br/][br/][li] Les interactions entre des particules (Chimie colloïdal, Théorie DLVO, les forces   non-DLVO) [br/][br/][li] Introduction à la modélisation atomistique[br/][br/][li] Les mécanismes de frittage  (métal, céramique, influence de la microstructure, simulation)[br/][br/][li] Développent techniques (inclus prototypage rapide)[br/][br/]Le support du cours comprend des copies des dias utilisés pour le cours ainsi que les références de manuels et articles de revue que les étudiant(e)s sont encouragé(e)s à consulter. ",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Comprendre et assimiler les bases scientifiques de technologie des poudres et les nouvelles technologies de la fabrication. Exemples de ciment et béton, laves torrentielles, métallurgie des poudres, cristaux colloïdales, frittage sélective par laser. Un poids important va être accordé aux approches de modélisation des différents procédés traités soit d'une manière analytique, empirique ou mathématique. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Powder technology",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

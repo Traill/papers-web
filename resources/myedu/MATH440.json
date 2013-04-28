@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354954319&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","440"],
+    "title":"Monte-Carlo methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354954319&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Modern statistics increasingly uses Monte Carlo methods to solve complex statistical problems. The aim of this course is to introduce the main ideas in both parametric and nonparametric modelling and to give examples of their application. Bootstrap and related resampling methods are discussed for frequentist statistics, and Markov chain Monte Carlo is considered for Bayesian modelling.",
+      "Content":"[li][b]Simulation[/b]: random number generation; variance reduction techniques; rare event simulation; applications.[br/][br/][li][b]Markov chain Monte Carlo[/b]: basic ideas; Bayesian modelling; Gibbs sampler; Metropolis-Hastings algorithm; graphical models; hierarchical modelling; convergence assessment and other implementation issues; applications. [br/][br/][li][b]Resampling methods[/b]: bootstrap; basic ideas and applications.",
+      "Type of teaching":"Ex cathedra lecture, exercises in classroom",
+      "Required prior knowledge":"Probabilities, Statistics for mathematicians"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Monte-Carlo methods",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-57471-4&amp;con_lng=ENG\" target=\"blank\">Bootstrap methods and their application / A.C. Davison, D.V. Hinkley</a>\". Year:2006. ISBN:978-0-521-57471-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-21239-5&amp;con_lng=ENG\" target=\"blank\">Monte Carlo statistical methods / Christian P. Robert, George Casella</a>\". Year:2004. ISBN:978-0-387-21239-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-73449-3&amp;con_lng=ENG\" target=\"blank\">Statistical models / A.C. Davison</a>\". Year:2009. ISBN:978-0-521-73449-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe",
+      "Contenu":"[li][b]Simulation[/b]: génération des variables aléatoires; réduction de la variance; applications.[br/][br/][li][b]Monte Carlo par chaînes de Markov[/b]: échantillon-nage de Gibbs; algorithme de Metropolis-Hastings; contrôle de convergence; applications.[br/][br/][li][b]Méthodes de rééchantillonnage[/b]: bootstrap et applications.",
+      "Prérequis":"Probabilités, Statistiques pour mathématiciens",
+      "Bibliographie et matériel":"Davison, A. C. and Hinkley, D. V. (1997) Bootstrap Methods and their Application. Cambridge University Press.[br/]Robert, C. P. and Casella, G. (2005) Monte Carlo Statistical Methods.  Second edition.  Springer.[br/]Davison, A. C. (2003)  Statistical Models,  Combridge University Press.",
+      "Objectifs d'apprentissage":"La statistique moderne utilise beaucoup les idées de la simulation aléatoire pour résoudre des problèmes complexes. Le but de ce cours est d'introduire les idées principales pour les modèles paramétriques et non-paramétriques et de montrer des exemples de leur application.  On considère le bootstrap et autres méthodes de rééchantionnage et les méthdes de Monte Carlo par chaînes de Markov."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Monte-Carlo methods",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-57471-4&amp;con_lng=FRE\" target=\"blank\">Bootstrap methods and their application / A.C. Davison, D.V. Hinkley</a>\". Année:2006. ISBN:978-0-521-57471-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-21239-5&amp;con_lng=FRE\" target=\"blank\">Monte Carlo statistical methods / Christian P. Robert, George Casella</a>\". Année:2004. ISBN:978-0-387-21239-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-73449-3&amp;con_lng=FRE\" target=\"blank\">Statistical models / A.C. Davison</a>\". Année:2009. ISBN:978-0-521-73449-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772787&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","103"],
+    "title":"Design of mechanisms",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772787&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=en",
+    "section":"EL",
+    "program":"MT",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104648",
+      "name":"Brugger Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"2 complementary forms of examination:[br/][li]Weekly exercises in small groups (3 to 4) in the classroom with evaluation. The exercises are specially selected in view of the semester project.[br/][li]During the second semester the students have to conceive and design an electromechanical device in team of 3 to 5 persons (Mechanical design project).[br/]Evaluation of the semester project: written report (including: technical drawings, calculation) and oral presentation.[br/][br/]The final evaluation is given by the exercises and the semester project.[br/]",
+      "Bibliography and material":"Polycopié \"Conception de mécanismes\", \"Extrait de normes VSM\", Technical documentation (e.g. Supplier catalogues, ).",
+      "Prerequisite for":"Mechanical design project, Electromechanics, Semester and Master projects.",
+      "Content":"[br/][li]Basic rules of technical drawing[br/][br/][li]Main characteristics of most current materials used in mechanical devices.[br/][br/][li]Fabrication processes and mechanical tolerances.[br/][br/][li]Usage and operation of some important components:[br/][][][] - Bearings (plain, rolling, flexures); usage, calculation, assembly rules.[br/][][][] - Mechanical coupling (permanents, temporary).[br/][][][] - Transmissions: characteristics (transmission ratio, efficiency, reversibility, compliance), types (belt, gears), torque and reduced inertia, adaptation load - motor.[br/][][][] - Springs (types, characteristics, calculation).[br/][br/][li]Scaling laws.[br/][br/][li]Design Methodology: together with the exercises this is an important preparation for the semester project.[br/]",
+      "Type of teaching":"Lecture + exercises",
+      "Learning outcomes":"To know the basic rules of technical drawing. To understand the operation of a mechanism through a technical drawing. To know the most important fabrication and machining methods. To know the most important basic mechanisms, to be able to calculate them and to integrate them into more complexes mechanical devices. To be able to communicate with specialists in Mechanical engineering and Microengineering."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design of mechanisms",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"Conception de mécanismes : pour la section Génie électrique et électronique, Bachelor / R. Clavel, J.-M. Breguet, J.-P. Brugger\". Year:2007</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104648",
+      "name":"Brugger Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Polycopié \"Conception de mécanismes\", Extrait de normes VSM,[br/]Documentations techniques de fournisseurs",
+      "Forme d'enseignement":"Exposé oral + exercices",
+      "Contenu":"[br/][li]Bases de la représentation par le dessin.[br/][br/][li]Quelques matériaux  utiles pour la conception de mécanismes.[br/][br/][li]Tolérances et moyens de fabrication. [br/][br/][li]Fonctions et composants principaux.[br/][][][]- Guidages (lisses, roulants, flexibles); utilisation, dimensionnement, règles de montages.[br/][][][]- Accouplements (permanents, temporaires).[br/][][][]- Transmissions : caractéristiques (rapport de transmission, rendement, réversibilité, raideur), types (courroies, engrenages), moments et inerties rapportées, adaptation charge - moteur.[br/][][][]- Ressorts (formes, caractéristiques, dimensionnement).[br/][br/][li]Lois de similitudes.[br/][br/][li]Méthodologie de conception: ce thème permettra une bonne approche pour le « Projet de conception de mécanismes » au semestre suivant ; plusieurs exercices auront pour objectif de préparer ce projet.",
+      "Forme du contrôle":"2 formes de contrôle complémentaires :[br/][li]Exercices rendus chaque semaine par groupe de 3 ou 4 et évalués.[br/][li]Projet de conception de  systèmes électromécaniques par groupe de 3 à 5 personnes au 2ème semestre (Projet de conception de mécanismes) : rapports écrits et dessins de construction, présentation orale; le projet est évalué et noté.[br/][br/]La note finale tiendra compte des résultats des exercices et du projet.",
+      "Préparation pour":"Projet de conception de mécanismes, Electromécanique, Projets de semestre et de master.",
+      "Objectifs d'apprentissage":"Savoir représenter une pièce ou un ensemble électromécanique selon les règles. Comprendre le fonctionnement d'un mécanisme à partir d'un dessin. Connaître les méthodes de fabrication les plus courantes. Connaître les mécanismes de base, savoir les choisir, les dimensionner et les intégrer dans des systèmes plus complexes. Etre apte à collaborer avec des spécialistes en mécanique et en microtechnique. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conception de mécanismes",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"Conception de mécanismes : pour la section Génie électrique et électronique, Bachelor / R. Clavel, J.-M. Breguet, J.-P. Brugger\". Année:2007</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

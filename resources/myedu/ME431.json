@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228391377&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","431"],
+    "title":"Rheology of materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228391377&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104846",
+      "name":"Curnier Alain"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Essay and written examination",
+      "Required prior knowledge":"[li]Prerequisite 1  Mechanics of solids (ME-331)",
+      "Content":"This course belongs to Mechanics as a basic science.[br/]It is divided into 4 chapters.[br/]Chap. 1 is an introduction to Strength of materials or Rheology. It covers : notions of reversible cohesivity (rigidity, elasticity) and irreversible decohesivity (viscosity, pasticity) ; then notion of constitutive law of a de/cohesive (in/elastic) material ; elements of experimental rheology ; simple and complex rheological models. [br/]Chap. 2 treats elasticity and hyperelasticity [br/]It covers : objective elasticity (nominal and material) ; non/linear isotropic elasticity ; non/linear anisotropic hyperelasticity ; elastostatic and elastodynamic problems. [br/]Chap. 3 deals with viscosity et hyperviscoelasticity. It covers : viscosity: (creep, relaxation, hysteresis, dissipation) ; scalar viscoelasticity (parallel, series, standard models) ; scalar hyperviscosity: viscous dissipotence ; tensori objective viscoelasticity ; quasistatic viscoelastic boundary value problem. [br/]Chap. 4 is Plasticity et hyperelastoplasticity. It covers : plasticity phenomenon (plastification, hardening) ; scalar elastoplasticity (series spring-pad model) ; hyperplasticity (plastic dissipotence) ; tensor objective elastoplasticity ; elastoplastic incremental boundary value problem. ",
+      "Keywords":"Elasticity, Viscosity, Plasticity, Rheology",
+      "Type of teaching":"Classroom lectures and exercises",
+      "Learning outcomes":"[li]Describe and identify the constitutive behaviour of a material from the results of a tensile, torsion or bending test and choose a suitable test standard for the characterization of such behaviour. Derive a rheological model appropriate for the observed response, S5[br/][li]Present and evaluate the performance of different classes of composite materials and their constituents as well as the production processes currently in use. Apply the models for the behaviour of composite materials and laminates to compute the stiffness, the deformed shape and the stresses of a simple composite structure. S6[br/][li]Model with appropriate tools (analytical or numerical) the nonlinear (hyperelastic, plastic, buckling) and/or time-dependent (viscoelastic, viscoplastic) behaviour of structures and material under complex loadings, S11[br/][li]Describe in scientific terms the structure and type of mechanical behaviour of the most important human tissues. Describe their genesis and evolution/adaptation (remodelling) mechanisms. Understand the kinematics of the most important articulations, S17"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Rheology of materials",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104846",
+      "name":"Curnier Alain"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Prérequis 1  Mécanique des solides (ME-331)",
+      "Bibliographie et matériel":"Mécanique des solides déformables. Vol. 2 : Elasticité, Viscosité, Plasticité, Alain Curnier, Polycopié, 2011 ",
+      "Mots clés":"Elasticité, Viscosité, Plasticité, Rhéologie",
+      "Forme d'enseignement":"Cours magistral et séances d'exercices",
+      "Contenu":"Ce cours fait partie de la mécanique en tant que science de base.[br/]Il est divisé en 4 chapitres.[br/]Le chap. 1 est une introduction à la résistance des matériaux ou rhéologie. Il couvre : les notions de cohésivité réversible (rigidité, élasticité) et de décohésivité irréversible (viscosité, plasticité) ; puis celle de loi de comportement d'un matériau dé/cohésif (in/élastique); des élements de rhéologie expérimentale ; des modèles rhéologiques simples et complexes. [br/]Le chap. 2 traite de l'élasticité et l'hyperélasticité. Il couvre : l'élasticité objective (nominale et matérielle) ; l'élasticité isotrope non/linéaire ; l'hyperélasticité anisotrope non/linéaire ; les problèmes de l'élastotatique et l'élastodynamique. [br/]Le chap. 3 concerne la viscosité et hyperviscoélasticité. Il couvre : la viscosité (fluage, relaxation, hystérèse, dissipation) ; la viscoélasticité scalaire (modèles parallèle, série, standard) ; l'hyperviscosité scalaire (dissipotence visqueuse) ; la viscoélasticité tensorielle objective ; les problèmes de viscoélasticité quasi statique.[br/]Le chap. 4 concerne la plasticité et hyperélastoplasticité. Il couvre : le phénomène de plasticité (plastification, écrouissage) ; l'élastoplasticité scalaire (modèle ressort-patin en série) ; l'hyperplasticité (dissipotence plastique) ; les lois élastoplastiques tensorielles objectives ; le problème aux limites incrémental de l'élastoplasticité. ",
+      "Forme du contrôle":"Essai et examen écrit",
+      "Objectifs d'apprentissage":"[li]Décrire et identifier le modèle de comportement d'un matériau à partir d'un essai de traction, torsion ou flexion et choisir un standard de test approprié à la caractérisation d'un comportement particulier. Dériver un modèle rhéologique correspondant au comportement observé, S5[br/][li]Présenter et évaluer les performances des différentes classes de matériaux composites et leurs constituants ainsi que les procédés de production utilisés couramment. Appliquer les modèles de comportement des matériaux composites et des laminés pour calculer la rigidité, la déformée et les contraintes agissant dans une structure composite simple, S6[br/][li]Abstraire et modéliser avec une méthode appropriée (analytique ou numérique) le comportement non linéaire (hyper-élastique, plastique, instabilité) et/ou dépendant du temps (visco-élasticité/visco-plasticité) de structures et matériaux subissant des sollicitations thermo-mécaniques complexes, S11[br/][li]Expliquer scientifiquement la structure et le type de comportement mécanique des principaux tissus du corps humain. Décrire la genèse et les mécanismes d'évolution/adaptation des principaux tissus. Comprendre la cinématique des principales articulations, S17[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Rhéologie des matériaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

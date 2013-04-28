@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47893080&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","551"],
+    "title":"Computational molecular biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47893080&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"IN",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcbb.epfl.ch/compbio11/","http://lcbb.epfl.ch/compbio11/"]],
+    "instructors":[],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To develop an understanding of the main algorithmic approaches used in solving computational problems that arise in the analysis of biomolecular data (such as DNA/RNA/aminoacid sequences, mass spectra of proteins, whole genomes, or gene expression levels).[br/]",
+      "Content":"Specific problems to be covered include sequencing and assembly, multiple sequence alignment, phylogenetic reconstruction, and whole-genome comparisons and evolution.  Three quarters of the course is lectures, with graded homework assignments, while the last quarter is devoted to presentations and discussions of current research papers by student teams.[br/]The emphasis throughout is on algorithmic design and analysis, including proofs of correctness and new designs, using both combinatorial and statistical approaches.[br/][br/][br/]",
+      "Type of teaching":"Taught entirely in English",
+      "Note":"Grading: grading will be based on the graded homework assignments (some individual, some in teams), the team presentations, and individual participation in discussions.  There will be no final examination.",
+      "Required prior knowledge":"(i) an interest in both computational methods and molecular biology and evolution; and (ii) a strong background in one of algorithms or (evolutionary) molecular biology and some reasonable acquaintance with the other."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational molecular biology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcbb.epfl.ch/compbio11/","http://lcbb.epfl.ch/compbio11/"]],
+    "instructors":[],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"L'enseignement et les sessions d'exercice sont uniquement en anglais.",
+      "Contenu":"Nous discuterons les problèmes de séquençage, d'assemblage de séquences, d'alignements multiples de séquences, d'estimation de phylogénies, de comparaisons de génomes entiers, de d'évolution de génomes entiers.[br/]Les trois premiers quarts du cours prendront la forme de leçons et sessions d'exercice, alors que le dernier quart du cours sera consacré aux présentations données (en groupe) par les étudiants au sujet d'articles de recherche et à leur discussion par toute la classe.[br/]Nous accentuerons toujours le design et l'analyse des algorithmes, y compris les preuves formelles, et exercerons le design de variantes de ces algorithmes en se servant de méthodes combinatorielles et statistiques.",
+      "Prérequis":"(i) S'intéresser à la fois aux méthodes informatiques et à la biologie moléculaire et l'évolution; et (ii) une très bonne formation dans l'algorithmique ou dans la biologie moléculaire (dans une perspective d'évolution, pas de chimie), avec des connaissances passable dans l'autre domaine.",
+      "Remarque":"La note sera déterminée sur la base des notes obtenues sur les devoirs (d'aucuns individuels, d'autres en groupe), des présentations (en groupe) d'articles de recherche, et de la participation individuelle dans les discussions.  Il n'y aura pas d'examen final.",
+      "Objectifs d'apprentissage":"Parvenir a comprendre les méthodes principales dans l'algorithmique utilisée pour résoudre les problèmes de calcul posés par l'analyse des données biomoléculaires (telles que les séquences ADN/ARN/acides aminés, les spectres de masse de protéines, les génomes entiers, ou lesniveaux d'expression des gênes)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computational molecular biology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

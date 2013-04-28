@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776067&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["COM","208"],
+    "title":"Computer networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776067&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://compnet.epfl.ch","http://compnet.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176638",
+      "name":"Argyraki Aikaterini"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"With continuous control (quizzes, mid-term (written))",
+      "Bibliography and material":"Kurose, Ross « Computer Networking: A Top-Down Approach Featuring the Internet », 4th edition, Pearson Addison Wesley 2007.",
+      "Required prior knowledge":"Théorie et pratique de la programmation (CS-106), Introduction à la programmation objet (CS-105), Sciences de l'information (COM-101)",
+      "Content":"The principles of computer networking. Layers, connection oriented versus connectionless operations. Services, protocols, architectures.[br/][br/]The domain name system of the Internet. Communication applications.[br/][br/]The transport layer of the Internet: TCP and UDP.[br/][br/]The connectionless network layer of the Internet: IP v4 and IP v6. ICMP, ARP, packet forwarding versus routing. [br/][br/]Link layer: Ethernet and Wi-Fi.[br/][br/]Basic notions of security.[br/][br/]Basic network programming.",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Learning outcomes":"Understand the basic principles of computer networks. Acquire basic network-programming skills."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer networks",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-285620-1&amp;con_lng=ENG\" target=\"blank\">Computer networking : a top-down approach / James F. Kurose, Keith W. Ross</a>\". Year:2013. ISBN:978-0-13-285620-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://compnet.epfl.ch","http://compnet.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176638",
+      "name":"Argyraki Aikaterini"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Théorie et pratique de la programmation (CS-106), Introduction à la programmation objet (CS-105), Sciences de l'information (COM-101)",
+      "Bibliographie et matériel":"Kurose, Ross « Computer Networking: A Top-Down Approach Featuring the Internet », 4th edition, Pearson Addison Wesley 2007.",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"Principes des réseaux informatiques. Structuration en couches. Communication orientée connexion vs. sans connexion. Services, protocoles, architectures. [br/][br/]Nommage dans l'Internet. Applications communicantes.[br/][br/]Couche de transport de l'Internet : TCP, UDP.[br/][br/]Couche de réseau de l'Internet : IP v4 et IP v6. ICMP, ARP, acheminement de paquets vs. protocoles de routage. [br/][br/]Couche de liaison : Ethernet et Wi-Fi.[br/][br/]Notions de base de la sécurité.[br/][br/]Notions de base de la programmation des réseaux",
+      "Forme du contrôle":"Avec contrôle continu (quizzes, mid-term (écrit))",
+      "Objectifs d'apprentissage":"Connaître les principes de base des réseaux informatiques. Acquérir des compétences de base en programmation des réseaux."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer networks",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-285620-1&amp;con_lng=FRE\" target=\"blank\">Computer networking : a top-down approach / James F. Kurose, Keith W. Ross</a>\". Année:2013. ISBN:978-0-13-285620-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

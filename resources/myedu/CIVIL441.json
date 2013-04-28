@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=22830370&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","441"],
+    "title":"Water ressources management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=22830370&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104868",
+      "name":"Davalle Eric Marcel"
+    },{
+      "url":"http://people.epfl.ch/113119",
+      "name":"Droz Patrice"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Basic knowledge related to water resources and hydraulic schemes management.[br/]",
+      "Content":"WATER AS NATURAL RESOURCE[br/][li] Water, a condition for life[br/][li] Partition on the earth[br/][li] Water cycle[br/][li] Fundamental needs (quantity)[br/][li] Water use and consumption[br/][li] Transforming water for industry[br/]WATER: ISSUES AND DIFFICULTIES[br/][li] Fundamental issues[br/][li] Main difficulties[br/][li] Potential solutions to water shortage[br/][li] Random phenomena on earth[br/]OPTIMIZATION OF INDUSTRIAL SCHEMES USING WATER[br/][li] World economic context[br/][li] Sustainable development model[br/]WATER RESOURCES MANAGEMENT PLANNING[br/][li] Objectives of development[br/][li] Analysis of water resources[br/][li] Analysis of water needs (quantity and quality)[br/][li] Consequences of water use[br/]BASIC ECONOMICAL TOOLS[br/][li] Presentation of the basic accounting tools[br/][li] Economical assessment of profitable hydraulic investments[br/][li] Economical assessment of non profitable hydraulic investments[br/][li] Other methods for comparing options[br/][li] Preliminary risk assessment[br/]OPTIMIZATION OF HYDRAULIC SCHEMES[br/][li] Water demand satisfaction criteria[br/][li] Water management[br/][li] Optimization[br/]HYDRAULIC PROJECT FINANCING[br/][li] Origin of financial resources[br/][li] Capital structures[br/][li] Development engineering[br/][li] Contracting procedures[br/][li] Financial risks and mitigation[br/]PRICE OF WATER[br/][li] Constitution and structure[br/][li] Water Management solutions[br/]SCHEME MANAGEMENT AND FINANCING PRINCIPLES[br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and audio-visual",
+      "Form of examination":"100 % written test (120 min) during exam session"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Water ressources management",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104868",
+      "name":"Davalle Eric Marcel"
+    },{
+      "url":"http://people.epfl.ch/113119",
+      "name":"Droz Patrice"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, avec moyens audiovisuels.",
+      "Contenu":"EAU EN TANT QUE RESSOURCE[br/][li] Eau, origine de vie[br/][li] Répartition sur terre[br/][li] Cycle de l'eau[br/][li] Besoins vitaux (quantité)[br/][li] Usages et consommation[br/][li] Transformation[br/]EAU: ENJEUX ET DIFFICULTÉS[br/][li] Enjeux fondamentaux[br/][li] Difficultés essentielles rencontrées[br/][li] Pistes de solutions à la pénurie d'eau[br/][li] Phénomènes terrestres aléatoires[br/]OPTIMISATION D'INSTALLATIONS INDUSTRIELLES UTILISATRICES D'EAU[br/][li] Contexte économique mondial[br/][li] Modèle de développement durable[br/]PLANIFICATION DE LA MISE EN VALEUR DE LA RESSOURCE EN EAU[br/][li] Objectifs de développement[br/][li] Analyse des ressources[br/][li] Analyse des besoins (quantité et qualité)[br/][li] Conséquences de l'utilisation de l'eau[br/]NOTIONS ÉCONOMIQUES FONDAMENTALES[br/][li] Présentation des principaux instruments comptables[br/][li] Évaluation financière appliquée aux investissements rentables [br/][li] Évaluation financière appliquée aux investissements non rentables [br/][li] Compléments - autres méthodes de comparaison[br/][li] Analyse préliminaire des risques [br/]OPTIMISATION DE LA GESTION DE LA RESSOURCE EN EAU[br/][li] Critères de satisfaction de la demande[br/][li] Régularisation[br/][li] Optimisation[br/]FINANCEMENT DE PROJETS HYDRAULIQUES[br/][li] Origine des ressources financières[br/][li] Type de capitaux[br/][li] Montage d'opérations [br/][li] Types de marchés (gré à gré, appels d'offres, concessions, affermages, ...)[br/][li] Risques financiers et mesures de protection[br/]PRIX DE L'EAU[br/][li] Constitution et structure[br/][li] Gestion par délégation ou en régie[br/]GESTION DES AMÉNAGEMENTS ET PRINCIPES DE FINANCEMENT[br/]",
+      "Forme du contrôle":"100 % épreuve écrite (120 min) durant la session d'examen",
+      "Bibliographie et matériel":"Polycopiés",
+      "Objectifs d'apprentissage":"Acquisition des connaissances de base nécessaires en matière de planification et de gestion des ressources en eau et des aménagements hydrauliques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Economie hydraulique",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

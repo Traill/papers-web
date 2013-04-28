@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=830891729&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","224"],
+    "title":"Statics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=830891729&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/136291",
+      "name":"Lestuzzi Pierino"
+    },{
+      "url":"http://people.epfl.ch/106693",
+      "name":"Vurpillot Samuel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/136291",
+      "name":"Lestuzzi Pierino"
+    },{
+      "url":"http://people.epfl.ch/106693",
+      "name":"Vurpillot Samuel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Statique I[br/]Mécanique des milieux continus[br/]Mécanique des structures[br/]",
+      "Mots clés":"Stuctures hyperstatiques, méthode des forces, méthode des déplacements",
+      "Forme d'enseignement":"cours ex cathedra avec exercices en classe",
+      "Contenu":"Calcul des efforts internes des structures hyperstatique par la méthode des forces et la méthode des déplacements.[br/]Modèlisation par des modèles rhéologiques.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Structures en métal[br/]Projet de construction[br/]Groupe Ponts et Bâtiments[br/]",
+      "Objectifs d'apprentissage":"Appliquer les connaissances de la mécanique à la détermination des forces et des efforts internes dans les structures planes composée de barres et poutres dans le stade élastique. Maîtriser le calcul statique des systèmes en barres et poutres hyperstatique. Comprendre et maîtriser le cheminement des efforts"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statique II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

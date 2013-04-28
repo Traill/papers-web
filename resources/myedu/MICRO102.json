@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776372&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","102"],
+    "title":"Statics and Dynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776372&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This lecture gives the essentials of engineering mechanics which will be widely applied later in practical projects. These concepts are the foundations of any modeling, analysis and synthesis of a mechatronic system, i.e. they will be applied in microengineering, MEMS, product development, industrial, medical or humanoid robotics, systems engineering etc.",
+      "Content":"Point motion, rigid body motion, forces, beam deformation, Newton-Euler laws, rigid-body dynamics."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statics and Dynamics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-048501-6&amp;con_lng=ENG\" target=\"blank\">Cours de physique: mécanique des solides et des systèmes de solides : cours et exercies corrigés, 1er cycle-licence / Michel Combarnous, Didier Desjardins, Christophe Bacon</a>\". Year:2004. ISBN:2-10-048501-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-519-00483-6&amp;con_lng=ENG\" target=\"blank\">Ingenieurmechanik , vol. 1/ Mahir B. Sayir, Jürg Dual, Stephan Kaufmann. Band 1 : Grundlagen und Statik</a>\". Year:2004. ISBN:3-519-00483-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-519-00511-5&amp;con_lng=ENG\" target=\"blank\">Ingenieurmechanik, vol. 3 / Mahir B. Sayir, Jürg Dual, Stephan Kaufmann. Band 3 : Dynamik</a>\". Year:2005. ISBN:3-519-00511-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse",
+      "Bibliographie et matériel":"Polycopié[br/]Michel Combarnous, Didier Desjardin, Christophe Bacon, Cours de Physique, Mécanique des solides et des systèmes de solides, ed. Dunod, Paris[br/]Ingenieurmechanik 1 & 3, M. Sayir, J. Dual, S. Kaufmann, ed. Teubner Stuttgart (allemand)",
+      "Forme d'enseignement":"Cours & exercices intégrés",
+      "Contenu":"[b]I[][]Bases[/b][br/]1) Mouvement d'un point \"matériel\"[br/]2)\tCinématique du corps rigide  (théorème des projections de vitesses, translation, rotation, mouvement général...)[br/]3) Forces. Principe de réaction. Forces internes et externes. [br/]4) Forces réparties en surface et en volume, densité de forces. [br/][br/][b]II[][]Statique élémentaire[/b][br/]5) Équivalence, couple, moment, réduction de groupes de forces[br/]6) Équilibre statique, appuis, réactions aux appuis, centre de masse[br/]7) Statique de systèmes, structures[br/]8) Frottement[br/]9) Traction, compression, moment de flexion, effort tranchant, flèche d'une poutre[br/][br/][b]III[][]Introduction à la dynamique de systèmes simples[/b][br/]10) Accélération,  les équations de Newton-Euler[br/]11) Équations de mouvements de systèmes à un degré de liberté, oscillations[br/]12) Mouvements relatifs",
+      "Préparation pour":"Systèmes vibratoires",
+      "Objectifs d'apprentissage":"Ce cours donne les bases minimales en mécanique qui sont attendues d'un ingénieur EPFL. Ces connaissances essentielles serviront dans des situations diverses, p.ex. en énergétique, microtechnique, mécatronique ou en électronique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statique et dynamique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-048501-6&amp;con_lng=FRE\" target=\"blank\">Cours de physique: mécanique des solides et des systèmes de solides : cours et exercies corrigés, 1er cycle-licence / Michel Combarnous, Didier Desjardins, Christophe Bacon</a>\". Année:2004. ISBN:2-10-048501-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-519-00483-6&amp;con_lng=FRE\" target=\"blank\">Ingenieurmechanik , vol. 1/ Mahir B. Sayir, Jürg Dual, Stephan Kaufmann. Band 1 : Grundlagen und Statik</a>\". Année:2004. ISBN:3-519-00483-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-519-00511-5&amp;con_lng=FRE\" target=\"blank\">Ingenieurmechanik, vol. 3 / Mahir B. Sayir, Jürg Dual, Stephan Kaufmann. Band 3 : Dynamik</a>\". Année:2005. ISBN:3-519-00511-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

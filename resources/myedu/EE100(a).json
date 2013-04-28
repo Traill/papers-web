@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773512&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","100(a)"],
+    "title":"Electrotechnics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773512&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=en",
+    "section":"EL",
+    "program":"MT",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course provides an introduction to electrical engineering. The theoretical material is illustrated with practical examples, exercises and laboratory work. During the course, the student will become familiar with the fundamental elements of linear DC circuits. She/he will learn how to analyze electric circuits, will become familiar with electric laboratory equipment, and perform various types of electric measurements.",
+      "Content":"[b]Introduction[/b][br/]Physical variables, unit systems.[br/][br/][b]DC circuits[/b][br/]Current, tension, Ohm law, resistivity, conductivity, work, power, Kirchoff laws, current and voltage sources, DC circuit analysis, star-triangle transformation, impedance matching, equivalent bipole.[br/][br/][b]Electric field[/b][br/]Charge, field and electric potential, flux, dielectrics in an external field, permittivity, electrostatic fields, capacitance, capacitors, electric energy, electrostatic force.[br/][br/][b]Magnetic field[/b][br/]Magnetic field, permeability, flux, magnetic potential, circulation, magnetic circuits, calculation of magnetic fields, magnetic force, induction, inductance, mutual inductance, magnetic energy.",
+      "Bibliography and material":"Polycopié"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechnics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Polycopié. En bibliothèque / in libraries : (cliquez sur le lien pour consulter les informations du réseau de bibliothèque suisse / click on the link to consult information of the Swiss network of libraries)",
+      "Forme d'enseignement":"Ex cathedra, complété par des séances d'exercices et de laboratoire",
+      "Contenu":"[b]Introduction[/b][br/]Grandeurs physiques, système d'unités.[br/][br/][b]Circuit en régime continu[/b][br/]Courant et tension électrique, loi d'Ohm, résistivité et conductivité, travail et puissance, lois de Kirchoff, sources de courant et de tension, calcul des circuits en régime continu, arrangements triangle-étoile, mise en équation d'un circuit, adaptation d'un circuit, bipôles équivalents.[br/][br/][b]Champ électrique[/b][br/]Charge, champ et potentiel électriques, flux et densité de flux, diélectriques dans un champ électrique, calcul des champs électrostatiques, capacité d'un condensateur, combinaisons de condensateurs, énergie du champ électrostatique, force électrostatique.[br/][br/][b]Champ magnétique[/b][br/]Propriétés générales, champ d'induction magnétique, perméabilité, flux et potentiel magnétiques, circulation du champ magnétique, circuit magnétique, calcul des champs magnétiques, champ magnétique dans la matière, force magnétique, induction, inductance, induction mutuelle, énergie du champ magnétique.",
+      "Forme du contrôle":"Examen écrit et labo test",
+      "Préparation pour":"Tous les cours d'électricité",
+      "Objectifs d'apprentissage":"Ce cours propose une introduction à l'électrotechnique et illustre son application dans différents domaines récents des sciences et techniques de l'ingénieur.  À la fin du cours, l'étudiant se sera familiarisé avec les lois fondamentales de l'électricité.  Il connaîtra les différents composants d'un circuit électrique linéaire, leur mise en circuit ainsi que le calcul élémentaire des circuits.  Il sera capable d'effectuer des mesures électriques simples."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechnique I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

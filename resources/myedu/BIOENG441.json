@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352619105&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","441"],
+    "title":"Artificial organs and systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352619105&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-B",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Artificial organs and systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-59169-026-9&amp;con_lng=ENG\" target=\"blank\">Basic transport phenomena in biomedical engineering / Ronald L. Fournier</a>\". Year:2007. ISBN:1-59169-026-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-370615-7&amp;con_lng=ENG\" target=\"blank\">Principles of tissue engineering / edited by Robert Lanza, Robert Langer, Joseph Vacanti</a>\". Year:2007. ISBN:978-0-12-370615-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8493-2124-7&amp;con_lng=ENG\" target=\"blank\">The biomedical engineering handbook / ed. by Joseph D. Bronzino</a>\". Year:2006. ISBN:0-8493-2124-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Bs in live sciences and technology or equivalent training[br/]Advanced transport phenomena, Physiology",
+      "Bibliographie et matériel":"Basic transport phenomena in biomedical engineering / Ronald L. Fournier, 2007[br/]Principles of tissue engineering / ed. by Robert P. Lanza ... [et al.], 2000[br/]The biomedical engineering handbook / ed. by Joseph D. Bronzino, 2006: direct access to e-book[br/]",
+      "Forme d'enseignement":"Ex cathedra and seminar conferences, semester project",
+      "Contenu":"[b]I) Artificial and bioartificial organs: [/b][br/][br/][li]a) general introduction 2H[br/][li]b) artificial kidney (dialyzer) 2H (1 H external speaker)[br/][li]c) heart and lung (artificial heart, blood oxygenator), extracorporeal circulation 4H (1H external speaker)[br/][li]d) artificial pancreas and bioartificial pancreas (glucose sensors and insulin pumps) 2H (1 H external speaker)[br/][br/][b]II) Application of numerical methods in artificial organs:[/b][br/][br/][li]a)  General introduction to numerical approaches in the field 2H[br/][li]b)  Introduction to COMSOL 4H[br/][li]c)  Application to an artificial organ 4H (1H artificial heart)[br/][br/][br/][b]III) Semester project:[/b][br/][br/]Students in groups will be asked to do a personal work on the different potential approaches to develop a new artificial organ.[br/]They should then present their work to the class. They will be helped in the conduction of their project by specific supervisors with periodic appointments (office hours).",
+      "Forme du contrôle":"Oral examination",
+      "Objectifs d'apprentissage":"Through this course the student should understand the state of the art of artificial organs and their current applications and future perspectives in medicine. In addition to their different technical aspects (biomaterials, biocompatibility, transport phenomena, cell engineering, limitations, costs) the student will get to know the market and main industrial players in the field. External speakers will come to stimulate discussions."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Artificial organs and systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-59169-026-9&amp;con_lng=FRE\" target=\"blank\">Basic transport phenomena in biomedical engineering / Ronald L. Fournier</a>\". Année:2007. ISBN:1-59169-026-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-370615-7&amp;con_lng=FRE\" target=\"blank\">Principles of tissue engineering / edited by Robert Lanza, Robert Langer, Joseph Vacanti</a>\". Année:2007. ISBN:978-0-12-370615-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8493-2124-7&amp;con_lng=FRE\" target=\"blank\">The biomedical engineering handbook / ed. by Joseph D. Bronzino</a>\". Année:2006. ISBN:0-8493-2124-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

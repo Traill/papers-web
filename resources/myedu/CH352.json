@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71856076&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","352"],
+    "title":"Introduction to cheminformatics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71856076&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the management of chemical information and the main tools used.[br/]",
+      "Content":"[br/][li] Storage information: LIMS-ERM-ELN[br/][li] Various data format (SMILES, MOL, SDF, PDB, JCAMP, PDF...)[br/][li] Chemical structures: [br/][tab] 1. canonisation[br/][tab] 2. symmetry[br/][tab] 3. fingerprint[br/][tab] 4. structure ans substructure search[br/][li] Analysis and processing data[br/][li] Web page, Javascript/Applet, use of Jmol"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to cheminformatics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148588",
+      "name":"Patiny Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module Chimie computationnelle",
+      "Prérequis":"Le cours nécessite des connaissances de base de chimie",
+      "Bibliographie et matériel":"Fournie au cours et sur http://e-chemistry.epfl.ch",
+      "Forme d'enseignement":"Ex Cathedra et exercices sur ordinateur",
+      "Contenu":"[br/][li] Stockage de l'information: LIMS-ERM- ELN[br/][li] Différents formats de données (SMILES, MOL, SDF; PDB, JCAMP, PDF...)[br/][li] Structures chimiques: [br/][tab] 1. canonisation[br/][tab] 2. symmétrie[br/][tab] 3. \"fingerprints\"[br/][tab] 4. recherche par structure et sous-structure[br/][li] Analyse et utilisation des données[br/][li] Page WEB, Javascript/Applet, utilisation de Jmol",
+      "Forme du contrôle":"Continu",
+      "Objectifs d'apprentissage":"Introduction aux concepts de base de cheminformatique et aux principaux outils utilisés. Applications potentielles de ces outils en recherche pour la gestion de l'information."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Eléments de cheminformatique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

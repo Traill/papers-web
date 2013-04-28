@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30700941&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","630"],
+    "title":"Practical - Radtke Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30700941&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://radtke-lab.epfl.ch/","http://radtke-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Self renewing organs[br/][br/]Flow Cytometry as tools for the analysis of the hematopoietic system",
+      "Content":"Dissection of haematopoietic and lymphoid organs. Flow Cytometry analysis and sorting.",
+      "Keywords":"Flow Cytometry, hematopoiesis, antibody, stem cells",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules.  Note also that doctoral students from the Radtke laboratory cannot take this course. Access is limited to 3 students.",
+      "Required prior knowledge":"Basic Biology"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Practical - Radtke Lab",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":2
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://radtke-lab.epfl.ch/","http://radtke-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules.  Note also that doctoral students from the Radtke laboratory cannot take this course. Access is limited to 2 students.",
+      "Contenu":"Dissection of haematopoietic and lymphoid organs. Flow Cytometry analysis and sorting.",
+      "Mots clés":"Flow Cytometry, hematopoiesis, antibody, stem cells",
+      "Prérequis":"Basic Biology",
+      "Objectifs d'apprentissage":"Self renewing organs[br/][br/]Flow Cytometry as tools for the analysis of the hematopoietic system"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Practical - Radtke Lab",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":2
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","207(c)"],
+    "title":"Analysis IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105837",
+      "name":"Metzener Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam 120 to 180 min.",
+      "Prerequisite for":"Solving some differential equations for engineering sciences.[br/]",
+      "Required prior knowledge":"Analysis I, II and III, Linear Algebra I and II",
+      "Content":"[li]\tSelected chapters of complex analysis : analytic functions, Cauchy's integral, Laurent'series and the theorem of the residues[br/][li]\tApplications : Fourier and Laplace transforms[br/][li]\tSome solution techniques to solve classical differential equations[br/]",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Learning outcomes":"Introducing some elements of complex analysis usefull to engineering sciences.[br/][br/]Solve some classical partial differential equations."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-72897-9&amp;con_lng=ENG\" target=\"blank\">Advanced engineering mathematics / Erwin Kreyszig</a>\". Year:2006. ISBN:978-0-471-72897-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=ENG\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Year:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105837",
+      "name":"Metzener Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I, II et III,  Algèbre linéaire I et II",
+      "Bibliographie et matériel":"B. Dacorogna & C. Tanteri : Analyse avancée pour Ingénieurs, PPUR 2002.[br/]E. Kreyszig : Advanced engineering mathematics, Wiley 1999.[br/]Polycopié des notes du cours.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[li]\tChapitres choisis d'analyse complexe : fonctions analytiques, intégrale de Cauchy, séries de Laurent et le théorème des résidus [br/][li]\tApplications : transformées de Fourier et de Laplace[br/][li]\tQuelques méthodes de résolution d'équations différentielles classiques",
+      "Forme du contrôle":"Examen écrit 120-180 min.",
+      "Préparation pour":"La résolution des équations différentielles en usage dans les sciences de l'ingénieur.",
+      "Objectifs d'apprentissage":"Introduire quelques éléments de l'analyse complexe utiles aux sciences de l'ingénieur.[br/][br/]Résoudre quelques équations aux dérivées partielles classiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-72897-9&amp;con_lng=FRE\" target=\"blank\">Advanced engineering mathematics / Erwin Kreyszig</a>\". Année:2006. ISBN:978-0-471-72897-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=FRE\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Année:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

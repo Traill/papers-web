@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771673&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","603"],
+    "title":"Solid state image sensing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771673&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www-imt.unine.ch/esplab/","http://www-imt.unine.ch/esplab/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123556",
+      "name":"Seitz Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Students will understand the operation of today's and tomorrow's solid state photosensors, based on a comprehensive presentation of all key elements from solid state physics, semiconductor technology, electronics and optics. Students will be capable of calculating essential characteristics of pixels, image sensors and cameras, to check the feasibility of proposed or commercially available photosensing solutions in optical measurement problems. Students can suggest and invent new photosensing concepts for novel approaches to image sensing, and they can determine the operational limits as well as the practical feasibility of the proposed new methods.[br/]Every lesson includes the preliminary discussion of a few advanced problems that cannot be solved directly in class; these problems are therefore given as take-home projects to student groups, who will present the information collected and their solution approach in five-minute briefs one or two weeks later.",
+      "Content":"1. Optoelectronic properties of semiconductors. Interaction of light with silicon and selected compound semiconductors. Photodiodes. Modulation transfer function and responsivity.[br/]2. The charge-coupled device (CCD) principle. Surface and buried channel CCD. CCD image sensors. CCD signal processing (transversal filtering, convolution image sensor, lock-in pixels for optical time-of-flight range image sensing)[br/]3. Photosensor output stages (amplifiers) and their noise properties. Noise reduction techniques. From CCD to CMOS image sensing with Active Pixel Sensors (APS). Photosensors with ultimate performance: Skipper CCD, double-gate FET CCD, CMD, avalanche multiplication in pixels and in imager output stages (impactron¿), techniques for high-dynamic range imaging (multi-exposure, logarithmic and LinLog' compression, etc.)[br/]4. Human visual perception and video standards for black-and-white and color cameras. Unconventional photosensing principles: charge injection device (CID), bucket brigade device (BBD), position sensitive detectors (PSD), phototransistors, etc.[br/]5. Photosensing with organic semiconductors: small molecules and polymers. Photocharge carrier transport mechanisms. Charge injection. Light emission and detection. Organic microelectronics and optoelectronics.[br/]6. State-of-the-art photosensors and future developments in \"single-chip cameras\" and \"smart pixels\". Case studies of present-day optical measurement problems and their possible solution with advanced Photosensors.",
+      "Keywords":"imaging, CCD, CMOS, semiconductors, photosensors",
+      "Required prior knowledge":"[li] Fundamentals of semiconductor physics[br/][li] Fundamentals of optics[br/][li] Basic elements of electronics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Solid state image sensing",
+    "recitation":{
+      "total_hours":15
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www-imt.unine.ch/esplab/","http://www-imt.unine.ch/esplab/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123556",
+      "name":"Seitz Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Optoelectronic properties of semiconductors. Interaction of light with silicon and selected compound semiconductors. Photodiodes. Modulation transfer function and responsivity.[br/]2. The charge-coupled device (CCD) principle. Surface and buried channel CCD. CCD image sensors. CCD signal processing (transversal filtering, convolution image sensor, lock-in pixels for optical time-of-flight range image sensing)[br/]3. Photosensor output stages (amplifiers) and their noise properties. Noise reduction techniques. From CCD to CMOS image sensing with Active Pixel Sensors (APS). Photosensors with ultimate performance: Skipper CCD, double-gate FET CCD, CMD, avalanche multiplication in pixels and in imager output stages (impactron¿), techniques for high-dynamic range imaging (multi-exposure, logarithmic and LinLog' compression, etc.)[br/]4. Human visual perception and video standards for black-and-white and color cameras. Unconventional photosensing principles: charge injection device (CID), bucket brigade device (BBD), position sensitive detectors (PSD), phototransistors, etc.[br/]5. Photosensing with organic semiconductors: small molecules and polymers. Photocharge carrier transport mechanisms. Charge injection. Light emission and detection. Organic microelectronics and optoelectronics.[br/]6. State-of-the-art photosensors and future developments in \"single-chip cameras\" and \"smart pixels\". Case studies of present-day optical measurement problems and their possible solution with advanced Photosensors.",
+      "Mots clés":"imaging, CCD, CMOS, semiconductors, photosensors",
+      "Prérequis":"[li] Fundamentals of semiconductor physics[br/][li] Fundamentals of optics[br/][li] Basic elements of electronics",
+      "Objectifs d'apprentissage":"Students will understand the operation of today's and tomorrow's solid state photosensors, based on a comprehensive presentation of all key elements from solid state physics, semiconductor technology, electronics and optics. Students will be capable of calculating essential characteristics of pixels, image sensors and cameras, to check the feasibility of proposed or commercially available photosensing solutions in optical measurement problems. Students can suggest and invent new photosensing concepts for novel approaches to image sensing, and they can determine the operational limits as well as the practical feasibility of the proposed new methods.[br/]Every lesson includes the preliminary discussion of a few advanced problems that cannot be solved directly in class; these problems are therefore given as take-home projects to student groups, who will present the information collected and their solution approach in five-minute briefs one or two weeks later."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Solid state image sensing",
+    "recitation":{
+      "total_hours":15
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  }
+}

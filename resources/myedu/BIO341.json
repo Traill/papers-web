@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352252328&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","341"],
+    "title":"Mathematical and Computational Models in Biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352252328&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110606",
+      "name":"Naef Felix"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Biological phenomena occur as spatio-temporal processes. The objective of this course is to introduce dynamical systems theory and computational methods for modeling simple biological networks. Qualitative analysis of non-linear dynamical models will be developed in conjunction with simulations in the form of exercises. The student will learn to analyzes 1D and 2D dynamical systems using analytical (phase plane analysis) and simulations in Matlab. The material will be organized around relevant examples from nonlinear population dynamics, biochemical switches, biochemical oscillators.  The course will also include the discussion of classical examples from the filed of synthetic biology. Basics about diffusion equation and their relevance to passive cellular transport will be introduced. The course is taught on the blackboard and attention is paid to the mathematical and geometrical aspects of the subject.",
+      "Content":"Lectures[br/]1. Introduction, Dynamical systems, 1D systems.[br/]2. Linear stability in 1D. Logistic growth.[br/]3. Autocatalytic genetic switch in 1D.[br/]4. Linear 2D systems.[br/]5. Nonlinear 2D systems, stability and classification of fixed points, phase portraits of fixed points.[br/]6. Pred-prey models.[br/]7. Bistable genetic switches.[br/]8. Limit cycles: Poincaré-Bendixon theorem. Glycolytic osclillator.[br/]9. Excitable systems and cell differentiation.[br/]10. Forced and coupled phase oscillators.[br/]11. Kinetic proofreading.[br/]12. Diffusion equation, Einstein Stokes law.[br/]13. Reaction diffusion equations, Kolmogorov-Fisher equation.[br/]14. Written Exam[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematical and Computational Models in Biology",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95223-3&amp;con_lng=ENG\" target=\"blank\">Mathematical biology / J.D. Murray</a>\". Year:2008. ISBN:0-387-95223-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7382-0453-6&amp;con_lng=ENG\" target=\"blank\">Nonlinear dynamics and chaos : with applications to physics, biology, chemistry and engineering / Steven H. Strogatz</a>\". Year:2000. ISBN:0-7382-0453-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110606",
+      "name":"Naef Felix"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Liaison avec le cours d'analyse numérique",
+      "Prérequis":"Informatique I,II,III [br/]Analyse I, II, III et IV[br/]Physique I,II, III et IV[br/]Analyse numérique",
+      "Bibliographie et matériel":"J.D. Murray, Mathematical Biology (Springer); S. Strogatz, Nonlinear dynamics and Chaos (Perseus)",
+      "Forme d'enseignement":"Exposé oral, exercices dirigés et répétitions",
+      "Contenu":"Cours[br/]1. Introduction, systèmes dynamiques, systèmes en 1D.[br/]2. Stabilité linéaire en 1D. Croissance logistique.[br/]3. Interrupteur génétique en 1D.[br/]4. Systèmes linéaires en 2D.[br/]5. Systèmes non-linéaires en 2D, stabilité et classification des points fixes, portraits de phase.[br/]6. Modèles de prédateurs-proies.[br/]7. Interrupteur génétique bistable en 2D.[br/]8. Cycles limites: Théorème de Poincaré-Bendixon. Oscillateur glycolytique.[br/]9. Systèmes excitables et différentiation cellulaire.[br/]10. Oscillateurs forcés et couples,  oscillateurs de phase.[br/]11. Correction d'erreur cinétique.[br/]12. Equation de diffusion, loi de Einstein Stokes.[br/]13. Equations de reaction-diffusion en 1D, equation de Kolmogorov-Fisher.[br/]14. Examen final écrit",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Les phénomènes biologiques se déroulent comme des processus dynamiques spatio-temporels. L'obectif de ce cours est d'introduire les systèmes dynamiques et méthodes computationelles pour modéliser des réseaux biologiques simples. L'analyse qualitative de modèles dynamiques non-linéaires sera développée de paire avec des simulations numériques sous forme de travaux pratiques. L'étudiant apprendra à analyser les systèmes dynamiques en 1D et 2D avec l'analyse de portraits de phase combinés aux simulations en Matlab. La matière sera organisée autour d'exemples de la dynamique des populations, d'interrupteurs génétiques et oscillateurs biochimiques. Le cours incluera la discussion d'exemples classiques du domaine de la biologie synthétique. Les bases de l'équation de diffusion et sa relevance pour le transport cellulaire passif sera introduit. Le cours est enseigné au tableau noir et l'attention est portée sur les aspects mathématiques et géométriques du sujet."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modélisation mathématique et computationnelle en biologie",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95223-3&amp;con_lng=FRE\" target=\"blank\">Mathematical biology / J.D. Murray</a>\". Année:2008. ISBN:0-387-95223-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7382-0453-6&amp;con_lng=FRE\" target=\"blank\">Nonlinear dynamics and chaos : with applications to physics, biology, chemistry and engineering / Steven H. Strogatz</a>\". Année:2000. ISBN:0-7382-0453-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

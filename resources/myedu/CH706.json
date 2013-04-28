@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770988&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","706"],
+    "title":"Density functional theory for chemistry students",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770988&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162252",
+      "name":"Wesolowski Tomasz Adam"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Students will learn about:[br/]1) Formal foundations of Hohenberg-Kohn-Sham density functional theory;[br/]2) The origin, advantages, and flaws of most commonly used approximations to the exchange-correlation functional; [br/]3) Main features of the computer implementations of the formalism used in chemistry;[br/]4) The state of development of theoretical and the prospects of their applicability in chemistry.",
+      "Content":"1)  Historical introduction to density functional theory in chemistry and physics.[br/]2)  Mathematical introduction to the concepts used in density functional theory (functional, functional derivative, extremum of a functional, constraints, Euler-Largange minimization).[br/]3)  Thomas-Fermi model of the uniform electron gas.[br/]4)  Basic theorems of density functional theory (Hohenberg-Kohn theorems).[br/]5)  Kohn-Sham Equations.[br/]6)  Local density approximation (LDA).[br/]7)  Generalized gradient approximation (GGA).[br/]8)  Adiabatic connection method (hybrid functionals).[br/]9)  Numberical implementation of Kohn-Sham equations.[br/]10) Relativistic effects and density functional theory.[br/]11) Linear-response density functional theory (excited states).[br/]12) Formal extensions: optimized effective potential, self-interaction correction, meta-GGA[br/]13) Conceptual DFT: reactivity indices.[br/]14) Some illustrative applications of Kohn-Sham equations.",
+      "Required prior knowledge":"[li] basics of quantum mechanics (Schroedinger equation)[br/][li] Hartree-Fock method and LCAO approximation[br/][li] The concept of electron correlation"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Density functional theory for chemistry students",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162252",
+      "name":"Wesolowski Tomasz Adam"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1)  Historical introduction to density functional theory in chemistry and physics.[br/]2)  Mathematical introduction to the concepts used in density functional theory (functional, functional derivative, extremum of a functional, constraints, Euler-Largange minimization).[br/]3)  Thomas-Fermi model of the uniform electron gas.[br/]4)  Basic theorems of density functional theory (Hohenberg-Kohn theorems).[br/]5)  Kohn-Sham Equations.[br/]6)  Local density approximation (LDA).[br/]7)  Generalized gradient approximation (GGA).[br/]8)  Adiabatic connection method (hybrid functionals).[br/]9)  Numberical implementation of Kohn-Sham equations.[br/]10) Relativistic effects and density functional theory.[br/]11) Linear-response density functional theory (excited states).[br/]12) Formal extensions: optimized effective potential, self-interaction correction, meta-GGA[br/]13)  Conceptual DFT: reactivity indices.[br/]14)  Some illustrative applications of Kohn-Sham equations.",
+      "Prérequis":"[li] basics of quantum mechanics (Schroedinger equation)[br/][li] Hartree-Fock method and LCAO approximation[br/][li] The concept of electron correlation",
+      "Objectifs d'apprentissage":"Students will learn about:[br/]1) Formal foundations of Hohenberg-Kohn-Sham density functional theory;[br/]2) The origin, advantages, and flaws of most commonly used approximations to the exchange-correlation functional; [br/]3) Main features of the computer implementations of the formalism used in chemistry;[br/]4) The state of development of theoretical and the prospects of their applicability in chemistry."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Density functional theory for chemistry students",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

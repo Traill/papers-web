@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=297396265&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","602"],
+    "title":"Financial Econometrics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=297396265&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192002",
+      "name":"Jondeau Eric"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"In this course, I will provide a comprehensive knowledge of the econometric tools that are essential to estimate financial models, both for asset pricing and for forecasting purposes. I will focus on the empirical techniques used most often in the analysis of financial markets and how they are applied to actual market data. [br/]",
+      "Content":"The different topics I will treat are the following:[br/][1] Characteristics of Financial Time Series [br/][2] Modeling Financial Market Volatility[br/][3] Modeling Non-normality[br/][4] Extreme Value Theory[br/][5] Modeling Correlation[br/][6] Risk Management and Asset Allocation[br/]",
+      "Form of examination":"Written",
+      "Note":"URL: http://www.hec.unil.ch/ejondeau/[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial Econometrics",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192002",
+      "name":"Jondeau Eric"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"URL: http://www.hec.unil.ch/ejondeau/[br/]",
+      "Contenu":"The different topics I will treat are the following:[br/][1] Characteristics of Financial Time Series [br/][2] Modeling Financial Market Volatility[br/][3] Modeling Non-normality[br/][4] Extreme Value Theory[br/][5] Modeling Correlation[br/][6] Risk Management and Asset Allocation[br/]",
+      "Objectifs d'apprentissage":"In this course, I will provide a comprehensive knowledge of the econometric tools that are essential to estimate financial models, both for asset pricing and for forecasting purposes. I will focus on the empirical techniques used most often in the analysis of financial markets and how they are applied to actual market data. [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial Econometrics",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

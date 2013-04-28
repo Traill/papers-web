@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772040&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","471"],
+    "title":"Biomaterials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772040&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"MX",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105649",
+      "name":"Lemaître Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Articles de revue et ouvrages spécialisés",
+      "Prerequisite for":"Professional occupation, PhD thesis",
+      "Required prior knowledge":"Introduction to materials sciences, Organic and polymer chemistry, Inorganic chemistry materials, Life sciences, Dispersed materials[br/]",
+      "Content":"[br/][li]Introduction: definition and classification of biomaterials.[br/][li]Perspectives of utilization: functions and bio-activity of biomaterials.[br/][li]Elements of physiology and anatomy: the cell and living tissue.[br/][li]Characterization of biomaterials: bulk and surface properties.[br/][li]Tissue-material interactions: biocompatibility, hemo-compatibility.[br/][li]Orthopedical materials: mechanical structure and properties of bone; metals and alloys; ceramics, glass and inorganic cements; polymers and organic cements.[br/][li]Biodegradable materials: synthetic or natural polymers; ceramics and inorganic cements.[br/][li]Dental materials: ceramic dental implants, dental cements and mineral-organic composites.[br/][li]Biocompatibility, biosecurity and biofunctionality.[br/][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"Description of the principles governing the interactions between materials and living organisms. Presentation of different classes of materials and their interactions with the physiological environment. Introduction of the fundamental ideas necessary to judiciously choose materials to be implanted in the human body. Presentation of the diverse uses of biomaterials in medical applications.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biomaterials",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105649",
+      "name":"Lemaître Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction à la science des matériaux, Chimie organique et des polymères, Chimie des matériaux inorganiques, Sciences du vivant, Matériaux divisés",
+      "Bibliographie et matériel":"Articles de revue et ouvrages spécialisés",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[br/][li]Introduction: définition et classification des biomatériaux.[br/][li]Perspectives d'utilisation: fonctions et bio-activité des biomatériaux.[br/][li]Éléments de physiologie et d'anatomie: la cellule et les tissus vivants.[br/][li]Caractérisation des biomatériaux: caractéristiques de masse et de surface.[br/][li]Interactions tissus-matériaux: biocompatibilité, hémo-compatibilité.[br/][li]Matériaux pour l'orthopédie: structure et propriétés mécaniques de l'os; métaux et alliages; céramiques, verres et ciments minéraux; polymères et ciments organiques.[br/][li]Matériaux biodégradables: polymères synthétiques ou naturels; céramiques et ciments minéraux.[br/][li]Matériaux pour applications dentaires: céramiques dentaires; ciments dentaires et composites minéraux-organiques.[br/][li]Biocompatibilité, biosécurité, biofonctionnalité.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Activité professionnelle, thèse de doctorat",
+      "Objectifs d'apprentissage":"Description des principes régissant les interactions entre matériaux et organismes vivants. Présentation des différentes classes de matériaux et de leurs interactions avec l'environnement physiologique. Introduction aux notions fondamentales nécessaires au choix judicieux de matériaux pouvant être implantés dans l'organisme humain. Présentation des domaines d'application des différents biomatériaux en médecine."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biomatériaux",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

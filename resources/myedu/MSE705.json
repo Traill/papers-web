@@ -1,0 +1,89 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771653&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","705"],
+    "title":"Selected topics in functional materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771653&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104860",
+      "name":"Damjanovic Dragan"
+    },{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    },{
+      "url":"http://people.epfl.ch/106518",
+      "name":"Tagantsev Alexander"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Ferroelectric Domain Walls : Understanding domain wall formation, structure, interaction with point defects, and dynamics",
+      "Content":"[li]Domain wall formation[br/][li]Domain wall structure, spacing and periodicity[br/][li]Interaction of domain wall and point defectzs[br/][li]Dynamics of domain walls[br/][li]Influence of elastic and electric boundary conditions on domain walls[br/][li]Influence of domain walls on properties of ferroelectrics[br/][li]Experimental techniques for visualisation of domain walls and study of their properties.[br/]",
+      "Form of examination":"Continuous assessment (oral presentation and written report)",
+      "Note":"The course will be held in Chateau d'Oex; Up to 28 participants will be accepted on a first come basis. Deadline for registration is 30.11.2011.[br/]",
+      "Required prior knowledge":"BSc and/or MSc in Materials Engineering or  Physics"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Selected topics in functional materials",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":13
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104860",
+      "name":"Damjanovic Dragan"
+    },{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    },{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    },{
+      "url":"http://people.epfl.ch/106518",
+      "name":"Tagantsev Alexander"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course will be held in Chateau d'Oex; Up to 28 participants will be accepted on a first come basis. Deadline for registration is 30.11.2011.",
+      "Contenu":"[li]Domain wall formation[br/][li]Domain wall structure, spacing and periodicity[br/][li]Interaction of domain wall and point defectzs[br/][li]Dynamics of domain walls[br/][li]Influence of elastic and electric boundary conditions on domain walls[br/][li]Influence of domain walls on properties of ferroelectrics[br/][li]Experimental techniques for visualisation of domain walls and study of their properties.",
+      "Forme du contrôle":"Continuous assessment (oral presentation and written report)",
+      "Prérequis":"BSc and/or MSc in Materials Engineering or  Physics",
+      "Objectifs d'apprentissage":"Ferroelectric Domain Walls : Understanding domain wall formation, structure, interaction with point defects, and dynamics"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Selected topics in functional materials",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":13
+    }
+  }
+}

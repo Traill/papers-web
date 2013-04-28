@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=61909349&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","608"],
+    "title":"Network Coding and Information Flow",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=61909349&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://arni.epfl.ch","http://arni.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161832",
+      "name":"Fragouli Christina"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"We will cover the basic ideas and research directions in network coding, and introduce tools used in this area.",
+      "Content":"Network coding is an area that has recently emerged, in the framework of information flow through networks. The new twist is that intermediate nodes in the network perform algebraic operations in their incoming information flows.[br/][br/]In this class we will cover the fundamental principles and applications of network coding. We will examine these principles in the context of several types of traffic (ex. multicasting, multiple unicast, etc). We will study design methods and implementation issues of network coding. We will then discuss benefits in terms of throughtput, security, complexity etc. These ideas will be illustrated for specific applications, such as wireless networks, peer-to-peer networks and sensor networks. During the course we will make connections with areas such as linear programming, algebra, coding theory, matroids, etc.",
+      "Keywords":"Network coding, multicast, algorithms, ad-hoc wireless and sensor networks, peer-to-peer net-works, security",
+      "Required prior knowledge":"Linear algebra. Basic knowledge of graph theory, information theory, coding theory and networking is not required, but is useful."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Network Coding and Information Flow",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://arni.epfl.ch","http://arni.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161832",
+      "name":"Fragouli Christina"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Network coding is an area that has recently emerged, in the framework of information flow through networks. The new twist is that intermediate nodes in the network perform algebraic operations in their incoming information flows.[br/][br/]In this class we will cover the fundamental principles and applications of network coding. We will examine these principles in the context of several types of traffic (ex. multicasting, multiple unicast, etc). We will study design methods and implementation issues of network coding. We will then discuss benefits in terms of throughtput, security, complexity etc. These ideas will be illustrated for specific applications, such as wireless networks, peer-to-peer networks and sensor networks. During the course we will make connections with areas such as linear programming, algebra, coding theory, matroids, etc.",
+      "Mots clés":"Network coding, multicast, algorithms, ad-hoc wireless and sensor networks, peer-to-peer net-works, security",
+      "Prérequis":"Linear algebra. Basic knowledge of graph theory, information theory, coding theory and networking is not required, but is useful.",
+      "Objectifs d'apprentissage":"We will cover the basic ideas and research directions in network coding, and introduce tools used in this area."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Network Coding and Information Flow",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

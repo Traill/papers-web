@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350468544&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","201"],
+    "title":"Biologie moléculaire",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350468544&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110199",
+      "name":"Mermod Nicolas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course illustrates the structure of genes and the molecular mecanisms of DNA transcription and replication. An objective of the course is the understanding of how genes are regulated and transmitted and how they influence the phenotype of organisms.[br/]Students will exercise reading and oral presentation of scientific articles.",
+      "Content":"[li] Molecular properties of nucleic acids.[br/][li] Molecular mechanisms of gene expression.[br/][li] Molecular mechanisms of protein synthesis.[br/][li] Regulation of gene expression in procaryotes and eucaryotes.[br/][li] Mutations and genetic/epigenetic propagation of phenotypes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie moléculaire",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-008530-8&amp;con_lng=ENG\" target=\"blank\">Genetics : a molecular perspective / William S. Klug, Michael R. Cummings ; with contributions by Jon Herron ... [et al.]</a>\". Year:2003. ISBN:0-13-008530-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4106-2&amp;con_lng=ENG\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Year:2008. ISBN:978-0-8153-4106-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110199",
+      "name":"Mermod Nicolas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction à la biologie cellulaire",
+      "Bibliographie et matériel":"Klug and Cummings, Genetics a Molecular Perspective, Pearson 2003[br/]Albert et al. Molecular Biology of the Cell, 5th ed., Garland 2007",
+      "Forme d'enseignement":"Cours ex cathédra et travail personnel",
+      "Contenu":"[li] Propriétés moléculaires des acides nucléiques.[br/][li] Mécanismes moléculaires de l'expression des gènes.[br/][li] Mécanismes moléculaires de la synthèse des protéines.[br/][li] Régulation de l'expression des gènes procaryotes et eucaryotes.[br/][li] Mutations et propagation génétique et épigénétique des phénotypes.",
+      "Forme du contrôle":"Examen écrit et contrôle continu oral.",
+      "Objectifs d'apprentissage":"L'objectif du cours est de comprendre la structure des gènes et comment l'ADN est répliqué, comment l'expression des gènes est régulée et comment ils sont transmis à la descendance et influencent les propriétés de l'organisme.[br/]L'objectif des exercices est l'acquisition de techniques d'analyse et de[br/]présentation orale d'articles scientifiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie moléculaire",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-008530-8&amp;con_lng=FRE\" target=\"blank\">Genetics : a molecular perspective / William S. Klug, Michael R. Cummings ; with contributions by Jon Herron ... [et al.]</a>\". Année:2003. ISBN:0-13-008530-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4106-2&amp;con_lng=FRE\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Année:2008. ISBN:978-0-8153-4106-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

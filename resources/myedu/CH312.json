@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772280&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","312"],
+    "title":"Molecular and cellular biophysic II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772280&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106666",
+      "name":"Vogel Horst"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The ability of organisms, or individual cells within an organism, to sense and respond to their environment is crucial to their survival. Not only must cells react to extracellular signals, they also have to communicate with other cells in a multicellular organism in order to co-ordinate their growth and differentiation. [br/]Elucidating cellular signaling is not only important for understanding the function of normal cells, but is also required in understanding of diseases.[br/][br/]",
+      "Content":"The course covers the biophysical and biochemical investigation of selected topics of cellular signaling:[br/][br/][li] Ion channels[br/][li] Transmembrane receptors[br/][li] Odorant, taste and sensing[br/][li] Vision[br/][li] Molecular motors[br/][li] Nuclear responses (transcription factors & cell cycle regulation)[br/][li] \"MHC\" proteins, T cell receptors, immunological synapse"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Molecular and cellular biophysic II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106666",
+      "name":"Vogel Horst"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Le cours concerne l'étude biochimique et biophysique de certains aspects choisis du signalement cellulaire:[br/][br/][li] Canaux ioniques[br/][li] Récepteurs couplés aux protéines G[br/][li] Les sens de l'odorat et du goût[br/][li] La vision[br/][li] Les moteurs moléculaires[br/][li] Les réponses du noyau cellulaire (facteurs de transcription et de régulation du cycle cellulaire)[br/][li] Protéines du complexe majeur d'hysto-compatibilité (MHC), récepteurs des cellules T, synapses immunologiques",
+      "Remarque":"Enseignement partiel du module Chimie biologique et biophysique",
+      "Objectifs d'apprentissage":"La capacité qu'ont les organismes ou les cellules individuelles à l'intérieur de ces organismes, à percevoir et à répondre à leur environnement est indispensable à leur survie. Les cellules ne se contentent pas de réagir individuellement aux signaux extracellulaires mais doivent aussi communiquer entre elles à l'intérieur d'un organisme multicellulaire afin de coordonner leur croissance et leur différentiation. [br/]L'analyse du signalement cellulaire est nécessaire pour com-prendre la fonction des cellules normales et le mécanisme  des maladies."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biophysique moléculaire et cellulaire II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

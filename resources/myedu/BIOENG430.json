@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4145120&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","430"],
+    "title":"Introduction to Cellular and Molecular Biotechnology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4145120&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.aw-bc.com/catalog/academic/product/0,1144,0805348255,00.html","http://www.aw-bc.com/catalog/academic/product/0,1144,0805348255,00.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To provide students with an understanding of the biological facts underlying the biotechnology applications. To inform students on the place of biotechnology in the contemporary society and in the job market.",
+      "Content":"This lecture reviews the various facets of contemporary biotechnology. Numerous examples of applications related to medicine, the pharma industry, agriculture, and environmental issues will be presented. The molecular and cellular biology underlying these applications will be explained. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to Cellular and Molecular Biotechnology",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-58903-3&amp;con_lng=ENG\" target=\"blank\">Introduction to biotechnology / William J. Thieman, Michael A. Palladino</a>\". Year:2009. ISBN:978-0-321-58903-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.aw-bc.com/catalog/academic/product/0,1144,0805348255,00.html","http://www.aw-bc.com/catalog/academic/product/0,1144,0805348255,00.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Contenu coordonné avec le cours \"Pharmaceutical Biotechnology\" du Prof. Florian Wurm",
+      "Bibliographie et matériel":"Introduction to Biotechnology by WJ Thieman, MA Palladino, ed.Pearson/Benjamin Cummings.[br/][br/]",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"Ce cours est une large présentation des nombreuses facettes de la biotechnologie contemporaine. Les applications médicales, pharmaceutiques, agro-alimentaires et environnementales seront décrites. Toutes les connaissances de biologie moléculaire et cellulaire nécessaires à la compréhension des procédés biotechnologiques seront exposées. ",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Donner aux étudiants une compréhension des phénomènes biologiques sous-tendant les applications de la biotechnologie. Informer les étudiants sur la place de la biotechnologie dans la société contemporaine et sur le marché de l'emploi."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to Cellular and Molecular Biotechnology",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-58903-3&amp;con_lng=FRE\" target=\"blank\">Introduction to biotechnology / William J. Thieman, Michael A. Palladino</a>\". Année:2009. ISBN:978-0-321-58903-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1596481293&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","604"],
+    "title":"Introduction to digital signal processing using Matlab, applied to environmental sciences and civil engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1596481293&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177767",
+      "name":"Kalogeropoulos Alexis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Provide civil engineers signal processing tools and bases in order to process and interpret monitoring datasets and give a practical introduction to matlab.[br/]",
+      "Content":"The course will be held in two parts, the first part deals with basics of signal processing. [br/]The fourier transform, sampling, spectral analysis and signal filtering are presented. [br/]Also coding and plotting with matlab is introduced using practical examples.[br/]In a second time during practical work a dataset has to be processed using matlab. The students can use their own dataset ( accelerometers, displacement, impact-echo, etc ...), if they have none a ground penetrating radar dataset will be provided. [br/]",
+      "Keywords":"Signal processing, Matlab, for civil engineers  "
+    },
+    "practical":{
+      "total_hours":15
+    },
+    "language":"English",
+    "title":"Introduction to digital signal processing using Matlab, applied to environmental sciences and civil engineering",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177767",
+      "name":"Kalogeropoulos Alexis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":15
+    },
+    "language":"English",
+    "title":"Introduction to digital signal processing using Matlab, applied to environmental sciences and civil engineering",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  }
+}

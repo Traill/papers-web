@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105938&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","517"],
+    "title":"Proteomics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105938&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/170330",
+      "name":"Chiappe Diego"
+    },{
+      "url":"http://people.epfl.ch/169261",
+      "name":"Moniatte Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to give some basic theoretical and practical knowledge on the mass spectrometry (MS) techniques used in proteomics to identify and characterize proteins in simple and complex mixtures.",
+      "Content":"The course is structured with alternating theory and illustrative exercise periods.[br/][br/][b]Main topics:[/b][br/][br/][li] Fundamental concepts in MS based protein analysis.[br/][li] Strategies for protein characterization and identification based on MS data.[br/][li] The analysis in practice (lab work)[br/][li] Validation and interpretation of results[br/][li] Typical analytical workflows and application examples[br/]Theory[br/][li] Introduction to proteomic analysis principles.[br/][li] Instrumentation and methods used in proteomics.[br/]- Liquid Chromatography (sample fractionation),[br/]- Mass spectrometry applied to protein analysis,[br/]- Protein identification[br/][li] Introduction to quantitative methods.[br/][li] Typical proteomics workflows with examples.[br/]Practical[br/][li] Sample preparation.[br/]- Protein digestion and desalting[br/][li] Protein molecular weight measurement on instruments[br/]- MALDI-TOF and Infusion-ESI MS,[br/]- Data interpretation.[br/][li] Peptides separation and analysis by LC-MS/MS.[br/][li] Protein identification and data validation using bioinformatic tools.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Proteomics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/170330",
+      "name":"Chiappe Diego"
+    },{
+      "url":"http://people.epfl.ch/169261",
+      "name":"Moniatte Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Date du cours: 29-31 octobre 2012 - plus de détails sur moodle",
+      "Prérequis":"1ère année de master SV",
+      "Forme d'enseignement":"Cours introduction ex-cathedra, TP en laboratoire incluant préparation échantillon, analyse MS et interprétation de résultats.                          ",
+      "Contenu":"Le cours est proposé sous la forme d'une alternance périodes de cours théoriques suivis par des exercices pratiques les illustrant.[br/][br/]Principaux points abordés :[br/][br/][li] Concepts fondamentaux de spectrométrie de masse appliquée à l'analyse de peptides et protéines.[br/][li] Stratégies d'identification et caractérisation de protéines à partir de données de masse.[br/][li] Une analyse en pratique (TP)[br/][li] Validation et interprétation de résultats[br/][li] Processus analytiques typique en protéomique et exemples d'application[br/][br/](Contenu détaillé voir version anglaise)[br/]",
+      "Forme du contrôle":"Examen écrit à la fin du module",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de fournir des connaissances basiques à la fois théoriques et pratiques sur l'application des techniques de spectrométrie de masse utilisées en protéomique appliquées à l'identification et à la caractérisation de protéines isolées et présentes dans des mixtures complexes."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Proteomics",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

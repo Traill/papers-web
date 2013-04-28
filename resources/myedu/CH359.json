@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129780770&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","359"],
+    "title":"Project of Computational chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129780770&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178464",
+      "name":"Corminboeuf Anne-Clémence"
+    },{
+      "url":"http://people.epfl.ch/150117",
+      "name":"Röthlisberger Ursula"
+    },{
+      "url":"http://people.epfl.ch/153498",
+      "name":"Tavernelli Ivano"
+    },{
+      "url":"http://people.epfl.ch/181577",
+      "name":"Vanicek Jiri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the theory and practical application of quantum chemical electronic structure and dynamics methods; and molecular modelling techniques.",
+      "Content":"Application of computational molecular modelling techniques in a practical research project."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Project of Computational chemistry",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178464",
+      "name":"Corminboeuf Anne-Clémence"
+    },{
+      "url":"http://people.epfl.ch/150117",
+      "name":"Röthlisberger Ursula"
+    },{
+      "url":"http://people.epfl.ch/153498",
+      "name":"Tavernelli Ivano"
+    },{
+      "url":"http://people.epfl.ch/181577",
+      "name":"Vanicek Jiri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Application des techniques computationelles pour la modélisation des systèmes moléculaires dans un projet de recherche.  ",
+      "Objectifs d'apprentissage":"Introduction à la théorie et les applications pratiques des méthodes de la structure électronique, de la dynamique chimique et des techniques de la modélisation moléculaire."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de chimie computationnelle",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

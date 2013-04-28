@@ -1,0 +1,62 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017215&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","621"],
+    "title":"Theory Gems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017215&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217799",
+      "name":"Madry Aleksander"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"In this course we will present a bird's-eye view of some of the most exciting developments in theoretical computer science, as well as, discuss their context and connections to other fields. Our focus will be mostly on more recent - and thus not as widely known yet - topics. [br/][br/]This course is targeted at all mathematically-inclined students that are curious about theoretical computer science - even if they do not plan to do research in this area.[br/]",
+      "Content":"The exact choice of covered topics will depend on student interest, but a set of possibilities includes:[br/][br/]1. Elements of theoretical machine learning (learning-from-expert-advice framework, multiplicative-weights-update method, perceptron algorithm, Adwords problem)[br/]2. Basics of game theory (zero-sum games, linear programming duality, Nash equillibria, price of anarchy)[br/]3. Random walks (Markov chains, random spanning trees, volume estimation, Pagerank)[br/]4. Spectral graph theory (graph Laplacian, Cheeger inequalities, expanders, spectral partitioning)[br/]5. Measure concentration and its applications (load balancing, Bloom filters, Johnson-Lindenstrauss lemma)[br/]6. Streaming algorithms[br/]7. Topics in modern cryptography (zero-knowledge proofs, homomorphic encryption)[br/]8. Elements of modern computational complexity (P=NP problem, PCP theorem, extractors)[br/]9. Semi-definite programming[br/]10. Basics of quantum computing[br/]",
+      "Keywords":"theoretical computer science",
+      "Required prior knowledge":"Mathematical maturity and basic algorithmic background.  Some experience with theoretical computer science beyond the introductory level (e.g., at the level of Advanced Algorithms) will be helpful, but it is not necessary. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Theory Gems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217799",
+      "name":"Madry Aleksander"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Theory Gems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  }
+}

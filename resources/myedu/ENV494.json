@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775782&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","494"],
+    "title":"ENAC project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775782&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-65810-fr.html","http://enac.epfl.ch/page-65810-fr.html"],["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"],["http://enac.epfl.ch/page-65810-fr.html","http://enac.epfl.ch/page-65810-fr.html"],["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Practical application and synthesis of the theoretical training within the scope of a project at the Master's level; this project can relate to the multi-subject problems pertaining to the ENAC field or to the various civil engineering applications.",
+      "Content":"Developments of study methodology, management and analyses of project data, problem structuring, comparative evaluation of project's alternatives and schemes.[br/]Study process structuring to allow synthetic information and communication of issues, results and proposals (complete report including executive summary, notes and all the documents required to present the study process and its results).[br/][br/][b]Organization:[/b][br/]The project theme is chosen by the student from a list compiled by members of the teaching staff. The student may also submit ideas for projects to the professor under whose guidance he will work.[br/]Multi-subject themes: guidance will be available not only from one of the department's professors but also from one or several professors from other departments, according to the subject chosen.[br/]Individual or team work for the students of the various departments of the ENAC Faculty within the framework of the \"planning together\" idea.[br/]Compulsory project or replaced by a laboratory or UE Architecture.[br/]",
+      "Prerequisite for":"Master project\t\t\t\t",
+      "Form of examination":"Reporting and oral presentation",
+      "Required prior knowledge":"ENAC week, ENAC Learning Unit, AR/SIE and GC courses at BA and MA level."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"ENAC project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":5,
+      "weeks":12
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-65810-fr.html","http://enac.epfl.ch/page-65810-fr.html"],["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"],["http://enac.epfl.ch/page-65810-fr.html","http://enac.epfl.ch/page-65810-fr.html"],["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"NB: Possibilité de soumettre le projet de semestre à différents prix (voir http://sac.epfl.ch), notamment au prix RUMBA (développement durable, voir http://rumba.epfl.ch/page-39818-fr.html).",
+      "Prérequis":"Semaine ENAC, UE ENAC. Cours dans les domaines AR, GC et/ou SIE du Bachelor et du Master.",
+      "Contenu":"Rechercher, organiser et interpréter les données multiples relatives à un projet ou un aspect déterminé d'un projet, structurer le jeu des hypothèses, esquisser des variantes et présenter, discuter et comparer explicitement des résultats.[br/]Accent mis sur la structuration et la clarté de la démarche, la formalisation des composants de l'étude ainsi que sur la présentation et la communication de la synthèse d'étude (rapport complet comprenant une synthèse, les développements et tous les documents nécessaires à la présentation de la démarche et de ses résultats).[br/][br/][b]Organisation:[/b][br/]Le thème du projet est choisi par l'étudiant dans une liste proposée par les enseignants. L'étudiant peut aussi soumettre une idée de projet à un professeur qui l'encadrera. [br/]Le recours à la codirection est l'un des buts du projet ENAC: l'encadrement comprendra, en plus du professeur de la section, un ou plusieurs professeurs d'autres sections, en fonction du sujet choisi.[br/]Travail individuel ou en groupe destiné aux étudiants des différentes sections de la faculté ENAC dans le cadre du «projeter ensemble».",
+      "Forme du contrôle":"Rendu du projet et présentation orale",
+      "Préparation pour":"Projet de Master",
+      "Objectifs d'apprentissage":"Mise en pratique et synthèse de la formation théorique dans le cas d'un projet de niveau Master. Ce projet traitera de problématiques interdisciplinaires ou transdisciplinaires relevant du domaine ENAC."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet ENAC",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":5,
+      "weeks":12
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

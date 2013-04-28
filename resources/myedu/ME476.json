@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234126307&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","476"],
+    "title":"Particle-based methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234126307&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106362",
+      "name":"Sawley Mark"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous evaluation by oral presentations and mini-project (written and oral)",
+      "Bibliography and material":"Course material is available on-line [br/](http://moodle.epfl.ch/course/view.php?id=10431)[br/]Various reference texts",
+      "Required prior knowledge":"[li]Numerical analysis[br/][li]Discretization methods (e.g. finite differences, finite elements)[br/][li]Fluid and/or solid mechanics[br/][li]Numerical simulation",
+      "Content":"Particle-based computational methods are being increasingly employed for solving a variety of problems in engineering and applied science. While such Lagrangian methods can yield significant advantages compared to traditional mesh-based methods, their accurate and efficient implementation also provides a number of challenges.[br/]This course presents the fundamental aspects of two methods:[br/][li] [i]Smoothed Particle Hydrodynamics (SPH) [/i] is used to resolve partial differential equations, generally for convection-dominated fluid flows, and is based on the interpolation of field quantities around discrete points that are free to move in space.[br/][li] [i]Discrete Element Method (DEM) [/i] is used for simulating granular and particulate flows and tracks particle motions and detects and models collisions between particles and with their environment.[br/]The course provides an introduction to these two methods and their domains of application (e.g. fluid and solid mechanics, computer graphics). The theoretical bases of each method, including specific aspects such as parallelization and visualization, are presented in introductory lectures. Following a literature search and private study, students give oral presentations on more advanced aspects. Exercises using open-source software and a mini-project provide practical experience in the application of these methods.",
+      "Keywords":"Numerical simulation, Fluid and granular flow, Smoothed particle hydrodynamics, Discrete element method",
+      "Type of teaching":"Lectures, literature review, analysis of scientific articles, practical numerical simulations, mini-project",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Describe the difference between the Eulerian and Lagrangian approaches, AH20[br/][li]Identify the different steps in a numerical simulation (e.g. geometry and mesh generation, computation, post-processing) and integrate all the essential basic concepts into a numerical flow simulation, AH23[br/][li]Describe different methods used to discretize differential equations, such as finite differences, finite elements, finite volumes, lattice Boltzmann, SPH, AH30[br/][li]Perform a numerical simulation with appropriate software; understand the limits of each software in terms of its application domain and accuracy of the results obtained, AH41[br/][b]Transversal skills:[/b][br/][li]Do a literature review and assess the state of the art, T4[br/][li]Summarize an article or a technical report, T5[br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7[br/][li]Document and communicate a project, T12[br/][li]Share knowledge and experience with peers, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Particle-based methods",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106362",
+      "name":"Sawley Mark"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Analyse numérique[br/][li]Méthodes de discrétisation (par ex. dif. finies, éléments finis) [br/][li]Mécanique des fluides et/ou solides[br/][li]Simulation numérique",
+      "Bibliographie et matériel":"Matériel disponible en ligne (http://moodle.epfl.ch/course/view.php?id=10431); divers ouvrages de référence",
+      "Mots clés":"Simulation numérique, Ecoulements fluide et granulaire, Smoothed particle hydrodynamics, Méthode des éléments discrets",
+      "Forme d'enseignement":"Cours ex-cathedra, revue de la littérature, analyse des articles scientifiques, simulations numériques, mini-projet",
+      "Contenu":"Des méthodes numériques basées sur des particules sont de plus en plus utilisées pour résoudre des problèmes en ingénierie et sciences appliquées. Bien que ces méthodes lagrangiennes peuvent fournir des avantages significatifs par rapport aux méthodes traditionnelles basées sur maillage, leur implémentation précise et efficace présente également un certain nombre de défis.[br/]Ce cours présente les fondements de deux méthodes :[br/][li] [i]Smoothed particle hydrodynamics (SPH) [/i]résout des équations aux dérivées partielles et est basée sur l'interpolation des valeurs autour de points discrets libres de se déplacer dans l'espace.[br/][li] [i]Méthode des éléments discrets (DEM) [/i]est utilisée pour simuler les écoulements granulaires ; elle suit le mouvement des particules et détecte les collisions entre les particules et avec leur environnement.[br/]Le cours offre une introduction à ces deux méthodes et leurs domaines d'application (par ex., mécanique des fluides et des solides, de l'infographie). Les fondements théoriques de chaque méthode sont présentés aux cours d'introduction. Les étudiants effectuent des présentations orales sur des aspects plus avancés. Des exercices à l'aide de logiciels open-source et un mini-projet apportent une expérience pratique sur l'application de ces méthodes.",
+      "Forme du contrôle":"Contrôle continu par présentations orales et mini-projet (écrit et oral)",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire les différences entre une approche eulérienne et lagrangienne, AH20[br/][li]Identifier les différentes étapes dans la simulation numérique (par ex. génération de géométrie et de maillage, calcul, post-traitement) et intégrer tous les concepts de base essentiels dans la simulation numérique d'un écoulement, AH23[br/][li]Décrire les différentes méthodes utilisées pour la discrétisation des équations différentielles, telles que différences finies, éléments finis, volumes finis, lattice Boltzmann, SPH, AH30[br/][li]Effectuer une simulation numérique avec des logiciels appropriés ; comprendre les limitations de chaque logiciel en termes de champ d'application et de précision des résultats, AH41[br/][b]Compétences transversales:[/b][br/][li]Réaliser une recherche bibliographique et une revue de l'état de l'art, T4[br/][li]Faire un résumé d'un article ou d'un document technique, T5[br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7[br/][li]Documenter et communiquer un projet, T12[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Particle-based methods",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

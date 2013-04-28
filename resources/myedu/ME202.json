@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776597&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","202"],
+    "title":"Mechanical systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776597&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100304",
+      "name":"Benoit Mathieu"
+    },{
+      "url":"http://people.epfl.ch/132574",
+      "name":"Kremer Daniel"
+    },{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"[li]Master vectors, kinematic, statics, geometry, trigonometry[br/][li]Master CAD and technology basis learned in ICM and Machine Eléments[br/][li]Master the mechanical characteristics of materials",
+      "Content":"- Notions of mechanics (rappels) : power, work, velocity, force and torque, efficiency[br/]- Transmission Eléments working with obstacle, application to liaisons arbre - pinion, coupling, velocity reduction, gear box, ... [br/]- Transmission Eléments working with adhesion or friction, application to puleys - courroies, brakes, clutches, ...[br/]- Characteristic curves of motors and receivers. Operating point of a motor-receiver system.",
+      "Keywords":"Mechanical system, Power Transmission, Functional, kinematic, static analysis, CAD, Fabrication",
+      "Type of teaching":"[li]Lectures[br/][li]Exercices",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]List the functions of an existing or new product based on the specifications, CP4[br/][li]Choose the main solutions and identify the respective components to fulfil one function, taking into account the performance, technology and price constraints, CP5[br/][li]Choose material and the relative treatments based on its use, performance and compatibility with the manufacturing process of the final product, CP13[br/][br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Form and motivate a team, T13"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mechanical systems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-052399-3&amp;con_lng=ENG\" target=\"blank\">Construction mécanique : transmission de puissance : [IUT, écoles d'ingénieurs] : [cours et exercices résolus] / Francis Esnault ; ouvrage dir. par Pierre Agati</a>\". Year:2009. ISBN:978-2-10-052399-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-09-160710-8&amp;con_lng=ENG\" target=\"blank\">Guide pratique des sciences et technologies industrielles : dessin industriel, éléments de construction, organisation - méthodes d'analyse, matériaux - automatisme - schématisation / Jean-Louis Fanchon</a>\". Year:2008. ISBN:978-2-09-160710-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7135-2325-7&amp;con_lng=ENG\" target=\"blank\">Mémotech plus : conception et dessin / Claude Barlier, René Bourgeois avec la participation de Lionel Girardin</a>\". Year:2003. ISBN:2-7135-2325-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-004162-2&amp;con_lng=ENG\" target=\"blank\">Systèmes mécaniques : théorie et dimensionnement / Michel Aublin ... [et al.]</a>\". Year:1998. ISBN:2-10-004162-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100304",
+      "name":"Benoit Mathieu"
+    },{
+      "url":"http://people.epfl.ch/132574",
+      "name":"Kremer Daniel"
+    },{
+      "url":"http://people.epfl.ch/106177",
+      "name":"Ramseyer Claude"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser le calcul vectoriel, la cinématique, la statique, la géométrie, la trigonométrie[br/][li]Maîtriser les bases de CAO et technologie acquises en ICM et Eléments de machines[br/][li]Maîtriser les caractéristiques mécaniques des matériaux",
+      "Bibliographie et matériel":"J.L. FANCHON : Guide des sciences et technologies industrielles, AFNOR-NATHAN[br/]F.ESNAULT : Construction Mécanique - Transmission de Puissance. 3 volumes. DUNOD[br/]D. KREMER : Compléments de cours",
+      "Mots clés":"Système Mécanique, Transmission de Puissance, Analyse fonctionnelle, cinématique, statique, CAO, Fabrication",
+      "Forme d'enseignement":"[li]Cours magistraux[br/][li]Exercices dirigés",
+      "Contenu":"- Notions de mécanique (rappels) : puissance, travail, vitesse, effort et couple, rendement[br/]- Eléments de transmission par obstacle, application aux liaisons arbre - pignon, accouplement, réducteur de vitesse, boite de vitesse, ... [br/]- Eléments de transmission par adhérence ou frottement, application aux poulies - courroies, freins, embrayages, ...[br/]- Courbes caractéristiques moteur et récepteur. Point de fonctionnement d'un ensemble moteur-récepteur[br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (conception de produit, processus de fabrication et de systèmes de production), CP1[br/][li]Rédiger à partir d'un cahier des charges la liste des fonctions d'un produit existant ou à concevoir, CP4[br/][li]Choisir des solutions de principe et identifier les composants correspondants en termes de performances, de technologie et de coût permettant de réaliser une fonction du cahier des charges, CP5[br/][li]Choisir un matériau et les traitements en fonction de son usage, de sa performance et son adéquation au mode de fabrication du produit final, CP13[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Composer une équipe, la motiver, T13"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes mécaniques",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-052399-3&amp;con_lng=FRE\" target=\"blank\">Construction mécanique : transmission de puissance : [IUT, écoles d'ingénieurs] : [cours et exercices résolus] / Francis Esnault ; ouvrage dir. par Pierre Agati</a>\". Année:2009. ISBN:978-2-10-052399-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-09-160710-8&amp;con_lng=FRE\" target=\"blank\">Guide pratique des sciences et technologies industrielles : dessin industriel, éléments de construction, organisation - méthodes d'analyse, matériaux - automatisme - schématisation / Jean-Louis Fanchon</a>\". Année:2008. ISBN:978-2-09-160710-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7135-2325-7&amp;con_lng=FRE\" target=\"blank\">Mémotech plus : conception et dessin / Claude Barlier, René Bourgeois avec la participation de Lionel Girardin</a>\". Année:2003. ISBN:2-7135-2325-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-004162-2&amp;con_lng=FRE\" target=\"blank\">Systèmes mécaniques : théorie et dimensionnement / Michel Aublin ... [et al.]</a>\". Année:1998. ISBN:2-10-004162-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

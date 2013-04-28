@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775502&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","312"],
+    "title":"Nuclear and particle physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775502&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/oschneid/","http://lphe.epfl.ch/oschneid/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162579",
+      "name":"Schneider Olivier"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"oral exam (100%)",
+      "Prerequisite for":"Advanced course of nuclear and particle physics",
+      "Required prior knowledge":"General physics. Quantum mechanics I, II",
+      "Content":"[b]Particle physics (continued):[/b][br/]Quark mixing. Neutrinos. Parity violation. Neutral kaons. CP violation.[br/][b]Introduction to nuclear physics:[/b][br/]Global properties of the atomic nucleus: size, mass, binding energy.[br/][b]Nuclear models:[/b][br/]Fermi gas model, binding energy and the nuclear mass formula.[br/]Single particle nuclear shell model, spin-orbit interaction, nuclear spin, dipole magnetic moment and quadrupole electric moment.[br/][b]Nuclear reactions:[/b][br/]Scattering and reactions, scattering formalism, partial wawes.[br/]Breit-Wigner resonances. Compound nucleus.[br/]Potential well and optical model.[br/][][br/][][br/]",
+      "Type of teaching":"Ex cathedra and exercises in classroom",
+      "Learning outcomes":"Introduction to particle physics (continued).[br/][br/]General introduction to nuclear physics: from bound states to scattering states."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Nuclear and particle physics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/oschneid/","http://lphe.epfl.ch/oschneid/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162579",
+      "name":"Schneider Olivier"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale. Physique quantique I, II",
+      "Bibliographie et matériel":"Polycopié, copie transparents, site web",
+      "Forme d'enseignement":"Ex cathedra et exercices en salle",
+      "Contenu":"[b]Physique corpusculaire (suite):[/b][br/]Mélange des quarks. Neutrinos. Violation de la parité. Kaons neutres. Violation de CP.[br/][b]Introduction à la physique nucléaire:[/b][br/]Propriétés globales du noyau atomique: taille, masse, énergie de liaison.[br/][b]Modèles nucléaires:[/b][br/]Modèle du gaz de Fermi, énergie de liaison et formule de la masse.[br/]Modèle en couches à nucléon célibataire, interaction spin-orbite, spins nucléaires, moment magnétique dipolaire et moment électrique quadripolaire.[br/][b]Réactions nucléaires:[/b][br/]Diffusion et réaction, formalisme de la diffusion, ondes partielles.[br/]Résonances de Breit-Wigner. Noyau composé.[br/]Puits de potentiel et modèle optique.",
+      "Forme du contrôle":"examen oral (100%)",
+      "Préparation pour":"Cours avancés de physique nucléaire et corpusculaire",
+      "Objectifs d'apprentissage":"Introduction à la physique des particules (suite).[br/][br/]Introduction générale à la physique nucléaire: des états liés à la diffusion."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique nucléaire et corpusculaire II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

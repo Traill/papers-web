@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776882&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","241"],
+    "title":"Chemical thermodynamics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776882&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Develop a solid basis of the thermodynamic theory and use it for chemical applications.",
+      "Content":"[b]1. First principle: work and heat[/b][br/]Fundamental variables of state, internal energy, closed and open systems. [br/][br/][b]2. Second principle: Entropy[/b][br/]Statistical (Boltzmann) and thermodynamic interpretation, reversible and irreversible processes, equilibrium state, heat engines (Carnot, Strirling). [br/][br/][br/][b]3. Auxiliary variables of state[/b][br/]Enthalpy, free enthalpy and free energy, their interpretation and usefulness. Fundamental equations and characteristic variables. Maxwell relations, chemical potential.[br/][br/][b]4. Treatment of mixture[/b][br/]Molar and partial molar quantities. [br/][br/][b]5. General treatment of chemical reactions[/b][br/]Extend of reaction, reaction variables (reaction enthalpy entropy and free enthalpy), standard state, heat of reaction, heat of formation of chemical compounds. [br/][br/][b]6. Thermodynamics of gases[/b][br/]Ideal and real gases, fugacity, state equations (Van der Waals equation, virial coefficients). Joule Thompson effect. [br/][br/][b]7. Chemical reactions in the gas phase[/b][br/]Mass action law, equilibrium constant, Kirchhoff's rule and Van t'Hoff equation.[br/][br/][b]8. Phase equilibria of pure compounds[/b][br/]Clausius-Clapeyron equation, phase diagram, supercritical state. [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chemical thermodynamics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58112-772-3&amp;con_lng=ENG\" target=\"blank\">The bases of chemical thermodynamics / Michael Graetzel, Pierre Infelta</a>\". Year:2000. ISBN:1-58112-772-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[b]1. Premier principe: travail & chaleur[/b][br/]Variables fondamentales d'état, énergie interne, systèmes fermés et ouverts[br/][br/][b]2. Deuxième principe: entropie[/b][br/]Interprétation statistique (Boltzmann) et thermodynamique. Processus réversibles et irréversibles, état d'équilibre, machines thermiques (Carnot, Stirling). [br/][br/][b]3. Variables d'état auxiliaires[/b] [br/]L'enthalpie, l'enthalpie libre, l'énergie libre, interprétation et utilité. Equation fondamentales et variables caractéristiques, relation de Maxwell, potentiel chimique. [br/][br/][b]4. Traitement des mélanges[/b][br/]Variables molaires et molaires partielles.[br/][br/][b]5. Traitement général des réactions chimiques[/b][br/]Degré d'avancement de réaction, variables de réaction (enthalpie, entropie et enthalpie libre de réaction), état standard, chaleur de réaction et de formation de produits chimiques. [br/][br/][b]6. Thermodynamique des gaz[/b][br/]Gaz parfaits et réels, fugacité, équations d'état, équation de Van der Waals, équation du viriel, effet de Joule Thompson.[br/][br/][b]7. Réactions chimiques en phase gazeuse[/b][br/]Loi d'action de masse, constante d'équilibre, règle de Kirchhoff et équation de Van t'Hoff. [br/][br/][b]8. Équilibre des phases d'un corps pur[/b][br/]Équation de Clausius-Clapeyron, Diagramme de phase, état supercritique.",
+      "Préparation pour":"\"Thermodynamique chimique II\"",
+      "Bibliographie et matériel":"\"The Bases of Chemical Thermodynamics  Vol I.\", M. Graetzel & P. Infelta",
+      "Objectifs d'apprentissage":"Développer des bases solides de la théorie thermodynamique et voir leurs applications chimiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Thermodynamique chimique I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58112-772-3&amp;con_lng=FRE\" target=\"blank\">The bases of chemical thermodynamics / Michael Graetzel, Pierre Infelta</a>\". Année:2000. ISBN:1-58112-772-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

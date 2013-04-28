@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513576172&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","110(e)"],
+    "title":"Computer-aided engineering (for CGC)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513576172&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=en",
+    "section":"CGC",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/102370",
+      "name":"Lindelöf David"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computer-aided engineering (for CGC)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/102370",
+      "name":"Lindelöf David"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Informatique (pour CGC)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

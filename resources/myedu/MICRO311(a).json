@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776312&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","311(a)"],
+    "title":"Signals and systems II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776312&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/signalsystem_mt.html"," http://bigwww.epfl.ch/teaching/courses/signalsystem_mt.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction of the basic concepts and mathematical tools for the characterization of signals, and for the analysis and design of linear systems (filters or transmission channels). Application of these techniques to signal processing and communications.  [br/]The first semester is devoted to the continuous-time formulation, while the second one focuses on discrete-time signals and digital systems.[br/][br/]",
+      "Content":"[b]Signals and systems I + II[/b][br/]1.\tIntroduction. Fundamental notions. Structure of a communication system[br/]2.\tTime-domain analysis of linear, continuous-time systems. Convolution[br/]3.\tSignal representation by Fourier series.Orthogonal transforms.[br/]4.\tFourier transform[br/]5.\tFrequency analysis of continuous-time systems. Filtering. Sampling.[br/]6.\tApplication to communications[br/]7.\tAnalysis and synthesis of analog filters[br/]8.\tDiscrete signals and systems. Discrete convolution. z-transform[br/]9.\tTime-domain analysis of discrete signals[br/]10.\tDiscrete-time Fourier transform. FFT[br/]11.\tFrequency analysis of discrete systems[br/]12.\tStatistical properties of signals[br/]13.\tSource and channel coding of signals[br/]14.\tDigital communications",
+      "Note":"Two semesters course"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Signals and systems II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/signalsystem_mt.html"," http://bigwww.epfl.ch/teaching/courses/signalsystem_mt.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Cours sur 2 semestres",
+      "Prérequis":"Blocs 1 et 2",
+      "Bibliographie et matériel":"Cours polycopié Signaux et systèmes I et II (édité par l'EPFL)",
+      "Forme d'enseignement":"Exposé oral, exercices dirigés et répétitions",
+      "Contenu":"[b]Cours Signaux et Systèmes I et II:[/b][br/]1.\tIntroduction. Notions fondamentales. Structure d'un système de communication.[br/]2.\tSystèmes analogiques linéaires : analyse temporelle. Convolution. [br/]3.\tReprésentation de signaux par séries de Fourier.[br/]4.\tTransformation de Fourier.[br/]5.\tAnalyse fréquentielle des systèmes analogiques. Filtrage. Echantillonnage.[br/]6.\tApplication aux télécommunications.[br/]7.\tAnalyse et synthèse des filtres analogiques.[br/]8.\tSignaux et systèmes discrets. Convolution discrète. Transformée en z.[br/]9.\tAnalyse temporelle des signaux discrets.[br/]10.\tTransformation de Fourier discrète. FFT.[br/]11.\tAnalyse fréquentielle des systèmes discrets.[br/]12.\tPropriétés statistiques des signaux.[br/]13.\tEncodage de signaux.[br/]14.\tCommunications numériques. ",
+      "Préparation pour":"Traitement d'images I et II ",
+      "Objectifs d'apprentissage":"Présentation des concepts et des outils de base pour la caractérisation des signaux ainsi que pour l'analyse et la synthèse des systèmes linéaires (filtres ou canaux de transmission). Application de ces techniques au traitement du signal et aux télécommunications. Le premier semestre est consacré à l'étude des signaux et systèmes en temps continu, tandis que le second  se concentre sur les signaux discrets et les systèmes de traitement numériques. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Signaux et systèmes II (pour MT)",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

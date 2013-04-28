@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239731781&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","617"],
+    "title":"High pressure in chemical kinetics and equilibria",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239731781&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123171",
+      "name":"Laurenczy Gabor"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To familiarise the students with the theory and the practice of the high pressure chemistry, working up to 2000 bar pressure. Working with pressuriseg gases. [br/]",
+      "Content":"Introduction[br/]Pressure effect on chemical kinetics[br/]Pressure effect on chemical equilibria[br/]High pressure UV-Vis spectrophotometry[br/]High pressure FT-IR spectroscopy[br/]High pressure stopped-flow method[br/]Working with pressurised gases[br/]Medium pressure NMR measurements[br/]",
+      "Keywords":"high pressure, pressure effect, high pressure gases, activation volume, reaction volume[br/]",
+      "Note":"Max. 8 participants possible[br/]",
+      "Required prior knowledge":"Basic knowlwdge on chemical kinetics and equilibria[br/]"
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"High pressure in chemical kinetics and equilibria",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123171",
+      "name":"Laurenczy Gabor"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Max. 8 participants possible",
+      "Contenu":"Introduction[br/]Pressure effect on chemical kinetics[br/]Pressure effect on chemical equilibria[br/]High pressure UV-Vis spectrophotometry[br/]High pressure FT-IR spectroscopy[br/]High pressure stopped-flow method[br/]Working with pressurised gases[br/]Medium pressure NMR measurements[br/]",
+      "Mots clés":"high pressure, pressure effect, high pressure gases, activation volume, reaction volume[br/]",
+      "Prérequis":"Basic knowlwdge on chemical kinetics and equilibria[br/]",
+      "Objectifs d'apprentissage":"To familiarise the students with the theory and the practice of the high pressure chemistry, working up to 2000 bar pressure. Working with pressuriseg gases. [br/]"
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"High pressure in chemical kinetics and equilibria",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

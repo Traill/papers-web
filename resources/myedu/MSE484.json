@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128687206&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","484"],
+    "title":"Semiconductor materials and properties, from the bulk to the nanostructure",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128687206&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"In this course we will develop the concept of semiconductor materials with low dimensionality, as well as its role in today's and future electronic and optoelectronic applications. [br/]We will relate the fundamental properties of bulk semiconductors with those of semiconductors whose dimensionality has been reduced. [br/][br/][br/]",
+      "Content":"We will discuss the relation between the size and the fundamental properties of semiconductor materials. We will as well relate the added functionality related to the low dimensionality with the technological applications.[br/]1.\tIntroduction[br/]2.\tBasic concepts of bulk semiconductors[br/]3.\tFabrication and synthesis techniques[br/]-\tTop-down versus bottom-up[br/]-\tTop-down fabrication techniques[br/]-\tBottom-up synthesis techniques from the vapor phase (MBE,CVD...)[br/]4.\tElectronic transport properties of low dimensional semiconductors[br/]5.\tOptical properties of low dimensional semiconductors[br/]6.\tApplications[br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises sessions",
+      "Prerequisite for":"Semester project, master, PhD thesis",
+      "Required prior knowledge":"Knowledge in chemistry, physics, materials"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Semiconductor materials and properties, from the bulk to the nanostructure",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Connaissances en chimie, physique et materiaux",
+      "Bibliographie et matériel":"Notes de cours et copies d'articles",
+      "Forme d'enseignement":"Ex cathedra et séances d'exercices",
+      "Contenu":"Nous discuterons la relation entre la taille et les propriétés fondamentales des matériaux semiconducteurs. Nous voulons mettre en relation les fonctionnalités liées à la basse dimensionnalité avec des applications dans les technologies actuelles.[br/]1. Introduction [br/]2. Concepts basiques des matériaux semiconducteurs en volume[br/]3. Techniques de fabrication, synthèse[br/]- Top-down versus bottom up[br/]- Méthodes de fabrication top-down[br/]- Méthodes de synthese bottom-up à partir de la phase vapeur (MBE, CVD...)[br/]4. Propriétés de transport électronique dans des semiconducteurs à basse dimensionnalité[br/]5. Propriétés optiques dans des semiconducteurs à basse dimensionnalité[br/]6. Applications[br/]",
+      "Préparation pour":"Projet de semestre, master, doctorat",
+      "Objectifs d'apprentissage":"Dans ce cours, nous allons développer le concept des semiconducteurs à basse dimensionnalité, ainsi que leur rôle dans des applications actuelles et futures dans l'électronique et optoélectronique. [br/]Nous allons relier les propriétés fondamentales des semiconducteurs en volume avec les propriétés des semiconducteurs lorsqu'ils sont réduits à l'échelle nanométrique. [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Semiconductor materials and properties, from the bulk to the nanostructure",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

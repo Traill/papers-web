@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775652&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","236"],
+    "title":"Probabilities and statistics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775652&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151741",
+      "name":"Goldstein Darlène"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course introduces the students to the basics of the calculus of probabilities, statistical modeling and the planning and the analysis of experiments.",
+      "Content":"- Simple linear regression, the least squares method[br/]- Student's model[br/]- Student's interval and test for the regression parameter[br/]- Linear prediction of a random variable via another random variable[br/]- Pearson's chi-squared test (X2-test): [i]p[/i]-values[br/]- The likelihood functions and the likelihood ratio, the maximum likelihood estimator[br/]- Fisher information[br/]- Multiple regression: matrix formulation and least squares estimator[br/]- Properties of the least squares estimator[br/]- The F test for comparing models, model selection and model diagnosis[br/]- Comparing several samples, one-way ANOVA[br/]- Experiments with two factors, two-way ANOVA[br/]- Interactions and replication of experiments[br/]- Complex experimental strategies: several factors using a complete plan, randomized blocks",
+      "Type of teaching":"Classroom teaching and exercise groups",
+      "Prerequisite for":"Use of statistics in research and in other courses"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilities and statistics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-734-3&amp;con_lng=ENG\" target=\"blank\">Introduction à la statistique / Stephan Morgenthaler</a>\". Year:2007. ISBN:978-2-88074-734-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-287-59678-X&amp;con_lng=ENG\" target=\"blank\">Premiers pas en statistique / Yadolah Dodge</a>\". Year:1999. ISBN:2-287-59678-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151741",
+      "name":"Goldstein Darlène"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Enseignement en classe et exercices en groupes",
+      "Contenu":"- Régression linéaire simple, méthode des moindres carrés[br/]- Modèle de Student[br/]- L'intervalle de Student et le test pour le paramètre de régression[br/]- Prévision linéaire d'une variable aléatoire par une autre v.a.[br/]- La densité conjointe de deux v.a. discrètes, densités marginales et conditionnelles[br/]- Le test khi-deux (X2) de Pearson : [i]p[/i]-valeurs[br/]- La fonction de la vraisemblance et le rapport de vraisemblances, l'estimateur du maximum de la vraisemblance[br/]- Information de Fisher[br/]- Régression multiple : formulation matricielle et estimateur des moindres carrés[br/]- Propriétés de l'estimateur des moindres carrés[br/]- Test F pour comparer deux modèles, sélection de variables, critiquer un modèle[br/]- Comparer plusieurs échantillons, l'ANOVA à une voie[br/]- Expériences à deux facteurs, l'ANOVA à deux voies[br/]- Interactions entre facteurs et répétitions d'expériences[br/]- Plans d'expériences complexe : plan complet à plusieurs facteurs, blocs randomisés",
+      "Préparation pour":"L'utilisation de la statistique dans la recherche et dans d'autres cours",
+      "Bibliographie et matériel":"Yadolah Dodge. Premiers pas en statistique. Springer, 1999.[br/]Stephan Morgenthaler. Introduction à la statistique. PPUR, 2007.",
+      "Objectifs d'apprentissage":"Le cours offre une introduction aux notions de base du calcul des probabilités, à la modélisation statistique et à la planification et l'analyse d'expériences."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilités et statistique II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-734-3&amp;con_lng=FRE\" target=\"blank\">Introduction à la statistique / Stephan Morgenthaler</a>\". Année:2007. ISBN:978-2-88074-734-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-287-59678-X&amp;con_lng=FRE\" target=\"blank\">Premiers pas en statistique / Yadolah Dodge</a>\". Année:1999. ISBN:2-287-59678-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

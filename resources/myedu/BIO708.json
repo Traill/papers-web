@@ -1,0 +1,61 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2992059&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","708"],
+    "title":"Topics in computational neuroscience (EDNE)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2992059&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDNE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111732",
+      "name":"Gerstner Wulfram"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Critical discussion of current research in computational neuroscience. The aim is to achieve a level of competence where students can understand and critically evaluate current research results.",
+      "Content":"This course covers current problems in computational neuroscience. During each session, a hot research topic will be introduced by an external speaker who has significantly contributed  to the research in that area. For the exam, the student can choose 5 topics out of the list of topics in a semester.[br/]Examples are: neuron models, system level models"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in computational neuroscience (EDNE)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111732",
+      "name":"Gerstner Wulfram"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[br/]This course covers current problems in computational neuroscience. During each session, a hot research topic will be introduced by an external speaker who has significantly contributed  to the research in that area. For the exam, the student can choose 5 topics out of the list of topics in a semester.[br/][br/]Examples are: neuron models, system level models",
+      "Objectifs d'apprentissage":"[br/]Critical discussion of current research in computational neuroscience. The aim is to achieve a level of competence where students can understand and critically evaluate current research results."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in computational neuroscience (EDNE)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

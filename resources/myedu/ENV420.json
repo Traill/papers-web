@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44988934&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","420"],
+    "title":"Bio-engineering for rivers and natural systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44988934&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105603",
+      "name":"Lachat Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to bioengineering, restoration and revitalization and using living plants as building material. Knowledge of the basic techniques and the methods of implementation. Acquisition and comprehension of the principal ecological processes and their interactions intervening within bioengineerings in watercourses. Definition of the bases for a good project. How to organize a work: planification and costs.[br/]",
+      "Content":"[li]Roles and interest of the riparian vegetation[br/][li]Bioengineerings: aim, historical, definitions, base, principles, advantages and limits[br/][li]Technical aspects: process of intervention, diagnosis and dimensioning, detail of the techniques, costs, causes of failure and conditions of success[br/][li]How and why to use geotextiles ?[br/][li]Principles of revitalization/restoration of watercourses and of other natural systems[br/][li]Field approach: local, botanical and human factors[br/][li]Analyzing causes of the problems. Natural and logical philosophy of intervention[br/][li]Project: ecosystemic and administrative approach of work of bioingening[br/][li]Examples of projects: analysis and field trips on:[br/][i]- Little, medium and large watercourses, torrents, large and tidal rivers[br/]- Road, highway and railway slopes[br/]- Ponds, basins[/i][br/]",
+      "Type of teaching":"Lecture ex cathedra, exercises and (if possible) visits of constructed and in construction structures",
+      "Form of examination":"Written test (120 min) during the exam session",
+      "Required prior knowledge":"River eco-morphology"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Bio-engineering for rivers and natural systems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105603",
+      "name":"Lachat Bernard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Écomorphologie fluviale",
+      "Bibliographie et matériel":"Polycopié et autres supports de cours",
+      "Forme d'enseignement":"Cours ex cathedra, exercices et (si possible) visites d'ouvrages construits et en construction.",
+      "Contenu":"[li]Rôles et intérêt de la végétation riveraine[br/][li]Le génie végétal: but, historique, définitions, fondement, principes, avantages et limites[br/][li]Les techniques du génie végétal: démarche d'intervention, diagnostic et dimensionnement, détail des techniques, coûts, causes d'échec et conditions de réussite[br/][li]Quand, pourquoi et comment utiliser les géotextiles ?[br/][li]Principes de la renaturation/restauration des cours d'eau et d'autres systèmes naturels[br/][li]Approche de terrain: appréhension des facteurs stationnels/botaniques/humains[br/][li]Analyse des causes des problèmes et hiérarchisation[br/][li]Le projet: approche écosystémique et administrative des travaux de bioingénierie.[br/][li]Exemples de réalisations: analyse et visites sur:[br/][i]- Petits, moyens et grands cours d'eau, torrents et fleuves.[br/]- Talus routiers et chemins de fer[br/]- Bassins techniques, étangs naturels, etc.[/i]",
+      "Forme du contrôle":"Epreuve écrite de 120 min durant la session d'examen",
+      "Objectifs d'apprentissage":"Introduction au génie biologique, à la revitalisation et à l'utilisation des plantes vivantes comme matériau de construction. Connaissance des techniques de base et des méthodes de mise en oeuvre. Acquisition et compréhension des principaux processus écologiques et leurs interactions intervenant dans le cadre de la bio-ingénierie des cours d'eau. Définition des bases d'un bon projet. Dimensionnement d'ouvrage. Mise en soumission des travaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Bio-ingénierie des cours d'eau et des systèmes naturels",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

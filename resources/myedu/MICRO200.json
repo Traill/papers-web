@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772757&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","200"],
+    "title":"Microengineering components I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772757&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101874",
+      "name":"Henein Simon Nessim"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The students will be able to : [br/][li]Design the mechanisms of a microengineering  system that fulfill the given functions.  [br/][li]Dimension the components (standard or specific to the construction).[br/][li]Represent the concepts by using construction and detailed drawings. [br/]",
+      "Content":"[br/][li]The most current [b]materials[/b] used in microengineering and their characteristics according to the functions to be filled, fabrication and treatments. [br/][li][b]Friction[/b] theory and applications.[br/][li][b]Guidance[/b]: General overview and principles. Technologies used and dimensioning methods.[br/][li]Permanent, temporary [b]couplings[/b] and with limited torque.[br/][li]Movement and torque [b]transmissions[/b] (friction, belt, gears, chain): General principles. Used technologies and dimensional methods.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Microengineering components I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-905430-04-5&amp;con_lng=ENG\" target=\"blank\">Extrait de normes pour écoles et professions de la mécanique / éd. par la Société suisse des constructeurs de machines</a>\". Year:2002. ISBN:3-905430-04-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101874",
+      "name":"Henein Simon Nessim"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Eléments de construction et DAO, Introduction à la science des matériaux",
+      "Bibliographie et matériel":"Polycopié \"Composants de la microtechnique\", Extrait de Normes, Doc. de fournisseurs",
+      "Forme d'enseignement":"Exposé oral de la théorie + exemples traités",
+      "Contenu":"[br/][li][b]Matériaux[/b] les plus courants en microtechnique, caractéristiques au vu des fonctions à remplir, fabrication, traitements.[br/][li]Théorie et applications relatives au [b]frottement[/b].[br/][li][b]Guidages[/b]: Principes généraux. Technologies utilisées et méthodes de dimensionnement.[br/][li][b]Accouplements[/b] permanents, temporaires et avec couple limité.[br/][li][b]Transmission[/b] de mouvement et de couple (friction, courroie, chaîne, engrenages): Principes généraux. Technologies utilisées et méthodes de dimensionnement.",
+      "Forme du contrôle":"Test écrit à la fin du semestre d'automne : le résultat de ce test sera combiné avec le résultat du projet effectué dans le cadre de \"Composants de la microtechnique II\" au semestre de printemps. Le poids du test sera de 25%.",
+      "Préparation pour":"Composants de la Microtechnique II, Conception de produits, Bases de la robotique, Robotique industrielle et appliquée",
+      "Objectifs d'apprentissage":"Les étudiants seront capables de :[br/][li]Concevoir les mécanismes d'un système microtechnique répondant à des fonctions données. [br/][li]Dimensionner les composants (standards ou spécifiques à la construction).[br/][li]Représenter les concepts sous la forme de dessins de construction et de détails."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Composants de la microtechnique I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-905430-04-5&amp;con_lng=FRE\" target=\"blank\">Extrait de normes pour écoles et professions de la mécanique / éd. par la Société suisse des constructeurs de machines</a>\". Année:2002. ISBN:3-905430-04-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

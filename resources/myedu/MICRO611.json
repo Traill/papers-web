@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240587750&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","611"],
+    "title":"Nanoscale MOSFETs and beyond CMOS devices",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240587750&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] Comprehension of ultimate limitations of silicon CMOS devices: physical and technological[br/][li] Understanding of the deep sub-micron (<70nm) innovative CMOS architectures and their limitations[br/][li] Understanding the operation and technology of silicon multi-gate and nanowire MOSFETs devices[br/][li] Apprehend the orthodox theory for few-electron devices: single electron transistor and single electron memory[br/][li] Understand the physics of small swing switches: IMOS, Tunnel FET, electro-mechanical transistors for low power[br/][li] Learn about the promise, opportunities and challenges of carbon electronics for beyond CMOS",
+      "Content":"(1) Nanoscale CMOS technologies, technology boosters and potential showstoppers[br/][br/](2) Phenomena specific to deep submicron devices:[br/][li]non-stationary phenomena (velocity overshoot)[br/][li]ballistic transport[br/][li]quantum effects[br/][li]atomic scale parameter fluctuation (fluctuation of number of dopants, interface roughness)[br/][br/](3) Emerging multi-gate device architectures: Double-gate MOS transistor -DGMOS, nanowire gate-all-around transistor, vertical MOS transistors, 3D stacked multigate nanowire transistors[br/][br/](4) Single Electronics :[br/][li]Single Electron Transistor SET: orthodox theory, fabrication and modeling[br/][li]SET logic circuits[br/][li]Analog and metrology applications of SETs [br/][li]Single electron memories; principle and fabrication[br/][li]SET-CMOS hybrid devices and circuits[br/][br/](5) Beyond CMOS small swing switches for low standby power integrated circuits: impact ionization MOS, tunnel FETs, nano-electro-mechanical devices[br/][br/](6) Emerging non-volatile memories: phase change memory, spin based memories,  ferroelectric memory, polymer memory[br/][br/](7) Carbon electronics: carbon nanotubes and graphene transistors as new material options for high performance logic circuits.[br/]",
+      "Keywords":"Nanoscale MOSFET, beyond CMOS device, single electronics[br/]",
+      "Required prior knowledge":"Basic engineering courses in math, physics or material science[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanoscale MOSFETs and beyond CMOS devices",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122431",
+      "name":"Ionescu Mihai Adrian"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"(1) Nanoscale CMOS technologies, technology boosters and potential showstoppers[br/][br/](2) Phenomena specific to deep submicron devices:[br/][li]non-stationary phenomena (velocity overshoot)[br/][li]ballistic transport[br/][li]quantum effects[br/][li]atomic scale parameter fluctuation (fluctuation of number of dopants, interface roughness)[br/][br/](3) Emerging multi-gate device architectures: Double-gate MOS transistor -DGMOS, nanowire gate-all-around transistor, vertical MOS transistors, 3D stacked multigate nanowire transistors[br/][br/](4) Single Electronics :[br/][li]Single Electron Transistor SET: orthodox theory, fabrication and modeling[br/][li]SET logic circuits[br/][li]Analog and metrology applications of SETs [br/][li]Single electron memories; principle and fabrication[br/][li]SET-CMOS hybrid devices and circuits[br/][br/](5) Beyond CMOS small swing switches for low standby power integrated circuits: impact ionization MOS, tunnel FETs, nano-electro-mechanical devices[br/][br/](6) Emerging non-volatile memories: phase change memory, spin based memories,  ferroelectric memory, polymer memory[br/][br/](7) Carbon electronics: carbon nanotubes and graphene transistors as new material options for high performance logic circuits.[br/]",
+      "Mots clés":"Nanoscale MOSFET, beyond CMOS device, single electronics",
+      "Prérequis":"Basic engineering courses in math, physics or material science",
+      "Objectifs d'apprentissage":"[li] Comprehension of ultimate limitations of silicon CMOS devices: physical and technological[br/][li] Understanding of the deep sub-micron (<70nm) innovative CMOS architectures and their limitations[br/][li] Understanding the operation and technology of silicon multi-gate and nanowire MOSFETs devices[br/][li] Apprehend the orthodox theory for few-electron devices: single electron transistor and single electron memory[br/][li] Understand the physics of small swing switches: IMOS, Tunnel FET, electro-mechanical transistors for low power[br/][li] Learn about the promise, opportunities and challenges of carbon electronics for beyond CMOS"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanoscale MOSFETs and beyond CMOS devices",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

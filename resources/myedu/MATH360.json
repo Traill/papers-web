@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128314283&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","360"],
+    "title":"Graph theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128314283&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183120",
+      "name":"Pach János"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To introduce the basic concepts and results of modern Graph Theory with special emphasis on those topics and techniques that have proved to be applicable in theoretical computer science and in practice during the past forty years. Many open problems will be mentioned.[br/][br/]",
+      "Content":"1. Matchings[br/]2. Connectivity[br/]3. Planarity[br/]4. Coloring[br/]5. Flows in Networks[br/]6. Extremal Graph Theory[br/]7. Ramsey Theory[br/]8. Minors[br/]9. Random Graphs[br/]",
+      "Bibliography and material":"Diestel : Graph Theory (Springer),[br/]Bollobas : Modern Graph Theory (Springer).",
+      "Form of examination":"WRITTEN EXAM[br/]",
+      "Required prior knowledge":"Mandatory for IN/SC: Analyse III, Physique générale I, Physique générale II, Probability and statistics[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Graph theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-14278-9&amp;con_lng=ENG\" target=\"blank\">Graph theory / Reinhard Diestel</a>\". Year:2010. ISBN:978-3-642-14278-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98491-7&amp;con_lng=ENG\" target=\"blank\">Modern graph theory / Béla Bollobás</a>\". Year:1998. ISBN:0-387-98491-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183120",
+      "name":"Pach János"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"1. Couplage[br/]2. Connectivité[br/]3. Planarité[br/]4. Coloration[br/]5. Flots dans les réseaux[br/]6. Théorie des graphes extrémaux[br/]7. Théorie de Ramsey[br/]8. Mineurs[br/]9. Graphes aléatoires[br/]",
+      "Forme du contrôle":"EXAMEN ECRIT[br/]",
+      "Prérequis":"Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"Diestel : Graph Theory (Springer).[br/]Bollobas : Modern Graph Theory (Springer).",
+      "Objectifs d'apprentissage":"Introduire les concepts de base de certains résultats de la théorie moderne des graphes avec un accent spécial sur certains aspects et certaines techniques qui ont montré leur applicabilité dans la théorie des sciences computationnelles et dans des cas pratiques durant les 40 dernières années. De nombreux problèmes ouverts seront abordés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Graph theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-14278-9&amp;con_lng=FRE\" target=\"blank\">Graph theory / Reinhard Diestel</a>\". Année:2010. ISBN:978-3-642-14278-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98491-7&amp;con_lng=FRE\" target=\"blank\">Modern graph theory / Béla Bollobás</a>\". Année:1998. ISBN:0-387-98491-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

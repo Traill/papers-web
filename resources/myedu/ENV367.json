@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23985449&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","367"],
+    "title":"Environmental and construction law and Right of construction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23985449&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112696",
+      "name":"Romy Isabelle"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Two written test (60 min each) during the semester",
+      "Bibliography and material":"Handout, Legal texts, exercices",
+      "Required prior knowledge":"Introduction to law (ENAC week)",
+      "Content":"[li]General Introduction to Swiss law[br/][li]Land use planning and building law[br/][li]Principles of Swiss environmental law and aspects of international environmental law[br/][li]Nuisance prevention and control (air pollution, noise)[br/][li]Protection of soils[br/][li]Disposal of wastes[br/][li]Remediation of contaminated sites[br/][li]Regulations on water protection[br/][li]Enforcement of environmental protection law in construction projects; coordination; impact assessment study[br/][br/]",
+      "Type of teaching":"Interactive courses with exercices",
+      "Learning outcomes":"This course provides the students with the basic knowledge required to understand the legal aspects of their professional life in relation with  spatial planning and environmental protection, in particular soils and waters protection. Special emphasis is given to legal practical issues related to their profession.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Environmental and construction law and Right of construction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112696",
+      "name":"Romy Isabelle"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction au droit (Semaine ENAC)",
+      "Bibliographie et matériel":"Polycopié; textes législatifs; cas pratiques distribués au cours",
+      "Forme d'enseignement":"Cours interactif avec exercices",
+      "Contenu":"[li]Introduction générale au droit suisse [br/][li]L'aménagement du territoire et la police des constructions[br/][li]Principes généraux du droit suisse de l'environnement et aspects de droit international[br/][li]La protection contre les immissions (pollution de l'air, bruit)[br/][li]La protection des sols[br/][li]La gestion des déchets[br/][li]Les sites contaminés[br/][li]La réglementation en matière de protection des eaux[br/][li]Mise en oeuvre du droit de l'environnement dans les projets de construction; coordination; mécanismes de l'étude d'impact[br/][br/]",
+      "Forme du contrôle":"Deux contrôles écrits de 60 min durant le semestre",
+      "Objectifs d'apprentissage":"Ce cours donne aux étudiant-e-s les connaissances de base nécessaires pour comprendre les dimensions juridiques de leur activité professionnelle en relation avec l'aménagement du territoire et la protection de l'environnement, notamment dans les domaines des sols et des eaux. Il les sensibilise aux problèmes juridiques pratiques liés à l'exercice de leur profession.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Législation environnementale et droit de la construction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

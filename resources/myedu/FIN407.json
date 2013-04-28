@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=130130688&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","407"],
+    "title":"Financial Econometrics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=130130688&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192002",
+      "name":"Jondeau Eric"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Homework, Midterm and Final exams are close-book, close-note. Penalty for late submission of homework: 10% per day. ",
+      "Form of examination":"40% Homework[br/]20% Midterm Exam[br/]40% Final Exam",
+      "Bibliography and material":"Reference textbooks are:[br/]Campbell, J. Y., A. W. Lo, and A. C. MacKinlay (1997), The Econometrics of Financial Markets, Princeton University Press. Covers topics in the first part of the course.[br/]Jondeau, E., S.-H. Poon, and M. Rockinger (2006), Financial Modeling Under Non-Normality, Springer Finance. It is an advanced text book for both parts of course.",
+      "Prerequisite for":"Advanced topics in financial econometrics",
+      "Required prior knowledge":"Econometrics[br/]Introduction to finance",
+      "Content":"The following topics will be covered:[br/]1. Characteristics of financial time series[br/]2. CAPM[br/]3. Multi-factor models[br/]4. Univariate Time Series Analysis[br/]5. Efficient markets hypothesis[br/]6. Multivariate Time Series Analysis[br/]7. Modeling volatility: ARCH models[br/]8. Modeling volatility: GARCH models and extensions[br/]9. Modeling non-normality[br/]10. Extreme value theory[br/]11. Modeling correlation[br/]12. Copula models[br/]13. Risk management and portfolio management[br/]",
+      "Keywords":"Econometrics, Empirical Finance. ",
+      "Type of teaching":"Lectures, exercises (homework), midterm and final examinations",
+      "Learning outcomes":"The aim of the course is to provide a comprehensive knowledge of the econometric tools that are essential to estimate financial models, for asset pricing, asset management, or risk management. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial Econometrics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-84628-419-9&amp;con_lng=ENG\" target=\"blank\">Financial modeling under non-gaussian distributions / Eric Jondeau, Michael Rockinger, Ser-Huang Poon</a>\". Year:2007. ISBN:978-1-84628-419-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-691-04301-2&amp;con_lng=ENG\" target=\"blank\">The econometrics of financial markets / John Y. Campbell, Andrew Wen-Chuan Lo, Archie Craig MacKinlay</a>\". Year:1997. ISBN:978-0-691-04301-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192002",
+      "name":"Jondeau Eric"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Exercices et examens sont sans livre et sans notes. La note des exercices sera diminuée de 10% pour chaque jour de retard. ",
+      "Prérequis":"Econometrics[br/]Introduction to finance",
+      "Bibliographie et matériel":"Livres de référence:[br/]Campbell, J. Y., A. W. Lo, and A. C. MacKinlay (1997), The Econometrics of Financial Markets, Princeton University Press. Covers topics in the first part of the course.[br/]Jondeau, E., S.-H. Poon, and M. Rockinger (2006), Financial Modeling Under Non-Normality, Springer Finance. It is an advanced text book for both parts of course.",
+      "Mots clés":"Econométrie, finance empirique. ",
+      "Forme d'enseignement":"Cours, exercices (à la maison), examens intermédiaire et final",
+      "Contenu":"Les sujets suivants seront couverts:[br/]1. Caractéristiques des séries temporelles financières[br/]2. CAPM[br/]3. Modèles multi-factoriels[br/]4. Séries temporelles univariées[br/]5. Hypothèse d'efficience des marchés[br/]6. Séries temporelles multivariées[br/]7. Modélisation de la volatilité: modèles ARCH[br/]8. Modélisation de la volatilité: modèles GARCH et extensions[br/]9. Modélisation de la non-normalité[br/]10. Théorie des valeurs extrêmes[br/]11. Modélisation de la corrélation[br/]12. Copula[br/]13. Gestion du risque et gestion du portefeuille[br/]",
+      "Forme du contrôle":"40% Devoirs à la maison[br/]20% Examen intermédiaire[br/]40% Examen final",
+      "Préparation pour":"Advanced topics in financial econometrics",
+      "Objectifs d'apprentissage":"L'objectif du cours est d'enseigner les outils économétriques essentiels pour l'estimation des modèles financiers, utilisés pour l'évaluation d'actifs, la gestion d'actifs ou la gestion des risques. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial Econometrics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-84628-419-9&amp;con_lng=FRE\" target=\"blank\">Financial modeling under non-gaussian distributions / Eric Jondeau, Michael Rockinger, Ser-Huang Poon</a>\". Année:2007. ISBN:978-1-84628-419-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-691-04301-2&amp;con_lng=FRE\" target=\"blank\">The econometrics of financial markets / John Y. Campbell, Andrew Wen-Chuan Lo, Archie Craig MacKinlay</a>\". Année:1997. ISBN:978-0-691-04301-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

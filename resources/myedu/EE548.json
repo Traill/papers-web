@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350861389&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","548"],
+    "title":"Audio engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350861389&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Prerequisite for":"Labs and Master thesis",
+      "Required prior knowledge":"Introduction to applied acoustics",
+      "Content":"Audio Engineering is the whole range of techniques related to audible sounds and involves the different processes, equipment and systems for the production, transmission, recording of sound but also measurement and modification of sound fields. This course provides a solid basis for the study, conception and design of audio equipment. An appropriate balance between theory and practical applications leads to a thorough grasp of the main aspects of the problems. Numerous examples and demonstrations illustrate the techniques and methods proposed. The applications and processes, from classical methods to the most recent ones, such as digital audio, are described from the basic concept right up to the practical applications.[br/][br/]This second semester is devoted to the essential aspects of the following chapters:[br/]- Electroacoustic  transducers [br/]- Loudspeakers and loudspeaker systems[br/]- Microphones[br/]- Active control",
+      "Type of teaching":"Ex cathedra with demonstrations, examples ands exercises",
+      "Learning outcomes":"To master the audio basics, models and methods.[br/]To be able to model and design an audio device or system. [br/]To acquire knowledge of the main audio techniques and know how to conceive and design different devices, apparatus and transducers."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Audio engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-653-7&amp;con_lng=ENG\" target=\"blank\">Audio / Mario Rossi</a>\". Year:2007. ISBN:978-2-88074-653-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction à l'acoustique appliquée",
+      "Bibliographie et matériel":"\"Audio\" PPUR, 2007",
+      "Forme d'enseignement":"Ex cathedra avec démonstrations, exemples et exercices",
+      "Contenu":"L'Audio est l'ensemble des techniques des sons audibles et concerne les différents procédés, appareils et systèmes pour la production, la transmission, l'enregistrement des sons, mais également la mesure et la modification des champs sonores. Ce cours propose de solides bases pour l'étude, la conception et la réalisation des dispositifs audio. Un juste équilibre entre théories et applications concrètes, permet la maîtrise des problèmes sous leurs principaux aspects. De nombreux exemples et démonstrations illustrent les techniques et méthodes proposées. Les applications et procédés, des classiques aux plus modernes, ainsi l'audionumérique, sont décrits, des concepts de base aux réalisations pratiques.[br/][br/]Ce second semestre est consacré aux aspects essentiels des chapitres suivants:[br/]- Transducteurs électroacoustiques[br/]- Haut-parleurs et systèmes haut-parleurs[br/]- Microphones[br/]- Contrôle actif",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Travaux pratiques et Pdm",
+      "Objectifs d'apprentissage":"Maîtriser les bases fondamentales, les modèles et les méthodes de l'Audio.[br/]Etre capable de modéliser et de dimensionner un dispositif ou un système Audio.[br/]Connaître les principales techniques de l'Audio et savoir en concevoir et réaliser les différents dispositifs, appareils et transducteurs."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Audio",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-653-7&amp;con_lng=FRE\" target=\"blank\">Audio / Mario Rossi</a>\". Année:2007. ISBN:978-2-88074-653-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

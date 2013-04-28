@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348762427&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","531"],
+    "title":"Functional system-on-chip verification",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348762427&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course will present the fundamental elements of the functional verification for SoCs, namely the challenges of the verification of complex SoCs, the verification methodologies, the definition and use of a verification plan, the architecture and the elements of a layered verification environment.[br/]The course will also provide an introduction to the SystemVerilog language, with emphasis on its features for supporting verification and to the OVM class library through simple but illustrative examples.[br/]Last, but not least, students will get a practical knowledge through project-like exercises using state-of-the-art EDA tools from the Europractice program.",
+      "Content":"[li]Verification challenges, concurrent design/verification flow, modeling abstraction levels (TLM, RTL, gate), black-box/gray-box/white-box verification.[br/][li]Verification technologies: formal verification, simulation-based verification, hardware acceleration and emulation.[br/][li]Verification methodologies: assertion-based verification, code/functional coverage, specification-driven verification.[br/][li]Verification plan: role, content, verification levels, strategies.[br/][li]Layered verification environment: architecture, components, operation.[br/][br/][b]Introduction to SystemVerilog[/b][br/][li]SystemVerilog for design. Anatomy of a SV model, data types and objects, procedural statements, processes and execution threads, model of time, abstract simulation kernel, module hierarchy, object-oriented features.[br/][li]SystemVerilog for verification. Clocking blocks, program blocks, constrained randomization, inter-process communication, functional coverage, assertions.[br/][br/][b]The OVM methodology[/b][br/]The OVM methodology will be presented through a project-like example: infrastructure, component hierarchy, transaction sequences. transaction interfaces.[br/]",
+      "Type of teaching":"Ex cathedra. Computer-based exercises.",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Functional system-on-chip verification",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0387-27036-4&amp;con_lng=ENG\" target=\"blank\">Systemverilog for verification : a guide to learning the testbench language features / Chris Spear</a>\". Year:2006. ISBN:978-0387-27036-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-25538-9&amp;con_lng=ENG\" target=\"blank\">Verification methodology manual for SystemVerilog / by Janick Bergeron ... [et al.]</a>\". Year:2005. ISBN:0-387-25538-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Computer Architecture I-II, Hardware system modeling I, Embedded systems.",
+      "Bibliographie et matériel":"J. Bergeron, et al., Verification Methodology Manual for SystemVerilog, Springer, 2005.[br/]S. Iman, Functional Verification with SystemVerilog and OVM, Hansen Brown Publishing Company, 2008.[br/]C. Spear, SystemVerilog for Verification - A Guide to Learning the Testbench Language Features, Springer, 2006.[br/]IEEE Standard for SystemVerilog- Unified Hardware Design, Specification, and Verification Language (IEEE Std 1800-2005), The Institute of Electrical and Electronics Engineers, Inc., 2005, p. 0_1-648.",
+      "Forme d'enseignement":"Ex cathedra. Exercices sur ordinateur.",
+      "Contenu":"[b]Méthodologies de vérification[/b][br/][li]Défis de la vérification, flots concurrents de conception et de vérification, modélisation et niveaux d'abstractions, types de vérification boîte noire, boîte grise, boîte blanche.[br/][li]Technologies de vérification: vérification formelle, par simulation, accélération matérielle, émulation.[br/][li]Méthodologies de vérification: assertions, couverture de code, couverture fonctionnelle, vérification dirigée par les spécifications.[br/][li]Plan de vérification: rôle, contenu, niveaux de vérification, stratégies.[br/][br/][b]Introduction à SystemVerilog[/b][br/][li]Modélisation. Anatomie d'un modèle SV, types de données, objets, instructions procédurales, processus et contextes d'exécution, modèle du temps, noyau de simulation abstrait, hiérarchie/modules, aspects orientés objets.[br/][li]Vérification. Blocs de séquencement, blocs de programmes, stimulis aléatoires contraints, communication inter-processus, couverture fonctionnelle, asssertions.[br/][br/][b]La méthodologie OVM[/b][br/]La méthodologie sera présentée au travers d'un exemple de projet de vérification : infrastructure, composants, transactions, séquences, interfaces. [br/]",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"Le cours présentera les éléments fondamentaux de la vérification fonctionnelle de systèmes-sur-puce, à savoir les défis de la vérification de systèmes intégrés complexes, les méthodologies de vérification, la définition et l'usage d'un plan de vérification, l'architecture et les éléments d'un environnement de vérification en couches.[br/]Le cours donnera aussi une introduction au langage SystemVerilog en mettant l'accent sur les aspects liés à la vérification et l'usage de la bibliothèque de classes OVM à l'aide d'exemples simples mais illustratifs.[br/]Les étudiants acquerront en plus des connaissances pratiques au moyen d'exercices sur ordinateur utilisant des logiciels professionnels fournis par le programme Europractice."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Functional system-on-chip verification",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0387-27036-4&amp;con_lng=FRE\" target=\"blank\">Systemverilog for verification : a guide to learning the testbench language features / Chris Spear</a>\". Année:2006. ISBN:978-0387-27036-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-25538-9&amp;con_lng=FRE\" target=\"blank\">Verification methodology manual for SystemVerilog / by Janick Bergeron ... [et al.]</a>\". Année:2005. ISBN:0-387-25538-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

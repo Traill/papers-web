@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776927&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","242"],
+    "title":"Geodetic engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776927&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Fieldworks marked",
+      "Prerequisite for":"All types of environmental fieldwork",
+      "Required prior knowledge":"Fundamentals of geomatics, Quantitative methods I",
+      "Content":"[b]Determination of a single point[/b][br/]radiations - intersection - bilateration - eccentrics - resection - point with overdetermination[br/][b]Free station[/b][br/]concept and use - alternatives for the computation - transformations of coordinates - Helmert 2D[br/][b]Terrestrial networks[/b][br/]triangulation - traversing[br/][b]Calculs[/b][br/]operations with the pocket calculator - programming with MatLab - using and understanding supplied codes - interpretation of the results[br/][b]Applications[/b][br/]- geometrical levelling and instrument control [br/]- angular measurements & intersection[br/]- eccentric station and resection[br/]- traversing, incl. trigonometrical levelling [br/]- stake-out of lines, circles and clothoids[br/]- free station[br/]",
+      "Keywords":"Levelling, traversing, land survey, stake-out ",
+      "Type of teaching":"Exercises in the classroom and in the field ",
+      "Learning outcomes":"To situate the geometrical problems in the contexte on topography.[br/]To prepare and organise fieldwork - To handle surveying instruments - To elaborate a technical report.[br/]To perform computations for surveys and stake-outs - To practise the adjustment calculus - To assess and to qualify the results[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geodetic engineering",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Éléments de géomatique, Méthodes quantitatives I",
+      "Bibliographie et matériel":"Polycopiés et notes de cours",
+      "Mots clés":"Nivellement, polygonation, lever de terrain, implantation ",
+      "Forme d'enseignement":"Exercices en salle et sur le terrain ",
+      "Contenu":"[b]Détermination d'un point[/b][br/]lever polaire - intersection - bilatération - excentriques - relèvement - point surdéterminé[br/][b]Station libre[/b][br/]concept et utilisation - alternatives pour le calcul - transformations de coordonnées - Helmert 2D[br/][b]Réseaux terrestres[/b][br/]triangulation - polygonation[br/][b]Calculs[/b][br/]opérations avec la calculette - programmation avec MatLab - usage et compréhension de codes fournis - interprétation des résultats[br/][b]Applications[/b][br/]- nivellement géométrique et contrôle de l'appareil[br/]- mesure d'angles au théodolite & intersection[br/]- station excentrique et relèvement[br/]- cheminement polygonal, y compris nivellement trigonométrique[br/]- piquetage d'alignements, de cercles et de clothoïdes[br/]- station libre[br/]",
+      "Forme du contrôle":"Travaux pratiques notés",
+      "Préparation pour":"Toutes sortes de travaux de terrain ",
+      "Objectifs d'apprentissage":"Situer les problèmes géométriques dans le contexte de la topographie.[br/]Préparer et organiser un travail de terrain - Manipuler des instruments topographiques - Elaborer un rapport technique.[br/]Exécuter des calculs pour lever et implanter - Pratiquer le calcul de compensation - Analyser et qualifier les résultats"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Topométrie",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

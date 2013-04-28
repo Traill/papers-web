@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771018&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","502"],
+    "title":"Dynamical system theory for engineers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771018&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUR-COMP",
+    "program":"SC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103925",
+      "name":"Thiran Patrick"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Mid-term 20%, final exam 80%",
+      "Bibliography and material":"Course notes",
+      "Prerequisite for":"Any class using dynamical systems",
+      "Required prior knowledge":"Linear algebra and calculus. A Circuits & Systems class (EE204/205 or equivalent) may be helpful, but not compulsory.",
+      "Content":"[b]Introduction:[/b][br/]Dynamics of linear and non linear systems[br/][br/][b]Linear Systems:[/b][br/]Solutions; Stability; Geometrical analysis[br/][br/][b]Nonlinear Systems:[/b][br/]Solutions; Stability; Lyapunov functions, Graphical methods for the analysis of low-dimensional systems; Introduction to structural stability, bifurcation theory and chaotic systems.",
+      "Type of teaching":"Ex cathedra and exercise sessions",
+      "Learning outcomes":"The student will be able of analysing the dynamical behaviour of linear and nonlinear systems given by their state equations. He/she will know to distinguish, identify, and analyze some of the main asymptotic behaviorrs, sketch and predict their qualitative behavior and determine their stability."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamical system theory for engineers",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103925",
+      "name":"Thiran Patrick"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours d'analyse et d'algèbre linéaire. Le cours de circuits et systèmes (EE204/205 ou équivalent) est utile sans être un prérequis obligatoire.",
+      "Bibliographie et matériel":"Cours polycopié",
+      "Forme d'enseignement":"Ex cathedra et séances d'exercices",
+      "Contenu":"[b]Introduction:[/b][br/]Dynamique des systèmes linéaires et non linéaires.[br/][br/][b]Systèmes Linéaires:[/b][br/]Solutions; Stabilité; Analyse géométrique.[br/][br/][b]Systèmes Non Linéaires:[/b][br/]Solutions ; Stabilité ; Fonctions de Lyapunov, méthodes graphiques pour l'analyse des systèmes à faible dimension; Solutions périodiques; Introduction à  la théorie des bifurcations et des systèmes chaotiques.",
+      "Forme du contrôle":"Examen intermédiaire 20%, examen final 80%",
+      "Préparation pour":"Tout cours utilisant des systèmes dynamiques",
+      "Objectifs d'apprentissage":"L'étudiant sera capable d'analyser le comportement dynamique de systèmes linéaires et non linéaires à partir des équations d'état. Il/elle saura distinguer, identifier et analyser les principaux comportements asymptotiques, esquisser et prédire le comportement qualitatif des solutions et déterminer leur stabilité."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamical system theory for engineers",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

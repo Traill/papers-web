@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772587&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","341"],
+    "title":"Physical chemistry of interfaces",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772587&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Acquire a solid understanding of interfacial and surface phenomena and of microheterogenous colloidal solution systems.",
+      "Content":"[b]1. Thermodynamics of interfaces[/b][br/]Interfacial tension and surface functions, Laplace pressure, spreading and wetting, contact angle, capillary effects, vapor pressure of liquid droplets, Kelvin equation. [br/][br/][b]2. Adsorption[/b][br/]Isotherms of Gibbs, Langmuir, BET, Fowler Guggenheim and Frumkin, monomolecular films (Langmuir Blodget). Adsorption of gases on porous solids, capillary condensation in mesoporous powders, chemisorption.[br/][br/][br/][b]3. Physical Chemistry of Colloids[/b][br/]Classification of colloids, charged colloids (proteins, oxides) solution of amphiphiles (surfactants), hydrophobic effect, molecular self-assembly, formation of micelles microemulsions and liposomes, critical micelle concentration.[br/][br/][br/][b]4. Light scattering by colloids[/b][br/]Kubelka-Munk equation Raleigh theory. Light Scattering cross section and size of macromolecules. [br/][br/][b]5. Electrokinetic phenomena[/b][br/]Zeta potential, electrophoresis and electro-osmosis, streaming and sedimentation potentials. Electrical potential of biological membranes (Donnan and diffusion potential) stimulation of nerve cells and signal propagation. DLVO theory.[br/][br/][b]6. Characterization of interfaces[/b][br/]Surface spectroscopy, including scanning tunnelling microscopy and atomic force microscopy."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physical chemistry of interfaces",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et moyens audiovisuels",
+      "Contenu":"[b]1. Thermodynamique des interfaces[/b][br/]Tension superficielle et fonctions de surface, pression de Laplace, étalement et mouillage, angle de contact, capillarité, tension de vapeur et courbure, équation de Kelvin.[br/][br/][b]2. Adsorption[/b][br/]Isothermes de Gibbs, Langmuir, BET, Fowler Guggenheim et Frumkin, couches monomoléculaires (Langmuir Blodget). Adsorption des gaz sur de solides poreux, condensation capillaire dans les mésopores, chimisorption. [br/][br/][b]3. Chimie colloïdale[/b][br/]Classification des systèmes colloïdaux, colloïdes chargés (protéines, oxydes) solution des molécules amphiphiles (surfactants), effet hydrophobe, auto assemblage moléculaire, formation de micelles, de micoémulsion, et de liposomes, concentration critique de micellisation. [br/][br/][b]4. Diffusion de la lumière par les colloïdes[/b][br/]Equation de Kubelka-Munk, Théorie de Raleigh, section d'efficace de diffusion et taille des macromolécules.[br/][br/][b]5. Phénomènes électrocinétique[/b][br/]Potentiel zêta, électro-osmose, électrophorèse, potentiel d'écoulement et de sédimentation. Potentiel de membranes biologiques (Donnan, potentiel de diffusion). Stimulation de cellules  nerveuses et influx nerveux. Théorie de DLVO.[br/][br/][b]6. Caractérisation des interfaces[/b][br/]Méthodes spectroscopiques, y compris la microscopie par effet tunnel et microscope à force atomique.",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Thermodynamique\", \"Electrochimie des solutions\"",
+      "Bibliographie et matériel":"Polycopié",
+      "Objectifs d'apprentissage":"Compléter et approfondir les connaissances des phénomènes qui se produisent en surface et dans les milieux micro hétérogènes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie physique des interfaces",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

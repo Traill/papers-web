@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228393445&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","324"],
+    "title":"Multivariable systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228393445&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105690",
+      "name":"Longchamp Roland"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"written",
+      "Required prior knowledge":"[li]Liner algebra[br/][li]Represent a linear system by a transfer function, A5[br/][li]Design a PID controller, A9 (Control Systems + TP)[br/][li]Design a simple controller for a dynamic system, A10 (Control Systems + TP)",
+      "Content":"State of a system. Continuous-time state space model. Discrete-time state space model. Solution of the continuous-time state space equation. Solution of the discrete-time state equation. Sampling of a continuous-time state equation. Jordan canonical form. Controllability and observability. Controllability and observability canonical forms. Pole placement. State observer. Linear quadratic regulator.",
+      "Keywords":"Digital control, state space modelling, system analysis in the state space, state space controller design",
+      "Type of teaching":"Ex cathedra course, integrated demos and case studies",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Linearize a nonlinear system, A3[br/][li]Analyze a linear dynamical system (both time and frequency responses), A4[br/][li]Represent a system by a linear or nonlinear state-space model, A6[br/][li]Construct and analyse a discrete-time model for a dynamic system, A7[br/][li]Analyse a multivariable dynamic system and design an appropriate controller for the system, A12[br/][li]Design an advanced controller for a dynamic system, A13[br/][li]Assess the stability, performance and robustness of a closed-loop system, A14[br/][li]Define (specifications) the adequate control performance for dynamic systems, A15[br/][li]Propose several control solutions, formulate the trade-offs, choose the options, A16[br/][li]Validate the performance (by simulations or experiments), A24[br/][li]Evaluate and discuss the performance and the solutions, and draw conclusions, A26[br/][b]Transversal skills:[/b][br/][li]Time management, T1[br/][li]Self-assessment of acquired skills, T2[br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Be perseverant through difficulties, T15[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Multivariable systems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-880-7&amp;con_lng=ENG\" target=\"blank\">Commande numérique de systèmes dynamiques : cours d'automatique / Roland Longchamp</a>\". Year:2010. ISBN:978-2-88074-880-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-82054-4&amp;con_lng=ENG\" target=\"blank\">Digital control of dynamic systems / Gene F. Franklin, J. David Powell, Michael L. Workman</a>\". Year:1998. ISBN:0-201-82054-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105690",
+      "name":"Longchamp Roland"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Algèbre linéaire[br/][li]Représenter un système linéaire sous forme de fonction de transfert, A5[br/][li]Dimensionner un régulateur PID, A9 (Automatique + TP)[br/][li]Dimensionner un régulateur simple pour un système dynamique, A10 (Control Systems + TP) ",
+      "Bibliographie et matériel":"R. Longchamp, [i]Commande numérique de systèmes dynamiques - Cours d'automatique[/i] : Volume 2, [i]Méthodes avancées[/i], Presses Polytechniques et Universitaires Romandes troisième édition, 2010.",
+      "Mots clés":"Commande numérique, modèle d'état, analyse des systèmes dans l'espace d'état, synthèse des régulateurs dans l'espace d'état.",
+      "Forme d'enseignement":"Cours ex cathedra, démonstrations et études de cas intégrés",
+      "Contenu":"Etat d'un système. Modèle d'état analogique. Modèle d'état discret. Linéarisation. Solution de l'équation d'état analogique linéaire. Solution de l'équation d'état discrète linéaire. Echantillonnage d'un système analogique. Forme canonique de Jordan. Gouvernabilité et observabilité. Formes canoniques de gouvernabilité et d'observabilité. Commande par placement des valeurs propres. Observateur d'état. Commande par optimisation quadratique.",
+      "Forme du contrôle":"écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Linéariser un système non linéaire, A3[br/][li]Analyser un système dynamique linéaire (approches temporelle et fréquentielle), A4[br/][li]Représenter un système sous forme de  modèle d'état linéaire ou non linéaire, A6[br/][li]Construire et analyser un modèle discret pour un système  dynamique, A7[br/][li]Analyser un système  dynamique multivariable et dimensionner un régulateur pour le système, A12[br/][li]Dimensionner un régulateur avancé pour un système dynamique, A13[br/][li]Déterminer la stabilité, la performance et la robustesse d'un système  en boucle fermée, A14[br/][li]Définir (cahier des charges) des performances de commandes adaptées aux systèmes dynamiques, A15[br/][li]Concevoir et choisir des solutions de commandes, formuler les trade-offs, choisir les options, A16[br/][li]Valider les performances (par simulation ou expérimentalement), A24[br/][li]Evaluer et critiquer les performances, la solution, et tirer un bilan, A26[br/][b]Compétences transversales:[/b][br/][li]Gérer son temps, T1[br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes multivariables",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-880-7&amp;con_lng=FRE\" target=\"blank\">Commande numérique de systèmes dynamiques : cours d'automatique / Roland Longchamp</a>\". Année:2010. ISBN:978-2-88074-880-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-82054-4&amp;con_lng=FRE\" target=\"blank\">Digital control of dynamic systems / Gene F. Franklin, J. David Powell, Michael L. Workman</a>\". Année:1998. ISBN:0-201-82054-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

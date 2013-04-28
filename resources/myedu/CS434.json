@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771794&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","434"],
+    "title":"Unsupervised and reinforcement learning in neural networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771794&ww_x_anneeAcad=2012-2013&ww_i_section=1582689951&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUR-COMP",
+    "program":"IN",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111732",
+      "name":"Gerstner Wulfram"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral Exam & miniproject",
+      "Bibliography and material":"Dayan & Abbott : Theoretical Neuroscience, MIT Press 2001; Gerstner & Kistler : Spiking Neuron Models, Cambridge Univ. Press",
+      "Required prior knowledge":"Analysis I-III, linear algebra, probability and statistics",
+      "Content":"[b]I.\tunsupervised learning[/b] [br/]1. Neurons and Synapses in the Brain. Synaptic Changes[br/]2. Biology of unsupervised learning, Hebb rule and LTP .  [br/]3. Hebb rule in a linear neuron model and PCA [br/]4. Analysis of Hebb rule and  application to development[br/]5.  Plasticity and Independent Component Analysis (ICA)[br/] 6.  Competitive Learning and Clustering[br/]7. Kohonen networks[br/][br/][b] II. Reinforcement learning [/b][br/]8. The paradigm of reward-based learning[br/]in biology and theoretical formalisation[br/]9.  Reinforcement learning in discrete spaces[br/]10.  Eligibity traces and reinforcement learning in continuous spaces and applications[br/][br/][b] III. Can the brain  implement Unsupervised and Reinforcement learning?  [/b][br/]11. Spiking neurons and learning: STDP[br/]12. Neuromodulators and Learning[br/]13.  Long-term stability of synaptic memory[br/]14. Unsupervised learning from an optimality[br/]viewpoint: Information Maximization[br/]",
+      "Type of teaching":"Classroom teaching, exercises and miniproject",
+      "Learning outcomes":"This course for Computer Scientists  and Life Scientists focuses on the process of learning in neural systems. In contrast to the course on 'Pattern classification and machine learning' which focuses on algorithmic approaches towards supervised learning, this course covers Unsupervised Learning and Reinforcement Learning, since  these are the relevant paradigms for biological self-learning systems. [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Unsupervised and reinforcement learning in neural networks",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-04199-5&amp;con_lng=ENG\" target=\"blank\">Theoretical neuroscience : computational and mathematical modeling of neural systems / Peter Dayan and L. F. Abbott</a>\". Year:2001. ISBN:0-262-04199-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111732",
+      "name":"Gerstner Wulfram"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I-III, Algèbre linéaire, Probabilité et statistique",
+      "Bibliographie et matériel":"Dayan & Abbott : Theoretical Neuroscience, MIT Press 2001; Gerstner & Kistler : Spiking Neuron Models, Cambridge Univ. Press",
+      "Forme d'enseignement":"Ex cathedra, exercices et miniprojet ",
+      "Contenu":"[b]I.\tApprentissage non-supervisé[/b][br/]1.\tIntroduction [br/]2.\tBiologie de l'apprentissage non-supervisé  [br/]3.\tPCA par règle de Hebb [br/]4.\tAnalyse et application au développement du cerveau  [br/]5.\tAnalyse en composantes indépendantes[br/]6.\tApprentissage compétitif [br/]7.    Algorithme de Kohonen[br/][br/][b]II. Apprentissage par renforcement[/b][br/]8.   Apprentissage par récompense dans la biologie et formalisation théorique[br/]9.\tapprentissage par renforcement dans un espace discret [br/]10.\tTrace d'éligibilité et apprentissage par renforcement dans un espace continu[br/][br/][b]III. ... et le cerveau ? [/b][br/]11.\tSTDP[br/]12.\tLes neuromodulateur dans l'apprentissage  [br/]13.\tStabilité de longue duréee de la mémoire[br/]14.\tOptimalité de l'apprentissage[br/][br/][br/]",
+      "Forme du contrôle":"Examen oral & miniprojet",
+      "Objectifs d'apprentissage":"Les réseaux de neurones sont une classe de modèles de traitement d'information inspirée par la biologie du cerveau. Ce cours pour informaticiens et science de vie présentera les principes d'apprentissage non-supervisée ou partiellement supervisé (par renforcement), mais pas les algorithmes de la classification supervisé qui sont traités dans le cours 'Pattern classification and machine learning'"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Unsupervised and reinforcement learning in neural networks",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-04199-5&amp;con_lng=FRE\" target=\"blank\">Theoretical neuroscience : computational and mathematical modeling of neural systems / Peter Dayan and L. F. Abbott</a>\". Année:2001. ISBN:0-262-04199-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

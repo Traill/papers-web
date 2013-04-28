@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776787&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","221"],
+    "title":"Theory of architecture III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776787&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105709",
+      "name":"Lucan Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]The cycle of the composition[/b][br/][br/]Lectures are based on treatises and texts on architectural theories, and on the analysis of remarkable buildings and projects. Lectures aim to give an appreciation of the problems relating to architectural composition from the beginning of the Nineteenth Century to the Avant-Garde of the Twentieth Century.[br/][br/]",
+      "Content":"[li]Changes in the Eigteenth Century: Architecture, history and territory.[br/][li]Combination and assemblage. J.-N.-L. Durand and the \"Marche à suivre dans la composition d'un projet quelconque\".[br/][li]The Beaux-Arts composition. Composition and suite of symmetrical rooms.[br/][li]Elements of architecture / Elements of composition. J. Guadet and the problem of the room.[br/][li]Architecture and expression of the construction 1. E. Viollet-le-Duc, A. Choisy and constructive rationalism.[br/][li]Architecture and expression of the construction 2. A. Perret and structural classicism.[br/][li]Contrast and balance 1. The agglutinative plan.[br/][li]Contrast and balance 2. From the \"pittoresque grec\" to the \"plan libre\".[br/][li]Composition and generation. F.L. Wright and architectural grammar.[br/][li]Composition and abstraction 1. H. P. Berlage and the Amsterdam School versus De Stijl and Neoplasticism.[br/][li]Composition and abstraction 2. De Stijl and Neoplasticism.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Theory of architecture III",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105709",
+      "name":"Lucan Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours théoriques et études de cas.",
+      "Contenu":"[li]Changements d'horizons au XVIIIe siècle, du point de vue de l'histoire, du point de vue de l'occupation du territoire.[br/][li]Combiner et assembler.[br/][li]La «Marche à suivre dans la composition d'un projet quelconque» de J.-N.-L. Durand.[br/][li]La composition Beaux-Arts. La composition par suite de pièces symétriques.[br/][li]Eléments de l'architecture / éléments de la composition. J. Guadet et la question de la pièce.[br/][li]Architecture et expression de la construction 1. E. Viollet-le-Duc, A. Choisy et le rationalisme constructif.[br/][li]Architecture et expression de la construction 2. A. Perret et le classicisme structurel.[br/][li]Pondération et équilibre 1. Le plan agglutiné.[br/][li]Pondération et équilibre 2. Du «pittoresque grec» au plan libre.[br/][li]Composition et génération. F.L. Wright et la grammaire architecturale.[br/][li]Composition et abstraction 1. H.P. Berlage et l'Ecole d'Amsterdam versus De Stijl et le néo-plasticisme.[br/][li]Composition et abstraction 2. De Stijl et le néo-plasticisme. [br/][br/]",
+      "Préparation pour":"Théorie de l'achitecture IV.",
+      "Bibliographie et matériel":"Comprise dans un polycopié.",
+      "Objectifs d'apprentissage":"[b]Le cycle de la composition[/b][br/][br/]A partir d'une lecture de traités et d'écrits sur l'architecture, et d'une analyse de bâtiments et de projets remarquables, le cours appréhende les diverses modalités d'énonciation des théories de la composition architecturale depuis le début du XIXe siècle jusqu'aux avant-gardes du début du XXe siècle.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie de l'architecture III",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

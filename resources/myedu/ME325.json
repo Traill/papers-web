@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499247990&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","325"],
+    "title":"Control systems + TP",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499247990&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/207237",
+      "name":"Jones Colin Neil"
+    },{
+      "url":"http://people.epfl.ch/106335",
+      "name":"Salzmann Christophe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Control systems + TP",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-880-7&amp;con_lng=ENG\" target=\"blank\">Commande numerique de systemes dynamiques : cours d'automatique / Roland Longchamp</a>\". Year:2010. ISBN:978-2-88074-880-7</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/207237",
+      "name":"Jones Colin Neil"
+    },{
+      "url":"http://people.epfl.ch/106335",
+      "name":"Salzmann Christophe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Real analysis[br/][li]Complex analysis[br/][li]Signals and systems[br/][li]Represent a physical process as a system with its inputs, outputs and disturbances, A1[br/][li]Derive the dynamic equations for the system, A2[br/][li]Represent a linear system by a transfer function, A5",
+      "Bibliographie et matériel":"R. Longchamp, [i]Commande numérique de systèmes dynamiques - Cours d'automatique[/i] :  Volume 1, [i]Méthodes de base[/i], Presses Polytechniques et Universitaires Romandes troisième édition, 2010.",
+      "Mots clés":"Digital control, analysis and design of control systems, stability, PID controller",
+      "Forme d'enseignement":"Ex cathedra course, integrated demos and case studies, hands-on laboratory sessions.",
+      "Contenu":"Introduction to automatic control. Sampling and signal reconstruction. Discrete-time systems. z-transform. Closed-loop transfer function. Frequency response. Stability. Discrete equivalents. Direct design. Continuous-time control.",
+      "Forme du contrôle":"Written exam",
+      "Objectifs d'apprentissage":"[b]Domain skills:[/b][br/][li]Analyze a linear dynamical system (both time and frequency responses), A4[br/][li]Construct and analyse a discrete-time model for a dynamic system, A7[br/][li]Design a PID controller, A9[br/][li]Design a simple controller for a dynamic system, A10[br/][li]Assess the stability, performance and robustness of a closed-loop system, A14[br/][li]Define (specifications) the adequate control performance for dynamic systems, A15[br/][li]Propose several control solutions, formulate the trade-offs, choose the options, A16[br/][br/][b]Transversal skills:[/b][br/][li]Time management, T1[br/][li]Self-assessment of acquired skills, T2[br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Be perseverant through difficulties, T15[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Control systems + TP",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-880-7&amp;con_lng=FRE\" target=\"blank\">Commande numerique de systemes dynamiques : cours d'automatique / Roland Longchamp</a>\". Année:2010. ISBN:978-2-88074-880-7</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

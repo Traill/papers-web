@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228377622&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","451"],
+    "title":"Advanced energetics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228377622&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"The real case study will be presented (group presentation). An oral exam will concern the application of the theory in the case study.",
+      "Bibliography and material":"All the material can be downloaded from the moodle website (http://moodle.epfl.ch/course/view.php?id=141). Printed version of the lecture notes can be ordered.",
+      "Required prior knowledge":"[li]Master the concepts of mass, energy, and momentum balance, E1 (Thermodynamique et énergétique I)[br/][li]Compute the thermodynamic properties of a fluid, E2 (Thermodynamique et énergétique I)[br/][li]Master the concepts of heat and mass transfer, E3 (Heat and mass transfer)[br/][li]Understand the main thermodynamic cycles, E5 (Thermodynamique et énergétique I)[br/][li]Calculate and design heat exchangers, E15 (heat and mass transfer)[br/][li]Notion of optimization (Introduction à l'optimisation différentiable)",
+      "Content":"Rational use and conversion of energy in industrial processes.[br/][br/]Methodology for the energy efficiency audit of industrial processes. Principles of the exergy analysis of industrial processes and energy conversion systems. Principles of the process integration using the pinch analysis method. Identification of the process efficiency improvement options. Optimal integration of the energy conversion systems. Thermo-economic evaluation of energy savings options. Application to one industrial process case study.",
+      "Keywords":"Energy efficiency, heat recovery, Energy conversion, Exergy analysis, Pinch analysis, Industrial processes",
+      "Type of teaching":"The course is organised as theoretical sessions and the resolution of a real case study to be realised in a team project.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Master the concepts of thermodynamic efficiency, E6[br/][li]Establish the flow diagram of an industrial process and calculate the corresponding energy and mass balance, E22[br/][li]Analyse the energy and exergy efficiency of industrial energy systems, E23[br/][li]Know the principles and limitations of the main energy conversion technologies, E7[br/][li]Understand the challenges related to energy: resources, energy services, economic and environmental impacts, E9[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7[br/][li]Document and communicate a project, T12[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced energetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser les notions de bilans de matière, d'énergie et de quantité de mouvement, E1 (Thermodynamique et énergétique I)[br/][li]Calculer les propriétés thermodynamiques d'un fluide, E2 (Thermodynamique et énergétique I)[br/][li]Maîtriser les notions de transfert de chaleur et de masse, E3 (Heat and mass transfer)[br/][li]Comprendre les principaux cycles thermodynamiques, E5 (Thermodynamique et énergétique I)[br/][li]Calculer et concevoir des échangeurs de chaleur, E15 (Heat and mass transfer)[br/][li]Notion d'optimisation (Introduction à l'optimisation différentiable)",
+      "Bibliographie et matériel":"Le matériel de référence peut être téléchargé depuis le site moodle (http://moodle.epfl.ch/course/view.php?id=141). Le polycopié du cours peut être commandé.",
+      "Mots clés":"Utilisation rationnelle de l'énergie, Conversion de l'énergie, Analyse exergétique, Analyse pincement, Procédés industriels",
+      "Forme d'enseignement":"Le cours est organisé en sessions théoriques et comprend la résolution d'un cas d'étude réalisée dans un projet de groupe.",
+      "Contenu":"Analyse et synthèse de l'utilisation et conversion rationnelle de l'énergie dans les procédés industriels.[br/]Méthodologie de l'audit énergétique d'un processus industriel. Principes de l'analyse exergétique des processus industriels et des systèmes de conversion d'énergie. Principes de l'intégration des processus avec la méthode du pincement. Identification des options d'amélioration du rendement de processus. Intégration optimale de de la conversion d'énergie. Evaluation thermo-économique des options de réduction de la consommation énergétique. Etude de cas d'un processus industriel.",
+      "Forme du contrôle":"Présentation de groupe du cas d'étude. Examen oral sur l'application de la théorie au cas d'étude.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Maîtriser les notions de rendements thermodynamiques, E6[br/][li]Etablir un diagramme de flux et calculer les bilans de matière et d'énergie de processus industriels, E22[br/][li]Analyser l'efficacité énergétique et le rendement exergétique des systèmes énergétiques industriels, E23[br/][li]Connaître les principales technologies de conversion de l'énergie, leurs principes et leurs limites, E7[br/][li]Comprendre les enjeux de l'énergie: les ressources, les services énergétiques, les impacts économiques et environnementaux, E9[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7[br/][li]Documenter et communiquer un projet, T12[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced energetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776107&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","552"],
+    "title":"Mobile robots",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776107&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    },{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    },{
+      "url":"http://people.epfl.ch/210322",
+      "name":"Schill Felix Stephan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The objective of this course is to provide the basics required to develop autonomous mobile robots. Both hardware (energy, locomotion, sensors, embedded electronics, system integration) and software (real-time programming, signal processing, control theory, localization, trajectory planning, high-level control) aspects will be tackled. Theory will be deepened by exercises and application to real robots.[br/][br/]",
+      "Content":"[li]History of mobile robotics[br/][li]Applications, products and market[br/][li]Sensors[br/][li]Perception, feature extraction[br/][li]Coping with uncertainties[br/][li]Markov localization: Bayesian filter, Monte Carlo localization, extended Kalman filter[br/][li]Navigation: path planning, obstacle avoidance[br/][li]Control architectures and robotic frameworks[br/][li]Current challenges in mobile robotics[br/][li]Locomotion principles and control[br/][li]Embedded electronics",
+      "Type of teaching":"Ex cathedra, exercises, work on mobile robots, mini projects, oral presentations",
+      "Form of examination":"Continous control + oral exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mobile robots",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-02578-7&amp;con_lng=ENG\" target=\"blank\">Autonomous robots : from biological inspiration to implementation and control / George A. Bekey</a>\". Year:2005. ISBN:0-262-02578-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-19502-X&amp;con_lng=ENG\" target=\"blank\">Introduction to autonomous mobile robots / Roland Siegwart and Illah R. Nourbakhsh</a>\". Year:2004. ISBN:0-262-19502-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-20162-3&amp;con_lng=ENG\" target=\"blank\">Probabilistic robotics / Sebastian Thrun, Wolfram Burgard, Dieter Fox</a>\". Year:2005. ISBN:0-262-20162-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111729",
+      "name":"Floreano Dario"
+    },{
+      "url":"http://people.epfl.ch/115955",
+      "name":"Ijspeert Auke"
+    },{
+      "url":"http://people.epfl.ch/210322",
+      "name":"Schill Felix Stephan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices, travail sur robots mobiles, mini-projets, présentations orales",
+      "Contenu":"[li]Historique de la robotique mobile[br/][li]Applications, produits et marché[br/][li]Capteurs[br/][li]Perception, extraction d'éléments marquants[br/][li]Gestion des incertitudes[br/][li]Localisation Markovienne: filtre de Bayes, localisation Monte Carlo, filtre de Kalman étendu[br/][li]Navigation : planification de trajectoires, évitement d'obstacles[br/][li]Architectures de contrôle et environnements de développement[br/][li]Les défis actuels de la robotique mobile[br/][li]Principes de locomotion et contrôle[br/][li]Electronique embarquée",
+      "Forme du contrôle":"Contrôle continu + examen oral",
+      "Bibliographie et matériel":"Lecture handouts[br/]Polycopiés[br/]\"Introduction to Autonomous Mobile Robots\", R. Siegwart, I. Nourbakhsh and D. Scaramuzza, MIT Press, Second edition, 2011[br/]\"Autonomous Robots: From Biological Inspiration to Implementation and Control\", G.A. Bekey, MIT Press, 2005[br/]\"Probabilistic Robotics\", S. Thrun, W. Burgard and D. Fox, MIT Press, 2005",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de donner les bases nécessaires au développement de robots mobiles autonomes. Autant les aspects matériels (énergie, locomotion, capteurs, électronique embarquée, intégration systémique) que les aspects logiciels (programmation temps réel, traitement du signal, automatique, localisation, planification de trajectoire, contrôle) seront abordés. L'assimilation de la théorie sera approfondie par le biais d'exercices effectués avec des robots réels."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mobile robots",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-02578-7&amp;con_lng=FRE\" target=\"blank\">Autonomous robots : from biological inspiration to implementation and control / George A. Bekey</a>\". Année:2005. ISBN:0-262-02578-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-19502-X&amp;con_lng=FRE\" target=\"blank\">Introduction to autonomous mobile robots / Roland Siegwart and Illah R. Nourbakhsh</a>\". Année:2004. ISBN:0-262-19502-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-20162-3&amp;con_lng=FRE\" target=\"blank\">Probabilistic robotics / Sebastian Thrun, Wolfram Burgard, Dieter Fox</a>\". Année:2005. ISBN:0-262-20162-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

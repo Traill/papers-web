@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1581734848&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","353"],
+    "title":"Science, technology and society C",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1581734848&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141723",
+      "name":"Vinck Dominique"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Science, technology and society C",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-252-07625-1&amp;con_lng=ENG\" target=\"blank\">From papyrus to hypertext : toward the universal digital library / Christian Vandendorpe</a>\". Year:2009. ISBN:978-0-252-07625-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7462-1661-7&amp;con_lng=ENG\" target=\"blank\">Humanités numériques / Claire Brossaud</a>\". Year:2007. ISBN:978-2-7462-1661-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141723",
+      "name":"Vinck Dominique"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Enseignant [/b]:[br/]Dominique VINCK, Professeur (ISS, UNIL)[br/]Intervenants issus des sciences informatiques, des sciences humaines et sociales et des milieux industriels ou publics qui oeuvrent sur le patrimoine culturel.",
+      "Bibliographie et matériel":"- Vandendorpe C. (2009), [i]From Papyrus to Hypertext. Toward the Universal Digital Library[/i], Illinois Univ Press.[br/]- Brossaud C., Reber B. (éd.) (2007), [i]Humanités numériques. 1. Nouvelles technologies cognitives et épistémologie. 2. Socio-informatique et démocratie cognitive[/i], Paris, Lavoisier.[br/]- Revues : [i]Digital Humanities Quarterly ; IEEE Annals on the History of Computing[/i]. ",
+      "Mots clés":"Science, technique, société, défis, humanités, culture digitale.",
+      "Forme d'enseignement":"Cours composés d'interventions réalisées par différents spécialistes des sciences humaines et sociales et des sciences informatiques. ",
+      "Contenu":"[b]La digitalisation des cultures[/b][br/][br/]Nous assistons aujourd'hui à un rapprochement entre sciences informatiques et sciences humaines et sociales, pour la digitalisation des patrimoines culturels passés, présents et en émergence.[br/][br/]Le cours se penche sur ce qui se joue aujourd'hui dans le domaine de la digitalisation des cultures. Grâce à l'intervention de différents spécialistes des sciences humaines et sociales et des sciences informatiques, il balayera une série de défis scientifiques et technologiques touchant à la digitalisation des cultures (texte, son, image, vidéo, patrimoine d'objets y compris architecture) et à la construction d'infrastructures en sciences humaines et sociales numériques : indexation, traitement et visualisation (y compris l'impression 3D et nouvelles formes d'interaction) portant sur les immenses corpus de textes anciens et nouveaux, d'images, d'enregistrements sonores et de vidéos ainsi qu'un important patrimoine d'objets souvent inaccessibles pour les besoins de leur conservation.",
+      "Forme du contrôle":"Contrôle continu sur la base d'un mini rapport d'évaluation critique (par groupe) portant sur les défis scientifiques et technologiques touchant à un des domaines de la digitalisation des cultures.",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant-e sera capable de :[br/] [br/][li]décrire et caractériser ce qui se passe dans ce domaine et identifier les défis scientifiques et technologiques en terme de digitalisation des cultures et d'infrastructures en sciences humaines et sociales numériques ;[br/][li]relier cette compréhension générale de la dynamique des humanités digitale à l'étude de cas concrets ;[br/][li]discerner les défis qui nécessitent pour des chercheurs et ingénieurs professionnels de concevoir et mettre en place des outils et infrastructures sociotechniques rendant possible la maîtrise de notre patrimoine culturel ;[br/][li]envisager le développement d'un marché des logiciels de la culture numérique et le bouleversement des métiers (éditeur, conservateur...)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Science, technologie et société C",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-252-07625-1&amp;con_lng=FRE\" target=\"blank\">From papyrus to hypertext : toward the universal digital library / Christian Vandendorpe</a>\". Année:2009. ISBN:978-0-252-07625-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7462-1661-7&amp;con_lng=FRE\" target=\"blank\">Humanités numériques / Claire Brossaud</a>\". Année:2007. ISBN:978-2-7462-1661-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71467947&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=fr",
+    "code":["AR","101"],
+    "title":"Studio BA1",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71467947&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":3.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173997",
+      "name":"Dietz Dieter"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Architecture projects into the future, envisioning environments, places of interaction, spaces. These are not a product of immediate creation, but rather the result of a process where the tools of architectural production themselves are critical. The first semester will focus on this field between actuality and the process of imagination. [br/][br/]Engaging from the onset with the crafts of the architect, students will:[br/][br/][li]learn to construct plans, sections, elevations and perspective drawings with precision;[br/][li]become proficient in the crafts of constructing moulds, plaster castings and models;[br/][li]understand the tectonic logic of two-dimensional drafting planes and their implications in three-dimensional space;[br/][li]master the translation between the phenomenological condition of being in space and the construction of space, forming the basis for project development and investigation;[br/][li]use drawings and models as tools to develop, document, and communicate an original project;[br/][li]demonstrate their project, both visually and verbally to a panel of critics and use the mentioned tools to defend their project and ideas;[br/][li]listen, and take on criticism, to thus assess their own work critically and analytically.[br/]",
+      "Content":"Within a context rooted in the Renaissance discovery of perspectival depth, students will be guided through a series of operations that engage a first architectural process - requiring parallel intellectual and physical production, raising awareness of the relationship between the mind and the hand, between ideas and their visual output. Using the Rolex Learning Centre as a starting point, students will devise a measuring method and use the result to construct a mould and plaster cast, thus engaging the question of solid and void - of spatial thinking. Such thinking brings into question notions of horizon, gravity, scale, and ultimately the relationship of body to space. Concluding the first half of the semester, students will challenge their own perception of space with \"Habiter mon Horizon,\" constructing a wearable visual device that interferes with one's own visual perception. This device will act as a point of departure for the second half of the semester, where its perceptual phenomena will be translated into an architectural project. Lectures series will provide a scope of knowledge and perspective on architectural thinking as well as crafts.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Studio BA1",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":3.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173997",
+      "name":"Dietz Dieter"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours, atelier de projet.",
+      "Contenu":"Dans un contexte nourri par la découverte, à l'époque de la Renaissance, de la profondeur perspective, les étudiants seront guidés par une série d'opérations qui mettent en jeu le processus architectural. Ce dernier implique une production à la fois physique et intellectuelle - soulignant le lien entre la main et l'esprit, entre les images et les idées. Le Rolex Learning Centre servira de point de départ. Les étudiants devront concevoir une méthode de mesure puis, à partir des résultats obtenus, construire le moule destiné à recevoir un moulage de plâtre. Il s'agira alors d'aborder la question des rapports plein / vide - d'activer la pensée spatiale. Ce mode de pensée implique les notions d'horizon, de gravité, d'échelle et, tout particulièrement, des rapports du corps à l'espace. En conclusion de la première moitié du semestre, les étudiants questionneront leur propre perception spatiale avec « Habiter mon horizon » - projet de construction d'un dispositif visuel portable interférant avec la perception visuelle de celui qui le porte. Ce dispositif influencera la seconde moitié du semestre dédiée à transposer le phénomène perceptif induit par le dispositif dans une mise en espace tridimensionnelle. Des séries d'exposés théoriques et techniques accompagnent en parallèle ce semestre.",
+      "Forme du contrôle":"Suivi continu, critique intermédiaire, critique finale.",
+      "Bibliographie et matériel":"Sera distribuée au début du semestre.",
+      "Objectifs d'apprentissage":"L'architecture projette vers le futur : elle envisage des environnements, des lieux d'interaction, des espaces. Ces derniers ne sont pas le produit d'une génération spontanée, mais plutôt le résultat d'un processus au sein duquel les outils de la production architecturale jouent un rôle crucial. Le premier semestre abordera ce champ d'exploration, naviguant entre actualité du projet et processus d'imagination.[br/][br/]Engagés dès le départ dans la pratique des savoir-faire de l'architecte, les étudiants devront :[br/][br/][li]apprendre à construire avec précision plans, coupes et élévations;[br/][li]acquérir les techniques de construction de moules, moulages et maquettes;[br/][li]comprendre la logique tectonique du dessin bidimensionnel et sa transposition en espace tridimensionnel;[br/][li]maitriser l'aller-retour propre à la condition phénoménologique (être dans l'espace et construire l'espace) comme base de développement et d'exploration dans le projet;[br/][li]savoir utiliser les outils - dessins et maquettes - afin de développer, documenter et communiquer leur projet;[br/][li]présenter leur projet, visuellement et verbalement, à un jury d'experts et recourir aux outils développés afin de défendre leurs idées;[br/][li]savoir écouter les commentaires formulés pour évaluer leur propre travail de manière critique.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie et critique du projet BA1",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

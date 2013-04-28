@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772517&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","161(c)"],
+    "title":"General chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772517&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"CGC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106159",
+      "name":"Pulgarin César"
+    },{
+      "url":"http://people.epfl.ch/115056",
+      "name":"Sahil Araksi"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Content":"[b]1. Periodic chart of elements:[/b] relation between the position of the elements in the periodic chart and their chemical and physical properties, prediction of the reactivity.[br/][b]2. Bonds, chemical reaction and stoechiometry:[/b] different types of bond, influence on the physical and chemical properties of compounds, chemical reactions and equilibria (including acid-base, buffer, hydrolysis, solubility).[br/][b]3. Thermodynamics:[/b] chemical energy transformation and prediction, internal energy, enthalpy, Hess law, free energy, thermodynamics of equilibria, electical battery and corrosion.[br/][b]4. Kinetics:[/b] reaction speed, reaction order, mecanisms, theory of activated complexe, catalysis ans biocatalysis.[br/][b]5. Electrochemistry[/b][br/][b]6. Organic chemistry[/b] "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General chemistry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-428-8&amp;con_lng=ENG\" target=\"blank\">Chimie générale pour ingénieur / Claude K.W. Friedli</a>\". Year:2005. ISBN:2-88074-428-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106159",
+      "name":"Pulgarin César"
+    },{
+      "url":"http://people.epfl.ch/115056",
+      "name":"Sahil Araksi"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec démonstrations pratiques et exercices en salle",
+      "Contenu":"[b]1. Tableau périodique des éléments:[/b] relation entre position des éléments dans le tableau périodique et leurs propriétés physiques et chimiques, prédiction des réactivités.[br/][b]2. Liaisons, réaction chimique et stoechiométrie:[/b] différents types de liaison, influence sur les propriétés physiques et chimiques des composés, réactions chimiques et équilibres (y compris acide-base, tampon, hydrolyse, solubilité).[br/][b]3. Thermodynamique:[/b] transformation de l'énergie chimique et prédiction, énergie interne, enthalpie, loi de Hess, énergie libre, équilibres, pile électrique et corrosion.[br/][b]4. Cinétique:[/b] vitesse de réaction, ordre de réaction, mécanismes, théorie du complexe activé, catalyses et biocatalyse.[br/][b]5. Éléments de radiochimie[/b][br/][b]6. Chimie des surfaces et colloïdes:[/b] tension interfaciales, contacts liquide-solide et gaz-solide, absorption, film, phénomènes électrocinétiques, propriétés optiques, mécaniques et électiques de l'état colloïdal.",
+      "Prérequis":"Maturité fédérale",
+      "Bibliographie et matériel":"Livre PPR et polycopié"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie générale",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-428-8&amp;con_lng=FRE\" target=\"blank\">Chimie générale pour ingénieur / Claude K.W. Friedli</a>\". Année:2005. ISBN:2-88074-428-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

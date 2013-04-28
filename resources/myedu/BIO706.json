@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2976619&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","706"],
+    "title":"Functional genomics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2976619&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDBB",
+    "program":"EDBB",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182376",
+      "name":"Deplancke Bart"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To convey theoretical and practical aspects of current strategies for  functional genomic analyses. The course will use a combination of formal lectures, journal article discussion  and group and individual problem-solving for this instruction.",
+      "Content":"1) Genome organization[br/]2) Chromatin structure[br/]3) Quantitative functional genomics[br/]4) Expression analysis[br/]5) Molecular interaction networks[br/]6) Biological pathway analysis[br/]7) Bioinformatic approaches to understanding genome function[br/]",
+      "Form of examination":"Oral exam and term paper",
+      "Note":"This course requires a minimum of 10 participants and a maximum of 20.",
+      "Required prior knowledge":"Cell biology (basic level), Molecular biology (basic level)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Functional genomics",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182376",
+      "name":"Deplancke Bart"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course requires a minimum of 10 participants and a maximum of 20.",
+      "Contenu":"1) Genome organization[br/]2) Chromatin structure[br/]3) Quantitative functional genomics[br/]4) Expression analysis[br/]5) Molecular interaction networks[br/]6) Biological pathway analysis[br/]7) Bioinformatic approaches to understanding genome function[br/]",
+      "Forme du contrôle":"Oral exam and term paper",
+      "Prérequis":"Cell biology (basic level), Molecular biology (basic level)",
+      "Objectifs d'apprentissage":"To convey theoretical and practical aspects of current strategies for  functional genomic analyses. The course will use a combination of formal lectures, journal article discussion  and group and individual problem-solving for this instruction."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Functional genomics",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

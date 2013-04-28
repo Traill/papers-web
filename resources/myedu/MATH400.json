@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2348799&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","400"],
+    "title":"Advanced analysis I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2348799&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145266",
+      "name":"Ruppen Hans-Jörg"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Give the foundations and the main results of the theory of measure and integration.[br/]Introduction to Banach spaces.[br/]More attention will be paid to applications, less attention  to the completeness of proofs.",
+      "Content":"1. Measure and probabilities[br/] - System of sets (rings, algebras,...)[br/] - Contents, measures and probabilities[br/] - Measurable mappings and random variables[br/][br/]2. Integration[br/] - The Lebesgue integral and the expectation value of a random variable[br/] - Convergence theorems (monotone convergence, Fatou's lemma, dominated convergence)[br/][br/]3. Normed spaces: introduction[br/] - Norms, convergence and topology[br/] - Completeness and Banach spaces[br/] - Banach's fixed point theorem and applications[br/] - Mappings: continuity, compactness, convexity",
+      "Type of teaching":"Ex cathedra lecture with exercises",
+      "Prerequisite for":"Advanced Analysis II, Probabilities, Geometry, Partial differential Equations, Variations calculus",
+      "Form of examination":"Oral exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analysis I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-85233-781-8&amp;con_lng=ENG\" target=\"blank\">Measure, integral and probability / Marek Capinski and Ekkehard Kopp</a>\". Year:2005. ISBN:1-85233-781-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145266",
+      "name":"Ruppen Hans-Jörg"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"M. Capinski, E. Kopp : Measure, Integral and probability, Springer.",
+      "Forme d'enseignement":"Cours ex cathedra avec séances d'exercices",
+      "Contenu":"1. Mesure et probabilité[br/] - Systèmes d'ensembles (anneaux, algèbres, tribu,...)[br/] - Contenus, mesures et probabilités[br/] - Applications mesurables et variables aléatoires[br/][br/]2. Intégration[br/] - L'intégrale de Lebesgue et l'espérance d'une variable aléatoire[br/] - Théorèmes de convergence (convergence monotone, lemme de Fatou, théorème de Lebesgue)[br/][br/]3. Espaces normés : introduction[br/] - Norme, convergence et topologie[br/] - Espaces de Banach[br/] - Théorème du point fixe de Banach et applications[br/] - Applications : continuité, compacité, convexité",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Advanced Analysis II, probabilités, géométrie, équations aux dérivées partielles, calcul des variations",
+      "Objectifs d'apprentissage":"Donner les bases et les résultats principaux de la théorie de la mesure et de l'intégration. [br/]Introduction aux espaces de Banach.[br/]L'attention sera portée davantage sur les applications que sur les démonstrations complètes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analysis I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-85233-781-8&amp;con_lng=FRE\" target=\"blank\">Measure, integral and probability / Marek Capinski and Ekkehard Kopp</a>\". Année:2005. ISBN:1-85233-781-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

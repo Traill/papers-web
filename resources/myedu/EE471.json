@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1548160595&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","471"],
+    "title":"Distributed generation from renewables",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1548160595&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151097",
+      "name":"Nucci Carlo Alberto"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Prerequisite for":"Master projects in the areas of power systems and energy conversion systems.",
+      "Required prior knowledge":"Energy conversion, circuit and systems, electrical machines.",
+      "Content":"The course is divided in three parts, namely: (i) models of distributed energy conversion systems for electricity production, (ii) modeling of distributed storage systems and (iii) analysis and control of active distribution networks.[br/]1.\tModels of distributed energy conversion systems for electricity production[br/][tab]1.1.\tWind generators[br/][tab]1.2.\tPhotovoltaic systems[br/][tab]1.3.\tMini-hydro generators[br/][tab]1.4.\tHeat-and-power co-generation units[br/][tab]1.5.\tFuel cells systems[br/]2.\tModeling of distributed storage systems[br/][tab]2.1.\tClassification of storage systems as a function of their energy and power densities[br/][tab]2.2.\tElectrochemical storage systems[br/][tab]2.3.\tHydrogen cycles[br/][tab]2.4.\tSupercapacitors[br/][tab]2.5.\tCompressed-air storage systems[br/][tab]2.6.\tFlywheels[br/]3.\tAnalysis and control of active distribution networks[br/][tab]3.1.\tAdvanced power systems modeling[br/][tab]3.2.\tState estimation[br/][tab]3.3.\tPhasor Measurement Units and monitoring of active distribution networks[br/][tab]3.4.\tControl of active distribution networks[br/][tab]3.5.\tNetwork protections[br/][tab]3.6.\tGrid codes[br/]",
+      "Type of teaching":"Ex cathedra and integrated exercises",
+      "Learning outcomes":"The course focuses on the different aspects related to the distributed generation of electricity by means of renewables and non-renewables energy conversion systems. Particular consideration will be given to the aspects related to the dynamic behavior of the distributed energy resources and their interconnection to electrical grids. Concerning this last point, advanced monitoring and control methodologies in steady-state and transient conditions of power distribution grids will be illustrated in detail."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed generation from renewables",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151097",
+      "name":"Nucci Carlo Alberto"
+    },{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Conversions d'énergies, circuits et systèmes, machines électriques",
+      "Forme d'enseignement":"Ex cathedra. Exercices sur papier et à l'ordinateur",
+      "Contenu":"Le cours est réparti en trois domaines : (i) modèles de systèmes de conversion d'énergie pour la production distribué d'électricité, (ii) modélisation des systèmes de stockage distribué et (iii) analyse et contrôle des réseaux actifs de distribution.[br/]1. Modèles de systèmes de conversion d'énergie pour la production distribué d'électricité,[br/][tab]1.1. Générateurs éoliens[br/][tab]1.2. Systèmes photovoltaïques[br/][tab]1.3. Générateurs \"mini-hydro\"[br/][tab]1.4. Systèmes de conversion chaleur-électricité[br/][tab]1.5. Piles combustibles[br/]2. Modélisation des systèmes de stockage distribué[br/][tab]2.1.  Classification des systèmes de stockage en fonction de leurs densités d'énergie et de puissance[br/][tab]2.2. Systèmes de stockage électrochimique[br/][tab]2.3. Cycles hydrogènes[br/][tab]2.4. \"Supercapacitors\"[br/][tab]2.5. Systèmes de stockage air-comprimé[br/][tab]2.6. \"Flywheels\"[br/]3. Analyse et contrôle des réseaux actifs de distribution[br/][tab]3.1. Modélisation avancée des réseaux électriques[br/][tab]3.2. Estimation d'état[br/][tab]3.3. \"Phasor Measurement Units\" et monitoring des réseaux actifs de distribution[br/][tab]3.4. Contrôle des réseaux actifs de distribution[br/][tab]3.5. Protections du réseau[br/][tab]3.6. \"Grid codes\"[br/]",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Projets de master dans les disciplines: réseaux électriques et de systèmes de conversion d'énergie",
+      "Objectifs d'apprentissage":"Le cours est centré sur les différents aspects relatifs à la génération distribuée au travers des systèmes de conversion d'énergies renouvelables et non renouvelables. L'accent est mis sur les aspects portant sur le comportement dynamique des différentes ressources et de leur interconnexion aux réseaux électriques. Pour illustrer en détail ce dernier point, le cours se concentrera aussi sur les méthodologies de contrôle de monitoring avancé des réseaux électriques de distribution."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed generation from renewables",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=431474304&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","302"],
+    "title":"Biophysics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=431474304&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"PH",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189937",
+      "name":"Manley Suliana"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To examine cellular systems through physical models and quantitative approaches to analysis.",
+      "Content":"[b]Dynamics of cellular systems[/b][br/][li]Hierarchy of temporal scales[br/][li]Procedural time[br/][li]Relative time[br/][li]Manipulated time[br/][br/][b]Cellular model systems[/b][br/][li]E. Coli[br/][li]Bacteriophage[br/][li]Yeast[br/][li]Flies[br/][li]Exotica[br/][br/][b]Biological membranes[/b][br/][li]The nature of biological membranes[br/][li]Structure, mechanics and energetics[br/][li]Membranes and shape[br/][br/][b]Life in crowded and disordered environments[/b][br/][li]Crowding, linkage and entanglement[br/][li]Equilibria in crowded environments[br/][li]Crowded dynamics[br/][br/][b]Sequences, specificity and evolution[/b][br/][li]Biological information[br/][li]Sequence alignment and homology[br/][li]Sequences end evolution",
+      "Form of examination":"Oral exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biophysics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189937",
+      "name":"Manley Suliana"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[b]Dynamique des Systèmes Cellulaires[/b] [br/][li]Hiérarchie des échelles temporelles[br/][li]Temps de procédure[br/][li]Temps relatif[br/][li]Temps manipulé[br/][br/][b]Système modèle cellulaire[/b][br/][li]E. Coli[br/][li]Bactériophage[br/][li]Levure[br/][li]Mouches[br/][li]Systèmes exotiques[br/][br/][b]Membranes biologiques[/b][br/][li]La nature des membranes biologiques[br/][li]Structure, mécanique et énergétique[br/][li]Membranes et formes[br/][br/][b]Vie dans un environnement surpeuplé et désordonné[/b][br/][li]Entassement, liaison et enchevêtrement[br/][li]Equilibre dans un environnement surpeuplé[br/][li]Dynamique dans un milieu surpeuplé[br/][br/][b]Séquences, spécificité et évolution[/b][br/][li]Information biologique[br/][li]Alignement séquentiel et homologie[br/][li]Séquences et évolution[br/]",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Examiner les systèmes cellulaires au travers des modèles physiques et des approches quantitatives"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biophysics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1569859954&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","610"],
+    "title":"Nonlinear Spectroscopy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1569859954&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209207",
+      "name":"Roke Sylvie"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Content":"Molecular properties relevant for spectroscopy[br/]Symmetry properties, space, time induced[br/]Susceptibility: Relation between molecular properties and macroscopic[br/]optical properties[br/]Overview of nonlinear optical spectroscopies: SHG / SFG / CARS[br/]Nonlinear optical spectroscopy on planar surfaces[br/]Nonlinear optical spectroscopy on particle surfaces[br/]",
+      "Required prior knowledge":"bachelor level physics / chemistry "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nonlinear Spectroscopy",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209207",
+      "name":"Roke Sylvie"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nonlinear Spectroscopy",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

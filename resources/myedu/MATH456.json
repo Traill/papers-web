@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354984919&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","456"],
+    "title":"Numerical Analysis and Computational Mathematics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354984919&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159570",
+      "name":"Dede' Luca"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student learns to numerically approximate several mathematical problems such as nonlinear equations, linear systems, integration and differentiation, ordinary differential equations on eigenvalues. He implements the studied methods in Matlab/Octave.[br/]",
+      "Content":"- Numerical approximation of nonlinear equations[br/]- Numerical integration[br/]- Interpolation[br/]- Numerical Linear Algebra (direct and iterative methods)[br/]- Numerical methods for Ordinary Differential Equations[br/]- Numerical approximation of eigenvalues[br/]- Implementation of algorithms",
+      "Type of teaching":"Ex cathedra lectures, exercises in computer room",
+      "Required prior knowledge":"Analysis, Linear algebra, basic knowledge of Matlab/Octave"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical Analysis and Computational Mathematics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-34658-6&amp;con_lng=ENG\" target=\"blank\">Numerical mathematics / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Year:2007. ISBN:978-3-540-34658-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-12429-7&amp;con_lng=ENG\" target=\"blank\">Scientific computing with MATLAB and Octave / Alfio Quarteroni, Fausto Saleri, Paola Gervasio</a>\". Year:2010. ISBN:978-3-642-12429-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159570",
+      "name":"Dede' Luca"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle d'ordinateurs",
+      "Contenu":"- Approximation numérique des équations non linéraires[br/]- Intégration numérique[br/]- Interpolation[br/]- Algèbre linéaire numérique (méthodes directes et itératives)[br/]- Méthodes numériques pour équations différentielles ordinaires[br/]- Approximation numériques des valeurs propres[br/]- Implémentation des algorithmes",
+      "Prérequis":"Analyse, algèbre linéaire, connaissances de base de Matlab/Octave",
+      "Bibliographie et matériel":"A. Quarteroni, F. Saleri, P. Gervasio, Scientific Computing with MATLAB and Octave, 3rd ed., Springer, Berlin, 2010.[br/][br/]A. Quarteroni, R. Sacco, F. Saleri, Numerical Mathematics, 2nd ed., Springer, Berlin, 2007.",
+      "Objectifs d'apprentissage":"L'étudiant apprend comment résoudre numériquement ou approximer des problèmes mathématiques, comme par exemple des équations non linéaires, systèmes linéaires, intégration et dérivation, équations différentielles ordinaires ou valeurs propres. Il implémentes les méthodes apprises en Matlab/Octave."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Numerical Analysis and Computational Mathematics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-34658-6&amp;con_lng=FRE\" target=\"blank\">Numerical mathematics / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Année:2007. ISBN:978-3-540-34658-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-12429-7&amp;con_lng=FRE\" target=\"blank\">Scientific computing with MATLAB and Octave / Alfio Quarteroni, Fausto Saleri, Paola Gervasio</a>\". Année:2010. ISBN:978-3-642-12429-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2258712&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","250"],
+    "title":"Algorithms",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2258712&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://algo.epfl.ch/en/courses","http://algo.epfl.ch/en/courses"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208662",
+      "name":"Etesami Seyed Omid"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The main objective of this course is to provide the students with theory and practice of the basic concepts and techniques in algorithmics. The course is designed to enable students to solve problems in engineering and computer science.[br/][br/]Lectures in English. Support materials and exercises in English.",
+      "Content":"[b]Mathematical Induction[/b][br/][li]\tMathematical background, counting regions, coloring problem, Euler's formula, Gray codes, edge-disjoint paths.[br/][b]Analysis of Algorithms[/b][br/][li]\tO-notation, time and space complexity, recurrence relations.[br/][b]Data structures[/b][br/][li]\tArrays, linked lists, trees, heaps, AVL trees, hashing, graphs.[br/][b]Design of algorithms by induction[/b][br/][li]\tEvaluating polynomials, the celebrity problem, divide-and-conquer algorithms, dynamic programming.[br/][b]Greedy Algorithms[/b][br/][b]Sorting and searching[/b][br/][li]\tMerge sort, Bucket sort, Quicksort, Heapsort, binary search, interpolation search, order statistics.[br/][b]Graphs algorithms and data structures[/b][br/][li]\tGraphs traversals, shortest paths, spanning trees, transitive closure, decompostitions, matching, network flows.[br/][b]Complexity[/b][br/][li]\tPolynomial reductions, NP-completeness.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra lecture, exercises in classroom",
+      "Form of examination":"Final exam 100%"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Algorithms",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-37291-3&amp;con_lng=ENG\" target=\"blank\">Algorithm design / Jon Kleinberg, Éva Tardos</a>\". Year:2006. ISBN:0-321-37291-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-77977-3&amp;con_lng=ENG\" target=\"blank\">Algorithms and data structures : the basic toolbox / Kurt Mehlhorn ; Peter Sanders</a>\". Year:2008. ISBN:978-3-540-77977-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-03384-8&amp;con_lng=ENG\" target=\"blank\">Introduction to algorithms / Thomas H. Cormen ... [et al.]</a>\". Year:2009. ISBN:978-0-262-03384-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-12037-2&amp;con_lng=ENG\" target=\"blank\">Introduction to algorithms : a creative approach / Udi Manber</a>\". Year:1989. ISBN:0-201-12037-2</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://algo.epfl.ch/en/courses","http://algo.epfl.ch/en/courses"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208662",
+      "name":"Etesami Seyed Omid"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[b]Récurrence Mathématique[/b][br/][li]\tBases mathématiques, compter des régions, problème de coloration, formule d'Euler, codes de Gray, chemins d'arrêtes disjoints.[br/][b]Analyse d'algorithmes[/b][br/][li]\tNotation O, complexité en temps et espace, relations de récurrence.[br/][b]Structures de données[/b][br/][li]\tTableaux, listes chaînées, arborescences, monceaux, arbres AVL, tables de hachage, graphes.[br/][b]Planifier des algorithmes par induction[/b][br/][li]\tÉvaluer des polynômes, le problème de la vedette, algorithmes du type « diviser pour régner », programmation dynamique.[br/][b]Algorithmes gloutons[/b][br/][b]Tri et recherche[/b][br/][li]\tTri par fusion, tri panier, Quicksort, Heapsort, recherche dichotomique, recherché par interpolation, statistiques d'ordre.[br/][b]Algorithmes de graphes et structures  de données[/b][br/][li]\tTraverser des graphes, plus court chemin, arbres couvrants, fermeture transitive, décompositions,  couplages, flux dans un réseau.[br/][b]Complexité[/b][br/][li]\tRéductions polynomiales, NP-complétude[/b].",
+      "Forme du contrôle":"Examen final 100%",
+      "Bibliographie et matériel":"Udi Manber, Addison Wesley publisher : Introduction to Algorithms : A creative approach, 1989.[br/]Cormen, Leiserson, Rivest, Stein : Introduction to Algorithms, MIT Press, 2001.",
+      "Objectifs d'apprentissage":"Connaître et savoir utiliser les notions de base des mathématiques théoriques et pratiques. Ce cours permettra au étudiants de résoudre des problèmes aux sciences de l'ingénieur et notamment en informatique.[br/][br/]Cours en anglais. Support de cours et exercices en anglais."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Algorithms",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-37291-3&amp;con_lng=FRE\" target=\"blank\">Algorithm design / Jon Kleinberg, Éva Tardos</a>\". Année:2006. ISBN:0-321-37291-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-77977-3&amp;con_lng=FRE\" target=\"blank\">Algorithms and data structures : the basic toolbox / Kurt Mehlhorn ; Peter Sanders</a>\". Année:2008. ISBN:978-3-540-77977-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-03384-8&amp;con_lng=FRE\" target=\"blank\">Introduction to algorithms / Thomas H. Cormen ... [et al.]</a>\". Année:2009. ISBN:978-0-262-03384-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-12037-2&amp;con_lng=FRE\" target=\"blank\">Introduction to algorithms : a creative approach / Udi Manber</a>\". Année:1989. ISBN:0-201-12037-2</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

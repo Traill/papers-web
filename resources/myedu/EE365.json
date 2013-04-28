@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773482&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","365"],
+    "title":"Power electronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773482&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The basic applications of static converter will be presented. Together with[br/]relationships and specifications for power electronic circuits, the students[br/]will understand the behavior of different power electronic systems with[br/]relation to the control strategy and circuits.",
+      "Content":"[li]Applications in the field of electrical drives with variable speed[br/][li]Applications in the field of classical energy production and transport,[br/]compensation of reactive power and power filtering.[br/][li]Applications in the field of renewable electrical energy[br/][li]Applications in electrical traction",
+      "Bibliography and material":"Duplicated documents, duplicated lecture notes[br/]Book \"Convertisseur statique\", H. Bühler",
+      "Form of examination":"Written",
+      "Required prior knowledge":"Power electronics I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Power electronics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[li]Applications dans le domaine des entraînements électriques à[br/]vitesse variable[br/][li]Applications dans le domaine de l'énergie électrique, systèmes[br/]classiques de production et de transport d'énergie électrique,[br/]compensation de la puissance réactive, filtrage[br/][li]Applications dans le domaine des énergies renouvelables[br/][li]Applications dans le domaine de la traction électrique",
+      "Forme du contrôle":"Ecrit",
+      "Prérequis":"Power electronics I",
+      "Bibliographie et matériel":"Notes de cours polycopiées[br/]Livre \"Convertisseur statique\", H. Bühler",
+      "Objectifs d'apprentissage":"Les étudiants seront capables de connaître l'utilisation des[br/]convertisseurs statiques en relation avec les différents systèmes et[br/]domaines d'application. En plus des exigences posées aux circuits de[br/]puissance eux-mêmes, les étudiants seront en mesure de[br/]comprendre le fonctionnement d'un système du point de vue des[br/]fonctions de réglage associées."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electronique de puissance",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

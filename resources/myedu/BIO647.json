@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2976628&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","647"],
+    "title":"Orthopedic Engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2976628&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDBB",
+    "program":"EDBB",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    },{
+      "url":"http://people.epfl.ch/185421",
+      "name":"Jolles-Haeberli Brigitte"
+    },{
+      "url":"http://people.epfl.ch/103117",
+      "name":"Pioletti Dominique"
+    },{
+      "url":"http://people.epfl.ch/106533",
+      "name":"Terrier Alexandre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To describe the different aspects in the development of a knee implant by considering :[br/][li] clinical context for orthopedic engineering[br/][li] outcome measurement in orthopedics and evaluation of functional performance[br/][li] biomechanics theory and numerical methods[br/]",
+      "Content":"1. Clinical perspective : knee arthrosis, knee autonomy for implant develppment consideration (Prof B. Jolles-Haeberli)[br/]2. Kinematics measurements (Prof. K. Aminian)[br/]3. Knee biomechanics (Prof. D. Pioletti)[br/]4. Pre-operating planning + Possibility to see a knee surgery or visit the operating rooms (Prof. Brigitte Jolles-Haeberli, Mrs. Els Drubbels)[br/]5. Knee implant numerical studies (Dr A. Terrier)[br/]6. Knee implant : CE mark and industrialization (M. Vincent Leclercq et Prof. Brigitte Jolles-Haeberli)[br/]",
+      "Note":"Hôpital Orthopédique[br/]4, Avenue Pierre Decker[br/]1011 Lausanne[br/]Auditoire Placide Nicod, 5e étage"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Orthopedic Engineering",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104385",
+      "name":"Aminian Kamiar"
+    },{
+      "url":"http://people.epfl.ch/185421",
+      "name":"Jolles-Haeberli Brigitte"
+    },{
+      "url":"http://people.epfl.ch/103117",
+      "name":"Pioletti Dominique"
+    },{
+      "url":"http://people.epfl.ch/106533",
+      "name":"Terrier Alexandre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Hôpital Orthopédique[br/]4, Avenue Pierre Decker[br/]1011 Lausanne[br/]Auditoire Placide Nicod, 5e étage",
+      "Contenu":"[br/]Part 1: Clinical background[br/][br/][][]- Knee ligament pathology[br/][][]- Cartilage pathology[br/][][]- Orthopedic implant[br/][br/]Part 2: General biomechanics in orthopedics[br/][br/][][]- Review of the major human joints, their prosthetic replacement and the related clinical problems.[br/][][]- Continuum mechanics of deformable bodies: conservation laws, constitutive laws and evolution laws.[br/][][]- Numerical methods: geometric reconstruction, finite element method, non-linearity.[br/][][]- Application of the presented methods to a specific problem: stress analysis of bone and soft structures.[br/][br/]Part 3: Constitutive laws[br/][br/][][]- Definition of variables: strain and stress tensors[br/][][]- Definition and exemples of constitutive laws[br/][][]- Description of the identification process for a particular constitutive law[br/][br/]Part 4: Background for soft tissue biomechanics[br/][br/][][]- Tissue, cell, and molecular scales; cell biological responses to mechanical stimulation.[br/][][]- Mechanical properties; poroelastic mechanics.[br/][][]- Transport properties; transport kinetics; diffusion-convection.[br/][][]- Electrokinetic phenomena; the electrical double layer; molecular modelling.[br/][][]- Biomechanics of cartilage injury and tissue engineering; physical diagnosis of cartilage degradation.",
+      "Objectifs d'apprentissage":"1. to describe the clinical context for orthopedic engineering[br/][br/]2. to introduce the biomechanics theory and the numerical methods developed in orthopedics research[br/][br/]3. to learn in the context of biomechanics, how to identify experimental results to a theoretical description[br/][br/]4. to understand relationships between molecular structure and macroscopic function of soft tissues"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Orthopedic Engineering",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

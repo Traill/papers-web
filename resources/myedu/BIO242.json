@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1536412740&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","242"],
+    "title":"Physical biology of the cell",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1536412740&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141360",
+      "name":"Hubbell Jeffrey Alan"
+    },{
+      "url":"http://people.epfl.ch/182445",
+      "name":"Maerkl Sebastian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Physical biology of the cell",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4163-5&amp;con_lng=ENG\" target=\"blank\">Physical biology of the cell / Rob Phillips, Jane Kondev, Julie Theriot ; with problems, solutions, and ed. assistance of Hernan G. Garcia</a>\". Year:2009. ISBN:978-0-8153-4163-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141360",
+      "name":"Hubbell Jeffrey Alan"
+    },{
+      "url":"http://people.epfl.ch/182445",
+      "name":"Maerkl Sebastian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra course",
+      "Contenu":"[li]Introduction to Physical Phenomena In and Around the Cell (1 hr)[br/][li]Physical Biology of the Matrix (2 hr)[br/][li]Physical Biology of the Cytoskeleton and Migration (2 hr)[br/][li]Trafficking in the Membrane and Cell (3 hr)[br/][li]Physical Biology in Flow and Stress Fields (2 hr)[br/][li]Thermodynamics (3 hr)[br/][li]Measurement Techniques (3 hr)[br/][li]Transcription Factor Biophysics (3 hr)[br/][li]Statistical Mechanics Applied to Gene Regulation (3 hr)[br/][li]Promoter Input/Output Function (3 hr)[br/][li]Synthetic Biology (3 hr)[br/]",
+      "Forme du contrôle":"Written exam",
+      "Bibliographie et matériel":"R. Phillips, J. Kondev, J. Theriot, [i]Physical Biology of the Cell[/i], Garland Science (2008).[br/]Handouts of slides on MOODLE",
+      "Objectifs d'apprentissage":"The course [i]Physical Biology of the Cell[/i] introduces quantitative descriptions of cellular structure and molecular interactions.  The course aims to integrate quantitative methods with cell biology. Particular emphasis will be placed on cellular architecture and mass transport of molecules, and an in depth description of transcription factor biophysics, promoter structure, and gene regulation. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Physical biology of the cell",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4163-5&amp;con_lng=FRE\" target=\"blank\">Physical biology of the cell / Rob Phillips, Jane Kondev, Julie Theriot ; with problems, solutions, and ed. assistance of Hernan G. Garcia</a>\". Année:2009. ISBN:978-0-8153-4163-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

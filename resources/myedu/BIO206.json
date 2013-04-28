@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351098756&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","206"],
+    "title":"Cellular and Molecular Biology III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351098756&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171552",
+      "name":"Hülsken Jörg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li] The course will make students aware of the principles and mechanisms governing cell division and allow them to comprehend how alterations in physiological mechanisms required for tissue homeostasis can be tumorigenic.[br/][li] The students will be able to identify key components of cell cycle regulatory pathways and oncogenic signaling pathways and discuss their functions.[br/][li] The students will understand the functions of cell adhesion and attachment in cell division, cell migration and cell signaling.[br/][li] Understand the principals of genetic analysis, and how to use genetics as a tool to identify key elements that participate in a process of interest.  [br/]",
+      "Content":"During this course, we will discuss:[br/]1. How cell division is regulated.[br/]2. Programs of controlled cell death.[br/]3. The cell's adhesive properties; its functions in tissues and their regulation[br/]4. How cells communicate with each other[br/]5. An introduction to the cell and molecular biology of higher order cellular organizations in tissues, their homeostasis and repair by stem cells and how misregulation of these processes can lead to cancer.[br/][li] We will cover the material in Chapters 17, 18, 19, 20, 22 and 23 of « Molecular Biology of the Cell », Alberts et al. (5th edition, English version)[br/][li] The weekly lectures will be followed by exercises. The goal of these exercises will be to consolidate the knowledge of the course topics through problem solving tasks and the presentation of reviews and scientific articles[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Cellular and Molecular Biology III",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=ENG\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Year:2010. ISBN:978-0-8153-4129-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4105-5&amp;con_lng=ENG\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Year:2008. ISBN:978-0-8153-4105-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171552",
+      "name":"Hülsken Jörg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Biologie Moléculaire I,II, Biologie Cellulaire I,II",
+      "Bibliographie et matériel":"« Molecular Biology of the Cell », Alberts et al. (5th edition, English version).",
+      "Forme d'enseignement":"Course ex cathedra and exercises",
+      "Contenu":"Durant ce cours, nous parlerons de :[br/]1. La façon dont la division cellulaire est régulée.[br/]2. Programmes de mort cellulaire contrôlée.[br/]3. L'adhésion de la cellule, ses fonctions dans les tissues et leur régulation.[br/]4. Comment les cellules communiquent entre elles;[br/]5. Introduction à la biologie moléculaire et cellulaire des organisations cellulaires d'ordre supérieur dans des tissus, leurs homéostasies et la réparation par des cellules souches et comment la dérégulation de ces processus peut résulter en un cancer.[br/][li] Nous utiliserons les données trouvées dans les chapitres 17, 18, 19, 20, 22 et 23 de « Molecular Biology of the Cell », Alberts et al. (5ème édition, version anglaise).[br/][li] Les présentations hebdomadaires seront suivies par des exercices. Le but de ces exercices sera de consolider la matière apprise lors des cours au travers de questions demandant la résolution de problèmes et également la présentation d'articles scientifiques et critiques.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Introduction to Oncology, Génétique et Physiologie par systèmes I,II",
+      "Objectifs d'apprentissage":"[li] Le cours informera les étudiants sur les principes et mécanismes gouvernant la division cellulaire et leur permettra de comprendre comment des modifications dans des mécanismes physiologiques requis pour des homéostasies tissulaires peuvent provoquer des tumeurs.[br/][li] Les étudiants seront capables d'identifier des composants clé des voies régulatrices du cycle cellulaire et des voies oncogènes de signalisation et d'en discuter leurs fonctions.[br/][li] Les étudiants comprendront les fonctions de l'adhésion et attachement de la cellule dans la division, la migration et la signalisation cellulaires.[br/][li] Ils comprendront les principes de l'analyse génétique, et sauront comment utiliser la génétique comme outil pour identifier les éléments-clés qui participent à un processus d'intérêt.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie cellulaire et moléculaire III",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=FRE\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Année:2010. ISBN:978-0-8153-4129-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4105-5&amp;con_lng=FRE\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Année:2008. ISBN:978-0-8153-4105-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

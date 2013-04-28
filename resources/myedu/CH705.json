@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80625536&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","705"],
+    "title":"Current topics in mass spectrometry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80625536&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183163",
+      "name":"Menin Laure"
+    },{
+      "url":"http://people.epfl.ch/174689",
+      "name":"Tsybin Yury"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] to present the current state-of-the-art of advanced mass spectrometrical techniques and introduce novel insights into fundamental aspects of gas phase ion chemistry and physics[br/][li] to meet the current practical demand of the EPFL research community to improve structural analysis of (bio) molecules and their complex mixtures by mass spectrometry",
+      "Content":"The content will depend each year on the demand from the EPFL research groups in chemistry and biology to cover the current \"hot\" topics in advanced mass spectrometry applied to organic chemistry, metabolomics, proteomics and structural biology.Course program includes: mass spectrometry basics, bottom-up and top-down mass spectrometry for peptide and protein analysis, including characterization of post-translational modifications, protein quantification, protein-ligand and protein-protein interactions with a focus on modern MS/MS techniques - electron capture/transfer dissociation. The course includes practical work in mass spectrometry laboratories in the Biomolecular Mass Spectrometry Laboratory and Mass Spectrometry Service Facility of the EPFL.",
+      "Keywords":"mass spectrometry, proteomics, amalytical chemistry, liquid chromatography, tandem mass spectrometry, high resolution mass spectrometry[br/]",
+      "Required prior knowledge":"Biochemistry, Mass Spectrometry Fundamentals"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Current topics in mass spectrometry",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183163",
+      "name":"Menin Laure"
+    },{
+      "url":"http://people.epfl.ch/174689",
+      "name":"Tsybin Yury"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The content will depend each year on the demand from the EPFL research groups in chemistry and biology to cover the current \"hot\" topics in advanced mass spectrometry applied to organic chemistry, metabolomics, proteomics and structural biology.Course program includes: mass spectrometry basics, bottom-up and top-down mass spectrometry for peptide and protein analysis, including characterization of post-translational modifications, protein quantification, protein-ligand and protein-protein interactions with a focus on modern MS/MS techniques - electron capture/transfer dissociation. The course includes practical work in mass spectrometry laboratories in the Biomolecular Mass Spectrometry Laboratory and Mass Spectrometry Service Facility of the EPFL.",
+      "Mots clés":"mass spectrometry, proteomics, amalytical chemistry, liquid chromatography, tandem mass spectrometry, high resolution mass spectrometry[br/]",
+      "Prérequis":"Biochemistry, Mass Spectrometry Fundamentals",
+      "Objectifs d'apprentissage":"[li] to present the current state-of-the-art of advanced mass spectrometrical techniques and introduce novel insights into fundamental aspects of gas phase ion chemistry and physics[br/][li] to meet the current practical demand of the EPFL research community to improve structural analysis of (bio) molecules and their complex mixtures by mass spectrometry"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Current topics in mass spectrometry",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

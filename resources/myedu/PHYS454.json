@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513585451&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","454"],
+    "title":"Quantum optics and quantum information",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513585451&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105021",
+      "name":"Dupertuis Marc-André"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Fully quantum theory of the light-matter interaction. Study of interacting quantum systems. Introduction to a few modern problems in quantum optics (dynamics in optically excited semiconductors, mechanical effects and Bose condensation). Introduction to quantum information. Quantum cryptography and quantum computing.[br/]",
+      "Content":"[b]5.\tFully quantum theory of the light-matter interaction, and of the laser.[/b][br/]\tJaynes-Cummings model and spontaneous emission. Master equation for system-reservoir interaction within the Born-Markov approximation. Fully quantum theory of the laser: photon statistics and laser linewidth.[br/][br/][b]6.\tIntroduction to many-body effects in semiconductors. Microcavities.[/b][br/]\tSemiconductor Bloch equations. Excitons. « Incoherent » relaxation terms. Correlation phenomena in atoms and quantum boxes. Microcavities, strong coupling and polaritons.[br/][br/][b]7.\tMechanical effects in the light-matter interaction.[/b][br/]\tRadiation pressure. Atom laser cooling. Bose condensation in cold gases.[br/][br/][b]8.\tIntroduction to quantum theory of information.[/b][br/]\tThe quantum bit. Entangled states and Bell inequalities. Quantum cryptography, Quantum teleportation, Quantum simulation and quantum computers.[br/][br/]",
+      "Type of teaching":"Ex cathedra with exercises, presentation of scientific articles by the students",
+      "Form of examination":"oral (70%), presentation in a team of two of a scientific article (30%)",
+      "Required prior knowledge":"Quantum physics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Quantum optics and quantum information",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105021",
+      "name":"Dupertuis Marc-André"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Mécanique quantique",
+      "Bibliographie et matériel":"notes polycopiées",
+      "Forme d'enseignement":"Ex cathedra avec exercices, présentation d'articles par les étudiants",
+      "Contenu":"[b]5.\tThéorie pleinement quantique de l'interaction rayonnement-atome et du laser.[/b][br/]\tModèle de Jaynes-Cummings et émission spontanée. Equation maîtresse pour l'interaction système-réservoir dans l'approximation de Born-Markov. Théorie pleinement quantique du laser : statistique des photons et largeur de ligne. [br/][br/][b]6.\tIntroduction aux effets à N corps dans les semiconducteurs. Les microcavités.[/b][br/]\tÉquations de Bloch pour les semiconducteurs. Excitons. Termes « incohérents ». Phénomènes de corrélation dans les atomes et les boîtes quantiques. Microcavités, couplage fort et polaritons.[br/][br/][b]7.\tEffets mécaniques dans l'interaction lumière-matière.[/b][br/]\tPression de radiation. Refroidissement d'atomes par laser. Condensation de Bose dans les gazs froids.[br/][br/][b]8.\tIntroduction à la théorie quantique de l'information.[/b][br/]\tLe bit quantique. Etats enchevêtrés et les intégalités de Bell. Cryptographie quantique, Téléportation quantique. La simulation quantique et les ordinateurs quantiques.",
+      "Forme du contrôle":"oral (70%), présentation et discussion d'un article scientifique par groupes de deux (30%)",
+      "Objectifs d'apprentissage":"Théorie pleinement quantique du laser. Etudes de systèmes quantiques en interaction. Introduction à quelques problématiques modernes de l'optique quantique (dynamique des semiconducteurs excités, effets mécaniques et condensation de Bose). Introduction à l'information quantique. Cryptographie et calcul quantiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optique et information quantique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

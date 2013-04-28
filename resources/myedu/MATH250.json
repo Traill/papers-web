@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","250"],
+    "title":"Numerical analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190276",
+      "name":"Ruiz Baier Ricardo Esteban"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will learn to numerically solve different mathematical problems of practical interest and to critically discuss the usefulness of the proposed algorithms.",
+      "Content":"-\tStability, consistency, convergence of numerical methods[br/]-\tInterpolation, numerical integration and differentiation[br/]-\tDirect and iterative methods for the resolution of large linear systems[br/]-\tNonlinear equations and nonlinear systems of equations[br/]-\tOrdinary differential equations",
+      "Type of teaching":"Ex cathedra lectures and exercises in the classroom and on the computer",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Analysis I and II, Linear Algebra I and II, Computer Science I and II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Numerical analysis",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1675-0&amp;con_lng=ENG\" target=\"blank\">Calcul scientifique : cours, exercices corrigés et illustrations en MATLAB et Octave / by Alfio Quarteroni, Paola Gervasio, Fausto Saleri</a>\". Year:2010. ISBN:978-88-470-1675-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-0495-5&amp;con_lng=ENG\" target=\"blank\">Méthodes numériques : algorithmes, analyse et applications / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Year:2007. ISBN:978-88-470-0495-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-34658-6&amp;con_lng=ENG\" target=\"blank\">Numerical mathematics / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Year:2007. ISBN:978-3-540-34658-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190276",
+      "name":"Ruiz Baier Ricardo Esteban"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Algèbre linéaire I et II, Informatique I et II",
+      "Bibliographie et matériel":"A. Quarteroni, R. Sacco et F. Saleri : « Méthodes Numériques Algorithmes, analyse et applications » Springer, 2007, ISBN 978-88-470-0495-5.[br/]A. Quarteroni, R. Sacco et F. Saleri : « Numerical Mathematics » Springer, 2007, ISBN 978-3-540-34658-6.[br/]A. Quarteroni et F. Saleri : « Calcul Scientifique : Cours, exercices corrigés et illustrations en MATLAB et OCTAVE », Springer, 2006, ISBN 978-88-470-0487-0. Edition Française",
+      "Forme d'enseignement":"Ex cathedra et exercices en salle et sur ordinateurs",
+      "Contenu":"-\tStabilité, consistance, convergence des méthodes numériques[br/]-\tInterpolation, intégration et différentiation numériques[br/]-\tMéthodes directes et itératives pour la résolution de systèmes linéaires de grande dimension[br/]-\tEquations et systèmes d'équations non linéaires[br/]-\tEquations différentielles ordinaires",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"L'étudiant apprendra à résoudre numériquement divers problèmes mathématiques d'intérêt pratique et à discuter la valeur des algorithmes proposés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse numérique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1675-0&amp;con_lng=FRE\" target=\"blank\">Calcul scientifique : cours, exercices corrigés et illustrations en MATLAB et Octave / by Alfio Quarteroni, Paola Gervasio, Fausto Saleri</a>\". Année:2010. ISBN:978-88-470-1675-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-0495-5&amp;con_lng=FRE\" target=\"blank\">Méthodes numériques : algorithmes, analyse et applications / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Année:2007. ISBN:978-88-470-0495-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-34658-6&amp;con_lng=FRE\" target=\"blank\">Numerical mathematics / Alfio Quarteroni, Riccardo Sacco, Fausto Saleri</a>\". Année:2007. ISBN:978-3-540-34658-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

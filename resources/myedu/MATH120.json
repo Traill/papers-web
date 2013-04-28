@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773797&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","120"],
+    "title":"Geometry I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773797&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course aims to provide a basic culture and a solid foundation in geometry, to link this topic to other classes and to develop a geometric intuition.",
+      "Content":"1. Historical background[br/]2. The Euclid's Elements[br/]3. Axiomatization of the  Euclidean space[br/]4. Vector and affine geometry[br/]5. Inner products, vector and mixed products[br/]6. Spherical geometry[br/]7. Affine transformations[br/]8. Notions of projective geometry",
+      "Type of teaching":"Ex cathedra course with exercises sessions",
+      "Form of examination":"Written exam",
+      "Note":"Link with other courses: Linear Algebra, Analysis"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geometry I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=ENG\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Year:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106581",
+      "name":"Troyanov Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Liaison avec d'autres cours : Algèbre linéaire, Analyse",
+      "Bibliographie et matériel":"Livre de M. Troyanov : \"Cours de Géométrie\", PPUR 2009.",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices",
+      "Contenu":"1. Quelques repères historiques[br/]2. Les Eléments d'Euclide[br/]3. Axiomatisation de l'espace euclidien[br/]4. Géométrie vectorielle et affine[br/]5. Produits scalaire, vectoriel et mixtes[br/]6. Géométrie sphérique[br/]7. Transformations affines[br/]8. Notions de géométrie projective",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Le but du cours est de donner une culture et des fondements solides en géométrie, de relier ce sujet aux autres cours de bases et développer une intuition géométrique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Géométrie I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=FRE\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Année:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1637603376&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","264"],
+    "title":"Mapping : urban portrait",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1637603376&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"ENAC",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196819",
+      "name":"Chavinier Elsa"
+    },{
+      "url":"http://people.epfl.ch/166241",
+      "name":"Lévy Jacques"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Mapping : urban portrait",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196819",
+      "name":"Chavinier Elsa"
+    },{
+      "url":"http://people.epfl.ch/166241",
+      "name":"Lévy Jacques"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"L'enseignement articule apports théoriques, travaux en groupe et séminaires. [br/]Les étudiants travaillent à la réalisation collective d'un atlas urbain.[br/]Cet atlas critique - dont la réalisation est confiée à l'ensemble du groupe - procède d'un montage de documents existants et de réalisations originales. Des trinômes interdisciplinaires prennent en charge une partie de la réalisation de l'objet final en proposant et en analysant des documents.[br/]",
+      "Contenu":"Cet enseignement propose une progression en plusieurs étapes :[br/]       - Introduction générale à la cartographie.[br/]       - Panorama historique de la construction du langage cartographique. [br/]       - Introduction à la sémiologie graphique.[br/]- Études de corpus de cartes articulées par des thèmes spécifiquement urbains (la densité, le mouvement, le temps, la diversité, l'espace public, les métriques piétonnes...). [br/]- Réalisation de cartes, de la conception à la mise en ½uvre graphique (utilisation de logiciels ad hoc : gestionnaire de base de données, tableur, logiciel de cartographie automatique, édition vectorielle). [br/]       - Montage d'un atlas.",
+      "Forme du contrôle":"L'évaluation est faite sur la base des comptes-rendus présentés lors des séminaires, des documents produits et de la présentation finale.",
+      "Objectifs d'apprentissage":"Contexte[br/]Foisonnement toujours plus débridé de l'offre de geodonnées (libres ou non), démocratisation toujours plus marquée des outils de gestion et de représentation de ces données... tout concourt à donner un poids toujours plus important à un outil majeur de la gouvernance territoriale : la carte.[br/]Pourtant, force est de constater que la culture cartographique des acteurs impliqués reste balbutiante. [br/]Pas plus naturel qu'universel, le langage cartographique est malgré tout traité de façon marginale alors que son apprentissage est nécessaire. La représentation cartographique est un processus en bout de chaîne tant pour les spécialistes du traitement des géodonnées que pour ceux de la représentation graphique. Partant, elle est trop souvent négligée.[br/]Or, la ville a singulièrement besoin d'une cartographie à la fois exigeante et novatrice. Le propre de l'urbanité - densité, diversité, mobilité - se laisse en effet difficilement saisir et représenter.[br/][br/]\tObjectifs[br/]Il s'agit d'acquérir un premier niveau de compétence en cartographie. Ces fondamentaux de la culture cartographique contemporaine sont aussi bien théoriques que pratiques. [br/]L'objectif est donc triple. Il s'agit de :[br/]\t- Comprendre les enjeux de la représentation cartographique,[br/]\t- Analyser des documents cartographiques, [br/]\t- Réaliser des cartes.[br/]Ce cours exige également des étudiants de pouvoir coordonner un travail d'équipe et définir un projet commun dans des groupes, toujours pluridisciplinaires, de taille variable.[br/]La réalisation d'un atlas mêlant documents originaux et cartes existantes implique un fort travail critique qui démultiplie la portée des compétences acquises en un temps restreint.[br/]"
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Cartographie : portrait urbain",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

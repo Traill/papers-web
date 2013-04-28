@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776317&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","475"],
+    "title":"Computer-aided multi-body simulation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776317&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107556",
+      "name":"Xirouchakis Paul"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Group project reports on multi-body dynamics modeling. A written exam will concern the application of the theory in the projects.",
+      "Bibliography and material":"Course documentation is distributed during the semester. Project support material can be downloaded from the licp laboratory website (http://licpwww.epfl.ch/cours/Simulation%20multicorps/)",
+      "Required prior knowledge":"[li]Apply the concepts of rigid and deformable body mechanics and of continuum mechanics to model and solve analytically problems of statics, structural stress analysis or simple mechanisms, S1 (Mécanique des structures)[br/][li]Apply the concepts of structural dynamics to predict and optimize the vibration (free or forced, conservative or damped) behaviour of multiple-degree-of-freedom or continuum systems, S3 (Mécanique vibratoire)",
+      "Content":"The objective of this course is to introduce to the student the basic computer-aided concepts, models, algorithms and methods for the kinematic and dynamic analysis of multi-body systems. Constraint equations are developed for various types of kinematic joints. Computer aided methods are also developed for the numerical prediction of singular configurations. Dynamical equations of motion are developed for constrained multi-body systems.",
+      "Keywords":"Kinematic singularities, Constrained multi-body simulation",
+      "Type of teaching":"The course is organised in theoretical sessions and the multi-body dynamics modelling to be realised in team projects.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]Master experimental and numerical analysis tools, CP2[br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP6[br/]Realize, analyse and discuss a model: 3D complex geometries and assemblies, static, kinematic, dynamic, thermal and ultimate behaviour, life-cycle and costs of a system (product, manufacturing process or production system), CP8[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12[br/][li]Form and motivate a team, T13[br/][li]Share knowledge and experience with peers, T25"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computer-aided multi-body simulation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107556",
+      "name":"Xirouchakis Paul"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Appliquer les concepts de la mécanique des solides rigides et déformables et de la mécanique des milieux continus pour modéliser et résoudre analytiquement des problèmes de statique et d'analyse de contraintes d'éléments de structures ou de mécanismes simples, S1 (Mécanique des structures)[br/][li]Appliquer les concepts de la dynamique des structures pour prédire  et optimiser le comportement vibratoire, libre ou forcé, conservatif ou amorti de systèmes continus ou à plusieurs degrés de liberté, S3 (Mécanique vibratoire)",
+      "Bibliographie et matériel":"La documentation du cours est distribuée pendant le semestre. Matériel de support des projets du cours peut être téléchargé du site du laboratoire licp (http://licpwww.epfl.ch/cours/Simulation%20multicorps/)",
+      "Mots clés":"Singularités cinématiques, Simulation multi-corps avec des contraintes de mouvement",
+      "Forme d'enseignement":"Le cours est organisé en sessions théoriques et comprend la modélisation dynamique multi-corps réalisées dans des projets de groupe.",
+      "Contenu":"L'objectif de ce cours est de transmettre aux étudiants les concepts, modèles, algorithmes et méthodes de base de la modélisation et simulation cinématique et dynamique assistée par ordinateur des systèmes multi-corps. Equations de contraintes sont développées pour exprimer le comportement des liaisons cinématiques. Des méthodes assistées par ordinateur sont développées pour la prévision de configurations singulières. Les équations de mouvement dynamiques sont développées pour des systèmes multi-corps.",
+      "Forme du contrôle":"Rapports de groupe des projets de modélisation dynamique multi-corps (60%). Examen écrit sur l'application de la théorie aux projets (40%)",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (conception de produit, processus de fabrication et de systèmes de production), CP1[br/][li]Maîtriser les outils d'analyse numériques et expérimentaux, CP2[br/][li]Poser/extraire les hypothèses de modélisation adaptées et choisir les méthodes et outils en fonction des ressources pour le traitement du problème, CP6[br/][li]Réaliser, analyser et critiquer un modèle: forme géométrique 3D complexe et assemblages, comportement statique, cinématique, dynamique, thermique et de résistance d'un système, cycles de vie et les coûts associés d'un système (produit, processus de fabrication ou système de production), CP8[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12[br/][li]Composer une équipe, la motiver, T13[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Simulation multi-corps assistée par ordinateur",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

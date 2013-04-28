@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353942416&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","430"],
+    "title":"Quantitative systems modeling techniques",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353942416&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104342",
+      "name":"Zufferey Nicolas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"40% written mid-term exam - no document is allowed[br/]60% written final exam - no document is allowed",
+      "Bibliography and material":"All the documents will be provided in PDF format.",
+      "Required prior knowledge":"None",
+      "Content":"Introduction to operations research and graph coloring, linear programming, flow theory, graph covering models (with applications in network design, distribution and transportation), distribution, heuristic methods and vehicle routing problems, facility location problems, job shop, facility layout, balancing an assembly line, open shop. ",
+      "Keywords":"Modelling, optimization, graph theory.",
+      "Type of teaching":"Courses in classroom (with exercises)",
+      "Learning outcomes":"Represent some important logistical problems by the use of operations research models. Solve such problems with exact methods or heuristics. Classification of optimization problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantitative systems modeling techniques",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104342",
+      "name":"Zufferey Nicolas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Aucun",
+      "Bibliographie et matériel":"Tous les documents seront fournis en format PDF.",
+      "Mots clés":"Modélisation, optimisation, théorie des graphes",
+      "Forme d'enseignement":"Cours en classe (avec exercices)",
+      "Contenu":"Introduction à la recherche opérationnelle et coloration de graphe, programmation linéaire, théorie des flots, couverture de graphes (applications en design de réseaux, distribution et transport), distribution, méthodes heuristiques et problèmes de tournées de véhicules, localisation d'usines/entrepôts, job shop, aménagement des installations, équilibrage d'une chaine d'assemblage, open shop. ",
+      "Forme du contrôle":"40% examen intermédiaire écrit - aucune documentation n'est autorisée[br/]60% examen final écrit - aucune documentation n'est autorisée",
+      "Objectifs d'apprentissage":"Représenter certains problèmes logistiques importants à l'aide de modèles de recherche opérationnelle. Résoudre ces problèmes avec des méthodes exactes ou des heuristiques. Classification des problèmes d'optimisation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantitative systems modeling techniques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

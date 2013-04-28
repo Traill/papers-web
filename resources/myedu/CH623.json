@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965859204&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","623"],
+    "title":"Heterogeneous Catalysis in Practice",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965859204&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/197169",
+      "name":"Cardenas Lizana Fernando"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"1. []The Basics of Catalysis[br/]1.1[]Catalysis and the Environment[br/]1.2[]Heterogeneous Catalysis: Surface Science and Kinetics[br/]2. []Catalyst Preparation and Activation[br/]2.1[]Bulk Catalysts[br/]2.2[]Supported Materials[br/]2.3[]Final Conditioning Procedures[br/]3. []Catalyst Characterization[br/]3.1[]Traditional Surface Characterization Methods; BET, specific surface area (SSA), pore-[br/]size distribution (PSD), powder X-ray diffraction (XRD), atomic-absorption[br/]spectroscopy (AAS)[br/]3.2[]Temperature-Programmed Techniques; temperature programmed desorption (TPD)[br/]and oxidation/reduction (TPO/TPR)[br/]3.3[]Spectroscopy and Microscopy; transmission (TEM) and scanning (SEM) electron[br/]microscopy[br/]3.4[]In-Situ Infrared[br/]4. Case Study",
+      "Keywords":"heterogeneous catalysis; catalyst characterization; in-situ and ex-situ techniques",
+      "Form of examination":"Oral presentation[br/]Project report",
+      "Required prior knowledge":"reaction kinetics; basics in chemistry; basics of reactor engineering"
+    },
+    "practical":{
+      "total_hours":36
+    },
+    "language":"English",
+    "title":"Heterogeneous Catalysis in Practice",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/197169",
+      "name":"Cardenas Lizana Fernando"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":36
+    },
+    "language":"English",
+    "title":"Heterogeneous Catalysis in Practice",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  }
+}

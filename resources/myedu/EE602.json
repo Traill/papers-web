@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=37729516&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","602"],
+    "title":"Power electronic devices understanding and use in circuits",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=37729516&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123862",
+      "name":"Barrade Philippe"
+    },{
+      "url":"http://people.epfl.ch/159056",
+      "name":"Kaminski Nando"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Power Electronic Converters are key elements within energy management and especially for the integration of renewable sources (DC-AC conversion in case of photovoltaic  generation, AC-AC for wind power). Therefore, an advanced knowledge on power semiconductors is needed for developing modern, high performance power converters.[br/]This doctoral course is indicated for young researchers in the field of power electronics and modern energy management technologies, it can be opened to all power electronic specialists who need deeper knowledge on Power Devices.",
+      "Content":"Principle of power conversion ,from the ideal switch to the conversion circuit (Barrade)[br/]Introduction to the power semiconductor technology, Power semiconductor basic physics; PN junction, pin Diodes, Bipolar transistors; Thyristors, GTO and IGCT's;  Power MOSFET and IGBT's (Kaminski),  [br/]Use of power semiconductors in application circuits (Rufer)",
+      "Keywords":"Power semiconductors, power devices, power electronic circuits, converters IGBT, IGCT, Power Mosfet ",
+      "Form of examination":"Oral exam and term paper",
+      "Required prior knowledge":"Base of Power electronic circuits and devices (Master level)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power electronic devices understanding and use in circuits",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123862",
+      "name":"Barrade Philippe"
+    },{
+      "url":"http://people.epfl.ch/159056",
+      "name":"Kaminski Nando"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Principle of power conversion ,from the ideal switch to the conversion circuit (Barrade)[br/]Introduction to the power semiconductor technology, Power semiconductor basic physics; PN junction, pin Diodes, Bipolar transistors; Thyristors, GTO and IGCT's;  Power MOSFET and IGBT's (Kaminski),  [br/]Use of power semiconductors in application circuits (Rufer)",
+      "Mots clés":"Power semiconductors, power devices, power electronic circuits, converters IGBT, IGCT, Power Mosfet ",
+      "Prérequis":"Base of Power electronic circuits and devices (Master level)",
+      "Forme du contrôle":"Oral exam and term paper",
+      "Objectifs d'apprentissage":"Power Electronic Converters are key elements within energy management and especially for the integration of renewable sources (DC-AC conversion in case of photovoltaic  generation, AC-AC for wind power). Therefore, an advanced knowledge on power semiconductors is needed for developing modern, high performance power converters.[br/]This doctoral course is indicated for young researchers in the field of power electronics and modern energy management technologies, it can be opened to all power electronic specialists who need deeper knowledge on Power Devices."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power electronic devices understanding and use in circuits",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

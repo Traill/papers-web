@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47952855&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","501"],
+    "title":"Advanced cryptography",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47952855&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SC-EPFL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lasecwww.epfl.ch/teaching.shtml","http://lasecwww.epfl.ch/teaching.shtml"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131602",
+      "name":"Vaudenay Serge"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Final exam with bonus based on continuous evaluations",
+      "Bibliography and material":"\"Communication Security : an introduction to cryptography / Serge Vaudenay\". 2004",
+      "Required prior knowledge":"Cryptography and security ",
+      "Content":"[b]Public-key cryptography :[/b][br/]Factoring, RSA problem, discrete logarithm problem, attacks based on subgroups[br/][b]Conventional cryptography :[/b][br/]Differential and linear cryptanalysis, hypothesis testing, decorrelation[br/][b]Interactive proofs :[/b][br/]NP-completeness, interactive systems, zero-knowledge[br/][b]Proofs techniques :[/b][br/]Security of encryption, random oracles, game reduction techniques",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"To become familiar with advanced topics of cryptography, to have critical sense of cryptographic tools."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced cryptography",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"Communication security : an introduction to cryptography / Serge Vaudenay\". Year:2004</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lasecwww.epfl.ch/teaching.shtml","http://lasecwww.epfl.ch/teaching.shtml"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131602",
+      "name":"Vaudenay Serge"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cryptography and security ",
+      "Bibliographie et matériel":"\"Communication Security : an introduction to cryptography / Serge Vaudenay\". 2004",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Cryptographie à clé publique :[/b][br/]Factoring, problèmes RSA, problème logarithme discret, attaques basées sur des sous-groupes[br/][b]Cryptographie conventionnelle :[/b][br/]Cryptanalyse différentielle et linéaire, tests d'hypothèses, décorrélation[br/][b]Preuves interactives : [/b][br/]NP-completude, systèmes interactifs, \"zero-knowledge\"[br/][b]Techniques de preuves : [/b][br/]Sécurité du chiffrement, oracles aléatoires, techniques de réduction de jeux",
+      "Forme du contrôle":"Examen final avec bonus en fonction du contrôle continu",
+      "Objectifs d'apprentissage":"Devenir familier de thèmes avancés en cryptographie, obtenir un esprit critique sur les outils cryptographiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced cryptography",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"Communication security : an introduction to cryptography / Serge Vaudenay\". Année:2004</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

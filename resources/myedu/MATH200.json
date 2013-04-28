@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","200"],
+    "title":"Analysis III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":14,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Second cycle of mathematics",
+      "Required prior knowledge":"Analysis I and II",
+      "Content":"[b]1) Vectorial analysis [/b][br/]The gradient, curl and divergence operators[br/]Exact fields[br/]Surface and line integrals, Green, Stokes and divergence theorems[br/][br/][b]2) Complex analysis [/b][br/]Definition and examples of complex functions[br/]Cauchy-Riemann equations[br/]Cauchy theorem[br/]Complex integrals and Cauchy formula[br/]Laurent series and residue theorem[br/]Special functions",
+      "Type of teaching":"Ex cathedra lecture",
+      "Learning outcomes":"To present the main tools of vectorial analysis and complex analysis.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis III",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-350-8&amp;con_lng=ENG\" target=\"blank\">Equations différentielles ordinaires et aux dérivées partielles / Srishti D. Chatterji</a>\". Year:1998. ISBN:2-88074-350-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104848",
+      "name":"Dacorogna Bernard"
+    }],
+    "lab":null,
+    "credits":14,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I et II",
+      "Bibliographie et matériel":"S. D. Chatterji : \"Cours d'analyse III et IV\", PPUR",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"[b]1) Analyse vectorielle [/b][br/]Etude des opérateurs gradient, rotationnel et divergence[br/]Champs qui dérivent d'un potentiel[br/]Intégrales curvilignes et de surfaces, théorèmes de Green, Stokes et de la divergence[br/][br/][b]2) Analyse complexe [/b][br/]Définition et exemples de fonctions complexes[br/]Equations de Cauchy-Riemann[br/]Théorème de Cauchy[br/]Intégrales complexes et formule de Cauchy[br/]Séries de Laurent et théorème des résidus[br/]Applications conformes[br/]Fonctions spéciales",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Deuxième cycle de mathématiques",
+      "Objectifs d'apprentissage":"Présenter les outils de l'analyse vectorielle et de l'analyse complexe."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse III",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-350-8&amp;con_lng=FRE\" target=\"blank\">Equations différentielles ordinaires et aux dérivées partielles / Srishti D. Chatterji</a>\". Année:1998. ISBN:2-88074-350-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

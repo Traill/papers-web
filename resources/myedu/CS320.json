@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24092156&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","320"],
+    "title":"Compiler construction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24092156&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lara.epfl.ch/w/cc","http://lara.epfl.ch/w/cc "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177241",
+      "name":"Kuncak Viktor"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"55% Project, 20% Homeworks, 25% Quiz in December[br/]Must pass 60% of each part to pass the course.[br/]",
+      "Bibliography and material":"Andrew W. Appel, Modern compiler implementation in Java, Addison-Wesley 1997",
+      "Prerequisite for":"Foundations of Software [br/]Synthesis, Analysis, and Verification [br/]Advanced Compiler Construction[br/]",
+      "Required prior knowledge":"Discrete structures[br/]Theoretical Computer Science[br/]Advanced theoretical computer science[br/]Advanced topics in programming[br/]Computer architecture I[br/]",
+      "Content":"1. Overview, source languages and run-time models[br/]2. Review of formal languages[br/]3. Lexical analysis[br/]4. Syntactic analysis (parsing)[br/]5. Name analysis[br/]6. Type checking[br/]7. Code generation[br/]8. Data-flow analysis[br/]9. Run-time organization and memory management[br/]",
+      "Type of teaching":"Lectures by the professor, exercises by a teaching assistant, practical work supervised by a teaching assistant.",
+      "Learning outcomes":"The course aims to teach the fundamental aspects of analyzing computer languages and mapping them into executable form."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Compiler construction",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-40353-6&amp;con_lng=ENG\" target=\"blank\">Compiler construction / Niklaus Wirth</a>\". Year:1996. ISBN:0-201-40353-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-49169-5&amp;con_lng=ENG\" target=\"blank\">Compilers : principles, techniques, and tools / Alfred V. Aho ... [et al.]</a>\". Year:2007. ISBN:978-0-321-49169-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82060-X&amp;con_lng=ENG\" target=\"blank\">Modern compiler implementation in Java / Andrew W. Appel with Jens Palsberg</a>\". Year:2002. ISBN:0-521-82060-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lara.epfl.ch/w/cc","http://lara.epfl.ch/w/cc "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177241",
+      "name":"Kuncak Viktor"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"No final exam, it is continuous control instead. See above.",
+      "Prérequis":"Discrete structures[br/]Informatique théorique[br/]Informatique théorique avancée[br/]Programmation avancée[br/]Architecture des ordinateurs I[br/]",
+      "Bibliographie et matériel":"Andrew W. Appel : Modern compiler implementation in Java, Addison-Wesley (1997)[br/]Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman: Compilers: Principles, Techniques, and Tools (2nd Edition, 2006)[br/]Niklaus Wirth: Compiler Construction (revised version of 1996 book is available online from 2005)[br/]Additionally, all material posted or linked from http://lara.epfl.ch/w/cc [br/]",
+      "Forme d'enseignement":"Lectures by the professor, exercises by a teaching assistant, practical work supervised by a teaching assistant.",
+      "Contenu":"1. Overview, source languages and run-time models[br/]2. Review of formal languages[br/]3. Lexical analysis[br/]4. Syntactic analysis (parsing)[br/]5. Name analysis[br/]6. Type checking[br/]7. Code generation[br/]8. Data-flow analysis[br/]9. Run-time organization and memory management[br/]",
+      "Forme du contrôle":"55% Project, 20% Homeworks, 25% Quiz in December [br/]Must pass 60% of each part to pass the course.[br/]",
+      "Préparation pour":"Foundations of Software [br/]Synthesis, Analysis, and Verification [br/]Advanced Compiler Construction[br/]",
+      "Objectifs d'apprentissage":"Le cours a pour but d'apprendre les aspects fondamentaux de l'analyse et compilation des langages informatiques."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Compiler construction",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-40353-6&amp;con_lng=FRE\" target=\"blank\">Compiler construction / Niklaus Wirth</a>\". Année:1996. ISBN:0-201-40353-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-49169-5&amp;con_lng=FRE\" target=\"blank\">Compilers : principles, techniques, and tools / Alfred V. Aho ... [et al.]</a>\". Année:2007. ISBN:978-0-321-49169-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82060-X&amp;con_lng=FRE\" target=\"blank\">Modern compiler implementation in Java / Andrew W. Appel with Jens Palsberg</a>\". Année:2002. ISBN:0-521-82060-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

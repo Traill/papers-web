@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=266857003&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","428"],
+    "title":"Introduction to Algebraic geometry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=266857003&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"EDMA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224282",
+      "name":"Hausel Tamás"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Algebraic geometry is a vast and central subject in modern mathematics. It lies between differential geometry and number theory, and is directly influenced by mathematical physics. The course will lay down some fundamentals in dealing with affine and projective varieties, with an emphasis on algebraic curves.[br/]",
+      "Content":"[li]Affine varieties[br/][li]Affine plane curves[br/][li]Projective varieties[br/][li]Projective plane curves[br/][li]Varieties, Morphisms and Rational Maps[br/][li]Riemann-Roch Theorem",
+      "Type of teaching":"Ex cathedra lecture with exercises",
+      "Form of examination":"Written exam",
+      "Note":"This course will roughly follow the book of W. Fulton \"Algebraic curves, an Introduction to Algebraic Geometry\"."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to Algebraic geometry",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224282",
+      "name":"Hausel Tamás"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra avec exercices",
+      "Contenu":"[li]Variétés affines[br/][li]Courbes planes affines[br/][li]Variétés projectives[br/][li]Courbes planes projectives[br/][li]Variétés, morphismes et applications rationnelles[br/][li]Théorème de Riemann-Roch",
+      "Forme du contrôle":"Examen écrit",
+      "Remarque":"Ce cours suivra approximativement le livre de W. Fulton \"Algebraic curves, an Introduction to Algebraic Geometry\".",
+      "Objectifs d'apprentissage":"La géométrie algébrique est un sujet central et vaste dans les mathématiques modernes. Elle se trouve entre la géométrie différentielle et la théorie des nombres, et est directement influencée par la physique mathématique. Le cours posera les principes de base en traitant des variétés affines et projectives, et plus particulièrement des courbes algébriques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to Algebraic geometry",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

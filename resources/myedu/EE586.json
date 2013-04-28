@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241135439&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","586"],
+    "title":"Introduction to planetary sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241135439&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176803",
+      "name":"Ivanov Anton"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is introduce students into exciting world of planetary science. Students will learn about history of planetary exploration, how to use basic physics and mathematics to understand planetary processes and obtain some practical skills in data processing and analysis. In addition to basics, the course will explore latest result in this field. Particular attention will given on links between science and engineering.",
+      "Content":"INTRODUCTION[br/]This course will contain an overview of planets, comets and asteroids that comprise the Solar System. We will also present materials and results obtained by robotic spacecraft and how this data changed our understanding of the Solar System. Students will have hands on exercise with the data. Latest publications in Science and Nature will be discussed.[br/][br/][br/]HISTORY[br/]Exploration of the Solar system began in 1957 with the launch of the first satellite. Since then, almost all planets have been imaged or visited by fly-by missions, orbiters or landers. Course will present the most important findings by the mission.[br/][br/][br/]PLANETARY PROCESSES [br/]Planetary science reviews all components of a planet: internal structure, surface processes and atmospheres. We will discuss internal structures of terrestrial planets and gaseous giants. Surface properties will include discussion of tectonics, volcanic eruptions and planetary ices. We will also discuss comets and asteroids. Students will benefit from an overview of many disciplines. Particular attention will be given to engineering aspects that are derived from our knowledge of the planets.[br/][br/][br/]PRACTICE[br/]Practical exercises will include review of papers, problem solving and data processing and analysis.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to planetary sciences",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-36162-1&amp;con_lng=ENG\" target=\"blank\">The new solar system / ed. by J. Kelly Beatty, Andrew Chaikin; introd. by Carl Sagan</a>\". Year:1990. ISBN:0-521-36162-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176803",
+      "name":"Ivanov Anton"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices[br/]Langue : anglais",
+      "Contenu":"INTRODUCTION[br/]Ce cours comprendra une vue d'ensemble des planètes, comètes et astéroïdes du système solaire. Nous présenterons également des matériaux et résultats obtenus par les vaisseaux spatiaux et comment ces données ont changé notre conception du système solaire. A partir de ces informations les étudiants effectueront des exercices pratiques. Les dernières publications de Science and Nature seront discutées.[br/][br/]HISTOIRE[br/]L'exploration du système solaire a commencé en 1957 par le lancement du premier satellite. Depuis lors, presque toutes les planètes ont été imagées ou visitées à travers des missions de vols à distance, de navettes spatiales ou explorations sur place. Le cours présentera les résultats les plus importants de ces missions.[br/][br/]PROCESSUS PLANÉTAIRES[br/]La science planétaire passe en revue tous les composants d'une planète : structure interne, processus extérieurs et atmosphères. Nous aborderons les structures internes des planètes terrestres et des géants gazeux. Les propriétés extérieures incluront l'examen de la tectonique, des éruptions volcaniques et des glaces planétaires. Nous discuterons également des comètes et des astéroïdes. Les étudiants tireront bénéfice d'une vue d'ensemble de beaucoup de disciplines. Une attention particulière sera donnée aux aspects de technologie dérivée de notre connaissance des planètes. [br/][br/]PRATIQUE[br/]Les exercices pratiques comprendront l'étude d'articles, la résolution de problèmes et le traitement et l'analyse de données.[br/]",
+      "Prérequis":"Cours de base EPFL de physique, mathématique",
+      "Bibliographie et matériel":"Notes polycopiées et articles techniques en anglais. [br/]Livre reccomende : The New Solar System by Beaty, Patterson and Chaikin[br/]Magasins : Science, Nature",
+      "Objectifs d'apprentissage":"Le but de ce cours est d'introduire les étudiants au monde passionnant de la science planétaire. Les étudiants apprendront l'histoire de l'exploration des planètes, comment employer la physique et les mathématiques de base pour comprendre des processus planétaires et obtenir des connaissances pratiques en traitement et analyse de données. L'accent sera mis sur les liens entre science et ingénierie."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to planetary sciences",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-36162-1&amp;con_lng=FRE\" target=\"blank\">The new solar system / ed. by J. Kelly Beatty, Andrew Chaikin; introd. by Carl Sagan</a>\". Année:1990. ISBN:0-521-36162-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

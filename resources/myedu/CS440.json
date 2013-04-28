@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770923&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","440"],
+    "title":"Advanced computer graphics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770923&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lgg.epfl.ch/teaching.php","http://lgg.epfl.ch/teaching.php"]],
+    "instructors":[],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"In this course we will discuss advanced topics in the core areas of computer graphics, i.e. rendering, modeling, and animation. After attending the course, students will be able to evaluate, implement, or extend state-of-the art methods for photorealistic image synthesis, and the modeling and animation of complex 3D objects and scenes. Practical exercises will complement the lectures.[br/]",
+      "Content":"Rendering Methods :[br/]- Global Illumination[br/]- Path Tracing[br/]- Photon Mapping[br/][br/]Modeling :[br/]- NURBS[br/]- Subdivision Surfaces[br/]- Procedural Modeling[br/][br/]Animation :[br/]- Physics (Rigid Bodies, Deformables, Fluids)[br/]- Character Animation[br/]",
+      "Type of teaching":"Lectures and exercises",
+      "Bibliography and material":"Course notes",
+      "Required prior knowledge":"Introduction to Computer Graphics, programming experience"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced computer graphics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lgg.epfl.ch/teaching.php","http://lgg.epfl.ch/teaching.php"]],
+    "instructors":[],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Séminaires et exercices",
+      "Contenu":"Méthodes de rendu:[br/]- Illumination globale[br/]- Path Tracing[br/]- Photon mapping[br/][br/]Modélisation:[br/]- NURBS[br/]- Surfaces de subdivision[br/]- Modélisation de procédure[br/][br/]Animation:[br/]- Physique (corps rigides, déformables, fluides)[br/]- De personnages[br/]",
+      "Prérequis":"Introduction à l'infographie, expérience dans la programmation",
+      "Bibliographie et matériel":"Will be provided in class",
+      "Objectifs d'apprentissage":"Dans ce cours, nous allons discuter de sujets avancés dans les principaux domaines de l'infographie, i.e. le rendu, la modélisation et l'animation. Après avoir suivi le cours, les étudiants seront capables d'évaluer, mettre en oeuvre ou prolonger des méthodes de pointe pour l'image de synthèse photoréaliste, la modélisation, l'animation d'objets 3D complexes et des scènes. Des exercices pratiques complètent les cours magistraux."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced computer graphics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72496701&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","405"],
+    "title":"Water and wastewater treatment",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72496701&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    },{
+      "url":"http://people.epfl.ch/210253",
+      "name":"von Gunten Urs"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Two written mid-term exams during the semester (40 % of the final note) and one final written exam (180 min) during the winter session exam period (60 % of the final note).",
+      "Prerequisite for":"Process engineering; sanitary engineering, water and waste management, environmental chemistry",
+      "Required prior knowledge":"Process engineering; Sanitary engineering, water and waste management",
+      "Content":"[b]Water quality[/b][br/]Water resources, raw water composition, drinking water regulations[br/][b]Principles of drinking water production[/b][br/]Physico-chemical processes, oxidation, disinfection, adsorption processes, membrane technologies, biological processes.[br/][b]Process combination[/b][br/]Evolution of treatment trains, standard process combinations, water re-use systems[br/][b]Principles of organic and inorganic pollutants removal from wastewater[/b][br/]Primary, secondary and tertiary treatment, uncoupling the hydraulic and sludge residence time.[br/][b]Activated sludge and immobilized biomass wastewater treatment plants[/b][br/]Operational principles and process diagrams, structure, biology, process configurations.[br/][b]Elimination of nutrients[/b][br/]The microbial and chemical processes for the removal of nitrogen and phosphorus from wastewater.[br/]",
+      "Type of teaching":"Lectures ex cathedra and exercises",
+      "Learning outcomes":"Understanding the basic (bio)engineering principles for water and wastewater treatment.[br/]Acquisition of methods and techniques for organic pollutants and nutrients (nitrogen and phosphorous) removal from wastewater.[br/]Acquisition of methods and techniques for water treatment in order to produce drinking water quality[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Water and wastewater treatment",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    },{
+      "url":"http://people.epfl.ch/210253",
+      "name":"von Gunten Urs"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Génie des procédés; Génie sanitaire, gestion des eaux et des déchets",
+      "Bibliographie et matériel":"Notes de cours polycopiées",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[b]Qualité de l'eau[/b][br/]Ressources en eau, composition de l'eau pure, régulation de l'eau potable[br/][b]Principes de production de l'eau potable[/b][br/]Les processus physico-chimiques, oxydation, désinfection, processus d'adsorption, technologies membranaires, processus biologiques.[br/][b]Combinaisons de procédés[/b][br/]Evolution des chaînes de traitement, combinaisons de procédés standards, système de réutilisation de l'eau[br/][b]Principes de traitement de la pollution organique et inorganique des eaux usées[/b][br/]Traitement primaire, secondaire et tertiaire, découplage des temps de résidence hydraulique et des boues.[br/][b]Stations d'épuration à boues activées et à biomasse immobilisée[/b][br/]Principes de fonctionnement et diagrammes de traitement, structure, biologie, configuration des systèmes.[br/][b]Élimination des nutriments[/b][br/]Les processus de l'élimination biologiques et chimiques de l'azote et du phosphore.[br/]",
+      "Forme du contrôle":"Deux tests écrits pendant le semestre (40 % de la note) et un test écrit (180 min) pendant la session d'examen d'hiver (60 % de la note)",
+      "Préparation pour":"Processus d'ingénierie, génie sanitaire, management des eaux et des déchets, chimie environnementale",
+      "Objectifs d'apprentissage":"Assimiler les principes de la (bio)ingénierie appliqués aux traitements des eaux et des eaux usées.[br/]Acquérir les méthodes et techniques applicables à l'élimination des polluants organiques et des nutriments (azote et phosphore) des eaux usées.[br/]Acquérir les méthodes et techniques physiques et chimiques applicables à la production de l'eau potable."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Water and wastewater treatment",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

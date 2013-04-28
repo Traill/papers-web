@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352053926&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","211"],
+    "title":"Organic and macromolecular chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352053926&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Familiarize the student to structure and reactivity in organic chemistry. Introduce polymerization reactions and macromolecules degradation.",
+      "Content":"[b]Part I[/b][br/][li]Reminder of organic chemistry[br/][li]Functional groups[br/][li]Organic molecules reactivity[br/][br/][b]Part II[/b][br/][li]Polymers nomenclature[br/][li]Polymer synthesis: polycondensation, free radical and ionic polymerization, copolymerization[br/][li]Polymerization processes[br/][li]Introduction to plastics degradation and recycling[br/]",
+      "Prerequisite for":"All the courses related to polymers",
+      "Required prior knowledge":"\"General chemistry\""
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Organic and macromolecular chemistry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-240-4&amp;con_lng=ENG\" target=\"blank\">Chimie des polymères : synthèses, réactions, dégradations / Jean-Pierre Mercier, Ernest Maréchal</a>\". Year:1996. ISBN:2-88074-240-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-04-019716-8&amp;con_lng=ENG\" target=\"blank\">Cours de chimie organique / Paul Arnaud; préf. de Guy Ourisson</a>\". Year:1994. ISBN:2-04-019716-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=9780849339295&amp;con_lng=ENG\" target=\"blank\">Introduction to polymers / R. J. Young and P. A. Lovell</a>\". Year:2009. ISBN:9780849339295</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[b]Partie I[/b][br/][li]Rappel de notions de chimie organique[br/][li]Les mécanismes réactionnels[br/][li]Réactivité des molécules organiques[br/][br/][b]Partie II[/b][br/][li]Nomenclature des polymères[br/][li]Synthèse de polymères : polycondensation, polymérisation radicalaire et ionique, copolymérisation[br/][li]Procédés de polymérisation",
+      "Préparation pour":"Tous les prochains cours sur les polymères",
+      "Prérequis":"\"Chimie générale\"",
+      "Bibliographie et matériel":"Cours de chimie organique, P. Arnaud[br/]Introduction to polymers, R.J. Young [br/]Chimie organique, C. Vollhart, K. Peter [br/]Chimie des polymères, J.P. Mercier",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant aux notions de structure et de réactions en chimie organique. Introduire les réactions de polymérisation et de dégradation des macromolécules."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie organique et macromoléculaire",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-240-4&amp;con_lng=FRE\" target=\"blank\">Chimie des polymères : synthèses, réactions, dégradations / Jean-Pierre Mercier, Ernest Maréchal</a>\". Année:1996. ISBN:2-88074-240-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-04-019716-8&amp;con_lng=FRE\" target=\"blank\">Cours de chimie organique / Paul Arnaud; préf. de Guy Ourisson</a>\". Année:1994. ISBN:2-04-019716-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=9780849339295&amp;con_lng=FRE\" target=\"blank\">Introduction to polymers / R. J. Young and P. A. Lovell</a>\". Année:2009. ISBN:9780849339295</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

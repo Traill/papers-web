@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2220109&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","230"],
+    "title":"Polymers, structure and properties",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2220109&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"\"Traité des matériaux vol. 14: Matériaux polymères\", H.-H. Kausch (et al), Lausanne, 2000[br/]Introduction to polymers (R.J. Young)",
+      "Prerequisite for":"Polymer processing",
+      "Required prior knowledge":"General physics[br/]Organic and polymer chemistry",
+      "Content":"1.\tINTRODUCTION[br/]\tChemical structure of molecular chains and networks[br/]2.\tPHYSICAL STRUCTURE OF CHAINS AND MOLECULAR WEIGHT DISTRIBUTION[br/]3. \tSTRUCTURE OF SOLID POLYMERS[br/]\tAmorphous and semi crystalline polymers[br/]4. \tMECHANICAL BEHAVIOUR OF SOLID POLYMERS[br/]\tViscoelasticity, rubber elasticity, glass transition temperature as a function of molecular structure[br/]5. \tSTRENGTH, FATIGUE AND SHOCK RESISTANCE[br/]6. THERMAL PROPERTIES",
+      "Type of teaching":"Ex cathedra, with exercises",
+      "Learning outcomes":"TEACHING: Present the characteristics of the behaviour of plastic materials and correlate them with the structure of polymer molecules and networks.[br/]STUDENT: Understand the numerous advantages which polymer materials offer and hence be in a position to select or to design a material according to specific service requirements.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Polymers, structure and properties",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=9780849339295&amp;con_lng=ENG\" target=\"blank\">Introduction to polymers / R. J. Young and P. A. Lovell</a>\". Year:2008?. ISBN:9780849339295</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-415-6&amp;con_lng=ENG\" target=\"blank\">Matériaux polymères : propriétés mécaniques et physiques / Hans-Henning Kausch ...[et al.]</a>\". Year:2001. ISBN:2-88074-415-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106123",
+      "name":"Plummer John Christopher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale[br/]Chimie organique et des polymères",
+      "Bibliographie et matériel":"\"Traité des matériaux vol. 14: Matériaux polymères\", H.-H. Kausch (et al), Lausanne, 2000[br/]Introduction to polymers (R.J. Young)",
+      "Forme d'enseignement":"Ex cathedra, avec exercices",
+      "Contenu":"1.\tINTRODUCTION[br/]\tStructures chimiques des chaînes moléculaires et des réseaux[br/]2.\tSTRUCTURE PHYSIQUE DES CHAÎNES ET DISTRIBUTIONS DES MASSES MOLAIRES[br/]3.\tSTRUCTURE DES POLYMÈRES SOLIDES[br/]\tPolymères amorphes et semicristallins[br/]4.\tCOMPORTEMENT MÉCANIQUE DES MATÉRIAUX POLYMÈRES SOLIDES[br/]\tVisco-élasticité. Élasticité caoutchoutique. Transition vitreuse en fonction de la structure moléculaire[br/]5.\tPROPRIÉTÉS EN TRACTION ET AU CHOC[br/]6.\tPROPRIÉTÉS THERMIQUES",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Technologie et mise en oeuvre des polymères",
+      "Objectifs d'apprentissage":"ENSEIGNANT: Présenter les caractéristiques du comportement des matériaux plastiques et relier celui-ci à leur structure moléculaire.[br/]ÉTUDIANT: Comprendre les nombreux avantages qu'offrent les matériaux polymères et être ainsi en mesure de sélectionner ou de concevoir un matériau pour une application donnée. [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Polymères, structures, propriétés",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=9780849339295&amp;con_lng=FRE\" target=\"blank\">Introduction to polymers / R. J. Young and P. A. Lovell</a>\". Année:2008?. ISBN:9780849339295</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-415-6&amp;con_lng=FRE\" target=\"blank\">Matériaux polymères : propriétés mécaniques et physiques / Hans-Henning Kausch ...[et al.]</a>\". Année:2001. ISBN:2-88074-415-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

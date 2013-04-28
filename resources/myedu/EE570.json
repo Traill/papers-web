@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=829144379&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","570"],
+    "title":"Power system restructuring and deregulation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=829144379&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The objective is to introduce the new technical and trading mechanisms designed to the management of power systems in the context of the open electricity market.",
+      "Content":"[b]Key points of electricity market liberalization:[/b] unbundled structure, competition, studies of new paradigms, market efficiency.[br/][br/][b]Supply and demand modeling:[/b] definition, bidding and demand profiles, marginal cost, utility cost, revenue and benefit, complex bids for a multiple period market.[br/][br/][b]Energy contracts and market mechanisms:[/b] spot market vs. open energy market, forward and futures contracts, bilateral trading: long term - over the counter - electronic trading, pool trading: market clearing price - impact of demand elasticity and price  CAP, risk management: price volatility - call & put options - contracts for difference, examples.[br/][br/][b]Bidding strategies:[/b] perfect competition vs. imperfect competition, market power: definition - HHI calculation, Game Theory and its variations: complete/incomplete information - cooperative/non cooperative game, - static/dynamic game - ..., Nash equilibrium & Pareto optima, best response function - Minmax & Maxmin methods - dominant strategy method, particular cases: Cournot & Bertrand models, examples.[br/][br/][b]System security & ancillary services:[/b] definitions and system security requirements, transmission facilities vs. system security, ancillary services: compulsory provision vs. provision through markets, example of balancing market mechanism, introduction to congestion management: market solution & technical solution (examples using FACTS devices or phases shifter transformers), examples.[br/][br/][b]Transmission pricing & congestion management:[/b] rolled-in methods: postage stamp method - contract path method - MW mile method - ..., Available Transmission Capacity calculation (ATC), PTDF calculation, TLR method, willingness to pay method, Inc-Dec method (redispatching), counter-flow methods, auctioning method (cross-borders), zonal pricing: market splitting/coupling, nodal pricing & Locational Marginal Prices (LMP) calculation: analysis of the appropriateness - application of market power - hedging (FTR, TTC, ...), examples.",
+      "Type of teaching":"Ex cathedra lectures with illustrative examples",
+      "Form of examination":"Continuous control",
+      "Required prior knowledge":"Electric power systems"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power system restructuring and deregulation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104759",
+      "name":"Cherkaoui Sidi-Rachid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra illustré d'exemples",
+      "Contenu":"[b]Restructuration du secteur électrique :[/b]  «unbundling», compétition, études de nouveaux paradigmes, efficacité du marché. [br/][br/][b]Modélisation de l'offre et la demande :[/b] définition, profils, coûts marginaux, coûts virtuels, revenue et profit, offre pour marché multi-périodes.[br/][br/][b]Contrats d'énergie et mécanismes de marché:[/b] marché spot et marché ouvert, contrats forward et futures, mécanisme bilatéral: long terme - OTC - transaction électronique, mécanisme pool: calcul du prix, impact de l'élasticité de la demande et prix CAP, gestion du risque: volatilité du prix du marché - les options - contrat pour la différence, exemples.[br/][br/][b]Stratégies d'offre:[/b] compétition parfaite et imparfaite, pouvoir sur le marché, calcul du HHI, théorie des jeux: information complète/incomplète - jeu coopératif/non coopératif - jeux dynamique/statique - ..., équilibre de Nash, optimum de Pareto, fonction Best Response, méthodes Minmax et Maxmin, méthode la stratégie dominante, cas particuliers: modèles de Cournot et Bertrand, exemples.[br/][br/][b]Sécurité du réseau et services auxiliaires:[/b] définitions et besoins pour la sécurité du réseau, équipements et sécurité du réseau, services auxiliaires: fourniture obligatoire ou via un marché, marché des ajustements, introduction à la gestion des congestions: solutions économiques/techniques (FACTS, transformateur déphaseur), exemples.[br/][br/][b]Tarification du transport et gestion des congestions:[/b] méthodes «Rolled-In»: timbre poste - chemin contracté - MW distance - ..., calcul des ATC et des PTDF, facteurs d'influence, méthode TLR, méthode «willingness to pay», méthode Inc-Dec (redispatching), méthode des contre-flots, méthode des enchères (zones frontières), prix zonaux: marché découplé/couplé, prix nodaux & calcul des LMP: analyse de l'adéquation - application au cas du pouvoir sur le marché - gestion du risque (FTR, TTC, ...), exemples.",
+      "Forme du contrôle":"Contrôle continu",
+      "Prérequis":"Réseaux électriques",
+      "Objectifs d'apprentissage":"Introduction aux nouveaux mécanismes techniques et commerciaux en relation avec la gestion des réseaux électriques dans le contexte de l'ouverture des marchés d'électricité."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Power system restructuring and deregulation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

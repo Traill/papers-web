@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824222877&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","124"],
+    "title":"Statics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824222877&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198189",
+      "name":"Beyer Katrin"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[br/]The aim of the course is to provide theoretical and rational bases in the field of construction design, to learn how to dimension safely construction elements, to analyse a loaded body, and to evaluate the bearing capacity of structure.[br/][br/]Analysis of construction equilibrium forces, transmission of loads to the foundations, evaluation of internal forces; knowledge of the most used structures (bars, beams, cables).",
+      "Content":"-actions, forces and statics laws[br/]-reduction and equilibrium of forces[br/]-displacements, supports, statically determinate structures, section and internal forces[br/]-trusses, beams and cables[br/]-virtual displacements, influence lines and statically indeterminate structures[br/]-properties of plan figures. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-658-2&amp;con_lng=ENG\" target=\"blank\">Analyse des structures et milieux continus : statique appliquée / François Frey</a>\". Year:2005. ISBN:2-88074-658-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198189",
+      "name":"Beyer Katrin"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"LIAISON AVEC D'AUTRES COURS:[br/]Analyse, algèbre linéaire, mécanique, géométrie, matériaux. -Préparation aux cours de construction: mécanique des sols; mécanique des roches; béton armé et précontraint; construction métallique; construction en bois... -Base des cours de mécanique des structures, méthode des éléments finis, dynamique... ultérieurs.",
+      "Bibliographie et matériel":"Livre (PPUR) : TGC Vol. 1",
+      "Forme d'enseignement":"Cours ex cathedra; moyens audio-visuels. Exercices en commun.",
+      "Contenu":"-actions, forces et lois de la statique[br/]-réduction et équilibre des forces[br/]-déplacements, appuis, isostaticité[br/]-coupe et efforts intérieurs -treillis, poutres, câbles[br/]-déplacements virtuels, lignes d'influence et hyperstaticité[br/]-propriétés des figures planes",
+      "Préparation pour":"Mécanique des milieux continus (pour GC), Mécanique des Structures I",
+      "Objectifs d'apprentissage":"Donner une formation de base théorique et rationnelle dans le domaine du calcul des constructions pour savoir dimensionner avec sécurité les éléments de construction, aborder l'analyse d'un corps chargé et évaluer la capacité portante d'une structure.[br/][br/]Analyser par l'équilibre le jeu des forces dans les constructions, la transmission des charges aux fondations, les efforts à l'intérieur des éléments structuraux; connaître les types de structure les plus usuels (barres; poutres; câbles)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statique I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-658-2&amp;con_lng=FRE\" target=\"blank\">Analyse des structures et milieux continus : statique appliquée / François Frey</a>\". Année:2005. ISBN:2-88074-658-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965855418&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","659"],
+    "title":"Advanced Microscopy for Life Science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965855418&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190599",
+      "name":"Seitz Arne"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Content":"[li] Basic optical pricciples[br/][li] light microscopy, fluorescence microscopy[br/][li] confocal microscopy[br/][li] Fluorescence Resonance Energy Transfer (FRET)[br/][li] Photobleaching, photoactivation techniques, Fluorescence Recovery after Photobleaching (FRAP)[br/][li] Structured Illumination microscopy[br/][li] Localization techniques (PALM, STORM)[br/]",
+      "Keywords":"Microscopy, live-cell imaging, ",
+      "Note":"Places are limited due to hand-on sessions and will be assigned on a first come first served basis."
+    },
+    "practical":{
+      "total_hours":25
+    },
+    "language":"English",
+    "title":"Advanced Microscopy for Life Science",
+    "recitation":{
+      "total_hours":5
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190599",
+      "name":"Seitz Arne"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Places are limited due to hand-on sessions and will be assigned on a first come first served basis.",
+      "Contenu":"[li] Basic optical pricciples[br/][li] light microscopy, fluorescence microscopy[br/][li] confocal microscopy[br/][li] Fluorescence Resonance Energy Transfer (FRET)[br/][li] Photobleaching, photoactivation techniques, Fluorescence Recovery after Photobleaching (FRAP)[br/][li] Structured Illumination microscopy[br/][li] Localization techniques (PALM, STORM)[br/]",
+      "Mots clés":"Microscopy, live-cell imaging, "
+    },
+    "practical":{
+      "total_hours":25
+    },
+    "language":"English",
+    "title":"Advanced Microscopy for Life Science",
+    "recitation":{
+      "total_hours":5
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=172583799&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","710"],
+    "title":"Modeling of advanced composites: processing and mechanical properties",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=172583799&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"Hôte(s) académiques(s)"
+    },{
+      "url":"http://people.epfl.ch/113157",
+      "name":"Michaud Véronique"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The main objectives of the course are to present recent issues and methods for modeling advanced composites. Processing of composite materials is addressed, with emphasis on the physical phenomena, including capillary effects, reinforcement compressibility, multi-phase flow. Modeling of composite hygro-thermal-mechanical response is presented as well, with emphasis on advanced property analysis methods, stress transfer mechanics, interfacial mechanics, and damage models. Examples will be given from various types of composites (thermoplastic, thermoset, short or long fiber composites, and wood-based composites).[br/]",
+      "Content":"1.\tBrief introduction on composites and their processing techniques[br/]2.\tComposite processing: governing phenomena[br/]3.\tMulti-phase flow, saturation and capillary phenomena[br/]4.\tMechanics of fiber reinforcement, introduction into process models [br/]5.\tEffective property analysis[br/]6.\tStress transfer in short fiber composites[br/]7.\tFracture and damage models[br/]8.\tInterfacial mechanics, residual stresses[br/]",
+      "Keywords":"Modeling, composite processing techniques, flow in porous media, composite mechanics, damage models, process-induced stresses. [br/]",
+      "Required prior knowledge":"Prerequisites for the course include the knowledge of kinetics and transport phenomena, and of polymers, as relevant to materials science and engineering. Prior knowledge of basic composites (classical laminate theory, basic micromechanics) is recommended, upon request, some notes or references can be transmitted to the students.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modeling of advanced composites: processing and mechanical properties",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/",
+      "name":"Hôte(s) académiques(s)"
+    },{
+      "url":"http://people.epfl.ch/113157",
+      "name":"Michaud Véronique"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1.\tBrief introduction on composites and their processing techniques[br/]2.\tComposite processing: governing phenomena[br/]3.\tMulti-phase flow, saturation and capillary phenomena[br/]4.\tMechanics of fiber reinforcement, introduction into process models [br/]5.\tEffective property analysis[br/]6.\tStress transfer in short fiber composites[br/]7.\tFracture and damage models[br/]8.\tInterfacial mechanics, residual stresses",
+      "Mots clés":"Modeling, composite processing techniques, flow in porous media, composite mechanics, damage models, process-induced stresses. [br/]",
+      "Prérequis":"Prerequisites for the course include the knowledge of kinetics and transport phenomena, and of polymers, as relevant to materials science and engineering. Prior knowledge of basic composites (classical laminate theory, basic micromechanics) is recommended, upon request, some notes or references can be transmitted to the students.[br/]",
+      "Objectifs d'apprentissage":"The main objectives of the course are to present recent issues and methods for modeling advanced composites. Processing of composite materials is addressed, with emphasis on the physical phenomena, including capillary effects, reinforcement compressibility, multi-phase flow. Modeling of composite hygro-thermal-mechanical response is presented as well, with emphasis on advanced property analysis methods, stress transfer mechanics, interfacial mechanics, and damage models. Examples will be given from various types of composites (thermoplastic, thermoset, short or long fiber composites, and wood-based composites).[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Modeling of advanced composites: processing and mechanical properties",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

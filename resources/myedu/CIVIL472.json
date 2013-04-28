@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773597&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","472"],
+    "title":"Environment and civil engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773597&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    },{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    },{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"At the end of the course, the student has to master the problems related to the integration of civil engineering projects in the environment. The course is taught along with a multidisciplinary case study. The students have to acquire the methodologies that are useful to analyze, at the stage of the project design, the effects on the environment of civil engineering constructions and infrastructures. The case study of the new edition of the course will be related to the hydroelectric plant of Mauvoisin II.",
+      "Content":"[li]Introduction[br/][li]The design and realization of civil engineering constructions and infrastructures: a complex problem[br/][li]Methods to deal with complex problems[br/][li]Impacts of large infrastructure projects[br/][li]Taking into account sustainable development requirements since the design stage, in relation with the following aspects: choice of the site location, construction materials, building techniques, concepts of elimination, supply and management of the flows[br/][li]Environmental norms and labels in the field of building and construction[br/][li]Life cycle assessment of civil engineering construction[br/][li]Basics of ecosystems[br/][li]Integration of constructions and infrastructures in the environment: problems and solutions[br/][li]Involvement of actors and partnership during the project[br/][li]Role of Non Governmental Organisations (NGOs)[br/][li]Case of hydraulic schemes[br/]-\tEnvironmental impacts of hydraulic constructions[br/]-\tIntegrated approach[br/]-\tCompensation measures[br/][li]Case study : Mauvoisin II - Increase of the power[br/]-\tPresentation of the project[br/]-\tVisit of the sites[br/]-\tWork in groups on specific problems"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Environment and civil engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    },{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    },{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Notes de cours",
+      "Forme d'enseignement":"Cours interactif à plusieurs enseignants",
+      "Contenu":"[li]Introduction[br/][li]La conception et réalisation d'ouvrages d'infrastructures du génie civil : un problème complexe[br/][li]Méthodes pour le traitement des problèmes complexes[br/][li]Impacts des grands projets d'infrastructures[br/][li]Prise en considération du développement durable dès la conception, en relation avec les aspects suivants : choix du site, des matériaux de construction, des techniques de construction, des concepts d'élimination, de l'approvisionnement et de la gestion des flux[br/][li]Normes et labels environnementaux dans la construction[br/][li]Analyse de cycle de vie d'ouvrages de génie civil[br/][li]Notions de base sur les écosystèmes[br/][li]Intégration des ouvrages et infrastructures dans l'environnement; effets néfastes et solutions[br/][li]Implication des acteurs et création du partenariat lors des projets[br/][li]Rôle des organisations non gouvernmentales[br/][li]Cas des aménagements hydrauliques[br/]- Impacts des ouvrages hydrauliques sur l'environnement[br/]- Approche intégrée[br/]- Mesures de compensation[br/][li]Etude de cas : Mauvoisin II - Augmentation de la puissance[br/]- Présentation du projet[br/]- Visite de sites[br/]- Travaux par groupe sur des problèmes particuliers",
+      "Forme du contrôle":"Contrôle continu obligatoire",
+      "Préparation pour":"Études d'impact, Aménagement du territoire, Intégration à l'environnement",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant doit être capable de comprendre les problèmes posés par l'intégration des projets de génie civil dans l'environnement. Le cours s'articule autour d'un projet de nature multidisciplinaire. Les étudiants doivent acquérir les méthodologies utiles pour l'analyse, au stade de la conception du projet, des effets sur l'environnement des ouvrages et infrastructures du génie civil. L'étude de cas de la présente édition concerne le projet de l'aménagement hydroélectrique de Mauvoisin II."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE : Environnement et GC",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

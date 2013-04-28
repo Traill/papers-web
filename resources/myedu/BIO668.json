@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597849944&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","668"],
+    "title":"Understanding Statistics and Experimental Design (EDNE)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597849944&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDNE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/164642",
+      "name":"Herzog Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course is intended to understand the role of statistics in designing experiments. The course is neither about mathematical statistics nor on statistics software such as SPSS. The course will help students to design experiments better by understanding when and how to use statistics. The emphasis will not be on \"fancy\" techniques but rather on how statistics can be avoided. In addition, students will learn to critically evaluate the use of statistics in scientific journals.",
+      "Content":"1. Recapitulation of basic statistics: law of large numbers, hypothesis testing, t-test[br/]2. Signal detection theory[br/]3. Sample size and effect size[br/]4. Data fitting and statistics[br/]5. The NOs of statistics: data peeking etc.[br/]6. The Bayesian Approach[br/]7. Critical evaluation[br/]",
+      "Required prior knowledge":"Basic Mathematics"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Understanding Statistics and Experimental Design (EDNE)",
+    "recitation":null,
+    "exam_form":"Written & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/164642",
+      "name":"Herzog Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Understanding Statistics and Experimental Design (EDNE)",
+    "recitation":null,
+    "exam_form":"Ecrit & Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

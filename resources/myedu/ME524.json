@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1511074667&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","524"],
+    "title":"Advanced control systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1511074667&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139973",
+      "name":"Karimi Alireza"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral exam (40% questions, 40% project, 20% Lab reports)",
+      "Bibliography and material":"Course Note:  \"Robust and Adaptive Control\" by Alireza Karimi",
+      "Required prior knowledge":"[li]Analyze a linear dynamical system (both time and frequency responses), A4 (Control Systems I)[br/][li]Represent a linear system by a transfer function, A5[br/][li]Identify a dynamic system using experimental data, A8 (System Identification)[br/][li]Design a PID controller, A9 (Control Systems I)[br/][li]Design a simple controller for a dynamic system, A10 (Control Systems I)",
+      "Content":"Algebraic design of a two-degree of freedom RST controller. Other forms of the RST controller. Recursive identification principles. Adaptive control by model matching. Auto-tuning of controllers. Gain-scheduled controller. Principles of robust control. Robust controller design by linear and quadratic programming.",
+      "Keywords":"RST controller, adaptive control, robust control.",
+      "Type of teaching":"Ex cathedra course, integrated demos and case studies, project.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Design an advanced controller for a dynamic system, A13[br/][li]Assess the stability, performance and robustness of a closed-loop system, A14[br/][li]Define (specifications) the adequate control performance for dynamic systems, A15[br/][li]Propose several control solutions, formulate the trade-offs, choose the options, A16[br/][li]Validate the performance (by simulations or experiments), A24[br/][li]Evaluate and discuss the performance and the solutions, and draw conclusions, A26[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced control systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139973",
+      "name":"Karimi Alireza"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Analyser un système dynamique linéaire (approches temporelle et fréquentielle), A4 (Automatique I)[br/][li]Représenter un système linéaire sous forme de fonction de transfert, A5[br/][li]Identifier un système dynamique en utilisant les données expérimentales, A8 (Identification de systèmes dynamiques)[br/][li]Dimensionner un régulateur PID, A9 (Automatique I)[br/][li]Dimensionner un régulateur simple pour un système dynamique, A10 (Automatique I) ",
+      "Bibliographie et matériel":"Notes de cours:  \"Robust and Adaptive Control\" par Alireza Karimi",
+      "Mots clés":"Régulateur RST, commande adaptative, commande robuste.",
+      "Forme d'enseignement":"Cours ex cathedra, démonstrations et études de cas intégrés, projet.",
+      "Contenu":"Synthèse algébrique d'un régulateur à deux degrés de liberté RST. Variantes du régulateur RST. Principes de l'identification récurrente. Commande adaptative par imposition d'un modèle. Auto-ajustement de régulateurs. Régulateur à gains programmés. Principes de la commande robuste. Synthèse de régulateurs robustes par programmation linéaire et programmation quadratique.",
+      "Forme du contrôle":"Examen oral (40% questions, 40% projet, 20% rapports de TP)",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Dimensionner un régulateur avancé pour un système dynamique, A13[br/][li]Déterminer la stabilité, la performance et la robustesse d'un système  en boucle fermée, A14[br/][li]Définir (cahier des charges) des performances de commandes adaptées aux systèmes dynamiques, A15[br/][li]Concevoir et choisir des solutions de commandes, formuler les trade-offs, choisir les options, A16[br/][li]Valider les performances (par simulation ou expérimentalement), A24[br/][li]Evaluer et critiquer les performances, la solution, et tirer un bilan, A26[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced control systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

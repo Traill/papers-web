@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47995213&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","472"],
+    "title":"Cancer Biology II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47995213&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__","http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192826",
+      "name":"Hanahan Douglas"
+    },{
+      "url":"http://people.epfl.ch/171552",
+      "name":"Hülsken Jörg"
+    },{
+      "url":"http://people.epfl.ch/198713",
+      "name":"Stamenkovic Ivan"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student comprehends how known alterations in physiological mechanisms required for tissue homeostasis and immunity can be tumorigenic:[br/]- distinguishes key mechanisms and components of tumor host interaction and their functions[br/]- identifies regulatory principles in tumor-relevant complex signaling networks[br/]- can use such insight to explain mechanism-based therapies and identify gaps in the current knowledge.[br/]",
+      "Content":"The 2x5 credit course Cancer Biology I+II starts in the winter semester and continues throughout the summer semester.[br/][br/][b] Cancer Biology II covers:[/b][br/][br/]1. Complex oncogenic signaling networks and hierarchical tumor organization: [br/][li] apoptosis regulation[br/][li] tumor metabolism[br/][li] cancer stem cells[br/][br/]2. various aspects of tumor host interactions:[br/][li] tumor angiogenesis[br/][li] tumor cell dissemination and metastasis[br/][li] adaptive immunity: immuno editing, immune evasion, immunotherapy[br/][li] innate immunity: pro-tumorigenic roles of inflammation, NK cells[br/][br/]The weekly lectures will be followed by exercises. The task for these exercises will be student presentations of reviews and scientific articles which illustrate the course and to consolidate the knowledge of the course topics.",
+      "Prerequisite for":"Master in life sciences & bio technology, specialization in molecular medicine"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cancer Biology II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8153-4078-8&amp;con_lng=ENG\" target=\"blank\">The biology of cancer / Robert A. Weinberg</a>\". Year:2007. ISBN:0-8153-4078-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__","http://www.garlandscience.com/product/isbn/9780815340768;jsessionid=P1AI1Ma7Io2QC6o1W1bohA__"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192826",
+      "name":"Hanahan Douglas"
+    },{
+      "url":"http://people.epfl.ch/171552",
+      "name":"Hülsken Jörg"
+    },{
+      "url":"http://people.epfl.ch/198713",
+      "name":"Stamenkovic Ivan"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cancer biology I",
+      "Bibliographie et matériel":"Robert A. Weinberg : The Biology of Cancer, Garland Science",
+      "Forme d'enseignement":"Course ex cathedra and exercise",
+      "Contenu":"Ce cours Cancer Biology I+II de 2x5 crédits commence au semestre d'hiver et continue au semestre d'été.[br/][br/][b] Cancer Biology II couvre:[/b] [br/][br/]1. Réseaux de signalisation complexe des oncogènes et l'organisation hiérarchique de la tumeur: [br/][li] régulation de l'apoptose[br/][li] métabolisme de la tumeur[br/][li] cellules souches cancéreuses[br/][br/]2. Aspects divers des interactions tumeur-hôte:[br/][li] angiogenèse tumorale[br/][li] dissémination tumorale et métastases[br/][li] immunité adaptive: immuno-editing. immune évasion, thérapie immunologique[br/][li] immunité innée: rôles pro-tumorigéniques de l'inflammation, cellules NK[br/][br/]Les cours hebdomadaires seront suivis par des exercices.  Ces exercices consisteront en présentations données par les étudiants d'articles et revues scientifiques illustrant le cours et consolidant les connaissances des thèmes du cours.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master in life sciences & bio technology, specialization in molecular medicine",
+      "Objectifs d'apprentissage":"L'étudiant comprend comment les altérations connues des mécanismes physiologiques de l'homéostasie tissulaire et immunité peuvent être tumorigènes :[br/]- Distingue les mécanismes et composants clés des interactions de la tumeur avec l'hôte et leur fonction.[br/]- Identifie les principes régulateurs des voies de signalisation complexes pertinentes de la tumorigenèse.[br/]- Peut utiliser ces informations pour expliquer les thérapies basées sur ces mécanismes et identifier des lacunes dans les connaissances actuelles.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cancer Biology II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8153-4078-8&amp;con_lng=FRE\" target=\"blank\">The biology of cancer / Robert A. Weinberg</a>\". Année:2007. ISBN:0-8153-4078-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

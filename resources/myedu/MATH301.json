@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2229035&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","301"],
+    "title":"Ordinary differential equations",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2229035&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199126",
+      "name":"Krieger Joachim"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course gives an introduction to the theory of systems of ODE. We start with a discussion of the existence and uniqueness of solutions, and a detailed discussion of systems with constant coefficients. In the second part of the course, we give an introduction to the geometric theory of systems of ODE, culminating with the theory of Poincare-Bendixson for planar systems. Specific examples discussed are the Van der Pol oscillator as well as the mathematical pendulum. [br/]In a third part of the course, we discuss Sturm-Liouville theory and spectral theory of scalar ODEs.",
+      "Content":"- Systems of ODE[br/]- Local existence and uniqueness[br/]- Systems with constant coefficients[br/]- Poincare-Bendixson theory[br/]- Spectral theory of scalar ODE"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ordinary differential equations",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199126",
+      "name":"Krieger Joachim"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"- Systèmes d'EDO[br/]- Théorie locale d'existence et unicité[br/]- Systèmes de coefficients constants[br/]- Théorie de Poincare-Bendixson[br/]- Théorie spectrale des EDO scalaires",
+      "Objectifs d'apprentissage":"Ce cours est une introduction à la théorie des systèmes d'EDO. On commence avec l'existence et l'unicité de solutions locales et une discussion précise des systèmes linéaires à coefficients constants. Dans la deuxième partie du cours, nous donnons une introduction à la théorie géométrique des EDO, culminant avec la théorie de Poincare Bendixson pour les systèmes planaires. Les exemples spécifiques sont l'oscillateur de Van der Pol et la pendule mathématique. La troisième partie du cours s'occupe de la théorie de Sturm-Liouville et la théorie spectrale pour les EDO scalaires."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Equations différentielles ordinaires",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

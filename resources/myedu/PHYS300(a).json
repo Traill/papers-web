@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774382&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","300(a)"],
+    "title":"Introduction to construction technics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774382&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113541",
+      "name":"Gentile Antonio"
+    },{
+      "url":"http://people.epfl.ch/106344",
+      "name":"Sanjines Rosendo"
+    },{
+      "url":"http://people.epfl.ch/188482",
+      "name":"Turin Nicolas"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To get some basic notions as it concerns technical design, machining and practical electronics for laboratory activities.",
+      "Content":"Computer assisted technical design CAO.[br/]Bend-vice practice, turning, milling, drilling.[br/]Realization of a small mechanical component.[br/]Realization and test of an electronic circuit.[br/]",
+      "Bibliography and material":"Any"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Introduction to construction technics",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113541",
+      "name":"Gentile Antonio"
+    },{
+      "url":"http://people.epfl.ch/106344",
+      "name":"Sanjines Rosendo"
+    },{
+      "url":"http://people.epfl.ch/188482",
+      "name":"Turin Nicolas"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Forme d'enseignement":"12 h introduction au DAO[br/]2 séances de 4h d'atelier mécanique et 2 séances de 4 h d'atelier électronique",
+      "Contenu":"Dessin technique assisté par ordinateur DAO.[br/]Travaux à l'étau, tournage, fraisage, perçage.[br/]Réalisation d'une pièce mécanique.[br/]Réalisation et test d'un circuit imprimé.",
+      "Préparation pour":"Travaux de laboratoire",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Objectifs d'apprentissage":"Acquérir des notions de dessin technique, de pratiques de mécanique et d'électronique pour le laboratoire de physique."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Introduction aux techniques de construction",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

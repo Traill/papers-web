@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412889024&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","706"],
+    "title":"Advanced Earthquake Engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412889024&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://imac.epfl.ch","http://imac.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198460",
+      "name":"Karbassi Amin"
+    },{
+      "url":"http://people.epfl.ch/136291",
+      "name":"Lestuzzi Pierino"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course deals with the complex problem of seismic evaluation of existing structures; by far more complicated than for new structures. The aims are to:[br/][li] show how and why the analysis methods need improvements to be used in this context.[br/][li] provide an insight of the different retrofitting methods from both technical and design aspects.[br/]",
+      "Content":"[li] Particularity of existing structures in seismic context[br/][li] Vulnerability and seismic evaluation[br/][li] Analysis methods[br/][li] Strength and displacement based evaluation[br/][li] Retrofitting methods (design and technology)[br/]",
+      "Keywords":"existing structures, seismic behaviour, retrofitting",
+      "Required prior knowledge":"Basic knowledge in structural design[br/]Basic knowledge in structural dynamic[br/]Basic knowledge in earthquake engineering[br/]"
+    },
+    "practical":{
+      "total_hours":6
+    },
+    "language":"English",
+    "title":"Advanced Earthquake Engineering",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":22
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://imac.epfl.ch","http://imac.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198460",
+      "name":"Karbassi Amin"
+    },{
+      "url":"http://people.epfl.ch/136291",
+      "name":"Lestuzzi Pierino"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Particularity of existing structures in seismic context[br/][li] Vulnerability and seismic evaluation[br/][li] Analysis methods[br/][li] Strength and displacement based evaluation[br/][li] Retrofitting methods (design and technology)",
+      "Mots clés":"existing structures, seismic behaviour, retrofitting",
+      "Prérequis":"Basic knowledge in structural design[br/]Basic knowledge in structural dynamic[br/]Basic knowledge in earthquake engineering[br/]",
+      "Objectifs d'apprentissage":"This course deals with the complex problem of seismic evaluation of existing structures; by far more complicated than for new structures. The aims are to:[br/][li] show how and why the analysis methods need improvements to be used in this context.[br/][li] provide an insight of the different retrofitting methods from both technical and design aspects.[br/]"
+    },
+    "practical":{
+      "total_hours":6
+    },
+    "language":"English",
+    "title":"Advanced Earthquake Engineering",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":22
+    }
+  }
+}

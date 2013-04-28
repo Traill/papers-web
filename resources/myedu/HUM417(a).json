@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580220001&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["HUM","417(a)"],
+    "title":"Philosophy, epistemology and history of science I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580220001&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.unil.ch/philo/page60364.html","http://www.unil.ch/philo/page60364.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158392",
+      "name":"Esfeld Michael-Andreas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"The course is open to all EPFL master students. No previous knowledge in philosophy is pre-supposed.[br/][br/][b]Lecturer[/b]:[br/]Michael Esfeld, Professor (Section de philosophie, UNIL)",
+      "Form of examination":"Oral presentation, written essay in small groups.[br/]Evaluation on a semester basis (grade associated to 3 ECTS). Fall semester evaluation is about knowledge acquisition and the elaboration of a project plan. Spring semester evaluation is about the realization of the project. More information is given at the beginning of the academic year.",
+      "Bibliography and material":"given in class",
+      "Content":"[b]Philosophical perspectives on the exact sciences and their history[/b][br/][br/]How did the visions of space and time change from Galileo via Newton to Einstein? What is matter following the revolution introduced by quantum physics? What is a law of nature? Do mathematical objects really exist? [br/]These questions, among many others, will be tackled in the philosophical reflection on the exact sciences and their history that this master module offers. Reflecting on these issues provides intellectual tools for a better understanding of today's science and technologies. After an introductory teaching, the students work in small groups of 1 to 3 students on a particular project and present their results to the whole group. Students are free to choose the project that interests them most, but we encourage them to work on a project that is about philosophical issues raised in connection with their main branch at EPFL. We propose several interdisciplinary projects in the philosophy of physics in cooperation with professors from the physics department.",
+      "Keywords":"History and philosophy of science, philosophy of physics, philosophy of mathematics",
+      "Type of teaching":"Ex cathedra course, project work",
+      "Learning outcomes":"At the end of the teaching, students will be able to:[br/][br/][li]address the philosophical questions that are raised by the exact sciences and their history;[br/][li]identify, define and present a specific problem in the considered field;[br/][li]write a coherent, synthetic but comprehensive report."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Philosophy, epistemology and history of science I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.unil.ch/philo/page60364.html","http://www.unil.ch/philo/page60364.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158392",
+      "name":"Esfeld Michael-Andreas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Le cours s'adresse à tous les étudiant-e-s de l'EPFL en master. Aucunes connaissances préalables en philosophie ne sont présupposées.[br/][br/][b]Enseignant[/b]:[br/]Michael Esfeld, Professor (Section de philosophie, UNIL)",
+      "Bibliographie et matériel":"Distribuée en cours",
+      "Mots clés":"Philosophie et histoire des sciences, philosophie de la physique, philosophie des mathématiques.",
+      "Forme d'enseignement":"Cours, travaux par projet",
+      "Contenu":"[b]Perspectives philosophiques sur les sciences exactes et leur histoire[/b][br/][br/]Comment les visions de l'espace et du temps ont-elles changé du début de l'époque moderne jusqu'à Einstein ? Qu'est-ce que la matière suite à la physique quantique ? Qu'est qu'une loi de la nature ? Les objets mathématiques, existent-ils réellement ? Ces questions, et bien d'autres encore, seront traitées dans le cadre de la réflexion philosophique que propose ce module de master. Cette réflexion fournit les outils intellectuels permettant de mettre en perspective la compréhension des sciences exactes et des techniques contemporaines. Après un enseignement introductif, les étudiant-e-s réaliseront des projets de recherche par petits groupes, dont les résultats seront présentés et débattus avec les autres étudiant-e-s. Les étudiant-e-s pourront choisir librement leur projet, mais seront encouragé-e-s à travailler sur un projet soulevant des questions philosophiques en rapport avec leur branche principale à l'EPFL. Plusieurs projets de recherche interdisciplinaires seront proposés en philosophie de la physique, en collaboration avec des professeurs de la section de physique",
+      "Forme du contrôle":"Présentation orale, travail écrit en petits groupes.[br/]Evaluation sur une base semestrielle par une note associée à 3 ECTS. L'évaluation du premier semestre porte sur l'acquisition de connaissances et l'élaboration du canevas d'un projet, qui sera réalisé en groupe ou individuellement. L'évaluation du semestre de printemps portera sur la réalisation d'un projet. Des précisions sont données en début d'année académique.",
+      "Objectifs d'apprentissage":"A la fin du cours les étudiant-e-s seront capables de :[br/][li]acquérir les compétences permettant d'aborder des questions philosophiques soulevées par les sciences exactes et leur histoire[br/][li]identifier, définir et présenter un problème spécifique dans le domaine considéré[br/][li]rédiger un rapport cohérent, synthétique et complet"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Philosophy, epistemology and history of science I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

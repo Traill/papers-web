@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777067&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","302"],
+    "title":"Phase transformations",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777067&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101989",
+      "name":"Jacot Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Bibliography and material":"D. A. Porter, K. Easterling: Phase Transformations in Metals and Alloys, Chapman-Hall, London, 2ème ed. 1992[br/]W. Kurz, D. J. Fisher: Fundamentals of Solidification, Trans Tech Publ., Zürich-Uetikon, 3ème ed. 1992[br/]J. D. Verhoeven: Fundamentals of Physical Metallurgy, Wiley, 1975",
+      "Required prior knowledge":"Phénomènes de transfert en science des matériaux[br/]Thermodynamique pour la science des matériaux[br/]Surface and interfaces (from 2012-2013)[br/][br/]",
+      "Content":"- Phase diaporamas[br/]- Transformation path and microsegregation[br/]- Nucleation of a solid phase in a liquid[br/]- Planar front growth and instabilities[br/]- Dendritic growth[br/]- Eutectic growth[br/]- Peritectic transformation and microstructure competition[br/]- Nucleation and growth of precipitates[br/]- Avrami relationships and TTT diagrams[br/]- Coarsening of precipitated - Spinodal decomposition[br/]- Cellular, massive and ordering transformations[br/]- Martensitic transformations[br/]- Transformations in steel[br/]",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"This course extends and applies the concepts learned during the courses Thermodynamics of materials and Sufaces-Interfaces to liquid-solid and solid state transformations. The students will have the opportunity to see how the composition of the material and the processing conditions influence its resulting microstructures. This course is essentially focused on metallic alloys, but will occasionally make extensions to ceramics and polymers. [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Phase transformations",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-90616-6&amp;con_lng=ENG\" target=\"blank\">Fundamentals of physical metallurgy / John D. Verhoeven</a>\". Year:1975. ISBN:0-471-90616-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-87849-804-4&amp;con_lng=ENG\" target=\"blank\">Fundamentals of solidification / W. Kurz, D. J. Fisher</a>\". Year:1998. ISBN:0-87849-804-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-6210-6&amp;con_lng=ENG\" target=\"blank\">Phase transformations in metals and alloys</a>\". Year:2009. ISBN:978-1-4200-6210-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-17-9&amp;con_lng=ENG\" target=\"blank\">Solidification / J. A. Dantzig and M. Rappaz</a>\". Year:2009. ISBN:978-2-940222-17-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101989",
+      "name":"Jacot Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Phénomènes de transfert en science des matériaux[br/]Thermodynamique pour la science des matériaux[br/]Surfaces and interfaces (dès 2012-2013)[br/]",
+      "Bibliographie et matériel":"D. A. Porter, K. Easterling: Phase Transformations in Metals and[br/]Alloys, Chapman-Hall, London, 1992[br/][br/]J. A. Dantzig, M. Rappaz, Solidification[br/]EPFL Press, 2009[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"- Diaporamas de phases[br/]- Chemins de transformations et microségrégation[br/]- Germination d'une phase solide dans un liquide[br/]- Croissance en front plan et instabilités de croissance[br/]- Croissance dendritique[br/]- Croissance eutectique[br/]- Transformation péritectique et compétition de croissance[br/]- Germination-croissance de précipités[br/]- Relations d'Avrami et diagrammes TTT[br/]- Maturation des précipités - Décomposition spinodale[br/]- Transformations discontinue, massive et d'ordre[br/]- Transformations martensitiques[br/]- Transformations dans les aciers[br/][br/]",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Ce cours étend et applique les concepts de base enseignés aux cours Thermodynamique des matériaux et Surfaces-Interfaces aux transformations de phases liquide-solide et à l'état solide. Les étudiants auront ainsi l'occasion de voir comment les conditions de transformation et la composition d'un matériau influencent les microstructures obtenues. Ce cours est essentiellement axé sur les matériaux métalliques, mais fera des ponts vers les céramiques et les polymères."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Transformations de phase",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-90616-6&amp;con_lng=FRE\" target=\"blank\">Fundamentals of physical metallurgy / John D. Verhoeven</a>\". Année:1975. ISBN:0-471-90616-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-87849-804-4&amp;con_lng=FRE\" target=\"blank\">Fundamentals of solidification / W. Kurz, D. J. Fisher</a>\". Année:1998. ISBN:0-87849-804-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-6210-6&amp;con_lng=FRE\" target=\"blank\">Phase transformations in metals and alloys</a>\". Année:2009. ISBN:978-1-4200-6210-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-17-9&amp;con_lng=FRE\" target=\"blank\">Solidification / J. A. Dantzig and M. Rappaz</a>\". Année:2009. ISBN:978-2-940222-17-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

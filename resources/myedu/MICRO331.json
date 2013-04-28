@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776702&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","331"],
+    "title":"Microstructure fabrication technologies I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776702&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145781",
+      "name":"Brugger Jürgen"
+    },{
+      "url":"http://people.epfl.ch/113762",
+      "name":"Gijs Martinus"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Microfabrication technologies are at the heart of every realisation or application of microsystems. This course aims to provide the basic knowledge of the techniques, procedures and technologies of microfabrication, as practised in a clean room. Application of these technologies in hard disk recording, for the realisation of micro-mirror devices and of devices for the electrical measurements on biological cells will be discussed. Unconventional lithography and surface patterning methods, such as microcontact printing, imprint lithography and scanning probe methods, as well as the basics of self-assembly of micro/nanostructures will be described.",
+      "Content":"1.\tIntroduction to the practical work in the clean room[br/]2.\tHistory of IC technology - Planar technology[br/]3.\tLayer deposition techniques[br/]4.\tConventional lithography[br/]5.\tWet etching - bulk and surface micromachining of Si[br/]6.\tDry etching[br/]7.\tScanning Probe Methods[br/]8.\tUnconventional micro/nanopatterning[br/]9.\tSelf-assembly of micro/nanostructures"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Microstructure fabrication technologies I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8493-0826-7&amp;con_lng=ENG\" target=\"blank\">Fundamentals of microfabrication : the science of miniaturization / Marc J. Madou</a>\". Year:2002. ISBN:0-8493-0826-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-9616721-6-1&amp;con_lng=ENG\" target=\"blank\">Silicon processing for the VLSI era. Vol. 1: Process technology / Stanley Wolf, Richard N. Tauber</a>\". Year:2000. ISBN:0-9616721-6-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-9616721-4-5&amp;con_lng=ENG\" target=\"blank\">Silicon processing for the VLSI era. Vol. 2: Process integration / Stanley Wolf</a>\". Year:1990. ISBN:0-9616721-4-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145781",
+      "name":"Brugger Jürgen"
+    },{
+      "url":"http://people.epfl.ch/113762",
+      "name":"Gijs Martinus"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Blocs 1 et 2",
+      "Bibliographie et matériel":"Notes polycopiées[br/]M. Madou, Fundamentals of Microfabrication, CRC Press, Boca Raton (1998)[br/]S. Wolf and R.N. Tauber, Silicon processing for the VLSI area I & II, Lattice Press, Sunset Beach (1986)     ",
+      "Forme d'enseignement":"Cours ex cathedra     ",
+      "Contenu":"[b]Cours Technologie des microstructures I et I1:[/b][br/]Introduction aux travaux pratiques en salle propre[br/]2.\tHistoire de la technologie IC - Technologie planaire[br/]3.\tTechniques de déposition des couches minces[br/]4.\tLithographie conventionelle[br/]5.\tGravure humide - micro-usinage surfacique et volumique du Si[br/]6.\tGravure sèche[br/]7.\tMéthodes de sondes nanoscopiques[br/]8.\tMicro/nanostructuration non-conventionelle[br/]9.\tAuto-assemblage de micro/nanostructures",
+      "Préparation pour":"Projets de semestre et Master",
+      "Objectifs d'apprentissage":"Les technologies de microfabrication sont à la base de chaque réalisation ou application de microsystèmes. Ce cours vise à donner les notions de base des techniques, procédés et technologies de microfabrication utilisés en salle blanche. L'application de ces technologies pour le \"hard disk recording\", pour la réalisation de micro-miroirs et de microstructures pour la mesure électrique de cellules biologiques, est discutée. Une introduction aux méthodes non-conventionelles de lithographie et d'auto-assemblage ainsi que des méthodes pour la visualisation et réalisation de structures nanoscopiques est donnée."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Technologie des microstructures I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8493-0826-7&amp;con_lng=FRE\" target=\"blank\">Fundamentals of microfabrication : the science of miniaturization / Marc J. Madou</a>\". Année:2002. ISBN:0-8493-0826-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-9616721-6-1&amp;con_lng=FRE\" target=\"blank\">Silicon processing for the VLSI era. Vol. 1: Process technology / Stanley Wolf, Richard N. Tauber</a>\". Année:2000. ISBN:0-9616721-6-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-9616721-4-5&amp;con_lng=FRE\" target=\"blank\">Silicon processing for the VLSI era. Vol. 2: Process integration / Stanley Wolf</a>\". Année:1990. ISBN:0-9616721-4-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

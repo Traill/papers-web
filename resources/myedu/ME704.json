@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1114935242&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","704"],
+    "title":"Mechanics of Thin Films",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1114935242&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.empa.ch/plugin/template/empa/357/*/---/l=/uacc=mij128","http://www.empa.ch/plugin/template/empa/357/*/---/l=/uacc=mij128"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208387",
+      "name":"Balic Edin"
+    },{
+      "url":"http://people.epfl.ch/108553",
+      "name":"Michler Johann"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Content":"Introduction, stress in thin film, effect of stress in film-solid thin film failure, experimental evaluation of mechanical properties of thin films.[br/][br/]Note: Textbook: L.B. Freund and S. Suresh, Thin Film Materials, Cambridge Univ. Press 2004 (textbook is not necessary for course participation, handouts and lecture notes will provide sufficient information but the textbook is a valuable reference for anyone working in the field). Fours hours of laboratory exercices will be held at the EMPA-Thun-Laboratory of Mechanics of Materials and Nanostructures so that students can witness and take part in actual experimental evaluations and testing of thin films. [br/]",
+      "Keywords":"Mechanics of Thin Film",
+      "Form of examination":"Oral presentation[br/]Written",
+      "Required prior knowledge":"Elementary knowledge of solid mechanics and materials (e.g. strength of materials, elasticity, continuum mechanics, mechanical behaviour of materials and chemistry of materials)"
+    },
+    "practical":{
+      "total_hours":5
+    },
+    "language":"English",
+    "title":"Mechanics of Thin Films",
+    "recitation":{
+      "total_hours":61
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":36
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.empa.ch/plugin/template/empa/357/*/---/l=/uacc=mij128","http://www.empa.ch/plugin/template/empa/357/*/---/l=/uacc=mij128"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208387",
+      "name":"Balic Edin"
+    },{
+      "url":"http://people.epfl.ch/108553",
+      "name":"Michler Johann"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Introduction, stress in thin film, effect of stress in film-solid thin film failure, experimental evaluation of mechanical properties of thin films.[br/][br/]Note: Textbook: L.B. Freund and S. Suresh, Thin Film Materials, Cambridge Univ. Press 2004 (textbook is not necessary for course participation, handouts and lecture notes will provide sufficient information but the textbook is a valuable reference for anyone working in the field). Fours hours of laboratory exercices will be held at the EMPA-Thun-Laboratory of Mechanics of Materials and Nanostructures so that students can witness and take part in actual experimental evaluations and testing of thin films. [br/]",
+      "Forme du contrôle":"Oral presentation[br/]Written",
+      "Prérequis":"Elementary knowledge of solid mechanics and materials (e.g. strength of materials, elasticity, continuum mechanics, mechanical behaviour of materials and chemistry of materials)",
+      "Mots clés":"Mechanics of Thin Film"
+    },
+    "practical":{
+      "total_hours":5
+    },
+    "language":"English",
+    "title":"Mechanics of Thin Films",
+    "recitation":{
+      "total_hours":61
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":36
+    }
+  }
+}

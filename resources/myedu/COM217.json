@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774177&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["COM","217"],
+    "title":"Initiation to communications sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774177&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/128583",
+      "name":"Wagen Jean-Frédéric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Initiation to communications sciences",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-313-3&amp;con_lng=ENG\" target=\"blank\">Systèmes de télécommunications / par Pierre-Gérard Fontolliet</a>\". Year:1999. ISBN:2-88074-313-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/128583",
+      "name":"Wagen Jean-Frédéric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exemples et démonstrations",
+      "Contenu":"-\tLes ingrédients de la communication : Notion de message, d'émetteur, de récepteur, de canal. Signaux et bruits. Temps réel et temps différé.[br/]-\tQu'est-ce que l'information ? : Types, sources, destinataires. Parole, sons, textes, images, données. Leurs caractéristiques. Codage de source (exemple : ZIP, MPEG, MP3, GSM).[br/]-\tTypes de canaux : Lignes, fibres optiques, ondes. Bande passante, rapport signal-sur-bruit. Propriétés et avantages.[br/]-\tBits, bauds, hertz et décibels : Jargon des télécommunications et sa motivation. Relation entre débit de moments, débit de décision.[br/]-\tAdaptation du message au canal : Largeur de bande disponible, échantillonnage, modulation, codage de voie, redondance, multiplexage.[br/]-\tLes avantages du numérique : Régénération, conversion A/N, quantification et le bruit qu'elle induit.[br/]-\tDe la transmission point-à-point au réseau : Réseau d'accès et réseau de transport. Acheminement, routage, commutation.[br/]-\tSpéculations statistiques : Le trafic comme phénomène stochastique, risques d'encombrement et de collisions. Banalisation du réseau. Chaîne de Markov et formule d'Erlang.[br/]-\tLa boulimie des débits et la coexistence des services : Réseau avec intégration des services (ISDN), réseau intégré à large bande (B-ISDN, ATM). Réseaux d'accès et de distribution.[br/]-\tLes attentes de l'usager : Les divers aspects de la qualité de service. Voix, données, multimédia (triple play).[br/]-\tInformatique et télécommunications : Finalité, applications et apports mutuels. L'internet et les intranets.[br/]-\tSatellites : Mécanique céleste, orbites géostationnaires et basses. Exemples de systèmes (Iridium, Immarsat, ...).[br/]-\tCommunications optiques : Propriétés physiques et particularités des fibres. Multiplexage en longueur d'onde (WDM), communications cohérentes. Possibilités, limites et problématique.[br/]-\tL'attrait de la mobilité et les réseaux cellulaires (GSM, GPRS, UMTS, WLAN, 4G, ...).",
+      "Prérequis":"Probabilités et statistiques",
+      "Bibliographie et matériel":"Vol. XVIII du Traité d'Electricité (PPUR)",
+      "Objectifs d'apprentissage":"Etre capable de[br/][li]\tSituer le problème général de la communication et les moyens techniques de le résoudre.[br/][li]\tEvaluer les potentialités, les limites et les perspectives des systèmes de transmission et des réseaux de télécommunications.[br/][li]\tIllustrer quelques phénomènes et propriétés physiques par leurs applications dans le domaine des communications."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Initiation aux sciences des communications",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-313-3&amp;con_lng=FRE\" target=\"blank\">Systèmes de télécommunications / par Pierre-Gérard Fontolliet</a>\". Année:1999. ISBN:2-88074-313-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

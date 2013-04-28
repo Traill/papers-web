@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840852095&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","404"],
+    "title":"Principles of IP Management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840852095&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/234882",
+      "name":"Mueller Heinz"
+    },{
+      "url":"http://people.epfl.ch/115608",
+      "name":"Soltmann Christian"
+    },{
+      "url":"http://people.epfl.ch/234883",
+      "name":"Wagner Stefan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Class and course materials are in English[br/]Lectures will be in English [br/][br/]Works submitted by students, oral and written, can be in English or French. This includes class participation.[br/]",
+      "Form of examination":"20% Class participation[br/]30% Midterm exam (closed book)[br/]50% Final project in small groups[br/][br/]",
+      "Content":"We will cover the following topics:[br/][br/][li] Basic economic concepts of IP[br/][li] National, regional and international IP initiatives[br/][li] IP application process (EPO, PCT, etc.)[br/][li] IP valuation and commercialization[br/][tab]- Valuation of intangible assets[br/][tab]- Market for technology[br/][tab]- Licensing[br/][li] IP strategy[br/][tab]- Patenting strategy: patent thickets, portfolio[br/][tab]- Appropriability: choosing correct IP instrument[br/][tab]- IP routes: PCT, EPO, etc. and Madrid, Hague[br/][li]IP information[br/][tab]- Right to operate[br/][tab]- Technological watch[br/][br/]The course will culminate in group presentations, which will account for most of your grade.",
+      "Keywords":"Intellectual property rights, innovation, IP strategy and management",
+      "Type of teaching":"Formal courses, group work, and oral and written presentations by students",
+      "Learning outcomes":"The main objective of this course is to familiarize students with core principles of intellectual property (IP) management. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of IP Management",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/234882",
+      "name":"Mueller Heinz"
+    },{
+      "url":"http://people.epfl.ch/115608",
+      "name":"Soltmann Christian"
+    },{
+      "url":"http://people.epfl.ch/234883",
+      "name":"Wagner Stefan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Les références et le cours sont en anglais.[br/][br/]Les travaux présentés par les étudiants, de façon orale ou écrite, peuvent être en anglais ou en français. Cela inclut la participation en classe.[br/]",
+      "Mots clés":"Droits de la propriété intellectuelle, innovation, stratégie et gestion de la PI",
+      "Forme d'enseignement":"Cours formels, travail en groupe, présentations orales et écrites par les étudiants",
+      "Contenu":"Le cours couvrira les sujets suivants:[br/][br/][li] Les concepts économiques de base de la PI[br/][li] Les initiatives nationales, régionales et internationales de PI[br/][li] Le processus de demande des PI (OEB, PCT, etc.)[br/][li] La commercialisation de PI et sa valeur marchande[br/][tab]- Evaluation des actifs incorporels[br/][tab]- Marchés de technologie[br/][tab]- Licences[br/][li] Les stratégies de PI[br/][tab]- Stratégie de dépôt: \"patent thickets\", portfolio des brevets[br/][tab]- Appropriabilité: choisir l'instrument de PI le plus adéquat[br/][tab]- Les routes de dépôt: PCT, OEB, etc, et Madrid, La Haye[br/][li] L'information sur la PI[br/][tab]- Liberté d'exploitation[br/][tab]- Veille technologique[br/][br/]Le cours se conclura par des présentations en groupe, qui compteront pour la plus grande partie de la note finale.",
+      "Forme du contrôle":"20% Participation en classe[br/]30% Examen intermédaire (à livres fermés)[br/]50% Projet final en petits groupes[br/]",
+      "Objectifs d'apprentissage":"L'objectif principal de ce cours est de familiariser les étudiants avec les principes fondamentaux de la gestion de la propriété intellectuelle (PI)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of IP Management",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1577868848&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","302(c)"],
+    "title":"Studio BA6 (Ortelli L.)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1577868848&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113297",
+      "name":"Ortelli Luca"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"See Studio BA5.",
+      "Content":"See Studio BA5."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Studio BA6 (Ortelli L.)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113297",
+      "name":"Ortelli Luca"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Voir Théorie et critique du projet BA5.",
+      "Objectifs d'apprentissage":"Voir Théorie et critique du projet BA5."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie et critique du projet BA6 (Ortelli L.)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

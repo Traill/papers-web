@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777127&ww_x_anneeAcad=2012-2013&ww_i_section=99177298&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","453"],
+    "title":"Hydraulic turbomachines",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1777127&ww_x_anneeAcad=2012-2013&ww_i_section=99177298&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PH-NE",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Mastering the scientific design of a hydraulic machine, pump and turbine, by using the most advanced engineering design tools . For each chapters the theoretical basis are first established and then practical solutions are discussed with the help of recent design examples.",
+      "Content":"[br/][li]Turbomachine equations, mechanical power balance in a hydraulic machines, moment of momentum balance applied to the runner/impeller, generalized Euler equation.[br/][li]Hydraulic characteristic of a reaction turbine, a Pelton turbine and a pump, losses and efficiencies of a turbomachine, real hydraulic characteristics.[br/][li]Similtude laws, non dimensional coefficients, reduced scale model testing, scale effects.[br/][li]Cavitation, hydraulic machine setting, operating range, adaptation to the piping system, operating stability, start stop transient operation, runaway.[br/][li]Reaction turbine design: general procedure, general project layout, design of a Francis runner, design of the spiral casing and the distributor, draft tube role, CFD validation of the design, design fix, reduced scale model experimental validation.[br/][li]Pelton turbine design: general procedure, project layout, injector design, bucket design, mechanical problems.[br/][li]Centrifugal pump design: general architecture, energetic loss model in the diffuser and/or the volute, volute design, operating stability.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hydraulic turbomachines",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-209-9&amp;con_lng=ENG\" target=\"blank\">Turbomachines hydrauliques : choix illustré de réalisations marquantes / Pierre Henry</a>\". Year:1992. ISBN:2-88074-209-9</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique des milieux continus; Introduction aux turbomachines.",
+      "Bibliographie et matériel":"P. HENRY: Turbomachines hydrauliques - Choix illustré de réalisation marquantes, PPUR, Lausanne, 1992.[br/]Notes de cours polycopiées et littérature spécialisée (IMHEF, industrie, associations scientifiques, congrès, etc.).",
+      "Forme d'enseignement":"Ex cathedra, avec ex. num. et ex.",
+      "Contenu":"[br/][li]Équation des turbomachines, bilan de puissance mécanique échangée dans une machine hydraulique, bilan de moment de quantité de mouvement appliqué à la roue, équation d'Euler généralisée.[br/][li]Caractéristique hydraulique d'une turbine à réaction, d'une turbine Pelton et d'une pompe, pertes et rendements d'une turbomachine, caractéristiques hydrauliques réelles.[br/][li]Lois de similitudes, coefficients adimensionnels, essais sur modèles réduits, effets d'échelle. [br/][li]Cavitation, implantation d'une machine, domaine de fonctionnement, adaptation aux circuits, stabilité, transitoires au démarrage et à l'arrêt, emballement.[br/][li]Conception d'une turbine à réaction: procédure générale, dimensionnement d'avant-projet, tracé d'une roue Francis, dimensionnement de la bâche et du distributeur, rôle du diffuseur, validation numérique de la conception, analyse de la qualité de l'écoulement, correction du tracé, validation expérimentale sur modèle réduit.[br/][li]Conception d'une turbine Pelton: procédure générale, injecteur, dimensionnement de l'auget, problèmes mécaniques.[br/][li]Conception d'une pompe centrifuge: architecture générale, tracé de la roue, modèle de perte énergétique dans le diffuseur et/ou la volute, dimensionnement de la volute, instabilités de fonctionnement.",
+      "Forme du contrôle":"écrit",
+      "Préparation pour":"Choix des équipements hydrauliques; Projets et travail pratique de Master. ",
+      "Objectifs d'apprentissage":"Maîtriser la conception scientifique d'une machine hydraulique, pompe et turbine, en utilisant les outils les plus avancés de l'ingénieur. Dans les différents chapitres les bases théoriques sont d'abord établies et ensuite les solutions pratiques sont discutées à l'aide d'exemple de réalisations récentes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hydraulic turbomachines",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-209-9&amp;con_lng=FRE\" target=\"blank\">Turbomachines hydrauliques : choix illustré de réalisations marquantes / Pierre Henry</a>\". Année:1992. ISBN:2-88074-209-9</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

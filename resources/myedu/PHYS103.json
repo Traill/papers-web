@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2207995&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","103"],
+    "title":"General physics (German) I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2207995&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[["http://moodle.epfl.ch    suivre Physique -> Bachelor","http://moodle.epfl.ch    suivre Physique -> Bachelor"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158461",
+      "name":"Jeney Sylvia"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Deutsch",
+    "title":"General physics I(German)",
+    "recitation":{
+      "total_hours":56
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-43559-X&amp;con_lng=ENG\" target=\"blank\">Experimentalphysik / Wolfgang Demtröder</a>\". Year:2003. ISBN:3-540-43559-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[["http://moodle.epfl.ch    suivre Physique -> Bachelor","http://moodle.epfl.ch    suivre Physique -> Bachelor"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158461",
+      "name":"Jeney Sylvia"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Grundkenntnisse der Differential-, Integral- und Vektorrechnung",
+      "Bibliographie et matériel":"W. Demtröder, Experimentalphysik 1, Springer Verlag",
+      "Forme d'enseignement":"Ex cathedra und Übungen",
+      "Contenu":"[b]1.  Einführung in die Physik[/b][br/][li]Der Modellbegriff in der Physik[br/][li]Grundgrössen der Physik, ihre Normale und Messverfahren[br/][b]2.  Mechanik eines Massenpunktes[/b][br/][li]Geschwindigkeit und Beschleunigung[br/][li]Gleichförmig beschleunigte Bewegung[br/][li]Bewegung mit nicht konstanter Beschleunigung[br/][li]Kräfte[br/][li]Grundgleichungen der Mechanik-Newtonsche Axiome[br/][li]Energiesatz der Mechanik[br/][li]Drehimpuls und Drehmoment[br/][li]Gravitation und Planetenbewegung[br/][b]3.  Bewegte Bezugssysteme und Einführung in die spezielle Relativitätstheorie[/b][br/][li]Inertialsysteme, Galilei-Transformation[br/][li]Beschleunigte Bezugssysteme, Trägheitskräfte[br/][li]Einführung in die spezielle Relativitätstheorie",
+      "Forme du contrôle":"Übungen, Zwischentest, Schlussexamen",
+      "Préparation pour":"Physik II",
+      "Objectifs d'apprentissage":"[br/][li] Verständnis und Anwendung der Gesetze der Mechanik von Massenpunkten[br/][li] Analyse der Bewegung von Massenpunkten "
+    },
+    "practical":null,
+    "language":"Deutsch",
+    "title":"Physique générale I (allemand)",
+    "recitation":{
+      "total_hours":56
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-43559-X&amp;con_lng=FRE\" target=\"blank\">Experimentalphysik / Wolfgang Demtröder</a>\". Année:2003. ISBN:3-540-43559-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

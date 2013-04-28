@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","203(a)"],
+    "title":"Analysis III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Analysis IV",
+      "Required prior knowledge":"Analysis I and II",
+      "Content":"[b]1) Vectorial analysis[/b][br/]The differential operators: gradient, curl and divergence[br/]Green, Stokes and divergence theorems[br/][br/][b]2) Complex analysis[/b][br/]Holomorphic functions, Cauchy-Riemann equations, Cauchy formula, Laurent series, residues theorem and conformal mappings[br/]",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Learning outcomes":"To present the main tools of vectorial analysis and complex analysis."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=ENG\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Year:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II",
+      "Bibliographie et matériel":"B. Dacorogna et C. Tanteri, « Analyse avancée pour ingénieurs », PPUR",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[b]1) Analyse vectorielle[/b][br/]Les opérateurs gradient, rotationnel et divergence[br/]Théorèmes de Green, de Stokes et de la divergence[br/][br/][b]2) Analyse complexe[/b][br/]Fonctions holomorphes, équations de Cauchy-Riemann, formule de Cauchy, séries de Laurent, théorème des résidus et applications conformes",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Analyse IV",
+      "Objectifs d'apprentissage":"Présenter les outils de l'analyse vectorielle et de l'analyse complexe."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=FRE\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Année:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

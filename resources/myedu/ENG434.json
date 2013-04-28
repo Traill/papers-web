@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230672285&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","434"],
+    "title":"Management of industrial production",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230672285&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112957",
+      "name":"Ramambason Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Familiarise the student with industrial process as a map of production flow and logistics called VSM - VALUE STREAM MAPPING. He will be aware that despite the division of labor, several different professions cooperate to achieve customer satisfaction. This is equivalent to an early industrial experience.[br/]The approach usually focuses on the principles of FLOW, SALES and JUST-IN-TIME. This course furthermore   emphasizes the VALUE STREAM MAPPING, the KEY ACCOUNT MANAGEMENT and the ON TIME DELIVERY.[br/] ",
+      "Content":"Industrial experience will be introduced via the following five themes:[br/][br/][br/]1. The industrial company [br/][i](keywords: PORTER's 5 FORCES, PRODUCT, PROFIT, VALUE STREAM MAPPING, DURABILITY)[/i][br/][br/]2. « Scientific » Management components [br/][i](keywords: PROCESS, CODIFICATION, FLOW, BOM, WORK INSTRUCTIONS, TRIPTYCH, PDCA)[/i][br/][br/]3. Industry functions[br/][i](keywords: ENGINEERING, OPERATIONS, QUALITY, SALE, PURCHASING, GENERAL MANAGEMENT, CRM, SCM)[/i][br/][br/]4. Management of industrial production[br/][i](keywords: GEMBA, LEAN, KAIZEN, 6-SIGMA, OTD, ERP, APQP, FME(C)A, 5-WHY)[/i][br/][br/]5. Iterative case study as a group project[br/][i](keywords: MANUAL OF QUALITY, PLM, WORK INSTRUCTIONS, PLANNING, ERP)[/i][br/] "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Management of industrial production",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112957",
+      "name":"Ramambason Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Ce cours est autonome. On recommande des compléments dans des disciplines telles que les bonnes pratiques de fabrication dans la spécialité de l'intéressé, connaissances en homologation (directives CE, ATEC, FDA,...), finance.",
+      "Bibliographie et matériel":"Documents distribués",
+      "Forme d'enseignement":"Cours ex-cathedra[br/]Etude de cas",
+      "Contenu":"L'expérience industrielle sera introduite suivant les cinq thèmes suivants: [br/][br/]1. L'entreprise [br/][i](mots-clés: 5 FORCES DE PORTER, PRODUIT, PROFIT, VALUE STREAM MAPPING, PERENNITE)[/i][br/][br/]2. Les formes d'organisation du travail [br/][i](mots-clés: PROCESSUS, CODIFICATION, FLUX, NOMENCLATURE, MODOP, TRIPTYQUE, PDCA)[/i][br/][br/]3. Les fonctions en industrie[br/][i](mots-clés: INGENIERIE, OPERATIONS, QUALITE, VENTE, ACHAT, ADMINISTRATION, CRM, SCM)[/i][br/][br/]4. Le management de la production industrielle[br/][i](mots-clés: GEMBA, LEAN, KAIZEN, 6-SIGMA, OTD, GPAO/PGI, APQP, AMDEC, 5-WHY)[/i][br/][br/]5. Etude itérative de cas sous forme de projet de groupe[br/][i](mots-clés: MANUEL QUALITE, PLM, MODE OPERATOIRE, PLANIFICATION, PGI/GPAO)[/i]",
+      "Forme du contrôle":"Continu",
+      "Objectifs d'apprentissage":"Ce cours fournit aux étudiants une connaissance de [b]l'entreprise industrielle[/b] comme on le vit de l'intérieur, des [b]métiers[/b] qu'on y exerce suivant les divisions du travail et des [b]méthodes[/b] pour arriver à satisfaire le client par rapport au produit qu'on lui vend. C'est une expérience industrielle anticipée. [br/]L'approche habituelle se focalise sur le FLUX, la VENTE et le JUST-IN-TIME. Ce cours insistera en outre sur le VALUE STREAM MAPPING, le KEY ACCOUNT MANAGEMENT et le ON TIME DELIVERY. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Management of industrial production",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1581734569&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","321"],
+    "title":"Picture history B",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1581734569&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166175",
+      "name":"Lugon Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Picture history B",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166175",
+      "name":"Lugon Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Atelier limité à 40 participants.[br/][br/][b]Enseignant(s)[/b] :[br/]Olivier Lugon, professeur (section d'Histoire et esthétique du cinéma, UNIL) + vacat",
+      "Bibliographie et matériel":"Distribuée en cours.",
+      "Mots clés":"Art, photographie, cinéma.",
+      "Forme d'enseignement":"Atelier avec présentations orales.",
+      "Contenu":"[b]Arts plastiques et cinéma[/b][br/][br/]L'atelier, qui s'organise autour d'exercices collectifs d'analyses d'images ou de séquences, se concentre sur des oeuvres des 20e et 21e siècles, puisées tant dans le champ de l'art que du cinéma et de la photographie, autour d'une thématique spécifique qui sera présentée en début de semestre. ",
+      "Forme du contrôle":"Présentation orale et examen écrit en fin de semestre.",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant-e sera capable de :[br/]- analyser une image ou une séquence de film d'un point de vue formel, technique ou iconographique.[br/]- replacer ces images dans leur contexte historique, social et politique.[br/]- formuler leurs observations de façon claire et argumentée par oral et par écrit."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Histoire de l'image B",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=425382128&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","616"],
+    "title":"Raman Spectroscopy (Material Characterisation Techniques)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=425382128&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    },{
+      "url":"http://people.epfl.ch/170310",
+      "name":"Trodahl Harry Joseph"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"In-depth lectures on selected characterisation techniques+ exercises + demonstrations and/or lab work ",
+      "Content":"L1 Classical and quantum descriptions of vibrational Raman spectroscopy[br/][li]Phonon dispersion, acoustic vs optic branches ; Zone centre phonons[br/]L2 Resonant Raman scattering[br/][li]Group theory; mode and selection rule analysis[br/][li]Role of ab initio and other calculations[br/]L3 Intrinsic line widths[br/][li]Finite size effects[br/][br/]T1 Exercise (theoretical background)[br/][br/]L4 Commercial instruments; Back scattering and other geometries; Polarisation control[br/]L5 Lasers, IR-UV optics[br/][li]Microscope vs conventional focusing; Confocal microscopy[br/]L6 Temperature control[br/][li]Diamond anvil cell[br/][br/]T2 Exercise (instruments and measurement control)[br/][br/]L7 Raman signatures of structural transitions[br/][li]Appearing, disappearing, doubling modes[br/][li]Disorder-induced scattering, density-of-modes bands[br/][li]Central peaks[br/][br/]T3 Exercise (investigation of phase transformations)[br/][br/]L8 Mixed-phase materials, scattering cross section considerations[br/][li]Excitation energy choices, resonance and absorption[br/]L9 Nano-structured materials[br/][li]Raman scattering from ultrathin layers; Transverse vs longitudinal dispersion[br/][li]Nanoparticles[br/][br/]T4 Exercise (nanostructure and mixed-phase materials)[br/][br/]T5-T6: Case studies[br/][br/]EX1-EX3: Laboratory work at the instruments: 3 hours (tentative)[br/]",
+      "Required prior knowledge":"MSc or MEng in Materials, Chemistry or Physics"
+    },
+    "practical":{
+      "total_hours":3
+    },
+    "language":"English",
+    "title":"Raman Spectroscopy (Material Characterisation Techniques)",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":9
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106416",
+      "name":"Setter Nava"
+    },{
+      "url":"http://people.epfl.ch/170310",
+      "name":"Trodahl Harry Joseph"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"L1 Classical and quantum descriptions of vibrational Raman spectroscopy[br/]Phonon dispersion, acoustic vs optic branches ; Zone centre phonons[br/]L2 Resonant Raman scattering[br/]Group theory; mode and selection rule analysis[br/]Role of ab initio and other calculations[br/]L3 Intrinsic line widths[br/]Finite size effects[br/]T1 Exercise (theoretical background)[br/]L4 Commercial instruments; Back scattering and other geometries; Polarisation control[br/]L5 Lasers, IR-UV optics[br/]Microscope vs conventional focusing; Confocal microscopy[br/]L6 Temperature control[br/]Diamond anvil cell[br/]T2 Exercise (instruments and measurement control)[br/]L7 Raman signatures of structural transitions[br/]Appearing, disappearing, doubling modes[br/]Disorder-induced scattering, density-of-modes bands[br/]Central peaks[br/]T3 Exercise (investigation of phase transformations)[br/]L8 Mixed-phase materials, scattering cross section considerations[br/]Excitation energy choices, resonance and absorption[br/]L9 Nano-structured materials[br/]Raman scattering from ultrathin layers; Transverse vs longitudinal dispersion[br/]Nanoparticles[br/]T4 Exercise (nanostructure and mixed-phase materials)[br/]T5-T6: Case studies[br/]EX1-EX3: Laboratory work at the instruments: 3 hours (tentative)[br/]",
+      "Prérequis":"MSc or MEng in Materials, Chemistry or Physics",
+      "Objectifs d'apprentissage":"In-depth lectures on selected characterisation techniques+ exercises + demonstrations and/or lab work "
+    },
+    "practical":{
+      "total_hours":3
+    },
+    "language":"English",
+    "title":"Raman Spectroscopy (Material Characterisation Techniques)",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":9
+    }
+  }
+}

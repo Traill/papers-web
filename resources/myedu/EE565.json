@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1619438071&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","565"],
+    "title":"Industrial electronics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1619438071&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The control aspects bounded to power electronic systems will be presented.[br/]Students will learn modeling of power circuits and control functions, together with modeling of electrical machines. Design and implementation of industrial controls will also be presented.[br/]Control methods will be applied to real examples like electrical drives or power systems.",
+      "Content":"[b]Introduction[/b][br/]Modeling of three-phase systems with phasors in the stationary and rotating reference frames, structural diagram in the rotating reference frame. Complex transfer function, decoupling, poles of complex transfer function.[br/][br/][b]Vector control[/b][br/]Vector control of a three phase current system. Simulation in the stationary and rotating reference frame (computer simulation with SIMULINK). Control of three phase current with decoupling, state-space control. [br/][br/][b]Modeling and control of AC machines[/b][br/]Modeling with space-phasors of asynchronous motor. Indirect flux control with voltage control. Flux control with cascade of stator current field oriented control. Direct torque control with sliding mode.[br/]Modeling and control of a synchronous motor.",
+      "Type of teaching":"Ex cathedra, examples, Matlab/Simulink simulation",
+      "Form of examination":"Oral exam",
+      "Required prior knowledge":"Industrial electronics I"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Industrial electronics II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Industrial electronics I",
+      "Bibliographie et matériel":"Cours polycopié",
+      "Forme d'enseignement":"Ex cathedra, exemples développés en classe, simulation Matlab/Simulink",
+      "Contenu":"[b]Introduction[/b][br/]Modélisation des systèmes triphasés à l'aide des phaseurs spaciaux, transformation de coordonnées, diagramme structurel dans le système de coordonnées synchrone. Fonctions de transfert complexes, système bivariable, découplage, pôles d'une fonction de transfert complexe.[br/][br/][b]Réglage vectoriel[/b][br/]Réglage vectoriel d'un courant  triphasé. Simulation dans le référentiel fixe, simulation dans le référentiel tournant (LEAO Simulink). Réglage du courant  triphasé avec découplage, réglage d'état[br/][br/][b]Modélisation et réglage de machines à champ tournant[/b][br/]Modélisation du moteur asynchrone par phaseurs spatiaux[br/]Imposition indirecte du flux par la tension statorique. Imposition du flux par le courant statorique. Réglage orienté sur le flux rotorique. Réglage direct du couple par mode de glissement.[br/]Modélisation et réglage du moteur synchrone.",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Les étudiants seront capables de maîtriser les problèmes de réglage et de commande de systèmes liés à l'électronique de puissance. Ils connaîtront d'une part la modélisation des convertisseurs statiques et des machines électriques du point de vue de l'automatique et d'autre part la conception et la réalisation des réglages industriels. Ces méthodes seront appliquées à des cas concrets, comme des entraînements réglés, ainsi que des installations pour la production et la distribution de l'énergie électrique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Industrial electronics II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

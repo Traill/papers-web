@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772517&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","160"],
+    "title":"General chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772517&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/115056",
+      "name":"Sahil Araksi"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Content":"[b]1. Periodic table of elements:[/b] atomic structure, relation between the position of the elements in the periodic table and their chemical and physical properties.[br/][b]2. Bonds, chemical reaction and stoechiometry:[/b] different types of bond, influence on the physical and chemical properties of compounds, chemical reactions and equilibrium, acids and bases, buffer, solubility.[br/][b]3. Thermodynamics:[/b] chemical energy transformation, internal energy, enthalpy, Hess law, free energy, equilibrium. [br/][b]4. Kinetics:[/b] reaction rate, reaction order, theory of activated complex, catalysis.[br/][b]5. Electrochemistry:[/b] Faraday's law, electrolysis, Nernst equation.[br/][b]6. Organic chemistry:[/b] hydrocarbons, functional groups, natural compounds.[br/][br/]",
+      "Type of teaching":"Course with integrated exercises",
+      "Form of examination":"Written 180 min. with bonus",
+      "Required prior knowledge":"Basic knowledge of chemistry"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General chemistry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-428-8&amp;con_lng=ENG\" target=\"blank\">Chimie générale pour ingénieur / Claude K.W. Friedli</a>\". Year:2005. ISBN:2-88074-428-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-882-1&amp;con_lng=ENG\" target=\"blank\">Exercices de chimie générale / Christos Comninellis, Claude K.W. Friedli, Araksi Sahil-Migirdicyan</a>\". Year:2010. ISBN:978-2-88074-882-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/115056",
+      "name":"Sahil Araksi"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours avec exercices intégrés",
+      "Contenu":"[b]1. Tableau périodique des éléments:[/b] structure atomique, relation entre position des éléments dans le tableau périodique et leurs propriétés physiques et chimiques, prédiction des réactivités.[br/][b]2. Liaisons, réaction chimique et stoechiométrie:[/b] différents types de liaison, influence sur les propriétés physiques et chimiques des composés, réactions chimiques et équilibres,  acides et bases, tampon, solubilité.[br/][b]3. Thermodynamique:[/b] transformation de l'énergie chimique, énergie interne, enthalpie, loi de Hess, énergie libre, équilibres.[br/][b]4. Cinétique:[/b] vitesse de réaction, ordre de réaction, théorie du complexe activé, catalyses.[br/][b]5. Électrochimie:[/b] loi de Faraday, électrolyse, équation de Nernst.[br/][b]6. Chimie organique:[/b] hydrocarbures, groupes fonctionnels, composés naturels.[br/]",
+      "Forme du contrôle":"Écrit 180 min. avec bonus",
+      "Prérequis":"Connaissances de base en chimie",
+      "Bibliographie et matériel":"- Cours polycopié[br/]- Chimie générale pour ingénieur, C. Friedli, Presses polytechniques romandes[br/]- Exercices de chimie générale, Ch. Comninellis, C. Friedli, A. Sahil, Presses polytechniques romandes"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chimie générale",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-428-8&amp;con_lng=FRE\" target=\"blank\">Chimie générale pour ingénieur / Claude K.W. Friedli</a>\". Année:2005. ISBN:2-88074-428-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-882-1&amp;con_lng=FRE\" target=\"blank\">Exercices de chimie générale / Christos Comninellis, Claude K.W. Friedli, Araksi Sahil-Migirdicyan</a>\". Année:2010. ISBN:978-2-88074-882-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

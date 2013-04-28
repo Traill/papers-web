@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501692114&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","500"],
+    "title":"Statistical signal and data processing through applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501692114&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcav.epfl.ch","http://lcav.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145758",
+      "name":"Ridolfi Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Statistical Signal and Data Processing through Applications is the follow-up to Bachelor courses on signal processing, such as \"Signal Processing for Communications\", or the Master course \"Signal Processing Foundations\" where the basics of signal processing were introduced.[br/]Building up on the basic concepts of sampling, filtering and Fourier transforms, we address spectral estimation, signal detection, classification, and adaptive filtering, with an application oriented approach : we first introduce relevant modern applications and the discuss appropriate statistical methods and tools to tackle them.",
+      "Content":"[b]1. Fundamentals of Statistical Signal Processing :[/b][br/]Signals and systems in the deterministic and stochastic case.[br/][b]2. Models, Methods, and algorithms :[/b][br/]Parametric and non-parametric signal models (wide sense stationary, Gaussian, Markovian, auto regressive and white noise signals); Linear prediction and estimation (orthogonality principale and Wiener filter); Maximum likehood estimation and Bayesin a priori.[br/][b]3. Statistical Signal Processing Tools for Ultra-Wide Band wireless transmission :[/b][br/]Coding and decoding of information using position of pulses (annihilating filter approach); Avoiding interference with GPS(spectral mask and periodogram estimation); Spectrum estimation for classical radio transmissions (estimating frequencies of a harmonic signal).[br/][b]4. Statistical Signal Processing Tools for the Analysis of Neurobiological Signals :[/b][br/]Identification of spikes (correlation-bases methods); Characterization of multiple state neurons (Markovian models and maximum likelihood estimation); Classifying firing rates of neuron (Mixture models and the EM algorithm); Principal Component Analysis.[br/][b]5. Statistical Signal Processing Tools for Echo cancellation :[/b][br/]Adaptive filtering (least mean squares and recursive least squares).",
+      "Type of teaching":"Ex cathedra with exercises, computer session",
+      "Bibliography and material":"Slides and Lecture notes",
+      "Required prior knowledge":"Signal processing for communication; Signal processing foundations (advised)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical signal and data processing through applications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcav.epfl.ch","http://lcav.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145758",
+      "name":"Ridolfi Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices, séance sur ordinateur",
+      "Contenu":"[b]1. Bases du traitement statistique du signal :[/b][br/]Systèmes et signaux dans le cas déterministe et stochastique.[br/][b]2. Modèles, méthodes et algorithmes :[/b][br/]Modèles paramétriques et non-paramétriques(stationnaire au sens large, Gaussien, Markovien, auto régressive et bruit blanc); Prédiction linéaire et estimation (principe d'orthogonalité et filtre de Wiener); Estimation par maximum de vraisemblance et à priori de Bayesien.[br/][b]3. Outils statistiques pour la transmission Ultra-Wide Band :[/b][br/]Codage et décodage avec la position d'impulsions (annihilating filter); Masque spectrale et estimation par periodogramme; Estimation spectral pour transmission classiques (estimation des fréquences d'un signal harmonique).[br/][b]4. Outils statistiques pour l'analyse des signaux neurobiologiques :[/b][br/]Identification des impulsions (méthodes de corrélation); Caractérisation de neurones à état multiples (Modèles Markoviens et maximum de vraisemblance); Classification de la firing rate d'un neurone (mélange de population et algorithme EM); Analyse par composantes principales.[br/][b]5. Outils statistiques pour l'élimination de l'écho :[/b][br/]Filtrage adaptatif (moindres carrés et moindres carrés récursif).",
+      "Prérequis":"Signal processing for communication; Signal processing foundations (conseillé)",
+      "Bibliographie et matériel":"Slides et notes de cours polycopiés",
+      "Objectifs d'apprentissage":"Statistical Signal and Data Processing through Applications est la suite des cours Bachelor en traitement du signal, comme \"Signal Processing for Communications\", ou des cours Master comme \"Signal Processing Foundations\", où les notions basiques du traitement  du signal ont été introduites.[br/]A partir des concepts de base comme l'échantillonnage, le filtrage et les transformées de Fourier, on présente l'estimation spectrale, la détection, la classification et le filtrage adaptatif, avec un approche orienté applications : d'abord on présente des applications actuelles et ensuite on discute les méthodes et outils statistiques pour les traiter."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical signal and data processing through applications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

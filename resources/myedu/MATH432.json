@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837368471&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","432"],
+    "title":"Probability theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837368471&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205386",
+      "name":"Mourrat Jean-Christophe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Give to students the necessary fundamentals for understanding probability, in particular concepts necessary for a proper understanding of independence on abstract probability spaces.[br/]",
+      "Content":"- general probability spaces, random variables and measurable functions, measures and probabilities[br/]- expectation for a random variable and reminder of integration theory[br/]- independence and the Borel-Cantelli lemmas[br/]- strong and weak laws of large numbers[br/]- central limit theorem",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Prerequisite for":"Probabilities, Stochastic process",
+      "Required prior knowledge":"First cycle, Advanced analysis A (measure theory)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Probability theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-534-42441-4&amp;con_lng=ENG\" target=\"blank\">Probability : theory and examples / by Richard Durrett</a>\". Year:2005. ISBN:0-534-42441-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205386",
+      "name":"Mourrat Jean-Christophe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Premier cycle, analyse avancée A (théorie de la mesure)",
+      "Bibliographie et matériel":"R. Durret, Probability: Theory and Examples, year 2005, ISBN 0-534-42441-4",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"- espaces de probabilités généraux, variables aléatoires et fonctions mesurables, mesures de probabilités[br/]- espérance d'une variable aléatoire, rappels de la théorie de l'intégration[br/]- indépendance, lemme de Borel-Cantelli[br/]- notions de convergence presque sûre et de convergence en probabilité[br/]- lois faibles et fortes des grands nombres[br/]- théorème de la limite centrale",
+      "Préparation pour":"Probabilités, processus stochastique",
+      "Objectifs d'apprentissage":"Donner aux étudiants les instruments fondamentaux nécessaires pour la maîtrise mathématique des problèmes où intervient le hasard, en particulier dans les situations où les concepts de probabilité combinatoire étudiés au premier cycle ne suffisent pas."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Probability theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-534-42441-4&amp;con_lng=FRE\" target=\"blank\">Probability : theory and examples / by Richard Durrett</a>\". Année:2005. ISBN:0-534-42441-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

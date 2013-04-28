@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400764153&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","717"],
+    "title":"Probabilistic Graphical models",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400764153&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=9101","http://moodle.epfl.ch/course/view.php?id=9101 "],["http://www.ece.rice.edu/~vc3/elec633","http://www.ece.rice.edu/%7Evc3/elec633"],["http://upseeger.epfl.ch/lectures/bml10/index.html","http://upseeger.epfl.ch/lectures/bml10/index.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199128",
+      "name":"Cevher Volkan"
+    },{
+      "url":"http://people.epfl.ch/208475",
+      "name":"Seeger Matthias"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course will focus on providing diverse mathematical tools for graduate students from statistical inference and learning; graph theory, signal processing and systems; coding theory and communications, and information theory. [br/]We will discuss exact and approximate statistical inference over large number of interacting variables, and develop probabilistic and optimization-based computational methods. We will cover hidden Markov models, belief propagation, Monte Carlo sampling algorithms, and variational Bayesian methods (e.g., expectation maximization algorithm). We will read research papers and book chapters to understand the benefits and limitations of such algorithms.[br/]",
+      "Content":"1. Introduction to graphical models: Bayesian networks, HMM, Markov random fields, and factor graphs[br/][br/]2. (Approximate) Inference on graphical models[br/]a. Sum product/max sum  algorithm [br/]b. Loopy belief propagation -Bethe and Kikuchi free energies[br/]c. Expectation propagation algorithm[br/]d. Variational inference:  Mean field/factorized approximations[br/]e. Three weighted message passing algorithm[br/][br/]3. Monte Carlo methods [br/]a. Importance sampling, Metropolis-Hastings/Gibbs sampling[br/]b. Evaluation of the partition function- Planar Ising model[br/]c. Evaluation of the partition function- Non-Planar Ising model: fully polynomial randomized approximation scheme[br/][br/]4. Learning in graphical models[br/]a. Latent variable models and the EM algorithm[br/]b. Sequential methods for learning[br/]c. Neural networks[br/]d. Learning sparse graphical models[br/][br/]5. Other concepts and Applications[br/]a. Sparsity, compressibility, and submodularity[br/]b. Turbo/LDPC codes, Genetics and Neuroscience, Image segmentation and stereo depth estimation, compressive signal processing[br/]",
+      "Keywords":"Graphical models, sparsity, submodularity, inference, learning",
+      "Note":"The course work will have three assignments that focus on the theoretical aspects of graphical models and a selected group project.[br/]",
+      "Required prior knowledge":"Probability Theory, Optimization"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Probabilistic Graphical models",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":48
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=9101","http://moodle.epfl.ch/course/view.php?id=9101 "],["http://www.ece.rice.edu/~vc3/elec633","http://www.ece.rice.edu/%7Evc3/elec633"],["http://upseeger.epfl.ch/lectures/bml10/index.html","http://upseeger.epfl.ch/lectures/bml10/index.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199128",
+      "name":"Cevher Volkan"
+    },{
+      "url":"http://people.epfl.ch/208475",
+      "name":"Seeger Matthias"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course work will have three assignments that focus on the theoretical aspects of graphical models and a selected group project.",
+      "Contenu":"1. Introduction to graphical models: Bayesian networks, HMM, Markov random fields, and factor graphs[br/][br/]2. (Approximate) Inference on graphical models[br/]a. Sum product/max sum  algorithm [br/]b. Loopy belief propagation -Bethe and Kikuchi free energies[br/]c. Expectation propagation algorithm[br/]d. Variational inference:  Mean field/factorized approximations[br/]e. Three weighted message passing algorithm[br/][br/]3. Monte Carlo methods [br/]a. Importance sampling, Metropolis-Hastings/Gibbs sampling[br/]b. Evaluation of the partition function- Planar Ising model[br/]c. Evaluation of the partition function- Non-Planar Ising model: fully polynomial randomized approximation scheme[br/][br/]4. Learning in graphical models[br/]a. Latent variable models and the EM algorithm[br/]b. Sequential methods for learning[br/]c. Neural networks[br/]d. Learning sparse graphical models[br/][br/]5. Other concepts and Applications[br/]a. Sparsity, compressibility, and submodularity[br/]b. Turbo/LDPC codes, Genetics and Neuroscience, Image segmentation and stereo depth estimation, compressive signal processing[br/]",
+      "Mots clés":"Graphical models, sparsity, submodularity, inference, learning",
+      "Prérequis":"Probability Theory, Optimization",
+      "Objectifs d'apprentissage":"The course will focus on providing diverse mathematical tools for graduate students from statistical inference and learning; graph theory, signal processing and systems; coding theory and communications, and information theory. [br/]We will discuss exact and approximate statistical inference over large number of interacting variables, and develop probabilistic and optimization-based computational methods. We will cover hidden Markov models, belief propagation, Monte Carlo sampling algorithms, and variational Bayesian methods (e.g., expectation maximization algorithm). We will read research papers and book chapters to understand the benefits and limitations of such algorithms.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Probabilistic Graphical models",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":48
+    }
+  }
+}

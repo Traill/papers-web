@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129688728&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","463"],
+    "title":"Mathematical modelling of behavior",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129688728&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Discrete choice models allow for the analysis and prediction of individuals' choice behaviour. The objective of the course is to introduce both methodological and applied aspects, in the field of marketing, transportation, finance and energy.",
+      "Content":"1. Introduction and examples[br/]2. Choice theory[br/]3. Data[br/]4. Binary choice[br/]5. Multinomial choice[br/]6. Nested Logit model[br/]7. Multivariate extreme Value models[br/]8. Tests[br/]9. Prediction[br/]10. Sampling[br/]11. Large scale problems[br/]12. Mixed models.",
+      "Type of teaching":"Ex cathedra lecture",
+      "Form of examination":"Written"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematical modelling of behavior",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-02217-6&amp;con_lng=ENG\" target=\"blank\">Discrete choice analysis : theory and application to travel demand / Moshe E. Ben-Akiva, Steven R.Lerman</a>\". Year:1997. ISBN:0-262-02217-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-74738-7&amp;con_lng=ENG\" target=\"blank\">Discrete choice methods with simulation / Kenneth E. Train</a>\". Year:2009. ISBN:978-0-521-74738-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"1. Introduction et exemples[br/]2. Théorie du choix[br/]3. Données[br/]4. Modèles de choix binaires[br/]5. Modèles de choix multiples[br/]6. Modèle Logit emboîté[br/]7. Modèles aux valeurs extrêmes multivariés[br/]8. Tests[br/]9. Prédiction[br/]10. Echantillonage[br/]11. Problèmes de grande taille[br/]12. Modèles mixés.",
+      "Forme du contrôle":"Ecrit",
+      "Bibliographie et matériel":"Ben-Akiva and Lerman (1985) Discrete Choice Analysis, MIT Press.[br/]Train (2003) Discrete Choice Methods with Simulation, Cambridge University Press.",
+      "Objectifs d'apprentissage":"Les modèles de choix discrets permettent d'analyser et de prédire les comportements des individus confrontés à des choix. L'objectif du cours est de présenter les aspects méthodologiques et applicatifs de ces modèles dans des domaines tels que le marketing, le transport, la finance et l'énergie."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematical modelling of behavior",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-02217-6&amp;con_lng=FRE\" target=\"blank\">Discrete choice analysis : theory and application to travel demand / Moshe E. Ben-Akiva, Steven R.Lerman</a>\". Année:1997. ISBN:0-262-02217-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-74738-7&amp;con_lng=FRE\" target=\"blank\">Discrete choice methods with simulation / Kenneth E. Train</a>\". Année:2009. ISBN:978-0-521-74738-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

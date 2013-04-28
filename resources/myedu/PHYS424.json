@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127857151&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","424"],
+    "title":"Plasma physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127857151&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"PH",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["https://documents.epfl.ch/users/l/li/lister/public/CoursPlasmaPhysicsIII/","https://documents.epfl.ch/users/l/li/lister/public/CoursPlasmaPhysicsIII/ "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105078",
+      "name":"Fasoli Ambrogio"
+    },{
+      "url":"http://people.epfl.ch/105676",
+      "name":"Lister Jonathan Bryan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Develop a global view of the physics and technology problems associated with controlled thermonuclear fusion. Study in depth of the Tokamak, currently the most advanced concept.",
+      "Content":"[b]I Controlled fusion principles[/b] [br/]Underlying nuclear physics, confinement schemes, energy balance [br/][br/][b]II Inertial confinement[/b] [br/]Confinement time, energy gain, target compression [br/][br/][b]III Magnetic confinement[/b] [br/]Principles and difficulties of magnetic confinement [br/][br/][b]IV The tokamak[/b] [br/]Construction and operation, present-day experiments, typical properties and measurement techniques Experimental and theoretical limits on confinement, plasma current, density and kinetic pressure. Heating by neutral beams, ECRH, ICRH, LHRH, Alfvén waves. [br/][br/][b]V The future and ITER[/b][br/]Tokamak reactor concepts and problems to be solved. [br/]",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Required prior knowledge":"Electrodynamics, Plasma physics I and II"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Plasma physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["https://documents.epfl.ch/users/l/li/lister/public/CoursPlasmaPhysicsIII/","https://documents.epfl.ch/users/l/li/lister/public/CoursPlasmaPhysicsIII/ "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105078",
+      "name":"Fasoli Ambrogio"
+    },{
+      "url":"http://people.epfl.ch/105676",
+      "name":"Lister Jonathan Bryan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices en classe ",
+      "Contenu":"[b]I Principes de la fusion contrôlée[/b] [br/]Physique nucléaire, types de confinement, bilan énergétique [br/][br/][b]II Confinement inertiel[/b][br/]Temps de confinement, gain d'énergie, compression de la cible [br/][br/][b]III Confinement magnétique[/b] [br/]Rappel des principes et problèmes du confinement magnétique [br/][br/][b]IV Le tokamak[/b] [br/]Son fonctionnement, l'ensemble des expériences en opération, les caractéristiques expérimentales types, les techniques de mesure. Les limites expérimentales et théoriques de son opération (confinement, courant, densité, pression). Chauffage par faisceaux de neutres, cyclotron électronique, résonance hybride inférieure, cyclotronique ionique, ondes Alfvén. [br/][br/][b]V Le futur et le projet ITER[/b][br/]La conception des réacteurs basés sur le tokamak, les problèmes technologiques et scientifiques à résoudre. [br/]",
+      "Prérequis":"Electrodynamique, Physique des plasmas I et II ",
+      "Bibliographie et matériel":"Notes polycopiées, références à la littérature ",
+      "Objectifs d'apprentissage":"Acquérir une vue globale des problèmes physiques et technologiques de la fusion thermonucléaire contrôlée. Etude approfondie du système Tokamak, actuellement la plus avancée des voies explorées."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Plasma physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51647362&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","607"],
+    "title":"Machine Learning",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51647362&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lasa.epfl.ch/teaching/lectures/ML_Phd/index.php","http://lasa.epfl.ch/teaching/lectures/ML_Phd/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115671",
+      "name":"Billard Aude"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of machine learning is to extract knowledge from data. The algorithm may be informed by incorporating prior knowledge of the task at hand. The amount of information varies from fully supervised to unsupervised or semi-supervised learning. This course will present some of the core advanced methods in the field for structure discovery, classification and non-linear regression. This is an advanced class in Machine Learning; hence, students are expected to have some background in the field. The class will be accompanied by practical session on computer, using the mldemos software (http://mldemos.epfl.ch) that encompasses more than 30 state of the art algorithms.",
+      "Content":"[li] Introduction to the major mathematical principles of Machine Learning[br/][li] Structure Discovery: spectral and kernel methods, kernel PCA.CCA, X-means[br/][li] Classification: Decision trees, Support Vector Machines, Boosting, Bagging[br/][li] Nonlinear Regression: Support Vector Regression, Gaussian Process Regression, Locally Weighted Learning[br/][li] Stochastic Modeling: Particle Filters, Reinforcement Learning and Gradient Methods",
+      "Keywords":"Machine learning, statistics",
+      "Form of examination":"The class will be graded 50% on project to be done during the semester and 50% on a oral exam",
+      "Required prior knowledge":"Strong knowledge in Linear Algebra, Probability and Statistics, and Programming"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Machine Learning",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lasa.epfl.ch/teaching/lectures/ML_Phd/index.php","http://lasa.epfl.ch/teaching/lectures/ML_Phd/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115671",
+      "name":"Billard Aude"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Introduction to the major mathematical principles of Machine Learning[br/][li] Structure Discovery: spectral and kernel methods, kernel PCA.CCA, X-means[br/][li] Classification: Decision trees, Support Vector Machines, Boosting, Baggin[br/][li] Nonlinear Regression: Support Vector Regression, Gaussian Process Regression, Locally Weighted Learning[br/][li] Stochastic Modeling: Particle Filters, Reinforcement Learning and Gradient Methods[br/]",
+      "Mots clés":"machine learning, statistics",
+      "Prérequis":"Strong knowledge in Linear Algebra, Probability and Statistics, and Programming",
+      "Forme du contrôle":"The class will be graded 50% on project to be done during the semester and 50% on an oral exam",
+      "Objectifs d'apprentissage":"The aim of machine learning is to extract knowledge from data. The algorithm may be informed by incorporating prior knowledge of the task at hand. The amount of information varies from fully supervised to unsupervised or semi-supervised learning. This course will present some of the core advanced methods in the field for structure discovery, classification and non-linear regression. This is an advanced class in Machine Learning;  hence, students are expected to have some background in the field. The class will be accompanied by practical session on computer, using the mldemos software (http://mldemos.epfl.ch) that encompasses more than 30 state of the art algorithms."
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Machine learning",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

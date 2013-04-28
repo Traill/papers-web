@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30684276&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","611"],
+    "title":"Practical - Constam Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30684276&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://constam-lab.epfl.ch/","http://constam-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168579",
+      "name":"Constam Daniel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Early mouse development[br/][br/]Students will learn to microdissect mouse embryos between blastocyst and gastrulation stage, and to monitor gene expression by whole mount staining",
+      "Content":"Our lab uses molecular genetics to elucidate the mechanisms how TGFß signaling pathway regulate the fate of pluripotent progenitor cells in the early mammalian embryo. The visualization of tissue-specific gene products in four dimensions is crucial to define at a molecular level how specific loss and gain-of-function mutations influence cell fate.",
+      "Keywords":"development, stem cells, differentiation, genetics, molecular biology, TGFß",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Constam laboratory cannot take this course. Access is limited to 3 students.",
+      "Required prior knowledge":"Basics of molecular biology"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Practical - Constam Lab",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":7
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://constam-lab.epfl.ch/","http://constam-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168579",
+      "name":"Constam Daniel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Constam laboratory cannot take this course. Access is limited to 2/3 students",
+      "Contenu":"Our lab uses molecular genetics to elucidate the mechanisms how TGFß signaling pathway regulate the fate of pluripotent progenitor cells in the early mammalian embryo. The visualization of tissue-specific gene products in four dimensions is crucial to define at a molecular level how specific loss and gain-of-function mutations influence cell fate.",
+      "Mots clés":"development, stem cells, differentiation, genetics, molecular biology, TGFß",
+      "Prérequis":"Basics of molecular biology",
+      "Objectifs d'apprentissage":"Early mouse development[br/][br/]Students will learn to microdissect mouse embryos between blastocyst and gastrulation stage, and to monitor gene expression by whole mount staining"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Practical - Constam Lab",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":7
+    }
+  }
+}

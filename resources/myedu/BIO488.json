@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543067561&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","488"],
+    "title":"Project in translational oncology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543067561&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168669",
+      "name":"Aguet Michel"
+    },{
+      "url":"http://people.epfl.ch/192826",
+      "name":"Hanahan Douglas"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in translational oncology",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168669",
+      "name":"Aguet Michel"
+    },{
+      "url":"http://people.epfl.ch/192826",
+      "name":"Hanahan Douglas"
+    },{
+      "url":"http://people.epfl.ch/172749",
+      "name":"Radtke Freddy"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"The course starts with a short lecture part to introduce therapeutic concepts for the treatment of cancer through recent examples of mechanism-based therapies. This part is followed by a project work carried out independently by the students in small teams. Based on literature searches and input from the teachers, the students will identify and critically assess potential disease targets and new treatment approaches. They will propose validation strategies and notably suggest models to predict efficacy, and eventually outline the path towards discovering relevant drug candidates. Progress will be discussed with the teacher on a weekly basis. The project teams will present their work in a written report.",
+      "Forme du contrôle":"Continuous control during the semester",
+      "Prérequis":"Bachelor in Life Sciences & Technology",
+      "Objectifs d'apprentissage":"Provide insight into how scientific knowledge, acquired through basic research can be extended towards medical applications. The course will focus on examples in the field of cancer research and outline challenges and current trends in the search for new, more efficacious treatments. Specifically, students will acquire basic knowledge on the identification and validation of new disease targets. They will also gain insight into the process of preclinical drug discovery and development, and on emerging concepts in disease diagnosis, predicting response to treatment and personalizing therapy. Selected speakers with industry experience will participate in teaching."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Project in translational oncology",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

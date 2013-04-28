@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774262&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","104(a)"],
+    "title":"Introduction to metrology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774262&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109056",
+      "name":"Mari Daniele"
+    },{
+      "url":"http://people.epfl.ch/136611",
+      "name":"Tkalcec Iva"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction of the students to the classical technics of the physics laboratory, such as the measurement technics, the electronic apparatus, the optical systems, the vacuum technics, the cryogenic technics, the thermal regulation, the transducers, ...",
+      "Content":"[b]I\tUnit systems and size orders[/b][br/][br/][b]II\tData acquisition and error analysis[/b][br/][br/][b]III\tMeasurement devices[/b][br/][br/][b]IV\tOptical systems[/b][br/][br/][b]V\tElectric and electronic circuits[/b][br/][br/][b]VI\tVacuum and cryogenic technics[/b][br/][br/][b]VII\tTransducers and sensors[/b][br/][br/][b]VIII\tThermal sensors and regulators[/b][br/][br/][br/]",
+      "Form of examination":"Final exam"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Introduction to metrology",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109056",
+      "name":"Mari Daniele"
+    },{
+      "url":"http://people.epfl.ch/136611",
+      "name":"Tkalcec Iva"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"1 h théorie + 3h enseignement pratique par groupes de 5 à 6 étudiants autour d'un montage expérimental",
+      "Contenu":"[b]I\tSystèmes d'unités et ordres de grandeurs[/b][br/][br/][b]II\tAcquisition de données et traitement des incertitudes[/b][br/][br/][b]III\tAppareils de mesure[/b][br/][br/][b]IV\tSystèmes optiques[/b]\t[br/][br/][b]V\tCircuits électriques et électronique[/b] \t[br/][br/][b]VI\tTechnique du vide et cryogénie[/b] \t[br/][br/][b]VII\tTransducteurs et capteurs[/b] \t[br/][br/][b]VIII\tThermique et régulation[/b]",
+      "Forme du contrôle":"Examen en fin de semestre",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Objectifs d'apprentissage":"Familiariser les étudiants avec les différentes techniques de mesures devenues classiques dans un laboratoire de physique expérimentale : vide, cryogénie, régulation de température, analyse de signaux électriques, etc. .... "
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Introduction à la métrologie",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24291820&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","535"],
+    "title":"Complex structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24291820&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101009",
+      "name":"de Castro San Roman Fest Julia"
+    },{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li]Understand the factors that can increase the complexity of a load-bearing structure, such as : spatial constraints, materials economy, hybrid construction, function integration, program requirements.[br/][li]Analyze a complex structure by explaining the structural principles (vertical and horizontal load-bearing systems, stability, static systems, load bearing, structural details, assembly systems and implementation)[br/][li]Understand the operating principles of the various types of structures and define the determining parameters. [br/][li]Evaluate the choice of the form and geometry of existing structures from the structural point of view.[br/][li]Evaluate the static systems and choose the most appropriate for the various requirements of a project.[br/][li]Describe a structure using the appropriate terminology.[br/]",
+      "Content":"Different types and levels of complexity will be discussed:[br/][br/][li]Structural complexity (space, membrane, pneumatic, freeform structures).[br/][li]Natural constructions (minimal path, tensegrity, branched, fractal structures).[br/][li]Form-finding methods (experimental, evolutionary algorithms).[br/][li]Advanced materials (advanced composites, glass).[br/][li]Material-structure interaction (ideal, constructible and implemented form).[br/][li]Hybrid construction (material combinations, composite action, joining).[br/][li]Multifunctional structures (structure-envelope integration).[br/][li]Complex program requirements (modular, convertible, flexible structures).[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Complex structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101009",
+      "name":"de Castro San Roman Fest Julia"
+    },{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de base en structures.",
+      "Bibliographie et matériel":"Documents sur le site web du cours : moodle.epfl.ch.",
+      "Mots clés":"Complexité structurale, recherche de forme, nouveaux matériaux, structures multifonctionnelles.",
+      "Forme d'enseignement":"Cours ex cathedra à l'aide de moyens audio-visuels. Etudes de cas.",
+      "Contenu":"Différents types et niveaux de complexité seront discutés :[br/][br/][li]Complexité structurale (structures spatiales, à membranes, pneumatiques, à forme libre).[br/][li]Constructions de la nature (cheminement minimal, tensegrity, structures ramifiées, fractales).[br/][li]Méthodes de recherche de forme (expérimental, algorithmes évolutifs).[br/][li]Matériaux avancés (matériaux composites, verre).[br/][li]Interaction matériaux-structure (forme idéale, constructible et construite).[br/][li]Construction hybride (combinaisons de matériaux, action composite, connexions).[br/][li]Structures multifonctionnelles (intégration structure-enveloppe).[br/][li]Exigences de programme complexes (structures modulaires, convertibles, flexibles).[br/]",
+      "Forme du contrôle":"Rédaction d'un mémoire pendant le semestre comptant pour 50% de la note finale, à rendre en fin de semestre, et exposé et interrogation valant pour 50% de la note finale.",
+      "Préparation pour":"Projet de master.",
+      "Objectifs d'apprentissage":"[li]Comprendre les facteurs qui peuvent augmenter la complexité d'une structure porteuse, tels que : contraintes spatiales, économie de matériaux, construction hybride, intégration des fonctions, exigences de programme.[br/][li]Analyser une structure complexe en expliquant les principes structuraux (systèmes porteurs verticaux et horizontaux, stabilité, schémas statiques, descente des charges, détails structuraux, schémas de montage et de mise en oeuvre).[br/][li]Comprendre les principes de fonctionnement des divers types de structures et définir les paramètres déterminants. [br/][li]Evaluer le choix de la forme et de la géométrie de structures existantes du point de vue structurel.[br/][li]Evaluer les systèmes statiques et choisir les plus adaptés aux diverses exigences d'un projet.[br/][li]Décrire une structure avec la terminologie appropriée.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures complexes",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

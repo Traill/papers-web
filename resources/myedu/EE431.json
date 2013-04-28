@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771814&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","431"],
+    "title":"VLSI design II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771814&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle/course/view.php?id=445","http://moodle/course/view.php?id=445"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    },{
+      "url":"http://people.epfl.ch/167171",
+      "name":"Tajalli Seyed Armin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written",
+      "Bibliography and material":"Notes polycopiées",
+      "Required prior knowledge":"VLSI design - I, Hardware systems modeling I",
+      "Content":"[b]1. Introduction to VLSI CAD[/b][br/]Overview of CAD systems. Concept of automated design flow. Top-down and bottom-up design approaches. Practical aspects of using CAD systems in design.[br/][br/][b]2. Physical Design Automation[/b][br/]System-level partitioning and floor-planning. Logic partitioning. Module placement algorithms. Global and detailed routing algorithms. Design compaction methodologies. Performance-driven physical layout design.[br/][br/][b]3. Design Projects[/b][br/]The students will participate in a series of collaborative design exercises where each project group is assigned a task, to be completed in 3-4 weeks. The complexity of the design assignments will increase progressively, leading up to system-on-chip (SoC) realization by the end of the semester.",
+      "Type of teaching":"Ex cathedra / practical exercices",
+      "Learning outcomes":"This course aims to familiarize the students with the design of very large-scale integrated (VLSI) circuits, using dedicated electronic design automation tools. Several functional blocks will be designed in practical exercises, and examples of system level integration will be shown."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"VLSI design II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle/course/view.php?id=445","http://moodle/course/view.php?id=445"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    },{
+      "url":"http://people.epfl.ch/167171",
+      "name":"Tajalli Seyed Armin"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Conception VLSI - I, Hardware systems modeling I",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Forme d'enseignement":"Ex cathedra / exercices pratiques",
+      "Contenu":"[b]1. Introduction à la CAO pour la VLSI[/b][br/]Revue des systèmes CAO. Flot de conception automatique. Approches descendante et montante. Aspects pratiques de l'utilisation d'outils CAO.[br/][br/][b]2. Conception physique automatique[/b][br/]Partitionnement au niveau système et plan de masses. Partitionnement logique. Algorithmes de placement de modules. Algorithmes de routage global et de détail. Méthodologies de compaction. Conception de layout dirigée par les performances.[br/][br/][b]3. Projets de conception[/b][br/]Les étudiants participeront à une série d'exercices collectifs de conception, à l'occasion desquels chaque groupe se verra assigné une tâche à terminer en 3 à 4 semaines. La difficulté des tâches assignées augmentera de façon progressive, conduisant à la réalisation de système monopuce (system-on-chip) au terme du semestre.",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"Le but de ce cours est de familiariser les étudiants au développement VLSI de circuits par l'usage d'outils permettant l'automatisation de phases de conception de circuits électroniques. Plusieurs blocs fonctionnels seront développés dans le cadre d'exercices pratiques ; de même, des exemples d'intégration au niveau système seront démontrés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"VLSI design II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

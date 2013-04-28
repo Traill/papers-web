@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770783&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","702"],
+    "title":"Analytical ultracentrifugation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770783&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112792",
+      "name":"Wandrey Christine"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Analytical ultracentrifugation (AUC) is a very powerful and variable method to investigate the phycico-chemical properties of macromolecules and colloids, including synthetic polymers, proteins and their assemblies/associates. It is a rigorous method and has played an important role in the understanding of macromo-lecular systems since the pioneering work of the Nobel Laureate T. Svedberg in 1923. The various techniques of AUC are used to characterize properties such as molar mass, molar mass distribution, sedimentation and diffusion coefficients, friction ratios, shapes, particle sizes, and interaction constants. AUC has become a major tool to characterize biomolecules, and to develop pharmaceutical and biomedical products. An AUC Optima XL-I/ProteomLabTM Protein Characterization System is available at the EPFL.[br/]",
+      "Content":"Following a general introduction to the principles of various analytical ultracentrifugation techniques, selected studies will be presented. This will include applications to polymer solutions, protein characterization, interacting systems, and membranes. Practi-cal demonstration is also included. (Limited to 7 participants)[br/]",
+      "Keywords":"analytical ultracentrifugation, macromolecules, nanoparticles, proteins, molar mass/molar mass distribution, particle size[br/]",
+      "Required prior knowledge":"The participation in this course is the prerequisite to use the AUC and to participate in course CH-040.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analytical ultracentrifugation",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112792",
+      "name":"Wandrey Christine"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Following a general introduction to the principles of various analytical ultracentrifugation techniques, selected studies will be presented. This will include applications to polymer solutions, protein characterization, interacting systems, and membranes. Practi-cal demonstration is also included. (Limited to 7 participants)",
+      "Mots clés":"analytical ultracentrifugation, macromolecules, nanoparticles, proteins, molar mass/molar mass distribution, particle size",
+      "Prérequis":"The participation in this course is the prerequisite to use the AUC and to participate in course CH-040.",
+      "Objectifs d'apprentissage":"Analytical ultracentrifugation (AUC) is a very powerful and variable method to investigate the phycico-chemical properties of macromolecules and colloids, including synthetic polymers, proteins and their assemblies/associates. It is a rigorous method and has played an important role in the understanding of macromo-lecular systems since the pioneering work of the Nobel Laureate T. Svedberg in 1923. The various techniques of AUC are used to characterize properties such as molar mass, molar mass distribution, sedimentation and diffusion coefficients, friction ratios, shapes, particle sizes, and interaction constants. AUC has become a major tool to characterize biomolecules, and to develop pharmaceutical and biomedical products. An AUC Optima XL-I/ProteomLabTM Protein Characterization System is available at the EPFL.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analytical ultracentrifugation",
+    "recitation":{
+      "total_hours":4
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=249735302&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["HUM","410(a)"],
+    "title":"Law and technology I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=249735302&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171337",
+      "name":"Favre Anne-Christine"
+    },{
+      "url":"http://people.epfl.ch/218335",
+      "name":"Joye Charles"
+    },{
+      "url":"http://people.epfl.ch/218739",
+      "name":"Jungo Fabia"
+    },{
+      "url":"http://people.epfl.ch/196400",
+      "name":"Neuenschwander Anouk"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"[b]Lecturers[/b] [br/]The course will be given by four specialized lecturers : Anne-Juliette Bonzon, Charles Joye, Fabia Jungo, Anouk Neuenschwander (Droit public suisse, UNIL).[br/] [br/][b]Teaching language[/b] [br/]French[br/]Possibility to write the essay in English",
+      "Form of examination":"Written exam at the end of the first semester.[br/]Group assessment based on the essay and the presentation given in the second semester.",
+      "Bibliography and material":"The course outline with a short bibliography will be given at the beginning of the course, as well as available (pdf) on MyEpfl.",
+      "Content":"[b]Law of new technologies, building and environnement[/b][br/][br/]Fall semester classes include the following subjects :[br/]- Swiss environmental law and international environmental protection ;[br/]- civil liability ;[br/]- computer torts and crimes ;[br/]- data protection and copyright, with focus on the internet.[br/][br/]The spring semester will consist of the writing of an essay on one of the aforementioned subjects.",
+      "Keywords":"Environment, liability, hacking, data protection, copyright",
+      "Type of teaching":"Ex cathedra lectures and practical workshops during fall semester; writing of a personal essay during spring semester. ",
+      "Learning outcomes":"At the end of the teaching, students will be able to understand the legal frame that governs several technical and technological fields."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Law and technology I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171337",
+      "name":"Favre Anne-Christine"
+    },{
+      "url":"http://people.epfl.ch/218335",
+      "name":"Joye Charles"
+    },{
+      "url":"http://people.epfl.ch/218739",
+      "name":"Jungo Fabia"
+    },{
+      "url":"http://people.epfl.ch/196400",
+      "name":"Neuenschwander Anouk"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Le cours est dispensé par quatre enseignant-e-s en fonction des sujets abordés : [br/]Anne-Juliette Bonzon, Charles Joye, Fabia Jungo et Anouk Neuenschwander (Droit public suisse, UNIL).",
+      "Bibliographie et matériel":"Le plan du cours contenant une briève bibliographie est remis à chaque étudiant au début de cours et est également à disposition en document pdf sur MyEpfl.",
+      "Mots clés":"Environnement, responsabilité, piratage informatique, protection des données, droit d'auteur.",
+      "Forme d'enseignement":"Cours ex-cathedra avec ateliers pratiques pendant le premier semestre.[br/]Rédaction d'un travail personnel au second semestre.",
+      "Contenu":"[b]Droit des nouvelles technologies, de la construction et de l'environnement[/b][br/][br/]Le premier semestre fait l'objet d'un cours dans lequel les sujets suivants sont traités :[br/] [br/]- le droit suisse de l'environnement et la protection internationale de l'environnement.[br/]- la responsabilité civile.[br/]- les délits informatiques.[br/]- la protection des données et le droit d'auteur, en particulier sous l'angle d'internet. [br/][br/]Le second semestre est consacré à la rédaction d'un travail personnel portant sur l'un des sujets traités dans le cadre du cours.",
+      "Forme du contrôle":"Evaluation sur une base semestrielle par une note associée à 3 ECTS. L'évaluation du premier semestre porte sur l'acquisition de connaissances et l'élaboration du canevas d'un projet, qui sera réalisé en groupe ou individuellement. L'évaluation du semestre de printemps portera sur la réalisation d'un projet. Des précisions sont données en début d'année académique.",
+      "Objectifs d'apprentissage":"A la fin du cours les étudiant-e-s seront capables d'appréhender le cadre juridique qui régit un certain nombre de domaines techniques et technologiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Droit et technique I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

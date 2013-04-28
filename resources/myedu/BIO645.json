@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400783452&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","645"],
+    "title":"Practical - Auwerx Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400783452&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://auwerx-lab.epfl.ch/","http://auwerx-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171056",
+      "name":"Katsyuba Elena"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To understand how to analyze mitochondrial activity and number in cells and animals",
+      "Content":"Title: Mitochondrial function[br/][br/]This course will describe current strategies to evaluate mitochondrial activity and number in cellular and animal models[br/]",
+      "Keywords":"Mitochondria, Oxygen consumption, Electron transport, Oxidative phosphorylation",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Doctoral students from the Auwerx laboratory cannot take this course. Only 3 students can be admitted / course.",
+      "Required prior knowledge":"Good working knowledge of biochemistry and cell biology"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Auwerx Lab",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://auwerx-lab.epfl.ch/","http://auwerx-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171056",
+      "name":"Katsyuba Elena"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Only 3 students can be admitted / course.",
+      "Contenu":"Title: Mitochondrial function[br/][br/]This course will describe current strategies to evaluate mitochondrial activity and number in cellular and animal models[br/]",
+      "Mots clés":"Mitochondria, Oxygen consumption, Electron transport, Oxidative phosphorylation",
+      "Prérequis":"Good working knowledge of biochemistry and cell biology",
+      "Objectifs d'apprentissage":"To understand how to analyze mitochondrial activity and number in cells and animals"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Auwerx Lab",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

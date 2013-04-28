@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017470&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","725"],
+    "title":"Grid and Converter Controls",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1598017470&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    },{
+      "url":"http://people.epfl.ch/137374",
+      "name":"Siemaszko Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The penetration of renewable energy sources (RERs) in the various levels of electrical power grids has exponentially increased in the last decade. The inherent decentralized nature of RERs is resulting in a progressive change of operation and control philosophies of both grids and sources. Within this context, the decentralization of energy sources and the increase of so-called micro-grids gave rise to a systematic use of active power converters. In order to improve the efficiency of energy conversion systems and the quality of the injected power to the grid, one has to implement innovative methods for synchronizing the power converters to single phase or three phase networks. As a matter of facts, in the application field of electric drives connecting generators and/or motors to networks of various sizes, the industry requires more and more robustness regarding network unbalance and sags, involving a special development effort on the control itself.[br/]This lecture aims at offering an extensive overview of modern control methods for the connection of power inverters to any kind of grids. The covered topics refer to single and three phase networks synchronization, current control and application in real networks. A large part of the course is expected to take place in computer labs in order to improve the understanding of the covered topics.[br/]",
+      "Content":"This section intends to give the basics for understanding the general grid related issues and an overview of the available tools. 20 hours in total are foreseen.[br/]1. Introduction and network definition (2 hours) By Mario Paolone[br/]  a. Power converters and renewable energy sources[br/]  b. Strength of a network.[br/]  c. Types of unbalance.[br/]  d. Harmonic standards[br/]2. Handling of AC systems (2 hours) By Alfred Rufer[br/]  a. Space Phasor Theory[br/]  b. Fixed and synchronous reference frame transformations.[br/]  c. Positive and negative sequence decoupling and harmonics.[br/]3. Grid synchronization (2 hours) By Daniel Siemaszko[br/]  a. Single phase PLL[br/]  b. Synchronous reference frame PLL[br/]  c. Decoupled double synchronous reference frame (DDSRF-PLL)[br/]  d. Second order generalized Integrator FLL[br/]  e. PLL based on fictive axis Emulation[br/]4. Current control (4 hours) By Alfred Rufer and Daniel Siemaszko[br/]  a. Vector control basics and classic current control[br/]  b. Pseudo-continuous multivariable current control[br/]  c. DDSRF for unbalanced current injection[br/]  d. Harmonic compensation[br/]5. Electrical grid modeling (4 hours) By Mario Paolone[br/]  a. General unbalanced systems[br/]  b. Compound admittance matrix[br/]  c. Computation examples[br/]6. Control of power converters in unbalanced systems (2 hours)  By Alfred Rufer[br/]  a. Control of power converters in drive applications[br/]  b. Power injection in Wind industry[br/]  c. Statcom applications[br/]  d. Photovoltaic applications. [br/]7. Control of power converters in weak networks (2 hours) By Daniel Siemaszko[br/]  a. Network islands handling and droop control[br/]  b. Microgrids [br/]8. Grid codes (2 hours) By Mario Paolone[br/]  a. Grid codes for sub-transmission connections[br/]  b. Grid codes for distribution networks[br/][br/]Practice (Matlab-Simulink):[br/]This practice aims to give the student an intuitive know-how on the use of the tools that have been studied. 20 hours in total are foreseen.[br/]1. Electric grid modeling (4 hours)[br/]  a. General modeling[br/]  b. Computation examples[br/]  c. Grid unbalance[br/]2. Single phase control (4 hours)[br/]  a. Resonant control[br/]  b. Fictive axis based control[br/]3. Three phase control (4 hours)[br/]  a. various DQ Current control schemes[br/]  b. Positive-negative sequence separation[br/]4. Unbalanced three phase networks and micro grids(4 hours)[br/]  a. Grid synchronization[br/]  b. Asymmetric current control[br/]  c. Islanding detection[br/]  d. Transition between island mode and network connected mode[br/]5. Mini Project  (4 hours)[br/]",
+      "Keywords":"Grid synchronization, current control, Unbalanced networks",
+      "Required prior knowledge":"Basics in automatics, power electronics and control of power converters, power systems"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Grid and Converter Controls",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/156731",
+      "name":"Paolone Mario"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    },{
+      "url":"http://people.epfl.ch/137374",
+      "name":"Siemaszko Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Grid and Converter Controls",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

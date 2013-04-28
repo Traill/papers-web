@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51560486&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","701"],
+    "title":"Advanced topics in photomedicine",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51560486&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lpas.epfl.ch/PDT/","http://lpas.epfl.ch/PDT/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106697",
+      "name":"Wagnières Georges"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To provide a comprehensive overview of the most important physical,  chemical,   technical and medical basic concepts of photomedicine.[br/]To learn how to apply photonics to the detection and therapy of lesions like cancer and other non-oncologic conditions associated with vascular or superficial abnormalities.",
+      "Content":"1. Interaction of photons with living matter[br/]2. Tissue optics: light propagation in biological tissues and light dosimetry[br/]3. Photophysics of large molecules[br/]4. Photochemistry: reactions and products[br/]5. Photobiology: from the cell to the clinic[br/]6. Photodetection of early lesions with exogenous and endogenous dyes[br/]7. Established and novel therapies in photomedicine",
+      "Keywords":"Tissue optics, photobiology, tissue optical spectroscopy and imaging, photosensitizers ",
+      "Required prior knowledge":"Basics in optics and physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced topics in photomedicine",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lpas.epfl.ch/PDT/","http://lpas.epfl.ch/PDT/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106697",
+      "name":"Wagnières Georges"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Interaction of photons with living matter[br/]2. Tissue optics: light propagation in biological tissues and light dosimetry[br/]3. Photophysics of large molecules[br/]4. Photochemistry: reactions and products[br/]5. Photobiology: from the cell to the clinic[br/]6. Photodetection of early lesions with exogenous and endogenous dyes[br/]7. Established and novel therapies in photomedicine",
+      "Mots clés":"Tissue optics, photobiology, tissue optical spectroscopy and imaging, photosensitizers",
+      "Prérequis":"Basics in optics and physics",
+      "Objectifs d'apprentissage":"To provide a comprehensive overview of the most important physical,  chemical,   technical and medical basic concepts of photomedicine.[br/]To learn how to apply photonics to the detection and therapy of lesions like cancer and other non-oncologic conditions associated with vascular or superficial abnormalities."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced topics in photomedicine",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

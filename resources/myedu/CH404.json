@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48083965&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","404"],
+    "title":"Laboratory information management systems (LIMS)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48083965&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174013",
+      "name":"Rousseil Denis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understand what LIMS are, what they can bring to the lab, and the factors affecting their implementation.",
+      "Content":"[b]1. Introduction[/b][br/]Basics of LIMS - Historical background - Who uses LIMS nowadays?[br/][br/][b]2. What is a LIMS ?[/b][br/]LIMS components - Functionalities of a LIMS - Possible structures of LIMS - Interfacing with laboratory equipment - Four application fields of LIMS  - Sample lifecycle within a LIMS - Validation - What does a LIMS and what it doesn't do - [br/]Advantages et drawbacks of LIMS[br/][br/][br/][b]3. Implementation of a LIMS[/b][br/]Needs and requirements - Actors and resources involved - Traps to avoid - Migrations et updates[br/][br/][b]4. Two case studies[/b][br/]Why a LIMS ? - From the beginning to the final implementation - Consequences within the daily life of the company[br/][br/][b]5. Extensions for LIMS[/b][br/]External connections - Pharmaceutics special requests[br/][br/][b]6. The LIMS market[/b][br/]Main partners and others - Views of some existing LIMS[br/][br/][br/][b]7. Some financial aspects[/b][br/]Direct and indirect costs[br/]« ROI » : return on investment[br/][br/][b]8. View to the future[/b][br/]Growing importance and evolution of LIMS[br/]Conclusions[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Laboratory information management systems (LIMS)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174013",
+      "name":"Rousseil Denis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[br/][li] Bases de chimie analytique instrumentale[br/][li] Pratique courante de Windows[br/]",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra / powerpoint avec exercices intégrés",
+      "Contenu":"[b]1. Introduction[/b][br/]Aperçu du concept LIMS - Historique - Qui utilise les LIMS ?[br/][br/][b]2. Qu'est-ce qu'un LIMS ?[/b][br/]Composants et fonctionnalités d'un LIMS - Les différentes structures possibles des LIMS - Interfaçage avec le matériel de laboratoire - Quatre domaines d'application des LIMS- Le cycle de vie d'un échantillon dans un LIMS - Validation[br/]Ce que fait un LIMS et ce qu'il ne fait pas - Avantages et inconvénients des LIMS[br/][br/][b]3. Implémentation d'un LIMS[/b][br/]Le cahier des charges - Partenaires et ressources impliqués - Pièges à éviter - Migrations et mises à jour[br/][br/][b]4. Etude de deux cas[/b][br/]Pourquoi un LIMS ? - De l'approche à la réalisation finale - Implications dans la vie de l'entreprise[br/][br/][b]5. Extensions des LIMS[/b][br/]Connexions externes - Cas particulier de la pharmaceutique[br/][br/][b]6. Le marché des LIMS[/b][br/]Les principaux partenaires et les autres - Quelques vues de systèmes LIMS existants[br/][br/][b]7. Quelques aspects financiers[/b][br/]Coûts directs et indirects[br/]« ROI » : le retour sur investissement[br/][br/][b]8. Avenir[/b][br/]Importance croissante et évolution des LIMS[br/]Conclusions[br/] ",
+      "Forme du contrôle":"Oral avec projet commun pour deux étudiants ",
+      "Objectifs d'apprentissage":"Comprendre ce que sont les systèmes de gestion d'information pour laboratoire, ce qu'ils apportent, et ce qui entoure leur implémentation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Laboratory information management systems (LIMS)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24508366&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","295"],
+    "title":"Electrical systems and electronics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24508366&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104979",
+      "name":"Doré Chantal"
+    },{
+      "url":"http://people.epfl.ch/111342",
+      "name":"Pastre Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Understanding electronics functions in order to solve problems related to the design of electrical systems used in bioengineering.[br/][][br/][][br/]Introduction to basic components and circuits in electrical systems and applications of operational amplifier.[br/]",
+      "Content":"Components and circuits:[br/][][br/]Ohm's law, Kirchhoff's law, current and volatge sources, passive components, R, L, C, impedence in series and parallel, Thevenin and Northon equivalent circuits, superposition, circuits simplification, bipole and quadripole, potentiometric and bridge circuits, oscillators, modulation/demodulation, time and frequency analysis, applications of Laplace transform, transfer function, electrical analogy of biological, mechanical and thermal systems.[br/][][br/][][br/][][br/]Amplifiers:[br/][][br/]Diode, transistors, bipolar transitors applications, logic circuits, operational amplifiers, basic configurations in operational amplifiers : inverting and non-inverting amplifiers, summing amplifier, comparator, integrator, derivator, non-linear and rectifiying circuits, active circuits for processing and conditioning of biomedical signals.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Electrical systems and electronics I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-093046-6&amp;con_lng=ENG\" target=\"blank\">Electrical and  electronic systems / Neil Storey</a>\". Year:2004. ISBN:0-13-093046-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104979",
+      "name":"Doré Chantal"
+    },{
+      "url":"http://people.epfl.ch/111342",
+      "name":"Pastre Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"Composants et circuits:[br/][][br/]Loi d'ohm, loi de Kirchhoff, source de courant et de tension, composants passifs ; R, L et C, impédance, impédances séries et parallèles, circuits équivalent Thevenin et Northon, théorème de superposition, simplification de circuit, bipôle et quadripôle, les circuits potentiométriques, les ponts de mesure, les circuits oscillants : modulateur/démodulateur, analyse temporelle et fréquentielle des circuits électrique, application de la transformé de Laplace, fonction de transfert, modélisation par analogie électrique des systèmes biologique, mécanique et thermique.[br/][br/]Amplificateurs:[br/][][br/]Diode, transistors, applications du transistor bipolaire, les circuits logiques, amplificateur opérationnel, configurations inverseur et non-inverseur, sommateur, comparateur, integrateur, dérivateur, circuits non-linéaire : redresseur, amplificateurs logarithmique, circuits actifs pour le traitement et le conditionnement des signaux biomédicaux.",
+      "Bibliographie et matériel":"Neil Storey, Electrical &Electronic systems, Prentice Hall, 2004[br/]Cours polycopié et corrigés d'exercices",
+      "Objectifs d'apprentissage":"Acquérir les connaissances en électronique pour permettre aux étudiants de résoudre les problèmes liés à la conception des systèmes électriques utilisés en bioengineering.[br/][][br/]Introduction aux circuits et composants électriques de base  ainsi que l'utilisation et les applications des amplificateurs opérationnels."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Systèmes électriques et électroniques I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-093046-6&amp;con_lng=FRE\" target=\"blank\">Electrical and  electronic systems / Neil Storey</a>\". Année:2004. ISBN:0-13-093046-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

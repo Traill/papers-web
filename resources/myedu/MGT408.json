@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543122247&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","408"],
+    "title":"Economic and technology policy: application to climate change",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543122247&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141288",
+      "name":"Foray Dominique"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"30% class participation[br/]70% final presentation during the semester",
+      "Bibliography and material":"To be provided at the first session",
+      "Required prior knowledge":"Principles of Microeconomics (A. Mack)",
+      "Content":"We will analyze the centrality of economic incentives - taxes, right prices -, of public and private R&D and innovation and last but not least of the improvement of operational efficiency and diffusion of existing technologies and infrastuctures",
+      "Keywords":"Climate change, economic incentives, technology policy, university-industry relationships, Grand Challenges",
+      "Type of teaching":"Formal teaching, team work",
+      "Learning outcomes":"The objective is to review and discuss effectiveness, efficiency and costs of the various economic and technology policy mechanisms that need to be deployed to address the Grand Challenge about climate change"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Economic and technology policy: application to climate change",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141288",
+      "name":"Foray Dominique"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Principles of Microeconomics (A. Mack)",
+      "Bibliographie et matériel":"Sera fournie lors du premier cours",
+      "Mots clés":"Changement climatique, incitations économiques, politique technologique, relations université-industrie, Grands Challenges",
+      "Forme d'enseignement":"Enseignement formel, travaux en groupe",
+      "Contenu":"Nous analyserons la centralité des incitations économiques (fiscalité, prix), de la recherche (publique, privée) et de l'innovation, enfin de l'amélioration de l'efficience des technologies et infrastructures existantes",
+      "Forme du contrôle":"30% participation au cours[br/]70% présentation finale au cours du semestre",
+      "Objectifs d'apprentissage":"L'objectif est d'examiner et d'évaluer l'efficacité et les coûts des différents instruments de politique technologique et économique qui doivent être déployés pour faire face au changement climatique en tant que Grand Défi pour notre société"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Politiques économiques et technologiques: une application au changement climatique",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

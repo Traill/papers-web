@@ -15,7 +15,7 @@ object Graph {
 
 
   // Creates a node given a document
-  private def makeNode[A <: DataItem](id : String, d : Document[A]) : Node = {
+  private def makeNode(id : String, d : Document) : Node = {
     Node(id, 
          d.data.getTitle.text, 
          d.data.getPeople.map(_.name), 
@@ -25,14 +25,14 @@ object Graph {
 
 
   // Creates a list of edges given a document
-  private def makeEdges[A <: DataItem](id : String, d : Document[A]) : List[Edge] = {
+  private def makeEdges(id : String, d : Document) : List[Edge] = {
     val ls = d.links.sortWith((l1,l2) => l1.weight > l2.weight)
     for (Link(to, w) <- ls.take(nEdges)) yield Edge(id, to, w)
   }
 
 
   // From a map of nodes, create a graph
-  def make[A <: DataItem](docs : Map[String, Document[A]]) : Graph = {
+  def make(docs : Map[String, Document]) : Graph = {
 
     // Make nodes
     val nodes = for ((id, d) <- docs) yield makeNode(id, d)

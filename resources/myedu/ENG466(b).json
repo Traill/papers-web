@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=910865121&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","466(b)"],
+    "title":"Distributed intelligent systems project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=910865121&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://disal.epfl.ch/teaching/distributed_intelligent_systems/","http://disal.epfl.ch/teaching/distributed_intelligent_systems/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control ",
+      "Prerequisite for":"R&D activities in engineering",
+      "Required prior knowledge":"Fundamentals in analysis, probability and statistics, signals and systems, and programming (C and Matlab)",
+      "Content":"The list of the project topics is updated every year, according to the course content. Students must choose topics from this list.[br/]",
+      "Keywords":"Artificial intelligence, distributed robotics, sensor networks, modeling, machine-learning",
+      "Type of teaching":"Course project supervised by teaching assistants",
+      "Learning outcomes":"This hands-on project cannot be taken separately from the Distributed Intelligent Systems course (ENG-466a). It allows students to study more in depth specific topics covered during the course and promote teamwork. In addition to a concrete implementation using hardware and software tools provided for the course, the overall exercise involves a final presentation, a technical report, as well as the review of a project presented by another student team."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed intelligent systems project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://disal.epfl.ch/teaching/distributed_intelligent_systems/","http://disal.epfl.ch/teaching/distributed_intelligent_systems/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de base en analyse, probabilités et statistiques, signaux et systèmes, et programmation (C et Matlab)",
+      "Bibliographie et matériel":"Selected research papers and technical documentation distributed for each specific project.",
+      "Mots clés":"Intelligence artificielle, robotique distribuée, réseaux de capteurs, modélisation, apprentissage automatique",
+      "Forme d'enseignement":"Mini-projet encadré par des assistants",
+      "Contenu":"Les sujets des projets sont actualisés chaque année en fonction du contenu du cours. Les étudiants doivent choisir un sujet parmi plusieurs proposés par l'enseignant. ",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Activités R&D en ingénierie",
+      "Objectifs d'apprentissage":"Cet enseignement pratique n'est pas dissociable du cours Systèmes Intelligents Distribués (ENG-466a). Il permet d'approfondir les connaissances dispensées durant le cours et stimule le travail d'équipe. L'exercice implique, en plus d'une implémentation concrète utilisant les outils logiciels et matériels mis à disposition pour le cours, une présentation finale, un rapport technique, ainsi qu'une révision d'un projet présenté par une autre équipe d'étudiants."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed intelligent systems project",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

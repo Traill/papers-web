@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352623822&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","483"],
+    "title":"Optimal decision analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352623822&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163910",
+      "name":"Lebret Hervé"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"25% midterm[br/]50% final exam[br/]25% small personal project[br/]Exams are on paper, open-text (no use of computers)",
+      "Bibliography and material":"Convex Optimization, Stephen Boyd and Lieven Vandenberghe, Cambridge University Press, 2004. [br/]http://www.stanford.edu/~boyd/cvxbook/ ",
+      "Required prior knowledge":"A good background in linear algebra. Matering Matlab is a plus!",
+      "Content":"Optimization is not only a major segment of applied mathematics, it is also a critical problem in many economic and engineering sectors. In any situation where resources are limited, decision makers try to solve problems they face in the \"best possible\" manner. Obviously, optimality and decision analysis depends on the objectives which are targeted! The course \"optimal decision analysis\" will provide theory and practical tools to solve optimization problems, for a broad number of problems, from linear to non-linear optimization, form unconstrained to constrained optimization and will include general issues such as robustness and sensitivity analysis.[br/][br/]Though optimization has been a topic in mathematics for centuries, recent (less than 30 year-old) methods have been devised to solve a very broad range of problems, encompassing many of the questions mentioned before. These are convex optimization problems. The course will show the power and \"simplicity\" of such problems, in particular through the generic group of interior-point methods.[br/][br/]The course goes deeply into applied mathematics through the use of theory and also in practice thanks to software tools. MATLAB is a very generic software tool for numerical simulation that will be used in the course. A decent background in linear algebra will be very useful for the courses. ",
+      "Keywords":"Convex Optimisation",
+      "Type of teaching":"Classical formal teaching followed by practice through exercises. ",
+      "Learning outcomes":"Introduce the theory and tools of optmization for decision making"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optimal decision analysis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83378-3&amp;con_lng=ENG\" target=\"blank\">Convex optimization / Stephen Boyd, Lieven Vandenberghe</a>\". Year:2010. ISBN:978-0-521-83378-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163910",
+      "name":"Lebret Hervé"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Une bonne connaissance de l'algèbre linéaire. La connaissance de Matlab est un plus!",
+      "Bibliographie et matériel":"Convex Optimization, Stephen Boyd and Lieven Vandenberghe, Cambridge University Press, 2004. [br/]http://www.stanford.edu/~boyd/cvxbook/",
+      "Mots clés":"Optimisation Convexe",
+      "Forme d'enseignement":"Format classique d'enseignement théorique suivi de pratique par exercices.",
+      "Contenu":"L'optimisation n'est pas seulement une discipline majeure des mathématiques appliquées, elle contribue aussi à résoudre de nombreux problèmes dans les domaines de l'ingénierie et de l'économie. Dans toute situation où les ressources sont limitées, les preneurs de décision doivent résoudre leurs problèmes de la \"meilleure\" manière possible. L'optimisation et l'analyse de décision dépend bien évidemment des objectifs. Le cours fournira une théorie et des outils pour résoudre de tels problèmes dans un cadre très large, incluant des problèmes linéaires et non linéaires, avec et sans contraintes, y compris des analyses de robustesse et de sensibilité. [br/][br/]Bien que l'optimisation ait été étudiée pendant des siècles, des méthodes récentes (moins de 30 ans d'âge) ont été \"inventées\" pour résoudre de tels problèmes. Il s'agit des problèmes d'optimisation convexe. Le cours montrera la simplicité et la puissance de ces méthodes, en particulier celles appelées méthodes de points intérieurs. [br/][br/]Le cours est assez exigeant en mathématiques appliquées aussi bien d'un point de vue théorique et par l'usage de simulations informatiques (sans doute par usage de MATLAB). Il serait préférable que les étudiants aient une connaissance préalable de ces outils et domaines. ",
+      "Forme du contrôle":"25% examen intermédiaire[br/]50% examen final[br/]25% petit projet personnel[br/]Les examens sont sur papier avec documentation papier mais sans ordinateur",
+      "Objectifs d'apprentissage":"Introduire la théorie et les outils de l'optimisation pour la prise de décision "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optimal decision analysis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-83378-3&amp;con_lng=FRE\" target=\"blank\">Convex optimization / Stephen Boyd, Lieven Vandenberghe</a>\". Année:2010. ISBN:978-0-521-83378-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

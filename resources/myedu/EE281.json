@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773507&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","281"],
+    "title":"Electrotechniques",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773507&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106775",
+      "name":"Zoia Roberto"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Course handout",
+      "Prerequisite for":"Electronics, Electrical Machines",
+      "Required prior knowledge":"General physics I and II, Analysis I and II.",
+      "Content":"[b]Electrical circuits[/b][br/]Voltage and current sources, resistance, inductance and capacitor. DC circuit. Kirchhoff laws. Combination of circuit elements. Fundamental theorems: Thevenin, Norton, power transfer, superposition.[br/][br/][b]Single-phase circuits in sinusoidal steady-state regime[/b][br/]Principle of voltage generation. Phasors and complex analysis. Complex impedances and admittances. Sinusoidal steady-state regime. Instantaneous power. Active, reactive and apparent powers. Power factor. Real sources. Thevenin and Norton theorems in sinusoidal regime.[br/][br/][b]Multi-phase systems[/b][br/]Definitions. Symmetrical three-phase systems. Simple and line voltages. Star and delta connections. Power in three-phase systems. Star-delta conversions. Three-phase systems with unsymmetrical star and delta-connected loads.[br/][br/][b]Transient analysis[/b][br/]Definitions. Response to unit-step excitations. Transient analysis of simple circuits. Time constants. Transient and steady-state responses of a circuit.[br/]",
+      "Type of teaching":"Ex cathedra lecture with examples and exercises",
+      "Learning outcomes":"Students will be able to analyze basic linear circuits. They will learn to apply phasor theory based on complex numbers to analyze single-phase systems as well as symmetrical and unsymmetrical three-phase systems in sinusoidal regime. They will also be able to perform a transient analysis of basic linear circuits."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechniques",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106775",
+      "name":"Zoia Roberto"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique Générale I et II, Analyse I et II",
+      "Bibliographie et matériel":"Cours polycopié",
+      "Forme d'enseignement":"Cours ex cathedra avec exemples et exercices",
+      "Contenu":" [b]Éléments de circuits[/b] [br/]Sources de tension et de courant, résistance, inductance, condensateur. Comportement des éléments en régime continu. Lois de Kirchhoff. Combinaison d'éléments passifs. Théorèmes fondamentaux : Thévenin, Norton, transfert de puissance, superposition.[br/][br/] [b]Circuits monophasés en régime sinusoïdal[/b][br/]Obtention d'une tension alternative. Phaseurs et calcul complexe. Impédances et admittances complexes. Régimes permanents. Puissance instantanée. Puissances active, réactive et apparente. Facteur de puissance. Sources réelles. Théorèmes de Thévenin et Norton en régime sinusoïdal.[br/][br/] [b]Systèmes polyphasés[/b][br/]Définitions. Systèmes triphasés symétriques. Tensions simples et composées. Couplages en étoile et en triangle. Puissances en régime triphasé symétrique. Conversion étoile - triangle. Étude de systèmes triphasés dans le cas de charges non symétriques en étoile ou en triangle.[br/][br/] [b]Régimes transitoires[/b][br/]Définitions. Réponses indicielles. Analyse du régime transitoire de circuits simples. Constantes de temps. Régimes transitoires et permanents.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Electronique, Machines Electriques",
+      "Objectifs d'apprentissage":"Les étudiants seront capables d'analyser et de mettre en équation des circuits linéaires. Ils maîtriseront l'application du calcul complexe pour l'analyse des systèmes monophasés ainsi que les systèmes triphasés symétriques et non symétriques en régime sinusoïdal. Ils seront également capables d'analyser des circuits linéaires en régime transitoire."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechnique",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

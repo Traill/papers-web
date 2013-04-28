@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227236658&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","401(i)"],
+    "title":"Studio MA3 (Lamunière)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227236658&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lamu.epfl.ch/2010/enseignement/index.php","http://lamu.epfl.ch/2010/enseignement/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105615",
+      "name":"Devanthéry-Lamunière Inès"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"See Studio MA1.",
+      "Content":"See Studio MA1.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Studio MA3 (Devanthéry-Lamunière)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-520-9&amp;con_lng=ENG\" target=\"blank\">Fo(u)r cities : Milan, Paris, Londres, New York / Inès Lamunière</a>\". Year:2004. ISBN:2-88074-520-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-880746-50-6&amp;con_lng=ENG\" target=\"blank\">Habiter la menace / Inès Lamunière ; avec des contrib. de Peter Brun ... [et al.] ; et des photogr. de Leo Fabrizio</a>\". Year:2006. ISBN:978-2-880746-50-6</li><li>\"Natural and urban, green and grey : studies on specificities of contemporary urban architecture / Inès Lamunière, Roberto de Oliveira Castro, Jean-Paul Jaccaud\". Year:2008</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lamu.epfl.ch/2010/enseignement/index.php","http://lamu.epfl.ch/2010/enseignement/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105615",
+      "name":"Devanthéry-Lamunière Inès"
+    }],
+    "lab":null,
+    "credits":13,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"BA en architecture.",
+      "Bibliographie et matériel":"Lamunière Inès, Oliveira Castro Roberto, Jaccaud Jean-Paul. [i]Natural and Urban, Green and Grey? Studies on specificities of contemporary urban architecture[/i]. Cambridge, Lausanne: GSD Harvard & EPFL, 2009.[br/]Lamunière Inès. [i]Habiter la menace[/i], Lausanne : PPUR, 2006.[br/]Lamunière Inès. [i]Fo(u)r Cities[/i], Lausanne : PPUR, 2005.[br/]Suite jointe aux documents de cours.",
+      "Mots clés":"Développement urbain, nature en ville, densité qualitative, architecture atmosphérique.",
+      "Forme d'enseignement":"Cours. Séminaires. Conférences. Voyage exploratoire.",
+      "Contenu":"Voir Théorie et critique du projet MA1.[br/]",
+      "Forme du contrôle":"Jury.",
+      "Préparation pour":"MA2/Projet de Master, travail pratique de Master.",
+      "Objectifs d'apprentissage":"Voir Théorie et critique du projet MA1."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie et critique du projet MA3 (Devanthéry-Lamunière)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-520-9&amp;con_lng=FRE\" target=\"blank\">Fo(u)r cities : Milan, Paris, Londres, New York / Inès Lamunière</a>\". Année:2004. ISBN:2-88074-520-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-880746-50-6&amp;con_lng=FRE\" target=\"blank\">Habiter la menace / Inès Lamunière ; avec des contrib. de Peter Brun ... [et al.] ; et des photogr. de Leo Fabrizio</a>\". Année:2006. ISBN:978-2-880746-50-6</li><li>\"Natural and urban, green and grey : studies on specificities of contemporary urban architecture / Inès Lamunière, Roberto de Oliveira Castro, Jean-Paul Jaccaud\". Année:2008</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

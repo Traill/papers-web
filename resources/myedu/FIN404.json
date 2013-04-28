@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230002415&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","404"],
+    "title":"Derivatives",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230002415&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192824",
+      "name":"Hugonnier Julien"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"25% Homework assignments[br/]35% Midterm examination[br/]40% Final examination[br/]",
+      "Bibliography and material":"J. C. Hull, Options, futures and other derivatives, Prentice Hall.[br/]S.E. Shreve, Stochastic Calculus for Finance I and II, Springer Verlag, New York, 2004.[br/]K. Back, A course in derivative securities, Springer",
+      "Prerequisite for":"Advanced derivatives[br/]Advanced topics in financial econometrics[br/]Credit risk[br/]Fixed income analysis[br/]Real options and financial structuring",
+      "Required prior knowledge":"Econometrics[br/]Introduction to finance[br/]Stochastic calculus I[br/]Stochastic calculus II (taken concurrently)",
+      "Content":"[b]Part I: Discret-time models[/b][br/]Introduction to derivatives[br/]Static models[br/]Multiperiod discrete time models[br/]American options and applications[br/]Convergence[br/][br/][b]Part II: Continuous-time models [/b][br/]Arbitrage, valuation and hedging in continuous time[br/]The Black-Scholes model [br/]American options[br/]Exotic options[br/]",
+      "Keywords":"Derivatives, options, arbitrage valuation, hedging",
+      "Type of teaching":"Lectures and exercise sessions",
+      "Learning outcomes":"The objective of this course is to provide a detailed coverage of the standard models for the valuation and hedging of derivatives products such as European options, American options, forward contracts, futures contract and exotic options"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Derivatives",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-40100-3&amp;con_lng=ENG\" target=\"blank\">Stochastic calculus for finance / Steven E. Shreve</a>\". Year:2004. ISBN:978-0-387-40100-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192824",
+      "name":"Hugonnier Julien"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Econometrics[br/]Introduction to finance[br/]Stochastic calculus I[br/]Stochastic calculus II (pris simultanément)",
+      "Bibliographie et matériel":"J. C. Hull, Options, futures and other derivatives, Prentice Hall.[br/]S.E. Shreve, Stochastic Calculus for Finance I and II, Springer Verlag, New York, 2004.[br/]K. Back, A course in derivative securities, Springer",
+      "Mots clés":"Produits dérivés, options, évaluation par arbitrage, couverture",
+      "Forme d'enseignement":"Cours et séances d'exercices",
+      "Contenu":"[b]Part I : Modèles en temps discret[/b][br/]Introduction aux produits dérivés[br/]Modèles statiques[br/]Modèles dynamique en temps discret[br/]Options américaines et applications[br/]Convergence[br/][br/][b]Part II Modèles en temps continu [/b][br/]Arbitrage, évaluation et couverture en temps continu[br/]Le modèle de Black et Scholes[br/]Options américaines[br/]Options exotiques [br/]",
+      "Forme du contrôle":"25% Exercices[br/]35% Examen intermédiaire[br/]40% Examen final [br/]",
+      "Préparation pour":"Advanced derivatives[br/]Advanced topics in financial econometrics[br/]Credit risk[br/]Fixed income analysis[br/]Real options and financial structuring",
+      "Objectifs d'apprentissage":"Le but de ce cours est de donner une description détaillée des modèles standards d'évaluation et de couverture des produits dérivés tels que options Européennes, options Américaines, contrats forward, contrats futurs et options exotiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Derivatives",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-40100-3&amp;con_lng=FRE\" target=\"blank\">Stochastic calculus for finance / Steven E. Shreve</a>\". Année:2004. ISBN:978-0-387-40100-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773442&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","324"],
+    "title":"Classical electrodynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773442&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174685",
+      "name":"Rattazzi Riccardo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To present the unity of electric and magnetic phenomena.[br/]To study the properties of electric and magnetic fields and electromagnetic waves in the vacuum and in macroscopic media. Maxwell's equations as a clue for special relativity.",
+      "Content":"[b]I Magnetostatics and electrostatics:[/b] vector and scalar potential, Coulomb's law, Ampère's law, law of Biot and Savart.[br/][br/][b]II Maxwell's equations:[/b] Faraday's law, Maxwell's equations in differential and integral form, scalar and vector potentials, gauge transformations, solutions of Maxwell's equations in the vacuum, solutions of Maxwell's equations in the presence of charges and currents, retarded potentials, Liénard-Wiechert potentials, emission of waves.[br/][br/][br/][b]III Special relativity:[/b] Galilei transformations versus Lorentz transformations, quadrivectors, Maxwell's equations in quadridimensional form, relativistic particle dynamics.[br/][br/][b]IV Electric and magnetic fields in macroscopic media:[/b] equations of macroscopic electrodynamics, boundary conditions, waves in continuous media; reflection and refraction of waves.",
+      "Type of teaching":"Ex cathedra and exercices in classroom",
+      "Prerequisite for":"Plasma physics, optics and theoretical physics",
+      "Required prior knowledge":"General physics, mechanics and mathematics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Classical electrodynamics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-30932-1&amp;con_lng=ENG\" target=\"blank\">Classical electrodynamics / John David Jackson</a>\". Year:1999. ISBN:978-0-471-30932-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-004504-0&amp;con_lng=ENG\" target=\"blank\">Le cours de physique de Feynman / [Richard] Feynman, [Robert] Leighton, [Matthew] Sands</a>\". Year:1995. ISBN:2-10-004504-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=5-03-000641-9&amp;con_lng=ENG\" target=\"blank\">Théorie des champs / L. Landau, E. Lifchitz; [traduit du russe par Sergueï Medvédev]</a>\". Year:1999. ISBN:5-03-000641-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174685",
+      "name":"Rattazzi Riccardo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale, mécanique et mathématiques",
+      "Bibliographie et matériel":"\"Les cours de physique de Feynman : Electromagnétisme I\", Feynman/Leighton/Sands (InterEditions, Paris 1979)[br/]\"Les cours de physique de Feynman : Electromagnétisme II\", Feynman/Leighton/Sands (InterEditions, Paris 1979)[br/]\"Classical Electrodynamics\" (Second Edition), John David Jackson (John Wiley & Sons 1975)[br/]\"Théorie des Champs\", L. Landau, E. Lifchitz (Ellipses Marketing 1998)",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]I Magnétostatique et électrostatique :[/b] potentiel vecteur et scalaire, lois de Coulomb, d'Ampère et de Biot et Savart.[br/][br/][b]II Equations de Maxwell :[/b] loi de Faraday, les équations de Maxwell sous forme différentielle et intégrale, les potentiels scalaire et vecteur, transformations de jauge, solutions des équations de Maxwell dans le vide, solutions des équations de Maxwell en présence de charges et de courants, potentiels retardés, potentiels de Liénard-Wiechert, rayonnement des ondes.[br/][br/][b]III Relativité restreinte : [/b]comparaison entre les transformations de Galilei et de Lorentz, quadrivecteurs, les équations de Maxwell sous forme quadridimensionnelle, dynamique relativiste des particules.[br/][br/][b]IV Champs électriques et magnétiques dans la matière : [/b]équations de l'électrodynamique macroscopique, conditions de continuïté à la frontière, les ondes dans les milieux continus; réflexion et réfraction des ondes.",
+      "Préparation pour":"Physique des plasmas, optique et physique théorique",
+      "Objectifs d'apprentissage":"Présenter l'unité des phénomènes électriques et magnétiques.[br/]Etudier les propriétés de champs électriques et magnétiques et d'ondes électromagnétiques dans le vide et en milieux continus. Les équations de Maxwell comme indice de la relativité restreinte."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrodynamique classique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-30932-1&amp;con_lng=FRE\" target=\"blank\">Classical electrodynamics / John David Jackson</a>\". Année:1999. ISBN:978-0-471-30932-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-004504-0&amp;con_lng=FRE\" target=\"blank\">Le cours de physique de Feynman / [Richard] Feynman, [Robert] Leighton, [Matthew] Sands</a>\". Année:1995. ISBN:2-10-004504-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=5-03-000641-9&amp;con_lng=FRE\" target=\"blank\">Théorie des champs / L. Landau, E. Lifchitz; [traduit du russe par Sergueï Medvédev]</a>\". Année:1999. ISBN:5-03-000641-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

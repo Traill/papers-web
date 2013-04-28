@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580216381&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","241"],
+    "title":"Science and literature A",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580216381&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114106",
+      "name":"Atallah Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Science and literature A",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114106",
+      "name":"Atallah Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Enseignant[/b] :[br/]Marc Atallah (Section de français moderne, UNIL)",
+      "Bibliographie et matériel":"Une bibliographie sera donnée en classe",
+      "Mots clés":"Jeux vidéo, Théories de la fiction, Immersion fictionnelle, Avatars, Idéologie et fictions.",
+      "Forme d'enseignement":"Cours/Travaux pratiques",
+      "Contenu":"[b]Le jeu vidéo : une pratique fictionnelle comme les autres ?[/b][br/][br/]Nous travaillerons à partir de plusieurs concepts propres aux théories de la fiction et verrons comment les jeux vidéo s'inscrivent dans ce domaine, mais aussi le type d'expériences spécifiques qu'ils permettent de vivre.[br/][br/]Le cours sera structuré entre des enseignements théoriques (découverte de textes critiques sur la notion de fiction, élaboration d'outils d'analyse) et des exercices pratiques (application de ces outils sur des phénomènes vidéoludiques, analyses partagées et commentées en classe).",
+      "Forme du contrôle":"Attestation de participation active : travail sur un jeu vidéo à partir des concepts étudiés en classe.",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant-e sera capable de:[br/][li]découvrir les théories de la fiction et de la pratique des jeux vidéo;[br/][li]réfléchir aux problématiques soulevées par les notions d'immersion fictionnelle, d'avatars, de [i]serious gaming[/i];[br/][li]développer un point de vue général sur l'importance de la fiction - en particulier vidéoludique . pour les êtres humains que nous sommes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Science et littérature A",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

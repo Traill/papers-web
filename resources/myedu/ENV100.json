@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144908&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","100"],
+    "title":"Biochemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4144908&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    },{
+      "url":"http://people.epfl.ch/138380",
+      "name":"Maillard Julien"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam 90 min.",
+      "Prerequisite for":"Microbiology for engineers",
+      "Content":"[b]Molecular cell components:[/b][br/]Polysaccharides, nucleic acids (DNA, RNA), proteins (structure, functions, major enzyme classes), lipids, lipoproteins, membranes, cofactors, and vitamins.[br/][br/][b]Use of genetic information and mechanisms of evolution:[/b][br/]Transcription, translation, replication, vertical and horizontal evolution.[br/][br/][br/][br/][b]Regulation on enzyme and gene level:[/b][br/]Regulation of enzymatic activity, regulation of transcription: induction, repression, positive control, attenuation, global control, transduction of signals.",
+      "Keywords":"Biomolecules, molecular biology, regulation of gene expression, vertical and horizontal evolution, mobile genetic elements",
+      "Type of teaching":"Lecture ex cathedra",
+      "Learning outcomes":"Understanding the principles of biochemical reactions and cellular functions.[br/][li]knowing the different molecular components of biological cells: their composition and function[br/][li]understanding the principles of the use of genetic information and the different mechanisms of evolution[br/][li]understanding the basics of regulation mechanisms on enzyme and gene level[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biochemistry",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-53615-0&amp;con_lng=ENG\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Year:2009. ISBN:978-0-321-53615-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7209-3&amp;con_lng=ENG\" target=\"blank\">Brock, biologie des micro-organismes / Michael T. Madigan, John M. Martinko</a>\". Year:2007. ISBN:978-2-7440-7209-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    },{
+      "url":"http://people.epfl.ch/138380",
+      "name":"Maillard Julien"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Notes de cours polycopiées et \"Brock Biologie des Micro-organismes\" ou \"Brock biology of microorganisms\", 13th ed., global ed.",
+      "Mots clés":"Biomolécules, biologie moléculaire, régulation d'expression de gènes, évolution verticale et horizontale, éléments génétiques mobiles",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"[b]Composantes moléculaires des cellules:[/b][br/]Polysaccharides, acides nucléiques (ADN, ARN), protéines (structure, fonctions, principales classes d'enzymes), lipides, lipoprotéines, membranes, cofacteurs et vitamines.[br/][br/][b]Utilisation de l'information génétique et mécanismes d'évolution:[/b][br/]Transcription, traduction, réplication, évolution verticale et horizontale.[br/][br/][b]Régulation aux niveaux génétiques et biochimiques:[/b][br/]Régulation de l'activité enzymatique, régulation de la transcription: induction, répression, contrôle positif, contrôle global, atténuation, transduction des signaux.",
+      "Forme du contrôle":"Epreuve écrite de 90 minutes.",
+      "Préparation pour":"Microbiologie pour l'ingénieur",
+      "Objectifs d'apprentissage":"Comprendre et savoir interpréter les principales actions biochimiques et le fonctionnement des cellules comme conséquence des propriétés des molécules.[br/][li]connaître les différentes composantes moléculaires des cellules: leur composition et leurs fonctions[br/][li]apprendre les principes de l'utilisation de l'information génétique et les mécanismes d'évolution[br/][li]apprendre les différents systèmes de régulation aux niveaux génétiques et biochimiques"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biochimie",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-53615-0&amp;con_lng=FRE\" target=\"blank\">Brock biology of microorganisms / Michael T. Madigan ... [et al.]</a>\". Année:2009. ISBN:978-0-321-53615-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7209-3&amp;con_lng=FRE\" target=\"blank\">Brock, biologie des micro-organismes / Michael T. Madigan, John M. Martinko</a>\". Année:2007. ISBN:978-2-7440-7209-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

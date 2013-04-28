@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47243872&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","581"],
+    "title":"Introduction to space science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47243872&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/179064",
+      "name":"Blush Lisa"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"In this course, we will introduce the student to the field of experimental space research. Spacecraft instruments have provided a wealth of knowledge about our solar system. This course provides the physics background and motivation for spacecraft instrument development as well as knowledge of the operational environment driving the spacecraft system design. We will cover the near-Earth space, the Sun, the planets and the heliosphere out to the limit of our solar system and beyond.",
+      "Content":"[b]Introduction[/b][br/]Introductory material includes a short historical account, a discussion of rocket and planetary motion (Kepler's laws, rocket equation), and a review of space telescopes and space stations.[br/][b]Solar System Formation[/b][br/]Formation and evolutionary processes have determined the properties of the Sun and planetary objects in the solar system. We will review protoplanetary disk formation and planetesimal accretion processes. We will take a brief tour of the solar system in its current state: planets, satellites, planetesimals (e.g. comets).[br/][b]The Sun[/b][br/]The Sun affects all the processes in our solar system and is the ultimate source of energy for life on our planet. The solar interior, the magnetic field, the solar atmosphere, and the solar wind plasma will be discussed in detail. Transient events such coronal mass ejections and solar flares will be presented.[br/][b]Space Plasma Physics[/b][br/]Interplanetary space is filled with a sparse plasma. Basic plasma phenomena will be discussed, e.g. plasma motion, boundaries, shock acceleration, and energetic particle populations.[br/][b]Earth and Planetary Magnetospheres[/b][br/]Many planets possess an intrinsic magnetic dipole. The solar wind plasma interacts with this magnetic field, creating an intricate system of electromagnetic fields and currents, along with different local plasma populations. The terrestrial magnetosphere will be discussed in detail; other planets will be surveyed.[br/][b]The Heliosphere and Beyond[/b][br/]The influence of the Sun ends where it interacts with the surrounding interstellar medium, defining the extent of the heliosphere. We will discuss the interaction of solar radiation, solar wind and magnetic field with the local interstellar medium, e.g. resulting in the termination shock and cosmic ray shielding."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to space science",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-36162-1&amp;con_lng=ENG\" target=\"blank\">The new solar system / ed. by J. Kelly Beatty, Andrew Chaikin; introd. by Carl Sagan</a>\". Year:1990. ISBN:0-521-36162-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/179064",
+      "name":"Blush Lisa"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices[br/]Langue : anglais",
+      "Contenu":"[b]Introduction[/b][br/]Le matériel introductif comprend un bref survol historique, une discussion sur la dynamique des fusées et des mouvements planétaires (lois de Kepler, équation des fusées) et une revue des télescopes spatiaux et des stations spatiales.[br/][b]Formation du système solaire[/b][br/]Des processus de formation et d'évolution ont déterminé les propriétés du soleil et des objets planétaires dans le système solaire. Nous passerons en revue la formation de disques protoplanétaires et les processus d'accrétion planétésimale. Nous ferons aussi un tour rapide du système solaire dans son état actuel: planètes, satellites, planétésimales (comme p.ex. les comètes).[br/][b]Le soleil[/b][br/]Le soleil influence tous les processus dans notre système solaire et constitue la source ultime d'énergie pour la vie sur notre planète. L'intérieur du Soleil, le champ magnétique, l'atmosphère solaire et le plasma du vent solaire seront traités en détail. Nous présenterons aussi des évènements transitoires comme les éjections de masse coronale et les éruptions solaires.[br/][b]Physique des plasmas spatiaux[/b][br/]L'espace interplanétaire est occupé par un plasma à faible densité. On discutera de phénomènes de plasma de base, comme le mouvement du plasma, les effets de bord, l'accélération par des chocs et les populations de particules de haute énergie.[br/][b]Magnétosphère de la terre et des planètes[/b][br/]Plusieurs planètes possèdent un dipôle magnétique intrinsèque. Le plasma du vent solaire interagit avec ce champ magnétique, créant un système complexe de champs et de courants électromagnétiques, ainsi que de différentes populations locales de plasma. La magnétosphère terrestre sera décrite en détail et le cas des autres planètes sera traité succinctement.[br/][b]L'héliosphère et au-delà[/b][br/]L'influence du soleil s'arrête au point où il interagit avec le milieu interstellaire environnant, ce qui définit le bord de l'héliosphère. Nous discuterons de l'interaction de la radiation solaire, du vent solaire et du champ magnétique avec le milieu interstellaire local, qui donne lieu entre autres au choc de terminaison et à l'écrantage des rayons cosmiques.",
+      "Prérequis":"Électromagnétisme[br/]Cours de base EPFL de physique, mathématique",
+      "Bibliographie et matériel":"Notes polycopiées et articles techniques en anglais.[br/]Ressources Internet sur Moodle[br/]Texte recommandé: The New Solar System by Beatty, Patterson and Chaikin",
+      "Objectifs d'apprentissage":"Dans ce cours, nous initierons l'étudiant au domaine de la recherche spatiale expérimentale. Les instruments dont sont dotées les sondes spatiales ont fourni une quantité importante d'informations sur notre système solaire. Ce cours donne les bases physiques et la motivation pour le développement d'instrumentation pour les sondes spatiales, ainsi qu'une connaissance de l'environnement opérationnel qui guide la conception de l'appareillage des sondes. Nous traiterons la région proche de la terre, le soleil, les planètes et l'héliosphère jusqu'aux limites de notre système solaire et au-delà."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to space science",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-36162-1&amp;con_lng=FRE\" target=\"blank\">The new solar system / ed. by J. Kelly Beatty, Andrew Chaikin; introd. by Carl Sagan</a>\". Année:1990. ISBN:0-521-36162-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=279976593&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","600(B)"],
+    "title":"Advanced biomicroscopy II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=279976593&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190599",
+      "name":"Seitz Arne"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Form of examination":"Written exam and project report[br/]",
+      "Bibliography and material":"[li]Born Wolf: \"Principles of Optics  Cambridge Press\"[br/][li]Inoue: \"Video microscopy\"[br/][li]Min Gu: \"Advanced optical imaging theory\"[br/]",
+      "Required prior knowledge":"Advanced course Biomicroscopy I[br/]",
+      "Content":"[li] Optical principles of modern light-microscopes[br/][li] Application of light-microscopes in the field of life-science[br/][li] Imaging of living specimens[br/][li] Practical realization of advances imaging concepts like FRAP or FRET[br/][br/]Due to capacity reasons is the course limited to 24 students per year. Applications are handled on a \"fist come first served basis\". [br/][br/]",
+      "Keywords":"microscopy, biology, imaging",
+      "Learning outcomes":"This course is the follow up practical of Advanced Biomicroscopy I, which is a prerequisite to be eglibile to participate in this course. Most of the theoretical aspects of Advanced Biomicroscopy I will be covered practically. The aim of the course is to make the students familiar with modern light-microscopes which are used for state of the art research in the field of life-science. A variety of microscopes like e.g. wide-field light-microscopes point-scanning-confocal and multi-beam confocal microscopes will be used. Besides microscopy technology student are supposed to learn how to image biological specimens and advanced imaging concepts like Fluorescence Recovery After Photobleaching (FRAP) or Förster Resonance Energy Transfer (FRET)."
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Advanced biomicroscopy II",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-66262-6&amp;con_lng=ENG\" target=\"blank\">Advanced optical imaging theory / Min Gu</a>\". Year:1999. ISBN:3-540-66262-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-64222-1&amp;con_lng=ENG\" target=\"blank\">Principles of optics : electromagnetic theory of propagation, interference and diffraction of light / Max Born and Emil Wolf ; with contrib. by A.B. Bhatia ... [et al.]</a>\". Year:1999. ISBN:0-521-64222-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-45531-5&amp;con_lng=ENG\" target=\"blank\">Video microscopy : the fundamentals / Shinya Inoué and Kenneth R. Spring</a>\". Year:1997. ISBN:0-306-45531-5</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190599",
+      "name":"Seitz Arne"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Prérequis":"Advanced course Biomicroscopy I",
+      "Bibliographie et matériel":"[li]Born Wolf: \"Principles of Optics  Cambridge Press\"[br/][li]Inoue: \"Video microscopy\"[br/][li]Min Gu: \"Advanced optical imaging theory\"[br/]",
+      "Mots clés":"microscopy, biology, imaging",
+      "Contenu":"[li] Optical principles of modern light-microscopes[br/][li] Application of light-microscopes in the field of life-science[br/][li] Imaging of living specimens[br/][li] Practical realization of advances imaging concepts like FRAP or FRET[br/][br/]Due to capacity reasons is the course limited to 24 students per year. Applications are handled on a \"fist come first served basis\". ",
+      "Forme du contrôle":"Written exam and project report",
+      "Objectifs d'apprentissage":"This course is the follow up practical of Advanced Biomicroscopy I, which is a prerequisite to be eglibile to participate in this course. Most of the theoretical aspects of Advanced Biomicroscopy I will be covered practically. The aim of the course is to make the students familiar with modern light-microscopes which are used for state of the art research in the field of life-science. A variety of microscopes like e.g. wide-field light-microscopes point-scanning-confocal and multi-beam confocal microscopes will be used. Besides microscopy technology student are supposed to learn how to image biological specimens and advanced imaging concepts like Fluorescence Recovery After Photobleaching (FRAP) or Förster Resonance Energy Transfer (FRET)."
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Advanced biomicroscopy II",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-66262-6&amp;con_lng=FRE\" target=\"blank\">Advanced optical imaging theory / Min Gu</a>\". Année:1999. ISBN:3-540-66262-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-64222-1&amp;con_lng=FRE\" target=\"blank\">Principles of optics : electromagnetic theory of propagation, interference and diffraction of light / Max Born and Emil Wolf ; with contrib. by A.B. Bhatia ... [et al.]</a>\". Année:1999. ISBN:0-521-64222-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-45531-5&amp;con_lng=FRE\" target=\"blank\">Video microscopy : the fundamentals / Shinya Inoué and Kenneth R. Spring</a>\". Année:1997. ISBN:0-306-45531-5</li></ul>",
+    "lecture":null
+  }
+}

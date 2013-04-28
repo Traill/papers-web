@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2208445&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENG","470"],
+    "title":"Organisation, economics and construction law I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2208445&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105924",
+      "name":"Mouvet Laurent"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    },{
+      "url":"http://people.epfl.ch/112780",
+      "name":"Zufferey Jean-Baptiste"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Describe the fundamental principles of the organization of civil engineering works and studies, present the economic, relational and legal context the civil engineer works in. [br/]The student will be able to place himself and his society in respect to his partners on a construction project, acting as owner-builder, project designer, specialist and consultant, site engineer or contractor. He will be aware of his responsibilities and duties, as well as of his rights.[br/][br/][br/]",
+      "Content":"[br/][li]\tElements of construction economics in the Swiss economy, cost structure and financing.[br/][br/][li]\tLegal context of construction: sources of construction law, planing and approving procedures, law of contracts.[br/][br/][li]\tConstruction project organisation: project planing and milestones, the owner-builder, the contractors, the engineer.[br/][br/][li]\tForm of collaboration: relation owner-contractor, subconstructors, consortium, suppliers.[br/][br/][li]\tNew contractual organisation model BOT, public market legislation, new role of the engineer, global construction market.[br/][br/][li]\tContracts: qualification, rights and duties, special conditions, call for tenders procedure, tender evaluation criteria, awarding, order modification.[br/][br/][li]\tContractors remuneration: price structure, unit prices and lump sum, turnkey contracts, price variations[br/]",
+      "Type of teaching":"Ex cathedra and exercices",
+      "Prerequisite for":"Professional activity",
+      "Required prior knowledge":"Droit I and Droit II, advised"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Organisation, economics and construction law I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105924",
+      "name":"Mouvet Laurent"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    },{
+      "url":"http://people.epfl.ch/112780",
+      "name":"Zufferey Jean-Baptiste"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Droit I et Droit II conseillé ",
+      "Bibliographie et matériel":"Cours polycopié et dossier de documentation; fiches polycopiées diverses; normes SIA 118; règlement SIA 103.",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"[br/][li]\tÉlément d'économie de la construction: la construction dans l'économie suisse, la structure des coûts de construction et les sources de financement.[br/][br/][li]\tL'environnement juridique de la construction: les sources du droit de la construction, les procédures de planification et d'approbation, les règles de droit privé.[br/][br/][li]\tL'organisation d'un projet de construction: le déroulement d'un projet, les parties, le maître d'ouvrage, les entrepreneurs, les ingénieurs.[br/][br/][li]\tLes formes de collaboration entre les parties: la relation maître-entrepreneur, les mandataires, sous-traitance et consortium, les fournisseurs.[br/][br/][li]\tLes nouveaux modèles d'organisation contractuelle BOT, législation des marchés publics, nouveau rôle de l'ingénieur, marché global de la construction.[br/][br/][li]\tLes contrats: qualification des contrats, droits et devoirs des parties, conditions particulières, procédures de sou¬mission, variantes d'entreprises, critères d'évaluation, adjudication, modifications de commande.[br/][br/][li]\tLa rémunération de l'entrepreneur : composition des prix, prix unitaires et forfaitaires, travaux en régie, clé-en-main, variations de prix.",
+      "Préparation pour":"Activité professionnelle",
+      "Objectifs d'apprentissage":"Décrire les principes fondamentaux de l'organisation des études et des travaux de génie civil, ainsi que présenter l'environnement économique, relationnel et juridique dans lequel exerce l'ingénieur civil.[br/]L'étudiant sera capable de se situer et de situer l'entreprise qu'il représente par rapport à ses partenaires dans un projet de construction, qu'il intervienne comme maître d'ouvrage, comme projeteur, comme spécialiste, comme directeur des travaux ou comme entrepreneur. Il aura pris conscience de ses responsabilités et de ses obligations ainsi que de ses droits. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Organisation, économie et droit de la construction I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

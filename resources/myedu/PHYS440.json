@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773227&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","440"],
+    "title":"Particle detection",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773227&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161435",
+      "name":"Haefeli Guido"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to the most important methods of particle detection and their application in nuclear and particle physics.[br/]",
+      "Content":"[b]Interaction of particles in matter:[/b] ionization (Bethe-Bloch formula), interaction of electrons and photons (electromagnetic showers, radiation length and critical energy).[br/][b]General characteristics of detectors:[/b] linearity, efficiency, resolution and Fano factor.[br/]Gas detectors: ionization, proportional and Geiger-Muller counters, multiwire proportional, drift and time-projection chambers, micro-pattern gas detectors.[br/][b]Semiconductor detectors:[/b] pn junction, silicon and germanium diode detectors, silicon microstrip and pixel detectors.[br/][b]Scintillators:[/b] organic and inorganic scintillators, wavelength shifters and light guides.[br/][b]Photodetectors:[/b] photomultipliers, photodiodes and other alternatives.[br/][b]Applications:[/b] momentum measurement in magnetic fields, calorimetry, particle identification.[br/][b]Examples:[/b] the detection techniques are illustrated by examples relevant to the research done in our particle physics group at Lausanne.[br/]",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Required prior knowledge":"Elementary knowledge in nuclear and particle physics. Notions in electronics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Particle detection",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161435",
+      "name":"Haefeli Guido"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Connaissances élémentaires en physique nucléaire et corpusculaire. Notions en électronique",
+      "Bibliographie et matériel":"Ouvrages recommandés",
+      "Forme d'enseignement":"Ex cathedra et exercices en salle",
+      "Contenu":"[b]Interaction des particules à travers la matière :[/b] ionisation (formule de Bethe-Bloch), interaction des électrons et des photons (gerbes électromagnétiques, longueur de rayonnement et énergie critique).[br/][b]Caractéristiques générales des détecteurs :[/b] linéarité, rendement, résolution et facteur de Fano.[br/][b]Détecteurs à gaz :[/b] compteurs à ionisation, proportionnel et Geiger-Muller, chambres proportionnelles multifilaires, à dérive, à projection temporelle, détecteurs à gaz à micro-structures.[br/][b]Détecteurs à semiconducteur :[/b] jonction pn, détecteurs à diode silicium et germanium, détecteurs à silicium à micro pistes et à pixels.[br/][b]Scintillateurs :[/b] scintillateurs organiques et inorganiques, déplaceurs de longueur d'onde et guides de lumières.[br/][b]Photodétecteurs : [/b]photomultiplicateurs, photodiodes et autres alternatives.[br/][b]Applications :[/b] mesure de la quantité de mouvement dans les champs magnétiques, calorimétrie, identification des particules.[br/][b]Exemples :[/b] les techniques de détection sont illustrées par des exemples reliés à la recherche effectuée dans notre groupe de physique corpusculaire à Lausanne.",
+      "Préparation pour":"Master en physique nucléaire et corpusculaire",
+      "Objectifs d'apprentissage":"Introduction aux méthodes les plus importantes pour la détection des particules et leurs applications en physique nucléaire et corpusculaire."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Particle detection",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

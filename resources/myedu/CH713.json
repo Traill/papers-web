@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771258&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","713"],
+    "title":"Macromolecules in solution",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771258&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112792",
+      "name":"Wandrey Christine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Macromolecules play an important role in our daily life. They are the source of an enormous wide variation of materials, components in food, and govern biological processes. The materials properties and functions result primarily from the properties of single macromolecules.[br/]The course provides tools and knowledge allowing the correlation of single macromolecule properties with materials properties and macromolecule functional behavior. This is seen as the prerequisite to design and develop novel materials and devices, and to optimize processes.[br/]",
+      "Content":"[li]Design of macromolecules - constitution, configuration, chain models, chain parameters[br/][li]Shape and dimensions of macromolecules in solution - spheres, rods, coils, excluded volume, hydrodynamic dimensions.[br/][li]Macromolecule solutions - thermodynamics, solubility parameters, phase separation, concentration ranges, colligative properties, transport properties[br/][li]Charged Macromolecules - polyelectrolytes, biopolymers[br/][li]Classical and advanced methods for macromolecular analysis and characterization[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Macromolecules in solution",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112792",
+      "name":"Wandrey Christine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li]Design of macromolecules - constitution, configuration, chain models, chain parameters[br/][li]Shape and dimensions of macromolecules in solution - spheres, rods, coils, excluded volume, hydrodynamic dimensions.[br/][li]Macromolecule solutions - thermodynamics, solubility parameters, phase separation, concentration ranges, colligative properties, transport properties[br/][li]Charged Macromolecules - polyelectrolytes, biopolymers[br/][li]Classical and advanced methods for macromolecular analysis and characterization",
+      "Objectifs d'apprentissage":"Macromolecules play an important role in our daily life. They are the source of an enormous wide variation of materials, components in food, and govern biological processes. The materials properties and functions result primarily from the properties of single macromolecules.[br/]The course provides tools and knowledge allowing the correlation of single macromolecule properties with materials properties and macromolecule functional behavior. This is seen as the prerequisite to design and develop novel materials and devices, and to optimize processes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Macromolecules in solution",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

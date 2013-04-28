@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241608199&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","714"],
+    "title":"Nonlinear signal modeling and prediction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241608199&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106643",
+      "name":"Vesin Jean-Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Linear signal modeling and prediction has been a topic of intense theoretical and applied research in the last 30 years. It is at the core of modern speech analysis and synthesis techniques, as well as of many communication systems, to name the two principal application fields. There are however processes in biology, economy, astronomy, hydrology, ..., which are not well described by a linear model. This has triggered in the last 15 years a lot of interest for nonlinear models. Also, chaos theory, which has received much attention recently, is closely linked to nonlinear modeling. The purpose of this course is to introduce the students to the main issues in nonlinear modeling and prediction, and to indicate them the current research directions in this field.",
+      "Content":"1. Introduction[br/]2. Summary of linear AR and ARMA modeling[br/]3. Nonlinear AR and ARMA modeling, polynomial models and their estimation[br/]4. Specific nonlinear models (threshold AR, ...)[br/]5. Neural network based modeling and prediction[br/]6. Model selection[br/]7. Chaos theory and applications[br/]8. Kernel-based approaches [br/]9. Laboratory exercises: application of nonlinear modeling/prediction to synthetic and experimental data",
+      "Keywords":"Signal modeling, Signal prediction, Nonlinear autoregression, Parameter estimation",
+      "Form of examination":"Oral exam, oral presentation",
+      "Required prior knowledge":"Statistical signal processing"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nonlinear signal modeling and prediction",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106643",
+      "name":"Vesin Jean-Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Introduction[br/]2. Summary of linear AR and ARMA modeling[br/]3. Nonlinear AR and ARMA modeling, polynomial models and their estimation[br/]4. Specific nonlinear models (threshold AR, ...)[br/]5. Neural network based modeling and prediction[br/]6. Model selection[br/]7. Chaos theory and applications[br/]8. Kernel-based approaches [br/]9. Laboratory exercises: application of nonlinear modeling/prediction to synthetic and experimental data",
+      "Mots clés":"Signal modeling, Signal prediction, Nonlinear autoregression, Parameter estimation",
+      "Prérequis":"Statistical signal processing",
+      "Forme du contrôle":"Oral exam, oral presentation",
+      "Objectifs d'apprentissage":"Linear signal modeling and prediction has been a topic of intense theoretical and applied research in the last 30 years. It is at the core of modern speech analysis and synthesis techniques, as well as of many communication systems, to name the two principal application fields. There are however processes in biology, economy, astronomy, hydrology, ..., which are not well described by a linear model. This has triggered in the last 15 years a lot of interest for nonlinear models. Also, chaos theory, which has received much attention recently, is closely linked to nonlinear modeling. The purpose of this course is to introduce the students to the main issues in nonlinear modeling and prediction, and to indicate them the current research directions in this field."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nonlinear signal modeling and prediction",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

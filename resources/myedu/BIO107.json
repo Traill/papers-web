@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=131594803&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","107"],
+    "title":"Introduction to cell biology and biochemistry for Information Sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=131594803&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To allow students in computer science or communication systems to acquire the biology knowledge they need to study bioinformatics.",
+      "Content":"The course is an up-to-date presentation of the most important concepts in cell biology, biotechnology and evolution, with a bioinformatic point of view being privileged as often as possible.",
+      "Bibliography and material":"Essential Cell Biology, Alberts et al 2nd edition, Garland science"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to cell biology and biochemistry for Information Sciences",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=ENG\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Year:2010. ISBN:978-0-8153-4129-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Chimie générale et Chimie organique",
+      "Bibliographie et matériel":"Essential Cell Biology, Alberts et al 2nd edition, Garland science",
+      "Forme d'enseignement":"Cours et exercices",
+      "Contenu":"Les chapitres fondamentaux de la biologie cellulaire, de la biotechnologie et de l'évolution seront présentés en intégrant les découvertes récentes dans ces domaines. Autant que possible, un point de vue bioinformatique sera privilégié.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master, spécialisation biocomputing",
+      "Objectifs d'apprentissage":"Permettre aux étudiants en informatique et en systèmes de communication d'acquérir des connaissances de biologie utiles pour l'étude de la bioinformatique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to cell biology and biochemistry for Information Sciences",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=FRE\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Année:2010. ISBN:978-0-8153-4129-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

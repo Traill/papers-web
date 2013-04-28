@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399861548&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","621"],
+    "title":"Microeconomics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399861548&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148690",
+      "name":"Mack Jan Alexander Karl"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To introduce students in management to this branch of economics that studies how the individual parts of the economy, the households and the firms, make decisions to allocate limited resources, typically in markets where goods or services are being bought and sold. ",
+      "Content":"The course will introduce to the basic theory to examine how decisions and behaviors affect the supply and demand for goods and services, which dertemines prices; and how prices in turn determine the supply and demand of goods and services. The course will cover the basic assumptions and definitions, modes of operation, market failures, opportunity costs. It will go deeper to some cases of applied microeconomics dealing with innovation, consumer choices and firm strategies.",
+      "Keywords":"supply and demand model, costs, prices, markets"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microeconomics",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148690",
+      "name":"Mack Jan Alexander Karl"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course will introduce to the basic theory to examine how decisions and behaviors affect the supply and demand for goods and services, which dertemines prices; and how prices in turn determine the supply and demand of goods and services. The course will cover the basic assumptions and definitions, modes of operation, market failures, opportunity costs. It will go deeper to some cases of applied microeconomics dealing with innovation, consumer choices and firm strategies.",
+      "Mots clés":"supply and demand model, costs, prices, markets",
+      "Objectifs d'apprentissage":"To introduce students in management to this branch of economics that studies how the individual parts of the economy, the households and the firms, make decisions to allocate limited resources, typically in markets where goods or services are being bought and sold. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microeconomics",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  }
+}

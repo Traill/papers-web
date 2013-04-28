@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44989325&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","418"],
+    "title":"River eco-morphology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=44989325&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"RELATED TO: Bio-engineering for rivers and natural systems, Fluvial hydraulics and river training works",
+      "Form of examination":"50 % written test, 50 % practical work",
+      "Required prior knowledge":"Fluids mechanics, Hydrology for engineer, Hydraulic structures and schemes I",
+      "Content":"[li][b] River training works[/b][br/]-\tObjectives and historical examples[br/]-\tProblems of channelization and impoverishment of morphology[br/]-\tInteraction between sediment transport and river morphology[br/][li][b] Restoration of rivers[/b][br/]-\tClassification of natural rivers[br/]-\tRivers as main interconnection of biotopes[br/]-\tAssessment of ecological quality of rivers[br/]-\tConstraints of river restoration[br/]-\tTechnical measures to mitigate the ecological deficits[br/]-\tRestoration of rivers and flood protection - a contradiction ?[br/][br/][li][b] Dynamic behaviour of rivers[/b][br/]-\tUnsteady flows and sediment transport[br/]-\tAlluvial dynamics[br/]-\tDisturbance of natural flow regime by hydraulic schemes: problem of minimum discharge, hydropeaking and river bed clogging colmatation[br/]-\tSolutions to mitigate the harmful effects[br/][li][b] Bed forms and flow resistance[/b][br/]-\tDynamic bed forms[br/]-\tVertical and horizontal morphology[br/]-\tFlow resistance of river bed and banks[br/][li][b] Natural morphological regimes[/b][br/]-\tRegime channel (width, slope, depth)[br/]-\tMeandering and draining[br/]-\tLocal widening[br/][li][b] Interaction between morphology and habitat quality for aquatic species[/b][br/]-\tEcology and fish habitat[br/]-\tHabitat modelling[br/]-\tLongitudinal and lateral connectivity; fish migration",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"Introduction to problematic of river training works and river restoration. [br/]Comprehension of interaction between morphology and ecology of rivers.[br/]Acquisition of basic knowledge for quantifying the morphological and dynamic behaviour of natural rivers.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"River eco-morphology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"LIAISON AVEC D'AUTRES COURS: Bio-ingénierie des cours d'eau et des systèmes naturels, Hydraulique fluviale et aménagements des cours d'eau",
+      "Prérequis":"Mécanique des fluides, Hydrology for engineer, Ouvrages et aménagements hydrauliques I",
+      "Bibliographie et matériel":"Polycopié + autres supports de cours.",
+      "Forme d'enseignement":"Ex cathedra et exercices ",
+      "Contenu":"[li][b] Les corrections de cours d'eau[/b][br/]-\tButs poursuivis et exemples historiques[br/]-\tProblèmes de canalisation d'approvisionnement de la morphologie[br/]-\tInteraction transport solide et morphologie[br/][li][b] Les revitalisations de cours d'eau[/b][br/]-\tClassification des cours d'eau naturels[br/]-\tLes cours d'eau comme corridors pour lier les biotopes[br/]-\tAppréciation de l'état écologique d'un cours d'eau[br/]-\tContraintes de revitalisation[br/]-\tMesures techniques pour diminuer les déficits écologiques[br/]-\tRevitalisation des cours d'eau et protection contre les crues - une contradiction ?[br/][li][b] La dynamique des cours d'eau[/b][br/]-\tÉcoulements transitoires et transport solide[br/]-\tLa dynamique alluviale[br/]-\tPerturbation du régime naturel par des aménagements hydrauliques: problème des débits résiduels, du marnage et colmatage du lit. Solutions d'atténuation des effets néfastes.[br/][li][b] Formes du lit et résistance à l'écoulement[/b][br/]-\tLes formes dynamiques du lit[br/]-\tMorphologies verticales et horizontales[br/]-\tRésistance du lit et des rives[br/][li][b] Régimes morphologiques naturels[/b][br/]-\tThéorie du régime (largeur, pente, profondeur)[br/]-\tMéandres et lits en tresse[br/]-\tÉlargissements locaux[br/][li][b] Interaction entre morphologie et qualité des habitats des espèces aquatiques[/b][br/]-\tEcologie et habitats des poissons[br/]-\tModélisation des habitats[br/]-\tConnectivité longitudinale et latérale: migration des poissons",
+      "Forme du contrôle":"50 % travail écrit, 50 % travail pratique",
+      "Objectifs d'apprentissage":"Introduction à la problématique des corrections et revitalisation des cours d'eau. Compréhension de l'interaction entre la morphologie et les fonctions écologiques d'un cours d'eau.Acquisition des connaissances de base nécessaires à la quantification des comportements morphologiques et dynamiques des cours d'eau naturels."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Eco-morphologie fluviale",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

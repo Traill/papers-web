@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774097&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","404"],
+    "title":"Information theory and coding",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774097&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"SC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ipg/doku.php?id=en:courses:2009-2010:itc","http://ipg/doku.php?id=en:courses:2009-2010:itc"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131639",
+      "name":"Telatar Emre"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"With continuous control",
+      "Bibliography and material":"T. M. Cover et J. A. Thomas, Elements of Information Theory, New York: J. Wiley and Sons, 1991.",
+      "Required prior knowledge":"Probabilités et Statistiques I et II ou Processus stochastiques pour les communications",
+      "Content":"1.\tMathematical definition of information and the study of its properties.[br/]2.\tSource coding: efficient representation of message sources.[br/]3.\tCommunication channels and their capacity.[br/]4.\tCoding for reliable communication over noisy channels.[br/]5.\tMulti-user communications: multi access and broadcast channels.[br/]6. Lossy source coding : approximate representation of message sources.",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Learning outcomes":"Introduction to the quantitative study of the transmission of information with emphasis on concepts fundamental to the engineering of reliable and efficient communication systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information theory and coding",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-24195-4&amp;con_lng=ENG\" target=\"blank\">Elements of information theory / Thomas M. Cover, Joy A. Thomas</a>\". Year:2006. ISBN:0-471-24195-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ipg/doku.php?id=en:courses:2009-2010:itc","http://ipg/doku.php?id=en:courses:2009-2010:itc"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131639",
+      "name":"Telatar Emre"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Probabilités et Statistiques I et II ou Processus stochastiques pour les communications",
+      "Bibliographie et matériel":"T. M. Cover et J. A. Thomas, Elements of Information Theory, New York: J. Wiley and Sons, 1991.",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"1.\tDéfinition mathématique de l'information et étude de ses propriétés.[br/]2.\tCodage de source : représentation efficace des sources de messages.[br/]3.\tCanaux de communication et leur capacité.[br/]4.\tCodage pour une communication fiable dans un canal bruité.[br/]5.\tCommunication à plusieurs utilisateurs : accès multiple et canaux \"broadcast\".[br/]6.      Codage de source à pertes : estimation d'une représentation des sources du message.",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Objectifs d'apprentissage":"Introduction à l'étude quantitative de la transmission de l'information avec mise en relief des concepts fondamentaux pour l'ingénierie de systèmes de communication fiables et efficaces."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information theory and coding",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-24195-4&amp;con_lng=FRE\" target=\"blank\">Elements of information theory / Thomas M. Cover, Joy A. Thomas</a>\". Année:2006. ISBN:0-471-24195-4</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

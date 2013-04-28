@@ -3,7 +3,7 @@ package paper
 
 object Main {
   def main(args : Array[String]): Unit= {
-    var t = Analyzer.initialize("ita2013").load[Paper]
+    var t = Analyzer.initialize("ita2013").load
 
     lazy val c = Spectral(t.docs, 3)
 

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30672344&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","609"],
+    "title":"Practical - Bucher Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30672344&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://bucher-lab.epfl.ch/","http://bucher-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113607",
+      "name":"Bucher Philipp"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Bioinformatics gene resources[br/][br/]Collecting information about mammalian genes from public bioinformatics resources.",
+      "Content":"Each student will select one gene of interest from human or mouse. The goal of the miniproject is to collect as much information as possible about this gene by using web-based bioinformatics resources. The information may pertain to:[br/][br/][li] chromosomal location and genomic context (neighbouring genes)[br/][li] conserved non-coding/regulatory regions between human, mouse, chicken[br/][li] SNPs in coding and non-coding regions[br/][li] chromosomal amplifications, rearrangements, LOH in cancer cells[br/][li] gene expression patterns[br/][li] alternative promoters, splicing and polyadenylation variants[br/][li] functional domains and motifs in the protein sequence[br/][li] 3D structures of the protein itself, and/or of related proteins[br/][li] protein/protein interaction partners[br/][li] regulatory and metabolic pathways[br/][br/]At the end of the exercise, the results of the search will be summarized on a web page with hyperlinks to the original data and resources.",
+      "Keywords":"Bioinformatics resources, genomes, gene regulatory regions, gene expression data, protein structure, protein function",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Note also that doctoral students from the Bucher laboratory cannot take this course. Access is limited to 4 students.",
+      "Required prior knowledge":"Good knowledge in genetics, molecular biology and biochemistry."
+    },
+    "practical":{
+      "total_hours":21
+    },
+    "language":"English",
+    "title":"Practical - Bucher Lab",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":3
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://bucher-lab.epfl.ch/","http://bucher-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113607",
+      "name":"Bucher Philipp"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMSAC practical modules. Note also that doctoral students from the Bucher laboratory cannot take this course. Access is limited to 4 students.",
+      "Contenu":"Each student will select one gene of interest from human or mouse. The goal of the miniproject is to collect as much information as possible about this gene by using web-based bioinformatics resources. The information may pertain to:[br/][li] chromosomal location and genomic context (neighbouring genes)[br/][li] conserved non-coding/regulatory regions between human, mouse, chicken[br/][li] SNPs in coding and non-coding regions[br/][li] chromosomal amplifications, rearrangements, LOH in cancer cells[br/][li] gene expression patterns[br/][li] alternative promoters, splicing and polyadenylation variants[br/][li] functional domains and motifs in the protein sequence[br/][li] 3D structures of the protein itself, and/or of related proteins[br/][li] protein/protein interaction partners[br/][li] regulatory and metabolic pathways[br/][br/]At the end of the exercise, the results of the search will be summarized on a web page with hyperlinks to the original data and resources.",
+      "Mots clés":"Bioinformatics resources, genomes, gene regulatory regions, gene expression data, protein structure, protein function",
+      "Prérequis":"Good knowledge in genetics, molecular biology and biochemistry.",
+      "Objectifs d'apprentissage":"Bioinformatics gene resources[br/][br/]Collecting information about mammalian genes from public bioinformatics resources."
+    },
+    "practical":{
+      "total_hours":21
+    },
+    "language":"English",
+    "title":"Practical - Bucher Lab",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":3
+    }
+  }
+}

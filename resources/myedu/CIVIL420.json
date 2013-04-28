@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773337&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","420"],
+    "title":"Dynamic analysis of structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773337&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/136291",
+      "name":"Lestuzzi Pierino"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Develop capabilities to determine natural frequencies of vibrating structures as well as resultant stresses and movements.[br/][br/][br/]",
+      "Content":"ONE DEGREE OF FREEDOM SYSTEMS[br/]Free vibrations, damped vibrations, harmonically forced vibrations, foundation movements, non harmonically forced vibrations, folding integral, impact, explosion-force, Newmark's method, generalization, virtual work : distributed mass systems of rigid and flexible elements.[br/][br/]SYSTEMS HAVING SEVERAL DEGREES OF FREEDOM[br/]Generalities, free vibrations, numerical resolution of Holzer's method, determination of natural frequencies by numerical iteration, damped vibrations, forced vibrations, spectra. Introduction to modal analysis, tuned mass dampers, Fourier transforms, frequency domain analysis.[br/][br/][br/]CASE STUDIES[br/]Tacoma Narrows Bridge. Millenium Bridge, London. Measures on the Eiffel Tower. Foundation isolation of the City Hall, Los Angeles. Amusement park structures. Tuned mass dampers on Swiss pedestrian bridges and diving platforms.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamic analysis of structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-156174-8&amp;con_lng=ENG\" target=\"blank\">Dynamics of structures : theory and applications to earthquake engineering / Anil K. Chopra</a>\". Year:2007. ISBN:978-0-13-156174-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7462-0893-8&amp;con_lng=ENG\" target=\"blank\">Dynamique des structures : application aux ouvrages de génie civil / Patrick Paultre</a>\". Year:2005. ISBN:2-7462-0893-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-96821-8&amp;con_lng=ENG\" target=\"blank\">Passive energy dissipation systems in structural engineering / T. T. Soong, G. F. Dargush</a>\". Year:1997. ISBN:0-471-96821-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7643-5148-9&amp;con_lng=ENG\" target=\"blank\">Vibration problems in structures : practical guidelines / Hugo Bachmann ... [et al.]</a>\". Year:1995. ISBN:3-7643-5148-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/136291",
+      "name":"Lestuzzi Pierino"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique des structures I. Analyse I. Algèbre linéaire ",
+      "Bibliographie et matériel":"Chopra, A.K., Dynamics of Structures - Theory and Application to \"earthquake engineering, Prentice Hall, New Jersey[br/]Bachmann, H. et al, Vibration Problems in structures, Birkhauser, Basel 1995[br/]Paultre P. \"Dynamique des structures\" 2005, 702p.[br/]Soong T.T. and Dargush, G.F. Passive Energy Dissipation Systems in Structural Engineering, John Wiley & Sons, Chichester, 1997[br/]Arbenz, K. et Wohlhauser, A., Complément d'analyse, PPUR, Lausanne 1981",
+      "Forme d'enseignement":"Ex cathedra avec démonstrations et exercices en classe.",
+      "Contenu":"SYSTÈME À UN DEGRÉ DE LIBERTÉ[br/]Oscillations non amorties. Oscillations amorties. Oscillations entretenues ou forcées (perturbation harmonique). Mouvement de la fondation. Perturbation quelconque. Intégrale de convolution. Impact. Force d'explosion. Intégration numérique. Méthode de Newmark. Masse repartie : corps rigides et flexibles.[br/][br/]SYSTÈME À PLUSIEURS DEGRÉS DE LIBERTÉ[br/]Généralités. Oscillations non amorties. Résolution numérique par la méthode de Holzer. Résolution numérique par itération (recherche des premières pulsations propres et des vecteurs propres correspondants). Oscillations amorties. Oscillations entretenues. Spectres. Introduction à l'analyse modale. Amortisseurs massiques. Transformée de Fourier. Introduction du domaine des fréquences.[br/][br/]ÉTUDES DE CAS[br/]Pont de Tacoma. Pont Millenium, Londres. Mesures sur la Tour Eiffel. Isolation de la fondation de la mairie de Los Angeles. Structures de parcs d'attraction. Amortissement massique de ponts piétons et des plongeoirs en Suisse.",
+      "Préparation pour":"Génie Parasismique. Dynamique des structures - méthodes numériques. Construction en béton. Construction métallique. Mécanique des sols et géotechnique. Construction en bois.",
+      "Objectifs d'apprentissage":"Être en mesure de déterminer les fréquences propres d'un système oscillant, ainsi que les efforts internes et les déplacements de ce système. Acquisition des connaissances pratique du domaine à travers des exemples réels."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamique des structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-156174-8&amp;con_lng=FRE\" target=\"blank\">Dynamics of structures : theory and applications to earthquake engineering / Anil K. Chopra</a>\". Année:2007. ISBN:978-0-13-156174-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7462-0893-8&amp;con_lng=FRE\" target=\"blank\">Dynamique des structures : application aux ouvrages de génie civil / Patrick Paultre</a>\". Année:2005. ISBN:2-7462-0893-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-96821-8&amp;con_lng=FRE\" target=\"blank\">Passive energy dissipation systems in structural engineering / T. T. Soong, G. F. Dargush</a>\". Année:1997. ISBN:0-471-96821-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-7643-5148-9&amp;con_lng=FRE\" target=\"blank\">Vibration problems in structures : practical guidelines / Hugo Bachmann ... [et al.]</a>\". Année:1995. ISBN:3-7643-5148-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

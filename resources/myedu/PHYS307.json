@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230676671&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","307"],
+    "title":"The physics of real materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230676671&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109056",
+      "name":"Mari Daniele"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"- Knowledge of the physical mechanisms underlying el mechanical (elastic - plastic) behavior of materials [br/]- Describe the thermodynamical basis of phase transformations[br/]- Describe the atomic diffusion in solids and its physical and chemical aspects[br/][br/]",
+      "Content":"[br/][b]1. Materials, definitions, structure[/b][br/]Binding energy in metals, ceramics and polymers. Crystal structure and amorphous materials. Theory of elasticity: stress and strain fields.[br/][b]2. Diffusion[/b][br/]Diffusion in alloys. Physical and chemical diffusion.[br/][b]3. Plastic deformation and dislocations[/b][br/]Phenomenology. Deformation of single crystals. Burgers' vector. Elastic theory: interactions among dislocations. Creation and annihilation of dislocations.[br/][b]4. Dislocation dynamics[/b][br/]Friction forces due to the lattice, to point defects and to dislocations. Movement equations. Partial dislocations and stacking faults. Dissociation mechanisms: dislocations in face centred cubic metals.[br/][b]5. Dislocation kinetics[/b][br/]Thermal activation of plastic deformation. Dislocation climb. Deformation tests. Relaxation phenomena and mechanical spectroscopy.[br/][b]6. Thermodynamics of phase transformations[/b][br/]Thermodynamical principles of phase transformations.[br/]Phase diagrams. Alloy solidification. Solid-solid phase transformations.[br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra with exercises in the classroom",
+      "Prerequisite for":"Physics of new materials",
+      "Form of examination":"Oral exam in French or English"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"The physics of real materials",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109056",
+      "name":"Mari Daniele"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe",
+      "Contenu":"[b]1. Matériaux, définitions, structure[/b][br/]Energie de liaison dans les métaux, les céramiques et les polymères. Structures cristallines et matériaux amorphes. Théorie de l'élasticité : champs de contrainte et de déformation.[br/][b]2. Diffusion[/b][br/]Diffusion dans les alliages. Diffusion physique et chimique.[br/][b]3. Déformation plastique et dislocations[/b][br/]Phénoménologie. Déformation de monocristaux. Vecteur de Burgers. Théorie élastique: interactions entre dislocations. Création et annihilation de dislocations. [br/][b]4. Dynamique des dislocations[/b][br/]Forces de friction dues au réseau, aux défauts ponctuels et aux dislocations. Equations du mouvement. Dislocations partielles et fautes d'empilement. Mécanismes de dissociation : dislocations dans les métaux cubiques à faces centrées.[br/][b]5. Cinétique des dislocations[/b][br/]Activation thermique de la déformation plastique. Montée des dislocations. Tests de déformation. Phénomènes de relaxation et spectroscopie mécanique.[br/][b]6. Thermodynamique des transformations de phase[/b][br/]Principes de thermodynamique des transformations de phase. Diagrammes de phases. Solidification des alliages. Transformations solide-solide.[br/][br/]",
+      "Forme du contrôle":"Examen oral en français ou anglais",
+      "Préparation pour":"Physique des nouveaux matériaux",
+      "Objectifs d'apprentissage":"- Connaître les mécanismes physiques à la base de la déformation (élastique - plastique) des matériaux[br/]- Savoir décrire les bases thermodynamiques des transformations de phase[br/]- Savoir décrire la diffusion atomique dans les solides et ses aspects physiques et chimiques[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique des matériaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

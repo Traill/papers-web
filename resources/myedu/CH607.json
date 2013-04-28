@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771143&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","607"],
+    "title":"Heterogeneous catalysts: methods of preparation and characterization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771143&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[br/]To give an insight to modern preparation methods of heterogeneous catalysts and basic approach of their characterization.",
+      "Content":"1. Introduction: [br/][br/][li]Catalytic function in terms of potential energy[br/][li]Kinetics and mechanisms of surface reactions[br/][li]Influence of diffusion on overall kinetics[br/][li]Activity/selectivity and aspects of its determination[br/][br/][br/]2. Catalyst preparation:[br/][br/][li]Materials and methods[br/][li]Precipitated catalysts[br/][li]Catalyst preparation by mechanical mixing[br/][li]Supported catalysts[br/][li]Skeletal catalysts[br/][li]Zeolites and meso-porous materials[br/][li]Structured catalysts[br/][br/][br/]3. Catalyst characterization:[br/][br/][li]Surface morphology studies: specific surface area (SSA), pore-size distribution (PSD), specific chemisorption, transmission electronic microscopy (TEM), [scanning electronic microscopy (SEM), electron micro-diffraction (EMD)[br/][li]Chemical composition and structure: powder X-ray diffraction (PXRD), atomic-absorption spectroscopy (AAS), X-ray fluorescence (XRF), UV-vis absorption, thermo-gravimetric analysis (TGA), differential thermo-gravimetry (DTGA)[br/][li]Surface acid-basic and electronic properties: temperature programmed desorption (TPD), temperature programmed adsorption (TPA), and temperature programmed oxidation/reduction (TPO/TPR), Infra-Red spectroscopy (FT-IR), Raman spectroscopy, X-ray photo-electron spectroscopy (XPS-ESCA).[br/][br/][br/]4. Examples of heterogeneous catalysts in practice:[br/][br/][li]Automotive exhaust catalysts[br/][li]Hydrogen production[br/][li]Selective hydrogenation ",
+      "Note":"This course is postponed until Fall 2010.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Heterogeneous catalysts: methods of preparation and characterization",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course is postponed until Fall 2010.",
+      "Contenu":"1. Introduction: [br/][br/][li]Catalytic function in terms of potential energy[br/][li]Kinetics and mechanisms of surface reactions[br/][li]Influence of diffusion on overall kinetics[br/][li]Activity/selectivity and aspects of its determination[br/][br/][br/]2. Catalyst preparation:[br/][br/][li]Materials and methods[br/][li]Precipitated catalysts[br/][li]Catalyst preparation by mechanical mixing[br/][li]Supported catalysts[br/][li]Skeletal catalysts[br/][li]Zeolites and meso-porous materials[br/][li]Structured catalysts[br/][br/][br/]3. Catalyst characterization:[br/][br/][li]Surface morphology studies: specific surface area (SSA), pore-size distribution (PSD), transmission electronic microscopy (TEM), [scanning electronic microscopy (SEM), electron micro-diffraction (EMD)[br/][li]Chemical composition and structure: powder X-ray diffraction (PXRD), atomic-absorption spectroscopy (AAS), X-ray fluorescence (XRF), UV-vis absorption, thermo-gravimetric analysis (TGA), differential thermo-gravimetry (DTGA)[br/][li]Surface acid-basic and electronic properties: temperature programmed desorption (TPD), temperature programmed adsorption (TPA), and temperature programmed oxidation/reduction (TPO/TPR), Infra-Red spectroscopy (FT-IR), Raman spectroscopy, X-ray photo-electron spectroscopy (XPS-ESCA).[br/][br/][br/]4. Examples of heterogeneous catalysts in practice:[br/][br/][li]Automotive exhaust catalysts[br/][li]Hydrogen production[br/][li]Selective hydrogenation ",
+      "Objectifs d'apprentissage":"[br/]To give an insight to modern preparation methods of heterogeneous catalysts and basic approach of their characterization."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Heterogeneous catalysts: methods of preparation and characterization",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

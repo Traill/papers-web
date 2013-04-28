@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","201(a)"],
+    "title":"General physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125942",
+      "name":"Dietler Giovanni"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Give the student the basic notions in physics that will allow hime to have a better understanding of the physical effects he/she is bound to encounter during his professional life. The student should be able to use the appropriate tools to estimate the consequences of the different effects with the appropriate theoretical tools.",
+      "Content":"[b]Fluid mechanics:[/b][br/]Incompressible fluids, Bernoulli, Poiseville. Capillarity, surface energy.[br/][br/][br/][b]Electricity and magnetism:[/b][br/]Electric and magnetic fields, Gauss, Electric current, ohm capacitors, Kirchhoff, electric and magnetic effects, Maxwell's equations, AC circuits.[br/][br/][br/][b]Waves:[/b][br/]Electromagnetic waves. Interferences, beating, diffraction and refraction.[br/][br/][br/][b]Optics:[/b][br/]Ray optics, wave optics, optic instruments, interferences, polarization, holograpy, birefringence, introduction to laser optics[br/][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations and exercises supervised",
+      "Required prior knowledge":"General Physics I, II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-19336-6&amp;con_lng=ENG\" target=\"blank\">Mathematics for physics with Calculus / Biman Das</a>\". Year:2005. ISBN:0-13-19336-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-1700-6&amp;con_lng=ENG\" target=\"blank\">Physique generale / Douglas C. Giancoli</a>\". Year:1993. ISBN:2-8041-1700-6</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125942",
+      "name":"Dietler Giovanni"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec nombreuses expériences de cours et exercices dirigés",
+      "Contenu":"[b]Mécanique des fluides :[/b][br/]Fluides incompressibles, Bernoulli, Poiseville.[br/]Phénomènes capillaires, énergie de surface.[br/][br/][b]Électricité et magnétisme :[/b][br/]Champ électrique, potentiel, Gauss, conducteurs, capacités. Courant électrique, d'Ohm, Kirchhoff. Magnétostatique, induction, Foucault, induction, Circuits alternatifs. Maxwell.[br/][br/][b]Phénomènes ondulatoires :[/b][br/]Ondes électromagnétiques. Superposition d'ondes, interférences battements, diffraction, réflexion.[br/][br/][b]Optique :[/b][br/]Optique géométrique et ondulatoire, instruments d'optique, interférences, polarisation. Holographie, biréfringence, introduction au laser",
+      "Prérequis":"Physique générale I, II",
+      "Bibliographie et matériel":"Giancoli, Physique générale, Ed. de Boeck[br/]Biman Das, Mathematics for physics with calculus, Pearson Prentice Hall 2005 ISBN 0-13-19336-6",
+      "Objectifs d'apprentissage":"Donner à l'étudiant les notions de base nécessaires à la compréhension des phénomènes physiques qu'il rencontrera dans sa vie professionnelle. Il sera capable de prévoir quantitativement les conséquences de ces phénomènes avec les outils théoriques appropriés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-19336-6&amp;con_lng=FRE\" target=\"blank\">Mathematics for physics with Calculus / Biman Das</a>\". Année:2005. ISBN:0-13-19336-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-1700-6&amp;con_lng=FRE\" target=\"blank\">Physique generale / Douglas C. Giancoli</a>\". Année:1993. ISBN:2-8041-1700-6</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

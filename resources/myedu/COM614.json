@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=82454065&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","614"],
+    "title":"Security and Cooperation in Wireless Networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=82454065&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://secowinetcourse.epfl.ch","http://secowinetcourse.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105427",
+      "name":"Hubaux Jean-Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":null,
+    "free_text":{
+      "Note":"The course is based on a textbook: [br/]Levente Buttyan and Jean-Pierre Hubaux; Security and Cooperation in Wireless Networks; Cambridge University Press, 2007; http://secowinet.epfl.ch/",
+      "Form of examination":"Oral presentation, project report",
+      "Required prior knowledge":"A good knowledge of networking principles is mandatory (including Internet protocols); some background in security and cryptography is desirable but not required.",
+      "Content":"Background[br/]Introduction to Cryptographic Algorithms and Protocols [br/]Game Theory for Wireless Networks[br/] [br/]Introduction[br/]1. Existing Wireless Networks [br/]2. Upcoming Wireless Networks and New Challenges [br/]3. Trust Assumptions and Adversary Models[br/][br/]Thwarting Malicious Behavior [br/]4. Naming and Addressing [br/]5. Establishment of Security Associations [br/]6. Securing Neighbor Discovery[br/]7. Secure Routing in Multi-Hop Wireless Networks [br/]8. Privacy Protection[br/][br/]Thwarting Selfish Behavior   [br/]9. Selfish Behavior at the MAC layer of CSMA/CA [br/]10. Selfishness in Packet Forwarding [br/]11. Wireless Operators in a Shared Spectrum[br/]12. Secure Protocols for Behavior Enforcement",
+      "Keywords":"Wireless Networks, Security, Cooperation, Non-Cooperative Behavior, Game Theory, Mechanism Design, Sensor networks, Wireless Ad Hoc Networks, Vehicular Networks, Mesh Networks,  RFID",
+      "Learning outcomes":"To understand the main challenges related to malicious and selfish behaviors in wireless networks, primarily at the MAC and network layers; the considered wireless networks include sensor, ad hoc, vehicular, mesh, and RFID networks.[br/]To be able to design mechanisms to thwart these misbehaviors.[br/]To understand the potential of cooperative behavior and the risks related to non-cooperative behavior in wireless networks.[br/][br/]Note: this course is research-oriented. The students are notably required to carry out a mini-project, in close collaboration with the researchers of LCA1. Examples of previous mini-projects can be found on the Web pages of the course; several of them have led to a publication."
+    },
+    "practical":{
+      "total_hours":42
+    },
+    "language":"English",
+    "title":"Security and Cooperation in Wireless Networks",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://secowinetcourse.epfl.ch","http://secowinetcourse.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105427",
+      "name":"Hubaux Jean-Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The course is based on a textbook: [br/]Levente Buttyan and Jean-Pierre Hubaux; Security and Cooperation in Wireless Networks; Cambridge University Press, 2007; http://secowinet.epfl.ch/",
+      "Prérequis":"A good knowledge of networking principles is mandatory (including Internet protocols); some background in security and cryptography is desirable but not required.",
+      "Mots clés":"Wireless Networks, Security, Cooperation, Non-Cooperative Behavior, Game Theory, Mechanism Design, Sensor networks, Wireless Ad Hoc Networks, Vehicular Networks, Mesh Networks,  RFID",
+      "Contenu":"Background[br/]Introduction to Cryptographic Algorithms and Protocols [br/]Game Theory for Wireless Networks[br/] [br/]Introduction[br/]1. Existing Wireless Networks [br/]2. Upcoming Wireless Networks and New Challenges [br/]3. Trust Assumptions and Adversary Models[br/][br/]Thwarting Malicious Behavior [br/]4. Naming and Addressing [br/]5. Establishment of Security Associations [br/]6. Securing Neighbor Discovery[br/]7. Secure Routing in Multi-Hop Wireless Networks [br/]8. Privacy Protection[br/][br/]Thwarting Selfish Behavior   [br/]9. Selfish Behavior at the MAC layer of CSMA/CA [br/]10. Selfishness in Packet Forwarding [br/]11. Wireless Operators in a Shared Spectrum[br/]12. Secure Protocols for Behavior Enforcement",
+      "Forme du contrôle":"Oral presentation, project report",
+      "Objectifs d'apprentissage":"To understand the main challenges related to malicious and selfish behaviors in wireless networks, primarily at the MAC and network layers; the considered wireless networks include sensor, ad hoc, vehicular, mesh, and RFID networks.[br/]To be able to design mechanisms to thwart these misbehaviors.[br/]To understand the potential of cooperative behavior and the risks related to non-cooperative behavior in wireless networks.[br/][br/]Note: this course is research-oriented. The students are notably required to carry out a mini-project, in close collaboration with the researchers of LCA1. Examples of previous mini-projects can be found on the Web pages of the course; several of them have led to a publication."
+    },
+    "practical":{
+      "total_hours":42
+    },
+    "language":"English",
+    "title":"Security and Cooperation in Wireless Networks",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

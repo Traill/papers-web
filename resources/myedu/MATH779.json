@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597357132&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","779"],
+    "title":"Error correcting codes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597357132&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229320",
+      "name":"Gorla Elisa"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"We discuss some basic concepts and results within the theory of error correcting codes. One pur-pose of the course is to give the students an introduction to coding theory sufficient for them to attend the conference \"Trends in Coding Theory\" which will take place in Monte Verita' in Oct-Nov 2012.",
+      "Content":"Codes are used for data compression, cryptography, error-correction and more recently also for network coding. Codes are studied by various scientific disciplines - such as information theory, electrical engineering, mathematics, and computer science - for the purpose of designing efficient and reliable data transmission methods. This typically involves the removal of redundancy and the correction (or detection) of errors in the transmitted data.[br/][br/]In this course we give an introduction to coding theory, concentrating on codes for error correction. We will not assume any prior knowledge in the subject. The course will revolve around the three central topics of algebraic codes, codes on graphs, and network coding.[br/]",
+      "Prerequisite for":"Prerequisites for this course are linear algebra and basic algebra, including properties of finite fields.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Error correcting codes",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229320",
+      "name":"Gorla Elisa"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Codes are used for data compression, cryptography, error-correction and more recently also for network coding. Codes are studied by various scientific disciplines - such as information theory, electrical engineering, mathematics, and computer science - for the purpose of designing efficient and reliable data transmission methods. This typically involves the removal of redundancy and the correction (or detection) of errors in the transmitted data.[br/][br/]In this course we give an introduction to coding theory, concentrating on codes for error correction. We will not assume any prior knowledge in the subject. The course will revolve around the three central topics of algebraic codes, codes on graphs, and network coding.[br/]",
+      "Préparation pour":"Prerequisites for this course are linear algebra and basic algebra, including properties of finite fields.[br/]",
+      "Objectifs d'apprentissage":"We discuss some basic concepts and results within the theory of error correcting codes. One pur-pose of the course is to give the students an introduction to coding theory sufficient for them to attend the conference \"Trends in Coding Theory\" which will take place in Monte Verita' in Oct-Nov 2012."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Error correcting codes",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

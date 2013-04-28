@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771313&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","606"],
+    "title":"Micro- and nanostructuration of materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771313&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[br/]To get acquainted with standard and exploratory methods for materials structuration in micro-and nano technology",
+      "Content":"[li]introduction to micropatterning[br/][li]photolithography, x-ray, e-beam lithography[br/][li]wet chemical methods for etching[br/][li]ion beams and plasmas[br/][li]dry etching[br/][li]electrochemical methods for etching and deposition[br/][li]microprobe techniques[br/][li]selective depositions[br/][li]molecular self assembly",
+      "Keywords":"[br/]Micropatterning, photolithography, x-ray lithography, e-beam lithography, etching, ion beams, plasmas, dry etching, electrochemical methods, microprobe techniques, molecular self assembly"
+    },
+    "practical":{
+      "total_hours":1
+    },
+    "language":"English",
+    "title":"Micro- and nanostructuration of materials",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":13
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li]introduction to micropatterning[br/][li]photolithography, x-ray, e-beam lithography[br/][li]wet chemical methods for etching[br/][li]ion beams and plasmas[br/][li]dry etching[br/][li]electrochemical methods for etching and deposition[br/][li]microprobe techniques[br/][li]selective depositions[br/][li]molecular self assembly",
+      "Mots clés":"[br/]Micropatterning, photolithography, x-ray lithography, e-beam lithography, etching, ion beams, plasmas, dry etching, electrochemical methods, microprobe techniques, molecular self assembly",
+      "Objectifs d'apprentissage":"[br/]To get acquainted with standard and exploratory methods for materials structuration in micro-and nano technology"
+    },
+    "practical":{
+      "total_hours":1
+    },
+    "language":"English",
+    "title":"Micro- and nanostructuration of materials",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":13
+    }
+  }
+}

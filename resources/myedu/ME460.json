@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228390629&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","460"],
+    "title":"Renewable energy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228390629&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107971",
+      "name":"Van Herle Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Two questions to resolve (during written preparation time), both mostly as numerical application of the studied principles, followed by an oral part with questions on fundamental understanding.",
+      "Bibliography and material":"Course slides and resolved exercices in extenso on moodle. Additional references/annexes will be given during the course.",
+      "Required prior knowledge":"[li]Master the concepts of mass, energy, and momentum balance, E1[br/][li]Understand the main thermodynamic cycles, E5",
+      "Content":"Overview of renewable energy vectors, their physical principles and essential equations, their operation technologies, technical details, challenges, applications and potential for supply of heat, transport and electrical services. Solar (photovoltaics and thermal - collectors/concentrators), biomass (a.o. gasification), biogases, liquid biofuels, hydro-electricity, geo-energy (electrical and thermal), wind; hydrogen (as intermediate energy vector). ",
+      "Keywords":"Renewable electricity / heat / transport; efficiency",
+      "Type of teaching":"Modules of 2 h interactive lectures completed with1 h of practical numerical examples, discussion of the solution.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Master the concepts of thermodynamic efficiency, E6[br/][li]Know the principles and limitations of the main energy conversion technologies, E7[br/][li]Characterize fossil and renewable energy resources and their corresponding conversion technologies, E8[br/][li]Understand the challenges related to energy: resources, energy services, economic and environmental impacts, E9[br/][li]Calculate and design hydraulic machines, E12[br/][li]Calculate and design solar collectors and receivers, E17[br/][li]Calculate and design wind power plants, E18[br/][b]Transversal skills:[/b][br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19[br/][li]Improve skills continuously, T23"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Renewable energy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107971",
+      "name":"Van Herle Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Maîtriser les notions de bilans de matière, d'énergie et de quantité de mouvement, E1[br/][li]Comprendre les principaux cycles thermodynamiques, E5",
+      "Bibliographie et matériel":"Slides de cours et exercices résolus intégralement sur moodle. Références supplémentaires/annexes seront données pendant le cours.",
+      "Mots clés":"Energie électrique / thermique / transport renouvelable ; rendement",
+      "Forme d'enseignement":"Modules de 2 h de cours interactif complétées par 1 h d'application numérique et exemple, discussion de la résolution",
+      "Contenu":"Présentation des vecteurs énergétiques renouvelables, leurs principes physiques and équations essentielles, les technologies d'opération détaillées, les applications et potentiels pour approvisionnement de services électrique, de chaleur et de transport. Solaire (photovoltaïque  et thermique - collecteurs/concentrateurs), biomasse (notamment gasification), biogaz, biocombustibles liquides, hydraulique, géo-énergie (électrique et thermique), éolien ; hydrogène (comme vecteur intermédiaire).",
+      "Forme du contrôle":"Deux questions à résoudre (pendant un temps de préparation écrite), typiquement comme applications numériques des principes étudiés, suivies par une partie orale avec des questions de compréhension fondamentale.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Maîtriser les notions de rendements thermodynamiques, E6[br/][li]Connaître les principales technologies de conversion de l'énergie, leurs principes et leurs limites, E7[br/][li]Caractériser les ressources d'énergie fossiles et renouvelables et leur associer les principales technologies de conversion, E8[br/][li]Comprendre les enjeux de l'énergie: les ressources, les services énergétiques, les impacts économiques et environnementaux, E9[br/][li]Calculer et concevoir des machines hydrauliques, E12[br/][li]Calculer et concevoir des systèmes de captation solaires, E17[br/][li]Calculer et concevoir des éoliennes, E18[br/][b]Compétences transversales:[/b][br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Développer ses compétences de manière continue, T23"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Renewable energy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

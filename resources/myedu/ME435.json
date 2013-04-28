@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=788997256&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","435"],
+    "title":"Aeroelasticity and fluid-structure interaction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=788997256&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210245",
+      "name":"Spadoni Alessandro"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"There will be a midterm exam worth 30% and a written final exam worth 70% of the grade.",
+      "Bibliography and material":"In-class notes[br/]Y. C. Fung, [i]An Introduction to the Theory of Aeroelasticity[/i], Dover Publications, 1955[br/]J. R. Wright and J. E. Cooper, [i]Introduction to Aircraft Aeroelasticity and Loads[/i], John Wiley, 2007[br/]E. Naudascher, D. Rockwell, [i]Flow-induced vibrations: an engineering guide[/i], Dover Publications, 2005",
+      "Required prior knowledge":"[li]Statics and structural mechanics, S2 (Mechanics of Structures)[br/][li]Describe flow in simple geometries, such as over a flat plate, in a tube, or around a sphere of airfoil, AH11 (Incompressible Fluid Mechanics)[br/][li]Describe 3D effects resulting, for example, from a finite wing span or behind a blunt body, AH13 (Incompressible Fluid Mechanics)[br/][li]Multiple-degree-of-freedom and continuum systems, S3 (Dynamical Systems and Mechanical vibrations)",
+      "Content":"This course will articulate the most common types of fluid-structure interactions and associated dynamic behavior: externally-induced excitation, motion-induced excitation, and instability-induced excitation.  The focus however will be on flow-induced structural motion and on the onset of instabilities resulting from the latter two cases. Both discrete and continuous systems are analyzed. A number of problems of engineering interest will be presented to elucidate the perils of neglecting fluid-structure coupling and how to mitigate undesirable phenomena. Both static and dynamic instabilities will be discussed.",
+      "Keywords":"Aeroelasticity, Divergence, Flutter, Structural dynamics",
+      "Type of teaching":"Ex-cathedra",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Identify the crucial parameters present in real flow in order to propose an  appropriate modelling,  AH10[br/][li]Describe flow in simple geometries, such as over a flat plate, in a tube, or around a sphere of airfoil, AH11[br/][li]Describe 3D effects resulting, for example, from a finite wing span or behind a blunt body, AH13[br/][li]Apply the concepts of structural dynamics to predict optimize the vibration (free or forced, conservative or damped) behaviour of multiple-degree-of-freedom or continuum systems, S3[br/][li]Model with appropriate tools (analytical or numerical) the nonlinear (hyperelastic, plastic, buckling) and/or time-dependent (viscoelastic, viscoplastic) behaviour of structures and material under complex loadings, S11[br/][li]Describe in scientific terms and apply the classical theory of aeroelasticity of slender wings. Illustrate the principles and limitations of the different approaches to model fluid-structure interactions i n modern numerical simulations, S16[br/][b]Transversal skills:[/b][br/][li]Take notes effectively, T3[br/][li]Be perseverant through difficulties, T15[br/][li]Differentiate between ideal and feasible, T19"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Aeroelasticity and fluid-structure interaction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-44282-9&amp;con_lng=ENG\" target=\"blank\">Flow-induced vibrations : an engineering guide / Eduard Naudascher, Donald Rockwell</a>\". Year:2005. ISBN:0-486-44282-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-85840-0&amp;con_lng=ENG\" target=\"blank\">Introduction to aircraft aeroelasticity and loads / Jan R. Wright, Jonathan E. Cooper</a>\". Year:2008. ISBN:978-0-470-85840-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-486-46936-2&amp;con_lng=ENG\" target=\"blank\">Introduction to the Theory of Aeroelasticity</a>\". Year:2008. ISBN:978-0-486-46936-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210245",
+      "name":"Spadoni Alessandro"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Statique et mécanique des structures, S2 (Mécanique des structures)[br/][li]Décrire l'écoulement dans des géométries simples, tel que sur une plaque plane, dans une tuyère ou autour d'une sphère ou un profil, AH11 (mécanique des fluides incompressibles)[br/][li]Décrire les effets 3D résultant par exemple de l'envergure d'une aile ou derrière un corps émoussé, AH13 (mécanique des fluides incompressibles)[br/][li]Systèmes continus ou à plusieurs degrés de liberté, S3 (Systèmes dynamiques et Mécanique vibratoire)",
+      "Bibliographie et matériel":"Notes polycopiées[br/]Y. C. Fung, [i]An Introduction to the Theory of Aeroelasticity[/i], Dover Publications, 1955[br/]J. R. Wright and J. E. Cooper, [i]Introduction to Aircraft Aeroelasticity and Loads[/i], John Wiley, 2007[br/]E. Naudascher, D. Rockwell, [i]Flow-induced vibrations: an engineering guide[/i], Dover Publications, 2005",
+      "Mots clés":"Aéroélasticité, Divergence, Flottement, Dynamique des structures",
+      "Forme d'enseignement":"Ex-cathedra",
+      "Contenu":"Ce cours explique les types les plus connus d'interaction fluide-structure et le comportement dynamique associé: excitation externe, excitation induite par les déformations et excitation provoquée par les instabilités. L'accent sera toutefois mis sur les excitations structurelles induites par un fluide et sur le déclenchement des instabilités résultant des deux derniers cas. Les systèmes discrets et continus seront analysés. Des problèmes d'intérêt en génie mécanique seront présentés, afin de mettre en lumière les dangers de négliger le couplage fluide-structure et la façon d'atténuer les phénomènes indésirables. Les instabilités statiques et dynamiques seront discutées.",
+      "Forme du contrôle":"Examen à mi-semestre (30%) et examen final écrit (70%).",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Identifier les aspects cruciaux présents dans un écoulement  réel afin de proposer une modélisation appropriée, AH10[br/][li]Décrire l'écoulement dans des géométries simples, tel que sur une plaque plane, dans une tuyère ou autour d'une sphère ou un profil, AH11[br/][li]Décrire les effets 3D résultant par exemple de l'envergure d'une aile ou derrière un corps émoussé, AH13[br/][li]Appliquer les concepts de la dynamique des structures pour prédire et optimiser le comportement vibratoire, libre ou forcé, conservatif ou amorti de systèmes continus ou à plusieurs degrés de liberté, S3[br/][li]Abstraire et modéliser avec une méthode appropriée (analytique ou numérique) le comportement non linéaire (hyper-élastique, plastique, instabilité) et/ou dépendant du temps (visco-élasticité/visco-plasticité) de structures et matériaux subissant des sollicitations thermomécaniques complexes, S11[br/][li]Expliquer scientifiquement et mettre en ½uvre la théorie classique de l'aéroélasticité des ailes élancées et décrire les hypothèses et les limites des différentes techniques de couplage fluide-structure en simulation numérique moderne, S16[br/][b]Compétences transversales:[/b][br/][li]Prendre des notes de manière efficace, T3[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Aeroelasticity and fluid-structure interaction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-44282-9&amp;con_lng=FRE\" target=\"blank\">Flow-induced vibrations : an engineering guide / Eduard Naudascher, Donald Rockwell</a>\". Année:2005. ISBN:0-486-44282-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-85840-0&amp;con_lng=FRE\" target=\"blank\">Introduction to aircraft aeroelasticity and loads / Jan R. Wright, Jonathan E. Cooper</a>\". Année:2008. ISBN:978-0-470-85840-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-486-46936-2&amp;con_lng=FRE\" target=\"blank\">Introduction to the Theory of Aeroelasticity</a>\". Année:2008. ISBN:978-0-486-46936-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

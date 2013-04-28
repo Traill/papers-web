@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771318&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","706"],
+    "title":"Microfluidics for lab-on-a-chip",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771318&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184697",
+      "name":"Le Gac Séverine"
+    },{
+      "url":"http://people.epfl.ch/138903",
+      "name":"van den Berg Albert"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] To provide a comprehensive overview of present days techniques and methods to realize micro- and nanodevices for liquid handling.[br/][li] To provide background knowledge on fluid-mechanics and scaling effects.[br/][li] To give an overview of methods for fluid manipulation.[br/][li] To give an overview of sensing and analytical techniques used for Lab-on-a-Chip applications.[br/][li] To discuss the potentials of microreactors and coupling to mass spectrometer (MS) analysis.[br/][li] To provide information about systems for biochemical analysis and bioassays.[br/][li] To give a future outlook in the direction of nanofluidics.",
+      "Content":"[li]Introduction to fluid mechanics - modeling/simulation - scaling laws[br/][li]Introduction in microtechnology for fabrication of  microfluidic devices- silicon/glass/polymer techologies-patterning/etching/bonding/deposition techniques[br/][li]Mechanical microfluidic componentsvalves - pumps - flow sensors - mixers/filters - channels - nozzles[br/][li]Non-mechanical microfluidics EOF - MHD - EHD - dielectrophoresis - acoustic actuation - T-sensor- hydrophobic patches - capillary based devices[br/][li]Labs-on-Chip (LOC) / Micro Total Analysis Systems (TAS)[br/][li]Arrays vs. flow systems (microfluidics) - surface vs. beads based systems[br/][li]MS-interfacing: MALDI-TOF/ESI[br/][li]Applications: genomics/proteomics/cell-based systems[br/][li]Nanotechnology/nanofluidics/single molecule analysis",
+      "Keywords":"Microreactors, biochemical analysis, microfluidic devices, Labs-on-Chip, Micro Total Analysis Systems"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microfluidics for lab-on-a-chip",
+    "recitation":null,
+    "exam_form":"Term paper",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184697",
+      "name":"Le Gac Séverine"
+    },{
+      "url":"http://people.epfl.ch/138903",
+      "name":"van den Berg Albert"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li]Introduction to fluid mechanics - modeling/simulation - scaling laws[br/][li]Introduction in microtechnology for fabrication of  microfluidic devices- silicon/glass/polymer techologies-patterning/etching/bonding/deposition techniques[br/][li]Mechanical microfluidic componentsvalves - pumps - flow sensors - mixers/filters - channels - nozzles[br/][li]Non-mechanical microfluidics EOF - MHD - EHD - dielectrophoresis - acoustic actuation - T-sensor- hydrophobic patches - capillary based devices[br/][li]Labs-on-Chip (LOC) / Micro Total Analysis Systems (TAS)[br/][li]Arrays vs. flow systems (microfluidics) - surface vs. beads based systems[br/][li]MS-interfacing: MALDI-TOF/ESI[br/][li]Applications: genomics/proteomics/cell-based systems[br/][li]Nanotechnology/nanofluidics/single molecule analysis",
+      "Mots clés":"Microreactors, biochemical analysis, microfluidic devices, Labs-on-Chip, Micro Total Analysis Systems",
+      "Objectifs d'apprentissage":"[li] To provide a comprehensive overview of present days techniques and methods to realize micro- and nanodevices for liquid handling.[br/][li] To provide background knowledge on fluid-mechanics and scaling effects.[br/][li] To give an overview of methods for fluid manipulation.[br/][li] To give an overview of sensing and analytical techniques used for Lab-on-a-Chip applications.[br/][li] To discuss the potentials of microreactors and coupling to mass spectrometer (MS) analysis.[br/][li] To provide information about systems for biochemical analysis and bioassays.[br/][li] To give a future outlook in the direction of nanofluidics."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microfluidics for lab-on-a-chip",
+    "recitation":null,
+    "exam_form":"Mémoire",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

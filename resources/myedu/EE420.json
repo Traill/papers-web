@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23996396&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","420"],
+    "title":"Analog circuits design I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23996396&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control",
+      "Bibliography and material":"Notes de cours",
+      "Prerequisite for":"Analog circuits design II and master thesis project",
+      "Required prior knowledge":"Devices and analog basic structures",
+      "Content":"[b]Fundamental principles[/b][br/]Signal representation, insensibility to process and to physical parameters, principle of similarity and rules for optimum matching.[br/][br/][b]Analog circuits[/b][br/]Studies of  different topologies, design methodologies and tradeoffs, specific limitation, implementation and design examples of the following circuits: [br/][li]\tAmplifiers[br/][li]\tOperational transconductance amplifier (OTA).[br/][li]\tOperational amplifier (Op Amp).[br/]",
+      "Type of teaching":"Ex cathedra with exercices",
+      "Learning outcomes":"The student will be able to design analog integrated circuits (and the analog parts of VLSI circuits). He will master the device structures and the basic circuits used in bipolar and MOS technologies, as well as the basic principles underlying their correct layout."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analog circuits design I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Dispositifs et structures analogiques",
+      "Bibliographie et matériel":"Notes de cours",
+      "Forme d'enseignement":"Cours ex cathedra avec des exercices",
+      "Contenu":"[b]Principes fondamentaux[/b][br/]Représentation des signaux, insensibilité aux paramètres physiques et technologiques, principe de similitude et règles d'appariement.[br/][br/][b]Circuits analogiques[/b][br/]Etude de différentes configurations, méthodologie de conception, limitations spécifiques, implémentations et exemples d'utilisation des circuits suivants:[br/][li]Montages amplificateurs[br/][li]Amplificateurs à transconductance (OTA).[br/][li]Amplificateurs opérationnels- Amp-Op.",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Analog circuits design II et projet de Master",
+      "Objectifs d'apprentissage":"L'étudiant sera capable de concevoir des circuits intégrés analogiques (et les parties analogiques de circuits VLSI). Pour cela, il maîtrisera les structures des dispositifs et les circuits de base utilisés en technologies bipolaires et MOS, ainsi que les principes à respecter lors de leur implantation dans le layout."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Analog circuits design I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

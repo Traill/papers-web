@@ -1,0 +1,89 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771033&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","600"],
+    "title":"Effects of radiation on materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771033&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229334",
+      "name":"Bertsch Johannes"
+    },{
+      "url":"http://people.epfl.ch/105207",
+      "name":"Gavillet Didier"
+    },{
+      "url":"http://people.epfl.ch/229333",
+      "name":"Pouchon Manuel"
+    },{
+      "url":"http://people.epfl.ch/229332",
+      "name":"Seifert Hans-Peter"
+    },{
+      "url":"http://people.epfl.ch/106982",
+      "name":"Spätig Philippe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective of this course is to provide a detailed description of the effects of irradiation (electrons, ions, neutrons) on the microstructure and properties of a wide number of materials for nuclear and non-nuclear applications.[br/][br/]The students will acquire knowledge upon the differences between the various irradiation modes, the fundamentals of radiation damage, the methods for investigating radiation damage and upon the various effects of radiation damage on the behavior of a number of materials, including pure metals, steels and ceramic composites, within the framework of two main applications that are fission reactors and thermonuclear fusion reactors.",
+      "Content":"1. Fundamentals of radiation damage[br/][br/][li] Defect production[br/][li] Defect accumulation[br/][li] Irradiation modes (electrons, ions, neutrons)[br/][br/]2. Investigation tools[br/][br/][li] Numerical tools (molecular dynamics, kinetic rate theory, Monte Carlo methods, dislocation dynamics)[br/][li]  Experimental tools (transmission electron microscopy, small angle neutron scattering, positron annihilation spectrometry, field ion microscopy, internal friction)[br/][br/]3.Materials for fission reactors[br/][br/]4.Materials for thermonuclear fusion reactors",
+      "Keywords":"Radiation, mechanical properties, fission reactors, fusion reactors, nuclear reactors, irradiated materials",
+      "Required prior knowledge":"Theory of point defects and dislocations"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Effects of radiation on materials",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229334",
+      "name":"Bertsch Johannes"
+    },{
+      "url":"http://people.epfl.ch/105207",
+      "name":"Gavillet Didier"
+    },{
+      "url":"http://people.epfl.ch/229333",
+      "name":"Pouchon Manuel"
+    },{
+      "url":"http://people.epfl.ch/229332",
+      "name":"Seifert Hans-Peter"
+    },{
+      "url":"http://people.epfl.ch/106982",
+      "name":"Spätig Philippe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Fundamentals of radiation damage[br/][br/][li] Defect production[br/][li] Defect accumulation[br/][li] Irradiation modes (electrons, ions, neutrons)[br/][br/]2. Investigation tools[br/][br/][li] Numerical tools (molecular dynamics, kinetic rate theory, Monte Carlo methods, dislocation dynamics)[br/][li]  Experimental tools (transmission electron microscopy, small angle neutron scattering, positron annihilation spectrometry, field ion microscopy, internal friction)[br/][br/]3.Materials for fission reactors[br/][br/]4.Materials for thermonuclear fusion reactors[br/][br/]",
+      "Mots clés":"Radiation, mechanical properties, fission reactors, fusion reactors, nuclear reactors, irradiated materials",
+      "Prérequis":"Theory of point defects and dislocations",
+      "Objectifs d'apprentissage":"The objective of this course is to provide a detailed description of the effects of irradiation (electrons, ions, neutrons) on the microstructure and properties of a wide number of materials for nuclear and non-nuclear applications.[br/][br/]The students will acquire knowledge upon the differences between the various irradiation modes, the fundamentals of radiation damage, the methods for investigating radiation damage and upon the various effects of radiation damage on the behavior of a number of materials, including pure metals, steels and ceramic composites, within the framework of two main applications that are fission reactors and thermonuclear fusion reactors."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Effects of radiation on materials",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

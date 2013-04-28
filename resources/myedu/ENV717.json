@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412900909&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","717"],
+    "title":"Human Induced Changes in Ecosystems: Measurements and Analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412900909&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ecos.epfl.ch","http://ecos.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133834",
+      "name":"Buttler Alexandre"
+    },{
+      "url":"http://people.epfl.ch/105325",
+      "name":"Guenat Claire"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Providing the students with some more in-depth background on landscape and ecosystem assessments, in particular on how to measure biological changes in ecosystems. The students will get acquainted with different approaches used in field ecology to measure changes in biological populations and communities. They will learn about the constraints related to various ecological measurements and how to select the appropriate methodology regarding ecological questions. The course will also give the students the opportunity to do a field study, including data collection on vegetation and soil,and statistical multivariate analyses.There will be a focus on ecosystems sensitive to human activities.",
+      "Content":"Lectures during (8 hours):[br/][br/]Constraints in natural systems ; Variability of biological data.[br/]Space and time auto-correlations ; Space and time scales.[br/]Sampling techniques ; Observation methodologies.[br/]Characterization of plant communities ; Transect studies ; Permanent plots ; Comparative analysis.[br/]Experimental methods ; Experimental design ;[br/]Data acquisition and collection ; Qualitative, semi-quantitative and quantitative data[br/]Data measurements over surfaces ; Data measurements at point location and along transect lines[br/]Data analysis and data management ; Complexity of data ; Multivariate analysis.[br/]Biodiversity indices, functional groups ; species turnover.[br/]ANOVA, examples of databases.[br/][br/]Home work during (32 hours) : Field work preparation (methods)[br/][br/]Field work during 5 days (40 hours) : Data sampling in the field ; Vegetation survey ; Soil description and basic chemical analyses ; Statistical analyses ; Report and presentation.[br/]",
+      "Keywords":"Ecological field measurements",
+      "Required prior knowledge":"Lectures on ecology and ecosystems ; sampling and analytical methods "
+    },
+    "practical":{
+      "total_hours":32
+    },
+    "language":"English",
+    "title":"Human Induced Changes in Ecosystems: Measurements and Analysis",
+    "recitation":{
+      "total_hours":16
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ecos.epfl.ch","http://ecos.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133834",
+      "name":"Buttler Alexandre"
+    },{
+      "url":"http://people.epfl.ch/105325",
+      "name":"Guenat Claire"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Lectures during (8 hours):[br/][br/]Constraints in natural systems ; Variability of biological data.[br/]Space and time auto-correlations ; Space and time scales.[br/]Sampling techniques ; Observation methodologies.[br/]Characterization of plant communities ; Transect studies ; Permanent plots ; Comparative analysis.[br/]Experimental methods ; Experimental design ;[br/]Data acquisition and collection ; Qualitative, semi-quantitative and quantitative data[br/]Data measurements over surfaces ; Data measurements at point location and along transect lines[br/]Data analysis and data management ; Complexity of data ; Multivariate analysis.[br/]Biodiversity indices, functional groups ; species turnover.[br/]ANOVA, examples of databases.[br/][br/]Home work during (32 hours) : Field work preparation (methods)[br/][br/]Field work during 5 days (40 hours) : Data sampling in the field ; Vegetation survey ; Soil description and basic chemical analyses ; Statistical analyses ; Report and presentation.[br/]",
+      "Mots clés":"Ecological field measurements",
+      "Prérequis":"Lectures on ecology and ecosystems ; sampling and analytical methods ",
+      "Objectifs d'apprentissage":"Providing the students with some more in-depth background on landscape and ecosystem assessments, in particular on how to measure biological changes in ecosystems. The students will get acquainted with different approaches used in field ecology to measure changes in biological populations and communities. They will learn about the constraints related to various ecological measurements and how to select the appropriate methodology regarding ecological questions. The course will also give the students the opportunity to do a field study, including data collection on vegetation and soil,and statistical multivariate analyses.There will be a focus on ecosystems sensitive to human activities."
+    },
+    "practical":{
+      "total_hours":32
+    },
+    "language":"English",
+    "title":"Human Induced Changes in Ecosystems: Measurements and Analysis",
+    "recitation":{
+      "total_hours":16
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36227426&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","701"],
+    "title":"Data analysis in management research",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36227426&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224795",
+      "name":"Han Shu"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This class will provide an intensive introduction to quantitative research in the field of management of technology.  The course will include both discussion of major research methods and an intensive introduction to doing quantitative analysis.  Students will learn how to use common quantitative techniques including ANOVA, linear OLS regression, instrumental variables, hazard rate models, logistic regression.  Both cross-sectional and longitudinal analysis will be covered.  Problems of endogeneity and sample selection will be considered.  The course will provide knowledge of which tools are appropriate for what conditions.",
+      "Content":"Positivism and Non-Positivism; Making a Contribution; What is Theory?; Experimental Methods; Quasi-Experiments; Logic, Measurement, Validity, and Reliability Analysis with Archival Data; Common Problems and Pitfalls; Edifying examples ; The Revision Process; Building a Career.[br/][br/]Descriptive Statistics; Distributions, central limit theorem, confidence intervals, standard deviation, standard error; Hypothesis Testing (t-tests,f-tests,x-square), finite sample tests; Regression (OLS), assumptions, R2, Adjusted R2, F-tests, fixe; Regression Fixes Continued (fixed effects, random effects); Panel Regression (fixed and random effects con-tinued, autocorrelation); Biased Samples Problems; Limited Dependent Variables; Heckman; Advanced Methods (structural equations, instrumental variables, two stage least squares, marginal regressions)",
+      "Keywords":"quantitative methods, data analysis, firm-level context",
+      "Form of examination":"Project report and term paper",
+      "Required prior knowledge":"research methods; probability"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Data analysis in management research",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224795",
+      "name":"Han Shu"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Positivism and Non-Positivism; Making a Contribution; What is Theory?; Experimental Methods; Quasi-Experiments; Logic, Measurement, Validity, and Reliability Analysis with Archival Data; Common Problems and Pitfalls; Edifying examples ; The Revision Process; Building a Career.[br/][br/]Descriptive Statistics; Distributions, central limit theorem, confidence intervals, standard deviation, standard error; Hypothesis Testing (t-tests,f-tests,x-square), finite sample tests; Regression (OLS), assumptions, R2, Adjusted R2, F-tests, fixe; Regression Fixes Continued (fixed effects, random effects); Panel Regression (fixed and random effects con-tinued, autocorrelation); Biased Samples Problems; Limited Dependent Variables; Heckman; Advanced Methods (structural equations, instrumental variables, two stage least squares, marginal regressions)",
+      "Mots clés":"quantitative methods, data analysis, firm-level context",
+      "Prérequis":"research methods; probability",
+      "Forme du contrôle":"Project report and term paper",
+      "Objectifs d'apprentissage":"This class will provide an intensive introduction to quantitative research in the field of management of technology.  The course will include both discussion of major research methods and an intensive introduction to doing quantitative analysis.  Students will learn how to use common quantitative techniques including ANOVA, linear OLS regression, instrumental variables, hazard rate models, logistic regression.  Both cross-sectional and longitudinal analysis will be covered.  Problems of endogeneity and sample selection will be considered.  The course will provide knowledge of which tools are appropriate for what conditions."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Data analysis in management research",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

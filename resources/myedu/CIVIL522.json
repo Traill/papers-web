@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773727&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","522"],
+    "title":"Seismic engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773727&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198189",
+      "name":"Beyer Katrin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course deals with the main aspects of seismic design of buildings and bridges. It covers different structural design and evaluation philosophies for new and existing reinforced concrete and masonry structures.[br/][br/][br/]",
+      "Content":"Introduction[br/][li]\tBackground[br/][li]\tSeismicity[br/][li]\tTypical failure modes of structures[br/][br/]Conceptual seismic design[br/][br/]Analysis method[br/][li]\tResponse spectra for elastic and inelastic systems[br/][li]\tEquivalent lateral force method[br/][li]\tResponse spectrum analysis[br/][li]\tPushover analysis[br/][br/]Design and evaluation methods[br/][li]\tForce-based methods[br/][li]\tDisplacement-based methods[br/][br/]Design philosophy[br/][li]\tConventional design[br/][li]\tCapacity design[br/][br/]Reinforced concrete structures[br/][li]\tInelastic behaviour when subjected to cyclic loading[br/][li]\tSeismic detailing of reinforced concrete structures[br/][br/][li]\tBridges[br/][br/]Existing reinforced concrete and masonry structures[br/][li]\tEvaluation and retrofitting"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Seismic engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-747-3&amp;con_lng=ENG\" target=\"blank\">Génie parasismique : conception et dimensionnement des bâtiments / Pierino Lestuzzi et Marc Badoux ; avec la participation de Souad Sellami</a>\". Year:2008. ISBN:978-2-88074-747-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198189",
+      "name":"Beyer Katrin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Introduction[br/][li]\tContexte et enjeux[br/][li]\tSismicité[br/][li]\tDégâts typiques[br/][br/]Conception parasismique[br/][br/]Méthodes d'analyse[br/][li]\tSpectres de réponse des systèmes élastiques et inélastiques[br/][li]\tMéthode des forces de remplacement[br/][li]\tMéthode du spectre de réponse[br/][li]\t« Pushover analysis »[br/][br/]Méthodes de dimensionnement et d'évaluation[br/][li]\tMéthodes basées sur les forces[br/][li]\tMéthodes basées sur les déplacements[br/][br/]Philosophie de dimensionnement[br/][li]\tDimensionnement conventionnel[br/][li]\tDimensionnement en capacité[br/][br/]Structures en béton armé[br/][li]\tComportement inélastique sous des charges cycliques[br/][li]\t« Seismic detailing » des structures en béton armé[br/][br/]Ponts[br/][br/]Structures existantes en béton armé et en maçonnerie[br/][li]\tEvaluation et renforcement",
+      "Préparation pour":"Projet de Master",
+      "Prérequis":"Cours de structures, Dynamique des structures",
+      "Bibliographie et matériel":"Génie parasismique PPUR",
+      "Objectifs d'apprentissage":"Ce cours traite des principaux aspects de la conception et du dimensionnement parasismique des bâtiments et des ponts. Il couvre les diverses philosophies de dimensionnement des bâtiments neufs et de l'évaluation des bâtiments existants en béton armé et en maçonnerie.[br/] "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Génie parasismique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-747-3&amp;con_lng=FRE\" target=\"blank\">Génie parasismique : conception et dimensionnement des bâtiments / Pierino Lestuzzi et Marc Badoux ; avec la participation de Souad Sellami</a>\". Année:2008. ISBN:978-2-88074-747-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

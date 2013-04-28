@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776802&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","322"],
+    "title":"Theory of architecture VI",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776802&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105709",
+      "name":"Lucan Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Knowledge of the architectural theories and doctrines after the second world war.[br/]",
+      "Content":"[b]Composition and noncomposition[/b][br/]During the sixties, new approaches of the architectural project cast doubt on conceptions of modern architecture, which are now traditional. New themes are developed which open new perspectives for the architectural work. The lectures will try to understand the problematics and themes, which have just up to now marked the present time.[br/][br/][li]The Brutalism. Alison & Peter Smithson and the European scene.[br/][br/][li]The megastructures. Web and Stem.[br/][br/][li]Assemblage versus composition. Le Corbusier.[br/][br/][li]Served spaces, servant areas: the question of [i]poché[/i]. Louis I. Kahn.[br/][br/][li]Void versus space: the American metropolis. Towards a new environment.[br/][br/][li]New environment and architecture 1. [br/]Robert Venturi & Denise Scott Brown: duck and decorated shed.[br/][br/][li]New environment and architecture 2. [br/]Aldo Rossi: analogous city and historicism.[br/][br/][li]New environment and architecture 3. [br/]Oswald Mathias Ungers et Colin Rowe: the archipelago city.[br/][br/][li]New environment and architecture 4. [br/]Rem Koolhaas: the generic city.[br/][br/][li]Non compositional process 1. Logics of plans and neutral plan.[br/][br/][li]Non compositional process 2. Logics of operations.[br/][br/][li]Non compositional process 3. The question of the environment.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Theory of architecture VI",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105709",
+      "name":"Lucan Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[b]Composition et non composition[/b][br/]Avec les années 1960, de nouvelles problématiques de projet remettent en cause les conceptions devenues traditionnelles de l'architecture moderne. De nouveaux thèmes sont développés qui ouvrent de nouvelles perspectives au travail architectural. Le cours cherchera à comprendre ces problématiques et ces thèmes qui viennent jusqu'à marquer le temps présent.[br/][br/][li]Le brutalisme. Alison & Peter Smithson et l'horizon européen.[br/][br/][li]Les mégastructures. [i]Web et Stem.[/i][br/][br/][li]L'assemblage contre la composition. Le Corbusier.[br/][br/][li]Espaces servis, surfaces servantes: la question du poché. Louis I. Kahn.[br/][br/][li]Le vide contre l'espace: la ville américaine. [i]Towards a new environement.[/i][br/][br/][li]Nouvel environnement et architecture 1.[br/]Robert Venturi & Denise Scott Brown: canard et hangar décoré.[br/][br/][li]Nouvel environnement et architecture 2.[br/]Aldo Rossi: ville analogue et historicisme.[br/][br/][li]Nouvel environnement et architecture 3. [br/]Oswald Mathias Ungers et Colin Rowe: la ville archipel.[br/][br/][li]Nouvel environnement et architecture 4.[br/]Rem Koolhaas: la ville générique.[br/][br/][li]Processus non compositionnels 1. Logiques de plan et plan neutre. [br/][br/][li]Processus non compositionnels 2. Logiques d'opérations.[br/][br/][li]Processus non compositionnels 3. La question du milieu.[br/]",
+      "Préparation pour":"Théorie de l'architecture VII.",
+      "Prérequis":"Théorie de l'architecture V.",
+      "Objectifs d'apprentissage":"Connaissance  des  théories et doctrines architecturales après la Seconde guerre mondiale.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie de l'architecture VI",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

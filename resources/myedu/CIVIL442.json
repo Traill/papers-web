@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=22830254&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","442"],
+    "title":"Integrated planning of energy infrastructures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=22830254&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"GC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will be able to analyse the energy consumption, the evolution of the energy demand and to propose suitable supply strategies taking into account the technological adequacy as well as environmental and economic aspects. He should also be able to define the general layout of energy infrastructures taking into account economic and environmental aspects.",
+      "Content":"1\tModelling of energy demand.[br/]\t-\tSimple extrapolation.[br/]\t-\tEconometric methods.[br/]\t-\tTechno-economic methods.[br/][br/]2\tEnergy demand / supply adequacy : case of electricity.[br/]\t-\tModelling the variability of the electricity demand.[br/]\t-\tModelling the variability of the electricity generation.[br/]\t-\tAdjustment of the electricity demand / supply, inclusive \tdemand side management.[br/][br/]3\tOrganisation of the electricity supply industry (ESI).[br/]\t-\tDifferent models of electricity market restructuring.[br/]\t-\tDefinition and management of market risk in a \tcompetitive environment.[br/][br/]4\tEvaluation of energy infrastructure projects.[br/]\t-\tTechnical, economic and environmental issues.[br/]\t-\tPrivate economic return.[br/]\t-\tExternalities.[br/][br/]5 \tComputer based case studies.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Integrated planning of energy infrastructures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Ce cours intéresserait également les sections d'environnement, d'électricité et de mécanique.",
+      "Prérequis":"Modélisation des systèmes Energie et Transports, Etude et analyse des systèmes énergétiques",
+      "Bibliographie et matériel":"Polycopiés.",
+      "Forme d'enseignement":"Ex cathedra avec étude de cas sur ordinateur.",
+      "Contenu":"1\tModélisation de la demande d'énergie.[br/]-\tMéthodes d'extrapolation simple.[br/]-\tMéthodes économétriques.[br/]-\tMéthodes technico-économiques.[br/][br/]2\tAdéquation entre la demande et l'offre d'énergie : cas de l'électricité.[br/]- Modélisation de la variabilité de la demande d'électricité.[br/]- Modélisation de la variabilité de l'offre d'électricité.[br/]- Ajustement entre la demande et l'offre d'électricité, y compris la gestion de la demande. [br/][br/]3\tOrganisation du secteur de l'électricité.[br/]- Les différents modèles de restructuration du marché de l'électricité.[br/]- Définition et gestion du risque dans un marché de l'électricité ouvert à la concurrence.[br/][br/]4\tÉvaluation de projets d'infrastructure d'énergie.[br/]\t- Aspects techniques, économiques et environnementaux.[br/]\t- Rentabilité économique.[br/]\t- Externalités.[br/][br/]5\tÉtude de cas sur ordinateur.",
+      "Objectifs d'apprentissage":"À la fin du cours, l'étudiant doit être capable d'analyser la consommation et l'évolution de la demande et de proposer des variantes d'offre et d'approvisionnement en énergie, tenant compte des aspects technico-économiques et environnementaux. Il pourra également dimensionner des infrastructures d'énergie en tenant compte des aspects économiques et environnementaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Planification intégrée des infrastructures d'énergie",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

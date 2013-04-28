@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771488&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","443"],
+    "title":"Photochemistry II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771488&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"CGC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105914",
+      "name":"Moser Jacques-Edouard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Initiation to theoretical models of the dynamics of light-induced electron transfer. Application of theories to several exemplary cases. Introduction to photoredox processes taking place at the surface of solids and to current technological applications and most recent advances in this field.[br/]",
+      "Content":"[b]1. Experimental methods[/b][br/]Emission spectroscopy, single photon counting - Ns laser flash photolysis - Femtosecond laser spectroscopies.[br/][br/][b]2. Dynamics of photoinduced electron transfer[/b][br/]Theoretical models of charge transfer dynamics - Application to homogeneous and micro-heterogeneous systems - Detailed presentation of several exemplary cases.[br/][br/][b]3. Photoelectrochemistry of semiconductors[/b][br/]Contact phenomena at the solid/solid and solid/electrolyte interfaces - Case of finely dispersed semiconductor particles - Ions specific adsorption and surface states - Dynamics of charge carriers in the solid - Spectral sensitization of large bandgap semiconductors.[br/][br/][br/][b]4. Photographic and xerographic processes[/b][br/]Molecular systems - Electrophotography - Offset printing - Silver photography - Dye aggregates - Theory and reproduction of colors.[br/][br/][br/][b]5. Photocatalysis and solar energy conversion[/b][br/]Thermodynamic principles and limitations of solar energy conversion - Water photolysis - Photogalvanic and photovoltaic cells.[br/][br/][br/][b]6. Optical information storage[/b][br/]Photochromic materials - Optical discs, DRAW memories - High resolution spectroscopy - Holography. [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Photochemistry II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-927498-7&amp;con_lng=ENG\" target=\"blank\">Molecular quantum mechanics / Peter Atkins, Ronald Friedman</a>\". Year:2007. ISBN:978-0-19-927498-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105914",
+      "name":"Moser Jacques-Edouard"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Enseignement du module libre",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Photochimie I\"",
+      "Bibliographie et matériel":"polycopié, ouvrages conseillés",
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[b]1. Méthodes expérimentales[/b][br/]Fluorimétrie, comptage de photons - Photolyse par éclair laser ns - Spectroscopies laser femtoseconde.[br/][br/][b]2. Dynamique du transfert d'électron photo-induit[/b][br/]Modèles théoriques de la dynamique du transfert d'électron - Application aux systèmes homogènes et micro-hétérogènes - Traitement détaillé de plusieurs cas exemplaires.[br/][br/][b]3. Photo-électrochimie des semi-conducteurs.[/b][br/]Phénomènes de contact aux interfaces solide/solide et solide/électrolyte - Cas de particules semi-conductrices finement dispersées - Adsorption spécifique d'ions et états de surface - Dynamique des porteurs de charge - Sensibilisation spectrale des semi-conducteurs à large bande interdite.[br/][br/][b]4. Procédés photographiques et reprographiques[/b][br/]Systèmes moléculaires - Reprographie électrostatique - Procédé d'impression offset - Photographie argentique - Agrégats de colorants - Théorie et reproduction des couleurs.[br/][br/][b]5. Conversion de l'énergie solaire.[/b][br/]Principes et limites thermodynamiques de la conversion de l'énergie solaire - Photolyse de l'eau - Cellules photogalvaniques et photovoltaïques.[br/][br/][b]6. Stockage optique de l'information[/b][br/]Systèmes photochromes - Disques optiques, mémoires DRAW - Spectroscopie de haute résolution - Holographie.",
+      "Objectifs d'apprentissage":"Introduction et mise en oeuvre pratique des modèles théoriques de la dynamique du transfert d'électron photoinduit. Introduction aux processus photo-rédox à la surface de solides et aux applications technologiques courantes, ainsi qu'aux avancées les plus récentes dans ce domaine."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Photochemistry II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-927498-7&amp;con_lng=FRE\" target=\"blank\">Molecular quantum mechanics / Peter Atkins, Ronald Friedman</a>\". Année:2007. ISBN:978-0-19-927498-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

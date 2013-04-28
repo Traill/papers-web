@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965807471&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","611"],
+    "title":"Creative Problem Solving in Science and Engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965807471&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123556",
+      "name":"Seitz Peter"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"Curriculum (Theoretical part)[br/]1.\tNeurochemical basis of learning and creative processes in the brain[br/]2.\tBehavioural and chemical influences on creativity[br/]3.\tPersonality traits of highly creative individuals (M. Csikszentmihalyi)[br/]4.\tObjective testing of the originality of thinking[br/]5.\tGroup creativity: Brainstorming (A. Osborn)[br/]6.\tCreativity training: Lateral thinking (E. de Bono)[br/]7.\tSystematic problem solving (G. Polya)[br/]8.\tMorphological analysis and the morphological box (F. Zwicky)[br/]9.\tLateral thinking puzzles and systematic solution approaches[br/][br/]Curriculum (Practical part)[br/]1.\tBrainstorming exercises (Plenum)[br/]2.\tLateral thinking puzzles (Plenum)[br/]3.\tSystematic solution of a tough scientific/engineering problem (Small groups)[br/]4.\tPoster preparation (Groups: Problem+Process+Solution)[br/]5.\tDebriefing session[br/]",
+      "Keywords":"Creativity, systematic problem solving, morphological analysis, Polya approach, lateral thinking",
+      "Required prior knowledge":"Basic education (bachelor level) in an engineering or scientific discipline"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Creative Problem Solving in Science and Engineering",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Term paper",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123556",
+      "name":"Seitz Peter"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Curriculum (Theoretical part)[br/]1.\tNeurochemical basis of learning and creative processes in the brain[br/]2.\tBehavioural and chemical influences on creativity[br/]3.\tPersonality traits of highly creative individuals (M. Csikszentmihalyi)[br/]4.\tObjective testing of the originality of thinking[br/]5.\tGroup creativity: Brainstorming (A. Osborn)[br/]6.\tCreativity training: Lateral thinking (E. de Bono)[br/]7.\tSystematic problem solving (G. Polya)[br/]8.\tMorphological analysis and the morphological box (F. Zwicky)[br/]9.\tLateral thinking puzzles and systematic solution approaches[br/][br/]Curriculum (Practical part)[br/]1.\tBrainstorming exercises (Plenum)[br/]2.\tLateral thinking puzzles (Plenum)[br/]3.\tSystematic solution of a tough scientific/engineering problem (Small groups)[br/]4.\tPoster preparation (Groups: Problem+Process+Solution)[br/]5.\tDebriefing session[br/]",
+      "Prérequis":"Basic education (bachelor level) in an engineering or scientific discipline",
+      "Mots clés":"Creativity, systematic problem solving, morphological analysis, Polya approach, lateral thinking"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Creative Problem Solving in Science and Engineering",
+    "recitation":{
+      "total_hours":2
+    },
+    "exam_form":"Mémoire",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  }
+}

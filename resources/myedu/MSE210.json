@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352055084&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","210"],
+    "title":"Functional properties of materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352055084&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course relates the different classes of materials with their characteristics and functional properties like:[br/][br/][br/]1.\tThermal properties and temperature behavior[br/]2.\tOptical properties[br/]3.\tElectrical properties[br/]4.\tMagnetic properties[br/]5.\tSize effects[br/][br/]",
+      "Content":"The main objective of this course is to present the concepts allowing the understanding of the fundamental principles that enable to predict the properties of the materials. The goal is that with these concepts, later on one will be able to realize \"material design\"; and/or to understand novel materials that do not fall in any of the classic materials category. [br/]This course will make the link between the introduction to materials science course and the different types of materials which are usually studied in a separate way.[br/]This course is accompanied with a series of experimental classes with the objective to show in a practical way the concepts seen in the class.[br/][br/]",
+      "Type of teaching":"ex cathedra, exercises sessions"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Functional properties of materials",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182447",
+      "name":"Fontcuberta i Morral Anna"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"ex cathedra, sessions d'exercices",
+      "Contenu":"Ce cours a comme objectif de présenter les concepts nécessaires à la compréhension des principes fondamentaux afin d'être capable de prédire les propriétés d'un matériau. Ces  concepts vous permettront de réaliser du \"material design\" et de comprendre même des nouveaux matériaux qui ne rentrent pas dans la catégorie des matériaux classiques. [br/]Ce cours créera un lien entre le cours \"Introduction à la science des matériaux\" et les différentes classes de matériaux principaux qui sont étudiés séparément.[br/]Des TPs qui ont comme objectif de mettre en relief les concepts vus dans la partie théorique sont prévus dans ce cours.[br/]",
+      "Objectifs d'apprentissage":"Il s'agit d'un cours qui met en relation la nature des différents matériaux existants avec leurs caractéristiques et propriétés fonctionnelles comme :[br/][br/]1.\tPropriétés thermiques et comportement avec la température.[br/]2.\tPropriétés optiques[br/]3.\tPropriétés électriques[br/]4.\tPropriétés magnétiques[br/]5.\tEffets de taille[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Propriétés fonctionnelles des matériaux",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

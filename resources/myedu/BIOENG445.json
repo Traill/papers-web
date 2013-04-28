@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839100255&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","445"],
+    "title":"Biomedical optics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839100255&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-B",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106697",
+      "name":"Wagnières Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam (2/3) + presentation (1/3)",
+      "Bibliography and material":"Mycek & Pogue, \"Handbook of Biomedical Fluorescence\", Dekker, 2003.[br/]R. Splinter & B.A. Hooper, \"An introduction to Biomedical Optics\", Taylor&Francis, 2007.",
+      "Prerequisite for":"Academic research and R/D activities in the industry of this field",
+      "Required prior knowledge":"Notions de base en biologie, chimie et optique",
+      "Content":"[b]Introduction[/b] [br/]Brief history[br/]Introduction to general optics and tissue optics[br/]Radiometry and Photometry[br/]Light dosimetry[br/]Light-tissues interactions[br/]Introduction to molecular spectroscopy[br/]Dyes and luminophores[br/][b]Principles and techniques[/b][br/]Absorption, fluorescence, vibrational and Raman spectroscopies and imaging.[br/]Time-resolved spectroscopy and imaging.[br/]Light sources, detectors and optical systems.[br/][b]Applications[/b][br/]Analytical techniques, oxymetry, optical biosensors, Photodetection of early cancers with exogenous and endogenous dyes, Angiography, Phototherapy and Photodynamic therapy.",
+      "Learning outcomes":"To introduce the principles governing the interactions between light and biological tissue, and more specifically, the role of light activated molecules in biology and medicine.[br/]To describe the relevant spectral, photochemical and photobiological concepts used in this field.[br/]To enable the student to communicate and interact directly with scientists as well as medical researchers in this field.[br/]Besides obtaining a solid knowledge of the basic principles of photobiology and photomedicine, the student will also become familiar with the instrumentation used in this area. [br/]The most important applications of the basic photobiological principles in the life sciences and in medicine will be described. Finally, industrial applications and developments will be presented."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomedical optics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7503-0938-7&amp;con_lng=ENG\" target=\"blank\">An introduction to biomedical optics / Robert Splinter, Brett A. Hooper</a>\". Year:2007. ISBN:978-0-7503-0938-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8247-0955-1&amp;con_lng=ENG\" target=\"blank\">Handbook of biomedical fluorescence / ed. by Mary-Ann Mycek ... [et al.]</a>\". Year:2003. ISBN:0-8247-0955-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106697",
+      "name":"Wagnières Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Anciennement cours \"Photomédecine\"",
+      "Prérequis":"Notions de base en biologie, chimie et optique",
+      "Bibliographie et matériel":"Mycek & Pogue, \"Handbook of Biomedical Fluorescence\", Dekker, 2003.[br/]R. Splinter & B.A. Hooper, \"An introduction to Biomedical Optics\", Taylor&Francis, 2007.",
+      "Forme d'enseignement":"Ex catedra + recherche demandée",
+      "Contenu":"[b]Introduction[/b][br/]Brève historique[br/]Eléments d'optique générale et d'optique des tissus[br/]La radiométrie et la photométrie[br/]La dosimétrie de lumière[br/]Interaction lumière-tissus[br/]Introduction à la spectroscopie moléculaire[br/]Colorants, fluorophores[br/][b]Principes et techniques[/b][br/]Spectroscopie et imagerie d'absorption, de fluorescence, vibrationnelle et Raman. Spectroscopie et imagerie résolues en temps.[br/]Sources de lumière, détecteurs et systèmes optiques.[br/][b]Applications[/b][br/]Techniques analytiques, oxymétrie, biosenseurs optiques, photodétection de cancers précoces à l'aide de colorants endogènes et exogènes, angiographie, photothérapie et thérapie photodynamique.",
+      "Forme du contrôle":"Examen Oral (2/3) + présentation (1/3)",
+      "Préparation pour":"Master. La recherche académique ou la R/D industrielle.",
+      "Objectifs d'apprentissage":"Introduire les principes régissant les interactions de la lumière avec les tissus biologiques et, d'une façon plus spécifique, le rôle de molécules photo-activables en biologie et en médecine. Décrire les concepts spectroscopiques,  photochimiques et photobiologiques les plus importants de ce domaine.[br/]Permettre aux étudiants de communiquer et d'interagir directement avec les scientifiques et médecins du domaine. Mis à part l'assimilation des principes de base de la photobiologie et de la photomédecine, l'étudiant se familiarisera avec les instrumentations utilisées dans ce domaine. [br/]Les applications les plus importantes de ces principes dans les sciences du vivant ainsi qu'en médecine seront abordées. Finalement, quelques développements et applications industriels seront présentés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomedical optics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7503-0938-7&amp;con_lng=FRE\" target=\"blank\">An introduction to biomedical optics / Robert Splinter, Brett A. Hooper</a>\". Année:2007. ISBN:978-0-7503-0938-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8247-0955-1&amp;con_lng=FRE\" target=\"blank\">Handbook of biomedical fluorescence / ed. by Mary-Ann Mycek ... [et al.]</a>\". Année:2003. ISBN:0-8247-0955-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128679600&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","607"],
+    "title":"Highlights in microtechnology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128679600&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDPR",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://phd.epfl.ch/page83590.html","http://phd.epfl.ch/page83590.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111056",
+      "name":"Giovannini Marcella"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course offers 10 intensive days of lectures and practicals on various topics at the hearth of microtechnology. It is articulated on two thematic weeks: \"general methods for microtech-nology\" and a second topic changing every year: in 2008: \"Microtechnology for Space Applications\" and in 2009: \"Micro-optics and Metrology Systems\".  The course offers high-specialized lectures in the mornings, and hands-on experiences or visits to high-tech companies in the afternoons.[br/]A maximum of 30 students is accepted for the course. This number is set by the laboratories capacities: 6 students per laboratory. [br/]",
+      "Content":"The course include lectures and laboratories on the following subjects: Micro-Optics, MEMS, 3D micro-machining, Microrobotics, Nanomaterials, Self-assembly processes, AFM, SEM, TEM... Other subjects are treated, which change every year. Each lecture lasts 2 hours and is given by a different professor. Students may choose 2 laboratories out of 5, each one lasting two af-ternoons. In addition, shorter workshops are  organized on micromachining, microrobotic, microassembly and microactuators.[br/]Two visits to High-Tech companies are organized.  [br/]",
+      "Required prior knowledge":"Master in Microtechnology or a related topic.[br/]"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Highlights in microtechnology",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://phd.epfl.ch/page83590.html","http://phd.epfl.ch/page83590.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111056",
+      "name":"Giovannini Marcella"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course include lectures and laboratories on the following subjects: Micro-Optics, MEMS, 3D micro-machining, Microrobotics, Nanomaterials, Self-assembly processes, AFM, SEM, TEM... Other subjects are treated, which change every year. Each lecture lasts 2 hours and is given by a different professor. Students may choose 2 laboratories out of 5, each one lasting two af-ternoons. In addition, shorter workshops are  organized on micromachining, microrobotic, microassembly and microactuators.[br/]Two visits to High-Tech companies are organized.  [br/]",
+      "Prérequis":"Master in Microtechnology or a related topic.",
+      "Objectifs d'apprentissage":"The course offers 10 intensive days of lectures and practicals on various topics at the hearth of microtechnology. It is articulated on two thematic weeks: \"general methods for microtech-nology\" and a second topic changing every year: in 2008: \"Microtechnology for Space Applications\" and in 2009: \"Micro-optics and Metrology Systems\".  The course offers high-specialized lectures in the mornings, and hands-on experiences or visits to high-tech companies in the afternoons.[br/]A maximum of 30 students is accepted for the course. This number is set by the laboratories capacities: 6 students per laboratory. [br/]"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Highlights in microtechnology",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  }
+}

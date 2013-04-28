@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354337707&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","310"],
+    "title":"Microprogrammed Embedded Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354337707&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Practical evaluations, midterm exam (35% of final grade) during the semester, oral exam at the end of the semester (65% of final grade)",
+      "Bibliography and material":"Polycopié - &#8220;Course Notes&#8221;,[br/]Support and list of references provided in class, cf. in course URL ",
+      "Required prior knowledge":"Software engineering project, Microprogrammed systems ",
+      "Content":"[b]Introduction to microprogrammed embedded system[/b][br/]- Introduction to Nintendo DS hardware platform[br/]- Introduction to cross-compiler software tool-chain and GUI[br/] [br/][b]Microprocessor unit and embedded memory hierarchy [/b][br/]- Microprocessors architecture in Nintendo DS [br/]- Bus and memory hierarchy organization [br/]- Combined C-assembly programming [br/]- DMA and memory management [br/][br/][b]I/O management and peripheral circuits [/b][br/]- Description of I/O peripheral in Nintendo DS[br/]- Single-source interrupt controllers [br/]- Buttons interface and management [br/]- Keyboard interface and management[br/]- LCD Screen drawing interface and management[br/]- Touchscreen interface and management[br/]- Sound interface and management[br/][br/][b]Game development in Nintendo DS [/b] [br/]- Partitioning of game functionality[br/]- Multi-source input interrupt controllers[br/]- Advanced graphics programming[br/]- Wireless connectivity (Bluetooth, WiFi)[br/]",
+      "Type of teaching":"Ex cathedra and individual/group laboratories ",
+      "Learning outcomes":"The student will get to know the architecture of microprogrammed embedded systems, including the microprocessor architecture, memory hierarchy and different input/output peripherals, using as case study the Nintendo DS portable platform."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Microprogrammed Embedded Systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Projet de programmation, Systèmes microprogrammés",
+      "Bibliographie et matériel":"Notes de cours - Polycopié, [br/]Support et liste de références distribués en cours, cf. URL du cours ",
+      "Forme d'enseignement":"Ex cathedra, et TP individuel et par groupes ",
+      "Contenu":"[b]Introduction aux systèmes embarqués microprogrammés[/b] [br/]- Introduction à la plate-forme physique de la Nintendo DS[br/]- Introduction au logiciel de compilation et GUI[br/][br/][b]Microprocesseur et hiérarchie de mémoire[/b]  [br/]- Architecture des microprocesseurs dans la Nintendo DS [br/]- Organisation de la hiérarchie de mémoire et bus [br/]- Programmation combinée C-assembleur [br/]- DMA et gestion de la mémoire [br/][br/][b]Gestion de l'E/S et des circuits périphériques[/b]  [br/]- Description des périphériques et de l'E/S dans la Nintendo DS[br/]- Contrôleurs d'interruption simple [br/]- Interface et gestion des boutons [br/]- Interface et gestion du clavier[br/]- Interface pour dessiner sur l'écran LCD et sa gestion[br/]- Interface et gestion de l'écran tactile[br/]- Interface et gestion du son[br/][br/][b]Développement des jeux avec la Nintendo DS[/b]   [br/]- Division des fonctions des jeux[br/]- Contrôleurs d'interruption complexe [br/]- Programmation avancée des graphiques [br/]- Connexion sans fils (Bluetooth, WiFi)[br/]",
+      "Forme du contrôle":"Evaluations pratiques, midterm exam (35% de la note finale) durant le semestre, examen oral à la fin du semestre (65% de la note finale)",
+      "Objectifs d'apprentissage":"L'étudiant comprendra les architectures des systèmes embarqués microprogrammés, les architectures des microprocesseurs, hiérarchie de mémoire et les différents périphériques de Entrée/Sortie (E/S) inclus, utilisant comme étude de cas la plate-forme portable Nintendo DS."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes embarqués microprogrammés",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

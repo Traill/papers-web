@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837338631&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","300"],
+    "title":"Hyperbolic and parabolic partial differential equations",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837338631&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105837",
+      "name":"Metzener Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Exposition of some general methods and principles useful for a classical analysis of the existence and the regularity of the solutions of partial differential equations.",
+      "Content":"- Linear systems with constant coefficients: symbol of the differential operator, well posed problems, hyperbolic and parabolic systems[br/]- Introduction to the wave equation and to the heat equation in IRn[br/]- Maximum principle, existence and unicity of solutions[br/]- Separation of the variables and related eigenvalue problems",
+      "Type of teaching":"Ex cathedra, exercises in the classroom",
+      "Required prior knowledge":"Analysis I to IV"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hyperbolic and parabolic partial differential equations",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-89871-565-2&amp;con_lng=ENG\" target=\"blank\">Initial-boundary value problems and the Navier-Stokes equations / Heinz-Otto Kreiss, Jens Lorenz</a>\". Year:2004. ISBN:0-89871-565-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50447-5&amp;con_lng=ENG\" target=\"blank\">Methods of mathematical physics / by R. Courant and D. Hilbert</a>\". Year:1989. ISBN:0-471-50447-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-65964-X&amp;con_lng=ENG\" target=\"blank\">Partial differential equations of mathematical physics / S. L. Sobolev; transl. from the third Russian ed. by E. R. Dawson</a>\". Year:1989. ISBN:0-486-65964-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105837",
+      "name":"Metzener Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"- Systèmes linéaires à coefficients constants : symbole de l'opérateur différentiel, problèmes bien posés, systèmes hyperboliques et paraboliques[br/]- Introduction à l'équation des ondes et à l'équation de la chaleur dans IRn[br/]- Principe du maximum, existence et unicité des solutions[br/]- Séparation des variables et problèmes aux valeurs propres relatifs",
+      "Prérequis":"Analyse I à IV",
+      "Bibliographie et matériel":"John F. : Partial Differential Equation, Springer, 1971.[br/]H.-O. Kreiss & J. Lorenz : Initial-Boundary Value Problems and the Navier-Stokes Equations, Academic Press, 1989.[br/]R. Courant & D. Hilbert : Methods of mathematical physics, Vol. II, Wiley, 1989.[br/]S. L. Sobolev : Partial differential equations of mathematical physics, Dover, 1989.",
+      "Objectifs d'apprentissage":"Présentation de quelques méthodes et principes généraux qui permettent une analyse classique de l'existence et de la régularité des solutions d'équations aux dérivées partielles."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Equations aux dérivées partielles hyperboliques et paraboliques",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-89871-565-2&amp;con_lng=FRE\" target=\"blank\">Initial-boundary value problems and the Navier-Stokes equations / Heinz-Otto Kreiss, Jens Lorenz</a>\". Année:2004. ISBN:0-89871-565-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50447-5&amp;con_lng=FRE\" target=\"blank\">Methods of mathematical physics / by R. Courant and D. Hilbert</a>\". Année:1989. ISBN:0-471-50447-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-65964-X&amp;con_lng=FRE\" target=\"blank\">Partial differential equations of mathematical physics / S. L. Sobolev; transl. from the third Russian ed. by E. R. Dawson</a>\". Année:1989. ISBN:0-486-65964-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

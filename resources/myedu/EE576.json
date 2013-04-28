@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584767964&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","576"],
+    "title":"Electromagnetic compatibility",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584767964&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course objective is to apply the general electromagnetic laws to the problems of electromagnetic pollution of the environment, and the effect on electronic devices and sensitive communication systems. By the end of the course the students will have a good understanding of a general EMC problem between a source of EM disturbance and a perturbed system; they will be able to find potential sources of EM pollution in a given environment; and to choose an optimal protection technique based on theoretical and practical studies.",
+      "Content":"[b]1. EMC concept : [/b]Source of EM disturbances, victims, coupling path. Incompatibility problems and hierarchy of responsibilities.[br/][b]2. Coupling Modes : [/b]Galvanic, inductive, capacitive, radiation. Calculation methods. Definition of and methods of measuring and calculating transfer impedance.[br/][b]3. Low Frequency coupling models : [/b]Inductive and capacitive coupling. Equivalent coupling circuit. Determination of mutual capacitance and inductance. Methods for reducing interferences. Shielded and twisted cables[br/][b]4. Transmission line coupling models : [/b]Transmission line parameters. Source term representation. Time-domain and frequency-domain solution of coupling equations. Coupling to shielded cables.[br/][b]5. Electrosatic discharge : [/b]Causes, effects and protection methods.[br/][b]6. EMC in electronic circuits :[/b] Grounding. Radiation of digital circuits. Protective measures[br/][b]7. Shielding : [/b]Perfect shield. Field penetration. Shielding effectiveness. Shielding materials. Static field shielding. Shielding continuity. Apertures.[br/][b]8. EMC in telecommunications. Biological effects of electromagnetic fields.[/b]  [br/][b]9. Lightning electromagnetic effects : [/b]Lightning phenomena. Different categories of lightning discharge. Cloud-to-ground lightning discharge. Direct and indirect effects of lightning.",
+      "Form of examination":"During the semester",
+      "Required prior knowledge":"Electromagnetics I and II "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electromagnetic compatibility",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-75500-5&amp;con_lng=ENG\" target=\"blank\">Introduction to electromagnetic compatibility / Clayton R. Paul</a>\". Year:2006. ISBN:978-0-471-75500-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Electromagnétisme I et II",
+      "Bibliographie et matériel":"Notes polycopiées, CD ROM du cours , \"Introduction to Electromagnetic Compatibility\" Clayton Paul, Wiley Interscience, 1992 ",
+      "Forme d'enseignement":"Cours ex cathedra et ex. intégrés",
+      "Contenu":"[b]1. Concept de la CEM: [/b] Eléments perturbateurs, éléments perturbés, couplages. Problèmes d'incompatibilité et hiérarchie des responsabilités.[br/][b]2. Modes de couplage[/b] Galvanique, inductif, capacitif, par rayonnement. Méthodes de calcul des quatre types de couplages. Définition et méthodes de mesure et de calcul de l'impédance de transfert.[br/][b]3. Modèles de couplage en basse fréquence:[/b] Couplage capacitif et inductif. Circuit de couplage équivalent. Méthodes de calcul des inductances et des capacités mutuelles. Méthodes de réduction de couplage. Câbles blindés et torsadés.[br/][b]4. Modèles de couplage avec des lignes de transmission: [/b]Paramètres de lignes de transmission. Représentation des sources. Résolution des équations de couplage dans les domaines temporel et fréquentiel. Couplage avec les câbles blindés.[br/][b]5. Décharges électrostatiques: [/b]Causes, effets et moyens de s'en protéger.[br/][b]6. Perturbations dans les circuits électroniques:[/b] Mise à la terre. Rayonnement des circuits numériques. Mesures de protection.[br/][b]7. Blindage:[/b] Blindage parfait. Pénétration de champ. Efficacité de blindage. Matériaux de blindage. Blindage de champs statiques. Continuité de blindage. Ouvertures.[br/][b]8. CEM dans les télécommunications. Effets biologiques des champs électromagnétiques.[/b][br/][b]9. Effets électromagnétiques de la foudre: [/b]Phénoménologie. Différentes catégories de coup de foudre. Description des éclairs nuage-sol. Effets directs et indirects de la foudre.",
+      "Forme du contrôle":"Pendant le semestre",
+      "Objectifs d'apprentissage":"L'objectif du cours est d'appliquer les lois générales de l'électromagnétisme aux problèmes de pollution électromagnétique de l'environnement et de son effet sur l'électronique et des systèmes de communication sensibles. A la fin du cours les étudiants seront capables d'avoir une approche globale d'un problème de compatibilité électromagnétique entre un système perturbateur et un système perturbé, de rechercher l'ensemble des causes potentielles de perturbations dans un environnement donné, et de choisir une technique de protection optimale sur la base d'études théoriques et pratiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electromagnetic compatibility",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-75500-5&amp;con_lng=FRE\" target=\"blank\">Introduction to electromagnetic compatibility / Clayton R. Paul</a>\". Année:2006. ISBN:978-0-471-75500-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

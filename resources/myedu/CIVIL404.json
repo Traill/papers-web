@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71544008&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","404"],
+    "title":"Underground construction technology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71544008&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163925",
+      "name":"Sandrone Federica"
+    },{
+      "url":"http://people.epfl.ch/169975",
+      "name":"Zhao Jian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Underground construction technology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163925",
+      "name":"Sandrone Federica"
+    },{
+      "url":"http://people.epfl.ch/169975",
+      "name":"Zhao Jian"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Rock Mechanics and Tunnel Engineering",
+      "Bibliographie et matériel":"Duplicated notes (polycopié)",
+      "Forme d'enseignement":"Ex Cathedra, description of real projects and exercises",
+      "Contenu":"[br/][li]  Geo-planning and design of underground space: geological considerations and investigations, integrated planning-design process.[br/][br/][li]  Underground construction technologies: conventional and machines tunnelling, pipe-jacking, shaft construction, ground improvement and waterproofing, temporally and permanent supports, instrumentation and monitoring, ventilation, risk assessment, construction management, construction safety.[br/][br/][li]  Tunnel maintenance and refurbishment: long-term deterioration and instability, inspection methods, maintenance and repair, tunnel refurbishment.[br/][br/][li]  Examples of projects: urban underground space and tunnels, mountain tunnels, sub-water tunnels, large rock caverns, tunnel rehabilitation.[br/]",
+      "Forme du contrôle":"Continuos examination on the tunnel Project development: written report, plans and final presentation",
+      "Préparation pour":"Master project",
+      "Objectifs d'apprentissage":"To acquire in-depth knowledge of underground space and underground construction technologies, including planning, construction methods, safety, and environmental considerations."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Underground construction technology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

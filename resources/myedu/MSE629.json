@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1600849832&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","629"],
+    "title":"Design and analysis of experiments in materials science and engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1600849832&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105649",
+      "name":"Lemaître Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Note":"Intensive one-week course. MS Excel spreadsheets used for practical work",
+      "Bibliography and material":"Reference book: D.C. Montgomery &#8220;Design and Analysis of Experiments&#8221; Wiley & Sons, NY.",
+      "Required prior knowledge":"Basic statistics and materials science, MS Excel[br/]",
+      "Content":"Introduction: [br/][li]Experimental system; inputs and outputs; factors; treatments; tests; experience[br/][li]Optimization; problem solving[br/][br/]Refreshment of basic statistics: [br/][li]Descriptive statistics (statistical population, sampling, mean, standard deviation, standard distribution)[br/][li]Hypothesis testing (Type I and type II error risks)[br/][li]Statistical tests (Student's t-test, F- test, Khi-2 test)[br/][br/]Simple comparison designs:[br/][li]Comparing two data sets: differences between means, variance ratios[br/][li]Sensitivity and power: how many tests are required ?[br/][li]Randomization: how to prevent systematic effects of parasitic factors ?[br/][br/]Single factor designs:[br/][li]Statistical model[br/][li]Analysis of variance (ANOVA)[br/][li]Model adequacy checking (residuals analysis)[br/][li]Fully randomized vs randomized complete block designs[br/][li]Choice of sample size[br/][br/]Multifactorial designs:[br/][li]Main factor effects, interactions[br/][li]2k factorial designs[br/][li]Single replica of multifactorial designs[br/][li]Partial multifactorial designs[br/][br/]Case studies:[br/][li]Building materials, metals and alloys, ceramics, composites [br/][li]Biomaterials (in vitro, in vivo and clinical experiments)  [br/]",
+      "Keywords":"DOE, ANOVA, statistical analysis, experimental methodology",
+      "Learning outcomes":"Provide the student with the skills and tools necessary for a wise and efficient orgqnization of his-her experimental work in all fields of materials science and technology (development, processing and caracterization of materials)"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Design and analysis of experiments in materials science and engineering",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-39882-1&amp;con_lng=ENG\" target=\"blank\">Design and analysis of experiments / Douglas C. Montgomery</a>\". Year:2009. ISBN:978-0-470-39882-1</li></ul>",
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105649",
+      "name":"Lemaître Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Design and analysis of experiments in materials science and engineering",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-39882-1&amp;con_lng=FRE\" target=\"blank\">Design and analysis of experiments / Douglas C. Montgomery</a>\". Année:2009. ISBN:978-0-470-39882-1</li></ul>",
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

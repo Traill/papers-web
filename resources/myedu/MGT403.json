@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=908971448&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MGT","403"],
+    "title":"Economics of innovation in the biomedical industry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=908971448&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"MTE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141288",
+      "name":"Foray Dominique"
+    },{
+      "url":"http://people.epfl.ch/148690",
+      "name":"Mack Jan Alexander Karl"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To gain competences and knowledge in the economic aspects of R&D, innovation and competition in the pharma/biomedical industry; the current impact of the economic crisis on the organization and sustainability of the industry structures in this sector; the political decision making process to promote efficiency of therapeutic products from research to patients with a particular emphasis on the North-South issue.",
+      "Content":"The course alternates between the basic principles of microeconomics (consumer theory, production theory, State interventions on the markets, imperfect competition, public goods) and the economic fundamentals of innovation in the pharma/biomedical sector (price formation, intellectual property rights, etc..) ",
+      "Keywords":"Microeconomics, externality, public good, intellectual property right, imperfect competition, price formation"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Economics of innovation in the biomedical industry",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141288",
+      "name":"Foray Dominique"
+    },{
+      "url":"http://people.epfl.ch/148690",
+      "name":"Mack Jan Alexander Karl"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Les documents seront fournis au début de chaque cours.[br/][br/][b]Les étudiants sont encouragés à prendre connaissance des documents ci-dessous:[/b][br/] [br/]http://links.jstor.org/sici?sici=0895-3309%28200223%2916%3A4%3C67%3APATDW%3E2.0.CO%3B2-P[br/]http://mondediplo.com/2003/07/10velasquez.html[br/]http://bmj.com/cgi/content/full/333/7582/1279[br/]http://www.remed.org/ReMed_N29.pdf[br/]www.cgdev.org/files/2842_file_CGDbrief_pharmaceutical.pdf[br/]http://medicine.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pmed.0020302[br/]http://en.wikipedia.org/wiki/TRIPS ",
+      "Mots clés":"Micro-économie, externalité, bien public, droit de propriété intellectuelle, concurrence imparfaite, formation des prix.",
+      "Forme d'enseignement":"Lecture, travaux pratiques.",
+      "Contenu":"Le cours alterne un enseignement de microéconomie de base (théorie du consommateur et de la production, intervention de l'Etat, concurrence imparfaite, bien public) et un enseignement sur les fondamentaux économiques de l'innovation dans ce secteur (formation des prix, propriété intellectuelle, etc.)",
+      "Forme du contrôle":"Deux examens (microéconomie / économie de l'innovation)",
+      "Objectifs d'apprentissage":"Il s'agit d'acquérir des connaissances au sujet des aspects économiques de la R&D, innovation et concurrence dans le secteur de la pharmacie et du biomédical; de l'impact actuel de la crise économique sur l'organisation et la viabilité des structures industrielles dans ce secteur; des processus politiques de décisions visant à promouvoir l'efficience des produits thérapeutiques depuis la recherche jusqu'au patient avec un accent particulier sur les problématiques Nord-Sud."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Economics of innovation in the biomedical industry",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

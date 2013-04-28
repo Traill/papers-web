@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705566&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","112(b)"],
+    "title":"Computer-aided engineering II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705566&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=en",
+    "section":"SV",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":4.0,
+    "links":[["http://cowww.epfl.ch/infosv","http://cowww.epfl.ch/infosv"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149007",
+      "name":"Lepetit Vincent"
+    },{
+      "url":"http://people.epfl.ch/106336",
+      "name":"Sam Jamila"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control :[br/]-\tProgramming test[br/]-\tWritten test (2h)[br/]-\tMini project[br/]",
+      "Prerequisite for":"Computer-aided engineering IIII (SV)[br/]Bio-mathematical computer-aided engineering ",
+      "Required prior knowledge":"Computer-aided engineering I (SV)",
+      "Content":"-\tFrom C to C++[br/]-\tIntroduction to some algorithmic key concepts through the presentation of examples and the implementation of known algorithms [br/]-\tKey concepts of object-oriented programming (in C++) : objects, classes, encapsulation, inheritance, polymorphism[br/]-\tThe standard template library (STL)[br/][br/]-\tThe course topics will heavily rely on practical exercises[br/][br/]",
+      "Type of teaching":"Ex cathedra, practical work on computer (mini project)",
+      "Learning outcomes":"The fundamentals of programming introduced in the course Computer-aided engineering I will be complemented with more advanced features The emphasis will be put on the object-oriented approach using the C++ language. The object-oriented approach provides tools for a better reliability and reusability of programs. [br/]This course will also present some algorithmic fundamental concepts.[br/][br/][br/][br/][br/][br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computer-aided engineering II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":4.0,
+    "links":[["http://cowww.epfl.ch/infosv","http://cowww.epfl.ch/infosv"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149007",
+      "name":"Lepetit Vincent"
+    },{
+      "url":"http://people.epfl.ch/106336",
+      "name":"Sam Jamila"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Informatique I (SV)",
+      "Bibliographie et matériel":"Notes téléchargeables sur le web; livre(s) de référence indiqué(s) en début de semestre",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur (mini-projet)",
+      "Contenu":"-    Éléments de transition de C à C++[br/]-    Introduction à quelques notions fondamentales d'algorithmique (coût algorithmique, structure de données abstraites)[br/]-    Fondements de l'approche objet: classes, encapsulation, héritage, polymorphisme[br/]-    Bibliothèque d'outils standards (STL)[br/][br/]Les concepts théoriques, introduits lors des cours magistraux, seront mis en pratique dans le cadre d'exercices sur machines. [br/]",
+      "Forme du contrôle":"Contrôle continu:[br/]-\tSérie notée intermédiaire[br/]-\tTest écrit (2h)[br/]-\tMini-projet[br/]",
+      "Préparation pour":"Informatique III (SV)[br/]Programmation bio-mathématique",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de permettre à l'étudiant :[br/][br/][li]\td'approfondir les connaissances théoriques et pratiques acquises dans les cours Informatique I[br/][li]\tdévelopper ses compétences en programmation. L'accent sera mis sur l'approche par objet à l'aide du langage C++. L'approche par objet renforce la réutilisabilité, la maintenabilité et la fiabilité des programmes. [br/][li]\tde se familiariser avec quelques concepts clé d'algorithmique (coût algorithmique, structures de données abstraites, ...)[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Informatique II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

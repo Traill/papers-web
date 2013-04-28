@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72495894&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","400"],
+    "title":"Air pollution",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72495894&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104698",
+      "name":"Calpini Bertrand"
+    },{
+      "url":"http://people.epfl.ch/221094",
+      "name":"Takahama Satoshi"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The objective of the class is to provide an in-depth understanding of [br/][li]the physical and chemical processes that contribute to air pollution form the local to the global scales[br/][li] the different methods to measure and analyse air pollution issues (including numerical and analytical methods)[br/][li] the possible solutions to air pollution problems[br/]",
+      "Content":"[br/][li]Atmospheric pollutants and their effects on the environment[br/][li]Emissions[br/][li]Air quality models[br/][li]Air quality measurements[br/][li]Abattement strategies[br/][li]Environmental laws[br/]",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Form of examination":"30 % continuous control (exercises)[br/]70 % final written test (90 min)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Air pollution",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104698",
+      "name":"Calpini Bertrand"
+    },{
+      "url":"http://people.epfl.ch/221094",
+      "name":"Takahama Satoshi"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra et exercices",
+      "Contenu":"[li]Polluants atmosphériques et leurs effets sur l'environnement[br/][li]Émissions[br/][li]Modèles numériques de qualité de l'air[br/][li]Mesures de la qualité de l'air[br/][li]Stratégies de réduction de la pollution[br/][li]Normes environnementales[br/]",
+      "Forme du contrôle":"30 % contrôle continu (exercices) [br/]70 % examen final écrit (90 min)",
+      "Objectifs d'apprentissage":"L'objectif du cours est de décrire quantitativement [br/][li]les processus physico-chimiques qui contribuent à la pollution de l'air depuis l'échelle locale jusqu'à l'échelle globale[br/][li]les méthodes qui permettent de mesurer et d'analyser les problèmes de pollution de l'air (méthodes numériques et analytiques)[br/][li]les solutions possibles (par exemple méthodes physico-chimiques de traitement des rejets dans les effluents gazeux)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Air pollution",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

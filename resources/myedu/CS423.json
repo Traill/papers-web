@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773292&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","423"],
+    "title":"Distributed information systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773292&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"SC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lsirwww.epfl.ch/students.htm","http://lsirwww.epfl.ch/students.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/134136",
+      "name":"Aberer Karl"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"25% Continuous evaluations with system Bonus during the semester[br/]75% Final written exam (180 min) during exam session",
+      "Bibliography and material":"Notes de cours polycopiés",
+      "Required prior knowledge":"Bases de données relationnelles or Introduction to information systems[br/]",
+      "Content":"[i]Distributed data management:[/i] Database fragmentation, Mobile data management, Peer-2-peer data management;[br/][i]Semistructured Data Management:[/i] Semistructured data models, Schema extraction and indexing, Semantic Web;[br/][i]Information Retrieval:[/i] Text indexing, Standard information retrieval, Web search engines[br/][i]Data Mining:[/i] Association Rule Mining, Classification, Clustering[br/][br/]",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Learning outcomes":"The lecture gives an overview of key problems in Web-based and mobile information management.[br/]It introduces in detail a selection of characteristic approaches, both from practice and research, and thus creates awareness for the specific challenges in distributed information management and typical solutions. [br/]The students will be able to identify the different problem classes in distributed information management (e.g. mobile data management) and corresponding techniques for solving them (e.g. indexing structures), to understand various standard methods in distributed information management (e.g. vector space information retrieval) and to apply these methods to (simple) practical problems.[br/]We proceed at increasing levels of abstraction. We start from the physical aspects of managing distributed and mobile data (distribution, indexing). Then we introduce into methods for managing the logical structure of Web documents (semistructured data). Finally, we introduce basic methods for dealing with the semantics of documents and data, both for search (information retrieval) and for the extraction of new information (data mining).[br/][br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed information systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lsirwww.epfl.ch/students.htm","http://lsirwww.epfl.ch/students.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/134136",
+      "name":"Aberer Karl"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Bases de données relationnelles ou Introduction to information systems",
+      "Bibliographie et matériel":"Notes de cours polycopiés",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"[i]Distributed data management:[/i] Fragmentation de base de données, gestion des données mobile, gestion des données de Peer-2-peer;[br/][i]Semistructured Data Management:[/i]  Modèles de données semistructurés, extraction de schéma et indexation, enchaînement sémantique;[br/][i]Information Retrieval:[/i] Indexation des textes, recherche documentaire standard, moteurs de recherche du Web:[br/][i]Data Mining :[/i] Exploitation de Règle d'Association, Classification, Groupement[br/]",
+      "Forme du contrôle":"25% Contrôle continu durant le semestre, avec système Bonus[br/]75% Examen final écrit (180 min) durant la session d'examen",
+      "Objectifs d'apprentissage":"La conférence donne une vue d'ensemble des problèmes principaux dans la gestion Enchaînement-basée et mobile de l'information.  Elle présente en détail un choix des approches caractéristiques, de la pratique et de la recherche, et crée ainsi la prise de conscience pour les défis spécifiques dans la gestion distribuée de l'information et les solutions typiques.  Les étudiants pourront identifier les différentes classes de problème dans la gestion distribuée de l'information (par exemple gestion des données mobile) et les techniques correspondantes pour les résoudre (par exemple des structures d'indexation), pour comprendre de diverses méthodes standard dans la gestion distribuée de l'information (par exemple recherche documentaire de l'espace de vecteur) et pour s'appliquer ces méthodes aux problèmes pratiques (simples).  Nous procédons aux niveaux croissants de l'abstraction.  Nous commençons à partir des aspects physiques des données distribuées et mobiles de gestion (distribution, classant).  Alors nous présentons dans des méthodes pour contrôler la structure logique des documents d'enchaînement (semistructure des données).  En conclusion, nous présentons des méthodes de base pour traiter la sémantique des documents et des données, pour la recherche (recherche documentaire) et pour l'extraction de nouvelle information (exploitation de données)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Distributed information systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

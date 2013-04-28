@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=52156761&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","720"],
+    "title":"Advanced Stem Cell Biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=52156761&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDBB",
+    "program":"EDBB",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ldcs.epfl.ch","http://ldcs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149977",
+      "name":"Barrandon Yann"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Note":"This course is also proposed to the PhD students of the Neuroscience (EDNE) and of the Cancer and Infection (EDCI) Programs.[br/][br/]Max. 16 students accepted (waiting list available)",
+      "Prerequisite for":"NE-020-Part I. Basic Stem Cell course (EDNE-006 or equiv.)",
+      "Required prior knowledge":"Basic Stem Cell Course or equivalent",
+      "Content":"The following issues (list not limitative) will be raised: nuclear reprogramming, embryonic stem cells, tissue stem cells, stem cell plasticity, stem cell niche, cell and gene therapy, cancer and stem cells",
+      "Keywords":"stem, cell developmental biology, cancer, cell therapy",
+      "Learning outcomes":"This course follows the basic stem cell course. The objective is to develop a critical reading to distuinguish fantasies from realities by in-depth discussion of the latest development in stem cell research. Stem cell patentability, stem cell commercialization and ethics will be discussed. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced Stem Cell Biology",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ldcs.epfl.ch","http://ldcs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149977",
+      "name":"Barrandon Yann"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"course opened to EPFL and UNIL graduate students. Maximum 16 students accepted",
+      "Prérequis":"Basic Stem Cell Course or equivalent",
+      "Mots clés":"stem, cell developmental biology, cancer, cell therapy",
+      "Contenu":"The following issues (list not limitative) will be raised: nuclear reprogramming, embryonic stem cells, tissue stem cells, stem cell plasticity, stem cell niche, cell and gene therapy, cancer and stem cells",
+      "Préparation pour":"NE-020-Part I. Basic Stem Cell course (EDNE-006 or equiv.)",
+      "Objectifs d'apprentissage":"This course follows the basic stem cell course. The objective is to develop a critical reading to distuinguish fantasies from realities by in-depth discussion of the latest development in stem cell research. Stem cell patentability, stem cell commercialization and ethics will be discussed. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced stem cell biology",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23985644&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","370"],
+    "title":"Life cycle analysis and ecobilan",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23985644&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/129626",
+      "name":"Payet Jérôme"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Enable the participants:[br/][li] To know the last Life Cycle Assessment (LCA) methodologies, the basic rules and frameworks for good LCA practice,[br/][li] To criticize an existing LCA, looking rapidly at the key issues,[br/][li] To identify the main environmental issues in a production process",
+      "Content":"Environmental Life Cycle Assessment is a tool to assess the environmental impact of products and systems over the whole product life cycle, from cradle to grave. Teaching will follow these phases of LCA:[br/][li]  LCA compared to other environmental tools[br/][li] Goal and system definition: product or system function and the functional. Criteria for consistent system boundaries.[br/][li] Inventory of resources consumption and emissions to air, water, and soil. (SIMAPRO)[br/][li] Impact assessment, including fate and exposure to pollutants.[br/][li] Interpretation: sensitivity and uncertainty analyses, together with improvement assessment or cost-benefit analysis. Practical examples, group work with \"your products\" and short exercises.[br/][br/] [br/]",
+      "Form of examination":"60% continuous control, 40% written test (45 min) during exam session"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Life cycle analysis and ecobilan",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-886-9&amp;con_lng=ENG\" target=\"blank\">Analyse de cycle de vie : comprendre et réaliser un écobilan / Olivier Jolliet, Myriam Saadé, Pierre Crettaz</a>\". Year:2010. ISBN:978-2-88074-886-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-92-67-10446-1&amp;con_lng=ENG\" target=\"blank\">Management environnemental - analyse du cycle de vie - exigences et lignes directrices / [Comité technique ISO/TC 207, Management environnemental, Sous-comitÃ© SC5, Analyse du cycle de vie] Norme internationale ISO ; 14044</a>\". Year:2006. ISBN:978-92-67-10446-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/129626",
+      "name":"Payet Jérôme"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"L'écobilan ou analyse environnementale du cycle de vie évalue la charge environnementale d'un produit ou d'une activité, du berceau à la tombe. Le cours suit la démarche séquentielle de l'écobilan:[br/][li] Introduction: Spécificités de l'écobilan et comparaison avec d'autres outils d'analyse environnementaux[br/][li]  Définition des objectifs et du système: fonction du système, critères de cohérences pour les limites du système[br/][li]  Inventaire des ressources et des émissions dans l'air, l'eau et le sol (logiciel SIMAPRO)[br/][li]   Analyse de l'impact environnemental[br/][li] Interprétation des résultats. Liens entre impact environnementaux et analyse socio-économique. Application en parallèle sur différents modes de production et d'économie d'énergie. Variété d'exemples concrets.",
+      "Forme du contrôle":"60% contrôle continu, 40% épreuve écrite (45 min) durant la session d'examen",
+      "Bibliographie et matériel":"Analyse du cycle de vie - Comprendre et réaliser un écobilan[br/]O. Jolliet, M. Saadé, P. Crettaz, Presses Polytechniques et Universitaires Romandes, 2005",
+      "Objectifs d'apprentissage":"Permettre aux participants de:[br/][li] Connaître les dernières méthodes et bases de données existantes[br/][li] Analyser et critiquer un écobilan en identifiant ses points clés[br/][li] Avoir appliqué la méthode au travers d'exercices et de l'utilisation d'un software"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse du cycle de vie, écobilan",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-886-9&amp;con_lng=FRE\" target=\"blank\">Analyse de cycle de vie : comprendre et réaliser un écobilan / Olivier Jolliet, Myriam Saadé, Pierre Crettaz</a>\". Année:2010. ISBN:978-2-88074-886-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-92-67-10446-1&amp;con_lng=FRE\" target=\"blank\">Management environnemental - analyse du cycle de vie - exigences et lignes directrices / [Comité technique ISO/TC 207, Management environnemental, Sous-comitÃ© SC5, Analyse du cycle de vie] Norme internationale ISO ; 14044</a>\". Année:2006. ISBN:978-92-67-10446-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72915450&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","432"],
+    "title":"Laboratory work legislation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72915450&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148581",
+      "name":"Marendaz Jean-Luc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To know the Acts on work with chemicals and the legal requirements for users. To put oneself in the situation of a lab manager who makes its own staff carry out an experimental work in a safe way with chemical products. To be able to propose adecuate and preventive measures in order to limit physical dangers and dangers for the health in a raisonnable and adapted way (i.e. control equipment, cooling, ventilation, gloves choice, etc...)[br/][br/]",
+      "Content":"[li] Law for working with chemical substances (LChim, OChim and ORRChim)[br/][tab]- classification of hazards and criteria: physical hazards, health hazards, environmental hazards[br/][tab]- commitments to suppliers and users[br/][tab]- user's safety information on hazards and protection measures: European labelling and General Harmonized System (GHS), Material safety data sheet (MSDS)[br/][tab]- special disposition for particular classes of compounds[br/][br/][li] If time permits, initiation to quality process called \"Good Laboratory Practices\" (GLP)[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Laboratory work legislation",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148581",
+      "name":"Marendaz Jean-Luc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bases en chimie et en physique acquises dans le BSc  ",
+      "Bibliographie et matériel":"LChim, OChim, SGH, ORRChim, LRaP, ORaP, LGG, OPTM, OUC, OBPL",
+      "Forme d'enseignement":"Ex cathedra  ",
+      "Contenu":"[li] Législation pour le travail avec les produits chimiques (LChim, OChim et ORRChim)[br/][tab]- classification et critères des dangers: dangers physiques, dangers pour la santé, dangers pour l'environnement[br/][tab]- obligations du fournisseur et de l'utilisateur[br/][tab]- information de sécurité pour l'utilisateur sur les dangers et les mesures de protection: étiquetage européen et Système général harmonisé (SGH), Fiche de données de sécurité (FDS)[br/][tab]- dispositions particulières pour certaines classes de substances[br/][br/][li] Si le temps le permet, initiation aux processus qualité appelés \"Bonnes pratiques de laboratoire\" (BPL) ",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Connaître les législations dédiées au travail avec les chimiques ainsi que les exigences légales pour l'utilisateur. Se mettre en situation d'un responsable de laboratoire qui doit faire réaliser des travaux expérimentaux à son personnel de manière sûre avec des produits chimiques. Etre à même de proposer les mesures de prévention adéquates pour limiter les dangers physiques et les dangers pour la santé de manière raisonnable et adaptée (ex. équipement de contrôle, refroidissement, ventilation, choix de gants, etc...)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Législation du travail au laboratoire",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

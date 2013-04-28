@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71557569&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","320"],
+    "title":"Physical chemistry of the atmosphere",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71557569&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["page web sur Moodle","page web sur Moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167659",
+      "name":"Lehning Michael"
+    },{
+      "url":"http://people.epfl.ch/221094",
+      "name":"Takahama Satoshi"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Provide an in-depth description of the physical and chemical processus in the atmosphere",
+      "Content":"Vertical radiative transfer[br/]Atmospheric boundary layer[br/]Cloud formation[br/]Meso-scale circulations[br/]Atmospheric chemistry[br/]Urban pollution[br/]Global circulations[br/]Various causes of climatic changes",
+      "Type of teaching":"Ex-cathedra and exercises",
+      "Prerequisite for":"Air pollution,etc",
+      "Form of examination":"30 % spot check during the semester (exercises)[br/]70 % final written test (90 min) during exam session"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physical chemistry of the atmosphere",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-732951-2&amp;con_lng=ENG\" target=\"blank\">Atmospheric science : an introductory survey / John M. Wallace, Peter V. Hobbs</a>\". Year:2006. ISBN:978-0-12-732951-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["page web sur Moodle","page web sur Moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167659",
+      "name":"Lehning Michael"
+    },{
+      "url":"http://people.epfl.ch/221094",
+      "name":"Takahama Satoshi"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Atmospheric Science, An introductory survey, Wallace and Hobbs, Academic Press, Elsevire, 2006 (2nd edition)",
+      "Forme d'enseignement":"Ex-cathedra et exercices",
+      "Contenu":"Bilan radiatif vertical[br/]Couche limite atmosphérique[br/]Formation des nuages[br/]Ecoulements à meso-échelle[br/]Chimie atmosphérique[br/]Pollution urbaine[br/]Circulations globales[br/]Différentes causes de changement climatique",
+      "Forme du contrôle":"30 % contrôle ponctuel pendant le semestre (exercices)[br/]70 % épreuve écrite (90 min) pendant la session d'examen",
+      "Préparation pour":"Air pollution,etc",
+      "Objectifs d'apprentissage":"Présenter en détails les processus physiques et chimiques fondamentaux intervenant dans l'atmosphère"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physico-chimie de l'atmosphère",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-732951-2&amp;con_lng=FRE\" target=\"blank\">Atmospheric science : an introductory survey / John M. Wallace, Peter V. Hobbs</a>\". Année:2006. ISBN:978-0-12-732951-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

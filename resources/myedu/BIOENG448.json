@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354982912&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","448"],
+    "title":"Fundamentals of neuroengineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354982912&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218366",
+      "name":"Micera Silvestro"
+    },{
+      "url":"http://people.epfl.ch/149175",
+      "name":"Millán Ruiz José del Rocío"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of neuroengineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218366",
+      "name":"Micera Silvestro"
+    },{
+      "url":"http://people.epfl.ch/149175",
+      "name":"Millán Ruiz José del Rocío"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Although not mandatory, it is recommended to have some background in neuroscience, signal processing, and machine learning (e.g., EE-516).",
+      "Bibliographie et matériel":"Provided during the course.",
+      "Forme d'enseignement":"Classroom teaching, classroom exercises ",
+      "Contenu":"1. How the Brain Works[br/]Motor, Auditory and Visual Cortex. Decision making.[br/][br/]2. Recording and Analysis of Brain Activity[br/]Electrical activity (single unit activity, local field potentials, electroocorticogram, electroencephalogram), Metabolic activity (fMRI, fNIRS).[br/][br/]3. Peripheral Neurprostheses[br/]Upper limb, lower limb, electromyogram, muscle reinnervation [br/][br/]4. Brain-Machine Interfaces[br/][br/]5. Sensory Neuroprostheses[br/]Cochlear implants, Retinal implants, Optogenetics.[br/][br/]6. Neurorehabilitation[br/]Functional electrical stimulation, TMS, tDCS, Deep brain stimulation, Epilepsy.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Neural engineering (or neuroengineering) is a discipline at the frontier between neuroscience and engineering.[br/]On one side, understanding how the brain works allows developing engineering applications and therapies of extremely high impact. On the other side, development of new measurement and data analysis techniques contributes to advance our knowledge about the brain.[br/][br/]1) To learn the basic building blocks of neuroengineering.[br/][br/]2) To develop, through a series of exercises and readings, the necessary critical thinking and hands-on experience to evaluate the potential and current limitations of neuroengineering."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of neuroengineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

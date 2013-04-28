@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348715502&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","204"],
+    "title":"Circuits and systems I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348715502&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199128",
+      "name":"Cevher Volkan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control and written exam.",
+      "Bibliography and material":"Alan V. Oppenheim et al., \"Signals and Systems\". Prentice Hall (2nd),1997.[br/]James W. Nilsson et al.,\"Electric Circuits\". Prentice Hall, 7th ed., 2005 Polycopié, \"Course Notes\", 2010[br/]Support and list of references provided in class[br/]",
+      "Prerequisite for":"Circuits and Systems II, Electric  Filters, Control Systems I, Introduction to Signal Processing ",
+      "Required prior knowledge":"Analysis I and II, Linear Algebra",
+      "Content":"[b]Notion of a system[/b][br/][li]Introduction to signals[br/][li]Classification of signals: continuous time vs. discrete time [br/][li]Basic operations on signals (transformation of the independent variable), properties and characterization of signals[br/][b]Description of systems[/b] [br/][li]Introduction to systems [br/][li]Interconnections: Series/Parallel/Feedback[br/][li]Basic system properties[br/][li]Linear time-invariant (LTI) systems                                   [li]Convolution [br/][b]Notion of resistive circuits[/b] [br/][li]Introduction[br/][li]Electric variables and basic circuit elements (active and passive)[br/][li]Connections and Kirchhoff's laws [br/][li]Simple resistive circuits [br/][li]Techniques for circuit analysis[br/][li]Circuit Simplification: Source transformation[br/][li]Thévenin and Norton equivalents[br/][li]Maximum power transfer  [br/][b]Analog filters[/b]  [br/][li]Passive elements: inductors and capacitors[br/][li]Analysis: differential equations (1st-order filters and 2nd-order filters)[br/][li]Auxiliary conditions. Initial conditions[br/][li]First-order filters (natural and step response)[br/][li]Second-order filters (natural and step response)[br/][li]A system perspective on filters and their properties[br/]",
+      "Type of teaching":"Ex cathedra with exercises on paper and on the computer.",
+      "Learning outcomes":"The student will get to know the basic notions of circuits and systems as abstract objects and as models of a physical reality. He will be able to establish the equations for linear and non-linear circuits and systems, including continuous- and discrete-time systems, as well as and analog systems. He will be able to analyze the forced and natural response of a system and analog filter in the time domain."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Circuits and systems I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-705051-2&amp;con_lng=ENG\" target=\"blank\">Electric circuits / James W. Nilsson, Susan A. Riedel</a>\". Year:2010. ISBN:978-0-13-705051-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-507308-7&amp;con_lng=ENG\" target=\"blank\">Principles of electric circuits : electron flow version / Thomas L. Floyd</a>\". Year:2009. ISBN:978-0-13-507308-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-651175-9&amp;con_lng=ENG\" target=\"blank\">Signals and systems / Alan V. Oppenheim, Alan S. Willsky, with S. Hamid Nawab</a>\". Year:1997. ISBN:0-13-651175-9</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199128",
+      "name":"Cevher Volkan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Algèbre linéaire",
+      "Bibliographie et matériel":"Alan V. Oppenheim et al., \"Signals and Systems\". Prentice Hall (2nd),1997.[br/]James W. Nilsson et al.,\"Electric Circuits\". Prentice Hall, 7th ed., 2005.[br/]Polycopié, \"Course Notes\", 2010[br/]Support et liste de références distribués au cours [br/]",
+      "Forme d'enseignement":"Ex cathedra. Exercices sur papier et à l'ordinateur.",
+      "Contenu":"[b]Notion de signal[/b][br/][li]Introduction aux signaux[br/][li]Classification de signaux: signaux à temps continu vs. signaux à temps discret, signaux élementaires[br/][li]Opérations elémentaires sur les signaux: (transformation de la variable indépendante), propriétés et caractérisation des signaux[br/][b]Description de systèmes[/b][br/][li]Introduction aux systèmes[br/][li]Interconnexions de systèmes: en série/Parallèle/avec rétroaction[br/][li]Propriétés générales de systèmes[br/][li]Systèmes Linéaires Temporellement Invariants (SLTI)[br/][li]Convolution[br/][b]Notion de circuit résistif[/b] [br/][li]Introduction[br/][li]Variables électriques et elément de base (actifs et passifs)[br/][li]Connexions et equations de Kirchhoff[br/][li]Circuits résistifs simples [br/][li]Techniques pour analyse de circuits[br/][li]Simplification de circuit: Transformation de sources[br/][li]Equivalents de Thévenin et de Norton[br/][li]Transfert de puissance maximum[br/][b]Filtres analogiques[/b]  [br/][li]Éléments passifs: inductances et capacités[br/][li]Analyse: équations différentielles (filtre du 1er ordre et du second ordre)[br/][li]Conditions auxiliaires. Conditions initiales[br/][li]Filtres de 1er ordre (réponse libre et réponse à l'échelon)[br/][li]Filtres de second ordre (réponse libre et réponse à l'échelon)[br/][li]Les filtres comme systèmes et ses propriétés[br/]",
+      "Forme du contrôle":"Contrôle continu et examen écrit.",
+      "Préparation pour":"Circuits et systèmes II, Filtres électriques, Automatique, Introduction au traitement des signaux.",
+      "Objectifs d'apprentissage":"L'étudiant maîtrisera les notions de circuits et de systèmes comme notions abstraites et comme modèles d'une réalité physique. Il saura décrire les circuits et les systèmes linéaires et non linéaires par des équations; les systèmes aussi bien à temps continu qu'à temps discret, ainsi que les systèmes analogique. Il saura analyser la réponse forcée et naturelle d'un système et d'un filtre analogique dans le domaine du temps."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Circuits and systems I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-705051-2&amp;con_lng=FRE\" target=\"blank\">Electric circuits / James W. Nilsson, Susan A. Riedel</a>\". Année:2010. ISBN:978-0-13-705051-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-507308-7&amp;con_lng=FRE\" target=\"blank\">Principles of electric circuits : electron flow version / Thomas L. Floyd</a>\". Année:2009. ISBN:978-0-13-507308-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-651175-9&amp;con_lng=FRE\" target=\"blank\">Signals and systems / Alan V. Oppenheim, Alan S. Willsky, with S. Hamid Nawab</a>\". Année:1997. ISBN:0-13-651175-9</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

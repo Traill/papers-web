@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=621442925&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","372"],
+    "title":"Radon and energy in the built environment",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=621442925&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"ENAC",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104615",
+      "name":"Bourquin Jean-Denis"
+    },{
+      "url":"http://people.epfl.ch/161950",
+      "name":"Graf Franz"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Radon and energy in the built environment",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://enac.epfl.ch/page-25475.html","http://enac.epfl.ch/page-25475.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104615",
+      "name":"Bourquin Jean-Denis"
+    },{
+      "url":"http://people.epfl.ch/161950",
+      "name":"Graf Franz"
+    },{
+      "url":"http://people.epfl.ch/156272",
+      "name":"Tirone Chabert Barbara"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"[br/]* La question du radon en termes de santé publique, la situation en Suisse, l'intervention de l'OFSP [br/]* Où le radon pose-t-il problème? milieux habités, voies de pénétration, influence des techniques de construction et de rénovation [br/]* Réglementations et normes: la responsabilité de l'architecte et de l'ingénieur [br/]* La mesure du radon : relevés statiques et en temps réel, prise d'échantillons, interprétation des résultats en fonction de la santé et des mesures d'assainissement [br/]* Provenance naturelle (géologie, via les réseaux d'eau) [br/]* Visite de constructions, mesures indoor et outdoor - Discussion sur les retombées énergétiques: choix de l'architecte [br/]* Le radon dans les eaux: mesures et techniques d'assainissement [br/]* Le radon dans les matériaux de construction - Discussion sur le choix des matériaux et les retombées énergétiques [br/]* Mesures de prévention et d'assainissement, retombées en matière énergétique, choix de l'architecte [br/][br/]",
+      "Objectifs d'apprentissage":"Le radon est un gaz radioactif d'origine naturelle, provenant de la désintégration de l'uranium présent dans le sol. Dans certaines régions, l'accumulation de radon atteint des concentrations qui peuvent se révéler nocives pour la santé humaine. Ces concentrations ont toujours existé, mais ce n'est que depuis quelques années que l'on a pris conscience des risques associés à ce gaz, en particulier comme 2e cause de cancer du poumon après le tabagisme. Les nouvelles techniques de construction (par exemple Minergie) sont susceptibles de contribuer à accentuer le phénomène d'accumulation du radon dans l'air de nos espaces de vie et de travail. En 1994 déjà, la Suisse s'est dotée d'une législation traitant de la problématique du radon, qui prévoit des prescriptions de construction pour les bâtiments et donc, indirectement, une responsabilité de l'architecte et de l'ingénieur. En 2009, l'OMS a édicté de nouvelles valeurs limites plus basses qui auront une incidence importante sur la construction et l'assainissement des bâtiments en Suisse, notamment par l'intégration du radon dans les règlements cantonaux de construction. [br/][br/]Objectif[br/]Conformément aux recommandations de l'Office fédéral de la santé publique, il s'agit de sensibiliser les futurs professionnels de l'environnement construit à la question du radon, sur un plan théorique mais aussi appliqué à des cas réels, et de montrer que l'approche et les solutions ne peuvent être que de nature interdisciplinaire.[br/][br/]"
+    },
+    "practical":{
+      "total_hours":41
+    },
+    "language":"Français",
+    "title":"Radon et énergie dans l'environnement construit",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "total_hours":10
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

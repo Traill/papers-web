@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=976982872&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","522"],
+    "title":"Soil water regime management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=976982872&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174097",
+      "name":"Perona Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To acquire basic elements required to implement appropriate techniques in order to improve the water regime of soils affected by a water deficit (irrigation) or by excess water (drainage). To be able to plan, design and manage irrigation and drainage systems of agricultural lands, while minimizing environmental impacts.[br/]",
+      "Content":"[b]Irrigation[/b][br/][li]technical aspects and design procedures of surface, sprinkler and trickle irrigation systems[br/][li]design of the conveyance and distribution systems[br/][li]impacts of irrigation systems [br/][b]Drainage of agricultural lands[/b][br/][li]surface drainage[br/][li]subsurface drainage : estimation of drain spacing, geometrical characteristics of drainage systems, planning and design of drainage systems[br/][li]construction and maintenance of drainage systems[br/][li]environmental impacts of drainage systems [br/][li]buffer zones [br/]",
+      "Type of teaching":"Lecture and exercises.",
+      "Form of examination":"30 % continuous control during the semester (exercises)[br/]70 % oral exam (30 min) during the exam session",
+      "Required prior knowledge":"Fluids mechanics, Hydraulic structures and schemes I, Soil sciences, Hydrology for engineer"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Soil water regime management",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174097",
+      "name":"Perona Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique des fluides, Ouvrages et aménagements hydrauliques, Sciences du sol, Hydrology for engineer",
+      "Bibliographie et matériel":"Notes de cours, copies des transparents, ouvrages divers",
+      "Forme d'enseignement":"Cours et exercices.",
+      "Contenu":"[b]Méthodes et techniques d'irrigation[/b][br/][li]technologie et bases de dimensionnement des systèmes d'irrigation par gravité, aspersion ou micro-irrigation[br/][li]conception du réseau d'amenée et de distribution de l'eau[br/][li]impacts des réseaux d'irrigation[br/][b]Assainissement des sols agricoles[/b][br/][li]drainage de surface[br/][li]drainage de subsurface: principes de calcul de l'écartement des drains, caractéristiques géométriques des drainages, modalités de conception d'un réseau\t[br/][li]exécution et entretien des réseaux de drainage[br/][li]assainissement et environnement[br/][li]zones de transition[br/]",
+      "Forme du contrôle":"30 % contrôle continu pendant le semestre (exercices)[br/]70 % épreuve orale (30 min) durant la session d'examen",
+      "Objectifs d'apprentissage":"Assimiler les principes théoriques nécessaires à la mise en oeuvre de techniques destinées à corriger le régime hydrique des sols souffrant d'un manque d'eau (irrigation) ou d'un excès d'eau (assainissement). Etre capable de concevoir, dimensionner, réaliser et gérer les ouvrages d'irrigation et de drainage des sols agricoles de nature à minimiser les impacts sur l'environnement."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Soil water regime management",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

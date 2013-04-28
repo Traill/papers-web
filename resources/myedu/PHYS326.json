@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4149774&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","326"],
+    "title":"Mathematical physics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4149774&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-60690.html","http://itp.epfl.ch/page-60690.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181759",
+      "name":"Scrucca Claudio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Prerequisite for: Relativity and Cosmology. Elementary particle physics. Theoretical physics",
+      "Form of examination":"oral exam (100%)",
+      "Prerequisite for":"Electrodynamcis. Relativiy and Cosmology. Elementary particle physics. Physics of materials. Mechanics",
+      "Content":"1. Spaces, groups and algebras[br/]2. Manifolds[br/]3. Tangent spaces and tensors[br/]4. Homotopy[br/]5. Lie groups[br/]6. Algebras of Lie groups[br/]7. Space-time symmetries[br/]8. Differential forms and applications[br/]9. Manifolds with metric and geometry[br/][br/]Physical examples in electromagnetism, relativity, elementary particles, condensed matter.",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"Understand some of the concepts and results of contemporary geometry and group theory by simple means. Illustrate them by examples of application in various fields of physics.[br/][]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematical physics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-66169-5&amp;con_lng=ENG\" target=\"blank\">Differential forms with applications to the physical sciences / Harley Flanders</a>\". Year:1989. ISBN:0-486-66169-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7503-0606-8&amp;con_lng=ENG\" target=\"blank\">Geometry, topology and physics / Mikio Nakahara</a>\". Year:2003. ISBN:0-7503-0606-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-97663-9&amp;con_lng=ENG\" target=\"blank\">The geometry of surfaces, transformation groups, and fields / B.A. Dubrovin, A.T. Fomenko, S.P. Novikov ; transl. by Robert G. Burns</a>\". Year:1992. ISBN:0-387-97663-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-60690.html","http://itp.epfl.ch/page-60690.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181759",
+      "name":"Scrucca Claudio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Préparation pour : Relativité et Cosmologie. Physique des particules élémentaires. Physique théorique",
+      "Bibliographie et matériel":"Notes de cours dactylographiées[br/]Contemporary Geometry, B. Dubrovine, S. Novikov, A. Fomenko[br/]Differential forms with Applications to the Physical Sciences, H. Flanders[br/]Geometry, Topology and Physics, M. Nakahara[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"1. Espaces, groupes et algèbres[br/]2. Variétés[br/]3. Espaces tangents et tenseurs[br/]4. Homotopie[br/]5. Groupes de Lie[br/]6. Algèbres de groupes de Lie[br/]7. Symétries d'espace-temps[br/]8. Formes différentielles et applications[br/]9. Variétés avec métrique et géométrie[br/][br/]Exemples physiques en électromagnétisme, relativité, particules élémentaires, matière condensée.",
+      "Forme du contrôle":"examen oral (100%)",
+      "Préparation pour":"Electrodynamique. Relativité et cosmologie. Particules élémentaires. Physique des matériaux. Mécanique",
+      "Objectifs d'apprentissage":"Faire comprendre certains des concepts et résultats de la géométrie contemporaine et de la théorie des groupes par les moyens les plus simples et les illustrer par des exemples d'application dans divers domaines de la physique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique mathématique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-66169-5&amp;con_lng=FRE\" target=\"blank\">Differential forms with applications to the physical sciences / Harley Flanders</a>\". Année:1989. ISBN:0-486-66169-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7503-0606-8&amp;con_lng=FRE\" target=\"blank\">Geometry, topology and physics / Mikio Nakahara</a>\". Année:2003. ISBN:0-7503-0606-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-97663-9&amp;con_lng=FRE\" target=\"blank\">The geometry of surfaces, transformation groups, and fields / B.A. Dubrovin, A.T. Fomenko, S.P. Novikov ; transl. by Robert G. Burns</a>\". Année:1992. ISBN:0-387-97663-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

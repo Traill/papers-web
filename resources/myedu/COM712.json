@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=772367007&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","712"],
+    "title":"Statistical Physics for Communication and Computer Science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=772367007&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/doku.php?id=en:courses:doctoral_courses_2012-2013:spccs","http://ipg.epfl.ch/doku.php?id=en:courses:doctoral_courses_2012-2013:spccs"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107423",
+      "name":"Macris Nicolas"
+    },{
+      "url":"http://people.epfl.ch/124369",
+      "name":"Urbanke Rüdiger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of the course is to introduce the student to those fundamental notions of statistical physics which have found applications in communications and computer science. The course will focus on systems which can be described by means of an underlying sparse graph. These include in particular modern coding systems and the constraint satisfaction problem. We will be interested in the behavior of such a system in the infinite size limit. In particular, we focus on the emergence of phase transitions and how they can be analyzed.  ",
+      "Content":"1.\tModels and questions (2 lectures)[br/]2.\tBasic notions of statistical physics (1 lecture)[br/]3.\tAn exactly solvable model - The complete graph (2 lectures)[br/]4.\tThe factor graph approach to the marginalization on trees (2 lectures)[br/]5.\tBelief propagation as an algorithm (coding, K-SAT) (2 lectures)[br/]6.\tBelief propagation as a mean field approach (Bethe free energy) (2 lectures)[br/]7.\tDiscussion of validity of mean filed approach (1 lecture)[br/]8.\tThe cavity method (K-SAT) (2 lectures)[br/]",
+      "Keywords":"Statistical physics, belief propagation, Bethe free energy, mean field method, coding, K-SAT, factor graph, cavity method, Ising model.  ",
+      "Required prior knowledge":"Probability, calculus;"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Statistical Physics for Communication and Computer Science",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/doku.php?id=en:courses:doctoral_courses_2012-2013:spccs","http://ipg.epfl.ch/doku.php?id=en:courses:doctoral_courses_2012-2013:spccs"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107423",
+      "name":"Macris Nicolas"
+    },{
+      "url":"http://people.epfl.ch/124369",
+      "name":"Urbanke Rüdiger"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Statistical Physics for Communication and Computer Science",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

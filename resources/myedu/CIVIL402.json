@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773772&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","402"],
+    "title":"Geomechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773772&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160132",
+      "name":"Koliji Azad"
+    },{
+      "url":"http://people.epfl.ch/105611",
+      "name":"Laloui Lyesse"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]\tBasic knowledge acquisition for characterizing, simulating and predicting the behaviour of geomaterials[br/][li]\tKnow the constitutive modelling of geometerials in the elasto-plastic framework[br/][li]\tUnderstanding the possibilities and the limits of numerical modelling in geomechanics[br/][li]\tAnalyze different problems of numerical simulations[br/]",
+      "Content":"Basis[br/]   -\t   Non-linear behaviour of geomaterials[br/]   -\t   General framework of mechanical constitutive models for geomaterials[br/][br/]Elasticity and plasticity in soils and rocks[br/]   -\t   Determination of elastic parameters[br/]   -\t   Failure criterion for geomaterials[br/]   -\t   Critical state concept, dilatancy, hardening, Cam-Clay model[br/]   -\t   Numerical simulation of laboratory tests[br/][br/]Numerical modelling and application for simulation of geotechnical structures[br/]   -\t Case studies[br/]   -\t  Analysis of historical failure problems [br/]   -\t  Sites visit and geotechnical testing facilities [br/][br/]Application in geoenvironmental mechanics[br/]   -\t  Analysis and simulation of energetic foundations[br/]   -\t  Analysis and simulation of landslides[br/]   -\t  Analysis and simulation of nuclear waste storage[br/]   -\t  Analysis and simulation of dams[br/]",
+      "Type of teaching":"[li] Ex cathedra and exercises and practical work on computer[br/][li] Case studies and literature review of",
+      "Required prior knowledge":"Soil mechanics and groundwater seepage, Numerical modeling of solid and structures"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geomechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160132",
+      "name":"Koliji Azad"
+    },{
+      "url":"http://people.epfl.ch/105611",
+      "name":"Laloui Lyesse"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Adresse internet: http://lms.epfl.ch/page-33558-en.html",
+      "Prérequis":"Mécanique de sols et écoulements souterrains, Modélisation numérique des solides et structures.",
+      "Bibliographie et matériel":"Extraits du Traité de Génie civil, \"Mécanique des Sol et des Roches\", Vuillet, Laloui, Zhao (disponible à la vente des cours)",
+      "Forme d'enseignement":"[li] Ex cathedra, exercice et TP informatique [br/][li] Etudes de cas et analyse bibliographique sous forme de projet",
+      "Contenu":"Bases[br/]   -\t   Comportement non-linéaire des géomatériaux[br/]   -\t   Cadre général des modèles constitutifs pour géomatériaux[br/][br/]Elasticité et plasticité dans les sols et les roches[br/]   -       Détermination des paramètres élastiques[br/]   -       Critère de rupture des géomatériaux[br/]   -       Concept d'état critique, notion de dilatance, écrouissage, modèle de Cam-Clay[br/]   -       Simulation numérique d'essais de laboratoire[br/][br/]Modélisation numérique et application à la simulation des ouvrages[br/]   -\t   Etude de cas d'ouvrages géotechniques[br/]   -\t   Analyse de cas rupture historiques[br/]   -\t   Visite de sites et laboratoires d'essais géotechniques[br/][br/]Application dans la géomécanique environnementale [br/]   -\t   Comprendre et simuler des fondations énergétiques[br/]   -\t   Comprendre et simuler un glissement de terrain [br/]   -       Comprendre et simuler un stockage de déchets nucléaires[br/]   -       Comprendre et simuler le comportement d'un barrage en terre [br/]",
+      "Objectifs d'apprentissage":"[li]\tAcquérir les connaissances permettant de caractériser, simuler et prédire le comportement des sols et roches [br/][li]\tAppréhender la modélisation constitutive des géomatériaux dans le cadre de l'élasto-plasticité[br/][li]\tComprendre les possibilités et les limites de la modélisation numérique en géomécanique[br/][li]\tAnalyser diverses problèmes de simulation numérique"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Géomécanique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

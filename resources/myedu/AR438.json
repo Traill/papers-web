@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4151854&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","438"],
+    "title":"UE E : Architecture and structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4151854&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    },{
+      "url":"http://people.epfl.ch/176410",
+      "name":"Matter Galletti Claude"
+    },{
+      "url":"http://people.epfl.ch/229469",
+      "name":"Trautmann Mona"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]To propose an investigation into space and form by integrating questions of structures: spatial perception and architectural expression.[br/][li]To acquire the means to develop a structure together with an architectural concept and program: variation studies in order to find the correct form.[br/][li]To confront spatial and structural conception along with other parameters of the architectural project:[br/][tab]- Materials and their characteristics,[br/][tab]- Comfort as in: natural light, acoustic quality, thermal quality (reference to these notions throughout the design process).[br/][br/]",
+      "Content":"The chosen theme for the current academic year is a lightweight construction upon an existing construction.[br/][br/]The exercise will study the following aspects:[br/][li]Concept formalization, structural and architectural expression, honesty in construction,[br/][li]Structure and materialization (static diagrams, stability, load bearing, relation to ground, supports),[br/][li]Architectural language and construction premises (plan, section, elevation), integration/dissociation between elements, expression,[br/][li]Questions of hierarchy (conception, scale, perception, construction).[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE E : Architecture and structures",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    },{
+      "url":"http://people.epfl.ch/176410",
+      "name":"Matter Galletti Claude"
+    },{
+      "url":"http://people.epfl.ch/229469",
+      "name":"Trautmann Mona"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Documents sur le site web du cours : moodle.epfl.ch.",
+      "Forme d'enseignement":"Cours, critiques à la table.",
+      "Contenu":"Le thème choisi pour la présente année académique est celui d'une construction légère s'implantant au-dessus d'un ouvrage existant.[br/][br/]L'exercice sera enrichi de différents apports :[br/][li]formalisation d'un concept, expression structurelle et architecturale, vérité constructive,[br/][li]structure et matérialisation (schémas statiques, stabilité, descente des charges, rapport au sol, appuis),[br/][li]langage architectural et prémisses constructives (plan, coupe, élévation), intégration/dissociation des éléments, expression recherchée,[br/][li]question de la hiérarchie (conception, rapport d'échelle, perception, mise en oeuvre).[br/]",
+      "Forme du contrôle":"Rapport de synthèse commenté en présence des enseignants.",
+      "Préparation pour":"Projet de Master.",
+      "Objectifs d'apprentissage":"[li]Proposer une réflexion sur l'espace et la forme en intégrant les questions liées à la structure : perception spatiale et expression architecturale.[br/][li]Acquérir les moyens d'élaborer une structure en adéquation avec un concept architectural et un programme : étude de variantes pour trouver la forme juste.[br/][li]Confronter la conception spatiale et structurelle avec d'autres paramètres du projet architectural :[br/][tab]- les matériaux et leurs caractéristiques,[br/][tab]- le confort dans ses composantes principales : lumière naturelle, acoustique, bilan thermique (prise en compte des paramètres dès les premières esquisses).[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE E : Architecture et structures",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  }
+}

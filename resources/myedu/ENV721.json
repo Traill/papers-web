@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=974905715&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","721"],
+    "title":"Waterborne Pathogens",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=974905715&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173999",
+      "name":"Kohn Tamar"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"[li]Overview over waterborne diseases[br/][li]Waterborne viruses[br/][li]Waterborne bacteria[br/][li]Waterborne protozoa[br/][li]Waterborne helminths [br/][li]Detection methods[br/][li]Disinfection and other control mechanisms[br/]",
+      "Form of examination":"Oral presentation[br/]Project report",
+      "Required prior knowledge":"Water treatment, microbiology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Waterborne Pathogens",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173999",
+      "name":"Kohn Tamar"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li]Overview over waterborne diseases[br/][li]Waterborne viruses[br/][li]Waterborne bacteria[br/][li]Waterborne protozoa[br/][li]Waterborne helminths [br/][li]Detection methods[br/][li]Disinfection and other control mechanisms[br/]",
+      "Forme du contrôle":"Oral presentation[br/]Project report",
+      "Prérequis":"Water treatment, microbiology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Waterborne Pathogens",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

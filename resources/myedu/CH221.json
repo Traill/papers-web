@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772497&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","221"],
+    "title":"Chemistry of elements s and p",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772497&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the chemistry of the main group elements.",
+      "Content":"The course will be a \"walk\" through the periodic table with focus on the main group elements. This includes a brief history of the respective element, a description of the most important compounds ([i]syntheses, structures, physical properties and reactivities[/i]) and a discussion of trends within the different groups."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemistry of elements s and p",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-11-018903-2&amp;con_lng=ENG\" target=\"blank\">Anorganische Chemie : mit DVD / Erwin Riedel, Christoph Janiak</a>\". Year:2007. ISBN:978-3-11-018903-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-85404-690-9&amp;con_lng=ENG\" target=\"blank\">Elements of the p block / ed. by Charlie Harding ... [et al.]</a>\". Year:2002. ISBN:0-85404-690-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-850340-8&amp;con_lng=ENG\" target=\"blank\">Nature's building blocks : an A-Z guide to the elements / John Emsley</a>\". Year:2003. ISBN:978-0-19-850340-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-926463-5&amp;con_lng=ENG\" target=\"blank\">Shriver and Atkins' inorganic chemistry / Peter Atkins ... [et al.]</a>\". Year:2006. ISBN:0-19-926463-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"Le cours sera un \"parcours\" à travers le tableau périodique en mettant l'accent sur les éléments du groupe principal. Il comprendra un bref historique pour chacun d'eux, une description des composés les plus importants ([i]synthèses, structures, propriétés physiques et réactivités[/i]) ainsi qu'une discussion sur les tendances dans les différents groupes.",
+      "Prérequis":"Le cours nécessite les connaissances de: Chimie générale",
+      "Bibliographie et matériel":"\"Inorganic Chemistry\", D. F. Shriver, P. W. Atkins.[br/]\"Elements of the p Block\", C. Harding, R. James, D. Johnson.[br/]\"Nature's Building Blocks\", J. Emsley.[br/]\"Anorganische Chemie\", E. Riedel.",
+      "Objectifs d'apprentissage":"Introduction à la chimie des éléments du groupe principal."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemistry of elements s and p",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-11-018903-2&amp;con_lng=FRE\" target=\"blank\">Anorganische Chemie : mit DVD / Erwin Riedel, Christoph Janiak</a>\". Année:2007. ISBN:978-3-11-018903-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-85404-690-9&amp;con_lng=FRE\" target=\"blank\">Elements of the p block / ed. by Charlie Harding ... [et al.]</a>\". Année:2002. ISBN:0-85404-690-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-850340-8&amp;con_lng=FRE\" target=\"blank\">Nature's building blocks : an A-Z guide to the elements / John Emsley</a>\". Année:2003. ISBN:978-0-19-850340-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-926463-5&amp;con_lng=FRE\" target=\"blank\">Shriver and Atkins' inorganic chemistry / Peter Atkins ... [et al.]</a>\". Année:2006. ISBN:0-19-926463-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

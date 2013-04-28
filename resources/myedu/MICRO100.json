@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773557&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","100"],
+    "title":"Elements of micromechanical design and CAD I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773557&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    },{
+      "url":"http://people.epfl.ch/218963",
+      "name":"Ferrot Jean-François"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[b]Construction[/b][br/]To be able to use and understand the graphic tools used in mechanics. To master the basic tolerances related to fabrication processes. To know the methods and tools used when designing. To know how to size basic mechanical elements.[br/][br/][br/][b]CAD (Computer Assisted Design)[/b][br/]The goal of the lecture is to familiarize the student with computer assisted designing and its advantages and limitations. Exercises concentrate on direct working on computer and using designing techniques in concrete microengineering construction projects.[br/]",
+      "Content":"[b]Construction[/b][br/]Introduction to ISO-standards.[br/]Basics of technical design and graphical means of representation.[br/]Identification of normalized elements.[br/]Functional and fabrication dimensioning, typical tolerances.[br/]Elements of design, linking between two bodies, elementary mechanisms, movement transformations. [br/]",
+      "Type of teaching":"Lectures and exercices",
+      "Prerequisite for":"Components for microengineering I, II",
+      "Form of examination":"Test + project"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Elements of micromechanical design and CAD I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    },{
+      "url":"http://people.epfl.ch/218963",
+      "name":"Ferrot Jean-François"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Extraits de normes, cours polycopié, doc. PTC",
+      "Forme d'enseignement":"Exposé oral + exercices",
+      "Contenu":"[b]Construction[/b][br/]Introduction aux normes ISO, les divers documents graphiques.[br/]Les règles du dessin technique et les artifices graphiques pour la représentation.[br/]La reconnaissance des éléments normalisés.[br/]La cotation fonctionnelle et de fabrication et les diverses tolérances.[br/]Éléments de construction, les liaisons possibles entre deux corps, les mécanismes élémentaires, les transformations de mouvements.",
+      "Forme du contrôle":"Test + projet",
+      "Préparation pour":"Composants de la microtechnique I, II",
+      "Objectifs d'apprentissage":"[b]Construction[/b][br/]Être capable de s'exprimer et de comprendre les moyens graphiques utilisés en mécanique. Maîtriser les tolérances de base liées aux procédés de fabrication. Connaître les méthodes et les outils de travail utilisés lors de la conception. Savoir dimensionner les éléments mécaniques de base.[br/][br/][b]DAO[/b][br/]Le cours a pour but de familiariser l'étudiant avec l'outil de dessin assisté par ordinateur, d'en comprendre les avantages et limitations. Les séances d'exercices mettent l'accent sur le travail à l'écran et l'organisation des techniques de création du dessin dans le cadre de projets de construction en microtechnique."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Eléments de construction et DAO I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

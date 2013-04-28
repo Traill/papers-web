@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1186202&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","115"],
+    "title":"Linear algebra II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1186202&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123676",
+      "name":"Thévenaz Jacques"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The purpose of the course is to introduce the basic notions of linear algebra and to prove rigourously the main results of the subject.[br/]",
+      "Content":"- Linear transformations : similar matrices, characteristic polynomial, minimal polynomial, eigenvalues, eigenvectors, triangular and diagonal matrices, Jordan forms[br/]- Bilinear and sesquilinear forms : linear forms, dual space, bilinear forms, symmetric matrices, hermitian matrices, Sylvester's theorem[br/]- Inner products : orthogonal matrices, unitary matrices, spectral theorem[br/][br/]",
+      "Type of teaching":"Ex cathedra, exercises in classroom"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Linear algebra II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123676",
+      "name":"Thévenaz Jacques"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, exercices en classe",
+      "Contenu":"- Transformations linéaires : matrices semblables, polynôme caractéristique, polynôme minimal, valeurs propres, vecteurs propres, matrices triangulaires et diagonales, formes de Jordan[br/]- Formes bilinéaires et sesquilinéaires : formes linéaires, espace dual, formes bilinéaires, matrices symétriques, matrices hermitiennes, théorème de Sylvester[br/]- Produits scalaires : matrices orthogonales, matrices unitaires, théorème spectral",
+      "Objectifs d'apprentissage":"L'objectif du cours est d'introduire les notions de base de l'algèbre linéaire et de démontrer rigoureusement les résultats principaux de ce sujet."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre linéaire II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

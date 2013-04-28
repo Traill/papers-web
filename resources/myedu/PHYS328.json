@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230676763&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","328"],
+    "title":"The physics of new real materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230676763&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105148",
+      "name":"Forró László"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The lecture of Physics of new materials deals with the carbon based nanostructures such as graphene, carbon nanotubes, fullerenes and nanodiamonds. [br/][]",
+      "Content":"The terminology used will be introduced in the first two lectures which will be followed by the following topics:[br/][br/]- Why are such materials interesting?[br/]- The synthesis of such materials[br/]- Their characterization[br/]- Their physical properties[br/]- Possible applications[br/][br/]The 2 hours/week lecture is followed by one hour of exercises in order the well assimilate the notions and phenomena treated at the lectures. [br/]",
+      "Form of examination":"Oral exam"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"The physics of new real materials",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105148",
+      "name":"Forró László"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Les terminologies associées aux cours seront éclaircies lors de deux cours d'introduction, après quoi, les thèmes suivants seront abordés:[br/][br/]- L'intérêt de tels matériaux[br/]- La synthèse de ces matériaux[br/]- Ses caractérisations[br/]- Ses propriétés physiques[br/]- Applications possibles.[br/][br/]Le cours de 2 heures/semaine est suivi d'une heure d'exercices assez simples, afin de bien intégrer les notions vues au cours.[br/][br/]",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Le cours de Physique des nouveaux matériaux, ce semestre, traitera des matériaux et nanostructures à base de carbone, qui sont le graphène, les nanotubes de carbone, les fullerènes et les nanodiamants."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique des nouveaux matériaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

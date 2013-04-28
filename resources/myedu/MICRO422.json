@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824206088&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","422"],
+    "title":"Lasers and optics of nanostructures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824206088&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"MT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182444",
+      "name":"Kippenberg Tobias"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lasers and optics of nanostructures",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=ENG\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Year:2007. ISBN:978-0-471-35832-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-38771-9&amp;con_lng=ENG\" target=\"blank\">Laser physics / Peter W. Milonni, Joseph H. Eberly</a>\". Year:2010. ISBN:978-0-470-38771-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-510626-1&amp;con_lng=ENG\" target=\"blank\">Optical electronics in modern communications / Amnon Yariv</a>\". Year:1997. ISBN:0-19-510626-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-60997-8&amp;con_lng=ENG\" target=\"blank\">Quantum electronics / Amnon Yariv</a>\". Year:1989. ISBN:0-471-60997-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182444",
+      "name":"Kippenberg Tobias"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"1. Introduction (Overview: History of the laser, Market application, Nobel Prizes,)- demo laser printer.[br/]2. Basics of resonators and Gaussian beam optics.[br/]3. Principle of laser operation: Lorentz model, dispersion theory.[br/]4. Principle of laser operation: Laser oscillation, threshold, coherence.[br/]5. Semiconductor and photonic nanostructured lasers [br/]6. Laser dynamics : Laser oscillation, laser line-width, coherent population oscillations - AM, PM Noise[br/]7. (Gas and ) Solid state lasers Optical fibers[br/]8. Fiber laser and amplifiers Optical fibers[br/]9. Ultrafast lasers, Femtosecond laser Frequency Metrology,  Mode locked lasers, autocorrelation, FTIR[br/]10. Ultrafast lasers, Femtosecond laser Frequency Metrology,  Mode locked lasers[br/]11. Detection of laser light (detector basics)[br/]12. Optical parametric oscillators (OPO), Raman Lasers[br/]13. Tools of laser light manipulation",
+      "Forme du contrôle":"Oral exam (2/3) and graded exercises (1/3)",
+      "Bibliographie et matériel":"Main text book: Milonni, Eberly \"Laser Physics\" (Wiley Interscience)[br/]Additional chapters will be selected from:[br/]Saleh, B. E. A., and M. C. Teich. Fundamentals of Photonics. New York, NY: John Wiley and Sons, 1991. ISBN: 0471839655. [br/]Yariv, A. Optical Electronics in Modern Communications. 5th ed. New York, NY: Oxford University Press, 1997. ISBN: 0195106261.[br/]Amnon Yariv \"Quantum Electronics\" (Wiley)",
+      "Objectifs d'apprentissage":"Lasers are of fundamental importance in science, engineering and technology. This course gives an introduction to Lasers by both considering fundamental principles and applications. Topics that are covered include the theory of lasers, laser resonators and laser dynamics. Different laser systems (gas and solid state lasers, fiber lasers and amplifiers) will be described. In addition the generation of laser pulses using mode-locked lasers will be covered, ultra-short pulse propagation as well as applications of ultra-fast lasers to optical frequency metrology discussed. In addition important properties such as laser line-width and fundamental noise will be covered as well as optical parametric oscillators (OPOs) and Raman lasers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lasers and optics of nanostructures",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=FRE\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Année:2007. ISBN:978-0-471-35832-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-38771-9&amp;con_lng=FRE\" target=\"blank\">Laser physics / Peter W. Milonni, Joseph H. Eberly</a>\". Année:2010. ISBN:978-0-470-38771-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-510626-1&amp;con_lng=FRE\" target=\"blank\">Optical electronics in modern communications / Amnon Yariv</a>\". Année:1997. ISBN:0-19-510626-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-60997-8&amp;con_lng=FRE\" target=\"blank\">Quantum electronics / Amnon Yariv</a>\". Année:1989. ISBN:0-471-60997-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

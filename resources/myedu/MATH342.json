@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129699210&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","342"],
+    "title":"Time series",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129699210&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Time series data arise in many domains and form an important branch of stochastic modelling.  This course will cover the basic ideas and techniques of this domain, and then turn to models particularly useful for financial time series.",
+      "Content":"[li] Motivation, basic ideas stochastic processes, trends and seasonal components, prediction, filtering[br/][li] Stationarity[br/][li] Autocorrelation and related functions[br/][li] Stationary ARMA processes: theory and applications[br/][li] Spectral representation of a stationary process: theory and applications[br/][li] State-space models: key ideas and applications[br/][li] Prediction of stationary processes[br/][li] Financial time series: stylised facts, volatility, unit roots and non-stationarity, ARCH, GARCH and related models[br/][li] Stochastic volatility models[br/][li] Multivariate time series[br/][li] Long memory processes",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Prerequisite for":"Quantitative risk management",
+      "Required prior knowledge":"Probabilities, Statistics for mathematicians"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Time series",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-69074-0&amp;con_lng=ENG\" target=\"blank\">Analysis of financial time series / Ruey S. Tsay</a>\". Year:2005. ISBN:978-0-471-69074-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-95351-9&amp;con_lng=ENG\" target=\"blank\">Introduction to time series and forecasting / Peter J. Brockwell, Richard A. Davis</a>\". Year:2002. ISBN:978-0-387-95351-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-852206-1&amp;con_lng=ENG\" target=\"blank\">Time series : a biostatistical introduction / Peter J. Diggle</a>\". Year:1990. ISBN:0-19-852206-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Probabilités, Statistiques pour mathématiciens",
+      "Bibliographie et matériel":"Brockwell, P. J. and Davis, R. A. (1996) Introduction to Time Series and Forecasting.  Springer. [br/]Diggle, P. J. (1990) Time Series : A Biostatistical Introduction.  Oxford University Press.[br/]Tsay, R. S. (2005) Analysis of Financial Time Series.  Second edition.  Wiley.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe",
+      "Contenu":"[li] Motivation, idées de base, processus stochastiques, tendances et effets saisonniers, prévision, filtrage[br/][li] Stationnarité[br/][li] Autocorrélation[br/][li] Processus ARMA stationnaires : théorie et applications[br/][li] Représentation spectrale d'un processus stationnaire : théorie et applications[br/][li] Modèles à états[br/][li] Prévision d'un processus stochastique[br/][li] Séries temporelles financières : volatilité, racines unitaires et stationnarité, modèles ARCH, GARCH etc. [br/][li] Modèles de volatilité stochastiques[br/][li] Séries multivariées[br/][li] Processus à longue mémoire",
+      "Préparation pour":"Quantitative risk management",
+      "Objectifs d'apprentissage":"Familiariser les étudiants avec la théorie et la pratique de l'analyse des séries temporelles."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Time series",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-69074-0&amp;con_lng=FRE\" target=\"blank\">Analysis of financial time series / Ruey S. Tsay</a>\". Année:2005. ISBN:978-0-471-69074-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-95351-9&amp;con_lng=FRE\" target=\"blank\">Introduction to time series and forecasting / Peter J. Brockwell, Richard A. Davis</a>\". Année:2002. ISBN:978-0-387-95351-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-852206-1&amp;con_lng=FRE\" target=\"blank\">Time series : a biostatistical introduction / Peter J. Diggle</a>\". Année:1990. ISBN:0-19-852206-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

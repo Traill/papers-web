@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24165904&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","550"],
+    "title":"Image and video processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24165904&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ltswww.epfl.ch/~courstiv/","http://ltswww.epfl.ch/%7Ecourstiv/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105043",
+      "name":"Ebrahimi Touradj"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Bibliography and material":"Polycopié du cours traitement d'images et vidéo[br/]Fundamentals of Digital Image Processing, A. K. Jain",
+      "Prerequisite for":"Semester projects , master thesis projects, doctoral thesis",
+      "Required prior knowledge":"Signal processing for communication",
+      "Content":"[b]Introduction, acquisition, restitution[/b][br/]Two-dimensionnal signals and systems, Elementary signals, Properties of two-dimentional Fourier transform, Discretization (spatial and spatio-temporal artefacts), Two-dimensional digital filters, Two-dimensional z-transform, Transfer function. Captors, monitors, printers, half-toning, color spaces.[br/][b]Multi-dimensional filtres[/b][br/]Design of Infinite Impulse Response and Finite Impulse Response filters, Implementation of multi-dimensional filters, Directional decomposition and directional filters, M-D Sub-band filters, M-D Wavelets.[br/][b]Visual perception[/b][br/]Neural system, Eye, Retina, Visual cortex, Model of visual system, Special effects, Mach phenomena and lateral inhibition, Color, Temporal vision.[br/][b]Contour and feature extraction, segmentation[/b][br/]Local methods, Region based methods, Global methods, Canny, Mathematical morphology. Segmentation, Motion estimation[br/][b]Visual information coding[/b][br/]Overview of the information theory and basics of rate-distortion, Conventional techniques : predictive coding, transform coding, subband coding, vector quantization, Advanced methods : multiresolution coding, perception based coding, region based coding, directional coding, fractals, Video coding : motion compensation, digital TV, High definition TV. Standards: JPEG, MPEG, H.261, H.263",
+      "Type of teaching":"Ex cathedra, mini-projects",
+      "Learning outcomes":"After following this course, students will be able to master the basic methods of image and video processing, and to apply them on concrete problems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image and video processing",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-336165-9&amp;con_lng=ENG\" target=\"blank\">Fundamentals of digital image processing / Anil K. Jain</a>\". Year:1989. ISBN:0-13-336165-9</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ltswww.epfl.ch/~courstiv/","http://ltswww.epfl.ch/%7Ecourstiv/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105043",
+      "name":"Ebrahimi Touradj"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Traitement du signal pour les communications",
+      "Bibliographie et matériel":"Polycopié du cours traitement d'images et vidéo[br/]Fundamentals of Digital Image Processing, A. K. Jain",
+      "Forme d'enseignement":"Ex cathedra, mini-projets",
+      "Contenu":"[b]Introduction, acquisition, restitution[/b][br/]Signaux et systèmes bidimensionnels. Signaux élémentaires. Transformation de Fourier bidimensionnelle. Propriétés. Discrétisation (artefacts spatiaux et spatio-temporels). Filtrage numérique bidimensionnel. Transformation en z bidimensionnelle. Fonction de transfert. Capteurs, moniteurs, imprimantes, binarisation, espaces couleurs.[br/][b]Filtres multidimensionnels[/b][br/]Élaboration de filtres à réponse impulsionnelle à étendue finie et infinie. Réalisation et implantation des filtres multidimensionnels. Décomposition directionnelle et filtres directionnels. Filtrage en sous-bandes M-D. Ondelettes M-D.[br/][b]Perception visuelle[/b][br/]Système nerveux. L'oeil. Rétine. Cortex visuel. Modèle du système visuel. Effets spéciaux. Phénomène de Mach et inhibition latérale. Couleur. Vision temporelle.[br/][b]Extraction de contours et d'attributs, segmentation[/b][br/]Méthodes locales. Méthodes régionales. Méthodes globales. Méthode de Canny. Morphologie mathématique. Segmentation, Estimation de mouvement[br/][b]Codage de l'information visuelle[/b][br/]Rappels de théorie de l'information et éléments de théorie du débit/distorsion. Méthodes classiques: prédictives, transformées, sous-bandes, quantification vectorielle. Méthodes nouvelles: multirésolution, psychovisuelles, par région (codage par segmentation, codage directionnel), fractales. Codage vidéo numérique : compensation de mouvement, télévision numérique, télévision haute définition. Normes : JPEG, MPEG, H.261, H.263",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Projets de semestre, de master, thèses",
+      "Objectifs d'apprentissage":"À la fin du cours, les étudiants seront capables de maîtriser les méthodes élémentaires de traitement d'images et vidéo et de les appliquer à des cas concrets"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image and video processing",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-336165-9&amp;con_lng=FRE\" target=\"blank\">Fundamentals of digital image processing / Anil K. Jain</a>\". Année:1989. ISBN:0-13-336165-9</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

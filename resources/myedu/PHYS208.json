@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775437&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","208"],
+    "title":"General physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775437&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lpn.epfl.ch/teaching","http://lpn.epfl.ch/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105530",
+      "name":"Kapon Elyahou"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Bibliography and material":"Polycopiés / Course notes",
+      "Prerequisite for":"General Physics III",
+      "Required prior knowledge":"General Physics I",
+      "Content":"[b]ELECTRICITY AND MAGNETISM[/b][br/][b]Electric fields:[/b] electric charges and fields; Coulomb's law; Gauss's law[br/][b]Electric potential and energy:[/b] potential; energy; capacitance and capacitors; dielectric materials[br/][b]Magnetism:[/b] magnetic forces and fields; Ampere's law; Biot-Savart law; vector potential[br/][b]Electromagnetism:[/b] electromotive force; Farady's law; inductance and inductors; Maxwell's equations[br/][br/][br/][b]WAVES[/b][br/][b]Wave motion:[/b] Wave equations; phase velocity; polarization; transmission; reflection; refraction; types of waves (mechanical, pressure, electromagnetic).[br/][b]Principle of superposition:[/b] Stationary waves; modes; beats; wave packets.[br/][b]Interference and diffraction:[/b] Huygens's principle; double slit interference; single slit diffraction; diffraction gratings; interferometers.[br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations, exercises in class",
+      "Learning outcomes":"Formulation of the principles of classical physics and establishment of the physical phenomena underlying the functioning of electromagnetic and wave systems.  Demonstration of experiments evidencing the relevant physical phenomena and illustrating various applications of the theory of classical physics.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lpn.epfl.ch/teaching","http://lpn.epfl.ch/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105530",
+      "name":"Kapon Elyahou"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale I",
+      "Bibliographie et matériel":"Polycopiés / Course notes",
+      "Forme d'enseignement":"Ex cathedra avec démonstration, exercices en salle",
+      "Contenu":"[b]ELECTRICITE ET MAGNETISME[/b][br/][b]Champs électriques :[/b] charge et champ électriques; loi de Coulomb; loi de Gauss.[br/][b]Potentiel et énergie électriques :[/b] potentiel; énergie; capacité et condensateurs; diélectriques.[br/][b]Conduction électrique :[/b] courants; résistance et résisteurs; loi d'Ohm; puissance électrique.[br/][b]Magnétisme :[/b] force et champ magnétique; loi d'Ampère; loi de Biot-Savart; potentiel vecteur.[br/][b]Electromagnétisme :[/b] force électromotrice; loi de Faraday; inductance; équations de Maxwell.[br/][br/][b]ONDES[/b][br/][b]Mouvement ondulatoire :[/b] équations d'ondes; vitesse de phase; polarisation; transmission; réflexion; réfraction; classification d'ondes (mécaniques; de pression; électromagnétiques).[br/][b]Principe de superposition :[/b] ondes stationnaires; modes; battements; paquets d'ondes.[br/][b]Interférence et diffraction :[/b] principe d'Huygens; interférence de doubles fentes; diffraction de fente unique ; réseaux de diffraction; interféromètres.[br/]",
+      "Préparation pour":"Physique générale III",
+      "Objectifs d'apprentissage":"Formuler les principes de la physique classique et connaître les phénomènes physiques gouvernant les fonctionnements des systèmes électromagnétiques et ondulatoires.  Montrer les expériences par lesquelles les phénomènes physiques pertinents sont mis en évidence et illustrer les applications des théories de la physique classique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

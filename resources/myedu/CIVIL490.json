@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136704168&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","490"],
+    "title":"Construction project",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=136704168&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Development of interactions between various aspects of con-struction : GEOTECHNICAL ENGINEERING, STRUCTURAL ANALYSIS, STRUCTURAL DESIGN, BRIDGES AND BUILDINGS, DAMS AND HYDRAULIC STRUCTURES.[br/]",
+      "Content":"Elaboration of a design project of a civil structure. Analysis of basic project data, generation of alternatives, comparison of alternatives and choice of the best solution, design and optimisation in the framework of a detailed design, cost estimation and construction planning, study of constructive details, elaboration of drawings (level detailed design and bidding document, ev. with reinforcement design). Technical report with detailed calculation. Executive summary.[br/][br/]Team project based on a general project program established by professors in charge."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Construction project",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Choix de sujets à partir du portail des projets sur IS-Academia, en accès sécurisé: http://is-academia.epfl.ch/[br/]Possibilité de soumettre le projet de semestre à différents prix (voir http://sac.epfl.ch), notamment au prix RUMBA (développement durable, voir http://rumba.epfl.ch/page-39818-fr.html).",
+      "Prérequis":"Cours dans les domaines 1, 2, 3 et 4 du 2ème cycle",
+      "Bibliographie et matériel":"Dossier des données de base par projet",
+      "Forme d'enseignement":"Projet",
+      "Contenu":"Élaboration d'un projet d'un ouvrage de génie civil. Analyse des données de base, génération des variantes, comparaison des variantes et choix de la meilleure variante, dimensionnement et optimisation dans le cadre d'un avant-projet, estimation des coûts, planification des travaux, étude des détails constructifs, élaboration d'un dossier de plans (niveau avant-projet et dossier de soumission, év. avec plans d'armature). Rapport technique avec notes de calcul. Résumé exécutif.[br/][br/]Travail réalisé en groupe selon un programme établi d'un commun accord avec les professeurs responsables.",
+      "Forme du contrôle":"Rendu du projet et présentation orale",
+      "Préparation pour":"Projet de Master",
+      "Objectifs d'apprentissage":"Mise en pratique et en synergie des enseignements dans les domaines des constructions : OUVRAGES LIES AU SOL, ANALYSE DES STRUCTURES, CONCEPTION ET DIMENSIONNEMENT DES STRUCTURES, PONTS ET BATIMENTS, BARRAGES ET CONSTRUCTIONS HYDRAULIQUES."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de construction",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":5,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

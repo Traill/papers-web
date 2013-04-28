@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584778525&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","373"],
+    "title":"Genetics and genomics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584778525&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182376",
+      "name":"Deplancke Bart"
+    },{
+      "url":"http://people.epfl.ch/170716",
+      "name":"Schorderet Daniel Francis"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Enabling students to understand the social implications of current genetics; apprehend the differences between mutations, risk factors and genetic variations; recognize the various modes of inheritance and calculate the probability of occurrence and recurrence; examine population and quantitative genetics, evolutionary and conservation genetics; understand the ethical implications of genetic testing and gene therapy. [br/][br/]The course should allow also the student to acquire a comprehensive overview of genome architecture and function. Specifically, it will provide an in-depth look at how the genome interacts with the protein interface in the context of gene regulatory networks and how this results in coordinated gene expression programs. Finally, the course aims to communicate how improving our understanding of the human genome will pave the way for personalized medicine. ",
+      "Content":"[li] Chromosomes - normal and abnormal; diseases associated to abnormal chromosomes.[br/][li] Modes of inheritance: Mendelian, non-mendelian, risk factors.[br/][li] Risk calculation: a priori and conditional approaches, importance and limits of genetic testing.[br/][li] Identification of new genes.[br/][li] Description of the principles of mutation and their effect on the individual and the society.[br/][li] Examples of the most frequent human chromosomal and genetic syndromes/diseases and genotype-phenotype correlations.[br/][li] What does it mean to be genetically different? What are genomic variants and how do they impact overall phenotypes?[br/][li] Ethical guidelines in genetic research, clinics and gene therapy.[br/][li] Genome composition and organization.[br/][li] Regulatory networks: what are their components, what is their architecture, and how do they operate?[br/][li] How is the genome structured within the cell nucleus and how does this impact genome function?[br/][li] Overview of novel, high-throughput sequencing technologies. [br/][li] How are regulatory networks assayed, what are the current methodological challenges? [br/][li] What is a minimal genome? How can we modify genomes for biotechnological applications?[br/][li] What is the future of genomics in the context of personalized medical treatments and applications?[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Genetics and genomics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4138-3&amp;con_lng=ENG\" target=\"blank\">Genomes 3 / T.A. Brown</a>\". Year:2007. ISBN:978-0-8153-4138-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7152-2&amp;con_lng=ENG\" target=\"blank\">GÃ©nÃ©tique / William S. Klug, Michael R. Cummings, Charlotte A. Spencer ; avec la contribution de Sarah M. Ward</a>\". Year:2006. ISBN:978-2-7440-7152-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182376",
+      "name":"Deplancke Bart"
+    },{
+      "url":"http://people.epfl.ch/170716",
+      "name":"Schorderet Daniel Francis"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Biologie cellulaire et moléculaire",
+      "Bibliographie et matériel":"Génétique / Klug - 8e édition, ISBN 2744071528[br/]Genomes / Brown - 3rd Edition ISBN 0 8153 4138 5",
+      "Forme d'enseignement":"Ex cathedra avec exercices.",
+      "Contenu":"[li] Chromosomes-normaux et anormaux; principales maladies chromosomiques.[br/][li] Les différents modes de transmission: mendéliens, non-mendéliens, facteurs de risque. [br/][li] Calcul de risque: a priori, conditionnel, importance et limites des analyses génétiques.[br/][li] Identification de nouveaux gènes.[br/][li] Différents types de mutation et effet sur l'individu et la population.[br/][li] Exemples des maladies héréditaires les plus fréquentes, corrélation génotype-phénotype.[br/][li] Qu'est-ce que cela signifie d'être génétiquement différent? Quelles sont les variantes génomiques et comment peuvent-ils avoir un impact phénotypes ensemble? [br/][li] Guide éthique sur la recherche et la maladie génétique et la thérapie génique.[br/][li] La composition et l'organisation du génome[br/][li] Les réseaux de régulation: que sont leurs composants, leurs architecture et comment fonctionnent-ils?[br/][li] Comment est structuré le génome dans le noyau de la cellule que est son impact dans la fonction du génome ? [br/][li] Vue d'ensemble des technologies de séquençage à haut débit[br/][li] Comment sont dosés les réseaux de régulation, que sont les défis méthodologiques actuels? [br/][li] Qu'est-ce qu'un génome minimal? Comment peut-on modifier le génome pour des applications biotechnologiques? [br/][li] Quel est l'avenir de la génomique dans le contexte d'application et de traitements médicaux personnalisés?",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Permettre à l'étudiant de comprendre les enjeux sociaux de la génétique actuelle, la différence entre mutations, les facteurs de risque et les variations génétiques; de reconnaître les différents modes de transmission et de calculer les risques de survenue ou de récidive pour chacune de ces transmissions; d'aborder la génétique des populations; des traits complexes et de l'évolution; de comprendre les implications éthiques des analyses génétiques et des thérapies géniques. [br/][br/]Par une approche globale, le cours doit également permettre à l'étudiant d'acquérir un aperçu de l'architecture et de la fonction du génome. Plus précisément, il fournira regard approfondi de la manière dont le génome interagit avec l'interface de protéines dans le contexte de réseaux de régulation génétique et comment cela se traduit dans les coordonnées des programmes d'expression génique. Enfin, le cours vise à communiquer la manière dont l'amélioration de notre compréhension du génome humain permettra d'ouvrir la voie à une médecine personnalisée."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Génétique et génomique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4138-3&amp;con_lng=FRE\" target=\"blank\">Genomes 3 / T.A. Brown</a>\". Année:2007. ISBN:978-0-8153-4138-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-7440-7152-2&amp;con_lng=FRE\" target=\"blank\">GÃ©nÃ©tique / William S. Klug, Michael R. Cummings, Charlotte A. Spencer ; avec la contribution de Sarah M. Ward</a>\". Année:2006. ISBN:978-2-7440-7152-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

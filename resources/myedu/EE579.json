@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=242340974&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","579"],
+    "title":"Applied Superconductivity",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=242340974&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lanos.epfl.ch/studinfo/courses/cours_supra","http://lanos.epfl.ch/studinfo/courses/cours_supra"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105035",
+      "name":"Dutoit Bertrand"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Students will know the superconducting materials and their main properties as well as a wide range of their applications in energy and electronic. Knowledge of manufacturing processes and devices functions based on those elements, will enable them to evaluate potential electrical engineering applications. They will also have a good understanding of the superconductor's use in electronic and detection.",
+      "Content":"[b]Superconductors properties[/b][br/]- electric and magnetic properties[br/]- vortex definition[br/]- mixed state in type II superconductors[br/]- low temperatrue classical superconductors[br/][br/][b]Superconductors wires and tapes[/b][br/]- manufacturing[br/]- thermic stability[br/]- AC losses[br/][br/][b]Electrical engineering applications[/b][br/]- cables, current limiters, transformers[br/]- supraconducting coils and energy storage[br/][br/][b]Josephson effects applications[/b][br/]- Josephson'junctions, tunneling, SQUID, electronic devices[br/][br/][b]Superconducting sensors[/b][br/][br/][b]High frequencies[/b][br/]- antennas, filters, resonant cavities, delay line"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Applied Superconductivity",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-08-021651-X&amp;con_lng=ENG\" target=\"blank\">Introduction to superconductivity / Alistair Christopher Rose-Innes, E.H.Rhoderick</a>\". Year:1978. ISBN:0-08-021651-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lanos.epfl.ch/studinfo/courses/cours_supra","http://lanos.epfl.ch/studinfo/courses/cours_supra"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105035",
+      "name":"Dutoit Bertrand"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[b]Propriétés des supraconducteurs[/b][br/]- caractéristiques électriques et magnétiques[br/]- définition du vortex[br/]- l'état mixte dans les supraconducteurs du type II[br/]- supraconducteurs classiques[br/][br/][b]Fils et ruban supraconducteurs[/b][br/]- fabrication[br/]- stabilité thermique[br/]- pertes en régime dynamique[br/][br/][b]Applications dans le domaine de l'énergie électrique[/b][br/]- câbles, limiteur de courant, transformateurs[br/]- bobines supraconductrices, stockage d'énergie[br/][br/][b]L'effet Josephson et ses applications[/b][br/]- jonctions, effet tunnel, SQUID, composants électroniques[br/][br/][b]Capteurs supraconducteurs[/b][br/][br/][b]Utilisations hyperfréquences[/b][br/]- antennes, filtres, cavités résonnantes, lignes à retard.",
+      "Bibliographie et matériel":"Introduction to Superconductivity[br/]Rose-Innes A. C. Rhoderick[br/]ISBN : 0-08-021652-8, Second Edition, Pergamon Press",
+      "Objectifs d'apprentissage":"Les étudiants connaîtront les matériaux supraconducteurs, l'essentiel de leurs propriétés ainsi qu'une large palette d'applications en énergie et en électronique. Une connaissance des méthodes de fabrication et du fonctionnement de dispositifis basés sur ces éléments les rendront capables d'évaluer les applications potentielles en génie électrique. Ils possèderont également une bonne compréhension des utilisations des supraconducteurs faites en électronique et dans la détection."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Applications en supraconductivité",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-08-021651-X&amp;con_lng=FRE\" target=\"blank\">Introduction to superconductivity / Alistair Christopher Rose-Innes, E.H.Rhoderick</a>\". Année:1978. ISBN:0-08-021651-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

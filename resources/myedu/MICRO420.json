@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350860841&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","420"],
+    "title":"Advanced optics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350860841&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"MT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced optics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"- Summary of fundamental optics (ray optics, Maxwell's equations, wave optics and polarization optics)[br/]- Optical beams and Fourier optics[br/]- Optics of crystals[br/]- Stratified media and photonics crystals[br/]- Light scattering[br/]- Optics of metals and plasmonics[br/]- Acousto-optics and electro-optics[br/]- Nonlinear optics[br/]- Optics of metals and photonic crystals",
+      "Préparation pour":"All advanced optics courses.",
+      "Prérequis":"General knowledge of fundamental optics, e.g. courses Ingénierie Optique I & II",
+      "Objectifs d'apprentissage":"This course builds up on knowledge in optics and photonics acquired during the bachelor cycle and develops specific advanced topics of modern optics, with emphasis on applications."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced optics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

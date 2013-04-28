@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=974902978&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","709"],
+    "title":"New Concretes for Structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=974902978&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://phd.epfl.ch/page84375.html","http://phd.epfl.ch/page84375.html"],["http://mcs.epfl.ch","http://mcs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104926",
+      "name":"Denarié Emmanuel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"Basic components,binders,admixtures and adjunctions.[br/][li] Rheology of fresh cementitious materials.[br/][li] Bases of Fibre Reinforced Concretes.[br/][li] Formulation of UHPFRC.[br/][li] Hydration, heat transport, moisture transport. [br/][li] Mechanics of strain hardening fibre reinforced concretes and combination with rebars.[br/][li] Time dependent behaviour of UHPFRC - creep and shrinkage, response under restraint.[br/][li] Applications on new and existing structures - case studies.[br/][li] Ways towards conceptual design of innovative structures with UHPFRC.    [br/]",
+      "Keywords":"Cementitious Composites, Fibres, UHPFRC, Strain hardening, Creep, Shrinkage, Formulation, Rheology. Modelling ",
+      "Required prior knowledge":"Basic course on Building Materials, Continuum Mechanics, Structural Mechanics, Physics and Chemistry"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"New Concretes for Structures",
+    "recitation":{
+      "total_hours":7
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":21
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://phd.epfl.ch/page84375.html","http://phd.epfl.ch/page84375.html"],["http://mcs.epfl.ch","http://mcs.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104926",
+      "name":"Denarié Emmanuel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Basic components,binders,admixtures and adjunctions.[br/][li] Rheology of fresh cementitious materials.[br/][li] Bases of Fibre Reinforced Concretes.[br/][li] Formulation of UHPFRC.[br/][li] Hydration, heat transport, moisture transport. [br/][li] Mechanics of strain hardening fibre reinforced concretes and combination with rebars.[br/][li] Time dependent behaviour of UHPFRC - creep and shrinkage, response under restraint.[br/][li] Applications on new and existing structures - case studies.[br/][li] Ways towards conceptual design of innovative structures with UHPFRC.    [br/]",
+      "Prérequis":"Basic course on Building Materials, Continuum Mechanics, Structural Mechanics, Physics and Chemistry",
+      "Mots clés":"Cementitious Composites, Fibres, UHPFRC, Strain hardening, Creep, Shrinkage, Formulation, Rheology. Modelling "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"New Concretes for Structures",
+    "recitation":{
+      "total_hours":7
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":21
+    }
+  }
+}

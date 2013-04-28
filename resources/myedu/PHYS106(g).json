@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775437&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","106(g)"],
+    "title":"General physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775437&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161577",
+      "name":"Grandjean Nicolas"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Optional tests and written exam at the end of the semester",
+      "Prerequisite for":"General physics III",
+      "Required prior knowledge":"General Physics I",
+      "Content":"The course may contain, but not exclusively, the following elements : [br/][][br/][br/][b]Mechanics[/b][br/][b]Dynamics of a system of point masses and solides[/b][br/]Center of mass, angular momentum, energy, rigid body, gyroscopic effects.[br/][b]Change of reference frame[/b][br/]Galiliean invariance, dynamics in non-inertial reference frames.[br/][b]Special relativity[/b][br/]Lorentz transformations, relativistic momentum and energy.[br/][b]Supplementary material[/b][br/]Analytical mechanics[br/][][br/][b]Thermodynamics[/b] [br/][b]Equilibrium[/b][br/]Pressure, temperature, internal energy.[br/][b]Energy exchanges[/b][br/]Work and heat. First principle.[br/][b]Entropy[/b][br/]Second principle. Cycles,(Carnot). Efficiency.[br/][b]Supplementary material according to sections[/b][br/]Thermodynamic potentials, statistical interpretation of the 2nd principle, irreversible processes, heat conduction, bodily diffusion, phase transitions.[br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises supervised in class",
+      "Learning outcomes":"Give the student the basic notions that will allow him or her to have a better understanding of physical phenomena. Acquire the capacity to analyse quantitatively the consequences of these effects with appropriate theoretical tools."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-85377-0&amp;con_lng=ENG\" target=\"blank\">Introduction à la thermodynamique / José-Philippe Pérez, Patrick Laffont</a>\". Year:1996. ISBN:2-225-85377-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-305-2&amp;con_lng=ENG\" target=\"blank\">Mécanique générale / Christian Gruber, Willy Benoit</a>\". Year:1998. ISBN:2-88074-305-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=ENG\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Year:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161577",
+      "name":"Grandjean Nicolas"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale I",
+      "Bibliographie et matériel":"Mécanique générale, C. Gruber, W. Benoit[br/]University Physics, A. Hudson & R. Nelson[br/]Introduction à la thermodynamique, J.-P. Pérez & P. Laffont",
+      "Forme d'enseignement":"Ex cathedra et exercices dirigés en classe",
+      "Contenu":"L'enseignement peut contenir, mais pas exclusivement, les éléments suivants :\t[br/][br/][b]Mécanique[/b] [br/][b]Dynamique des systèmes [/b][br/]Centre de masse. Moment cinétique. Energie. Solide rigide. Effets gyroscopiques. [br/][b]Changements de référentiels[/b] [br/]Invariance galiléenne. Dynamique dans les référentiels non inertiels.[br/][b]Relativité restreinte[/b] [br/]Transformation de Lorentz. Quantité de mouvement et énergie relativistes.[br/][b]Compléments [/b][br/]Mécanique analytique[br/][br/][b]Thermodynamique[/b] [br/][b]Equilibre[/b] [br/]Pression, température, énergie interne.[br/][b]Echanges d'énergie[/b] [br/]Travail et chaleur. Premier principe.[br/][b]Entropie[/b] [br/]2ème principe. Cycles (Carnot). Rendement.[br/][b]Compléments[/b] (selon sections)[br/]Potentiels thermodynamiques. Interprétation statistique du 2ème  principe. Processus irréversibles, conduction de la chaleur et diffusion de la matière. Transitions de phase.[br/]",
+      "Forme du contrôle":"Epreuves facultatives et examen écrit à la fin du semestre",
+      "Préparation pour":"Physique générale III",
+      "Objectifs d'apprentissage":"Donner à l'étudiant les notions de base nécessaires à la compréhension des phénomènes physiques. Etre capable de prévoir quantitativement les conséquences de ces phénomènes avec des outils théoriques appropriés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-85377-0&amp;con_lng=FRE\" target=\"blank\">Introduction à la thermodynamique / José-Philippe Pérez, Patrick Laffont</a>\". Année:1996. ISBN:2-225-85377-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-305-2&amp;con_lng=FRE\" target=\"blank\">Mécanique générale / Christian Gruber, Willy Benoit</a>\". Année:1998. ISBN:2-88074-305-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=FRE\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Année:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128917228&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","490"],
+    "title":"Business plan for IT services",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128917228&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lams.epfl.ch/course/bits","http://lams.epfl.ch/course/bits"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112464",
+      "name":"Wegmann Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Services are becoming the main providers of value in many market economies. Services are increasingly dependent on IT. Many enterprises or entrepreneurs risk failure because they design products rather than services. Even basic products need minimal services without which they cannot be sold (e.g. warranty, customer service).[br/][br/]In this course you will work in teams. You will choose an idea of IT service and analyze the business environnment of this service. You will then design a business model for your IT service. To do so, you will use traditional marketing methods as well as SEAM - an innovative method that provide a systemic model of a business.",
+      "Content":"The students, working as groups, have to: [br/][b](1)[/b] Imagine an IT service to develop,[br/][b](2)[/b] Identify and analyze the relevant markets, validate their understanding with interviews of target customers and partners,[br/][b](3)[/b] define the qualitative and quantitative goals for their project,[br/][b](4)[/b] check the financial viability of their project. [br/][br/]Topics : segmentation, assumption surfacing, value creation, competitive analysis, strategy canvas, inter-organization relationship, and simple financial analysis. The Amazon company is extensively analyzed to illustrate these concepts.[br/]",
+      "Type of teaching":"Problem-based teaching + group work",
+      "Form of examination":"With continuous control",
+      "Bibliography and material":"Philip Kotler, Marketing Management, Prentice Hall"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Business plan for IT services",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-135797-6&amp;con_lng=ENG\" target=\"blank\">Marketing management / Philip Kotler, Kevin Lane Keller</a>\". Year:2009. ISBN:978-0-13-135797-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lams.epfl.ch/course/bits","http://lams.epfl.ch/course/bits"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112464",
+      "name":"Wegmann Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Enseignement à base de problèmes & travail en groupes",
+      "Contenu":"Les étudiants travaillant en groupes, doivent :[br/][b](1)[/b] imaginer un service informatique à développer,[br/][b](2)[/b] identifier et analyser les marchés pertinents, valider leur compréhension grâce à des interviews de leur futurs clients et partenaires, [br/][b](3)[/b] définir les buts qualitatifs et quantitatifs pour leur projet, [br/][b](4)[/b] vérifier la viabilité financière de leur projet.[br/][br/]Sujets : segmentation, identification des hypothèses, création de valeur, analyse compétitive, canevas stratégique relations inter entreprises et simple analyse financière. L'entreprise Amazon est analysée en détails pour illustrer ces concepts.",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Bibliographie et matériel":"Philip Kotler, Marketing Management, Prentice Hall",
+      "Objectifs d'apprentissage":"Les services deviennent les principaux créateurs de valeur dans beaucoup de marchés. La fourniture de services dépend de plus en plus de l'informatique. Même des produits simples demandent des services minimaux pour être vendus (par exemple, garantie, service après-vente).[br/][br/]Dans ce cours, vous travaillerez en groupe. Vous choisirez une idée de service. Ensuite, vous analyserez son environnement commercial et définirez une stratégie commerciale pour ce service informatique. Pour cela, vous utiliserez des méthodes marketing traditionnelles ainsi que SEAM - une méthode innovatrice qui fournit une vue systémique des entreprises."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Business plan for IT services",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-135797-6&amp;con_lng=FRE\" target=\"blank\">Marketing management / Philip Kotler, Kevin Lane Keller</a>\". Année:2009. ISBN:978-0-13-135797-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

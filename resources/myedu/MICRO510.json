@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2226230&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","510"],
+    "title":"Actuator control by way of a microprocessor",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2226230&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/105563",
+      "name":"Köchli Christian"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To apply the bases of digital electronics to motor and integrated actuators control. To allow for their appropriate use in a wide spectrum of applications from micro-robotics to transfer systems.[br/][]",
+      "Content":"Principles, architecture of the control electronics (peripherals, memory management, real time...).[br/][br/]Development methodology of the motor/actuator control.[br/][br/]Design and use of a decoupled switch and of an H-bridge for the speed control of a DC motor using a dedicated DSP.[br/][br/]Control of a permanent magnet synchronous motor (brushless) :[br/][li]Two phases ON commutation[br/][li]Sinusoidal supply.[br/][li]Application to position control of the motor.[br/][br/]Software development in C on Texas Instruments TMS320F2812 development platform.[br/][][br/][][br/][]",
+      "Type of teaching":"Ex cathedra lectures alterning with practical works allowing the students to experiment learned the concepts.[br/][]",
+      "Form of examination":"Presence at practicals[br/]Oral exam     ",
+      "Required prior knowledge":"Microcontrôleurs,  Conversion électromécanique II    "
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Actuator control by way of a microprocessor",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101913",
+      "name":"Hodder André"
+    },{
+      "url":"http://people.epfl.ch/105563",
+      "name":"Köchli Christian"
+    },{
+      "url":"http://people.epfl.ch/106071",
+      "name":"Perriard Yves"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra en alternance avec des travaux pratiques où les étudiants pourront directement expérimenter les concepts acquis en cours.",
+      "Contenu":"Principes, architecture de l'électronique de commande (périphériques, gestion de la mémoire, temps réel...).[br/][br/]Méthodologie de développement de la commande de moteurs/actionneurs.[br/][br/]Réalisation et utilisation d'un interrupteur découplé puis d'un pont en H pour la commande en vitesse d'un moteur à courant continu à l'aide d'un DSP dédié.[br/][br/]Commande d'un moteur synchrone à aimants permanents (brushless) :[br/][li]alimentation à 120°[br/][li]alimentation sinusoïdale[br/][li]application au réglage en position de type axe de machine-outil.[br/][br/]Programmation en C sur la plateforme de développement TMS320F2812 de Texas Instruments.",
+      "Forme du contrôle":"Présence aux TP[br/]Examen oral     ",
+      "Prérequis":"Microcontrôleurs,  Conversion électromécanique II    ",
+      "Objectifs d'apprentissage":"Appliquer les bases de l'électronique digitale (programmation C sur DSP) à la commande de moteurs et d'actionneurs intégrés. Permettre leur utilisation judicieuse dans des applications allant de la micro-robotique aux systèmes de transfert."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Commande d'actionneurs à l'aide d'un microprocesseur + TP",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

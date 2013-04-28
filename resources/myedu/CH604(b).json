@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=68613470&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","604(b)"],
+    "title":"Biomedical approaches for drug evaluation (b)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=68613470&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150301",
+      "name":"Juillerat-Jeanneret Lucienne"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Presentation of the approaches used in biomedical research to define a potential target for the treatment of human diseases, of the problems to solve and of the experimental methods used to evaluate synthetic molecules. The goal will be to present a few examples, focusing on cancer, of the ways targets for drugs are defined, and how synthetic molecules are tested using biomedical models. The students will participate in the evaluation of experimental molecules in cell cultures in a biomedical research laboratory and will be commented evaluation of human surgical specimens by histological techniques to define drug targets.",
+      "Content":"1. What is a cancer, and how to define a potential drug target in a human tumor ?[br/]2. Experimental in vitro system to evaluate drugs: Cell cultures and tissues[br/]3. Proteases and tissue invasion of cancer cells: a first example of development of synthetic molecules to control cancer progression [br/]4. Formation of new blood vessels in cancer: a second example of development of synthetic molecules to control cancer progression.[br/]5. Inducing tumor cell death and growth inhibition: an overview of the approaches developed using synthetic molecules to overcome the mechanisms of resistance of cancer cells[br/]6. Developing new approaches to detect tumors using synthetic molecules: the example of photodynamic detection and the development of targeted photosensitizers.[br/]7. Cellular and histological tools to define and evaluate drug therapeutic potential.[br/]8. One afternoon of practical work in a biomedical research laboratory to participate to the evaluation of surgical sam-ples using histological tools: evaluation of cell proliferation, cell death, expression of differentiation markers.[br/]",
+      "Required prior knowledge":"Basic knowledge of biology"
+    },
+    "practical":{
+      "total_hours":3
+    },
+    "language":"English",
+    "title":"Biomedical approaches for drug evaluation (b)",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150301",
+      "name":"Juillerat-Jeanneret Lucienne"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. What is a cancer, and how to define a potential drug target in a human tumor ?[br/]2. Experimental in vitro system to evaluate drugs: Cell cultures and tissues[br/]3. Proteases and tissue invasion of cancer cells: a first example of development of synthetic molecules to control cancer progression [br/]4. Formation of new blood vessels in cancer: a second example of development of synthetic molecules to control cancer progression.[br/]5. Inducing tumor cell death and growth inhibition: an overview of the approaches developed using synthetic molecules to overcome the mechanisms of resistance of cancer cells[br/]6. Developing new approaches to detect tumors using synthetic molecules: the example of photodynamic detection and the development of targeted photosensitizers.[br/]7. Cellular and histological tools to define and evaluate drug therapeutic potential.[br/]8. One afternoon of practical work in a biomedical research laboratory to participate to the evaluation of surgical sam-ples using histological tools: evaluation of cell proliferation, cell death, expression of differentiation markers.[br/]",
+      "Prérequis":"Basic knowledge of biology",
+      "Objectifs d'apprentissage":"Presentation of the approaches used in biomedical research to define a potential target for the treatment of human diseases, of the problems to solve and of the experimental methods used to evaluate synthetic molecules. The goal will be to present a few examples, focusing on cancer, of the ways targets for drugs are defined, and how synthetic molecules are tested using biomedical models. The students will participate in the evaluation of experimental molecules in cell cultures in a biomedical research laboratory and will be commented evaluation of human surgical specimens by histological techniques to define drug targets."
+    },
+    "practical":{
+      "total_hours":3
+    },
+    "language":"English",
+    "title":"Biomedical approaches for drug evaluation (b)",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":12
+    }
+  }
+}

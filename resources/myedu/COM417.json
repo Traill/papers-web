@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348759561&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","417"],
+    "title":"Advanced probability",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348759561&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/~leveque/Advanced_Prob/","http://ipg.epfl.ch/%7Eleveque/Advanced_Prob/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107931",
+      "name":"Lévêque Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Midterm 10%, homeworks 10%, exam 80%",
+      "Bibliography and material":"G. R. Grimmett, D. R. Stirzacker, Probability and Random Processes, 3rd edition, Oxford University Press, 2001",
+      "Required prior knowledge":"Probabilités et statistique (MATH-232), Modèles stochastiques pour les communications (COM-300), Algèbre linéaire (MATH-111b), Analyse IV (MATH-207b)",
+      "Content":"I. Probability[br/][br/]- sigma-filed, probability measures, random variables[br/]- independence, expectation[br/]- convergences of sequences of random variables[br/]- laws of large numbers[br/]- central limit theorem, large deviations[br/]- random walks[br/][br/]II. Martingales[br/][br/]- conditional expectation[br/]- definition and properties of a martingale[br/]- stopping times, optional stopping theorem[br/]- maximal inequalities[br/]- convergence theorems[br/]- concentration inequalities",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Learning outcomes":"The goal of the class is to acquire a strong background in probability and stochastic processes, that is needed in many areas of communication systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced probability",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-857223-7&amp;con_lng=ENG\" target=\"blank\">Probability and random processes / Geoffrey R. Grimmett and David R. Stirzaker</a>\". Year:2009. ISBN:978-0-19-857223-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/~leveque/Advanced_Prob/","http://ipg.epfl.ch/%7Eleveque/Advanced_Prob/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107931",
+      "name":"Lévêque Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Probabilités et statistique (MATH-232), Modèles stochastiques pour les communications (COM-300), Algèbre linéaire (MATH-111b), Analyse IV (MATH-207b)",
+      "Bibliographie et matériel":"G. R. Grimmett, D. R. Stirzacker, Probability and Random Processes, 3rd edition, Oxford University Press, 2001",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"I. Probabilité[br/][br/]- tribus, mesures de probabilité, variables aléatoires[br/]- indépendance, espérance[br/]- convergences de suites de variables aléatoires[br/]- loi des grands nombres[br/]- théorème central limite, grandes déviations[br/]- marches aléatoires[br/][br/]II. Martingales[br/][br/]- espérance conditionnelle[br/]- définition et propriétés d'une martingale[br/]- temps d'arrêt, théorème d'arrêt[br/]- inégalités maximales[br/]- théorèmes de convergences[br/]- inégalités de concentration",
+      "Forme du contrôle":"Examen intermédiaire 10%, devoirs 10%, examen 80%",
+      "Objectifs d'apprentissage":"Le but du cours est d'acquérir de solides connaissances en probabilités et processus stochastiques, qui sont nécessaires dans beaucoup de domaines reliés aux systèmes de communications."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced probability",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-857223-7&amp;con_lng=FRE\" target=\"blank\">Probability and random processes / Geoffrey R. Grimmett and David R. Stirzaker</a>\". Année:2009. ISBN:978-0-19-857223-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

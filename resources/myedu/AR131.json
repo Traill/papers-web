@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837374049&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=fr",
+    "code":["AR","131"],
+    "title":"Construction and sustainability I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837374049&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108031",
+      "name":"Bolomey Dan-Alexis"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To provide the cornerstones for a global approach to construction and materials in view of an elementary, yet coherent mastery of techniques in an architectural project.[br/][br/]Students are intended to acquire[br/][br/][li]the ability to observe and represent construction;[br/][li]a knowledge of systems and processes in connection with load-bearing and façade structures;[br/][li]a knowledge of the main construction materials and the techniques involved in their use;[br/][li]a logical understanding of the types of construction (construction geometries, the transmission of forces, stability, the elementary physics of façades);[br/][li]an introduction to construction scales (modules, proportions, dimensioning, thicknesses).[br/][br/]This should enable students to[br/][br/][li]take stock: to reference and understand common building systems;[br/][li]compare: to identify and differentiate between solutions;[br/][li]name: to recognise and know the parts of a constructed whole;[br/][li]proportion: to give material expression and order to the various parts of a work;[br/][li]plan a project: to draw up and communicate solutions.[br/]",
+      "Content":"This course deals with the material elements of construction and the method of and approach to construction in parallel with the basic ideas about various construction materials and their use.[br/][br/]The two aspects - construction and materials - are dealt with in a logical sequence that will help students to understand the reciprocal relationship between the two subjects and to master their interdependence.[br/][br/]With the help of lectures and commented exercises, the course aims to teach knowledge and know-how in the field of construction.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Construction and sustainability I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108031",
+      "name":"Bolomey Dan-Alexis"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Théorie et critique du projet, suite du cours au Bachelor.",
+      "Bibliographie et matériel":"Sera distribuée pendant les cours : manuels de construction, polycopiés, fiches thématiques.",
+      "Forme d'enseignement":"Cours ex cathedra. Visites de chantier. Exercices.",
+      "Contenu":"Le cours traite des éléments matériels de la construction, de la méthode et de la démarche constructive en parallèle aux notions de base sur les différents matériaux de construction et sur leur mise en oeuvre.[br/][br/]Les deux volets - construction et matériaux - sont traités dans une suite logique qui aide à la compréhension réciproque des deux matières et qui permet ainsi la maîtrise de leur interdépendance.[br/]Par le biais de cours et d'exercices commentés, le cours vise à l'acquisition d'un savoir et d'un savoir-faire constructifs.[br/]",
+      "Forme du contrôle":"Examen écrit composé d'une partie « construction » (conception d'une structure simple et dessin d'un détail constructif, 75% de la note) et d'une partie « matériaux » (questions, 25% de la note).",
+      "Préparation pour":"Théorie et critique du projet, suite du cours au Bachelor.",
+      "Objectifs d'apprentissage":"[li]Capacité à observer et à représenter la construction,[br/][li]Connaissance des systèmes et procédés de structure porteuse et d'enveloppe,[br/][li]Connaissance des principaux matériaux de construction et des techniques de mise en oeuvre,[br/][li]Compréhension logique des types constructifs (géométries constructives, transmission des forces, stabilité, physique élémentaire des enveloppes),[br/][li]Initiation aux échelles constructives (modules, proportions, dimensionnements, épaisseurs).[br/][br/]Il doit permettre à l'étudiant de :[br/][br/][li]Inventorier : référencer et comprendre les systèmes constructifs communs,[br/][li]Comparer : identifier et différencier les solutions,[br/][li]Nommer : reconnaître et connaître les parties d'un ensemble construit,[br/][li]Proportionner : matérialiser et ordonner les différentes parties d'ouvrage,[br/][li]Projeter : composer et communiquer des solutions.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Construction et durabilité I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

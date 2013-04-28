@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=414819112&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","331"],
+    "title":"Design and dimensioning of Timber structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=414819112&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140968",
+      "name":"Humbert Laurent"
+    },{
+      "url":"http://people.epfl.ch/156151",
+      "name":"Weinand Yves"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduce wood material: structural, physical and mechanical characteristics.[br/][br/]Understand and dimension simple elements of timber constructions.",
+      "Content":"The first part is dedicated to wood material. In particular, attention is given to the macro/micro structure of wood, its physical and mechanical properties including hygroscopicity, anisotropic behavior and creep.[br/][br/]The second part introduces the dimensioning bases for simple structural timber elements. The different kinds of actions, the limit states, the establishment and verification of safety conditions are presented. The assemblies and connectors used in timber construction are described in detail. The presentation follows the prevailing standard SIA 265 and Eurocode.[br/][br/]\t[br/]In the last part, some constructive and protective aspects of current timber structures are approached. In particular, the following topics are presented: fire resistance, concrete-wood structures, Physics and acoustics of buildings, the principles of triangulation and stabilization."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design and dimensioning of Timber structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-609-4&amp;con_lng=ENG\" target=\"blank\">Construction en bois : matériau, technologie et dimensionnement / Julius Natterer, Jean Luc Sandoz, Martial Rey ; avec la collab. de Maurice Fiaux</a>\". Year:2004. ISBN:2-88074-609-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-736-7&amp;con_lng=ENG\" target=\"blank\">Dimensionnement des structures en bois : aide au calcul basé sur la norme SIA 265 \"Constructions en bois\" : cours pour les HES / Pierre-André Dupraz, Markus Mooser, Denis Pflug</a>\". Year:2009. ISBN:978-2-88074-736-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140968",
+      "name":"Humbert Laurent"
+    },{
+      "url":"http://people.epfl.ch/156151",
+      "name":"Weinand Yves"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"[li] P-A Dupraz, M. Mooser, D. Plug ; « Dimensionnement des structures en bois - aide au calcul basé sur la norme SIA 265 », PPUR, 2010[br/][li] TGC13 : Construction en bois[br/][li] Structures en bois aux états limites- 2 Introduction à l'Eurocode 5 - Calcul de structure[br/]",
+      "Forme d'enseignement":"Cours ex cathedra. Exercices individuels et en groupe.",
+      "Contenu":"Une première partie du cours est consacrée au matériau bois. On s'intéresse notamment à la macro/microstructure du bois, à ses propriétés physiques (par ex. l'hygroscopie) et mécaniques (comportement anisotrope et fluage).[br/][br/]La seconde partie introduit les bases du dimensionnement d'éléments structuraux simples en bois. Les différents types d'actions, les états limites, l'établissement et la vérification des conditions de sécurité (structurale et aptitude au service) sont présentés. Les différents moyens d'assemblage et connecteurs intervenant  dans la construction bois sont décrits de manière détaillée. L'exposé suit globalement les normes SIA 265 et Eurocode 5 en vigueur.[br/][br/]Dans une dernière partie, on aborde certains aspects constructifs et protectifs de structures courantes en bois. On développe en particulier les thématiques suivantes : résistance au feu, structures bois-béton, physique et acoustique des bâtiments, triangulation et stabilisation.",
+      "Forme du contrôle":"Écrit",
+      "Préparation pour":"Cours de construction en bois",
+      "Objectifs d'apprentissage":"Introduire le matériau bois : caractéristiques structurelle, physique et mécanique.[br/][br/]Comprendre et dimensionner des éléments de construction simples en bois."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conception et dimensionnement des structures en bois",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-609-4&amp;con_lng=FRE\" target=\"blank\">Construction en bois : matériau, technologie et dimensionnement / Julius Natterer, Jean Luc Sandoz, Martial Rey ; avec la collab. de Maurice Fiaux</a>\". Année:2004. ISBN:2-88074-609-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-736-7&amp;con_lng=FRE\" target=\"blank\">Dimensionnement des structures en bois : aide au calcul basé sur la norme SIA 265 \"Constructions en bois\" : cours pour les HES / Pierre-André Dupraz, Markus Mooser, Denis Pflug</a>\". Année:2009. ISBN:978-2-88074-736-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

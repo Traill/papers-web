@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773562&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","101"],
+    "title":"Elements of micromechanical design and CAD II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773562&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    },{
+      "url":"http://people.epfl.ch/218963",
+      "name":"Ferrot Jean-François"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[b]Construction[/b][br/]To be able to use and understand the graphic tools used in mechanics. To master the basic tolerances related to fabrication processes. To know the methods and tools used when designing. To know how to size basic mechanical elements[br/][br/][b]CAD (Computer Assisted Design)[/b][br/]The goal of the lecture is to familiarize the student with computer assisted designing and its advantages and limitations. Exercises concentrate on direct working on computer and using designing techniques in concrete microengineering construction projects.[br/]",
+      "Content":"[b]CAD[/b][br/]Introduction to CAD (drawing and design)[br/]Room organization, machines network.[br/]Files creation and organization.[br/]Study of the CAD-software.[br/]Printing of drawings.[br/]",
+      "Type of teaching":"Lectures and exercices",
+      "Prerequisite for":"Components for microengineering I, II",
+      "Form of examination":"Test + project"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Elements of micromechanical design and CAD II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/139539",
+      "name":"Dewarrat Stéphane"
+    },{
+      "url":"http://people.epfl.ch/218963",
+      "name":"Ferrot Jean-François"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Extraits de normes, cours polycopié, doc. PTC",
+      "Forme d'enseignement":"Exposé oral + exercices",
+      "Contenu":"[b]DAO[/b][br/]Introduction à la DAO et la CAO.[br/]Organisation de la salle, réseau de machines.[br/]Sauvegarde, création et organisation des fichiers.[br/]Étude du logiciel CAO.[br/]Impression des dessins.",
+      "Forme du contrôle":"Test + projet",
+      "Préparation pour":"Composants de la microtechnique I, II",
+      "Objectifs d'apprentissage":"[b]Construction[/b][br/]Être capable de s'exprimer et de comprendre les moyens graphiques utilisés en mécanique. Maîtriser les tolérances de base liées aux procédés de fabrication. Connaître les méthodes et les outils de travail utilisés lors de la conception. Savoir dimensionner les éléments mécaniques de base.[br/][br/][b]DAO[/b][br/]Le cours a pour but de familiariser l'étudiant avec l'outil de dessin assisté par ordinateur, d'en comprendre les avantages et limitations. Les séances d'exercices mettent l'accent sur le travail à l'écran et l'organisation des techniques de création du dessin dans le cadre de projets de construction en microtechnique."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Eléments de construction et DAO II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

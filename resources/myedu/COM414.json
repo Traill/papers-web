@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24166696&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","414"],
+    "title":"Satellite communications  systems and networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24166696&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"SC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=2551","http://moodle.epfl.ch/course/view.php?id=2551"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/129099",
+      "name":"Farserotu John"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"With continuous control and exercises to hand in each week",
+      "Bibliography and material":"J. Farserotu and R. Prasad, [i]Mobile Satellite over IP/ATM Networks[/i] Artech House, UK, 2001.[br/]R. Gagliardi, Satellite Communications, Van Nostrand Reinhold Company, New York, US, 1984",
+      "Required prior knowledge":"Basic knowledge of communications and networks recommended",
+      "Content":"Introduction to satellite communication[br/]- Current systems and services (e.g. INMARSAT)[br/]- SATCOM transmitters, receivers and antennas[br/]- SATCOM link budget analysis[br/]Mobile satellite channel [br/]- Multipath, shadowing, Doppler spread, delay spread[br/]- Waveform design implications[br/]SATCOM multiple access and access control[br/]- FDMA, TDMA, CDMA and capacity and trades[br/]- Random access and MAC (e.g. FAMA, DAMA)[br/]SATCOM modulation, error correction and control[br/]- MPSK, MPSK TCM modulation and demodulation[br/]- Convolutional coding, Viterbi decoding, error control[br/]SATCOM antennas[br/]- Satellite phased array and mobile terminal antennas[br/]- Antenna diversity combining techniques[br/]TCP/IP over SATCOM[br/]- TCP/IP over satellite performance issues[br/]- Satellite IP enhancements, routing, congestion control[br/]IP/ATM over satellite networks[br/]- Introduction to IP/ATM over SATCOM[br/]- IP/ATM SATCOM network integration and control[br/]Emerging systems and issues[br/]- Broadband and Satellite UMTS (S-UMTS)[br/]- SATCOM system cost considerations[br/]Special topics in wireless communication[br/]- High Altitude Platforms (HAPs)[br/]- Wireless on-board",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Learning outcomes":"Study of mobile satellite communication (SATCOM) systems and IP/ATM satellite networks. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Satellite communications  systems and networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58053-112-1&amp;con_lng=ENG\" target=\"blank\">IP/ATM mobile satellite networks / John Farserotu, Ramjee Prasad</a>\". Year:2002. ISBN:1-58053-112-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-442-22745-0&amp;con_lng=ENG\" target=\"blank\">Satellite communications / Robert M. Gagliardi</a>\". Year:1991. ISBN:0-442-22745-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=2551","http://moodle.epfl.ch/course/view.php?id=2551"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/129099",
+      "name":"Farserotu John"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Connaissance fondamentale de communications et de réseaux recommandés",
+      "Bibliographie et matériel":"J. Farserotu and R. Prasad, [i]Mobile Satellite over IP/ATM Networks[/i] Artech House, UK, 2001.[br/]R. Gagliardi, Satellite Communications, Van Nostrand Reinhold Company, New York, US, 1984",
+      "Forme d'enseignement":"Ex cathedra et exercices en salle",
+      "Contenu":"Introduction à la communication par satellite[br/]- Systèmes et services (par exemple INMARSAT)[br/]- Transmetteurs, récepteurs et antennes SATCOM[br/]- Analyse du budget des liaisons SATCOM[br/]Canal de satellite mobile[br/]- Multipistes, ombre, diffusion de Doppler[br/]- Implication de dessins de mise en forme d'ondes[br/]Accès multiples SATCOM et accès de contrôle [br/]- FDMA, TDMA, CDMA et capacité et accès aléatoire et MAC [br/]  (par exemple FAMA, DAMA)[br/]Modulation SATCOM, correction d'erreurs et contrôle[br/]- MPSK, MPSK TCM, modulation et démodulation[br/]- Codage, décodage Viterbi, contrôle d'erreurs[br/]Antennes SATCOM[br/]- Réseaux phasés d'antennes satellites et antennes mobiles[br/]- Techniques d'antennes combinant la diversité[br/]TCP/IP sur SATCOM[br/]- TCP/IP sur satellite et performances[br/]- Améliorations IP satellite, routage, contrôle[br/]IP/ATM sur réseaux satellites[br/]- Introduction IP/ATM sur SATCOM[br/]- IP/ATM intégration réseau SATCOM et contrôle[br/]Nouveaux systèmes[br/]- Broadband and Satellite UMTS (S-UMTS)[br/]- Considérations du coût du système SATCOM[br/]Sujets spécifiques de la communication sans fil[br/]- High Altitude Platforms (HAPs)[br/]- Wireless on-board",
+      "Forme du contrôle":"Avec contrôle continu et exercice à rendre chaque semaine",
+      "Objectifs d'apprentissage":"Etude des communications par satellite (SATCOM) mobiles et des réseaux IP/ATM."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Satellite communications  systems and networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58053-112-1&amp;con_lng=FRE\" target=\"blank\">IP/ATM mobile satellite networks / John Farserotu, Ramjee Prasad</a>\". Année:2002. ISBN:1-58053-112-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-442-22745-0&amp;con_lng=FRE\" target=\"blank\">Satellite communications / Robert M. Gagliardi</a>\". Année:1991. ISBN:0-442-22745-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

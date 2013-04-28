@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24378268&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","446"],
+    "title":"Lasers and applications in chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24378268&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104570",
+      "name":"Boyarkine Oleg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The objective is to give a practical guidence in use of lasers in chemistry and spectoscopy. Overview of optics and quantum mechanics. Fundamentals of lasers, types of lasers.",
+      "Content":"[br/][li] Overview of optics and quantum mechanics.[br/][li] fundamentals of lasers, types of lasers.[br/][li] Laser wavelength conversion, nonlinear optics.[br/][li] Laser spectroscopy, laser chemistry, laser isotope separation.",
+      "Note":"A CD with the course notes and PP presentations is granted to every lecture attender before the exam. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lasers and applications in chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104570",
+      "name":"Boyarkine Oleg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Un CD avec les notes de cours ainsi que les présentations Powerpoint est distribué à chaque candidat avant l'examen. ",
+      "Prérequis":"Le cours nécessite les connaissances de: Optique, mécanique quantique et physique statistique. Mathématiques",
+      "Bibliographie et matériel":"Polycopié",
+      "Contenu":"[br/][li] Principe de l'optique de la mécanique quantique[br/][li] Principes de lasers et types de lasers.[br/][li] Lasers particuliers[br/][li] Conversion de longueur d'ondes du laser, optique non-linéaire [br/][li] Spectroscopie laser, chimie du laser, séparation d'isotopes par laser",
+      "Forme du contrôle":"Oral ",
+      "Objectifs d'apprentissage":"L'objectif est de donner une indication pratique de l'utilisation de lasers en chimie et  spectroscopie. Vue d'ensemble de la mécanique quantique et optique. Principes des lasers, types de lasers."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lasers and applications in chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

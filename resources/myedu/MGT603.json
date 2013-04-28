@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36216480&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","603"],
+    "title":"Qualitative Research Methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36216480&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://mir.epfl.ch","http://mir.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141278",
+      "name":"Finger Matthias"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course aims at offering an introduction to qualitative research methods for engineers. Participants will learn about the usefulness of qualitative research methods, the philosophical and theoretical underpinnings of this type of research, the various approaches and schools of thought, as well as about particular research methods. Finally, the course will also place qualitative approaches and methods within the broader research design, i.e., in the case of engineers, often as a complement to quantitative research. But most of all, the course will help the participants to make progress in the formulation of their problem statement, their research design, qualitative data collection, and analysis of qualitative data. ",
+      "Content":"This is a course aimed at the generic PhD student, even if the portion of qualitative research is limited within his/her PhD. Indeed, qualitative research has solid epistemological and theoretical foundations in philosophy (phenomenology, hermeneutics), is composed of various schools of thought - notably \"grounded theory\", ethnomethodology, etc. -, and leads to very concrete research methods, such as various forms of interviews, participant observation methods, focus groups, and many others more. Analysis of qualitative data follows equally rigorous steps, and can actually even be quantified. Finally, like quantitative research, qualitative research must follow a coherent design.  Consequently, the participants may expect the following outcomes from this course:[br/][li] Understand the epistemological and theoretical underpinnings of qualitative research,[br/][li] Become knowledgeable about the various qualitative research methods, such as interviews, focus groups, and case studies,[br/][li] Learn about the analysis/interpretation of qualitative data, as well as about writing up cases;[br/][li] Apply qualitative research methods to various stages of the participants' research process, such as problem statement formulation, research design, data collection, and data analysis.     [br/]",
+      "Keywords":"Qualitative research, case method, grounded theory",
+      "Form of examination":"Project report and term paper"
+    },
+    "practical":{
+      "total_hours":15
+    },
+    "language":"English",
+    "title":"Qualitative Research Methods",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://mir.epfl.ch","http://mir.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141278",
+      "name":"Finger Matthias"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"This is a course aimed at the generic PhD student, even if the portion of qualitative research is limited within his/her PhD. Indeed, qualitative research has solid epistemological and theoretical foundations in philosophy (phenomenology, hermeneutics), is composed of various schools of thought - notably \"grounded theory\", ethnomethodology, etc. -, and leads to very concrete research methods, such as various forms of interviews, participant observation methods, focus groups, and many others more. Analysis of qualitative data follows equally rigorous steps, and can actually even be quantified. Finally, like quantitative research, qualitative research must follow a coherent design.  Consequently, the participants may expect the following outcomes from this course:[br/][li] Understand the epistemological and theoretical underpinnings of qualitative research,[br/][li] Become knowledgeable about the various qualitative research methods, such as interviews, focus groups, and case studies,[br/][li] Learn about the analysis/interpretation of qualitative data, as well as about writing up cases;[br/][li] Apply qualitative research methods to various stages of the participants' research process, such as problem statement formulation, research design, data collection, and data analysis.     [br/]",
+      "Mots clés":"Qualitative research, case method, grounded theory",
+      "Forme du contrôle":"Project report and term paper",
+      "Objectifs d'apprentissage":"This course aims at offering an introduction to qualitative research methods for engineers. Participants will learn about the usefulness of qualitative research methods, the philosophical and theoretical underpinnings of this type of research, the various approaches and schools of thought, as well as about particular research methods. Finally, the course will also place qualitative approaches and methods within the broader research design, i.e., in the case of engineers, often as a complement to quantitative research. But most of all, the course will help the participants to make progress in the formulation of their problem statement, their research design, qualitative data collection, and analysis of qualitative data. "
+    },
+    "practical":{
+      "total_hours":15
+    },
+    "language":"English",
+    "title":"Qualitative Research Methods",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  }
+}

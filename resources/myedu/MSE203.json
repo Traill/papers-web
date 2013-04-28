@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774972&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","203"],
+    "title":"Continuum mechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774972&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101178",
+      "name":"Drezet Jean-Marie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous control during the semester (3 one hour exams)",
+      "Prerequisite for":"Rheology, Transfer phenomena, Strength of materials, Materials modelling",
+      "Required prior knowledge":"Analysis I and II, Linear algebra, General Physics I and II",
+      "Content":"[br/][li]From the atomistic to the continuous scale [br/][li]Scalar, vector and tensor fields. Vectorial and tensorial calculus and operators[br/][li]Strain and stress tensors[br/][li]Conservation laws[br/][li]State and constitutive equations[br/][li]Boundary conditions[br/][li]Diffusion-convection[br/][li]Solid deformation[br/][li]Fluid flow",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"Although materials are made of atoms, grains and phases, it is very common to treat them as continuous media at the macroscopic scale.  For that purpose, one has to first introduce the concepts of fields (density, speed, enthalpy, strains, stresses, etc), before writing corresponding conservation equations. Completed by constitutive equations, these equations are solved in a restrained domain with appropriate boundary conditions.[br/]In a first part, this course describes the transition from the atomistic to the macroscopic continuous scale. Then, it introduces the main fields, with vector/tensor calculus and operators. An important part of the course is dedicated to the definition of the strain and stress tensors. Conservation equations, state equations and boundary conditions are then specified. Various situations are finally treated more specifically: fluid flow, solid deformation, diffusion-convection of heat and solute. All these aspects are then further detailed in courses taught during the 4th semester.[br/][br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Continuum mechanics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101178",
+      "name":"Drezet Jean-Marie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Algèbre linéaire, Physique générale I et II",
+      "Bibliographie et matériel":"Polycopié EPFL",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"[br/][li]Passage de l'état atomistique au continu[br/][li]Champs scalaire, vectoriel, tensoriel. Règles de calcul et principaux opérateurs vectoriel/tensoriel[br/][li]Tenseurs des contraintes et des déformations[br/][li]Lois de conservation[br/][li]Lois de comportement[br/][li]Conditions aux limites[br/][li]Diffusion-convection[br/][li]Déformation des solides [br/][li]Écoulement des fluides",
+      "Forme du contrôle":"Contrôle continu durant le semestre (3 examens de 1 heure)",
+      "Préparation pour":"Rhéologie, Phénomènes de transfert, Résistance des matériaux, Modélisation des matériaux",
+      "Objectifs d'apprentissage":"Bien que les matériaux soient constitués d'atomes, de phases et de grains, il est assez courant de les traiter à une échelle macroscopique comme des milieux continus. Pour ce faire, il est nécessaire d'introduire dans une première étape la notion de champs (masse spécifique, vitesse, enthalpie, déformations, contraintes, etc), avant d'écrire des lois de conservation correspondantes. Complétés par des lois de comportement, ces bilans sont ensuite résolus dans un domaine restreint, en spécifiant des conditions aux limites. [br/]Dans une première étape, le cours décrit le passage de l'état atomistique au continu pour des situations simples. Puis, il introduit les principaux champs, avec les règles de calcul et les opérateurs vectoriel et tensoriel. Une partie importante est consacrée à la définition des tenseurs des déformations et des contraintes. Puis sont passées en revue les équations de conservation, les lois de comportement et les conditions aux limites. Diverses situations sont finalement abordées de manière plus spécifique : écoulement des fluides, déformation des solides, diffusion-convection de la chaleur et du soluté. Ces notions sont approfondies dans les cours du 4ème semestre."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Milieux continus",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

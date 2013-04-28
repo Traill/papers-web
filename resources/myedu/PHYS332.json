@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354380321&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","332"],
+    "title":"Computational physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354380321&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161849",
+      "name":"Yazyev Oleg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"In this course the student will face some numerical problems that are typically encountered in modern physics. Today, every physicist has to be familiar not only with the mathematical tools, but also with their numerical implementations. This course is aimed not only to the student interested in computational physics as well as all other students. [br/][br/]Specific objectives are:[br/]- to learn how to be confident with the numerical routines that are the daily toolbox of most physicist[br/]- to develop a strong feeling of the differences between mathematical modeling and its solution on a computer[br/]- to get familiar with the instruments available for solving numerical problems in a fast and reliable manner[br/]- to learn using numerical tools for solving actual physics problems[br/][br/]",
+      "Content":"[b]Linear systems[/b][br/]Introduction and examples. Gauss-Jordan elimination, LU factorization. Iterative refinement: tridiagonal and band diagonal systems. Iterative methods and preconditioning: Jacobi, Richards and gradient methods. Conjugate gradient method. Iterative vs direct methods.[br/][br/][b]Matrix manipulation and eigenvalues problems[/b][br/]Introduction and examples. Properties and decomposition. Power[br/]iteration. QR decomposition and iterative procedure. Singular value decomposition (SVD).[br/][br/][b]Fourier series and transforms[/b][br/]Introduction to the Fourier series and transforms and their application. Mathematical properties: convergence, convolution, correlation, Gibbs phenomenon and the Wiener-Khinchin theorem. Fourier transform on discrete sampled data: aliasing and sampling theorem. Discrete Fourier transform (DFT) and fast Fourier transform (FFT). Applications: spectral analysis, filters. Fourier transforms in higher dimensionality.[br/][br/][b]Statistical analysis of data[/b][br/]Probability distribution functions: mean, variance and higher moments. Examples of important distributions. Central limit theorem. Statistical hypothesis testing: t-test, F-test and Chi-squared test. Estimation of statistical errors, correlation and covariance. Approximation of data and functions: interpolation, extrapolation and spline. Principal component analysis (PCA).[br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra presentations, exercises and work under supervision",
+      "Form of examination":"3 reports during the semester",
+      "Required prior knowledge":"1st and 2nd years numerical physics courses"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computational physics III",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-9745607-4-8&amp;con_lng=ENG\" target=\"blank\">Mathematics of the discrete fourier transform (DFT) : with audio applications / Julius O. Smith III</a>\". Year:2007. ISBN:978-0-9745607-4-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-898713-61-9&amp;con_lng=ENG\" target=\"blank\">Numerical linear algebra / Lloyd N. Trefethen, David Bau, III</a>\". Year:1997. ISBN:978-0-898713-61-9</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/161849",
+      "name":"Yazyev Oleg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de physique numérique des 2 premières années",
+      "Bibliographie et matériel":"L. N. Trefethen and D. Bau III, Numerical linear algebra, SIAM 1997[br/]J. O. Smith III, Mathematics of the discrete Fourier transform (DFT), W3K Publishing 2007[br/]",
+      "Forme d'enseignement":"Ex cathedra (cours), exercices en salle stations assistés (TP)",
+      "Contenu":"[b]Systèmes linéaires[/b][br/]Introduction et exemples. Elimination de Gauss-Jordan, factorization LU. Raffinement itératif: systèmes tri-diagonaux et diagonaux à bandes. Méthodes itératives et préconditionnement: Jacobi, méthodes de Richard et du gradient. Méthode du gradient conjugué. Comparaison des méthodes itératives et directes.[br/][br/][b]Manipulation de matrices et problèmes de valeurs propres[/b][br/]Introduction et exemples. Propriétés et décomposition. Itération de[br/]puissances. Décomposition QR et procédures itératives. Décomposition en valeurs singulières (SVD).[br/][br/][b]Séries et transformées de Fourier[/b][br/]Introduction aux séries et transformées de Fourier et présentation de leurs applications. Propriétés mathématiques: convergence, convolution, corrélations, phénomène de Gibbs et théorème de Wiener-Khinchin. Transformée de Fourier de données échantillonnées de façon discrète: théorème d'échantillonage et d'aliasing. Transformées de Fourier discrètes (DFT) et rapide (FFT). Applications: analyse spectrale, filtres. Transformées de Fourier à grandes dimensions.[br/][br/][b]Analyse statistique de données[/b][br/]Distributions de probabilités: moyenne, variance et autres moments. Exemples de distributions importantes: théorème de la limite centrale. Hypothèses statistiques de test: t-test, F-test et test du Chi carré. Estimation des erreurs statistiques, corrélations et covariance. Approximations de données et de fonctions: interpolation, extrapolation et spline. Analyse de la composante principale (PCA).",
+      "Forme du contrôle":"3 rapports durant le semestre",
+      "Objectifs d'apprentissage":"Dans ce cours l'étudiant sera confronté à certains problèmes numériques typiques de la physique moderne. Aujourd'hui, chaque physicien doit être familiarisé non seulement aux instruments mathématiques mais aussi à leur implémentation numérique. Ce cours s'adresse donc aussi bien aux étudiants intéressés par la physique numérique qu'aux autres étudiants. [br/][br/]Les objectifs spécifiques de ce cours sont:[br/]-\tacquérir une certaine confiance avec les routines numériques auxquelles est confronté quotidiennement le physicien[br/]-\tdévelopper une forte perception de la différence entre la modélisation mathématique et sa solution obtenue au moyen d'un ordinateur[br/]-\tse familiariser avec les instruments existants pour résoudre efficacement et de façon fiable les problèmes numériques[br/]-       apprendre à utiliser les outils numériques pour résoudre des problèmes réels de la physique"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physique numérique III",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-9745607-4-8&amp;con_lng=FRE\" target=\"blank\">Mathematics of the discrete fourier transform (DFT) : with audio applications / Julius O. Smith III</a>\". Année:2007. ISBN:978-0-9745607-4-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-898713-61-9&amp;con_lng=FRE\" target=\"blank\">Numerical linear algebra / Lloyd N. Trefethen, David Bau, III</a>\". Année:1997. ISBN:978-0-898713-61-9</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

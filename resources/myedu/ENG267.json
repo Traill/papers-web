@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71544625&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENG","267"],
+    "title":"Quantitative methods I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71544625&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Optional written tests (bonus), final written exam 90 min",
+      "Bibliography and material":"Lecture notes, corrected exercices",
+      "Prerequisite for":"All experimental sciences - Geodetic engineering - Satellite positioning, [br/]Geomonitoring - Navigation",
+      "Required prior knowledge":"Analysis I and II, Linear algebra, Basic software and internet tools, Programmation",
+      "Content":"[b]Propagation of the variance[/b][br/]Error types - correlated observations[br/]Covariances, cofactors and weights[br/]Propagation of maximum and mean errors[br/][b]Conditional Adjustment[/b][br/]Functional and stochastic models[br/]Principle of least squares[br/]Analysis of the results[br/][b]Parametric Adjustment[/b][br/]Functional model - Linearization and iterations - Results assessment - Link with the linear regression - Selection of suitable models[br/][b]Combined problems[/b][br/]Alternatives - constraints - combined case[br/][b]Applications[/b][br/]Experiments in physics, chemistry and biology[br/]Tunnel boring",
+      "Keywords":"Error propagation, adjustment calculus, least squares ",
+      "Type of teaching":"Alternating lectures and interactive exercices, computer lab, office hour [br/]",
+      "Learning outcomes":"At the end of the course, the students are able:[br/]-\tto treat numerical problems in a rigourous manner, with emphasis on independent controls[br/]- to understand the main methods for the adjustment of observations and for the estimation of parameters;[br/]-\tto apply certain models to specific problems pertaining to various experimental sciences, in particular in the environmental domain;[br/]-\tto deliver results with a realistic estimation of their precision[br/]"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Quantitative methods I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Algèbre linéaire, Instruments informatiques, Programmation",
+      "Bibliographie et matériel":"Polycopiés, notes de cours, exercices corrigés",
+      "Mots clés":"Propagation d'erreur, calcul de compensation, moindres carrés ",
+      "Forme d'enseignement":"Alternance de cours et d'exercices interactifs en classe, exercices en salle informatique, [i]office hour[/i]",
+      "Contenu":"[b]Propagation de variance[/b][br/]Types d'erreurs - Observations corrélées[br/]Covariances, cofacteurs et poids[br/]Propagation des erreurs maximales et moyennes[br/][b]Compensation conditionnelle[/b][br/]Modèle fonctionnel et modèle stochastique[br/]Principe des moindres carrés[br/]Analyse des résultats[br/][b]Compensation paramétrique[/b][br/]Modèle fonctionnel - Linéarisation et itérations - Analyse des résultats - Lien avec la régression linéaire - Sélection de modèles adéquats[br/][b]Problèmes combinés[/b][br/]Alternatives - contraintes - cas général[br/][b]Applications[/b][br/]Expériences de physique, de chimie et de biologie[br/]Percement d'un tunnel",
+      "Forme du contrôle":"Interrogations écrites facultatives (bonus), examen final écrit 90 min",
+      "Préparation pour":"Toutes les sciences expérimentales - Topométrie - Localisation par satellites - Geomonitoring - Navigation",
+      "Objectifs d'apprentissage":"A la fin du cours, les étudiants seront capables de:[br/]-\ttraiter des problèmes numériques de manière rigoureuse, avec un accent sur les contrôles indépendants;[br/]-\tcomprendre les principales méthodes de compensation des mesures et d'estimation des paramètres;[br/]-\tappliquer certains modèles à des problèmes concrets touchant à diverses sciences expérimentales, notamment dans le domaine de l'environnement[br/]-\tdonner des résultats avec une estimation réaliste de leur précision."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Méthodes quantitatives I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

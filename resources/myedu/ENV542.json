@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499344468&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","542"],
+    "title":"Advanced satellite positionning",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499344468&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190010",
+      "name":"Botteron Cyril"
+    },{
+      "url":"http://people.epfl.ch/126005",
+      "name":"Skaloud Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The Global Satellite Navigation Systems (GNSS) are widely applied not only for positioning and localization (traffic, personal devices, surveying and navigation) but also for natural hazards (subsidence and landslide observing, tsunami alert, etc.) as well as environmental monitoring (water vapour probing, total electron content estimation, soil moisture). [br/]The student will learn how to process the observed direct and indirect signals for positioning and environmental applications.[br/][br/][li] To understand the principals of satellite positioning (i.e. signal structure, acquisition, processing).[br/][li] To develop algorithms for signals demodulation, tracking and position estimation.[br/][li] To grasp the importance of the error sources, their mitigation in precise positioning and estimation for application in environmental monitoring.[br/][br/][br/][br/]",
+      "Content":"[b]Concept of satellite positioning[/b][br/]- basic principals & reference frames[br/]- orbit computation & simple positioning[br/][br/][b]Signal modulation and structure[/b][br/]- RF propagation in space [br/]- signal structure[br/][br/][b]Receiver technology[/b][br/]- signal preprocessing[br/]- signal acquisition & tracking[br/][br/][b]Error models and differencing concepts[/b][br/]- code and carrier phase measurements [br/]- linear combination of observations[br/][br/][b]Algorithms for positioning[/b][br/]- code and carrier-phase smoothed-code[br/]- carrier-phase cycle ambiguity determination[br/][br/][b]Algorithms for environmental sensing[/b][br/]- water vapor estimation[br/]- total electron content estimation [br/]- GNSS reflectometry",
+      "Type of teaching":"Ex cathedra, exercises (part in computer room), demonstrations[br/]",
+      "Form of examination":"Continous control, 3 tests",
+      "Required prior knowledge":"Fundamentals of satellite positioning, signals and systems or signal processing "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced satellite positionning",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190010",
+      "name":"Botteron Cyril"
+    },{
+      "url":"http://people.epfl.ch/126005",
+      "name":"Skaloud Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Localisation par satellites, Signaux et systèmes ou traitement du signal",
+      "Bibliographie et matériel":"Polycopiés, exercices corrigés, mode d'emploi de logiciels",
+      "Forme d'enseignement":"Cours ex cathedra, exercices (partiellement en salle informatique), démonstrations",
+      "Contenu":"[b]Concept de la localisation par satellite[/b][br/]- principes de base, cadres de référence[br/]- calculs d'orbites et localisation simple[br/][br/][b]Modulation et structure du signal[/b][br/]- propagation RF dans l'espace [br/]- structure du signal [br/][br/][b]Technologie des récepteurs[/b][br/]- prétraitement du signal[br/]- acquisition du signal et suivi[br/][br/][b]Modèles d'erreurs et concepts de dérivation [/b][br/]- mesures de code et de phase porteuse [br/]- combinaisons linéaires des observations [br/][br/][b]Algorithmes de localisation[/b][br/]- code et phase, code lissé[br/]- détermination des ambigüités des cycles de phase [br/][br/][b]Algorithmes pour l'estimation de paramètres de l'environnement[/b][br/]- estimation de la teneur en vapeur d'eau [br/]- estimation du contenu en électrons[br/]- réflectométrie par GNSS",
+      "Forme du contrôle":"Contrôle continu, 3 épreuves (tests)",
+      "Objectifs d'apprentissage":"Les systèmes globaux de navigation par satellites (GNSS), sont non seulement utilisés pour la localisation dans les domaines des transports, de l'informatique mobile, de la mensuration et de la navigation, mais aussi pour la surveillance de dangers naturels (affaissement, glissements de terrain, alerte de tsunamis, etc.) ainsi que pour le monitoring de l'environnement (vapeur d'eau dans l'atmosphère, contenu d'électrons dans l'ionosphère, humidité du sol). Les étudiants apprendront comment traiter les observations directes et indirectes des signaux pour la localisation et les applications environnementales.[br/][br/][li] Comprendre les principes de la localisation par satellites (structure des signaux, acquisition, traitement).[br/][li] Développer des algorithmes pour la démodulation des signaux, leurs suivis, et l'estimation de positions.[br/][li] Saisir l'importance des sources d'erreurs, leur atténuation en localisation précise et leur estimation pour des applications de monitoring de l'environnement."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced satellite positionning",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

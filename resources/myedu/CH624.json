@@ -1,0 +1,105 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965859356&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","624"],
+    "title":"Determination of the Structure of a single Crystal from Diffraction Data",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965859356&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["Timetable","http://phd.epfl.ch/files/content/sites/phd/files/users/159660/public/EDCH%20cours/schenk-CH-624_timetable.pdf"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229535",
+      "name":"Cerny Radovan"
+    },{
+      "url":"http://people.epfl.ch/122829",
+      "name":"Chapuis Gervais"
+    },{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    },{
+      "url":"http://people.epfl.ch/168557",
+      "name":"Pattison Philip"
+    },{
+      "url":"http://people.epfl.ch/153052",
+      "name":"Schenk Kurt"
+    },{
+      "url":"http://people.epfl.ch/123555",
+      "name":"Schwarzenbach Dieter"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Note":"Regarding the exam: Each candidate shall solve a not too difficult structure before the eyes of one of the instructors within 4 hours and shall be examined accordingly.",
+      "Form of examination":"ORAL ",
+      "Required prior knowledge":"Mainly basic linear algebra, analysis and electromagnetism",
+      "Content":"The concept of symmetry as isometries in the Euclidean Space E3, then point groups and space groups in E3 (incommensurate structures and quasicrystal shall be disregarded). Production of X-rays and associated safety. [br/]The kinematic theory of the diffraction of X-rays by a 3p pattern of atoms or molecules. Symmetry in reciprocal space and the phase problem, systematic absences and 2nd order displacement parameters. [br/]Direct methods for phasing intensities (probabilistic) and the charge-flipping-method. [br/]Patterson's method. Diffractometers (image plates and CCD versions) and data reduction. Refinements, interpretation of the resolts and preparation of high-quality CIF-files. [br/]Detailed presentation of the SHELX-program. Hands-on experience for crystal-mounting, strategy for data collection, data reduction and determination of two structures. [br/]Particular attention shall be paid to exercises illustrating the concepts presented in the lectures.[br/][br/]",
+      "Keywords":"Symmetry, diffractometers, structure-determination",
+      "Learning outcomes":"To provide the participants the necessary theoritical and practical knowledge for independently determinating a crystal structure from single crystal or powder data. [br/]In particular, symmetry theory, diffraction theory, direct methods (including charge flipping), the heavy atom-method, refinement and data treatment shall be taught at a moderately advanced level, [br/]but without requiring prior knowledge. Some importance shall be given to proficiency in using the International Tables for Crystallography, the pertinent data bases, the crystallographic literature and preparing CIF-files."
+    },
+    "practical":{
+      "total_hours":26
+    },
+    "language":"English",
+    "title":"Determination of the Structure of a single Crystal from Diffraction Data",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":19
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["Timetable","http://phd.epfl.ch/files/content/sites/phd/files/users/159660/public/EDCH%20cours/schenk-CH-624_timetable.pdf"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229535",
+      "name":"Cerny Radovan"
+    },{
+      "url":"http://people.epfl.ch/122829",
+      "name":"Chapuis Gervais"
+    },{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    },{
+      "url":"http://people.epfl.ch/168557",
+      "name":"Pattison Philip"
+    },{
+      "url":"http://people.epfl.ch/153052",
+      "name":"Schenk Kurt"
+    },{
+      "url":"http://people.epfl.ch/123555",
+      "name":"Schwarzenbach Dieter"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Regarding the exam: Each candidate shall solve a not too difficult structure before the eyes of one of the instructors within 4 hours and shall be examined accordingly.",
+      "Contenu":"The concept of symmetry as isometries in the Euclidean Space E3, then point groups and space groups in E3 (incommensurate structures and quasicrystal shall be disregarded). Production of X-rays and associated safety. The kinematic theory of the diffraction of X-rays by a 3p pattern of atoms or molecules. Symmetry in reciprocal space and the phase problem, systematic absences and 2nd order displacement parameters. Direct methods for phasing intensities (probabilistic) and the charge-flipping-method. Patterson's method. Diffractometers (image plates and CCD versions) and data reduction. Refinements, interpretation of the results and preparation of high-quality CIF-files. Detailed presentation of the SHELX-program. Hands-on experience for crystal-mounting, strategy for data collection, data reduction and determination of two structures.[br/]Particular attention shall be paid to exercises illustrating the concepts presented in the lectures.[br/]This course should interest chemists wishing to learn, how to independently determine the structure of a single crystal from X-ray diffraction data, and, furthermore, acquire the necessary skills for interpreting the en-suing structural result, or - for that matter - results from published work in an optimal manner.",
+      "Prérequis":"Mainly basic linear algebra, analysis and electromagnetism",
+      "Mots clés":"Symmetry, diffraction, structure-determination"
+    },
+    "practical":{
+      "total_hours":26
+    },
+    "language":"English",
+    "title":"Determination of the Structure of a single Crystal from Diffraction Data",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":19
+    }
+  }
+}

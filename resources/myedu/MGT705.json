@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36163015&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","705"],
+    "title":"Technology advances in supply chain management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36163015&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Much of the increase in business efficiency over the past 10-20 years can be attributed to technological applications such as bar-coding, RFID, computerized inventory systems, EDI, Internet ordering and exchange of forecasting information.  These technologies have made it possible to link business units within a single organization and distinct businesses that form component parts of a global supply chain.  While the potential of such technologies is enormous, so are the challenges involved in seamlessly integrating across organizations.[br/]\tThis seminar will examine supply chain research that focuses on the management of technological applications, with papers to be pulled from prestigious journals such as Management Science, Journal of Operations Management, Production and Operations Management and Decision Sciences.  The seminar will examine both effective management practices gleaned from the literature and research methodologies that have been employed.  In addition, one or two class periods will be spent analyzing and de-constructing supply chains of companies selected by the students in order to understand the component parts and interactions",
+      "Content":"[li]RFID applications in manufacturing & retailing[br/][li]B2B supply chain coordination via the Internet[br/][li]B2C market expansion via Internet retailing[br/][li]Inventory, purchasing and manufacturing planning systems as applied across multiple supply chain levels",
+      "Keywords":"supply chain, RFID, EDI, forecasting",
+      "Form of examination":"Project report and term paper"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Technology advances in supply chain management",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li]RFID applications in manufacturing & retailing[br/][li]B2B supply chain coordination via the Internet[br/][li]B2C market expansion via Internet retailing[br/][li]Inventory, purchasing and manufacturing planning systems as applied across multiple supply chain levels",
+      "Mots clés":"supply chain, RFID, EDI, forecasting",
+      "Forme du contrôle":"Project report and term paper",
+      "Objectifs d'apprentissage":"Much of the increase in business efficiency over the past 10-20 years can be attributed to technological applications such as bar-coding, RFID, computerized inventory systems, EDI, Internet ordering and exchange of forecasting information.  These technologies have made it possible to link business units within a single organization and distinct businesses that form component parts of a global supply chain.  While the potential of such technologies is enormous, so are the challenges involved in seamlessly integrating across organizations.[br/]\tThis seminar will examine supply chain research that focuses on the management of technological applications, with papers to be pulled from prestigious journals such as Management Science, Journal of Operations Management, Production and Operations Management and Decision Sciences.  The seminar will examine both effective management practices gleaned from the literature and research methodologies that have been employed.  In addition, one or two class periods will be spent analyzing and de-constructing supply chains of companies selected by the students in order to understand the component parts and interactions"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Technology advances in supply chain management",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

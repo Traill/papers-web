@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354333046&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","208"],
+    "title":"Microcontrollers and digital systems design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354333046&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle/course/view.php?id=451","http://moodle/course/view.php?id=451"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    },{
+      "url":"http://people.epfl.ch/108571",
+      "name":"Schmid Alexandre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Microprogrammed embedded systems (EE-310)",
+      "Required prior knowledge":"Logic Systems (CS-171)",
+      "Content":"This course is offered as an introduction to the operation and[br/]use of microcontrollers, where architectural aspects, as well as[br/]assembly language programming and basics of computer[br/]systems are presented. The design of several microcontroller[br/]internal blocks as well as external units is studied (ALU,[br/]memory). The 8-bit RISC AVR microcontroller has been[br/]selected to support theoretical concepts presented in the[br/]lectures and practical laboratory training sessions. The basic[br/]architecture of a microprocessor and of a computer system are[br/]studied using the example of the AVR microcontroller,[br/]operating on a STK-300 board. Assembly language[br/]programming techniques (Boolean operations, branching,[br/]software routines, pointers, lookup tables, etc), real-time[br/]operation techniques (interrupts, timers), serial transmission[br/](RS232, UART, I2C, etc), and the control of common[br/]peripheral devices (stepping/servo motors, sensors, PC[br/]keyboard, IR remote control, etc) will be studied and[br/]implemented.",
+      "Type of teaching":"Ex cathedra, practical laboratory.",
+      "Learning outcomes":"Students are expected to understand the internal operation of[br/]a microcontroller, as well as the basics of microprocessor[br/]architecture. A thorough understanding of a basic computer[br/]system, how the microcontroller is interfaced and[br/]communicates with neighboring hardware systems will be[br/]acquired. Students will be able to program the AVR[br/]microcontroller using assembly language, interface the microcontroller[br/]using standard (serial) com-munication protocols,[br/]and control standard peripheral devices."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microcontrollers and digital systems design",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle/course/view.php?id=451","http://moodle/course/view.php?id=451"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    },{
+      "url":"http://people.epfl.ch/108571",
+      "name":"Schmid Alexandre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Systèmes logiques (CS-171)",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques.",
+      "Contenu":"Ce cours est une introduction à l'utilisation de[br/]microcontrôleurs. Les aspects d'architecture de processeur,[br/]de programmation assembleur et de système informatique[br/]sont abordés. La conception de plusieurs blocs internes et[br/]externes au microcontrôleur sera étudiée (unité arithmétique[br/]et logique, mémoire). Le microcontrôleur AVR avec une[br/]architecture RISC 8-bit est choisi comme support à[br/]l'enseignement théorique, et aux travaux pratiques. Les[br/]thèmes abordés comprennent l'architecture de[br/]microprocesseur basé sur le microcontrôleur AVR,[br/]l'environnement de développement, le système informatique[br/]basé sur la carte STK-300, les techniques de programmation[br/]assembleur (opérations Booléennes, branchements, sous-routines,[br/]pointeurs, tables de transcorrespondance, etc), les[br/]techniques temps réel (interruptions, timers), les[br/]communications séries (RS232, UART, I2C, etc), la[br/]commande de périphériques usuels (moteur pas-à-pas/[br/]servo, capteurs, clavier PC, télécommande IR, etc).",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Systèmes embarqués microprogrammés (EE-310)",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant comprendra le fonctionnement interne d'un microcontrôleur, et aura des notions d'architecture de processeur; il connaîtra l'architecture d'un système informatique simple, et comprendra comment le microcontrôleur est interfacé et communique avec son environnement; il sera capable de programmer le microcontrôleur AVR en langage assembleur; il sera capable d'interfacer le microcontrôleur au moyen de protocoles (séries) courants et de contrôler des périphériques usuels."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microcontrôleurs et conception de systèmes numériques",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51559357&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","602"],
+    "title":"Basic principles of drug action at the cardiovascular system",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51559357&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135476",
+      "name":"Cotecchia Susanna"
+    },{
+      "url":"http://people.epfl.ch/201296",
+      "name":"Diviani Dario"
+    },{
+      "url":"http://people.epfl.ch/172784",
+      "name":"Kellenberger Stephan Beat"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of this course is two-fold:[br/]i) to describe the molecular properties of some important drug targets[br/]ii) to illustrate some applications of drugs active at the nervous and cardiovascular systems.",
+      "Content":"Basic principles of drug action at the cardiovascular system[br/]1) Pharmacology of the cholinergic and adrenergic system[br/]2) Molecular pharmacology of G protein-coupled receptors[br/]3) Molecular pharmacology of ion channels[br/]4) Anti-hypertensive and vasodilator drugs[br/]5) Anti-disrythmic drugs[br/]6) Anti-coagulant and lipid lowering drugs",
+      "Keywords":"Drug action",
+      "Note":"Block course daily 2hrs each morning",
+      "Required prior knowledge":"Solid knowledge of cardiac physiology and pathology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Basic principles of drug action at the cardiovascular system",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135476",
+      "name":"Cotecchia Susanna"
+    },{
+      "url":"http://people.epfl.ch/201296",
+      "name":"Diviani Dario"
+    },{
+      "url":"http://people.epfl.ch/172784",
+      "name":"Kellenberger Stephan Beat"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Block course daily 2hrs each morning",
+      "Contenu":"Basic principles of drug action at the cardiovascular system[br/]1) Pharmacology of the cholinergic and adrenergic system[br/]2) Molecular pharmacology of G protein-coupled receptors[br/]3) Molecular pharmacology of ion channels[br/]4) Anti-hypertensive and vasodilator drugs[br/]5) Anti-disrythmic drugs[br/]6) Anti-coagulant and lipid lowering drugs",
+      "Mots clés":"drug action",
+      "Prérequis":"Solid knowledge of cardiac physiology and pathology",
+      "Objectifs d'apprentissage":"The aim of this course is two-fold:[br/]i) to describe the molecular properties of some important drug targets[br/]ii) to illustrate some applications of drugs active at the nervous and cardiovascular systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Basic principles of drug action at the cardiovascular system",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

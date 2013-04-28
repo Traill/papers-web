@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497038267&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","419"],
+    "title":"Algebraic K-theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1497038267&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Algebraic K-theory, which to any ring associates a sequence of groups K0R, K1R, K2R, ..., can be viewed as a theory of linear algebra over an arbitrary ring.[br/][br/]Applications of algebraic K-theory to number theory, algebraic geometry and functional analysis will be sketched as well.[br/]",
+      "Content":"1. Elementary category theory and module theory[br/]2. K0 : Grothendieck groups, stability, tensor products, change of rings[br/]3. K1 : elementary matrices, commutators and determinants[br/]",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Form of examination":"Oral exam",
+      "Required prior knowledge":"Homotopy and homology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Algebraic K-theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-94248-3&amp;con_lng=ENG\" target=\"blank\">Algebraic K-Theory and its applications / Jonathan Rosenberg</a>\". Year:1994. ISBN:3-540-94248-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-80078-1&amp;con_lng=ENG\" target=\"blank\">An algebraic introduction to K-theory / Bruce A. Magurn</a>\". Year:2002. ISBN:0-521-80078-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Homotopie et homologie",
+      "Bibliographie et matériel":"[b]An Algebraic Introduction to K-Theory[/b], Bruce A. Magurn, Cambridge 2002.[br/][b]Algebraic K-Theory and its Applications[/b], Jonathan Rosenberg, Springer 1994.",
+      "Forme d'enseignement":"Ex cathedra, exercices en classe",
+      "Contenu":"1. Eléments de la théorie des catégories et de la théorie des modules[br/]2. K0 : groupes de Grothendieck, stabilité, produits tensoriels, changement d'anneaux[br/]3. K1 : matrices élémentaires, commutateurs et déterminants",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"La K-théorie algébrique d'un anneau lui associe une suite de groupes abéliens, que l'on peut considérer comme une théorie d'algèbre linéaire sur un anneau quelconque.[br/][br/]Des applications de la K-théorie algébrique à la théorie des nombres, à la géométrie algébrique et à l'analyse fonctionnelle seront également esquissées."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Algebraic K-theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-94248-3&amp;con_lng=FRE\" target=\"blank\">Algebraic K-Theory and its applications / Jonathan Rosenberg</a>\". Année:1994. ISBN:3-540-94248-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-80078-1&amp;con_lng=FRE\" target=\"blank\">An algebraic introduction to K-theory / Bruce A. Magurn</a>\". Année:2002. ISBN:0-521-80078-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350478895&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","447"],
+    "title":"Advanced materials for photovoltaics and lighting applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350478895&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105958",
+      "name":"Nazeeruddin Mohammad Khaja"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course will present core knowledge in chemistry of materials, material design and structure/property relationships. The course will give an up to date view of current advanced materials transitioning into real technological applications in, nanotechnology (solar cells), and molecular electronics (OLED's).  It will provide the student with an understanding of the underlying nanoscience, how this is applied in technological devices and how the materials can be optimised for the properties desired. [br/] [br/][br/] ",
+      "Content":"The course is made up of the understanding of the use of advanced materials in a range of devices such as:   [br/]Case Study 1: Dye-sensitized Solar Cells (12 hours, 6 weeks)[br/]Case Study 2: Semiconductor Nanoparticles (Q-dots) for Solar Cells (4 hours, 2 weeks)[br/]Case Study 3: Organic Light Emitting Diodes (OLED's) (12 hours, 6 weeks) ",
+      "Note":"This course provides advanced education of multidisciplinary nature focussing specialisation or on the promotion of research activities.  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced materials for photovoltaics and lighting applications",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105958",
+      "name":"Nazeeruddin Mohammad Khaja"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Ce cours fournit une formation avancée multidisciplinaire axée sur une spécialisation ou sur la promotion d'activités de recherche. ",
+      "Contenu":"Le cours comprend l'étude de l'utilisation et de la compréhension de matériaux avancés dnas une gamme de systèmes comprenant: [br/]- étude de cas 1. Cellule solaire à colorant (12 heures, 6 semaines)[br/]- étude de cas 2: nanoparticules semi-conductrices (Q-dots) pour cellules solaires (4 heures, 2 semaines)[br/]- étude de cas 3: diodes électoluminescentes organiques (OLED: Organic light emitting diodes) (12 heures, 6 semaines)  ",
+      "Objectifs d'apprentissage":"Le cours se place dans la chimie des matériaux, l'élaboration de matériaux et la relation entre structure et propriétés. Il est un état de l'art des récentes avancées dans le domaine de la transposition de matériaux en réelles applications technologiques en nanotechnologie (cellules solaires) et en électronique moléculaire (OLED). Il donne à l'étudiant une compréhension des nanosciences sous-jacentes: comment est-ce appliqué dans les systèmes technologiques et comment les matériaux peuvent être optimisés pour présenter les propriétés souhaitées. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced materials for photovoltaics and lighting applications",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

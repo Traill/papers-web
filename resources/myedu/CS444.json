@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771804&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","444"],
+    "title":"Virtual reality",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771804&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6841","http://moodle.epfl.ch/course/view.php?id=6841"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104608",
+      "name":"Boulic Ronan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Some immersive demo sessions are organized in the second half of the semester, after the paper study is completed.",
+      "Form of examination":"Throughout semester: 4 Quizzes (20%), 1 paper study (10%), 1 mini-project (30%), 1 oral (40%)[br/]",
+      "Bibliography and material":"- Course notes will be updated and made available after each course, with links to key sites and on-line documents[br/]- Le Traité de Réalité Virtuelle (5 vol.) Presses des Mines, ParisTech, 2006-2009, available on-line, free for student upon registration.[br/]- Doug A. Bowman, Ernst Kruijff, Joseph J. LaViola, and Ivan Poupyrev. 2004. 3D User Interfaces: Theory and Practice. Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, USA.",
+      "Required prior knowledge":"(CS-341) Introduction to computer graphics[br/][br/]",
+      "Content":"I Basic concepts of Virtual reality[br/][tab]\t- Human perception and action abilities[br/][tab]\t- Immersion and Presence[br/]II Interfaces[br/][tab]\t- Sensors and actuators[br/][tab]\t- 3D projection and interaction techniques[br/]III Software platforms[br/]IV Applications [br/][tab]    - including interaction with Virtual Humans",
+      "Type of teaching":"Ex cathedra + Exercises[br/]",
+      "Learning outcomes":"After attending the course the student should master critical concepts such as presence or flow and be able to identify where computing resource should be allocated to maintain an intuitive, transparent, and involving 3D interaction. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Virtual reality",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-75867-9&amp;con_lng=ENG\" target=\"blank\">3D user interfaces : theory and practice / Doug A. Bowman ... [et al.]</a>\". Year:2005. ISBN:0-201-75867-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-911762-62-2&amp;con_lng=ENG\" target=\"blank\">Le traité de la réalité virtuelle / Dir.: Philippe Fuchs</a>\". Year:2006. ISBN:2-911762-62-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6841","http://moodle.epfl.ch/course/view.php?id=6841"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104608",
+      "name":"Boulic Ronan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Des sessions de démo immersives sont organisées dans la seconde moitié du semestre, après avoir rendu l'étude d'un article.",
+      "Prérequis":"(CS-341) Introduction to computer graphics[br/][br/]",
+      "Bibliographie et matériel":"- Le Traité de Réalité Virtuelle (5 vol.) Presses des Mines, ParisTech, 2006-2009, available on-line, free for student upon registration.[br/]- Doug A. Bowman, Ernst Kruijff, Joseph J. LaViola, and Ivan Poupyrev. 2004. 3D User Interfaces: Theory and Practice. Addison Wesley Longman Publishing Co., Inc., Redwood City, CA, USA.",
+      "Forme d'enseignement":"Ex cathedra + Exercices[br/]",
+      "Contenu":"I Concepts de base de la Réalité Virtuelle[br/][tab]-\tLes bases de la perception et de l'action humaine[br/][tab]-\tConcepts d'Immersion et de Presence[br/]II Interfaces[br/][tab]-\tCapteurs et Actuateurs[br/][tab]-\tTechniques de projection et d'interaction 3D[br/]III Outils logiciels[br/]IV Applications [br/][tab]-        y compris interaction avec humains virtuels",
+      "Forme du contrôle":"Contrôle continu : 4 Quizzes (20%), 1 paper study (10%), 1 mini-project (30%), 1 oral (40%)[br/]",
+      "Objectifs d'apprentissage":"Après avoir suivi le cours l'étudiant maîtrisera les concepts de présence et de flow et sera capable de déterminer où allouer les ressources de calcul pour permettre une interaction 3D intuitive, transparente et captivante."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Virtual reality",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-75867-9&amp;con_lng=FRE\" target=\"blank\">3D user interfaces : theory and practice / Doug A. Bowman ... [et al.]</a>\". Année:2005. ISBN:0-201-75867-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-911762-62-2&amp;con_lng=FRE\" target=\"blank\">Le traité de la réalité virtuelle / Dir.: Philippe Fuchs</a>\". Année:2006. ISBN:2-911762-62-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

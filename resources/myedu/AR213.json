@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=125513662&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","213"],
+    "title":"Computer graphics basis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=125513662&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172450",
+      "name":"Heynick Mitchell"
+    },{
+      "url":"http://people.epfl.ch/116344",
+      "name":"Zufferey Jérôme"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[br/][li]Introduction of the numerical tools for architects, used for their studies and in a professional world.[br/][li]Critical understanding of the architects' \"computing world\".[br/][li]Basic knowledge in computer graphic and graphic design.[br/][li]Training of CAD, drawing, 3D, modelling and layout, all the \"classical\" tools.[br/]",
+      "Content":"[br/][li]The EPFL computing context and its practical implications.[br/][li]Which computing for architects.[br/][li]The software families, CAD software's typology.[br/][li]Images and computing: computer graphic introduction.[br/][li]Buildings survey.[br/][li]Prototyping.[br/][li]Workshops on CAD (2D & 3D), modelling, layout, graphic design and images softwares.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computer graphics basis",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172450",
+      "name":"Heynick Mitchell"
+    },{
+      "url":"http://people.epfl.ch/116344",
+      "name":"Zufferey Jérôme"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Forme d'enseignement":"[br/][li]Cours ex cathedra. Travaux pratiques (applications pilotées).[br/][li]Apports externes sous forme de cours et de conférences.[br/]",
+      "Contenu":"[br/][li]Le contexte informatique de l'EPFL et ses implications pratiques.[br/][li]Quels outils informatiques pour les architectes?[br/][li]Les familles de logiciels, typologie des systèmes de CAO.[br/][li]Images et informatique: introduction à l'infographie.[br/][li]Le relevé de bâtiments.[br/][li]Le prototypage.[br/][li]Travaux pratiques sur logiciels de CAO (2D & 3D), modeleurs, logiciels de mise en page, graphisme et images.",
+      "Remarque":"[b]Documents de cours[/b]:[br/]Supports de cours téléchargeables. Documents complémentaires téléchargeables. [br/]Notes personnelles.",
+      "Bibliographie et matériel":"Transmise lors du cours.",
+      "Objectifs d'apprentissage":"[br/][li]Introduction à la connaissance des outils informatiques pour architectes utilisés dans le cadre des études et au niveau professionnel.[br/][li]Compréhension critique du \"monde informatique\" des architectes.[br/][li]Connaissances de base en infographie et graphisme.[br/][li]Approche et apprentissage d'outils \"classiques\" de CAO, de dessin, de modélisation tridimensionnelle et de mise en page."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Bases d'informatique graphique",
+    "recitation":null,
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

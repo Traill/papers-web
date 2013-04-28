@@ -1,0 +1,93 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231617900&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","304"],
+    "title":"Sanitary engineering, water and waste management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231617900&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/136235",
+      "name":"Kohlmeier Stefanie"
+    },{
+      "url":"http://people.epfl.ch/158813",
+      "name":"Matter Bernard"
+    },{
+      "url":"http://people.epfl.ch/144043",
+      "name":"Schmidt Félix"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"15 % spot check, 85 % exam session + bonus",
+      "Bibliography and material":"Lecture notes, web links and publications",
+      "Prerequisite for":"Hydraulic structures and schemes, Water and wastewater treatment, Water resources engineering, Advanced solid waste management, Sanitary engineering in developing countries",
+      "Required prior knowledge":"Fluid mechanics ",
+      "Content":"[b]Water supply[/b] [br/][li]  Water, human health and socio-economic development [br/][li]  Service criteria, institutional systems, sustainability, planning, role of the engineer [br/][li]  Developing countries: why does it not work? Case examples[br/][li]  Main kind of treatments and design principles [br/][li]  Hydraulic works in water supply networks [br/][li]\tPlanning the distribution of water, case examples[br/][b]Water evacuation and collection[/b][br/][li]  Public health and environmental protection [br/][li]  Urban hydrology principles [br/][li]  Water evacuation/collection planning (PGEE et PREE) [br/][li]  Run-off water management[br/][li]  Legal basis, discharge standards[br/][li]  Sewer system elements [br/][b]Wastewater treatment[/b][br/][li]\tWastewater characterisation, legal basis, objectives[br/][li]\tDesign of wastewater treatment plants[br/][li]\tMecanical and biological treatments[br/][li]\tSludge treatment[br/][li]\tTreatment costs, future trends[br/][b]Management and treatment of solid waste[/b][br/][li]\tPolitical and legal framework Swiss/Europe[br/][li]\tAdministrative means, financing[br/][li]\tQuality and quantity of waste[br/][li]\tLogistical aspects: Collection and transportation[br/][li]\tSorting and recycling[br/][li]\tBiological and mechanical treatments, thermal treat.[br/][li]\tLandfills[br/][li]\tSolid waste management in developing countries[br/][br/]",
+      "Keywords":"Wastewater treatment plant, wastewater, design, waste, drinking water supply",
+      "Type of teaching":"Lecture ex cathedra and exercises, visits ",
+      "Learning outcomes":"Introduction to basic principles: fields of water supply, evacuation and treatment. Understand basic notions of main technical works in the design of water networks and wastewater treatment plants. [br/]Understand the concepts of modern urban waste management and know the methods of waste treatment. Develop the capability of comprehensive planning and evaluation of proposed solutions and the underlying constraints"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sanitary engineering, water and waste management",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/136235",
+      "name":"Kohlmeier Stefanie"
+    },{
+      "url":"http://people.epfl.ch/158813",
+      "name":"Matter Bernard"
+    },{
+      "url":"http://people.epfl.ch/144043",
+      "name":"Schmidt Félix"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Fluid mechanics",
+      "Bibliographie et matériel":"Notes de cours, indications de pages web et de publications",
+      "Mots clés":"Station d'épuration, eau usée, dimensionnement, déchets, eau potable, approvisionnement",
+      "Forme d'enseignement":"Cours ex cathedra et exercices, visites",
+      "Contenu":"[b]Approvisionnement en eau[/b] [br/][li]  Eau, santé humaine et développement socio-économique [br/][li]  Critères de service, systèmes institutionnels, durabilité, planification, rôle de l'ingénieur[br/][li]  Pays en voie développement: pourquoi ça ne marche pas? Exemples de cas[br/][li]  Principaux types de traitements et principes de dimensionnement[br/][li]  Eléments techniques des réseaux d'adduction d'eau potable [br/][li]  Planification de la distribution des eaux, exemple de cas[br/][b]Evacuation des eaux[/b][br/][li]  Santé publique et protection de l'environnement [br/][li]  Principes d'hydrologie urbaine[br/][li]  Planification de l'évacuation des eaux (PGEE et PREE) [br/][li]  Gestion des eaux de ruissellement [br/][li]  Bases légales, normes de rejets [br/][li]  Eléments du réseau d'assainissement [br/][b]Traitement des eaux usées[/b] [br/][li]  Caractérisation des eaux usées, bases légales, objectifs[br/][li]  Principes de dimensionnement des STEP[br/][li]  Traitements mécaniques et biologiques[br/][li]  Traitement des boues[br/][li]  Coût de l'assainissement, tendances futures[br/][b]Gestion et traitement des déchets [/b][br/][li]  Cadre juridique et politique Suisse/Europe[br/][li]  Moyens administratifs, financement[br/][li]  Qualité et quantités des déchets[br/][li]  Aspects logistiques : collecte et transport[br/][li]  Tri et recyclage[br/][li]  Traitements biologiques et mécaniques, trait. thermiques[br/][li]  Décharges[br/][li]  Gestion des déchets dans les pays en développement[br/]",
+      "Forme du contrôle":"15 % contrôle ponctuel, 85 % session d'examen + bonus",
+      "Préparation pour":"Ouvrages et aménagements hydrauliques, Water and wastewater treatment, Water resources engineering, Advanced solid waste treatment, Sanitary engineering in developing countries",
+      "Objectifs d'apprentissage":"Initiation aux principes généraux: domaines adduction, évacuation et traitement des eaux. Notions de bases du dimensionnement des principaux ouvrages techniques sur les réseaux et dans les stations d'épuration. Comprendre les concepts de la gestion moderne des déchets urbains et connaître les méthodes de traitement. Développer les compétences de planification et d'évaluation complète des solutions et des contraintes qui les déterminent."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Génie sanitaire, gestion des eaux et des déchets",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

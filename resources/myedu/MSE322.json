@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838977544&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","322"],
+    "title":"Building materials + Laboratory work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838977544&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107372",
+      "name":"Guidoum Amor"
+    },{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The objective of this course and the related laboratory work is to familiarize the students with the different functions of materials in construction: the composition and structure of the most used (non metallic) building materials - principally concrete, but also glass, masonry and wood.[br/][br/]The composition and formation of microstructure are examined, in order to establish the link between their behaviour under mechanical loads and environmental exposure (durability).[br/]",
+      "Content":"- Function of construction materials, historic and geographic perspective.[br/][b]Concrete [/b][br/]- Fabrication of cement, microstructural formation.[br/]- Applications technology, practically imposed demands and limits.[br/]- Evolution of early age properties.[br/]- Mechanical behaviour, cracking and failure, viscoelasticity.[br/]- Durability: the causes of degradation; corrosion of reinforcement, carbonation, alkali-silica reaction, freeze thaw damage, sulfate attack, transport phenomena.[br/]- Trends in the development of cementitious materials.[br/]- Environmental aspects [br/][b]Other building materials : [/b][br/]- Bricks and tiles, polymers, composites, wood and wood products, glass, plaster, clay, lime. For each type of material the following aspects are covered: composition, fabrication, physico-chemical and mechanical properties, durability.[br/][b]Laboratory works : [/b] Batching, Reinforced concrete element, Masonry, strength on concrete, bricks and wood, thermal and hygral properties, hydration heat, XRD, SEM.[br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, laboratory work",
+      "Form of examination":"Exam of course : oral during the session[br/]Exam of LW : continuous assessment",
+      "Required prior knowledge":"Basic knowledge in materials science "
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Building materials + Laboratory work",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107372",
+      "name":"Guidoum Amor"
+    },{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, travaux de laboratoire ",
+      "Contenu":"- Fonction des matériaux dans la construction, perspectives historique et géographique.[br/][b]Béton [/b][br/]- Fabrications des ciments, réactions chimiques, évolution de la microstructure.[br/]- Evolution des propriétés à jeunes âges.[br/]- Comportement mécanique, fissuration et rupture, viscoélasticité.[br/]- Durabilité : les causes de la dégradation; corrosion des armatures, carbonations, réaction alkali agrégat, gel, attaque sulfatique, etc; phénomènes de transport.[br/]- Tendances dans le développement des matériaux à base de ciment.[br/]- Les aspects environnementaux.[br/][b]Autres matériaux de construction : [/b] [br/]- Terres cuites, polymères, composites, bois et produits dérivés, verres, plâtre, argile, chaux. Pour chaque type de matériaux les aspects suivants sont développés: constitution, production, mise en ½uvre, propriétés physico-chimiques et mécaniques, durabilité.[br/][b]Travaux de laboratoire : [/b] Gâchage, poutre en béton armé, maçonnerie, Résistance sur béton, briques et bois, propriétés thermiques et hydriques, Chaleur d'hydratation, DRX, MEB[br/][br/]",
+      "Forme du contrôle":"Examen du cours : oral durant la session[br/]Examen des TP : contrôle continu",
+      "Prérequis":"Connaissances de base en sciences des matériaux",
+      "Objectifs d'apprentissage":"Le but de ce cours et de ses TP est de faire connaître aux étudiants les diverses fonctions des matériaux dans la construction: la composition et structure des principaux  matériaux de construction non métalliques - principalement les bétons et aussi les verres, les terres cuites et le bois.[br/][br/]La composition et formation de la microstructure des matériaux sont étudiées, afin d'établir le lien avec leur comportement sous sollicitations mécaniques et celles de l'environnement (durabilité).[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Matériaux de construction + TP",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

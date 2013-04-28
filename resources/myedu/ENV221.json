@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348608416&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","221"],
+    "title":"Hydrology for engineer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348608416&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168244",
+      "name":"Porté Agel Fernando"
+    },{
+      "url":"http://people.epfl.ch/182281",
+      "name":"Rinaldo Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Weekly homework (20%) [br/]Mid term exam (40%) [br/]Final written exam 120 min (40%)",
+      "Bibliography and material":"Water Resources Engineering, Larry W. Mays. 2nd Revised edition, 2010, Wiley & Sons, ISBN 978-0-470-46064-1[br/]",
+      "Required prior knowledge":"Fluid mechanics",
+      "Content":"1) Introduction to the hydrologic cycle and hydrologic processes[br/]2) Precipitation: Types, variability, return period, IDF curves[br/]3) Evaporation: Energy balance, aerodynamic and combined methods.[br/]4) Infiltration: Unsaturated flow, Green-Ampt method[br/]5) Surface runoff and stream flow: Rainfall excess, unit hydrographs, SCS method[br/]6) Hydrologic routing[br/]7) Probability and statistics in hydrology.[br/]8) Probability distribution, frequency analysis, risk analysis[br/]9) Open channel hydraulics: Steady uniform flow[br/]10) Gradually varied open channel flow[br/]11) Groundwater flow[br/][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"To provide basic principles and quantitative aspects of the practice of hydrology for engineers"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hydrology for engineer",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-82479-8&amp;con_lng=ENG\" target=\"blank\">Hydrology : an introduction / Wilfried Brutsaert</a>\". Year:2008. ISBN:978-0-521-82479-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-46064-1&amp;con_lng=ENG\" target=\"blank\">Water resources engineering / Larry W. Mays</a>\". Year:2011. ISBN:978-0-470-46064-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168244",
+      "name":"Porté Agel Fernando"
+    },{
+      "url":"http://people.epfl.ch/182281",
+      "name":"Rinaldo Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Fluid mechanics",
+      "Bibliographie et matériel":"Water Resources Engineering, Larry W. Mays. 2nd Revised edition, 2010, Wiley & Sons, ISBN 978-0-470-46064-1[br/][br/]",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1) Introduction au cycle hydrologique et aux processus hydrologiques[br/]2) Précipitations: types, variabilité, période de retour, courbes IDF[br/]3) Évaporation: balance énergétique, aérodynamique et méthodes combinées[br/]4) Infiltration: Écoulement non saturé, méthode Green-Ampt[br/]5) Eaux de surface et courants: pluie excédentaire, hydrogramme unitaire, méthode SCS [br/]6) Routage hydrologique[br/]7) Probabilité et statistiques en hydrologie[br/]8) Distribution de probabilité, analyse de fréquence, analyse de risque[br/]9) Hydraulique des canaux découverts[br/]10) Écoulement graduellement varié en canaux ouverts[br/]11) Écoulement souterrain",
+      "Forme du contrôle":"Devoirs hebdomadaires (20%)[br/]Test de semestre (40%)[br/]Examen final écrit de 120 min (40%)",
+      "Objectifs d'apprentissage":"Fournir aux ingénieurs les principes de base ainsi que les aspects quantitatifs de la pratique de l'hydrologie"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hydrology for engineer",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-82479-8&amp;con_lng=FRE\" target=\"blank\">Hydrology : an introduction / Wilfried Brutsaert</a>\". Année:2008. ISBN:978-0-521-82479-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-46064-1&amp;con_lng=FRE\" target=\"blank\">Water resources engineering / Larry W. Mays</a>\". Année:2011. ISBN:978-0-470-46064-1</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

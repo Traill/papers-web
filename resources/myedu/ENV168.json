@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499329522&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","168"],
+    "title":"Environmental monitoring laboratory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499329522&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104872",
+      "name":"De Alencastro Luiz Felippe"
+    },{
+      "url":"http://people.epfl.ch/106407",
+      "name":"Seignez Chantal"
+    },{
+      "url":"http://people.epfl.ch/107964",
+      "name":"Simeonov Valentin"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"10% exercises and 90% (6x15 %) experimental reports.",
+      "Prerequisite for":"Environmental engineering laboratory (ENG-268)",
+      "Content":"The course is organized in two parts: [br/]A) Introductory lectures on measurement principles and calculation of uncertainties with exercises [br/]B) Six experiments :[br/]1. Evaluation of the microbiological quality of water[br/]2. Building a pH meter[br/]3. Measurement of the pKa of a buffer solution [br/]4. Building of simple photometer.[br/]5. Measurement of PO43- concentration[br/]6. Construction of a temperature measurement system.[br/]",
+      "Keywords":"Laboratory techniques, environmental measurements, error, uncertainty, microbiology, sensor",
+      "Type of teaching":"2 weeks of courses and exercises[br/]6 practical works of 4 hours[br/]",
+      "Learning outcomes":"The students acquire the following knowledge:[br/]- to master basic measurement principles [br/]- to construct simple environmental measurement systems[br/]- to analyze parameters applicable to environmental monitoring[br/]- to calculate the measurement uncertainties and to perceive their meaning[br/]- to work with microorganisms under sterile conditions[br/]- to evaluate the microbiological quality of water[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Environmental monitoring laboratory",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104872",
+      "name":"De Alencastro Luiz Felippe"
+    },{
+      "url":"http://people.epfl.ch/106407",
+      "name":"Seignez Chantal"
+    },{
+      "url":"http://people.epfl.ch/107964",
+      "name":"Simeonov Valentin"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Documents distribués au cours",
+      "Mots clés":"Techniques de laboratoire, mesures environnementales, erreur, incertitude, microbiologie, capteur",
+      "Forme d'enseignement":"2 semaines de cours et exercices[br/]6 TP de 4 heures[br/]",
+      "Contenu":"Le cours comprend 2 parties : [br/]A) Introduction des principes de mesure et du calcul des incertitudes avec exercices [br/]B) Six travaux pratiques:[br/]1. Analyse de la qualité microbiologique de l'eau[br/]2. Fabrication d'un pH mètre « maison »[br/]3. Détermination du pKa d'un tampon [br/]4. Fabrication d'un photomètre [br/]5. Détermination de la concentration de PO43-[br/]6. Construction d'un système de mesure de température.[br/]",
+      "Forme du contrôle":"Evaluation des exercices (10%) et des 6 rapports (6 x 15%)",
+      "Préparation pour":"TP pour l'ingénieur en environnement (ENG-268)",
+      "Objectifs d'apprentissage":"Les étudiants acquièrent le savoir-faire suivant:[br/]-\tMaîtriser les principes de base des mesures[br/]-\tConstruire des appareils de mesure simples [br/]-\tAnalyser des paramètres pour le suivi environnemental[br/]-\tCalculer les incertitudes sur les mesures et percevoir leur signification[br/]-\tTravailler avec des microorganismes dans des conditions stériles[br/]-\tEvaluer la qualité microbiologique de l'eau[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"TP de monitoring environnemental",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

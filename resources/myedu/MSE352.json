@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838977426&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","352"],
+    "title":"Introduction to microscopy + Laboratory work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838977426&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/104267",
+      "name":"Hessler-Wyser Aïcha"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[br/]To know different microscopy techniques for the analysis of materials microstructure.[br/]To understand how an electron microscope works and to know what are their possibilities and limits, as well as the linked techniques. To know how to choose the proper characterization method in order to obtain the right information.[br/]To know the tools for quantitative analysis of microstructures and their interpretation.[br/]To know how to use basic techniques of stereology and image analysis using an easy to use software.[br/]",
+      "Content":"- Description of microstructure[br/]- Optical microscopy[br/]- Principles of transmission and scanning - electron microscopy[br/]- Electron diffraction, spectroscopy[br/]- Image analysis (Stereology, Mathematical morphology, Methods)[br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra with integrated exercises into the courses and practical work",
+      "Prerequisite for":"Semester projects - Electron microscopy : advanced methods and laboratory work",
+      "Required prior knowledge":"Basic knowledge in materials sciences, solid state physics, crystallography, electron structure"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Introduction to microscopy + Laboratory work",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/104267",
+      "name":"Hessler-Wyser Aïcha"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Connaissances de base en science des matériaux, physique du solide, cristallographie, structure électronique de l'atome",
+      "Bibliographie et matériel":"Notes de cours et ouvrages recommandés",
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés et travaux pratiques",
+      "Contenu":"- Description de la microstructure[br/]- Microscopie optique[br/]- Principes de fonctionnement de la microscopie électronique à transmission et à balayage[br/]- Diffraction électronique, spectroscopie[br/]- Analyse d'images (Stéréologie, Morphologie mathématique, Méthodes)[br/][br/]",
+      "Préparation pour":"Projets de semestre - Electron microscopy : advanced methods and laboratory work",
+      "Objectifs d'apprentissage":"Connaître les différentes techniques de microscopie pour l'analyse de la microstructure des matériaux.[br/]Comprendre le fonctionnement d'un microscope électronique, et connaître ses possibilités et ses limitations, ainsi que celles des techniques associées. Savoir choisir la méthode de caractérisation adéquate pour l'information souhaitée.[br/]Développer la capacité d'analyser quantitativement les microstructures et interpréter les résultats. [br/]Connaître et savoir utiliser les techniques de base de la stéréologie et de l'analyse d'image à l'aide d'un logiciel simple.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Introduction à la microscopie + TP",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

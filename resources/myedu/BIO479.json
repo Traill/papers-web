@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=438961411&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","479"],
+    "title":"Immunology (advanced topics)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=438961411&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196676",
+      "name":"Harris Nicola"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course provides an in depth knowledge of immunology.[br/][br/]Emphasis will be placed on:[br/][br/][li] a fundamental knowledge of the immune system and its function as a complex system within living organisms[br/][li] the methodology and rationale used for immunological investigations[br/][li] practical exercises aimed at improving the analytical and communication skills of the students. ",
+      "Content":"Each subject will be introduced by a lecture and followed by i) a presentation and discussion of a seminal publication by a student and in some cases ii) group exercises designed to test knowledge and promote conceptual thought. Topics will include:[br/][br/][li] Historical advances in immunology[br/][li] Innate immune recognition[br/][li] Developmental immunology[br/][li] Immunological methods [br/][li] T cell subset differentiation and function[br/][li] Immunity to infectious agents (bacteria, parasites, viruses)[br/][li] Mucosal immunology[br/][li] Allergy, [br/][li] Atoimmunity,[br/][li] Tumor immunology[br/][li] Evolutionary immunology[br/][li] Cutting edge questions in immunology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Immunology (advanced topics)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196676",
+      "name":"Harris Nicola"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Immunology (Bachelor)",
+      "Bibliographie et matériel":"Journal research articles and reviews will be provided",
+      "Forme d'enseignement":"Lecture, Recitation and exercises",
+      "Contenu":"Chaque thème sera introduit par une conférence et suivi par[br/]- présentation et discussion d'une publication par un étudiant et, dans certains cas[br/]- des exercices de groupe visant à tester les connaissances et à promouvoir la pensée conceptuelle. [br/][br/]Les sujets abordés seront les suivants:[br/][br/][li] Les avancées historiques en immunologie[br/][li] La reconnaissance immunitaire innée[br/][li] Le développement de l'immunologie[br/][li] Les méthodes immunologiques[br/][li] Sous-ensemble de différenciation cellulaire et fonction[br/][li] Immunité à des agents infectieux (bactéries, parasites, virus)[br/][li] Immunologie des muqueuses[br/][li] Les allergies[br/][li] L'auto-immunité[br/][li] L'immunologie des tumeurs[br/][li] L'évolution de l'immunologie[br/][li] Les questions de pointe en immunologie",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Ce cours fournit une connaissance approfondie de l'immunologie.[br/][br/]L'accent sera mis sur:[br/][br/][li] une connaissance fondamentale du système immunitaire et sa fonction comme système complexe des organismes vivants[br/][li] la méthodologie et la logique utilisées en immunologie et[br/][li] des exercices pratiques visant à améliorer les capacités d'analyse et de communication de l'étudiant."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Immunology (advanced topics)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

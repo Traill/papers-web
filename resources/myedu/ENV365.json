@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1639194502&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","365"],
+    "title":"To the digital readingto at the extent of change",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1639194502&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"ENAC",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141271",
+      "name":"Feihl Olivier"
+    },{
+      "url":"http://people.epfl.ch/115027",
+      "name":"Gilliéron Pierre-Yves"
+    },{
+      "url":"http://people.epfl.ch/193630",
+      "name":"Ueberschlag Audrey"
+    },{
+      "url":"http://people.epfl.ch/116344",
+      "name":"Zufferey Jérôme"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"To the digital readingto at the extent of change",
+    "recitation":{
+      "week_hours":3,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141271",
+      "name":"Feihl Olivier"
+    },{
+      "url":"http://people.epfl.ch/115027",
+      "name":"Gilliéron Pierre-Yves"
+    },{
+      "url":"http://people.epfl.ch/193630",
+      "name":"Ueberschlag Audrey"
+    },{
+      "url":"http://people.epfl.ch/116344",
+      "name":"Zufferey Jérôme"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Les cours théoriques seront accompagnés de travaux pratiques de relevé et d'analyse à l'échelle:[br/][br/]-\tdu territoire (environnement naturel) - levé laser aérien, traitements et analyse des données[br/]-\td'un bâtiment (architecture) - scanner laser, ortho-plan et ortho-photographie, représentation[br/]-\td'un ouvrage d'art (génie civil) - scanner laser, estimation de déformation.[br/][br/]Dans ce cadre pratique, des sites, ouvrages et édifices de la région de Lausanne, sont par exemple envisagés. Le traitement de données sur une zone urbaine ou péri-urbaine permettra de découvrir le potentiel de modélisation et de calculs d'indicateurs (surfaces, pentes, ...) à une échelle d'un quartier. Pour l'analyse d'un territoire, nous mettrons à disposition des jeux de données de vols laser aériens effectués sur des zones de dangers naturels qui sont régulièrement surveillés.[br/][br/]Par petits groupes, les étudiants disposeront de ces données pour en proposer une représentation et une analyse sous divers aspects choisis selon le thème (document informatique et bref rapport). Dans la mesure du possible, une analyse comparative (archives, plans existants) sera proposée. À la fin du cours, l'évaluation de l'exercice sera portée sur la cohérence des éléments analysés selon l'angle thématique abordé, ainsi que sur la pertinence de la représentation qui en résulte.[br/]",
+      "Forme du contrôle":"Les cours théoriques seront accompagnés de travaux pratiques de relevé et d'analyse à l'échelle:[br/][br/]-\tdu territoire (environnement naturel) - levé laser aérien, traitements et analyse des données[br/]-\td'un bâtiment (architecture) - scanner laser, ortho-plan et ortho-photographie, représentation[br/]-\td'un ouvrage d'art (génie civil) - scanner laser, estimation de déformation.[br/][br/]Dans ce cadre pratique, des sites, ouvrages et édifices de la région de Lausanne, sont par exemple envisagés. Le traitement de données sur une zone urbaine ou péri-urbaine permettra de découvrir le potentiel de modélisation et de calculs d'indicateurs (surfaces, pentes, ...) à une échelle d'un quartier. Pour l'analyse d'un territoire, nous mettrons à disposition des jeux de données de vols laser aériens effectués sur des zones de dangers naturels qui sont régulièrement surveillés.[br/][br/]Par petits groupes, les étudiants disposeront de ces données pour en proposer une représentation et une analyse sous divers aspects choisis selon le thème (document informatique et bref rapport). Dans la mesure du possible, une analyse comparative (archives, plans existants) sera proposée. À la fin du cours, l'évaluation de l'exercice sera portée sur la cohérence des éléments analysés selon l'angle thématique abordé, ainsi que sur la pertinence de la représentation qui en résulte.[br/]",
+      "Objectifs d'apprentissage":"Relevé de l'échelle du territoire à celle d'une structure en passant par le bâti, les outils d'acquisition et l'informatique nous rapprochent de la saisie globale des données géométriques et thématiques, atteignant une précision qui nous éloigne de l'interprétation et de la figuration choisie.[br/]Quel est le but de saisir une portion de territoire avec un scanner laser acquérant des milliards de points ou avec une photographie à très haute résolution? \"Un modèle redoublant totalement la réalité n'apporte aucune connaissance(Philippe Boudon).\" *1 Et quel est le champ d'application visé (archéologie et histoire, ingénierie et analyse structurelle, architecture construite, chantier en cours de réalisation, surveillance de dangers naturels etc. ?[br/][br/]Au travers du thème central du relevé, ce cours a pour objectif de sensibiliser les étudiants à ces techniques qui accompagnent de plus en plus d'activités de l'ENAC, en les mettant en ½uvre dans des contextes d'analyse et de surveillance. La connaissance des techniques contemporaines de relevé sera complétée d'un apport historique et des principes de base permettant de prendre du recul et de mieux cerner les outils informatiques de modélisation et d'analyse que l'on utilise souvent sans en comprendre les bases théoriques.[br/][br/]Le fil rouge de cette unité d'enseignement est la mesure du changement appliquée à plusieurs échelles. Les exercices proposés permettront de quantifier et d'analyser dans le temps un phénomène sur le territoire (ex. un glissement de terrain), de suivre l'évolution d'un bâtiment et d'évaluer les déformations d'une structure de génie civil, en utilisant les outils de mesures et les applications informatiques.[br/][br/]Enfin, un soin particulier sera apporté à la représentation des informations acquises; étape encore difficilement automatique et qui résulte d'une observation et d'une interprétation encore humaine.[br/][br/]\"L'aspect de la représentation tient en trois termes: décrire, figurer et représenter le bâti. Décrire, parce que la saisie exhaustive et l'ordonnancement de la totalité des données qui caractérise l'objet, reste impossible ou non traitable; ...\" *2[br/][br/][br/][br/][br/]*1 \"Le relevé en architecture ou l'éternelle quête du vrai\"; Collectif; Éd. Lieux Dits; 2011.[br/]*2 \"Le relevé et la représentation de l'architecture\"; J.-P. Saint-Aubin; Éd. Inventaire Général; 1992.[br/] [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Du relevé numérique à la mesure du changement",
+    "recitation":{
+      "week_hours":3,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  }
+}

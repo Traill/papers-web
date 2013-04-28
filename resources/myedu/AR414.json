@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=724082898&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","414"],
+    "title":"UE I : Analog-Digital-Virtual",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=724082898&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    },{
+      "url":"http://people.epfl.ch/176013",
+      "name":"Cicurel Ronald"
+    },{
+      "url":"http://people.epfl.ch/154037",
+      "name":"Lasserre Sébastien"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The representation of an object is concrete or abstract. It allows to \"figure\" a concept or to make visible the result of a calculation. The required codification of information in an abstract graphical transcription enables an easier explanation of a concept or of an assumption. It gives a better insight into the results of an observation or the data captured by a sensor. The scientific visualisation is also a research by itself, as a tool with which we can put forward hypothesises or simulate observations, in order to corroborate them, or on the contrary, to question them.[br/][br/]By means of a computer and several devices for numerical acquisition, the student will:[br/][br/][li]model a space and geometrical objects, in a digital 3D environment, by integrating data from very diverse provenience (photography, video, 3D scans, and so on);[br/][li]plan the stage-set of an action in time and in numerical space;[br/][li]coordinate graphics and sounds of a single action;[br/][li]plan and realise a space and an animated sequence, with a clear and coherent conception of architecture and design;[br/][li]on the computer, model and draw scientific concepts or observations (for instance, anatomical, histological or psychological). [br/][br/]",
+      "Content":"[li]Computing as a contemporary technology and aggregation of knowledge.[br/][li]The image out of graphical recording. Semantics and process.[br/][li]Heritage and genetical trails, defining the relationship between sensors capturing data within and beyond human perception.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE I : Analog-Digital-Virtual",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    },{
+      "url":"http://people.epfl.ch/176013",
+      "name":"Cicurel Ronald"
+    },{
+      "url":"http://people.epfl.ch/154037",
+      "name":"Lasserre Sébastien"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours et séminaires.",
+      "Contenu":"[li]L'informatique comme technologie et ensemble de connaissances.[br/][li]L'image née de l'enregistrement graphique, sémantique et processus.[br/][li]Héritages et traces génétiques qui définissent le rapport entre les capteurs para ou supra sensoriels, l'objet d'observation et le contenu des données numériques d'enregistrement.[br/][br/]",
+      "Forme du contrôle":"Travail en laboratoire.",
+      "Objectifs d'apprentissage":"La représentation est une chose concrète ou abstraite. Le «donner-à-voir» permet d'«imager» un concept ou de rendre visible le résultat d'un calcul. La nécessaire réduction, l'abstraction d'une transcription graphique permettent une meilleure explicitation d'un concept, d'une hypothèse. Elles donnent une plus grande clarté au résultat d'une observation ou à la capture d'un senseur. Aussi, la visualisation scientifique est-elle également un outil de recherche pour lui-même, comme outil qui permet d'émettre ou de simuler des observations et des hypothèses, afin de les corroborer, ou au contraire les mettre en doute.[br/][br/]Au moyen de l'ordinateur et de divers périphériques d'acquisition, l'étudiant devra :[br/][br/][li]modéliser un espace et des objets géométriques, dans un environnement numérique 3D. Y intégrer des données de provenances diverses (photographique, vidéographique, scans 3D, sons, etc);[br/][li]projeter et réaliser un espace et une animation faisant intervenir une conception cohérente du projet d'architecture et du design;[br/][li]modéliser, dessiner à l'ordinateur, des concepts ou des observations scientifiques (par exemple anatomiques, histologiques, ou psychologiques). [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE I : Analogue-Digital-Virtuel",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  }
+}

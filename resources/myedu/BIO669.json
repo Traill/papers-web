@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597883595&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","669"],
+    "title":"Neuroscience and Neurophilosophy (EDNE)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597883595&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDNE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/164642",
+      "name":"Herzog Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Many neuroscientific problems cannot be appreciated without philosophical background. Many classical philosophical theories depend on  neuroscientific findings. The goal of the current course is to put current neuroscientific findings in philosophical context and to analyze their potential to resolve open philosophical questions. ",
+      "Content":"The course will mainly focus on the quest for consciousness and epistemological questions: [br/]1. Epistemology[br/]2. What is perception?[br/]3. The ill-posed nature of vision[br/]4. Perception and truth[br/]5. Unconscious processing[br/]6. What is consciousness?[br/]7. The explanatory gap[br/]8. Theories of consciousness[br/]",
+      "Required prior knowledge":"Very Basic Neuroscience"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neuroscience and Neurophilosophy (EDNE)",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/164642",
+      "name":"Herzog Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course will mainly focus on the quest for consciousness and epistemological questions: [br/]1. Epistemology[br/]2. What is perception?[br/]3. The ill-posed nature of vision[br/]4. Perception and truth[br/]5. Unconscious processing[br/]6. What is consciousness?[br/]7. The explanatory gap[br/]8. Theories of consciousness[br/]",
+      "Forme du contrôle":"There will be an oral exam in the form of an oral presentation",
+      "Prérequis":"Very Basic Neuroscience",
+      "Objectifs d'apprentissage":"Many neuroscientific problems cannot be appreciated without philosophical background. Many classical philosophical theories depend on  neuroscientific findings. The goal of the current course is to put current neuroscientific findings in philosophical context and to analyze their potential to resolve open philosophical questions. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neuroscience and Neurophilosophy (EDNE)",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

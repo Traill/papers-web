@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","234(c)"],
+    "title":"Probabilities and statistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775642&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written",
+      "Prerequisite for":"Applied statistics and professional courses using statistics",
+      "Required prior knowledge":"Notions of differential and integral calculus",
+      "Content":"[b]Probabilities[/b]: Revision of the basic notions [br/][br/][b]Random variables[/b]: Definition, expected value, variance, covariance, correlation, transformation.[br/][br/][b]Discrete probability distributions[/b]: Bernoulli, binomial, hypergeometric, Poisson, geometric. [br/][br/][b]Continuous probability distributions[/b]: Normal, Gamma, exponential, chi-square, [i]F[/i], [i]t[/i]. [br/][br/][b]Theory of probability[/b]: Central limit theorem, normal approximations.[br/][br/][b]Estimation[/b]: Sampling distributions, point estimation, bias, mean squared error, maximum likelihood estimation, estimation by the method of moments, least squares method, estimation by confidence interval.[br/][br/][b]Hypothesis tests[/b]: Type I and II errors, power function, tests when sampling from normal distributions, [i]t[/i]-test and  test [i]F[/i] for linear model, chi-square test.[br/][br/][b]Linear regression.[/b]",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Learning outcomes":"Teach the students the basic notions of probabilities and statistics. After the courses the student should be able to use these concepts.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilities and statistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Notions de calcul différentiel et intégral",
+      "Bibliographie et matériel":"Polycopié \"Probabilités et Statistique\".",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe",
+      "Contenu":"[b]Probabilités[/b] : Révision des notions de base.[br/][br/][b]Variables aléatoires[/b] : Définition, moyenne, variance, covariance, corrélation, transformation.[br/][br/][b]Lois discrètes[/b] : Bernoulli, binomiale, hypergéométrique, Poisson, géométrique.[br/][br/][b]Lois continues[/b] : Normale, Gamma, exponentielle, chi-carré, [i]F[/i], [i]t[/i].[br/][br/][b]Théorie de probabilité[/b] : Théorème central limite, approximations par la loi normale.[br/][br/][b]Estimation[/b] : Distributions d'échantillonnage, estimation ponctuelle, biais, carré moyen de l'erreur, estimateurs du maximum de vraisemblance, estimateurs par la méthode des moments, méthode des moindres carrés, estimation par intervalle.[br/][br/][b]Tests d'hypothèses[/b] : Erreurs de 1ère et 2e espèces, puissance d'un test, tests basés sur la loi normale, test [i]t[/i] et test [i]F[/i] pour un modèle linéaire, test du chi-carré.[br/][br/][b]Régression linéaire simple et multiple.[/b]",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Statistique appliquée et cours professionnels utilisant la statistique",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant aux concepts fondamentaux des probabilités et de la statistique. Au terme du cours, l'étudiant devrait avoir assimilé ces concepts et ainsi pouvoir les utiliser."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilités et statistique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965829210&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","609"],
+    "title":"Asset Pricing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965829210&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213189",
+      "name":"Collin Dufresne Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"We start with the standard stochastic discount factor framework of Breeden-Lucas-Rubinstein. We then review the main stylized facts that have challenged the classic model in the last thirty years: equity premium puzzle, excess volatility puzzle, cross-sectional (value, growth, momentum) puzzles. We investigate several extensions of the classic framework that financial economists have proposed to explain these facts. First, we cover new preferences: recursive utility, habit formation, uncertainty aversion. Then we investigate incomplete markets, trading frictions, and heterogeneous agent models. Finally, we investigate limits to arbitrage theories combined with behavioral explanations such as heterogeneous beliefs, bounded rationality, and other deviations from rationality proposed in the recent literature. A last section covers recent attempts to model liquidity risk.  ",
+      "Form of examination":"Written[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Asset Pricing",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213189",
+      "name":"Collin Dufresne Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"We start with the standard stochastic discount factor framework of Breeden-Lucas-Rubinstein. We then review the main stylized facts that have challenged the classic model in the last thirty years: equity premium puzzle, excess volatility puzzle, cross-sectional (value, growth, momentum) puzzles. We investigate several extensions of the classic framework that financial economists have proposed to explain these facts. First, we cover new preferences: recursive utility, habit formation, uncertainty aversion. Then we investigate incomplete markets, trading frictions, and heterogeneous agent models. Finally, we investigate limits to arbitrage theories combined with behavioral explanations such as heterogeneous beliefs, bounded rationality, and other deviations from rationality proposed in the recent literature. A last section covers recent attempts to model liquidity risk.  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Asset Pricing",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773472&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","203(b)"],
+    "title":"Electronics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773472&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106795",
+      "name":"Zysman Eytan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Duplicated lecture notes. Laboratory notice.",
+      "Prerequisite for":"Electronic circuits and systems",
+      "Required prior knowledge":"Electronics I",
+      "Content":"[b]Courses[/b][br/][]9. Semiconductors and pn junction[br/]10. Diode[br/]11. Bipolar transistor[br/]12. MOS transistor[br/]13. Small signal configurations[br/]14. Bias and current sources[br/]15. Basic amplifiers[br/]16. Frequency response of amplifiers[br/][br/][b]Exercises and laboratories[/b][br/]Exercises and laboratory experiments will allow the student to compare theory and practice. Different types of integrated circuits as well as discrete components will be used in various experiments.",
+      "Type of teaching":"Ex cathedra and exercises in class. Labs",
+      "Learning outcomes":"At the end of the course, the student will be able to understand and design basic electronics. This objective takes advantage of an in-depth knowledge of modern electronic components and their applications. The student will acquire both theoretical and physical approaches of phenomena as well as practical aspects of design limitations and measurements of circuits."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electronics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106795",
+      "name":"Zysman Eytan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Électronique I",
+      "Bibliographie et matériel":"Notes de cours polycopiées. Notice de laboratoire. ",
+      "Forme d'enseignement":"Cours ex cathedra et exercices dirigés en salle. Travaux pratiques en laboratoire",
+      "Contenu":"[b]Cours[/b][br/][]9.\tSemiconducteurs et jonction pn[br/]10.\tDiode[br/]11.\tTransistor bipolaire[br/]12.\tTtransistor MOS[br/]13.\tConfigurations petits signaux du transistor[br/]14.\tPolarisation et sources de courant[br/]15.\tAmplificateurs élémentaires à transistors[br/]16.\tRéponse en fréquence des amplificateurs[br/][br/][b]Exercices et travaux pratiques[/b][br/]Avec les exercices et travaux pratiques, l'étudiant confrontera systématiquement la théorie aux résultats expérimentaux. Il mettra en oeuvre différents types de circuits intégrés et de composants discrets dans diverses expériences. ",
+      "Forme du contrôle":"Écrit",
+      "Préparation pour":"Circuits et Systèmes Electroniques",
+      "Objectifs d'apprentissage":"À la fin du cours, l'étudiant sera capable de comprendre et de concevoir correctement les circuits électroniques de base. Cet objectif s'appuie sur une connaissance fondamentale des composants électroniques modernes et la maîtrise de leur mise en oeuvre dans les circuits. L'étudiant aura une approche théorique et également \"physique\" des phénomènes et des techniques de circuits et saura interpréter des résultats de calcul ou de mesures. Il aura le sens des approximations et leurs limites de validité."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electronique II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

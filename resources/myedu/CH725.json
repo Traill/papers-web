@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240280701&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","725"],
+    "title":"Surface and thin films processes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240280701&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://sb2.epfl.ch/instituts/akarimi/","http://sb2.epfl.ch/instituts/akarimi/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105535",
+      "name":"Karimi Ayat"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Thin film technology is pervasive in many applications including micromechanics, optical and magnetic devices, catalyst, energy conversion and biology. The course aims at giving a basic knowledge of modern nanoscale thin film technology, characterisation techniques, and emerging thin film materials and applications. The goal is to learn essential fundamental aspects and physical principles of thin film nucleation and growth from the vapour phase, which will help students to understand the link between processing-structure-properties. [br/]",
+      "Content":"1) Thermodynamic and kinetic theory concepts of surfaces in vacuum, chemi and physi-sorption, statistical physics of adsorption/desorption at low coverage[br/]2) Physical vapour deposition principles, discharge and gas ionization, plasma, ion-surface interaction, momentum transfer, sputter yield, DC and RF sputtering[br/]3) Kinetic theory of gases and vapour, mean free path, condensation on substrate, atomistic processes, thermal accommodation, binding, surface diffusion[br/]4) Nucleation and growth, surface energy, interface energy, cluster coales-cence and depletion, island growth, layer by layer growth, film morphology, extended struc-ture zone models[br/]5) Preferred orientation and texture; evolutionary selection model, fractal clustering and shadowing effects, surface energy and self-arrangement, elastic strain and total energy minimization, adatom mobility and competitive growth[br/]6) Origin of stresses in thin films, self assembly and self organisation in nanostructure thin films[br/]7) X-ray diffraction and electron-based techniques to characterise thin films[br/]8) Nanomechanic and nanotribology of thin films[br/]9) Nanoscale engineering of PVD thin films, nanocomposites[br/]10) New insights from first-principle ab-initio calculations[br/]11) Emerging thin films and applications       [br/]",
+      "Keywords":"Surfaces, thin films, sputtering,  nucleation, growth, oxides, nitrides, nanocomposites[br/]",
+      "Required prior knowledge":"Basic knowledge in condensed matter physic and chemistry[br/]"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Surface and thin films processes",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://sb2.epfl.ch/instituts/akarimi/","http://sb2.epfl.ch/instituts/akarimi/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105535",
+      "name":"Karimi Ayat"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1) Thermodynamic and kinetic theory concepts of surfaces in vacuum, chemi and physi-sorption, statistical physics of adsorption/desorption at low coverage[br/]2) Physical vapour deposition principles, discharge and gas ionization, plasma, ion-surface interaction, momentum transfer, sputter yield, DC and RF sputtering[br/]3) Kinetic theory of gases and vapour, mean free path, condensation on substrate, atomistic processes, thermal accommodation, binding, surface diffusion[br/]4) Nucleation and growth, surface energy, interface energy, cluster coales-cence and depletion, island growth, layer by layer growth, film morphology, extended struc-ture zone models[br/]5) Preferred orientation and texture; evolutionary selection model, fractal clustering and shadowing effects, surface energy and self-arrangement, elastic strain and total energy minimization, adatom mobility and competitive growth[br/]6) Origin of stresses in thin films, self assembly and self organisation in nanostructure thin films[br/]7) X-ray diffraction and electron-based techniques to characterise thin films[br/]8) Nanomechanic and nanotribology of thin films[br/]9) Nanoscale engineering of PVD thin films, nanocomposites[br/]10) New insights from first-principle ab-initio calculations[br/]11) Emerging thin films and applications       ",
+      "Mots clés":"Surfaces, thin films, sputtering,  nucleation, growth, oxides, nitrides, nanocomposites[br/]",
+      "Prérequis":"Basic knowledge in condensed matter physic and chemistry",
+      "Objectifs d'apprentissage":"Thin film technology is pervasive in many applications including micromechanics, optical and magnetic devices, catalyst, energy conversion and biology. The course aims at giving a basic knowledge of modern nanoscale thin film technology, characterisation techniques, and emerging thin film materials and applications. The goal is to learn essential fundamental aspects and physical principles of thin film nucleation and growth from the vapour phase, which will help students to understand the link between processing-structure-properties. "
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Surface and thin films processes",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

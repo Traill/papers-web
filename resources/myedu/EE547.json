@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350863498&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","547"],
+    "title":"Introduction to applied acoustics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350863498&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Audio Engineering, labs and Master thesis",
+      "Required prior knowledge":"Electromagnetics, Radiation and Antennas",
+      "Content":"Acoustics is the science of sounds, and its applications concern, among others, a whole range of processes, equipment and systems for the production, transmission, recording of sound, but also the control, measurement and modification of sound fields. This course provides a solid basis for the design of acoustic systems applied to audio. An appropriate balance between theory and applications leads to a thorough grasp of the main aspects of the problems. Examples and demonstrations illustrate the techniques and methods proposed. The applications and processes, from classical methods to the most recent ones are described from the basic concept right up to the realisations.[br/]This first semester is devoted to the essential aspects of the following chapters:[br/]- Fundamental concepts[br/]- Humans and sound[br/]- Room acoustics[br/]- Systems characterization[br/]",
+      "Type of teaching":"Ex cathedra with demonstrations, examples and exercises",
+      "Learning outcomes":"To master the acoustic basics, models and methods.[br/]To be able to model and design an acoustic device or system.[br/]To acquire knowledge of the main applied acoustics techniques and know how to conceive and design different devices dedicated to acoustic in the audio range."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to applied acoustics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-653-7&amp;con_lng=ENG\" target=\"blank\">Audio / Mario Rossi</a>\". Year:2007. ISBN:978-2-88074-653-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electromagnétisme, Rayonnement et antennes",
+      "Bibliographie et matériel":"\"Audio\" PPUR, 2007",
+      "Forme d'enseignement":"Ex cathedra avec démonstrations, exemples et exercices",
+      "Contenu":"L'acoustique est la science des sons, et ses applications concernent entre autres les différents procédés, appareils et systèmes pour la production, la transmission, l'enregistrement des sons, mais également le contrôle, la mesure et la modification des champs sonores. Ce cours propose de solides bases pour l'étude et la conception des systèmes acoustiques appliqués à l'audio. Un juste équilibre entre théories et applications permet la maîtrise des problèmes sous leurs principaux aspects. Des exemples et démonstrations illustrent les techniques et méthodes proposées. Les applications et procédés, des classiques aux plus modernes sont décrits, des concepts de base aux réalisations pratiques.[br/][br/]Ce premier semestre est consacré aux aspects essentiels des chapitres suivants:[br/]- Acoustique fondamentale.[br/]- Hommes et sons[br/]- Acoustique des espaces[br/]- Caractérisation des systèmes[br/]",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Audio, travaux pratiques et Pdm",
+      "Objectifs d'apprentissage":"Maîtriser les bases fondamentales, les modèles et les méthodes de l'acoustique.[br/]Etre capable de modéliser et de dimensionner un dispositif ou un système acoustique.[br/]Connaître les principales techniques de l'acoustique appliquée et savoir en concevoir et réaliser les différents dispositifs dédiés aux applications audio."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à l'acoustique appliquée",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-653-7&amp;con_lng=FRE\" target=\"blank\">Audio / Mario Rossi</a>\". Année:2007. ISBN:978-2-88074-653-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

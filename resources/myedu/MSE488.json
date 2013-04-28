@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229735212&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","488"],
+    "title":"Supramolecular aspects of polymeric materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229735212&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course aims to demonstrate that the properties of advanced polymer materials depends on both their molecular structure, i.e., constitution and configuration, and their interamolceular as well as intermolecular non-convalent interactions. The former control the conformation of a polymer chain (i.e., its overall shape and shape persistence), while the latter determine the aggregation and microphase segregation of polymers. Consequently, these non-covalent interactions give rise to hierarchical structure formation and exert an important influence on the material properties. In analogy to modern organic chemistry and biochemistry, the preparation of advanced polymers tries to take these aspects into account. The building blocks used in modern polymer synthesis often attempt to encode the supramolecular behavior into the molecular structure. The course aims to provide an understanding of the underlying principles, discuss the consequences and give illustrative examples of modern applications, such as organic optoelectronic materials, shape-memory polymers, or self-assembled nanoscopic objects.[br/][br/]",
+      "Content":"1.\tIntroduction & motivation[br/]2.\tConcepts in supramolecular chemistry[br/]3.\tExamples of primary structure control [br/]4.\tExamples of secondary structure control [br/]5.\tProperties and applications of block copolymers[br/]6.\tSelf-assembly of Rod-Coil block copolymers[br/]7.\tMiscellaneous topics[br/][br/]More information: http://lmom.epfl.ch/teaching[br/]",
+      "Type of teaching":"Ex cathedra",
+      "Required prior knowledge":"basic chemistry, polymer science"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supramolecular aspects of polymeric materials",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1.\tIntroduction & motivation[br/]2.\tConcepts de chimie supramoléculaire [br/]3.\tExemples de contrôle des structures primaires [br/]4.\tExemples de contrôle des structures secondaires[br/]5.\tPropriétés et applications de copolymères à bloc[br/]6.\tAuto-assemblage des copolymères à bloc Rod-Coil[br/]7.\tSujets divers[br/][br/]Plus d'informations sur : http://lmom.epfl.ch/teaching[br/]",
+      "Prérequis":"Chimie de base, science des polymères",
+      "Objectifs d'apprentissage":"Ce cours a pour objectif de démontrer que les propriétés des matériaux polymères avancés dépendent de leurs structures moléculaires, c'est-à-dire : de leurs constitutions et configurations, tout autant que de leurs interactions non covalentes intra et intermoléculaires. Ces paramètres contrôlent respectivement la conformation de la chaîne d'un polymère (sa forme générale et persistante) et l'agrégation, ainsi que la ségrégation en micro phase du polymère. Par conséquent, ces interactions non covalentes mènent à la formation de structures hiérarchisées et ont également une influence importante sur les propriétés des matériaux. En analogie à la chimie organique moderne et à la biochimie, les aspects cités ci-dessus sont pris en compte pour la préparation de polymères avancés. Les building blocks utilisés en chimie moderne de synthèse de polymères possèdent souvent des propriétés supra chimiques qui peuvent être transmises à la structure du polymère. Ce cours donne des informations, clarifie et discute de ces principes et montre des exemples d'applications modernes, telles que : les matériaux opto-éléctroniques organiques, les polymères à mémoire de forme et l'auto-assemblage d'objets nanoscopiques. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supramolecular aspects of polymeric materials",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

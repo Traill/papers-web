@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2208004&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","107"],
+    "title":"General physics (German) II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2208004&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[["http://moodle.epfl.ch   suivre Physique -> Bachelor","http://moodle.epfl.ch   suivre Physique -> Bachelor"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    },{
+      "url":"http://people.epfl.ch/229630",
+      "name":"Thomale Ronny"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Deutsch",
+    "title":"General physics II(German)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-43559-X&amp;con_lng=ENG\" target=\"blank\">Experimentalphysik / Wolfgang Demtröder</a>\". Year:2003. ISBN:3-540-43559-X</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[["http://moodle.epfl.ch   suivre Physique -> Bachelor","http://moodle.epfl.ch   suivre Physique -> Bachelor"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    },{
+      "url":"http://people.epfl.ch/229630",
+      "name":"Thomale Ronny"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physik I",
+      "Bibliographie et matériel":"W. Demtröder, Experimentalphysik 1, Springer Verlag",
+      "Forme d'enseignement":"Ex cathedra und Übungen",
+      "Contenu":"[b]4.  Schwingungen[/b][br/][li]Der freie gedämpfte und ungedämpfte Oszillator[br/][li]Erzwungene Schwingungen, Resonanz[br/][b]5.  Systeme von Massenpunkten, Stöße[/b][br/][li]Massenschwerpunkt, reduzierte Masse[br/][li]Elastische Stöße, inelastische Stöße, Erhaltungssätze[br/][b]6.  Dynamik starrer ausgedehnter Körper[/b][br/][li]Massenschwerpunkt[br/][li]Trägheitsmoment und Rotationsenergie[br/][li]Rotation um freie Achsen, Kreiselbewegungen[br/][b]7.  Einführung in die analytische Mechanik[/b][br/][b]8.  Kinetische Gastheorie[/b][br/][li]Grundgleichungen der kinetischen Gastheorie[br/][li]Mittlere kinetische Energie und Temperatur[br/][li]Maxwell-Boltzmann Geschwindigkeitsverteilung[br/][b]9.  Thermodynamik[/b][br/][li]Temperatur und Wärmemenge[br/][li]Wärmetransport[br/][li]Hauptsätze der Thermodynamik[br/][li]Entropie[br/][li]Kreisprozesse[br/][li]Thermodynamik realer Gase und Flüssigkeiten",
+      "Forme du contrôle":"Übungen, Zwischentests, Schlussexamen",
+      "Préparation pour":"Physique III, IV",
+      "Objectifs d'apprentissage":"[br/][li]Verständnis und Anwendung der Gesetze der Mechanik von Mehrteilchensystemen und starren Körpern[br/][br/][li]Grundkenntnisse der analytischen Mechanik[br/][br/][li]Verständnis und Anwendung der Gesetze der Thermodynamik"
+    },
+    "practical":null,
+    "language":"Deutsch",
+    "title":"Physique générale II (allemand)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-43559-X&amp;con_lng=FRE\" target=\"blank\">Experimentalphysik / Wolfgang Demtröder</a>\". Année:2003. ISBN:3-540-43559-X</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

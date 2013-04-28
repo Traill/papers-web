@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773452&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","200"],
+    "title":"Electromagnetics I : Transmission lines and waves",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773452&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://itopwww.epfl.ch/LEMA/Enseignement/Section%20d'electricite/Electromagnetisme%20I/","http://itopwww.epfl.ch/LEMA/Enseignement/Section%20d'electricite/Electromagnetisme%20I/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam[br/]Paying continuous control",
+      "Bibliography and material":"1) \"Électromagnétisme\", Vol. III du Traité d'électricité de l'EPFL[br/]2) Ramo: \"Fields and Waves in Communication Electronics\"[br/]3) Notes supplémentaires polycopiées[br/]",
+      "Prerequisite for":"Microwaves and optics transmission, Telecommunications, Mobile communication orientation, Radiation and antennas, Propagation, Audio ",
+      "Required prior knowledge":"Analyses I and II, General Physics",
+      "Content":"[b]1) The electromagnetic signal[/b][br/]Specific aspects of the electromagnetic signal. Scalar and vector signals. Guided and radiated signals. Time and frequency domains. Attenuation, dispersion and distorsion. Transmitted power and the Poynting vector.[br/][b]2) Transmission lines and HF circuits[/b][br/]Circuit size vs. frequency and wavelength. Discrete (lumped) and distributed elements. Single- and multi-access networks, reciprocal and lossless elements, power conservation. Scattering matrix for two-ports. Phase and group velocity, characteristic impedance, reflection and transmission, standing waves, power transfert, matching techniques.[br/][b]3) Wave propagation[/b][br/]The analogy with transmission line theory. Linear, circular and elliptical polarisation. Normal and oblique incidence on planar obstacles. Reflection, transmission and diffraction. Some particular cases.[br/][b]4) Radiation and antennas (SSC)[/b][br/]The mecanism of antenna radiation and the elementary radiating source. Typical antenna parameters: impedance, radiation pattern, gain, directivity, efficiency, polarisation, frequency band, noise temperature. Some specific antennas. Introduction to array theory.",
+      "Type of teaching":"Ex cathedra with exercises in room and computer examples. Paying continous control.",
+      "Learning outcomes":"To apply electromagnetic theory to transmission lines and systems at high frequencies. To know the basic principles of electromagnetic wave propagation and to review some of its applications: plane waves, guiding systems for electromagnetic signals, electromagnetic radiation transmitted and received by antennas."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromagnetics I : Transmission lines and waves",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-508-X&amp;con_lng=ENG\" target=\"blank\">Electromagnétisme / par Fred Gardiol</a>\". Year:2004. ISBN:2-88074-508-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-30578-2&amp;con_lng=ENG\" target=\"blank\">Fields and waves in communication electronics / Simon Ramo, John R. Whinnery, Theodore van Duzer</a>\". Year:1994. ISBN:0-471-30578-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://itopwww.epfl.ch/LEMA/Enseignement/Section%20d'electricite/Electromagnetisme%20I/","http://itopwww.epfl.ch/LEMA/Enseignement/Section%20d'electricite/Electromagnetisme%20I/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Physique générale ",
+      "Bibliographie et matériel":"1) \"Électromagnétisme\", Vol. III du Traité d'électricité de l'EPFL - 2) Ramo: \"Fields and Waves in Communication Electronics\" - 3) Notes supplémentaires polycopiées",
+      "Forme d'enseignement":"Ex cathedra avec exercices en salle et exemples traités à l'ordinateur. Contrôle continu payant",
+      "Contenu":"[b]1) Le signal électromagnétique[/b][br/]Aspects spécifiques du signal électromagnétique: Signaux scalaires et vectoriels. Signaux guidés et rayonnés. Domaines temporels et fréquentiel. Affaiblissement, dispersion et distorsion. Puissance transmise et vecteur de Poynting.[br/][b]2) Lignes de transmission et circuits HF[/b][br/]Dimensions du circuit, fréquence et longueur d'onde. Eléments discrets (localisés) et distribués. Circuits à un et à plusieurs accès, éléments réciproques et sans pertes, bilan de puissance. Matrice de répartition d'un quadripôle. Vitesses de phase et de groupe, impédance caractéristique, réflexion et transmission, ondes stationnaires, transfert de puissance et méthodes d'adaptation.[br/][b]3) Propagation d'ondes[/b][br/]Analogie avec la théorie des lignes de transmission. Polarisation linéaire, circulaire et elliptique. Incidence normale et oblique sur un obstacle plan. Réflexion et transmission. Diffraction. Étude de cas particuliers.[br/][b]4) Rayonnement et antennes (SSC)[/b][br/]Mécanisme de rayonnement d'une antenne, sources élémentaires de rayonnement. Paramètres caractéristiques d'une antenne: impédance, diagramme de rayonnement, gain, directivité, rendement, polarisation, bande passante, température de bruit. Quelques antennes particulières. Introduction aux réseaux.",
+      "Forme du contrôle":"Examen écrit.Contrôle continu payant",
+      "Préparation pour":"Transmissions Hyperfréquences et Optiques, Télécommunications, Orientation Communications mobiles, Rayonnement et Antennes, Propagation, Audio",
+      "Objectifs d'apprentissage":"Appliquer la théorie électromagnétique aux systèmes et lignes de transmission en haute fréquence. Connaître les principes fondamentaux de la théorie des ondes électromagnétiques et ses applications: ondes planes, systèmes de guidage d'un signal électromagnétique, émission et réception du rayonnement électromagnétique par une antenne."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromagnétisme I : lignes et ondes",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-508-X&amp;con_lng=FRE\" target=\"blank\">Electromagnétisme / par Fred Gardiol</a>\". Année:2004. ISBN:2-88074-508-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-30578-2&amp;con_lng=FRE\" target=\"blank\">Fields and waves in communication electronics / Simon Ramo, John R. Whinnery, Theodore van Duzer</a>\". Année:1994. ISBN:0-471-30578-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

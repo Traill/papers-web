@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","202"],
+    "title":"Analysis III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772230&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105837",
+      "name":"Metzener Philippe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"The study of the differential equations in use in the engineering sciences.",
+      "Required prior knowledge":"Analysis I and II, Linear Algebra I and II",
+      "Content":"[li]\tScalar fields  and vector fields[br/][li]\tSmooth curves  and curvilinear integrals[br/][li]\tPieces of surfaces and surface integrals[br/][li]\tThe differential operators : gradient, divergence, rotationnal  and laplacian[br/][li]\tThe Stokes and Gauss  theorems[br/][li]\tThe Green's  formulae[br/][li]\tCurvilinear orthogonal coordinates[br/][li]\tIntroduction to the Fourier series[br/][li]\tApplications : solving the one dimension heat and wave equations with Fourier series",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Learning outcomes":"Showing the basic tools of the vector analysis necessary for the engineering sciences.[br/][br/]Introduction to Fourier analysis."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-72897-9&amp;con_lng=ENG\" target=\"blank\">Advanced engineering mathematics / Erwin Kreyszig</a>\". Year:2006. ISBN:978-0-471-72897-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=ENG\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Year:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105837",
+      "name":"Metzener Philippe"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I et II, Algèbre linéaire I et II",
+      "Bibliographie et matériel":"E. Keyszig : Advanced engineering mathematics, Wiley 1999.[br/]B.Dacorogna & C. Tanteri : Analyse avancée pour  Ingénieurs, PPUR 2002.[br/]Polycopié des notes du cours.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[li]\tChamps scalaires et champs vectoriels[br/][li]\tArcs lisses et intégrales curvilignes[br/][li]\tMorceaux de surfaces et intégrales de surface[br/][li]\tLes opérateurs différentiels : gradient, divergence, rotationnel et laplacien[br/][li]\tLes théorèmes de Stokes et de Gauss[br/][li]\tLes formules de Green[br/][li]\tCoordonnées curvilignes orthogonales[br/][li]\tIntroduction aux séries de Fourier[br/][li]\tApplications :  résolution des équations des ondes et de la chaleur en une dimension par la méthode de Fourier",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"L'étude des équations différentielles en usage dans les sciences de l'ingénieur.",
+      "Objectifs d'apprentissage":"Présenter les outils de base de l'analyse vectorielle nécessaires aux sciences de l'ingénieur.[br/][br/]Introduction à l'analyse de Fourier."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-72897-9&amp;con_lng=FRE\" target=\"blank\">Advanced engineering mathematics / Erwin Kreyszig</a>\". Année:2006. ISBN:978-0-471-72897-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=FRE\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Année:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

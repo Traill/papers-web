@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350848359&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ChE","408"],
+    "title":"Eco-friendly production of the chemicals and process intensification",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350848359&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-ING",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106205",
+      "name":"Renken Albert"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To impart a broader understanding for the rational design of chemical reactors and for process intensification. To gain up-to-date knowledge of processing methods and emerging technologies allowing the efficient use of raw materials and energy in chemical production.  [br/]",
+      "Content":"[b]1. Introduction :[/b][br/]The origin of waste, E-factors & atom efficiency[br/][b]2. Chemicals process routes:[/b][br/]Synthesis route selection, catalysis in fine chemicals production[br/][b]3. The importance of mixing in homogeneous systems:[/b] influence on product distribution[br/][b]4. Heat management in continuous reactors:[/b] temperature profile, run away behavior, energy recuperation, coupling of endo-/exothermal reactions[br/][b]5. Alternative reaction conditions & heat sources:[/b][br/]Chemistry under extreme and unconventional conditions (high temperature and pressure), supercritical fluids, novel solvents, ionic liquids. Microwave heating, ultrasound for mixing and reaction activation[br/][b]6. Process intensification for fine chemicals production:[/b] Intensification of transport processes (nano/micro), structured reactors and catalysts, [br/][b]7. Multifunctional reactors:[/b] Membranes reactors, reactive distillation & extraction, chromatographic reactors[br/][b]8. Case studies[/b][br/] "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Eco-friendly production of the chemicals and process intensification",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106205",
+      "name":"Renken Albert"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[b]1. Introduction:[/b] L'origine des déchets, E-facteurs et utilisation atomique[br/][b]2. Voies de production chimique:[/b] Sélection des voies de synthèse, catalyse dans le secteur de la chimie fine[br/][b]3. Importance du mélange dans les systèmes homogènes:[/b] Influence sur la distribution des produits[br/][b]4. Gestion de l'énergie thermique dans les systèmes continus: [/b]Profil de température, emballement des réacteurs chimiques, récupération d'énergie, couplage de réactions endo/exothermiques[br/][b]5. Conditions réactionnelles et sources d'énergie alternatives:[/b]Conditions extrêmes, liquides supercritiques, nouveaux solvants, liquides ioniques, chauffage par micro-ondes, mélange et activation des réactions par ultrasons [br/][b]6. Intensification des procédés pour la production de produits chimiques à haute valeur ajoutée:[/b][br/]Intensification des processus de transport, réacteurs et catalyseurs (nano/micro) structurés[br/][b]7. Réacteurs multifonctionnels: [/b]Réacteurs à membranes, distillation & extraction  réactive, réacteurs chromatographiques[br/][b]8. Études de cas[/b][br/]",
+      "Prérequis":"Module de Génie chimique du cycle Bachelor",
+      "Bibliographie et matériel":"Transparents polycopiés, ouvrages conseillés",
+      "Objectifs d'apprentissage":"Approfondir les connaissances sur la conception des réacteurs chimiques et l'intensification des procédés.[br/]Découvrir les méthodes et technologies émergentes permettant de diminuer la consommation d'énergie et des matières premières dans l'industrie chimique.[br/] "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Eco-friendly production of the chemicals and process intensification",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

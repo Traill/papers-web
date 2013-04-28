@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499340802&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","361"],
+    "title":"Electromécanique",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499340802&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Prerequisite for":"Energy and Automatic options",
+      "Required prior knowledge":"Energy conversion",
+      "Content":"1. Generalities: Constituent materials of electrical machines, basic lows, energy balance and conversion of electromechanical energy.[br/]2. Electric and magnetic circuits: Magnetic field intensity and magnetic induction. Ampere law. Flux, permeances, inductances. Induction law. Linked circuits.[br/]3. Transformer: Constitution, physical description, equations and diagrams, equivalent circuits, special modes of operation, parallel operation, phasor group.[br/]4. Rotating machines: Generalities, winding types, pulsating and rotating magneto-motive forces, induced voltage, reactances.[br/]5. DC machines : morphology, principle of operation, external-, load- and regulation- characteristics.[br/]6.  Induction machines : morphology, principle of operation, voltage and torque diagrams, starting-up methods, tests.[br/]7. Synchronous motor: Morphology, principle of operation, voltage and power diagrams, starting-up, synchronization, tests.[br/][br/]Variable speed drives[br/]- Components of a variable speed drive.[br/]- Some practical examples as introduction to the master courses.[br/][br/]",
+      "Type of teaching":"Ex cathedra + demonstrations and exercises",
+      "Learning outcomes":"Students will be able to use the electromechanical specific methods in order to establish the external characteristics of the different rotating electrical machines operating at steady-state conditions under network supply."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromécanique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105539",
+      "name":"Kawkabani Basile"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Conversions d'énergies",
+      "Bibliographie et matériel":"Cours Polycopié",
+      "Forme d'enseignement":"Ex cathedra + démonstrations et exercices",
+      "Contenu":"1. Généralités : Matériaux constitutifs des machines électriques, rappel des lois fondamentales, bilan énergétique et conversion d'énergie électromécanique.[br/]2. Circuits électriques et magnétiques: Champ et induction magnétiques. Loi d'Ampère. Flux, perméances, inductances. Loi de l'induction. Circuits couplés.[br/]3. Transformateur: Constitution, morphologie, équations et diagrammes, schémas équivalents, régimes particuliers, marche en parallèle, indice horaire.[br/]4. Machines tournantes triphasées : Généralités, type d'enroulements, solénations pulsantes et tournantes, tension induite, réactances.[br/]5. Machine à courant continu: morphologie, collecteur, principe de fonctionnement, caractéristiques externe, en charge et de réglage. [br/]6. Machine asynchrone : morphologie, principe de fonctionnement, diagramme de tension, caractéristique couple - vitesse, procédés de démarrage, tests.[br/]7. Machine synchrone : morphologie, principe de fonctionnement, diagrammes de tension et de puissance, démarrage, synchronisation, tests.[br/][br/]Entraînements électriques à vitesse variable[br/]- Composants d'un entraînement à vitesse variable.[br/]- Quelques exemples en prélude aux cours MASTER.[br/][br/]",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Options énergie et automatique",
+      "Objectifs d'apprentissage":"Les étudiants seront capables d'utiliser les méthodes spécifiques de l'électromécanique en vue de l'établissement des caractéristiques externes des principaux types de machines électriques tournantes en régime stationnaire sous alimentation réseau."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electromécanique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

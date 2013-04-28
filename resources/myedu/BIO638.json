@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239754198&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","638"],
+    "title":"Practical - Lemaitre Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239754198&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lemaitrelab.epfl.ch/","http://lemaitrelab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Drosophila immunity[br/]Give students a feel for some of the approaches pursued to understand mechanisms underlying cell division innate immunity in Drosophila[br/]",
+      "Content":"Students will learn how to use Drosophila to dissect host-pathogen interactions. Lab work will include survival analysis using wild-type and mutant fly stocks, antimicrobial peptide gene expression using RT-qPCR or reporter genes, methods to infect flies...",
+      "Keywords":"Drosophila, innate immunity, infection, gut immunity[br/]",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules. Note also that doctoral students from Lemaitre laboratory cannot take this course. Acces is limited to 2-3 students (exceptionally 4 students can attend).[br/]",
+      "Required prior knowledge":"none"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Lemaitre Lab",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lemaitrelab.epfl.ch/","http://lemaitrelab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules. Note also that doctoral students from Lemaitre laboratory cannot take this course. Acces is limited to 2 students (exceptionally 4 students can attend).[br/][br/]URL: http://lemaitrelab.epfl.ch/page26728-en.html[br/]",
+      "Contenu":"Students will learn how to use Drosophila to dissect host-pathogen interactions. Lab work will include survival analysis using wild-type and mutant fly stocks, antimicrobial peptide gene expression using RT-qPCR or reporter genes, methods to infect flies...",
+      "Mots clés":"Drosophila, innate immunity, infection, gut immunity[br/]",
+      "Prérequis":"none",
+      "Objectifs d'apprentissage":"Drosophila immunity[br/]Give students a feel for some of the approaches pursued to understand mechanisms underlying cell division innate immunity in Drosophila[br/]"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Lemaitre Lab",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

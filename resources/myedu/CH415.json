@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1533900991&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","415"],
+    "title":"Chemistry of small biological molecules",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1533900991&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217627",
+      "name":"Dubikovskaya Elena"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The main goal of the course if to provide students with relevant background on available chemical tools (predominantly small molecules) that are used to solve important problems in biology and medicine. [br/]",
+      "Content":"1. Short overview: Chemical synthesis of biological molecules such as proteins, DNA, RNA, peptides, lipids, carbohydrates, and antibodies.[br/]2. Methods to chemically modify, recognize, and modulate proteins, DNA, RNA, peptides, lipids, carbohydrates, and antibodies with small molecules. [br/][tab]2.1 Protein modification methods: [br/][tab]- modifications of N- and C-terminus [br/][tab]- cysteine and lysine modification methods[br/][tab]- tyrosine and tryptophan modifications[br/][tab]2.2 Native chemical ligation reactions:[br/][tab]- ligation of two peptides[br/][tab]- protein trans-splicing[br/][tab]- expressed protein ligation[br/][tab]2.3 Bioorthogonal Chemistry based on unique amino acid sequences[br/][tab]- bisboronic fluorogenic acid reagents[br/][tab]- enzyme modifications of peptide tags[br/][tab]- using transition metals to detect peptide tags through chelation \t[br/][tab]2.4 Studies of biomolecules that are not genetically encoded (glycans, lipids, metabolites)\t[br/][tab]- requirements for bioorthogonal reactions[br/][tab]- condensation methods of amine nucleophiles with ketones and aldehydes[br/][tab]- Staudinger ligation of triarylphosphines and azides[br/][tab]- the [3+2] cycloaddition of alkynes and azides[br/][tab]- bioorthogonal ligation with alkenes[br/][tab]2.5 Bioorthogonal group incorporation into various biomolecules [br/][tab]- proteins: labeling via residue specific modification, site-specific modifications (genetic method), combination of bioorthogonal chemical reporter strategy and activity based protein profiling. [br/][tab]2.6 Labeling of and imaging glycans[br/][tab]2.7 Labeling of and imaging of lipids [br/][tab]2.8 Labeling of and imaging of nucleic acids [br/][tab]2.9 Labeling and detection of other small metabolites[br/]3. Basic principles of successful probe design[br/][tab]- solubility, pharmacokinetics, brightness, photo-stability[br/]4. Optical in vitro and in vivo imaging and its applications to study molecular signatures of targeted tissues. Bioluminescent and fluorescent imaging.[br/]5. Applications of PET and MIR imaging as a new tool to visualize biological processes of medicinal significance.[br/]6. Other imaging modalities and their applications in medicine and biology - optoacoustic, ultrasound, DNP.[br/]7. Case studies: successful applications of chemical biology approaches in the area of oligonucleotide therapeutics, synthetic vaccines, DNA-encoded libraries, and antibody drug conjugates, proteomics, stem cells and regenerative medicine.[br/] "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemistry of small biological molecules",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217627",
+      "name":"Dubikovskaya Elena"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"1. Bref survol: synthèse chimique de molécules biologiques telles que les protéines, ADN, ARN, les peptides, les lipides, les hydrates de carbone et les anti-corps.[br/]2. Méthodes chimiques permettant de modifier, reconnaître et moduler les protéines, l'ADN, l'ARN, les peptides, les lipides, les hydrates de carbone et les anti-corps avec de petites molécules. [br/][tab]2.1 Méthodes de modification de protéines:[br/][tab]- modifications des terminus N et C[br/][tab]- méthodes de modification de cystéine et lysine[br/][tab]- modifications de tyrosine et tryptophane [br/][tab]2.2 Réactions de ligature chimique native:[br/][tab]- ligature de deux peptides[br/][tab]- trans-épissage de protéines[br/][tab]- ligature de protéines exprimées[br/][tab]2.3 Chimie bioorthogonale basée sur des séquences uniques d'acide aminé[br/][tab]- réactifs acides bisboroniques fluorogéniques[br/][tab]- modifications d'enzymes de balises péptidiques[br/][tab]- utilisation de métaux de transition pour détecter des balises péptidiques à travers une chélation \t[br/][tab]2.4 Etudes de biomolécules n'étant pas génétiquement encodées (glycanes, lipides, métabolites)\t[br/][tab]- prérequis pour les réactions bioorthogonales[br/][tab]- méthodes de condensation des nucléophiles aminés avec des cétones et des aldéhydes[br/][tab]- ligature de Staudinger de triarylphosphines et azotures[br/][tab]- cycloaddition [3+2] d'alkynes et azotures[br/][tab]- ligature bioorthogonale avec alcènes[br/][tab]2.5 Incorporation d'un groupe bioorthogonal dans diverses biomolécules [br/][tab]- protéines: marquage via modification spécifique résiduelle, modifications sites spécifiques (méthode génétique), combination de la stratégie du témoin chimique bioorthogonal et du profilage de protéines basé sur leur activité.[br/][tab]2.6 Marquage et imagerie de glycanes[br/][tab]2.7 Marquage et imagerie de lipides  [br/][tab]2.8 Marquage et imagerie d'acides nucléides[br/][tab]2.9 Marquage et détection d'autres petits métabolites[br/]3. Principes de base de la conception de marqueurs. [br/][tab]- solubilité, pharmaco cinétique, luminosité, photo-stabilité[br/]4. Imagerie optique in vitro et in vivo et ses applications pour étudier les signatures moléculaires de tissus ciblés. Imagerie bioluminescente et fluorescente.[br/]5. Applications d'imagerie PET et MIR comme nouvel outil pour visualiser des procédés biologiques de signification médicale.[br/]6. Autres modalités d'imagerie et leurs applications en médecine et biologie - optoacoustique, ultrason, DNP.[br/]7. Etude de cas: applications réussies d'approches biochimiques dans le domaine de thérapies oligonucléotides, vaccins synthétiques, ADN encodé, conjugués anticorps-médicaments, protéomiques, cellules souches et médecine régénérative.[br/] ",
+      "Objectifs d'apprentissage":"Le but du cours est de fournir aux étudiants des connaissances relatives aux outils chimiques (principalement des petites molécules) qui sont utilisés pour résoudre d'importants problèmes en biologie et médecine."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemistry of small biological molecules",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

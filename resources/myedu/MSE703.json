@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127780391&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","703"],
+    "title":"Science and technology of UV-induced polymerization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127780391&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196836",
+      "name":"Gonzalez Lazo Marina Aymara"
+    },{
+      "url":"http://people.epfl.ch/105657",
+      "name":"Leterrier Yves"
+    },{
+      "url":"http://people.epfl.ch/150908",
+      "name":"Nouzille Eric"
+    },{
+      "url":"http://people.epfl.ch/202273",
+      "name":"Sangermano Marco"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Learn about the basics of UV-induced polymerization, key methods, applications and scientific and technological advances in the field[br/]",
+      "Content":"1. Introduction to radiation processing [br/]2. Fundamentals of free-radical systems[br/]3. Components of photocurable formulations: photoinitiators, monomers, additives[br/]4. Analytical methods: state of the art and new developments[br/]5. Structure-property relations in UV curable polymers[br/]6. Advances in UV-induced polymerization research[br/]7. Application to UV inks and coatings, nanostructures and devices[br/][br/]",
+      "Note":"Program relevant for students in materials science, chemistry and micro-engineering[br/]\t(part of the course on 'selected topics in polymer science')[br/]",
+      "Required prior knowledge":"Polymer science, organic chemistry[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Science and technology of UV-induced polymerization",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196836",
+      "name":"Gonzalez Lazo Marina Aymara"
+    },{
+      "url":"http://people.epfl.ch/105657",
+      "name":"Leterrier Yves"
+    },{
+      "url":"http://people.epfl.ch/150908",
+      "name":"Nouzille Eric"
+    },{
+      "url":"http://people.epfl.ch/202273",
+      "name":"Sangermano Marco"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Program relevant for students in materials science, chemistry and micro-engineering[br/]\t(part of the course on 'selected topics in polymer science')[br/]",
+      "Contenu":"1. Introduction to radiation processing [br/]\t2. Fundamentals of free-radical systems[br/]\t3. Components of photocurable formulations: photoinitiators, monomers, additives[br/]\t4. Analytical methods: state of the art and new developments[br/]\t5. Structure-property relations in UV curable polymers[br/]\t6. Advances in UV-induced polymerization research[br/]        7. Application to UV inks and coatings, nanostructures and devices[br/][br/]",
+      "Prérequis":"Polymer science, organic chemistry[br/]",
+      "Objectifs d'apprentissage":"Learn about the basics of UV-induced polymerization, key methods, applications and scientific and technological advances in the field"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Science and technology of UV-induced polymerization",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

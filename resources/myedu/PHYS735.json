@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1575037030&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","735"],
+    "title":"Dynamic nuclear polarization and hyperpolarization techniques",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1575037030&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://gr-co.epfl.ch/page-62959-en.html","http://gr-co.epfl.ch/page-62959-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100892",
+      "name":"Comment Arnaud"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course is intended for students who are working or wish to work in NMR, ESR or MRI. [br/]The main objectives are the following:[br/]b) To introduce and define the sensitivity issues in magnetic resonance and the potential ways to tackle them.[br/]a) To give graduate students the conceptual tools to understand the principles of dynamic nuclear polarization and hyperpolarization techniques.[br/]c) To give an overview of the applications of dynamic nuclear polarization and hyperpolarization techniques in NMR and MRI.[br/]",
+      "Content":"1. Review of important concepts in quantum mechanics (spin, density matrix,...)[br/]2. Review of important concepts in thermodynamics (temperature, entropy,...)[br/]3. Magnetic resonance: basic concepts in NMR and ESR[br/]4. Spin interactions: dipolar, J- and hyperfine couplings[br/]5. Spin relaxation: electron spin and nuclear spin relaxation mechanisms[br/]6. Spin temperature: a thermodynamical description of spin systems[br/]7. Sensitivity issues in magnetic resonance[br/]8. Polarization transfer methods[br/]9. Overhauser effect: DNP in liquid state[br/]10. Solid effect and spin diffusion[br/]11. Thermal mixing: thermodynamic model of DNP[br/]12. Solid-state DNP techniques: concepts and hardware[br/]13. Hyperpolarization methods: brute force, optical pumping, PHIP, dissolution DNP[br/]14. Biomedical applications[br/]",
+      "Keywords":"Dynamic nuclear polarization (DNP), Hyperpolarization, Nuclear Magnetic Resonance (NMR)",
+      "Required prior knowledge":"Quantum mechanics, thermodynamics, electrodynamics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamic nuclear polarization and hyperpolarization techniques",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://gr-co.epfl.ch/page-62959-en.html","http://gr-co.epfl.ch/page-62959-en.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100892",
+      "name":"Comment Arnaud"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamic nuclear polarization and hyperpolarization techniques",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

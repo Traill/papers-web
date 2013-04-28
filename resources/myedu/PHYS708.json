@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322490&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","708"],
+    "title":"High energy and space astrophysics (UNIGe)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322490&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162298",
+      "name":"Neronov Andrii"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Acquisition of basic knowledge on emission processes relevant to high energy emission of cosmic objects.[br/]Acquisition of a broad knowledge of all types of high energy objects.[br/]General knowledge of a number physical processes relevant in high energy astrophysics.[br/]Acquisition  of some background in the world space projects active in high energy observations of the cosmos and of the tech-nologies implied.",
+      "Content":"Processes generating photons (synchrotron radiation, Compton effect)[br/]Sources of high energy radiations: neutron stars, black holes, quasars[br/]Observation results both from ground based and space observations[br/]Space mission overview[br/]ESA scientific program[br/][br/]",
+      "Form of examination":"Written and oral exam.",
+      "Required prior knowledge":"Master, option astrophysics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"High energy and space astrophysics (UNIGe)",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162298",
+      "name":"Neronov Andrii"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Processes generating photons (synchrotron radiation, Compton effect)[br/]Sources of high energy radiations: neutron stars, black holes, quasars[br/]Observation results both from ground based and space observations[br/]Space mission overview[br/]ESA scientific program[br/][br/]Lecturer : Prof. Thierry Courvoisier, Observatoire de Genève",
+      "Prérequis":"Master, option astrophysics",
+      "Objectifs d'apprentissage":"Acquisition of basic knowledge on emission processes relevant to high energy emission of cosmic objects.[br/]Acquisition of a broad knowledge of all types of high energy objects.[br/]General knowledge of a number physical processes relevant in high energy astrophysics.[br/]Acquisition  of some background in the world space projects active in high energy observations of the cosmos and of the tech-nologies implied."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"High energy and space astrophysics (UNIGe)",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  }
+}

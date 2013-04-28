@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=380775672&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","744"],
+    "title":"Two-phase flows and transitions",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=380775672&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108776",
+      "name":"Thome John Richard"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Two-phase media such as liquid-vapor, play a key role in cooling/heating devices, in cavitation problems. Starting with a brief summary of the continuity equations governing homogeneous continuous media, this course will first extend these equations to heterogeneous media exhibiting moving interfaces. The formalism will be applied to typical problems of mechanical (heat and fluid flow regimes, instabilities) engineering.",
+      "Content":"Brief overview of the conservation and constitutive equations used in the modelling of phase transformations (mass, momentum, heat, solute), including thermodynamic conditions. Mass, momentum, heat and solute balance at a moving interface. Average conservation equations. Boundary conditions and interfacial exchange rules.[br/][br/]Application of mass, momentum and energy equations to specific two-phase flow regimes and two-phase phenomena. Flow regime transitions and instabilities in two-phase flows. Falling films (gravitational and surface tension driven flows). Special topics.[br/][br/]",
+      "Note":"Prof. Thome is asking that all those planning on attending contact him to get a free paper copy of Chapters 1-4 of the book Convective Boiling and Condensation (Collier and Thome, 1994), prior to the first class and read Chapters 1&2 before the first lesson. Additional material for the course will be passed out at the lectures.",
+      "Required prior knowledge":"Continuum mechanics, Fluid dynamics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Two-phase flows and transitions",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108776",
+      "name":"Thome John Richard"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Prof. Thome is asking that all those planning on attending contact him to get a free paper copy of Chapters 1-4 of the book Convective Boiling and Condensation (Collier and Thome, 1994), prior to the first class and read Chapters 1&2 before the first lesson. Additional material for the course will be passed out at the lectures.",
+      "Contenu":"Brief overview of the conservation and constitutive equations used in the modelling of phase transformations (mass, momentum, heat, solute), including thermodynamic conditions. Mass, momentum, heat and solute balance at a moving interface. Average conservation equations. Boundary conditions and interfacial exchange rules.[br/][br/]Application of mass, momentum and energy equations to specific two-phase flow regimes and two-phase phenomena. Flow regime transitions and instabilities in two-phase flows. Falling films (gravitational and surface tension driven flows). Special topics.[br/][br/]",
+      "Prérequis":"Continuum mechanics, Fluid dynamics",
+      "Objectifs d'apprentissage":"Two-phase media such as liquid-vapor, play a key role in cooling/heating devices, in cavitation problems. Starting with a brief summary of the continuity equations governing homogeneous continuous media, this course will first extend these equations to heterogeneous media exhibiting moving interfaces. The formalism will be applied to typical problems of mechanical (heat and fluid flow regimes, instabilities) engineering."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Two-phase flows and transitions",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

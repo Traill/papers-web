@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24139629&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","533"],
+    "title":"Reliability of MEMS",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24139629&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student will gain a fundamental understanding of the principal mechanical and electrical failure modes of a variety of microsystems. He will learn how to accelerate those failures, and hence predict and improve the lifetime of microsystems. The student will adopt a design-for-reliability approach by concurrently developing design, fabrication, and packaging strategies to maximize the reliability of a microsystem. ",
+      "Content":"[br/][li][b]Introduction:[/b] Overview of the different types of microsystems, and the various constraints they operate under. Examples will be given of commercial MEMS and how reliability can be a barrier to commercialization.[br/][li][b]Reliability Statistics and Modeling:[/b] Accelerated testing, bathtub curve, standard statistical models and applicability to microsystems.[br/][li][b]Tools and Techniques: [/b]Measurement and characterization techniques needed to measure microsystems for accelerated testing. [br/][li][b]Tools for accelerated testing.[/b][br/][li][b]Electrical Reliability:[/b] Open and short circuits, dielectric charging and breakdown, corrosion, ESD, electromigration. Reliability in the microelectronics field will presented and contrasted with reliability in microsystems. Techniques to improve lifetime [br/][li][b]Mechanical Reliability: [/b]Stiction, friction, wear, fatigue, crack growth, creep, effect of shock and vibration, delamination. Discussion of how to accelerate and therefore how to eliminate failure modes by improved design, packaging, materials choice, actuation technique.[br/][li][b]Design for Reliability Paradigm:[/b] Design rules and multidisciplinary approach to building reliability into the microsystem from the beginning.[br/]",
+      "Form of examination":"Oral examination and project"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Reliability of MEMS",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-088574-9&amp;con_lng=ENG\" target=\"blank\">Reliability and failure of electronic materials and devices / Milton Ohring</a>\". Year:2008. ISBN:978-0-12-088574-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[br/][li][b]Introduction:[/b] Vue d'ensemble des différents microsystèmes et de leurs contraintes du point de vue de la fiabilité.  [br/][li][b]Statistiques de fiabilité et modèles:[/b] Tests accélérés, modèles statistiques pour la fiabilité et applicabilité  de ces modèles pour les  microsystèmes.[br/][li][b]Outils et Techniques:[/b] Techniques de mesure et de caractérisation requises pour les microsystèmes dans le cadre d'études de fiabilité. Outils pour tests accélérés.[br/][li][b]Fiabilité électrique:[/b] Courts-circuits, chargement et claquage des diélectriques, corrosion, ESD, électromigration. La fiabilité en microélectronique sera présentée et contrastée à la fiabilité en microsystèmes. Techniques pour augmenter la durée de vie.[br/][li][b]Fiabilité mécanique:[/b] Stiction, frottement, fatigue, déformation plastique, effet de chocs et de vibrations. Techniques pour accélérer et éliminer des modes de défaillance par meilleure conception, choix de matériaux, et packaging.[br/][li][b]Conception pour la fiabilité:[/b] Règles de conception et approche multidisciplinaire pour assurer la fiabilité du microsystème. [br/]",
+      "Forme du contrôle":"Examen oral et projet",
+      "Bibliographie et matériel":"\"Reliability and Failure of Electronic Materials and Devices\", by Milton Ohring[br/]\"MEMS Reliability\" by A. Hartzell, M. da Silva and H. Shea (ebook - gratuit sur réseau EPFL): http://www.springer.com/engineering/electronics/book/978-1-4419-6017-7",
+      "Objectifs d'apprentissage":"L'étudiant développera une solide compréhension des principaux modes de défaillance mécaniques et électriques des microsystèmes. Il apprendra comment accélérer ces défaillances afin de prédire (et d'améliorer) la durée de vie des microsystèmes. L'étudiant adoptera une approche de \"conception pour la fiabilité\" pour les microsystèmes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Reliability of MEMS",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-088574-9&amp;con_lng=FRE\" target=\"blank\">Reliability and failure of electronic materials and devices / Milton Ohring</a>\". Année:2008. ISBN:978-0-12-088574-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

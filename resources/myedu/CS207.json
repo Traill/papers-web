@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71645784&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","207"],
+    "title":"System oriented programming",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71645784&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6731","http://moodle.epfl.ch/course/view.php?id=6731"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"3 home exercice (23%), 1 graded practical session (31%) and 1 final paper exam, open-book (46%).",
+      "Bibliography and material":"Notes de cours ; livre(s) de référence indiqué(s) en début de semestre",
+      "Prerequisite for":"Introduction to database systems (CS-322) ; Concurency (CS-206) ; Operating systems (CS-323) ; Software engineering (CS-305)",
+      "Required prior knowledge":"Programmation basics (1st year courses) : CS-100, CS-106[br/]",
+      "Content":"Basics of UNIX environment [reminder][br/][br/]Introduction to C, then shell and then Perl languages: variables, expressions, structures, control, functions, basic IO, regular expressions, ...[br/][br/]Basics of system-oriented programming: memory (pointers), file handling, misc. IO.[br/][br/]Theoretical concepts presented during plenary lectures will be studied further on UNIX workstations during practical sessions.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, practical work on computer",
+      "Learning outcomes":"This course focuses on the basis of system-oriented programming, using C, UNIX Shell and Perl languages. It aims at introducing the basics of using and programming on a UNIX workstation.[br/][br/]At the end of this course, students should be able to:[br/][li]\twrite advanced C programs, with command-line arguments, pointers and structures, memory and file handling; [br/][li]\twrite Perl and shell scripts (tcsh);[br/][li]\tuse the basic tools of a UNIX system, both at the user and programmer level.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"System oriented programming",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6731","http://moodle.epfl.ch/course/view.php?id=6731"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction à la programmation objet (CS-100) + Théorie et pratique de la programmation (CS-106)",
+      "Bibliographie et matériel":"Notes de cours ",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"Rappel des éléments de base du fonctionnement d'un système informatique et de l'environnement UNIX.[br/][br/]Initiation à la programmation en C, puis en Shell puis en Perl : variables, expressions, structures de contrôle, fonctions, entrées-sorties, expressions régulières, ...[br/][br/]Approfondissement des spécificités de la programmation système rudimentaire : utilisation de la mémoire (pointeurs), gestion des fichiers et autres entrées/sorties.[br/][br/]Les concepts théoriques introduits lors des cours magistraux seront mis en pratique dans le cadre d'exercices sur machine.[br/]",
+      "Forme du contrôle":"3 exercices à rendre (23 %), 1 série pratique notée (31%) et examen final papier (46%)",
+      "Préparation pour":"Introduction au bases de données (CS-322) ; Concurrence (CS-206) ; Systèmes d'exploitation (CS-323) ; Genie logiciel (CS-305)",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de développer une compétence de base en programmation orientée système (langages UNIX Shell, C et Perl) et de familiariser les étudiants avec l'utilisation d'une station de travail sous UNIX.[br/] À l'issue de ce cours, les étudiants devraient être à même :[br/][li]\td'écrire des programmes avancés en C qui utilisent les arguments de ligne de commande, des pointeurs et des structures,  manipulent la mémoire et les fichiers, ...;[br/][li]\td'écrire des scripts systèmes simples en Shell (tcsh) et en Perl ;[br/][li]\td'utiliser les outils systèmes UNIX élémentaires, aussi bien au niveau utilisateur que programmeur.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Programmation orientée système",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

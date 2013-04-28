@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132446543&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","599"],
+    "title":"Master project in Architecture",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132446543&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/106253",
+      "name":"Roduit Lydia"
+    }],
+    "lab":null,
+    "credits":30,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Master project in Architecture",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "total_hours":800
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/106253",
+      "name":"Roduit Lydia"
+    }],
+    "lab":null,
+    "credits":30,
+    "semester":"Automne",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de master en architecture",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "total_hours":800
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

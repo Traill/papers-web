@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30691174&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","634"],
+    "title":"Practical - Simanis Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30691174&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://simanis-lab.epfl.ch/","http://simanis-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174228",
+      "name":"Simanis Viesturs"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[b]Yeast genetics[/b][br/][br/]Introduction to yeast genetics and cell biology",
+      "Content":"We will introduce you to the basic techniques used when emplying the yeast model system to answer a biological question. You will set up and interpret genetic crosses, generate synchronous populations of cells and examine various parameters thereof. You will also examine the behaviour of components of the cytoskeleton during the cell cycle. In addition there will be a brief introductory lecture and you will be asked to read and present a paper which uses the techniques that you will learn. You will be assessed based on your performance at the bench during the course and your comprehension and presentation of the assigned paper.",
+      "Keywords":"yeast, genetics, microscopy",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Simanis laboratory cannot take this course. Access is limited to 2 students.",
+      "Required prior knowledge":"Reading of reviews (titles to be communicated later) and knowledge of basic molecular biology."
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Practical - Simanis Lab",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://simanis-lab.epfl.ch/","http://simanis-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174228",
+      "name":"Simanis Viesturs"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Simanis laboratory cannot take this course. Access is limited to 3 students.",
+      "Contenu":"We will introduce you to the basic techniques used when emplying the yeast model system to answer a biological question. You will set up and interpret genetic crosses, generate synchronous populations of cells and examine various parameters thereof. You will also examine the behaviour of components of the cytoskeleton during the cell cycle. In addition there will be a brief introductory lecture and you will be asked to read and present a paper which uses the techniques that you will learn. You will be assessed based on your performance at the bench during the course and your comprehension and presentation of the assigned paper.",
+      "Mots clés":"yeast, genetics, microscopy",
+      "Prérequis":"Reading of reviews (titles to be communicated later) and knowledge of basic molecular biology.",
+      "Objectifs d'apprentissage":"[b]Yeast genetics[/b][br/][br/]Introduction to yeast genetics and cell biology"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Practical - Simanis Lab",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

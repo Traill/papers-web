@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229971660&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","438"],
+    "title":"Risk analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229971660&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105355",
+      "name":"Haldi Pierre-André"
+    },{
+      "url":"http://people.epfl.ch/106690",
+      "name":"Vulliet Laurent"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To give the students the necessary knowledge about the analysis and assessment of the safety and reliability of civil engineering systems, from a probabilistic standpoint and with due consideration of the random character of the available data and of the dimensioning uncertainties. At the end of the course, the students should be able to correctly tackle the questions of safety and reliability of civil engineering systems using the appropriate methodological tools.[br/][br/]",
+      "Content":"1\t[b]Introduction[/b][br/]\tBrief history of the development of the safety and reliability assessment methods. Terminology and definitions.[br/][br/]2\t[b]Review of the required mathematical bases[/b][br/]\tBoolean algebra. Probability and statistics. Random variables.[br/][br/]3\t[b]Methodology of the probabilistic design of civil engineering[/b][br/] Analytical methods and Monte Carlo method. Application to civil engineering components: foundings, structures, hydraulics, etc.[br/][br/]4\t[b]Bases of systems reliability[/b][br/]\tComponents in series, in parallel, in readiness. Repairable systems, periodic maintenance. The human factor. Data sources.[br/][br/]5\t[b]Safety and reliability analysis methods[/b][br/]\tQualitative methods and quantitative methods.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Risk analysis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105355",
+      "name":"Haldi Pierre-André"
+    },{
+      "url":"http://people.epfl.ch/106690",
+      "name":"Vulliet Laurent"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Sécurité et fiabilité",
+      "Bibliographie et matériel":"polycopiés + références bibliographiques",
+      "Forme d'enseignement":"Ex cathedra avec études de cas",
+      "Contenu":"1\t[b]Introduction[/b][br/]\tBref historique du développement des méthodes d'analyse de sécurité et fiabilité. Terminologie et définitions.[br/][br/]2\t[b]Rappel de mathématiques de la sûreté de fonct.[/b][br/]\tAlgèbre des événements. Probabilités et statistiques. Variables aléatoires.[br/][br/]3\t[b]Méthodologie de la conception probabiliste des composants d'ouvrage[/b][br/]\tSources d'incertitude en génie civil. Méthodes analytiques et méthode de Monte Carlo. Application à des éléments de génie civil : fondations, structures, hydrauliques, etc.[br/][br/]4\t[b]Éléments de fiabilité des systèmes[/b][br/]\tÉléments en série, en parallèle, en réserve. Systèmes réparables, entretien périodique. Facteur humain. Sources de données.[br/][br/]5\t[b]Méthodes d'analyse de sécurité et fiabilité[/b][br/]\tMéthodes qualitatives et méthodes quantitatives.",
+      "Préparation pour":"Gestion des risques",
+      "Objectifs d'apprentissage":"Donner aux étudiants les connaissances indispensables concernant l'analyse et l'évaluation de la sécurité et de la fiabilité des systèmes civils, dans une optique probabiliste et en tenant compte du caractère aléatoire des données à disposition et des incertitudes de dimensionnement. A la fin du cours, les étudiants doivent être capable d'aborder les questions de sécurité et fiabilité des systèmes civils de manière correcte et en utilisant les outils méthodologiques appropriés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse de risques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

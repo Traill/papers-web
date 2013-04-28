@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72497223&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","501"],
+    "title":"Material Flow Analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72497223&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"At the end of the lecture, the student will:[br/]-\tUnderstand the usefulness of material flow analysis as a quantitative tool of sustainable resource management [br/]-\tApply material flow analysis at the scale of an enterprise/ region in static and linear cases[br/]-\tUnderstand the developments of national physical accounting[br/] [br/]",
+      "Content":"-\tPresentation of different material flow analysis case studies (waste management, resource management etc)[br/]-\tComparison of material flow analysis with other sustainability assessment tools (life cycle analysis, impact assessment)[br/]-\tMethodology of material flow analysis at the enterprise and regional scale in static and linear cases - [i]main part of the course[/i][br/]-\tApplication to national physical accounting[br/]-\tIntegration of the different notions through exercices [br/][br/]",
+      "Type of teaching":"Lecture and exercices, with one noted compulsory exercice[br/]The slides will be distributed before each lecture[br/]",
+      "Form of examination":"100 % continuous control during the semester[br/]40 % exercises[br/]60 % final written exam at the end of the semester",
+      "Bibliography and material":"See Moodle"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Material Flow Analysis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours et exercices, dont un grand exercice obligatoire noté.[br/]Les transparents de cours seront distribués au début de chaque cours",
+      "Contenu":"-\tPrésentation des différentes applications des analyses de flux de matières [br/]-\tComparaison des analyses de flux de matières avec d'autres outils de gestion durable des ressources (analyses de cycle de vie, études d'impacts)[br/]-\tMéthodologie des analyses de flux de matières à l'échelle d'une entreprise ou d'une région dans des cas linéaires et statiques - [i]partie essentielle du cours[/i][br/]-\tÉlargissement à la comptabilité physique nationale[br/]-\tIntégration des différentes notions au travers d'exercices ",
+      "Forme du contrôle":"100 % contrôle continu durant le semestre.[br/]40 % exercices[br/]60 % épreuve écrite en fin de semestre",
+      "Bibliographie et matériel":"Voir Moodle",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant sera capable de :[br/]-\tComprendre et d'estimer l'utilité des analyses de flux de matières comme outil quantitatif de gestion durable des ressources[br/]-\tUtiliser les analyses de flux de matières à l'échelle d'une entreprise ou d'une région dans des cas linéaires et statiques[br/]-\tComprendre et d'interpréter les développements de la comptabilité physique au niveau national"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse des flux de matière",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=903779034&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","436"],
+    "title":"Food biotechnology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=903779034&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218473",
+      "name":"Hansen Carl Erik"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li] Basic principles of[br/]- Food fermentation[br/]- Food enzyme technology[br/][br/][li] Understand how this technology is applied to generate specific benefits in selected food systems ",
+      "Content":"[li] History of fermentation[br/][li] Different types of food fermentation[br/][li] Practical examples[br/][li] Probiotic technology[br/][li] Enzyme technology (general)[br/][li] Protease[br/][li] Lipases[br/][li] Carbohydrases[br/][li] Food bioprocessing (laboratory visit)",
+      "Type of teaching":"Lecture, short exercises, group or individual presentation on specific topic. The presentation will count 20% of the written exam. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Food biotechnology",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30895-4&amp;con_lng=ENG\" target=\"blank\">Pocket guide to biotechnology and genetic engineering / Rolf D. Schmid</a>\". Year:2003. ISBN:3-527-30895-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218473",
+      "name":"Hansen Carl Erik"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices courts, présentation individuelle ou en groupe sur un sujet spécifique. La présentation vaut 20% de la note finale.",
+      "Contenu":"[li] Histoire de la fermentation[br/][li] Différents types de fermentation alimentaire[br/][li] Exemples pratiques[br/][li] Technologie probiotique[br/][li] Technologie enzymatique (générale)[br/][li] Protéases[br/][li] Lipases[br/][li] Carbohydrases[br/][li] Bioprocédés alimentaires (visite de laboratoire)",
+      "Prérequis":"Biochimie de base, \"Chimie des denrées alimentaires\"",
+      "Bibliographie et matériel":"Handouts[br/]\"Pocket Guide to Biotechnology and Genetic Engineering\", Rolf Schmid. Wiley-VCH Verlag GmbH & KGaA, Weinheim, Germany, 2003[br/]",
+      "Objectifs d'apprentissage":"[li] Principes de base en[br/]- fermentation alimentaire[br/]- technologie enzymatique des aliments[br/][br/][li] Comprendre comment cette technologie est appliquée afin de générer des bénéfices dans une sélection de systèmes alimentaires"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Food biotechnology",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30895-4&amp;con_lng=FRE\" target=\"blank\">Pocket guide to biotechnology and genetic engineering / Rolf D. Schmid</a>\". Année:2003. ISBN:3-527-30895-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

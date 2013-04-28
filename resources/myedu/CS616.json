@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=238861829&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","616"],
+    "title":"Advanced Topics in Distributed Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=238861829&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171553",
+      "name":"Kostic Dejan"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The Internet has changed the way people perceive computers, communicate and do business. A key component of many successful Internet applications is a scalable, high-performance, and highly-available distributed system.  For example, large clusters of computers provide services for popular Web sites. Moreover, As the planetary-scale services and the cloud computing paradigm grow in importance, it becomes necessary to understand the networked systems underpinnings that will enable the future applications. This is a distributed systems course with an experimental systems viewpoint: the course will discuss the architecture and teach the understanding of the performance of real systems. The syllabus for this research-oriented course is driven by published papers, both classic and current. After completing the course, the students should be able to engage in doctoral-level research in this field. Paper evaluations that demand critical reasoning will be a part of the grade. Students will also be expected to present up to two research papers and they will be graded on the quality of the presentation. There will be a midterm and a final group project report, with a goal of publishing the best projects in top conferences (with additional work).[br/]",
+      "Content":"The content will vary to reflect the current research trends. Sample topics include:[br/]cluster computing[br/]distributed storage[br/]power-proportional distributed systems[br/]reliable distributed systems[br/]planetary-scale systems[br/]wide-area replication[br/]",
+      "Keywords":"Distributed systems, Computer Networks, Scalability, reliability, High-performance[br/]",
+      "Note":"URL: http://nsl.epfl.ch/teaching/atods[br/]",
+      "Required prior knowledge":"The course requires good knowledge of networking concepts and protocols, operating systems (UNIX environment), and programming . [br/]"
+    },
+    "practical":{
+      "total_hours":56
+    },
+    "language":"English",
+    "title":"Advanced Topics in Distributed Systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171553",
+      "name":"Kostic Dejan"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":null,
+    "free_text":{
+      "Remarque":"URL: http://nsl.epfl.ch/teaching/atods",
+      "Contenu":"The content will vary to reflect the current research trends. Sample topics include:[br/]cluster computing[br/]distributed storage[br/]power-proportional distributed systems[br/]reliable distributed systems[br/]planetary-scale systems[br/]wide-area replication",
+      "Mots clés":"Distributed systems, Computer Networks, Scalability, reliability, High-performance",
+      "Prérequis":"The course requires good knowledge of networking concepts and protocols, operating systems (UNIX environment), and programming . [br/]",
+      "Objectifs d'apprentissage":"The Internet has changed the way people perceive computers, communicate and do business. A key component of many successful Internet applications is a scalable, high-performance, and highly-available distributed system.  For example, large clusters of computers provide services for popular Web sites. Moreover, As the planetary-scale services and the cloud computing paradigm grow in importance, it becomes necessary to understand the networked systems underpinnings that will enable the future applications. This is a distributed systems course with an experimental systems viewpoint: the course will discuss the architecture and teach the understanding of the performance of real systems. The syllabus for this research-oriented course is driven by published papers, both classic and current. After completing the course, the students should be able to engage in doctoral-level research in this field. Paper evaluations that demand critical reasoning will be a part of the grade. Students will also be expected to present up to two research papers and they will be graded on the quality of the presentation. There will be a midterm and a final group project report, with a goal of publishing the best projects in top conferences (with additional work).[br/]"
+    },
+    "practical":{
+      "total_hours":56
+    },
+    "language":"English",
+    "title":"Advanced Topics in Distributed Systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

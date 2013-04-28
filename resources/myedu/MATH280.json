@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2228866&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","280"],
+    "title":"Practice in mathematics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2228866&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189915",
+      "name":"Abdulle Assyr"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Initiate the students to the writing of scientific documents (articles,[br/]reports...) and in oral poster presentation of scientific communications. Familiarise students with the computer resources of the SMA and with mathematical software used in the Chairs of the SMA.",
+      "Content":"- Introduction to LaTex[br/]- Structure of a scientific report[br/]- Redaction of a scientific report using LaTex[br/]- Oral (or with poster) presentation of scientific communications[br/]- Mini-project in the different Chairs of the SMA",
+      "Type of teaching":"Ex cathedra lecture, practical exercises in computer classroom in groups of 3 students",
+      "Form of examination":"On the scientific report and the presentations",
+      "Required prior knowledge":"Semester's works"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Practice in mathematics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189915",
+      "name":"Abdulle Assyr"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Travail de semestre",
+      "Bibliographie et matériel":"1. Introduction à LATEX par Marc Baudoin http://tex.loria.fr/general/apprends-latex.pdf[br/]2. The not so short introduction to LATEX par T. Oetiker et al. http://tobi.oetiker.ch/1short/1short.pdf[br/]3. User's Guide to the Beamer Class, par Till Tantau, http://latex-beamer.sourceforge.net[br/]4. Comment écrire les mathématiques http://lapcs.univ-lyon1.fr/~piau/howto.html",
+      "Forme d'enseignement":"Cours ex cathedra, exercices pratiques en salle d'ordinateurs en groupe de 3 étudiants",
+      "Contenu":"- Introduction à LaTeX[br/]- Structure d'un rapport scientifique[br/]- Rédaction d'un rapport scientifique avec LaTeX[br/]- Présentation orale (ou à l'aide de poster) de communications scientifiques[br/]- Mini-projets dans les différents chaires de la SMA",
+      "Forme du contrôle":"Sur le rapport rendu et les présentations scientifiques",
+      "Objectifs d'apprentissage":"L'objectif est d'initier les étudiants à la rédaction de rapports scientifiques (articles, rapports, ...) et à la présentation orale de communications scientifiques. Les étudiants auront l'occasion d'effectuer des mini-projets dans différentes chaires de la SMA et, suivant le projet choisi, de s'initier aux logiciels spécifiques utilisés par ces chaires."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"TP de Mathématiques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400833426&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","614"],
+    "title":"Electrochemical nano-bio-sensing and bio/CMOS interfaces",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400833426&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182237",
+      "name":"Carrara Sandro"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] To understand molecular detection principles in specific cases[br/][li] To apply molecular thin films techniques to form bio-sensing layers[br/][li] To apply nanotechnology for improving sensing layers performance[br/][li] To design CMOS circuits for electrochemical detection of bio-molecules in specific cases[br/]",
+      "Content":"This course is focused on two relevant aspects of the Electrochemical Nano-Bio-technology for CMOS sensing in life science: the Nano/Bio and the Bio/CMOS interfaces. In particular, improvement due to nano-structures in bioactive interfaces and special architectures for CMOS-based detection of bio-functionality will be demonstrated. Initially, an introduction to bio-molecules will be provided. Protein-protein interactions and oligo-oligo interactions will be introduced with the aim to show possible sensing mechanisms. Different techniques to immobilize proteins or oligos into nano-structured molecular films will be presented. The Physics and quantum phenomena in the obtained nano-bio interfaces will be deeply discussed with special focus on the improvements in terms of specificity and sensitivity. Analog CMOS building blocks will be proposed and explained. Examples of different CMOS architectures integrated with nano- and bio-structures for sensing purposes will be presented and deeply discussed. Finally, the problem of energy scavenging and remote powering in case of implantable Nano-Bio-CMOS interfaces will be briefly introduced and discussed",
+      "Keywords":"Nano-Bio-Technology; Carbon Nanotubes; Metallic Nanoparticles; Op Amp; Analog Design; Electrochemical Sensing; CMOS",
+      "Form of examination":"by home-works",
+      "Required prior knowledge":"Classical mechanics; Geometrical optics; Electro-magnetism; ohm law on steady current and some theorems on alternate current; Laplace transforms"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electrochemical nano-bio-sensing and bio/CMOS interfaces",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182237",
+      "name":"Carrara Sandro"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"This course is focused on two relevant aspects of the Electrochemical Nano-Bio-technology for CMOS sensing in life science: the Nano/Bio and the Bio/CMOS interfaces. In particular, improvement due to nano-structures in bioactive interfaces and special architectures for CMOS-based detection of bio-functionality will be demonstrated. Initially, an introduction to bio-molecules will be provided. Protein-protein interactions and oligo-oligo interactions will be introduced with the aim to show possible sensing mechanisms. Different techniques to immobilize proteins or oligos into nano-structured molecular films will be presented. The Physics and quantum phenomena in the obtained nano-bio interfaces will be deeply discussed with special focus on the improvements in terms of specificity and sensitivity. Analog CMOS building blocks will be proposed and explained. Examples of different CMOS architectures integrated with nano- and bio-structures for sensing purposes will be presented and deeply discussed. Finally, the problem of energy scavenging and remote powering in case of implantable Nano-Bio-CMOS interfaces will be briefly introduced and discussed",
+      "Mots clés":"Nano-Bio-Technology; Carbon Nanotubes; Metallic Nanoparticles; Op Amp; Analog Design; Electrochemical Sensing; CMOS",
+      "Prérequis":"Classical mechanics; Geometrical optics; Electro-magnetism; ohm law on steady current and some theorems on alternate current; Laplace transforms",
+      "Forme du contrôle":"by home-works",
+      "Objectifs d'apprentissage":"[li] To understand molecular detection principles in specific cases[br/][li] To apply molecular thin films techniques to form bio-sensing layers[br/][li] To apply nanotechnology for improving sensing layers performance[br/][li] To design CMOS circuits for electrochemical detection of bio-molecules in specific cases"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Electrochemical nano-bio-sensing and bio/CMOS interfaces",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775867&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","402"],
+    "title":"Mechanical engineering project II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775867&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":10,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Domain skills depending on the project topic[br/][b]Transversal skills:[/b][br/][li]Self-assessment of acquired skills, T2[br/][li]Do a literature review and assess the state of the art, T4[br/][li]Summarize an article or a technical report, T5[br/][li]Write a scientific or technical report, T6[br/][li]Organize activities prioritizing the objectives, T10[br/][li]Use methods and tools for project planning and control, T11[br/][li]Document and communicate a project, T12[br/][li]Respect the rules of the institution in which he/she is active, T17[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20[br/][li]Work ethically respecting safety and the environment, T21",
+      "Content":"During this project the students will employ the acquired skills to solve a practical problem. The themes of these projects are chosen amongst the research and development activities of one of the laboratories affiliated to the Mechanical Engineering Section. The lists of projects are available on the Web site of each of the laboratories of the Section of Mechanical Engineering.",
+      "Keywords":"Application, Communication.",
+      "Form of examination":"Written report",
+      "Type of teaching":"Project-based teaching"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mechanical engineering project II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":10,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Travail personnel guidé, en laboratoire et salle de projets",
+      "Contenu":"Au cours de ce projet, l'étudiant exploitera les compétences acquises pour traiter un problème pratique. Les thèmes de ces projets sont choisis parmi les activités de recherche et de développement de l'un des laboratoires partenaires de la Section de Génie mécanique. Les listes des projets peuvent être consultées sur le site de chacun des laboratoires de la Section de Génie mécanique.",
+      "Mots clés":"Application, Communication.",
+      "Forme du contrôle":"Rapport écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Compétences spécifiques aux domaines du projet[br/][b]Compétences transversales:[/b][br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Réaliser une recherche bibliographique et une revue de l'état de l'art, T4[br/][li]Faire un résumé d'un article ou d'un document technique, T5[br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Organiser ses activités en priorisant ses objectifs, T10[br/][li]Utiliser des méthodes et des outils de planification et de contrôle de projet, T11[br/][li]Documenter et communiquer un projet, T12[br/][li]Agir en respectant les principes de l'organisation dans laquelle on intervient, T17[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20[br/][li]Travailler éthiquement dans le respect de la sécurité et de l'environnement, T21"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet Génie mécanique II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

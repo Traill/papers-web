@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840861591&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","505"],
+    "title":"Fixed income analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=840861591&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196224",
+      "name":"Filipovic Damir"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"25% Homework assignments[br/]35% Midterm examination[br/]40% Final examination[br/][br/]Midterm and final exams are open book (only lecture notes)[br/]",
+      "Bibliography and material":"L. Andersen and V. Piterbarg, Interest Rate Modeling, Atlantic Financial Press, 2010.[br/]D. Brigo and F. Mercurio, Interest rate models: Theory and practice, 2nd Edition, Springer Verlag, New York, 2007.[br/]D. Filipovic, Term-Structure Models, Springer Verlag, 2009.",
+      "Required prior knowledge":"Derivatives[br/]Econometrics[br/]Introduction to finance[br/]Stochastic calculus I[br/]Stochastic calculus II",
+      "Content":"The course covers the valuation, modeling and risk management of  [br/]fixed income securities and fixed income derivatives such as pure discount bonds, coupon bonds, callable bonds, floating rate notes,[br/]interest rate swaps, caps, floors, swaptions.",
+      "Keywords":"Interest rates, term structure, interest rate risk, bonds, derivatives.",
+      "Type of teaching":"Lectures, exercises, homework",
+      "Learning outcomes":"The aim of this course is to provide you with an introduction to the valuation of fixed income securities, the management and hedging of fixed income portfolios and the valuation and usage of fixed income derivatives."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fixed income analysis",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-22149-4&amp;con_lng=ENG\" target=\"blank\">Interest rate models - theory and practice : with smile, inflation and credit / Damiano Brigo, Fabio Mercurio</a>\". Year:2007. ISBN:978-3-540-22149-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-09726-6&amp;con_lng=ENG\" target=\"blank\">Term-structure models : a graduate course / Damir FilipoviÄ</a>\". Year:2009. ISBN:978-3-540-09726-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196224",
+      "name":"Filipovic Damir"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Derivatives[br/]Econometrics[br/]Introduction to finance[br/]Stochastic calculus I[br/]Stochastic calculus II",
+      "Bibliographie et matériel":"L. Andersen and V. Piterbarg, Interest Rate Modeling, Atlantic Financial Press, 2010.[br/]D. Brigo and F. Mercurio, Interest rate models: Theory and practice, 2nd Edition, Springer Verlag, New York, 2007.[br/]D. Filipovic, Term-Structure Models, Springer Verlag, 2009.[br/]",
+      "Mots clés":"Taux d'intérêt, structure par terme, risque de taux d'intérêt, obligations, produits dérivés.",
+      "Forme d'enseignement":"Cours, exercices, devoirs",
+      "Contenu":"Le cours couvre l'évaluation, la modélisation et le risk management des titres et des produits dérivés à revenu fixe tels que obligations avec ou sans coupons, obligations rachetables, titres à taux variable, swaps de taux d'intérêt, caps et floors, swaptions.",
+      "Forme du contrôle":"25% Devoirs[br/]35% Examen intermédiaire[br/]40% Examen final[br/][br/]Les examens intermédiaire et final se font \"à livre ouvert\" (uniquement les notes de cours)",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de donner une introduction à l'évaluation des titres à revenu fixe, à la gestion et à la couverture de portefeuilles de titres à revenus fixes ainsi qu'à l'estimation et à l'utilisation de produits dérivés à revenu fixe."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fixed income analysis",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-22149-4&amp;con_lng=FRE\" target=\"blank\">Interest rate models - theory and practice : with smile, inflation and credit / Damiano Brigo, Fabio Mercurio</a>\". Année:2007. ISBN:978-3-540-22149-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-09726-6&amp;con_lng=FRE\" target=\"blank\">Term-structure models : a graduate course / Damir FilipoviÄ</a>\". Année:2009. ISBN:978-3-540-09726-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23812659&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["AR","459"],
+    "title":"City sciences I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23812659&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"AR",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://choros.epfl.ch","http://choros.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100701",
+      "name":"Camacho-Hübner Eduardo"
+    },{
+      "url":"http://people.epfl.ch/166241",
+      "name":"Lévy Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course aims to help the students to orientate themselves, by the means of an interdisciplinary perspective, within the knowledge produced by the sciences of the urban.[br/][br/]It is about fundamental research complementary to the different courses on the project and action. We will focus on the definition of the fundamental concepts (city, urban, urbaneness, public space, metropolisation, etc.). We will also give a quantitative and qualitative overview of global urbanisation, and then explore the different dimensions of contemporary urbaneness. Urban planning will be addressed as a specific object, that is, as a relation it establishes between knowledge and action. [br/][br/]Finally, the city and urban issues, at stake in contemporary society, are approached. This analysis is enriched by the study of some metropolises, which are also \"global cities\".[br/][br/]This course will be especially oriented toward the notion of public space. This takes place in the scope of a CUS-supported co-operation programme called USUM (Urban Systems, Urban Models), involving, beyond Chôros/EPFL, the ETH Studio Basel and the Mendrisio Accademia (USI). Members of those two schools will participate in the course. The film-making process will focus on the analysis of a public space.",
+      "Content":"[li]Why the sciences of the urban?[br/][li]The city as event: urbanisation.[br/][li]The city as way of life: urbaneness.[br/][li]Models of the city.[br/][li]The city as action: urban planning.[br/][li]The city at stake.[br/][li]Cities of the World: New York, Los Angeles, Paris, Berlin, Tokyo, Hong Kong.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"City sciences I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://choros.epfl.ch","http://choros.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100701",
+      "name":"Camacho-Hübner Eduardo"
+    },{
+      "url":"http://people.epfl.ch/166241",
+      "name":"Lévy Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[li]Pourquoi des sciences de la ville ?[br/][li]La ville comme événement: l'urbanisation.[br/][li]La ville comme mode de vie: l'urbanité.[br/][li]Les modèles de la ville.[br/][li]La ville comme action: l'urbanisme. [br/][li]La ville en jeu.[br/][li]Villes du  Monde : New York, Los Angeles, Paris, Berlin, Tokyo, Hong Kong.[br/]",
+      "Forme du contrôle":"Évaluation par contrôle continu, sous forme de présentations dans le cadre du cours:[br/][li]analyse d'un film au cours du semestre d'hiver (présentation 10 min.);[br/][li]élaboration d'un scénario de court-métrage sur un concept de l'urbain. Défense du scénario (présentation de 20 min. à la fin du semestre d'hiver).[br/]",
+      "Préparation pour":"Sciences de la ville II, conseillé pour mineur DT.",
+      "Bibliographie et matériel":"Distribuée au début du cours.",
+      "Objectifs d'apprentissage":"Ce cours se fixe pour but d'aider les étudiants à s'orienter, par une démarche interdisciplinaire, dans les savoirs produits par les sciences de la ville.[br/][br/]Il s'agit donc ici de recherche fondamentale, complétant les différents enseignements orientés vers le projet et l'action. On attachera d'entrée une grande attention à la délimitation des concepts fondateurs (ville, urbain, urbanité, espace public, métropolisation, etc.). On fera ensuite sur l'état actuel, quantitatif et qualitatif, de l'urbanisation dans le Monde, puis on explorera les différentes dimensions de l'urbanité contemporaine. L'urbanisme sera traité comme un objet spécifique, dans la relation qu'il établit entre savoir et action. [br/][br/]Enfin, on abordera la ville et les questions urbaines comme un enjeu de société majeur. Au long de ce parcours, on enrichira l'analyse d'un regard sur quelques métropoles, qui sont aussi des «villes mondiales».[br/][br/]Le cours sera tout particulièrement orienté vers la notion d'espace public, dans le cadre du programme de coopération USUM (Urban Systems, Urban Models, soutenu par la CUS) associant, outre le laboratoire Chôros/EPFL, l'ETH Studio Basel et l'Accademia de Mendrisio (USI), ce qui donnera lieu à la participation au cours de membres de ces deux écoles . La réalisation des films sera centrée sur l'analyse d'un espace public."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sciences de la ville I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

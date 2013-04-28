@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4151954&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","451"],
+    "title":"Towns and Transports",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4151954&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106595",
+      "name":"Tzieropoulos Panagiotis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral Examination",
+      "Bibliography and material":"Teaching notes, Various documents, Literature sheets",
+      "Prerequisite for":"Projects and Master thesis",
+      "Required prior knowledge":"None",
+      "Content":"Introduction: Urban Typology, Issues and Stakes, Chain and Round Trips[br/]Fundamentals of Transport Demand Analysis[br/]Human Powered Mobility[br/]Public Transport: Typology, Infrastructure, Vehicles, Operations, Cost Structure, Financing[br/]Urban Traffic: Principles, Traffic Control, Infrastruc-ture and Facilities Planning[br/]Traffic Calming:  Principles and Application[br/]Parking Facilities and Management[br/]Transport Intermodality and Interfaces[br/]Urban Freight Transport",
+      "Type of teaching":"Partly ex cathedra, Participative and Interactive Teaching, Workshops",
+      "Learning outcomes":"[li] To get a basic understanding of the relationship between the urban environment and transport[br/][li] To learn the fundamental vocabulary and grammar of urban transport planning[br/][li] To be able to contribute in teamwork with urban planners and architects"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Towns and Transports",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106595",
+      "name":"Tzieropoulos Panagiotis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"2 h C + 1 h E",
+      "Prérequis":"Aucun",
+      "Bibliographie et matériel":"Notes de cours, documents, fiches bibliographiques / Teaching notes, Various documents, Literature sheets",
+      "Forme d'enseignement":"Partiellement ex-cathedra, enseignement participatif et interactif, ateliers",
+      "Contenu":"Introduction: Typologie urbaine, Problématique et enjeux, Déplacements en chaîne et boucles[br/]Bases de l'analyse de la demande[br/]Mobilité douce[br/]Transports en commun: Typologie, Infrastructure, Véhicules, Exploitation, Coûts et financement[br/]Circulation urbaine: Principes, Régulation et gestion du trafic, Aménagements et installations[br/]Modération de la circulation: Principes et application[br/]Stationnement: Installation et gestion[br/]Intermodalité et interfaces[br/]Transport de marchandises en ville",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Projets et Travail pratique de Master",
+      "Objectifs d'apprentissage":"[li] Acquérir une compréhension de base des relations entre l'environnement urbain et les transports[br/][li] Apprendre le vocabulaire et la grammaire de base de la planification des transports urbains[br/][li] Être capable de participer dans le travail interdisci-plinaire avec les urbanistes et architectes"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Villes et transports",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

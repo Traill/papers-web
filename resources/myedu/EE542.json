@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1548160941&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","542"],
+    "title":"Advanced wireless communications: algorithms and architectures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1548160941&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control with presentation of a final project",
+      "Bibliography and material":"Slides distributed during the lecture.[br/]D. Tse, P. Viswanath: Fundamentals of Wireless Communication, Cambridge University Press[br/]",
+      "Required prior knowledge":"Wireless receivers: algorithms and architectures",
+      "Content":"[b]More on OFDM[/b][br/]Repetition of the basics, advanced channel estimation, synchronization, tracking, some OFDM based communication standards[br/][br/][b]Spread-spectrum modulation[/b][br/]Principle of spread-spectrum modulation, RAKE receiver and diversity, code division multiple access, UMTS/HSDPA[br/][br/][b]Multi-antenna communication[/b][br/]Spatial diversity, capacity of multi-antenna systems, spatial multiplexing[br/][br/][b]MIMO receivers[/b][br/]Hard- and soft-output MIMO detection , Linear and successive cancellation receivers, maximum-likelihood receivers[br/] [br/][b]Channel coding[/b][br/]Low Density Parity Check codes, Turbo codes[br/]",
+      "Type of teaching":"Ex cathedra with computer exercises/labs",
+      "Learning outcomes":"This course focuses on state-of-the-art algorithms and technologies for wireless communications. It builds on the basic concepts developed in the first course and extends the basic modulation and coding schemes to more capable and more recent techniques such as multi-antenna communication. At the end of the course, students should be familiar with the modulation schemes used in state-of-the-art wireless communication systems and should be able to design corresponding receivers. They should also be aware of the tradeoffs between complexity and performance of different algorithm choices and be familiar with the basics of recent communication standards."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced wireless communications: algorithms and architectures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-84527-0&amp;con_lng=ENG\" target=\"blank\">Fundamentals of wireless communication / David Tse and Pramod Viswanath</a>\". Year:2005. ISBN:0-521-84527-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Wireless receivers: algorithms and architectures",
+      "Bibliographie et matériel":"Slides distribués aux cours.[br/]D. Tse, P. Viswanath: Fundamentals of Wireless Communication, Cambridge University Press[br/]",
+      "Forme d'enseignement":"Ex cathedra avec exercices sur ordinateur et labos",
+      "Contenu":"[b]Plus sur OFDM[/b][br/]Répétition des notions de base, estimation avancée de canal, lsynchronisation, suivi, certaines normes de communication basées sur OFDM[br/][br/][b]Modulation à spectre étalé[/b][br/]Principe de modulation à spectre étalé, récepteur RAKE et diversité, accès multiple par répartition en code, UMTS / HSDPA[br/][br/][b]Communication avec plusieurs antennes[/b][br/]Diversité spatiale, capacité des systèmes multi-antennes, multiplexage spatial[br/][br/][b]Récepteurs MIMO[/b][br/]Récepteurs d'annulation durs et mous-sortie de détection MIMO, linéaires et successives, récepteurs de maximum de vraisemblance [br/][br/][b]Le codage de canal[/b][br/]Low density parity check codes, Turbo codes[br/]",
+      "Forme du contrôle":"Pendant le semestre",
+      "Objectifs d'apprentissage":"Ce cours s'axe autour des algorithmes et technologies de l'état des arts pour les systèmes de communications sans fil. Il s'appuie sur les concepts de base développés dans le premier cours et s'étend de la modulation et du codage de base aux techniques les plus performantes et les plus récentes comme la communication avec plusieurs antennes. À la fin du cours, les étudiants connaîtront les techniques de modulation utilisées dans les systèmes de communication sans fil de l'état de l'art et seront en mesure de concevoir des récepteurs correspondants. Ils seront également conscients des différences entre la complexité et la performance des différents algorithmes et ils seront familiarisés avec les principes des normes de communication des dernières années."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced wireless communications: algorithms and architectures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-84527-0&amp;con_lng=FRE\" target=\"blank\">Fundamentals of wireless communication / David Tse and Pramod Viswanath</a>\". Année:2005. ISBN:0-521-84527-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

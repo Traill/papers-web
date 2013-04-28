@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47458421&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","434"],
+    "title":"Structure and architecture",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47458421&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    },{
+      "url":"http://people.epfl.ch/145823",
+      "name":"Salvi Renato"
+    },{
+      "url":"http://people.epfl.ch/106699",
+      "name":"Wahlen Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Structures are not only load-carrying elements, but also important elements in architecture. The aim of the course is to demonstrate this affirmation by the study of classical and contemporary examples in which architecture and structure, or better architecture and engineering result from a common effort of both architect and engineer. The dialog between these two professional figures will be continuously exercised along the course.",
+      "Content":"[b]Steel construction and its specificities[/b][br/]Renzo Piano and Peter Rice (Centre Georges Pompidou)[br/]Mies van der Rohe (Berlin Art Center et and Barcelona Pavillon)[br/]Betrix + Consolascio and Lüchinger+Meier (St-Gall exhibition hall)[br/][b]Concrete and its intrinsic application[/b][br/]Louis I. Kahn and A. Komendandt (Kimbell Art Museum, ...)[br/]Oscar Niemeier and Joaquim Cardozo (Brasilia, ...)[br/]Le Corbusier and Iannis Xenakis (Phillips Pavillon,...)[br/]Christian Kerez and Joseph Schwartz (Apartment house in  Zurich)[br/][b]Infrastructures in the landscape[/b][br/]Positive examples (A16 et A2 motorways, H144 highway) and less positive cases (high speed train Milan-Bologna)[br/][b]Remarkable contemporary structures[/b][br/]Pedestrian bridges : Solferino and Simone de Beauvoir in Paris, Millenium Bridge in London, Millau  Viaduc [br/]Other examples of recent structures and examples presented by students[/b][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structure and architecture",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    },{
+      "url":"http://people.epfl.ch/145823",
+      "name":"Salvi Renato"
+    },{
+      "url":"http://people.epfl.ch/106699",
+      "name":"Wahlen Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra donné par A. Muttoni (ingénieur) et R. Salvi (architecte) ensemble. ",
+      "Contenu":"[b]La construction métallique et ses particularités[/b][br/]Renzo Piano et Peter Rice (Centre Georges Pompidou,...)[br/]Mies van der Rohe (Centre d'art de Berlin et Pavillon de Barcelone)[br/]Betrix + Consolascio et Lüchinger + Meier (La hall d'expositions à St-Gall)[br/][b]Le béton et son utilisation intrinsèque[/b][br/]Louis I. Kahn et A. Komendandt (Kimbell Art Museum,...)[br/]Oscar Niemeier et Joaquim Cardozo (Brasilia,...)[br/]Le Corbusier et Iannis Xenakis (Le Pavillon Phillips,...)[br/]Christian Kerez et Joseph Schwartz (Maison d'habitation à Zurich)[br/][b]Les infrastructures dans le territoire[/b][br/]Les exemples positifs (Autoroutes A16 et A2, route H144) et moins réussis (haute vitesse Milan-Bologne)[br/][b]Constructions d'ingénieurs remarquables d'aujourd'hui[/b][br/]Passerelles Solferino et Simone de Beauvoir à Paris, Millenium Bridge à Londres, Viaduc de Millau ...[br/][br/]Autres exemples tirés de l'actualité et exemples présentés par les étudiants",
+      "Forme du contrôle":"Etude d'un exemple et présentation en classe",
+      "Bibliographie et matériel":"distribuée pendant les cours ",
+      "Objectifs d'apprentissage":"La structure n'a pas seulement une fonction porteuse, mais est aussi un élément important de l'architecture. L'objectif de ce cours est de démontrer cette affirmation en étudiant des exemples classiques et actuels où l'architecture et la structure, ou en général l'ingénierie sont le résultat d'un travail conjoint entre architecte et ingénieur. Le dialogue entre ces deux figures professionnelles sera exercé en continu pendant le cours."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structure et architecture",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

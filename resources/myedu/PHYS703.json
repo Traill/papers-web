@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322504&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","703"],
+    "title":"High performance particle accelerators and applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322504&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173996",
+      "name":"Rivkin Leonid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Summary of the principle concepts of accelerator physics.[br/]Introduction to advanced concepts of accelerators for High Energy Physics.[br/]Introduction to new concepts of advanced synchroton light sources.[br/]Introduction to accelerators for medical applications.[br/]Development of accelerator magnet optics and its performance evaluation with the help of a computer code [br/]",
+      "Content":"After a summary in basic accelerator physics, new concepts will be discussed of accelerators for research and application. This includes proposed machines for High Energy Physics which are hadron colliders with very high energies (VHLC), electron-positron linear colliders (EuroTeV, CLIC), neutrino factories and muon colliders. The advantages and challenges of the different concepts will be compared. [br/]In a second step, accelerators will be discussed which are more oriented towards applied research, as neutron spallation sources and synchrotron light sources. In the latter group also the most recent developments in the field of Free Electron Lasers (FELs) are included.[br/]Finally new developments of accelerators for medical applications are discussed.[br/][br/]The second element of this course will be an introduction to the techniques of accelerator design. A computer code will be made available to the candidates that allows designing an accelerator magnet structure and to evaluate its performance with regard to linear and nonlinear particle dynamics. It is planned that the candidates work out a project in groups that concludes with a written report on these theoretical studies.[br/][br/]",
+      "Form of examination":"oral exam and project report",
+      "Required prior knowledge":"Basics in Accelerator Physics"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"High performance particle accelerators and applications",
+    "recitation":{
+      "total_hours":18
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173996",
+      "name":"Rivkin Leonid"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Contenu":"After a summary in basic accelerator physics, new concepts will be discussed of accelerators for research and application. This includes proposed machines for High Energy Physics which are hadron colliders with very high energies (VHLC), electron-positron linear colliders (EuroTeV, CLIC), neutrino factories and muon colliders. The advantages and challenges of the different concepts will be compared. [br/]In a second step, accelerators will be discussed which are more oriented towards applied research, as neutron spallation sources and synchrotron light sources. In the latter group also the most recent developments in the field of Free Electron Lasers (FELs) are included.[br/]Finally new developments of accelerators for medical applications are discussed.[br/][br/]The second element of this course will be an introduction to the techniques of accelerator design. A simple computer code will be made available to the candidates that allows designing an accelerator magnet structure and to evaluate its performance with regard to linear and nonlinear particle dynamics. It is planned that the candidates work out a project in groups that concludes with a written report on these theoretical studies.[br/][br/]The third element of the course is made up by practical work on a functioning accelerator. A one to two days visit is planned at PSI where the candidates will participate in accelerator operation and get an overview over all systems of an accelerator, accompanied by lectures in loco.",
+      "Prérequis":"Basics in Accelerator Physics",
+      "Objectifs d'apprentissage":"Summary of the principle concepts of accelerator physics.[br/]Introduction to advanced concepts of accelerators for High Energy Physics.[br/]Introduction to new concepts of accelerators for material research.[br/]Introduction to accelerators for medical applications.[br/]Development of an accelerator magnet optics and its performance evaluation with the help of a computer code (in groups.[br/]Practical work on an operating accelerator (1-2 days)"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"High performance particle accelerators and applications",
+    "recitation":{
+      "total_hours":18
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

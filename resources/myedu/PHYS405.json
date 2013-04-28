@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128690863&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","405"],
+    "title":"Experimental methods in physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128690863&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/105040",
+      "name":"Dwir Benjamin"
+    },{
+      "url":"http://people.epfl.ch/105197",
+      "name":"Ganière Jean-Daniel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To understand the experimental methods used presently in research and development in physics. Develop a comprehension in other fields in order to be able to start collaborations; what can be gained using an experimental technique ?, nature of the samples ?, sensitivity ?, limitations ?, how to work it out...[br/]Critical reading of scientific papers.[br/]",
+      "Content":"[b]- Scanning probe microscopy (SMP):[/b]Principles of operation of scanning tunneling microscopy and atomic force microscopy. Advanced scanning microscopy techniques. The uses of SPM in industry and research[br/][br/][b]- Cryogenics:[/b] measurement and regulation of low temperatures, cryostat.[br/][br/][b]- Optics:[/b] optical elements (modulators, polarisers, lenses...)[br/]Spectrometer, monochromator...[br/][br/][b]- Light sources:[/b] lasers, discharge lamps, incandescence lamps, synchrotron...[br/][br/][b]- Electron microscopy:[/b] Transmission and scanning microscopes, their principles of operation, observation tecniques, uses ...[br/][br/][b]- Structural characterization:[/b] RX, neutron and electron diffraction, ...[br/]  ",
+      "Type of teaching":"Ex cathedra Account, reading and discussion of recent research tasks",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Basis course"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Experimental methods in physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/105040",
+      "name":"Dwir Benjamin"
+    },{
+      "url":"http://people.epfl.ch/105197",
+      "name":"Ganière Jean-Daniel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de base des années précédentes",
+      "Bibliographie et matériel":"Les transparents du cours et certains articles scientifiques",
+      "Forme d'enseignement":"Exposé ex cathedra, lecture et discussion de travaux de recherche récents ",
+      "Contenu":"[b]- Microscopie de balayage par sonde (SPM):[/b]Les principes du microscope à effet tunnel et à force atomique, autres techniques de microscopie par balayage de sonde, leur utilisation en industrie et dans la recherche[br/][br/][b]- Cryogénie:[/b] mesure et régulation de (basse)températures, cryostat[br/][br/][b]- Optique:[/b] éléments optiques (modulateurs, polariseurs, lentilles...). Spectromètres, monochromateurs...[br/][br/][b]- Les sources de lumière:[/b] lasers, lampes à décharge et à[br/]incandescence, synchrotron...[br/][br/][b]- La microscopie électronique :[/b]de transmission et de balayage. Principes, techniques, utilisation[br/][br/][b]- Les méthodes de caractérisation structurale :[/b] RX, diffraction des[br/]électrons, des neutrons, ...[br/]  ",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Connaître les méthodes expérimentales utilisées actuellement en recherche fondamentale, appliquée et de développement en physique. Etre capable d'entrer en discussion avec un collègue en vue d'une collaboration; quels renseignements peut-on obtenir concernant une technique expérimentale ?, nature des échantillons ?, sensibilité ?, limitations ?, mise en oeuvre...[br/]Lecture critique d'un article scientifique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Experimental methods in physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

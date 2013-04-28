@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824168597&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","425"],
+    "title":"Model predictive control",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824168597&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/207237",
+      "name":"Jones Colin Neil"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"All material can be downloaded from http://la.epfl.ch/teaching. Printed versions of the lecture notes can be ordered.",
+      "Required prior knowledge":"[li]Multivariable systems",
+      "Content":"Review of convex optimization and required optimal control theory. Receding-horizon control for constrained linear systems. Practical issues: Tracking and offset-free control of constrained systems. Theoretical properties of constrained control: Constraint satisfaction and invariant set theory, Stability of MPC. Introduction to advanced topics in predictive control. ",
+      "Keywords":"Multi-variable control, Constrained systems, Model-based Control, Optimization",
+      "Type of teaching":"The course is a series of theoretical lectures interspersed with practical simulation-based exercise sessions. ",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Design an advanced controller for a dynamic system, A13 [br/][li]Assess the stability, performance and robustness of a closed-loop system, A14[br/][li]Validate the performance (by simulations or experiments), A24 [br/][li]Evaluate and discuss the performance and the solutions, and draw conclusions, A26[br/][br/][b]Transversal skills:[/b][br/][li]Self-assessment of acquired skills, T2[br/][li]Write a scientific or technical report, T6"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Model predictive control",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/207237",
+      "name":"Jones Colin Neil"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Systèmes multivariables",
+      "Bibliographie et matériel":"Le matériel de référence peut être téléchargé depuis le site http://la.epfl.ch/teaching. Le polycopié du cours peut être commandé.",
+      "Mots clés":"Commande multivariable, Systèmes contraints, Commande basée sur les modèles, Optimisation",
+      "Forme d'enseignement":"Le cours est une série de sessions théoriques entrecoupés de sessions d'exercices pratiques basés sur la simulation.",
+      "Contenu":"Survol des méthodes d'optimisation convexe nécessaires pour la commande optimale. Réglage par horizon fuyant pour les systèmes linéaires sous contraintes. Considérations pratiques : Poursuite (asservissement) et commande sans à priori constant pour les systèmes contraints. Propriétés théoriques de la commande sous contraintes. Satisfaction des contraintes et théorie des ensembles invariants. Stabilité du réglage modèle prédictif. Introduction aux concepts avancés dans le domaine de la commande prédictive.",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Dimensionner un régulateur avancé pour un système dynamique, A13[br/][li]Déterminer la stabilité, la performance et la robustesse d'un système  en boucle fermée, A14[br/][li]Valider les performances (par simulation ou expérimentalement), A24[br/][li]Evaluer et critiquer les performances, la solution, et tirer un bilan, A26[br/][br/][b]Compétences transversales:[/b][br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Rédiger un rapport d'étude scientifique ou technique, T6"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Model predictive control",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

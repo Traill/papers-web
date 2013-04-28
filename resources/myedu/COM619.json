@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963740484&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","619"],
+    "title":"Wavelet and Sparse Signal Processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963740484&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcav.epfl.ch/teaching","http://lcav.epfl.ch/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    },{
+      "url":"http://people.epfl.ch/107537",
+      "name":"Vetterli Martin"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":null,
+    "free_text":{
+      "Content":"Time-frequency localization:[br/]\tScale and resolution; Uncertainty principle; Time-frequency tilings[br/][br/]Filter banks:[br/]\tOrthonormal two channel filter banks; Biorthogonal two channel filter banks; Variations on filter banks; Application to communications: OFDM[br/][br/]Discrete wavelet transform: [br/]\tIterated filter banks. Equivalent filters; Wavelet series on sequences, wavelet basis for l2(Z); Discrete wavelet transform in action: Linear versus non-linear approximation; Approximation of piecewise smooth functions; Application to denoising[br/][br/]Frames on sequences: [br/]\tDefinition and properties, finite dimensional frames; Filterbank frames, algorithms; Application to speech processing: The short-time Fourier transform as a filter bank; Frame and spectrogram analysis[br/][br/]Modulated filter banks:[br/]\tLapped orthogonal transforms; Local cosine bases; Application to audio coding: Filter banks in MP3[br/][br/]Multiresolution analysis: [br/]\tEmbedded spaces; Spline wavelets; Mallat's algorithm; Properties of wavelet series[br/][br/]Sparse signal processing[br/]\tSampling of sparse signals; Compressed sensing; Sampling physics[br/][br/]Inverse problems[br/]\tTomography; Regularization through sparsity; Algorithms for sparse recovery[br/]",
+      "Keywords":"Time-frequency anaylsis, wavelets, filter banks, sparse signal processing ",
+      "Form of examination":"Written exam[br/]Project report",
+      "Note":"Given in 2012-13",
+      "Required prior knowledge":"Mathematical signal processing: Tools and Applications"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Wavelet and Sparse Signal Processing",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":48
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcav.epfl.ch/teaching","http://lcav.epfl.ch/teaching"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    },{
+      "url":"http://people.epfl.ch/107537",
+      "name":"Vetterli Martin"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Given in 2012-13",
+      "Contenu":"Time-frequency localization:[br/]\tScale and resolution; Uncertainty principle; Time-frequency tilings[br/][br/]Filter banks:[br/]\tOrthonormal two channel filter banks; Biorthogonal two channel filter banks; Variations on filter banks; Application to communications: OFDM[br/][br/]Discrete wavelet transform: [br/]\tIterated filter banks. Equivalent filters; Wavelet series on sequences, wavelet basis for l2(Z); Discrete wavelet transform in action: Linear versus non-linear approximation; Approximation of piecewise smooth functions; Application to denoising[br/][br/]Frames on sequences: [br/]\tDefinition and properties, finite dimensional frames; Filterbank frames, algorithms; Application to speech processing: The short-time Fourier transform as a filter bank; Frame and spectrogram analysis[br/][br/]Modulated filter banks:[br/]\tLapped orthogonal transforms; Local cosine bases; Application to audio coding: Filter banks in MP3[br/][br/]Multiresolution analysis: [br/]\tEmbedded spaces; Spline wavelets; Mallat's algorithm; Properties of wavelet series[br/][br/]Sparse signal processing[br/]\tSampling of sparse signals; Compressed sensing; Sampling physics[br/][br/]Inverse problems[br/]\tTomography; Regularization through sparsity; Algorithms for sparse recovery[br/]",
+      "Forme du contrôle":"Written exam[br/]Project report",
+      "Prérequis":"Mathematical signal processing: Tools and Applications",
+      "Mots clés":"Time-frequency anaylsis, wavelets, filter banks, sparse signal processing "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Wavelet and Sparse Signal Processing",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":48
+    }
+  }
+}

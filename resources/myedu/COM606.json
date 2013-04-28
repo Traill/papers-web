@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2627080&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","606"],
+    "title":"Mathematical Principles of Signal Processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2627080&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145758",
+      "name":"Ridolfi Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] To present the advanced Fourier analysis of signals, both deterministic and stochastic.[br/][li] To allow the student to understand and use advanced mathematical tools that are necessary in selected applications of signal processing and communications, including neurobiological data analysis, random sampling, pulse modulated transmissions and UltraWide Band signals, network traffic analysis.[br/]",
+      "Content":"[b]Part I (deterministic signals)[/b][br/][br/][li] Review of mathematical tools (Hilbert spaces, complements of integration theory)[br/][li] Fourier Analysis in L¹(Rn) and L²(Rn) (Fourier transforms, Fourier series, Poisson summation formula)[br/][li] Filtering (convolutional and non convolutional filtering)and Sampling (Uniform and non uniform sampling)[br/][br/][b]Part II (stochastic signals)[/b][br/][br/][li] Review of advanced probability [br/][li] Spectral representation of wide sense stationary processes (Cramèr-Kinchine spectral representation, Bochner spectrum, Filtering in the general non convolutional framework)[br/][li] Spectra of point processes and related signals (Bartlett spectrum, shot noise)[br/][li] Spectra of modulated point processes (extended Bochner spectrum)[br/][br/][b]Part III (applications)[/b][br/][br/][li] Neurobiological data analysis[br/][li] Random sampling[br/][li] Pulse modulated transmission and signals for UltraWide Band communications[br/][li] Network traffic analysis[br/]",
+      "Bibliography and material":"Mathematical principles of signal processing, Pierre Brémaud, Springer.[br/]Probability and statistics (vol. 2), Didier Dacunha-Castelle and Marie Duflo, Springer[br/][br/]Students will also work on published scientific papers and they will receive comprehensive class notes.",
+      "Required prior knowledge":"Calculus including Lebesque integration, probability including stochastic processes"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematical Principles of Signal Processing",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95338-8&amp;con_lng=ENG\" target=\"blank\">Mathematical principles of signal processing : fourier and wavelet analysis / Pierre Brémaud</a>\". Year:2002. ISBN:0-387-95338-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-96213-1&amp;con_lng=ENG\" target=\"blank\">Probability and statistics. Vol. 2 / Didier Dacunha-Castelle Marie Duflo</a>\". Year:1986. ISBN:3-540-96213-1</li></ul>",
+    "lecture":{
+      "total_hours":42
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145758",
+      "name":"Ridolfi Andrea"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[b]Part I (deterministic signals)[/b][br/][br/][li] Review of mathematical tools (Hilbert spaces, complements of integration theory)[br/][li] Fourier Analysis in L¹(Rn) and L²(Rn) (Fourier transforms, Fourier series, Poisson summation formula)[br/][li] Filtering (convolutional and non convolutional filtering)and Sampling (Uniform and non uniform sampling)[br/][br/][b]Part II (stochastic signals)[/b][br/][br/][li] Review of advanced probability [br/][li] Spectral representation of wide sense stationary processes (Cramèr-Kinchine spectral representation, Bochner spectrum, Filtering in the general non convolutional framework)[br/][li] Spectra of point processes and related signals (Bartlett spectrum, shot noise)[br/][li] Spectra of modulated point processes (extended Bochner spectrum)[br/][br/][b]Part III (applications)[/b][br/][br/][li] Neurobiological data analysis[br/][li] Random sampling[br/][li] Pulse modulated transmission and signals for UltraWide Band communications[br/][li] Network traffic analysis[br/]",
+      "Prérequis":"Calculus including Lebesque integration, probability including stochastic processes",
+      "Bibliographie et matériel":"Mathematical principles of signal processing, Pierre Brémaud, Springer.[br/]Probability and statistics (vol. 2), Didier Dacunha-Castelle and Marie Duflo, Springer[br/][br/]Students will also work on published scientific papers and they will receive comprehensive class notes.",
+      "Objectifs d'apprentissage":"[li] To present the advanced Fourier analysis of signals, both deterministic and stochastic.[br/][li] To allow the student to understand and use advanced mathematical tools that are necessary in selected applications of signal processing and communications, including neurobiological data analysis, random sampling, pulse modulated transmissions and UltraWide Band signals, network traffic analysis."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematical principles of signal processing",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95338-8&amp;con_lng=FRE\" target=\"blank\">Mathematical principles of signal processing : fourier and wavelet analysis / Pierre Brémaud</a>\". Année:2002. ISBN:0-387-95338-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-96213-1&amp;con_lng=FRE\" target=\"blank\">Probability and statistics. Vol. 2 / Didier Dacunha-Castelle Marie Duflo</a>\". Année:1986. ISBN:3-540-96213-1</li></ul>",
+    "lecture":{
+      "total_hours":42
+    }
+  }
+}

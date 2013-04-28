@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705590&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","101(b)"],
+    "title":"Analysis I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705590&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=en",
+    "section":"SV",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145266",
+      "name":"Ruppen Hans-Jörg"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Study of the principal methods of the differential and integral calculus of real-valued functions with a view towards applications by future engineers.",
+      "Content":"Integers, real and complex numbers.[br/]Real functions, sequences, series and limits. [br/]Continuity. [br/]Derivatives, Taylor's theorem with remainder and Taylor series. [br/]Definite and indefinite integrals.[br/]Improper integrals. [br/]Power series. [br/]Differential equations.[br/]Functions of several variables: continuity, derivatives and partial derivatives. [br/]Implicit functions. [br/]Maxima and minima, extrema with constraints. [br/]Multiple integrals. [br/][br/]The detailed program and the order of presentation may vary.",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Form of examination":"The exam is written and semestrial with each exam lasting 3  hours"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis I",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-1594-1&amp;con_lng=ENG\" target=\"blank\">Analyse / Swokowski; trad. de l'anglais par Micheline Citta</a>\". Year:2000. ISBN:2-8041-1594-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-892-0&amp;con_lng=ENG\" target=\"blank\">Analyse : recueil d'exercices et aide-mémoire / Jacques Douchet</a>\". Year:2010. ISBN:978-2-88074-892-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-0003-3&amp;con_lng=ENG\" target=\"blank\">Analyse vectorielle : cours et problèmes, [480 problèmes résolus] / Murray R. Spiegel</a>\". Year:1996. ISBN:2-7042-0003-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-1275-9&amp;con_lng=ENG\" target=\"blank\">Calcul différentiel et intégral : cours et problèmes / Frank Ayres, Jr., Elliott Mendelson; trad. par Abdellatif Abouhazim</a>\". Year:1996. ISBN:2-7042-1275-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-728-2&amp;con_lng=ENG\" target=\"blank\">Calcul différentiel et intégral : fonctions réelles d'une ou de plusieurs variables réelles / Jacques Douchet, Bruno Zwahlen</a>\". Year:2006. ISBN:978-2-88074-728-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-60439-1&amp;con_lng=ENG\" target=\"blank\">Ingenieur Analysis / Christian Blatter</a>\". Year:1996. ISBN:3-540-60439-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145266",
+      "name":"Ruppen Hans-Jörg"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"Nombres entiers, réels et complexes.[br/]Fonctions réelles, suites, limites. [br/]Continuité. [br/]Dérivées, développement limité et séries de Taylor. [br/]Primitives et intégrales définies.[br/]Intégrales généralisées. [br/]Séries numériques, séries entières. [br/]Équations différentielles.[br/]Fonctions de plusieurs variables : continuité, dérivées et dérivées partielles. [br/]Fonctions implicites. [br/]Extrema et extrema liés. [br/]Intégrales multiples. [br/][br/]Le programme détaillé et l'ordre peuvent varier.",
+      "Forme du contrôle":"L'examen est écrit et semestriel, et chaque examen dure 3 heures",
+      "Bibliographie et matériel":"L'enseignant précisera les manuels recommandés dans son cours. [br/][br/]J. Douchet et B. Zwahlen, Calcul différentiel et intégral,  1985 et 1998, PPUR. [br/]J. Douchet, Analyse Recueil d'exercices et aide-mémoire, vol 1 & 2, 3e édition, 2010, PPUR. [br/]F. Ayres et E. Mendelson, Calcul différentiel et intégral, McGraw-Hill, 2e édition, 1993.[br/]M. R. Spiegel, Analyse, McGraw-Hill, 1993.[br/]E. Swokowski, Analyse, de Broeck University.[br/]Christian Blatter, Ingenieur Analysis 1, volume 1. Springer, zweite Edition, 1996.[br/]Christian Blatter, Ingenieur Analysis 2, volume 2. Springer, zweite Edition, 1996.[br/]Cours polycopié, C.A. Stuart, Analyse I et II. [br/]\"Savoir faire en mathématiques\", PPUR.",
+      "Objectifs d'apprentissage":"Etude des méthodes principales du calcul différentiel et intégral de fonctions réelles en vue de leur utilisation par le futur ingénieur.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse I",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-1594-1&amp;con_lng=FRE\" target=\"blank\">Analyse / Swokowski; trad. de l'anglais par Micheline Citta</a>\". Année:2000. ISBN:2-8041-1594-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-892-0&amp;con_lng=FRE\" target=\"blank\">Analyse : recueil d'exercices et aide-mémoire / Jacques Douchet</a>\". Année:2010. ISBN:978-2-88074-892-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-0003-3&amp;con_lng=FRE\" target=\"blank\">Analyse vectorielle : cours et problèmes, [480 problèmes résolus] / Murray R. Spiegel</a>\". Année:1996. ISBN:2-7042-0003-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-1275-9&amp;con_lng=FRE\" target=\"blank\">Calcul différentiel et intégral : cours et problèmes / Frank Ayres, Jr., Elliott Mendelson; trad. par Abdellatif Abouhazim</a>\". Année:1996. ISBN:2-7042-1275-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-728-2&amp;con_lng=FRE\" target=\"blank\">Calcul différentiel et intégral : fonctions réelles d'une ou de plusieurs variables réelles / Jacques Douchet, Bruno Zwahlen</a>\". Année:2006. ISBN:978-2-88074-728-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-60439-1&amp;con_lng=FRE\" target=\"blank\">Ingenieur Analysis / Christian Blatter</a>\". Année:1996. ISBN:3-540-60439-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

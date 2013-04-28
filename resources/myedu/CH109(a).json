@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=260079329&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","109(a)"],
+    "title":"Chemistry Laboratory Work II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=260079329&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":3.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123171",
+      "name":"Laurenczy Gabor"
+    },{
+      "url":"http://people.epfl.ch/133818",
+      "name":"Miskovic Ljubisa"
+    },{
+      "url":"http://people.epfl.ch/153498",
+      "name":"Tavernelli Ivano"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"Français",
+    "title":"Chemistry Laboratory Work II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"Précis d'analyse quantitative / Georges Brunisholz\". Year:1987</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":3.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123171",
+      "name":"Laurenczy Gabor"
+    },{
+      "url":"http://people.epfl.ch/133818",
+      "name":"Miskovic Ljubisa"
+    },{
+      "url":"http://people.epfl.ch/153498",
+      "name":"Tavernelli Ivano"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Précis d'Analyse Quantitative, Institut des Sciences et Ingénierie Chimiques ",
+      "Forme d'enseignement":"Laboratoire",
+      "Contenu":"TP réalisés en relation avec les cours de chimie de 1ère année[br/][br/][b]1. Partie computationelle[/b][br/]([i]Support : Descriptions des exercices sur le web et divers manuels des logiciels[/i])[br/][br/][li] Installation et configurations des logiciels[br/][li] Visualisation des propriétés moléculaires[br/][li] Identifications des éléments de symétrie, détermination des groupes de symétrie moléculaires [br/][li] Théorie des groupes: représentations matricielles[br/][li] Introduction à Matlab[br/][br/][br/][b]2. Partie chimie générale et chimie analytique[/b][br/]([i]Support: Guide de laboratoire, feuilles polycopiées, Précis d'Analyses quantitatives[/i][br/][br/][li] Cinétique chimique[br/][li] Spectrophotométrie[br/][li] Extraction de la caféine du thé[br/][li] Chromatographie d'adsorption[br/][li] Extraction et analyse de pigments végétaux [br/][li] Chromatographie ionique[br/][li] Analyse d'une huile naturelle[br/][li] Détection des acides aminés de vos empreintes digitales[br/][li] Dosage des sucres ",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"\"Equilibres et réactivité chimique\", \"Atomes, ions, molécules et fonctions I\"",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant aux principes et à la rigueur de l'analyse quantitative. "
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"Français",
+    "title":"Chimie TP II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"Précis d'analyse quantitative / Georges Brunisholz\". Année:1987</li></ul>",
+    "lecture":null
+  }
+}

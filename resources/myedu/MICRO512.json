@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47994046&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","512"],
+    "title":"Image processing II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47994046&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/imageprocessing.html"," http://bigwww.epfl.ch/teaching/courses/imageprocessing.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Study of advanced image processing; mathematical imaging. Image processing software development and prototyping in JAVA; application to real-world examples in industrial vision and biomedical imaging.[br/]",
+      "Content":"[br/][li][b]Review of fundamental notions.[/b] Multi-dimensional Fourier transform. Convolution. z-transform. Digital filters. [br/][li][b]Continuous representation of discrete data.[/b] Splines. Interpolation. Geometric transformations. Multi-scale decomposition (pyramids and wavelets).[br/][li][b]Image transforms.[/b] Karhunen-Loève transform (KLT). Discrete cosine transform (DCT). JPEG coding. Image pyramids. Wavelet decomposition.[br/][li][b]Reconstruction from projections.[/b] X-ray scanners. Radon transform. Central slice theorem. Filtered backprojection. Iterative methods.[br/][li][b]Deconvolution.[/b] Inverse and Wiener filtering. Matrix formulations. Iterative techniques (ART).[br/][li][b]Statistical pattern classification.[/b] Decision making. Bayesian classification. Parameter estimation. Supervised learning. Clustering.[br/][li][b]Image analysis.[/b] Pixel classification. Contour extraction and representation. Shape. Texture. Snakes and active contours.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image processing II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/imageprocessing.html"," http://bigwww.epfl.ch/teaching/courses/imageprocessing.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Signaux et Systèmes I et II,[br/]Traitement d'images I  (ou équivalent)",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Forme d'enseignement":"Cours ex cathedra, exercices et travaux pratiques sur ordinateur",
+      "Contenu":"[br/][li][b]Revue des notions fondamentales.[/b] Transformée de Fourier multi-dimensionnelle. Convolution. Transformée en z. Filtres numériques.[br/][li][b]Représentation continue de données discrètes.[/b] Splines. Interpolation. Transformations géométriques. Décompositions multi-échelles.[br/][li][b]Transformations d'images.[/b] Transformation de Karhunen-Loève (KLT) et en cosinus (DCT). Codage JPEG. Pyramides. Décomposition en ondelettes.[br/][li][b]Reconstructions à partir de projections.[/b] Scanners aux rayons X. Transformée de Radon. Rétro-projection filtrée. Méthodes itératives.[br/][li][b]Déconvolution.[/b] Filtrage inverse et de Wiener. Formulations matricielles. Méthodes itératives.[br/][li][b]Méthodes statistiques de classification.[/b] Critères de décision. Classification Bayesienne. Estimation. Apprentissage supervisé. Coalescence.[br/][li][b]Analyse d'images.[/b] Classification de pixels. [b]",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Projets de semestre et travail pratique de diplôme",
+      "Objectifs d'apprentissage":"Compréhension et maîtrise des techniques avancées du traitement d'images; imagerie mathématique. Développement en JAVA et mise en oeuvre d'algorithmes de traitement d'images; application à des exemples concrets en vision industrielle et en imagerie biomédicale."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image processing II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

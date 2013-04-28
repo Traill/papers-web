@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352255744&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","444"],
+    "title":"Advanced bioengineering methods laboratory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352255744&ww_x_anneeAcad=2012-2013&ww_i_section=47551840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-B",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199129",
+      "name":"Fantner Georg"
+    },{
+      "url":"http://people.epfl.ch/190693",
+      "name":"Guiducci Carlotta"
+    },{
+      "url":"http://people.epfl.ch/161458",
+      "name":"Radenovic Aleksandra"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Advanced bioengineering methods laboratory",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-935702-42-3&amp;con_lng=ENG\" target=\"blank\">An introduction to error analysis : the study of uncertainties in physical measurements / John R. Taylor</a>\". Year:1997. ISBN:0-935702-42-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-375182-9&amp;con_lng=ENG\" target=\"blank\">Intermolecular and surface forces / Jacob N. Israelachvili</a>\". Year:2011. ISBN:978-0-12-375182-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-904455-46-2&amp;con_lng=ENG\" target=\"blank\">Lab on a chip technology / ed. by Keith E. Herold ... [et al.]</a>\". Year:2009. ISBN:978-1-904455-46-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-40789-7&amp;con_lng=ENG\" target=\"blank\">Surface design: applications in bioscience and nanotechnology / ed. by Renate Förch, Holger Schönherr and Tobias A. Jenkins</a>\". Year:2009. ISBN:978-3-527-40789-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-33918-2&amp;con_lng=ENG\" target=\"blank\">Surface plasmon resonance based sensors / vol. ed.: Ji???­ Homola ; with contr. by J. Dost??lek ... [et al.]</a>\". Year:2006. ISBN:978-3-540-33918-2</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/199129",
+      "name":"Fantner Georg"
+    },{
+      "url":"http://people.epfl.ch/190693",
+      "name":"Guiducci Carlotta"
+    },{
+      "url":"http://people.epfl.ch/161458",
+      "name":"Radenovic Aleksandra"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Biophysics I, Biothermodynamics, Biomicroscopy I, + mandatory courses of M1",
+      "Bibliographie et matériel":"- Handouts given during the course.[br/]Intermolecular and Surface Forces, J. Israelachvili, Academic press[br/]-Surface Plasmon resonance Based Sensors, J.Homola et al., Springer[br/]- Surface Design: Applications in Bioscience and Nanotechnology, R. Forch, H. Schonherr, A.T. Jenkins, Wiley[br/]\"Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements,\" Taylor, John R., 1997, University Science Books,[br/]Optical Trapping Review : K.C. Neuman & S.M. Block, \"Optical trapping,\"[br/]Rev. Sci. Instrum. 75 (2003).[br/]Lab on a Chip Technology, Volume 1: Fabrication and Microfluidics, Keith E. Herold and Avraham Rasooly, Caister Academic Press, 2009",
+      "Forme d'enseignement":"Laboratory practice and classroom data analysis",
+      "Contenu":"The core of the course consists of 5 exercises that are meant to be performed in either 2 or 3 weeks/sessions each for a total of 11 weeks. [br/]The course also comprehends an introduction, instructions on how to write a notebook and on safe laboratory behavior to be held and discussed during the 1st and last week.[br/][br/]Ex 1: The exercise will introduce students to the fundamental elements of moving fluids in lab-on-a-chip (LOC) systems such as flows, pressure driven flow, electroosmotic driven flow, capillary effects, surface forces, mixing and two-phase flow.[br/]Ex 2: In the first part of this lab, students will replicate Perrin's work with modern equipment. Next they will investigate intracellular vesicle transport inside living cells and determine if the vesicle transport is accomplished by Brownian motion or by directed transport[br/]Ex 3: Optical trapping is one of the most successful technology transfers from a physics lab to biology. The goal of this exercise is to provide hands on experience to the bioengineering students of one of the mostly used single molecule technique.[br/]Ex 4: Modern bioanalytics is often based on surface detection of biomolecules. The exercise will explore different techniques for modification of most common biosensor and microbiosensors surfaces, such as gold and glass.[br/]Ex 5: The exercise consists in the employment of label-free biosensors for the observation of binding kinetics. Real-time protein bindings will be observed for different molecules.",
+      "Forme du contrôle":"written exam and continuous control",
+      "Préparation pour":"MASTER",
+      "Objectifs d'apprentissage":"[li] Let the students experience a variety of techniques employed in the bioengineering field and matching a quantitative and technological-based  approach[br/][li] Promote the microtechnology role in the life science community. Mimic a real research project and focusing on components such as keep a proper note book, safe behavior, scientific report writing[br/]"
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Advanced bioengineering methods laboratory",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-935702-42-3&amp;con_lng=FRE\" target=\"blank\">An introduction to error analysis : the study of uncertainties in physical measurements / John R. Taylor</a>\". Année:1997. ISBN:0-935702-42-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-375182-9&amp;con_lng=FRE\" target=\"blank\">Intermolecular and surface forces / Jacob N. Israelachvili</a>\". Année:2011. ISBN:978-0-12-375182-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-904455-46-2&amp;con_lng=FRE\" target=\"blank\">Lab on a chip technology / ed. by Keith E. Herold ... [et al.]</a>\". Année:2009. ISBN:978-1-904455-46-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-40789-7&amp;con_lng=FRE\" target=\"blank\">Surface design: applications in bioscience and nanotechnology / ed. by Renate Förch, Holger Schönherr and Tobias A. Jenkins</a>\". Année:2009. ISBN:978-3-527-40789-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-33918-2&amp;con_lng=FRE\" target=\"blank\">Surface plasmon resonance based sensors / vol. ed.: Ji???­ Homola ; with contr. by J. Dost??lek ... [et al.]</a>\". Année:2006. ISBN:978-3-540-33918-2</li></ul>",
+    "lecture":null
+  }
+}

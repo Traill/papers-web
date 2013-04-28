@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499334061&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","334"],
+    "title":"Digital systems design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499334061&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    },{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Acquire basic knowledge about methodologies and tools for the design of microelectronic systems comprising a wide range of components. Learn how to partition a system into appropriate components and how to plan and integrate a complete digital system using an FPGA platform,  VHDL design tools, as well as embedded microcontrollers. [br/]",
+      "Content":"[b]Design of microelectronic systems[/b][br/]Design views and abstractions, system components and component selection, system partitioning[br/][br/][b]Digital systems[/b][br/]Views and abstractions in digital systems, formalisms for system description, register-transfer-level (RTL) design methodology, translating a high-level (algorithmic) system description into control and datapath architectures, foundations of synchronous digital design, basic architectural transformations, FPGA basics[br/][br/][b]VHDL[/b][br/]VHDL language basics and event-driven simulation, VHDL RTL design, synthesis and verification[br/][br/][b]Architecture of embedded systems[/b][br/]Micro-architecture of embedded processors, anatomy of an embedded system, memory architectures and technologies, interconnection architectures using single and multi-layer buses, key building blocks and I/O peripheral components[br/]",
+      "Type of teaching":"Ex-cathedra with exercises in groups and small projects using FPGA design tools and platforms. [br/]",
+      "Prerequisite for":"TL in Micro and nanoelectronics TP in micro-nano. Hardware System Modeling I, EDA-Based Design[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Digital systems design",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374750-1&amp;con_lng=ENG\" target=\"blank\">Computer organization and design : the hardware/software interface / David A. Patterson, John L. Hennessy ; with contrib. by Perry Alexander ... [et al.]</a>\". Year:2012. ISBN:978-0-12-374750-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-88267-5&amp;con_lng=ENG\" target=\"blank\">Digital integrated circuit design : from VLSI architectures to CMOS fabrication / Hubert Kaeslin</a>\". Year:2008. ISBN:978-0-521-88267-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-38678-2&amp;con_lng=ENG\" target=\"blank\">Embedded system design : a unified hardware/software introduction / Frank Vahid, Tony Givargis</a>\". Year:2002. ISBN:0-471-38678-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-361-3&amp;con_lng=ENG\" target=\"blank\">VHDL : langage, modÃ©lisation, synthÃ¨se / Roland Airiau ... [et al.]</a>\". Year:2004. ISBN:2-88074-361-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-68847-2&amp;con_lng=ENG\" target=\"blank\">VHDL for logic synthesis / Andrew Rushton</a>\". Year:2011. ISBN:978-0-470-68847-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    },{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra avec des exercices en groupe et des petits projets utilisant une plate-forme et des outils de conception FPGA[br/]",
+      "Contenu":"[b]Conception de systèmes microélectroniques[/b][br/]Représentations de la conception, niveaux d'abstraction, types de composants et procédure de sélection, partitionnement du système.[br/][br/][b]Systèmes digitaux[/b][br/]Représentations de la conception et niveaux d'abstraction pour les systèmes digitaux, méthodologie de conception register-transfer-level (RTL), transformation d'une description haut-niveau (algorithmique) d'un système en architectures comprenant un partie contrôle et une partie opérative, bases de la conception synchrone, transformation architecturales de base, introduction aux FPGAs[br/][br/][b]VHDL[/b][br/]Eléments essentiels du langage de modélisation VHDL et usage pour la simulation dirigée par les événements, application de VHDL dans la méthodologie de conception RTL (modélisation, synthèse, vérification)[br/][br/][b]Architecture de systèmes embarqués[/b][br/]Micro-architecture de processeurs embarqués, anatomie d'un système embarqué, architectures et technologies de mémoires, architectures d'interconnexion à base de bus simples ou hiérarchies de bus, composants de base essentiels, périphériques de E/S.[br/]",
+      "Préparation pour":"TP orientation électronique/microélectronique, Hardware System Modeling I, Eda-Based Design",
+      "Bibliographie et matériel":"H. Kaeslin, Digital Integrated Circuit Design: From VLSI Architectures to CMOS Fabrication, Cambridge Univ. Press, 2008[br/]Notes de cours, résumé de la syntaxe VHDL[br/]R. Airiau, et al., VHDL: Langage, modélisation, synthèse, Presses Polytechniques et Universitaires Romandes, 2003[br/]A. Rushton, VHDL for Logic Synthesis, 3rd ed.: Wiley, 2011[br/]D. Patterson and J. L. Henessy, Computer Organization and Design: The Hardware/Software Interface, 3rd ed, Morgan Kaufmann, 2007[br/]F. Vahid, T. Givargis, Embedded System Design: A Unified Hardware/Software Introduction, John Wiley & Sons, 2002",
+      "Objectifs d'apprentissage":"Acquérir des connaissances de base théoriques et pratiques sur les méthodologies et les outils pour la conception de systèmes microélectroniques comprenant une large gamme de composants. Apprendre comment partitionner un système au moyen de composants appropriés et comment organiser et intégrer ces composants dans un système matériel au moyen d'une plate-forme FPGA, d'outils basés sur le langage de modélisation VHDL et de microcontrôleurs embarqués.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conception de systèmes numériques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374750-1&amp;con_lng=FRE\" target=\"blank\">Computer organization and design : the hardware/software interface / David A. Patterson, John L. Hennessy ; with contrib. by Perry Alexander ... [et al.]</a>\". Année:2012. ISBN:978-0-12-374750-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-88267-5&amp;con_lng=FRE\" target=\"blank\">Digital integrated circuit design : from VLSI architectures to CMOS fabrication / Hubert Kaeslin</a>\". Année:2008. ISBN:978-0-521-88267-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-38678-2&amp;con_lng=FRE\" target=\"blank\">Embedded system design : a unified hardware/software introduction / Frank Vahid, Tony Givargis</a>\". Année:2002. ISBN:0-471-38678-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-361-3&amp;con_lng=FRE\" target=\"blank\">VHDL : langage, modÃ©lisation, synthÃ¨se / Roland Airiau ... [et al.]</a>\". Année:2004. ISBN:2-88074-361-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-68847-2&amp;con_lng=FRE\" target=\"blank\">VHDL for logic synthesis / Andrew Rushton</a>\". Année:2011. ISBN:978-0-470-68847-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

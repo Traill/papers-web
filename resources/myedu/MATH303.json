@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24345947&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","303"],
+    "title":"Measure and integration",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24345947&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To give the foundations and the main results in the theory of measure and integration, to render students familiar with different notions of convergence, and to present classes of integral operators in view of its applications in advanced analysis, probability, geometry and mathematical physics.",
+      "Content":"- Measures and measurable functions[br/]- The integral, integrable functions[br/]- Convergence theorems[br/]- Product measures, Fubini's theorem[br/]- Lp-spaces[br/]- Modes of convergence in Lp-spaces[br/]- Convolutions[br/]- Differentiation of functions",
+      "Type of teaching":"Ex cathedra lecture and exrcises",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Analysis III-IV"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Measure and integration",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-691-11386-9&amp;con_lng=ENG\" target=\"blank\">Real analysis : measure theory, integration, and Hilbert spaces / Elias M. Stein, Rami Shakarchi</a>\". Year:2005. ISBN:978-0-691-11386-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138859",
+      "name":"Mountford Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse III-IV[br/]Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"Real Analysis, E.M. Steiner & R. Shakarchi, Princeton Lectures in Analysis",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"- Mesures et fonctions mesurables[br/]- L'intégrale, fonctions intégrables[br/]- Théorèmes de convergence[br/]- Mesure produit, théorème de Fubini[br/]- Espaces Lp[br/]- Notions de convergence dans Lp[br/]- Convolutions[br/]- Dérivation des fonctions",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Donner les bases et les résultats principaux de la théorie de la mesure et de l'intégration, rendre l'étudiant familier avec des notions de convergence et présenter quelques classes d'opérateurs d'intégrales en vue de ses applications à l'analyse avancée, aux probabilités, à la géométrie et à la physique mathématique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mesure et intégration",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-691-11386-9&amp;con_lng=FRE\" target=\"blank\">Real analysis : measure theory, integration, and Hilbert spaces / Elias M. Stein, Rami Shakarchi</a>\". Année:2005. ISBN:978-0-691-11386-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

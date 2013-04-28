@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=78938154&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","265"],
+    "title":"Operations research",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=78938154&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to modeling and solving decision and optimization problems, using operations research tools. Illustration of these tools in the context of engineering sciences.[br/]",
+      "Content":"1.\tLinear programming[br/]\tSimplex method, duality.[br/]\t[br/][br/]2.\tNonlinear programming[br/]\tUnconstrained optimization, optimality conditions, iterative methods.[br/][br/]3.\tIntroduction to graph theory[br/]\tBasic concepts of graph theory, shortest path problem, maximum flow problem, transshipment problem.[br/][br/]4.      Integer linear programming[br/]\tModeling, Branch & Bound, heuristics.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra lectures + exercices",
+      "Form of examination":"Written test (200 min) during the exam session",
+      "Required prior knowledge":"Linear algebra, Probability and statistics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Operations research",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-669-8&amp;con_lng=ENG\" target=\"blank\">Introduction à l'optimisation différentiable / Michel Bierlaire</a>\". Year:2006. ISBN:2-88074-669-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-446-6&amp;con_lng=ENG\" target=\"blank\">Recherche opérationnelle pour ingénieurs / Dominique de Werra, Thomas Liebling, Jean-François Hêche</a>\". Year:2003. ISBN:2-88074-446-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/118332",
+      "name":"Bierlaire Michel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire, Probabilités et statistique",
+      "Bibliographie et matériel":"Bierlaire M. (2006): Introduction à l'optimisation différentiable, PPUR[br/]De Werra, Liebling et Hêche (2003): Recherche opérationnelle pour ingénieurs I, PPUR[br/]",
+      "Forme d'enseignement":"Cours Ex cathedra + séances d'exercices",
+      "Contenu":"1.\tProgrammation linéaire[br/]\tAlgorithme du simplexe, dualité.[br/][br/]\t[br/]2.\tProgrammation non linéaire[br/]\tOptimisation sans contraintes, conditions d'optimalité, méthodes itératives d'optimisation.[br/][br/]3.\tIntroduction à la théorie des graphes[br/]\tConcepts de base de la théorie des graphes, problème du plus court chemin, problème du flot maximal, problème du transbordement.[br/][br/]4.      Programmation linéaire en nombres entiers.[br/]\tModélisation, Branch & Bound, heuristiques.[br/][br/]",
+      "Forme du contrôle":"Epreuve écrite de 200 min durant la session d'examen",
+      "Objectifs d'apprentissage":"Introduction à la modélisation et à la résolution de problèmes de décision et d'optimisation à l'aide des outils de la recherche opérationnelle. Illustration de l'utilisation de ces outils dans les sciences de l'ingénieur"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Recherche opérationnelle",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-669-8&amp;con_lng=FRE\" target=\"blank\">Introduction à l'optimisation différentiable / Michel Bierlaire</a>\". Année:2006. ISBN:2-88074-669-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-446-6&amp;con_lng=FRE\" target=\"blank\">Recherche opérationnelle pour ingénieurs / Dominique de Werra, Thomas Liebling, Jean-François Hêche</a>\". Année:2003. ISBN:2-88074-446-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

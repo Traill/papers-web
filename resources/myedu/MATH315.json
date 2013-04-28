@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230266321&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","315"],
+    "title":"Geometry and groups",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230266321&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181579",
+      "name":"Monod Nicolas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To get acquainted with the interplay between geometry and group theory.[br/]",
+      "Content":"- Metric spaces[br/]- CAT(0) spaces[br/]- Isometries[br/]- Compactifications",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Required prior knowledge":"Topology I, II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geometry and groups",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181579",
+      "name":"Monod Nicolas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"- Espaces métriques[br/]- Espaces CAT(0)[br/]- Isométries[br/]- Compactifications",
+      "Prérequis":"Topologie I, II",
+      "Objectifs d'apprentissage":"Se familiariser avec le dialogue entre géométrie et théorie des groupes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Géométrie et groupes",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

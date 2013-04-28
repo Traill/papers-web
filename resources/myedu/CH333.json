@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1515990124&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","333"],
+    "title":"Target synthesis of building blocks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1515990124&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148571",
+      "name":"Gerber Sandrine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The synthesis of complex natural compounds and analogues requires the development of strategies and tactics for the efficient production of synthons (building blocks) and their assembly. Details of these synthetic approaches combined with a deep discussion on reactivity will be presented through examples from modern research.[br/] [br/]",
+      "Content":"[li] Introduction[br/][li] Strategies and tactics[br/][li] Synthesis of polyketides, polypropionates, terpenes, peptides, carbohydrates and heterocycles[br/][li] Functionalization and assembly of synthons (examples from the literature) "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Target synthesis of building blocks",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30685-4&amp;con_lng=ENG\" target=\"blank\">Classics in total synthesis II : more targets, strategies, methods / K.C. Nicolaou and S.A. Snyder</a>\". Year:2003. ISBN:3-527-30685-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-12-429785-4&amp;con_lng=ENG\" target=\"blank\">Strategic applications of named reactions in organic synthesis : background and detailed mechanisms / László Kürti and Barbara Czakó</a>\". Year:2006. ISBN:0-12-429785-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148571",
+      "name":"Gerber Sandrine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: \"Fonctions et réactions I et II\" ",
+      "Bibliographie et matériel":"\"Classics in total synthesis II\", K.C. Nicolaou, S.A. Snyder, Wiley[br/]\"Strategic applications of named reactions in organic syntheses\", L. Kürti, B. Czakó, Elsevier",
+      "Forme d'enseignement":"Ex cathedra avec séances d'exercices et ateliers de travail intégrés ",
+      "Contenu":"[li] Introduction[br/][li] Stratégies et tactiques[br/][li] Synthèse de polyols, polypropionates, terpènes, peptides, hydrates de carbone et hétérocycles[br/][li] Fonctionnalisation et assemblage de synthons (exemples de la littérature) ",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"La synthèse de substances naturelles complexes et d'analogues nécessite le développement de stratégies et de tactiques pour la préparation efficace de synthons (brique de construction) et leur assemblage. Les détails de ces approches synthétiques combinés avec une discussion approfondie de la réactivité seront présentés à travers des exemples de la recherche moderne. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Rétrosynthèse",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30685-4&amp;con_lng=FRE\" target=\"blank\">Classics in total synthesis II : more targets, strategies, methods / K.C. Nicolaou and S.A. Snyder</a>\". Année:2003. ISBN:3-527-30685-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-12-429785-4&amp;con_lng=FRE\" target=\"blank\">Strategic applications of named reactions in organic synthesis : background and detailed mechanisms / László Kürti and Barbara Czakó</a>\". Année:2006. ISBN:0-12-429785-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

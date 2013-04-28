@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","117"],
+    "title":"Computer-aided engineering I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705560&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148204",
+      "name":"Pellet Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]Learn how to write a small computer program related to an engineering task[br/][li]Get accustomed to commonly used programming and computer science terms and concepts",
+      "Content":"[li]Main programming concepts[br/][tab]- expressions[br/][tab]- conditions (if)[br/][tab]- loops (for, while)[br/][tab]- variables and data types[br/][tab]- arrays[br/][tab]- functions[br/][li]Basics of object oriented programming[br/][li]Simple GUI programming[br/][li]Reading and writing files",
+      "Type of teaching":"Ex-cathedra, with practical exercises on the computer",
+      "Prerequisite for":"Computer-aided engineering II; Information technology for engineers",
+      "Form of examination":"Two written tests during the semester"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computer-aided engineering I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148204",
+      "name":"Pellet Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Transparents du cours. Enoncés des exercices avec corrigés",
+      "Forme d'enseignement":"Ex cathedra et exercices sur ordinateur",
+      "Contenu":"[li]Principaux concepts de programmation[br/][tab]- expressions[br/][tab]- conditions (if)[br/][tab]- boucles (for, while)[br/][tab]- variables et types[br/][tab]- tableaux (arrays)[br/][tab]- fonctions[br/][li]Concepts principaux de la programmation orientée objet[br/][li]Programmation d'interfaces graphiques simples[br/][li]Lecture et écriture de fichiers",
+      "Forme du contrôle":"Deux tests écrits pendant le semestre",
+      "Préparation pour":"Informatique II; Informatique pour l'ingénieur",
+      "Objectifs d'apprentissage":"[li]Apprendre à écrire un petit programme informatique lié à un problème d'ingénierie[br/][li]Se familiariser avec les termes et les concepts courants de la programmation et de l'informatique"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Informatique I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

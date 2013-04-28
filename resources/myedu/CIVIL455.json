@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773822&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","455"],
+    "title":"Infrastructure maintenance management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773822&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100668",
+      "name":"Buri Jean-Daniel"
+    },{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To acquire up to date knowledge on transportation infrastructure degradation and rehabilitation process. To be at ease with modern management methodologies and tools aiming towards minimizing life-cycle costs of road and railway infrastructures. Use of a maintenance management software.",
+      "Content":"[b]1.\tGoals, Objectives, and Areas of Transportation Infrastructure Maintenance:[br/][/b][br/][li]\troad and railway superstructure, components, and behavior under load; structural and functional design[br/][li]\ttechnical and economical optimization on the long term.[br/][br/][br/][b]2.\tMethods for Infrastructure Maintenance [br/]\tManagment[/b]\t[br/][li]\tworks typology, recent tools for maintenance.[br/][li]\tquality control, organization and principles.[br/][li]\tmaintenance and renewal policies (tolerances).[br/][li]\ttraditional and current management process.[br/][li]\toptimization methodology.[br/][br/][b]3.\tData Collection Methods and Means to Check Infrastructure State, and to Formulate Diagnostics and Forecasts:[/b][br/][li]\troad and rail surfaces.[br/][li]\troad and track structure.[br/][br/][b]4.\tDecision Support Systems for Maintenance Planning:[/b][br/][li]\tdatabase design.[br/][li]\tinfrastructures evolution patterns.[br/][li]\tmaintenance and renewal works planning; \"What if\". simulations.[br/][br/][br/][b]5.\tMaintenance Works Programming, Execution and Audit (optimization of resources allocation)[/b][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Infrastructure maintenance management",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100668",
+      "name":"Buri Jean-Daniel"
+    },{
+      "url":"http://people.epfl.ch/105012",
+      "name":"Dumont André-Gilles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Conception des voies de circulation, Réalisation des infrastructures de transport, Systèmes de transports I et II",
+      "Bibliographie et matériel":"Cours polycopiés avec références",
+      "Forme d'enseignement":"Ex cathedra, exercices",
+      "Contenu":"[b]1.\tBut, objectif et champs de la maintenance des infrastructures de transport:[/b][br/][li]\tla voie de circulation, ses composantes et leurs interactions sous l'effet des charges roulantes, dimensionnement.[br/][li]\toptimisation technique et économique sur le long terme.[br/][br/][b]2.\tProcessus de gestion de la maintenance des infrastructures:[/b][br/][li]\ttypologie des travaux, moyens modernes de maintenance.[br/][li]\torganisation et principe de l'assurance qualité.[br/][li]\tpolitique d'entretien et de renouvellement (tolérances)[br/][li]\tprocessus de gestion traditionnel et moderne.[br/][li]\tméthodes d'optimisation.[br/][br/][b]3.\tMéthodes et moyens de collecte d'informations sur l'état des infrastructures pour le diagnostic et la prévision:[br/][/b][br/][li]\tsurface de roulement.[br/][li]\tstructure de la voie de circulation.[br/][br/][b]4.\tSystèmes d'aide à la décision pour la planification de la maintenance (approches heuristiques par systèmes experts, algorithmiques):[/b][br/][li]\tconception des bases de données.[br/][li]\tlois d'évolution des infrastructures.[br/][li]\tplanification des travaux de maintenance, simulations \"what if\".[br/][br/][b]5.\tOrdonnancement, exécution et contrôles des travaux de maintenance (optimisation de l'allocation des ressources)[/b]",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Acquisition des connaissances récentes sur les processus de dégradation et de restauration des infrastructures de transport. Maîtrise des méthodes et instruments modernes de gestion visant à minimiser les coûts de maintenance sur le cycle de vie des infrastructures routières et ferroviaires. Utilisation d'un logiciel de gestion de la maintenance."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Gestion de la maintenance des infrastructures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

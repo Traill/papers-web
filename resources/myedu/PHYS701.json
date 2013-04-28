@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127760073&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","701"],
+    "title":"Advanced cosmology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127760073&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184699",
+      "name":"Lesgourgues Julien"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Cosmology became a precise, testable area of physics a few years ago, thanks to fascinating observations of anisotropies in the Cosmic Microwave Background (CMB), of the distribution of Large Scale Structure (LSS), etc. The goal of this course is to study the cosmological evolution of our universe at a sufficiently detailed level for being able to understand these observations and their implications for high energy physics.[br/]",
+      "Content":"After recalling briefly the global evolution of our universe and its thermal history (as-sumed to be known for most students), we will introduce the notion of general-relativistic cosmological perturbations, which need to be studied statistically with appropriate tools. We will review the evolution of these perturbations during differ-ent stages in the universe evolution, starting from inflation. We will infer the shape of the main observables, and their dependence on the various physical ingredients present in the cosmological scenario. We will present the latest CMB and LSS obser-vations, and the corresponding constrains on cosmological parameters. Finally, we will suggest practical methods for testing high energy physics assumptions through cosmological observations.[br/]",
+      "Keywords":"Cosmology[br/]",
+      "Required prior knowledge":"General Relativity; some basics on Quantum Field Theory (free field); in option, a general course on Cosmology.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced cosmology",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184699",
+      "name":"Lesgourgues Julien"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced cosmology",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

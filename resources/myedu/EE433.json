@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24102543&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","433"],
+    "title":"Hardware systems modeling II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24102543&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lsm.epfl.ch/page13583.html","http://lsm.epfl.ch/page13583.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Lecture notes, VHDL-AMS syntax summary",
+      "Required prior knowledge":"Computer tools (VHDL Module); Hardware systems modeling I",
+      "Content":"[b]Introduction[/b][br/]Models in electronic design automation. Hardware description languages. Analog and mixed-signal simulation techniques.[br/][br/][b]The VHDL-AMS language[/b][br/]VHDL-AMS characteristics (language, design flow, modeling guidelines). VHDL-AMS model organization. Behavioural and structural VHDL-AMS modeling.[br/][br/][b]Modeling of analog components[/b][br/]Electrical primitives. Operational amplifier, OTA. Filters. PLL. Testbenches and verification techniques.[br/][br/][b]Modeling of mixed-signal components[/b][br/]A/D and D/A interfaces. A/D and D/A converters. PLL. CDR. Testbenches and verification techniques.",
+      "Type of teaching":"Ex cathedra with integrated exercises",
+      "Learning outcomes":"[br/][li]To be able to create VHDL-AMS models of analog and mixed-signal components for simulation.[br/][li]To be able to create testbench models and to use verification techniques.[br/][li]To learn modeling guidelines.[br/][li]To get a reference library of VHDL-AMS models.[br/][li]To get a working knowledge of a VHDL-AMS simulation tool."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hardware systems modeling II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lsm.epfl.ch/page13583.html","http://lsm.epfl.ch/page13583.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Outils informatiques (module VHDL)[br/]Hardware systems modeling I",
+      "Bibliographie et matériel":"Notes polycopiées, précis de syntaxe VHDL-AMS",
+      "Forme d'enseignement":"Cours avec exemples et exercices pratiques intégrés",
+      "Contenu":"[b]Introduction[/b][br/]Notion de modèle et de langages de description de matériel. Techniques de la simulation analogique et mixte.[br/][br/][b]Le langage VHDL-AMS[/b][br/]Caractéristiques de VHDL-AMS (langage, flot de conception, règles de modélisation). Organisation d'un modèle VHDL-AMS. Modélisation comportementale et structurelle analogique et mixte.[br/][br/][b]Modélisation de composants analogiques[/b][br/]Primitives électriques. Amplificateur opérationnel, OTA. Filtres. PLL. Modèles de test et techniques de vérification.[br/][br/][b]Modélisation de composants mixtes[/b][br/]Interfaces A/N et N/A. Convertisseurs A/N et N/A. PLL. CDR. Modèles de test et techniques de vérification.",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"[br/][li]Etre capable de créer des modèles VHDL-AMS de composants analogiques et mixtes pour la simulation.[br/][li]Etre capable de créer des modèles de test et d'appliquer des techniques de vérification.[br/][li]Acquérir des règles de modélisation.[br/][li]Disposer d'une bibliothèque de modèles VHDL-AMS.[br/][li]Obtenir une connaissance pratique d'un outil de simulation VHDL-AMS."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hardware systems modeling II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

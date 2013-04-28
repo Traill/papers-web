@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774812&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","523"],
+    "title":"Optical radiation detection methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774812&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["S.M. Sze, Kwok K. Ng, « Physics of semiconductor devices » Wiley","http://onlinelibrary.wiley.com/book/10.1002/0470068329"],["Saleh, Teich: \"Fundamentals of photonics\", Wiley Interscience, Chapitre 17","http://onlinelibrary.wiley.com/book/10.1002/0471213748"],["Vidéo de présentation","https://documents.epfl.ch/users/i/im/imorel/www/film-MDO.wmv"],["Seitz, Theuwissen: \"single photon imaging\", Springer series in optical sciences, 2011","http://www.springerlink.com/content/978-3-642-18442-0/contents/"],["Ohta: \"CMOS image sensors and application\", CRC Press, 2007","http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=book&isbn=0849336813"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104526",
+      "name":"Besse Pierre-André"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"- The students will be able to describe and to analyse the basic characteristics of optical detectors[br/]- The will explain the working principle of the main optical sensors[br/]- They will develop physical models for the different components and they will infer the fundamental equations describing their behavior[br/]- They will analyze the detection principles in order to optimize the single pixel and elaborate cameras adapted to various applications[br/]- They will learn to read and understand the datasheets of commercial optical detectors.",
+      "Content":"[b]1. Introduction[/b][br/]Electromagnetic radiation, radiometric quantities, interaction of light with matter, classification of detectors, noise sources, detector figures of merit.[br/][b]2. Opticla methods: few exemples[/b][br/]Synchrone detection and interferometers, position sensors, 3D imaging, Fourier optics and microscopy, spectral measurements.[br/][b]3. Thermal detectors[/b][br/]Basic relationships, bolometers, thermocouples, pyroelectric detectors, applications.[br/][b]4. Photoemissive detectors[/b][br/]External photoeffect, vacuum photodiodes, photomultipliers, microchannels, applications[br/][b]5. Photovoltaic detectors[/b][br/]Photodiodes (p-n diodes, p-i-n diodes, schottky diodes), avalanche photodiodes, noise sources, ultimate limits of photovoltaic photodectection, interface electronics, applications.[br/][b]6. Photoconductive detectors[/b][br/]Photoconductivity, photoconductors, noise sources, applications.[br/][b]7. Line and area image sensors[/b][br/]- Charge Coupled Devices (CCD): CCD principles and building blocks,[br/]- CCD charge transport and image sensor architectures[br/]- CMOS based Image sensors: Photocharge detection, photodiodes in CMOS, traditional MOS photodiodes array sensor architectures, noise in photo detection systems, the APS (Active Pixel Sensor)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optical radiation detection methods",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=ENG\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Year:2007. ISBN:978-0-471-35832-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-53794-7&amp;con_lng=ENG\" target=\"blank\">Semiconductor devices : physics and technology / S.M. Sze</a>\". Year:2012. ISBN:978-0-470-53794-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7923-3456-6&amp;con_lng=ENG\" target=\"blank\">Solid-state imaging with charge-coupled devices / by Albert J. P. Theuwissen</a>\". Year:1996. ISBN:0-7923-3456-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["S.M. Sze, Kwok K. Ng, « Physics of semiconductor devices » Wiley","http://onlinelibrary.wiley.com/book/10.1002/0470068329"],["Saleh, Teich: \"Fundamentals of photonics\", Wiley Interscience, Chapitre 17","http://onlinelibrary.wiley.com/book/10.1002/0471213748"],["Vidéo de présentation","https://documents.epfl.ch/users/i/im/imorel/www/film-MDO.wmv"],["Seitz, Theuwissen: \"single photon imaging\", Springer series in optical sciences, 2011","http://www.springerlink.com/content/978-3-642-18442-0/contents/"],["Ohta: \"CMOS image sensors and application\", CRC Press, 2007","http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=book&isbn=0849336813"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104526",
+      "name":"Besse Pierre-André"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Bachelor en microtechnique ou bachelor en génie électrique et électronique. Cours \"physique III et IV\", \"composants semiconducteurs\", \"électronique I et II\", \"ingénierie optique I\", \"capteurs\".",
+      "Bibliographie et matériel":"- Notes de cours, site web sur http://moodle.epfl.ch/ et urls ci-dessous[br/]- Version papier : A. Theuwissen: \"Solid-state imaging with charge-coupled devices\", Kluwer academic Publishers, 1995",
+      "Forme d'enseignement":"Exposé oral, exercices, séminaires.",
+      "Contenu":"Vidéo de présentation : url ci-dessous[br/][br/][b]1. Introduction[/b][br/]Radiations électromagnétiques, quantités radiométriques, interactions lumière/matière, classification des détecteurs, sources de bruit, détectivité.[br/][b]2. Méthodes optiques : exemples choisis[/b][br/]Détection synchrone et interférométrie, senseurs de position, images 3D, optique de Fourier et microscopie, mesures spectrales.[br/][b]3. Détecteurs thermiques[/b][br/]Relations de base, bolomètres, thermocouples, détecteurs pyroélectriques, applications.[br/][b]4. Détecteurs photoémissifs[/b][br/]Photoeffet externe, photodiode à vide, photomultiplicateurs, microcanaux, applications.[br/][b]5. Détecteurs Photovoltaïcs[/b][br/]Photodiodes (p-n, p-i-n, shottky), photodiodes avalanches, sources de bruit, limites ultimes pour les détecteurs photovoltaïcs, interface électronique, applications[br/][b]6. Photoconducteurs[/b][br/]Photoconductivité, photoconducteurs, sources de bruit, applications.[br/][b]7. Capteurs d'images en ligne ou en réseau[/b][br/]- capteurs à couplage de charge (CCD): principe CCD et composants[br/]- transport de charge et architecture du senseur CCD[br/]- capteurs d'image CMOS: détection, photodiode en CMOS, architectures traditionnelles à base de photodiodes MOS, bruit dans les système de photodétection, APS.",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"- Les étudiants seront capables de décrire et d'interpréter les caractéristiques de base des détecteurs optiques.[br/]- Ils expliqueront le fonctionnement des principaux capteurs.[br/]- Ils développeront les modèles physiques pour les différents composants et en déduiront les équations fondamentales décrivant leur comportement. [br/]- Ils analyseront les principes de détection pour optimiser le pixel de base et concevoir des caméras adaptées aux diverses applications.[br/]- Ils apprendront à lire et à interpréter les datasheets des détecteurs optiques du commerce."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Méthodes de détection optique",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=FRE\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Année:2007. ISBN:978-0-471-35832-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-53794-7&amp;con_lng=FRE\" target=\"blank\">Semiconductor devices : physics and technology / S.M. Sze</a>\". Année:2012. ISBN:978-0-470-53794-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7923-3456-6&amp;con_lng=FRE\" target=\"blank\">Solid-state imaging with charge-coupled devices / by Albert J. P. Theuwissen</a>\". Année:1996. ISBN:0-7923-3456-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

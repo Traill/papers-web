@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776512&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","331"],
+    "title":"Asymmetric synthesis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776512&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181574",
+      "name":"Waser Jérôme"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Organic stereochemistry, modern methods for the synthesis of[br/]enantiomerically enriched organic compounds of biological        interest.",
+      "Content":"[b]1. Introduction[/b][br/][br/][u]Bloc I : Concepts of Stereochemistry[/u][br/][br/][b]2. Chirality and Asymmetric Synthesis [/b][br/]- Definitions and nomenclature[br/]- Determination and importance of chirality[br/]- Generation of enantiopure compounds[br/][br/][b]3. Conformational Analysis [/b][br/]- Alkanes[br/]- Alkenes[br/]- Cyclic systems[br/]- Stereoelectronic effects [br/][br/][u]Bloc II : Stereoselective chemistry of alkenes [/u][br/][br/][b]4. Synthesis and Functionalization of Alkenes[/b][br/]- Stereoselective synthesis of alkenes[br/]- Reduction of alkenes[br/]- Oxydation of alkenes[br/][br/][u]Bloc III : Stereoselective Chemistry of Carbonyls[/u][br/][br/][b]5. Addition on carbonyls[/b][br/]- Concepts and models[br/]- Reactions not following Felkin-Ahn[br/]- Allylation of carbonyls[br/][br/][b]6. Generation and reactivity of enolates[/b][br/]- Stereoselective generation of enolates[br/]- Chiral auxiliaries and enolate alkylation[br/][br/][b]7. Aldol Reactions[/b][br/]- Importance and polyketide biosynthesis[br/]- Zimmermann-Traxler and Mukaiyama[br/]- Chiral auxiliaries[br/]- Ketone enolates[br/]- Catalytic aldol reactions[br/][br/][b]8. Chemistry of Imines and Enamines[/b][br/][br/][b]9. Conjugate Addition[/b][br/][br/][b]10. Example of Synthesis (Discodermolide)[/b][br/] "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Asymmetric synthesis",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181574",
+      "name":"Waser Jérôme"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module de chimie synthétique et analytique",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Fonctions et réactions organiques I et II\" ou cours équivalent",
+      "Bibliographie et matériel":"Cours au tableau noir.[br/]Script contenant les modèles généraux importants pour les réactions. Exemples illustrateurs vus au cours",
+      "Forme d'enseignement":"Ex cathedra avec séances d'exercices",
+      "Contenu":"[b]1. Introduction[/b][br/][br/][u]Bloc I : Concepts de stéréochimie[/u][br/][br/][b]2. Chiralité et synthèse asymétrique[/b] [br/]- Définitions et nomenclature[br/]- Détermination et importance de la chiralité[br/]- Génération de composés énantiomériquement purs[br/][br/][b]3. Analyse conformationelle[/b][br/]- Alcanes[br/]- Alcènes[br/]- Systèmes cycliques[br/]- Effets stéréoélectroniques [br/][br/][u]Bloc II : Chimie stéréoselective des alcènes [/u][br/][br/][b]4. Synthèse et fonctionnalisation des alcènes[/b][br/]- Synthèse stéréosélective des alcènes[br/]- Réduction des alcènes[br/]- Oxydation des alcènes[br/][br/][u]Bloc III : Chimie stéréoselective des carbonyles[/u][br/][br/][b]5. Addition sur les carbonyles[/b][br/]- Concepts et modèles[br/]- Réactions ne suivant pas Felkin-Ahn[br/]- Allylations des Carbonyles[br/][br/][b]6. Génération et réactivité des énolates[/b][br/]- Génération stéréoselective des énolates[br/]- Auxiliaires chiraux et alkylation des énolates[br/][br/][b]7. Réactions aldoliques[/b][br/]- Importance et biosynthèse des polycétides[br/]- Zimmermann-Traxler et Mukaiyama[br/]- Auxiliaires chiraux[br/]- Enolates de cétones[br/]- Réactions aldoliques catalytiques[br/][br/][b]8. Chimie des imines et des énamines[/b][br/][br/][b]9. Addition conjuguée[/b][br/][br/][b]10. Exemple de synthèse (discodermolide)[/b][br/] ",
+      "Objectifs d'apprentissage":"Stéréochimie organique, méthodes de synthèse modernes de la synthèse asymétrique de produits d'intérêt biologique. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Synthèse asymétrique",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

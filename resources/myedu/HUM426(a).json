@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580216797&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["HUM","426(a)"],
+    "title":"History of technologies I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580216797&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167290",
+      "name":"Humair Cédric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"[b]Lecturers :[/b][br/]Cédric Humair, MER, Nicolas Chachereau, dipl. assistant (Section d'histoire UNIL)",
+      "Form of examination":"Evaluation on a semestrial basis by a grade associated to 3 ECTS. Fall semester evaluation is about knowledge acquisition (written exam in semester) and oral group presentation (using power point) of an scientific paper. Spring semester evaluation is about the elaboration of a group project. More information is given at the beginning of the academic year.",
+      "Bibliography and material":"- FAVEZ Jean-Claude, MYSYROWICZ Ladislas (éd.), [i]Le nucléaire en Suisse[/i], Lausanne, L'Age d'Homme, 1987.[br/]- HUG Peter, \"La genèse de la technologie nucléaire en Suisse\", in [i]Relations internationales[/i], 68, hiver 1991, pp.325-344.[br/]- JOYE-CAGNARD, [i]La construction de la politique de la science en Suisse. Enjeux scientifiques, stratégies et politiques[/i] (1944-1974), Neuchâtel : Alphil, 2010.[br/]- KUPPER Patrick, [i]Atomenergie und gespaltene Gesellschaft. Die Geschichte des gescheiterten Projektes Kernkraftwerk Kaiseraugst[/i], Zürich, Chronos, 2003.[br/]- WILDI Tobias, [i]Der Traum vom eigenen Reaktor. Die schweizerische Atomtechnologieentwicklung 1945-1968[/i], Zürich, Chronos, 2003.",
+      "Content":"[b](Hi)stories of technologies : from innovation to use. Swiss nuclear technology in debate (1945-2000)[/b][br/][br/][i]General goals[/i]: [br/]- to introduce students to the social and cultural dimensions that shape the life cycle of a specific technology: innovation, technological transfer, social diffusion, etc.[br/]- to develop students' critical thinking.[br/]- to improve students' abilities to synthesize, analyze and comment information[br/][br/][i]Content summary[/i]: [br/]Case studies about innovation, technology trans-fer, social diffusion of technologies.[br/][br/][i]Teaching plan[/i]:[br/]- First semester[br/][tab]Lecture course: introduction to the history of technology[br/][tab]Seminar: students choose a scientific article and present it to their peers[br/]- Second semester[br/][tab]Project: group research linked to a specific issue in Swiss nuclear energy history",
+      "Keywords":"Technology, history, energy, nuclear energy, energy policy",
+      "Type of teaching":"First semester: lecture course + seminar[br/]Second semester: research project (groups)",
+      "Learning outcomes":"At the end of the teaching, students will be able to:[br/][br/][li]present synthetically a historical analysis about a technology;[br/][li]examine discourses of historical actors and commentators critically;[br/][li]find relevant information concerning a historical issue; [br/][li]identify actors and stakes in a socio-technological debate."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"History of technologies I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/167290",
+      "name":"Humair Cédric"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Langue d'enseignement[/b] :[br/]Français[br/][br/][b]Enseignants[/b] :[br/]Cédric Humair, MER, Nicolas Chachereau,.  Assistant diplômé (Section d'histoire UNIL).",
+      "Bibliographie et matériel":"- FAVEZ Jean-Claude, MYSYROWICZ Ladislas (éd.), [i]Le nucléaire en Suisse[/i], Lausanne, L'Age d'Homme, 1987.[br/]- HUG Peter, \"La genèse de la technologie nucléaire en Suisse\", in [i]Relations internationales[/i], 68, hiver 1991, pp.325-344.[br/]- JOYE-CAGNARD, [i]La construction de la politique de la science en Suisse. Enjeux scientifiques, stratégies et politiques[/i] (1944-1974), Neuchâtel : Alphil, 2010.[br/]- KUPPER Patrick, [i]Atomenergie und gespaltene Gesellschaft. Die Geschichte des gescheiterten Projektes Kernkraftwerk Kaiseraugst[/i], Zürich, Chronos, 2003.[br/]- WILDI Tobias, [i]Der Traum vom eigenen Reaktor. Die schweizerische Atomtechnologieentwicklung 1945-1968[/i], Zürich, Chronos, 2003.",
+      "Mots clés":"Technologie, histoire, énergie, nucléaire, politique énergétique.",
+      "Forme d'enseignement":"1er semestre : cours-séminaire[br/]2ème semestre : projet de recherche en groupe",
+      "Contenu":"[b]Histoires de technologies : de l'innovation à l'usage. Le nucléaire suisse en débats (1945-2000)[/b][br/][br/][i]Objectifs généraux [/i]:[br/]- Sensibiliser les étudiant-e-s à la dimension sociale et culturelle des différentes étapes de vie d'une technologie. [br/]- Développer l'esprit critique des étudiant-e-s. [br/]- Développer la capacité de traitement de l'information : synthétiser, hiérarchiser, commenter.[br/][i]Descriptif général de la matière[/i][br/]Analyse de cas : innovation, transfert de technologie, diffusion sociale, etc.[br/][i]Plan du cours[/i] :[br/]- 1er semestre :[br/][tab]Cours: introduction à l'Histoire des techniques.[br/][tab]Séminaire : les étudiant-e-s choisissent un article scientifique et le présentent aux[br/][tab]autres étudiant-e-s.[br/]- 2ème semestre :[br/][tab]Projet : travail en groupe sur une problématique liée à l'énergie nucléaire en Suisse.",
+      "Forme du contrôle":"Le travail est évalué sur une base semestrielle par une note et vaut 3 ECTS par semestre. L'évaluation du premier semestre porte sur l'acquisition de connaissances (test écrit en semestre) et la présentation orale et en groupe d'un article scientifique sur la base d'un PowerPoint. L'évaluation du semestre de printemps porte sur l'élaboration en groupe d'un rapport de recherche.[br/]Des précisions sur les modalités et les critères d'évaluation seront données en début d'année académique.",
+      "Objectifs d'apprentissage":"A la fin du cours les étudiant-e-s seront capables de :[br/][li]présenter de manière synthétique l'analyse historique d'une technologie.[br/][li]d'examiner le discours d'acteurs historiques et d'historiens de manière critique.[br/][li]trouver l'information nécessaire à l'analyse d'une problématique historique.[br/][li]identifier les acteurs et les enjeux d'un débat socio-technologique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Histoire des technologies I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

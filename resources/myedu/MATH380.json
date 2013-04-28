@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774862&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","380"],
+    "title":"Mathematical methods for physics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774862&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106090",
+      "name":"Pfister Charles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Weekly exercise in the classroom. Oral exam",
+      "Bibliography and material":"Boks advised in the course",
+      "Prerequisite for":"Quantum Mechanics",
+      "Required prior knowledge":"Analysis I to IV",
+      "Content":"I.\tMetric space, normed linear space.[br/]II.\tHilbert space.[br/]III.\tElements of [i]L[sup]2[/sup][/i] theory.[br/]IV.\tSpectral analysis I (bounded operators).[br/]V.   Spectral analysis II (self-adjoint operators)",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Learning outcomes":"The course is an introduction to functional analysis. Its goal is to expose the basic mathematics of quantum mechanics."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematical methods for physics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106090",
+      "name":"Pfister Charles"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Analyse I à IV",
+      "Bibliographie et matériel":"Ouvrages conseillés au cours.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe",
+      "Contenu":"I.\tEspace métrique, espace vectoriel normé.[br/]II.\tEspace de Hilbert.[br/]III.\tEléments de la théorie des espaces [i]L[sup]2[/sup][/i].[br/]IV.\tAnalyse spectrale I (opérateurs bornés).[br/]V.\tAnalyse spectrale II (opérateurs auto-adjoints).",
+      "Forme du contrôle":"Exercice hebdomadaire en classe. Examen oral",
+      "Préparation pour":"Mécanique quantique",
+      "Objectifs d'apprentissage":"Le cours est une introduction à l'analyse fonctionnelle, dans le but d'approfondir les bases mathématiques de la mécanique quantique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Méthodes mathématiques de la physique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775047&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","321"],
+    "title":"Numerical modelling of solids and structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775047&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178549",
+      "name":"Molinari Jean-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to learn the basic theory of finite elements, understand its implementation and its use in engineering practice.[br/][br/]",
+      "Content":"[br/][li]\tIntroduction to finite elements on a 1D model-problem; boundary conditions; strong and weak forms, Galerkin and matrix forms of equilibrium.[br/][li]\tContinuum and structural elements; interpolation; convergence criteria; stiffness matrix; consistent nodal forces; stress recovery.[br/][li]\tC° elements; shape functions; isoparametric elements; numerical integration.[br/][li]\tProgramming the finite element method[br/][li]\tApplications of the finite element method in civil engineering.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Numerical modelling of solids and structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-463-6&amp;con_lng=ENG\" target=\"blank\">Analyse des structures et milieux continus : méthode des éléments finis / François Frey, Jaroslav Jirousek</a>\". Year:2001. ISBN:2-88074-463-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-41181-8&amp;con_lng=ENG\" target=\"blank\">The finite element method : linear static and dynamic finite elment analysis / Thomas J.R. Hughes</a>\". Year:2000. ISBN:0-486-41181-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178549",
+      "name":"Molinari Jean-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Connaissances d'algèbre linéaire et d'analyse numérique, de programmation, et de  mécanique des structures et solides",
+      "Bibliographie et matériel":"Livre (PPUR): TGC Vol. 6.[br/]The finite element method.T.J.R.Hughes, Dover.[br/]Open source FE software.[br/]",
+      "Forme d'enseignement":"Ex cathedra; moyens audiovisuels; exercices théoriques et sur ordinateur.",
+      "Contenu":"[br/][li]\tNotion d'élément fini, exemple unidimensionnel; conditions aux limites; formes différentielle (forte) et intégrale (faible), forme de Galerkin et forme matricielle de l'équilibre.[br/][li]\tEléments solides et éléments de structures, interpolation; convergence, rigidité, forces nodales équivalentes et calcul des contraintes.[br/][li]\tEléments C°, fonctions de forme, transformation isoparamétrique, intégration numérique.[br/][li]\tChoix des champs; interpolation; méthode de Galerkin; critères de convergence; étude de l'élément du modèle déplacement; matrice de rigidité; forces aux noeuds; calcul des contraintes.[br/][li]\tInterpolation Co; éléments solides plans et spatiaux; transformation isoparamétrique; intégration numérique.[br/][li]\tEléments structuraux du type barre et poutre; théories de Bernoulli et Timoshenko.[br/][li]\tMéthode des déplacements : assemblage, réactions, résolution, énergie.[br/][li]\tConvergence et erreur.[br/][li]\tModélisation; discrétisation; extensions et valeur de la méthode des éléments finis. [br/]",
+      "Préparation pour":"Cours de construction; dynamique; structures 3D, analyse non linéaire, laboratoires (techniques informatiques), Projet de Master",
+      "Objectifs d'apprentissage":"Comprendre la méthode de modélisation numérique par éléments finis; acquérir ses bases théoriques, comprendre sa mise en oeuvre et l'usage d'un logiciel éléments finis pour résoudre les problèmes de la pratique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modélisation numérique des solides et structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-463-6&amp;con_lng=FRE\" target=\"blank\">Analyse des structures et milieux continus : méthode des éléments finis / François Frey, Jaroslav Jirousek</a>\". Année:2001. ISBN:2-88074-463-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-41181-8&amp;con_lng=FRE\" target=\"blank\">The finite element method : linear static and dynamic finite elment analysis / Thomas J.R. Hughes</a>\". Année:2000. ISBN:0-486-41181-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

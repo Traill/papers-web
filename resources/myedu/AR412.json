@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2182821&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","412"],
+    "title":"Computered modelisation and representation II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2182821&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Special matter, pratical applications. Methodological principles in continuity with the objectives of Computered modelisation and representation I.[br/][br/]",
+      "Content":"Development and in continuity with the course Computered modelisation and representation I."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computered modelisation and representation II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours. Séminaires.",
+      "Contenu":"Approfondissement et prolongement de l'enseignement dispensé dans le cours Modélisation et représentation informatique I.[br/][br/][br/]",
+      "Objectifs d'apprentissage":"Questions particulières, applications pratiques. Principes méthodologiques en rapport direct avec les objectifs de Modélisation et représentation informatique I.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modélisation et représentation informatique II",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

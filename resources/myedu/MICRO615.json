@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=551537845&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","615"],
+    "title":"Reliability of MEMS (EDOC)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=551537845&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The student will gain a fundamental understanding of the principal mechanical and electrical failure modes of a variety of microsystems. He/She will learn how to accelerate those failures, and hence predict and improve the lifetime of microsystems. The student will adopt a design-for-reliability approach by concurrently developing design, fabrication, and packaging strategies to maximize the reliability of a microsystem.",
+      "Content":"[li] Reliability Statistics and Modeling: Accelerated testing, bathtub curve, standard statistical models and applicability to microsystems.[br/][li] Tools and Techniques: Measurement and characterization techniques needed to measure microsystems for accelerated testing. [br/][li] Electrical Reliability of MEMS: Open and short circuits, dielectric charging and breakdown, corrosion, ESD, electromigration. Reliability in the microelectronics field will presented and contrasted with reliability in microsystems. Techniques to improve lifetime [br/][li] Mechanical Reliability of MEMS: Stiction, friction, wear, fatigue, crack growth, creep, effect of shock and vibration, delamination. Discussion of how to accelerate and therefore how to eliminate failure modes by improved design, packaging, materials choice, actuation technique.[br/][li] Design for Reliability Paradigm: Design rules and multidisciplinary approach to building reliability into the microsystem from the beginning.[br/]",
+      "Keywords":"Reliabilty, MEMS, mechanical failure modes, electrical failure modes.",
+      "Note":"Held in Neuchâtel",
+      "Required prior knowledge":"Understanding of main MEMS sensing and actuation principles"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Reliability of MEMS (EDOC)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Held in Neuchâtel",
+      "Contenu":"[li] Reliability Statistics and Modeling: Accelerated testing, bathtub curve, standard statistical models and applicability to microsystems.[br/][li] Tools and Techniques: Measurement and characterization techniques needed to measure microsystems for accelerated testing. [br/][li] Electrical Reliability of MEMS: Open and short circuits, dielectric charging and breakdown, corrosion, ESD, electromigration. Reliability in the microelectronics field will presented and contrasted with reliability in microsystems. Techniques to improve lifetime [br/][li] Mechanical Reliability of MEMS: Stiction, friction, wear, fatigue, crack growth, creep, effect of shock and vibration, delamination. Discussion of how to accelerate and therefore how to eliminate failure modes by improved design, packaging, materials choice, actuation technique.[br/][li] Design for Reliability Paradigm: Design rules and multidisciplinary approach to building reliability into the microsystem from the beginning.[br/]",
+      "Mots clés":"Reliabilty, MEMS, mechanical failure modes, electrical failure modes.",
+      "Prérequis":"Understanding of main MEMS sensing and actuation principles",
+      "Objectifs d'apprentissage":"The student will gain a fundamental understanding of the principal mechanical and electrical failure modes of a variety of microsystems. He/She will learn how to accelerate those failures, and hence predict and improve the lifetime of microsystems. The student will adopt a design-for-reliability approach by concurrently developing design, fabrication, and packaging strategies to maximize the reliability of a microsystem."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Reliability of MEMS (EDOC)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

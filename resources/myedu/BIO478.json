@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71934802&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","478"],
+    "title":"Pharmacology and pharmacokinetics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71934802&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181287",
+      "name":"Firsov Dmitri"
+    },{
+      "url":"http://people.epfl.ch/172784",
+      "name":"Kellenberger Stephan Beat"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    },{
+      "url":"http://people.epfl.ch/195416",
+      "name":"Rossier Bernard"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pharmacology and pharmacokinetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4511-1805-6&amp;con_lng=ENG\" target=\"blank\">Principles of pharmacology : the pathophysiologic basis of drug therapy / David E. Golan ... [et al.]</a>\". Year:2012. ISBN:978-1-4511-1805-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7020-3471-8&amp;con_lng=ENG\" target=\"blank\">Rang and Dale's pharmacology / H.P. Rang ...[et al.]</a>\". Year:2012. ISBN:978-0-7020-3471-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181287",
+      "name":"Firsov Dmitri"
+    },{
+      "url":"http://people.epfl.ch/172784",
+      "name":"Kellenberger Stephan Beat"
+    },{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    },{
+      "url":"http://people.epfl.ch/195416",
+      "name":"Rossier Bernard"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bachelor in Life Sciences and Technology or equivalent, i.e. physiology, cell and molecular biology, maths",
+      "Bibliographie et matériel":"Handouts and reference publications will be given during the course or placed on the moodle site of the course.[br/]Most of the topics are covered in the following reference textbooks:[br/][li]\"Rang and Dale's pharmacology \" by H.P. Rang et al., Elsevier/Churchill Livingstone, 2011[br/][li]\"Principles of Pharmacology\" by DE Golan et al., Lippincott Williams & Wilkins, 2008. [br/]",
+      "Forme d'enseignement":"Ex Cathedra and E-learning",
+      "Contenu":"[li] Introduction to Pharmacology and general topics of pharmacology[br/][li] Pharmacodynamics: Drug-target interaction, quantitative description of ligand binding, relationship between ligand binding and functional effect, antagonism; exercises[br/][li] Classes of drug targets: functional and structural aspects, strategies of drug targeting; examples[br/][li] Pharmacokinetics: principal models and parameters, Drug Absorption, Distribution, Metabolism and Excretion (ADME)[br/][li] Chronopharmacology: effect of circadian rhythm on drug action[br/][li] Pharmacogenetics: candidate genes for variable drug response.[br/][li] Toxicology (e-learning): toxicity mechanisms, risk evaluation, descriptive toxicology[br/][li] Online auto-evaluation questionnaires  [br/][li] Article-based and case-based learning (pharmacokinetics modeling)[br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"This course introduces the basic concepts of pharmacology, including pharmacodynamics, pharmacokinetics, pharmacogenetics and chrono-pharmacology. These topics will be illustrated by a range of concrete biomedical examples as well as by a series of exercises on drug-receptor interactions. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pharmacology and pharmacokinetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4511-1805-6&amp;con_lng=FRE\" target=\"blank\">Principles of pharmacology : the pathophysiologic basis of drug therapy / David E. Golan ... [et al.]</a>\". Année:2012. ISBN:978-1-4511-1805-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7020-3471-8&amp;con_lng=FRE\" target=\"blank\">Rang and Dale's pharmacology / H.P. Rang ...[et al.]</a>\". Année:2012. ISBN:978-0-7020-3471-8</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

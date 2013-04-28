@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229738163&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","565"],
+    "title":"Fundamentals and processes for photovoltaic devices",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229738163&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100192",
+      "name":"Ballif Christophe"
+    },{
+      "url":"http://people.epfl.ch/190027",
+      "name":"De Wolf Stefaan"
+    },{
+      "url":"http://people.epfl.ch/114975",
+      "name":"Sculati-Meillaud Fanny"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals and processes for photovoltaic devices",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100192",
+      "name":"Ballif Christophe"
+    },{
+      "url":"http://people.epfl.ch/190027",
+      "name":"De Wolf Stefaan"
+    },{
+      "url":"http://people.epfl.ch/114975",
+      "name":"Sculati-Meillaud Fanny"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"First part : the students will be introduced to the physics of solar cells and photodectectors. They will learn how to describe the main device properties in terms of all the device key parameters (recombination in the bulk and at surfaces, at contacts,...), and will learn how to perform electrical simulation of complex devices. [br/][br/]Second part : the most important fabrication process steps will be studied, ranging from multi-wire sawing processing to encapsulation processes, by going through the analyses of steps such as dopant diffusion, material reaction to gettering, dry and wet chemical etching of surfaces, contacting. Finally, the most advanced and innovative devices will be presented, both made out of inorganic crystalline, polycrystalline, and organic materials.",
+      "Objectifs d'apprentissage":"The objective of this lecture is to give an in-depth understanding of the physics and manufacturing processes of photovoltaic solar cells and related devices (photodectors, photoconductors).[br/][br/]The principle and techniques adressed in this lecture will be useful in a wide range of fields such as semiconductor devices, material science, or processes for micro and nanotechnology."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals and processes for photovoltaic devices",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

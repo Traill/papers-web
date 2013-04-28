@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772657&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","331"],
+    "title":"Electronic circuits and systems I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772657&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104903",
+      "name":"Décurnex André"
+    },{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Duplicated lecture notes, slide copies, recent technical articles",
+      "Prerequisite for":"Electronic circuits and systems II",
+      "Required prior knowledge":"Electronics I and II",
+      "Content":"Study of electronic circuits and systems[br/][br/][b]1. Differential Amplifiers:[/b] Introduction, circuit schematics and circuit behavior, large-signal transfer function, small-signal analysis of resistive-load, active-load differential amplifiers[br/][br/][b]2. Analog Multiplier:[/b] Differential amplifier with variable transconductance, four-quadrant multiplier: basic circuit, advanced circuit with extended dynamic range, applications[br/][br/][b]3. Negative Feedback:[/b] Definitions and properties, the simplified or \"ideal\" negative feedback, non-ideal negative feedback, examples[br/][br/][b]4. Power Amplifiers:[/b] Basic theory and analytical relations used in power circuits calculation, power amplifiers of class A, B, AB, C and D, power dissipation and cooling[br/][br/][b]5. Regulated Power Supplies:[/b] Continuous serial regulators, switching-type regulators.",
+      "Type of teaching":"Ex cathedra with exercises",
+      "Learning outcomes":"Acquiring skills in understanding, design and use of electronic circuits and systems, either discrete or integrated."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electronic circuits and systems I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104903",
+      "name":"Décurnex André"
+    },{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Electronique I et II",
+      "Bibliographie et matériel":"Notes de cours polycopiées, copies des transparents, articles techniques récents",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"Etude de circuits et systèmes électroniques[br/][br/][b]1. Amplis différentiels : [/b] Introduction, schéma et principe de fonctionnement, fonction de transfert \"grands signaux\",comportement \"petits signaux de l'ampli différentiel à charges résistives, ampli différentiel à charges actives[br/][br/][b]2. Multiplieur analogique :[/b] ampli différentiel à transconductance variable, multiplieur quatre-quadrants : circuit de base, circuit évolué à gamme dynamique étendue, applications[br/][br/][b]3. Réaction négative :[/b] définitions et propriétés générales, réaction négative idéale, réaction négative \"non-idéale\" ou réelle, exemples[br/][br/][b]4. Amplis de puissance : [/b]notions fondamentales relatives au calcul des circuits de puissance, amplis de classe A, B et AB, C, D, évacuation de la puissance dissipée, radiateurs[br/][br/][b]5. Alimentation stabilisée [/b]: introduction générale, alimentations stabilisées à régulateur série, à découpage, à transformateur.",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Circuits et Systèmes Electroniques II",
+      "Objectifs d'apprentissage":"Maîtriser la compréhension, la conception et la mise en oeuvre des circuits et systèmes électroniques, sous forme discrète ou intégrée"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Circuits et systèmes électroniques I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

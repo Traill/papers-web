@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348615098&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","527"],
+    "title":"Selected topics in mechanics of solids and structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348615098&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"GC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178549",
+      "name":"Molinari Jean-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Selected topics in mechanics of solids and structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178549",
+      "name":"Molinari Jean-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Liaison avec d'autres cours : Dynamique des structures, Génie Parasismique, Structures",
+      "Prérequis":"Statique (pour GC), Mécanique des milieux continus (pour GC), Mécanique des structures I",
+      "Bibliographie et matériel":"Notes, références",
+      "Forme d'enseignement":"Ex cathedra, exercices détaillés, études de cas",
+      "Contenu":"[li]  Structural Dynamics/Wave Dynamics.[br/][br/][li]  Introduction to Fracture Mechanics.[br/][br/][li]  Plasticity. ",
+      "Préparation pour":"Projet de master, recherche, profession.",
+      "Objectifs d'apprentissage":"To reinforce the general culture in mechanics of solids and structures of the future engineer by highlighting fundamentals.[br/][br/]To study some advanced topics in recent or fondamental fields of structural and continuum mechanics.[br/][br/]To understand and model the behaviour of materials under extreme loading conditions."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Selected topics in mechanics of solids and structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

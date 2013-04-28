@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412861150&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","704"],
+    "title":"Fracture Mechanics and Fatigue of Structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412861150&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    },{
+      "url":"http://people.epfl.ch/113159",
+      "name":"Nussbaumer Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To introduce the theory of fracture mechanics and fatigue, and its application to civil engineering structures",
+      "Content":"[li] Plated steel structures : Fatigue strength of welded steel elements, application of fracture mechanics, weld improvement and quality assurance methods [br/][li] Tubular steel structures : Welded joints, hot spot stress, cast steel joints, fatigue design[br/][li] Riveted structures : Evaluation of fatigue safety of riveted structures, fatigue reinforcement with carbon fibre lamellas[br/][li] Reinforced concrete structures : Fracture mechanics, fracture of concrete, size effect, brittle failure, fatigue of reinforced concrete elements, evaluation of fatigue safety of bridge decks, fracture due to dynamic effects.[br/]",
+      "Keywords":"Fracture mechanics, fatigue, steel structures, concrete structures, structural safety",
+      "Required prior knowledge":"Mechanics of structures and materials"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Fracture Mechanics and Fatigue of Structures",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104646",
+      "name":"Brühwiler Eugen"
+    },{
+      "url":"http://people.epfl.ch/113159",
+      "name":"Nussbaumer Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Plated steel structures : Fatigue strength of welded steel elements, application of fracture mechanics, weld improvement and quality assurance methods [br/][li] Tubular steel structures : Welded joints, hot spot stress, cast steel joints, fatigue design[br/][li] Riveted structures : Evaluation of fatigue safety of riveted structures, fatigue reinforcement with carbon fibre lamellas[br/][li] Reinforced concrete structures : Fracture mechanics, fracture of concrete, size effect, brittle failure, fatigue of reinforced concrete elements, evaluation of fatigue safety of bridge decks, fracture due to dynamic effects.[br/]",
+      "Mots clés":"Fracture mechanics, fatigue, steel structures, concrete structures, structural safety",
+      "Prérequis":"Mechanics of structures and materials",
+      "Objectifs d'apprentissage":"To introduce the theory of fracture mechanics and fatigue, and its application to civil engineering structures"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Fracture Mechanics and Fatigue of Structures",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

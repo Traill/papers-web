@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","207(a)"],
+    "title":"Analysis IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104859",
+      "name":"Dalang Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"Optics[br/]Image processing[br/]Oscillatory systems[br/]Fluid mechanics[br/]Signal processing",
+      "Required prior knowledge":"Analysis I, II and III",
+      "Content":"Fourier and Laplace analysis:[br/]Fourier series[br/]Fourier Transform[br/]Laplace transform and applications to ordinary and partial differential equations[br/]Tempered distributions[br/]",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Learning outcomes":"To present the main tools of Fourier analysis with some applications.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=ENG\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Year:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104859",
+      "name":"Dalang Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I, II et III",
+      "Bibliographie et matériel":"B. Dacorogna et C. Tanteri « Analyse avancée pour ingénieurs » 2002, PPUR",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"Analyse de Fourier et de Laplace :[br/]Séries de Fourier[br/]Transformée de Fourier[br/]Transformée de Laplace[br/]Applications aux équations différentielles ordinaires et aux dérivées partielles[br/]Distributions tempérées",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Optique[br/]Traitement d'images[br/]Systèmes vibratoires[br/]Mécanique des fluides[br/]Signaux et systèmes I",
+      "Objectifs d'apprentissage":"Présenter l'étude des principaux outils de l'analyse de Fourier en vue des applications à des problèmes pluridisciplinaires."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=FRE\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Année:2006. ISBN:978-2-88074-513-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

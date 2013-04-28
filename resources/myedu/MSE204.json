@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838974819&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","204"],
+    "title":"Thermodynamics for materials science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838974819&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196998",
+      "name":"Stellacci Francesco"
+    },{
+      "url":"http://people.epfl.ch/202038",
+      "name":"Voitchovsky Kislon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To develop an understanding in the thermodynamic representation of materials. Specifically to understand the thermodynamic driving force to the establishment of materials transformation and performance. Specific examples in the thermodynamic driving force for materials performance in energy devices such as fuel cells and batteries will conclude the class.[br/][br/][br/]",
+      "Content":"1. Reminder of basic thermodynamics. Introduction to state functions and fundamental equations. Chemical potential.[br/]2. Treatment of mixtures. Molar and partial molar variables.[br/]3. General treatment of chemical reactions. Reaction progress. Variables of reaction (enthalpy, entropy, free energy of reaction). Standard state.[br/]Heats of reaction and formation of chemical substances.[br/]4. Chemical reactions in the gaseous state. Law of mass action.[br/]Equilibrium constant. Kirchoff's rule. Van't Hoff's equation.[br/]5. Phase equilibiria of mixtures. Gibbs' rule of phases.[br/]6. Chemical reactions in solutions. Equilibrium constant. Effects of[br/]pressure and temperature. The case of corrosion and batteries.[br/]7. Ideal solutions. Chemical potential. [br/]Osmotic pressure, the case of membranes. [br/]Melting and boiling points. Eutectic point.[br/]8. Non-ideal solutions. Standard states. Chemical potentials. Activity[br/]coefficients. [br/]9. Phase diagrams. Excess variables of mixing.[br/]10. Thermodynamic treatment of batteries and fuel cells.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra et exercises",
+      "Required prior knowledge":"Various courses of the Materials science and engineering section "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Thermodynamics for materials science",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58112-772-3&amp;con_lng=ENG\" target=\"blank\">The bases of chemical thermodynamics / Michael Graetzel, Pierre Infelta</a>\". Year:2000. ISBN:1-58112-772-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196998",
+      "name":"Stellacci Francesco"
+    },{
+      "url":"http://people.epfl.ch/202038",
+      "name":"Voitchovsky Kislon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"1. Rappel des notions de base de thermodynamique. Introduction des fonctions d'état et des équations fondamentales. Potentiel chimique.[br/]2. Traitement de mélanges. Variable molaires et molaires partielles.[br/]3. Traitement général de réactions chimiques. Progression des réactions. Variables de réaction (enthalpie, entropie, énergie libre de réaction). Conditions standard.[br/]Chaleurs de réaction et formation de substances chimiques.[br/]4. Réactions chimiques à l'état gazeux. Loi d'action de masse.[br/]Constantes d'équilibre. Lois de Kirchoff. Equation de Van't Hoff[br/]5. Equilibre de phases des mélanges. Règle de phases de Gibbs.[br/]6. Réaction chimiques en solution. Constantes d'équilibre. Effets de pression et température. Corrosion et batteries.[br/]7. Solutions idéales. Potentiel chimique. [br/]Pression osmotique et membranes. [br/]Points de fusion et d'ébullitions. Point Eutectique.[br/]8. Solutions non-idéales. Conditions standard. Potentiel chimique, Activité. [br/]coefficients. [br/]9. Diagrammes de phases. Variables d'excès de mélange.[br/]10. Traitement thermodynamique de batteries et cellules solaires.[br/]",
+      "Prérequis":"Divers cours de la section science et génie des matériaux",
+      "Bibliographie et matériel":"M. Grätzel and P. Infelta, « The Basis of Chemical Thermodynamics\" vol 1 & 2; Universal Publishers, Parkland, Florida, USA",
+      "Objectifs d'apprentissage":"Développement d'une compréhension de la représentation thermodynamique des matériaux, plus précisément, des forces thermodynamiques gouvernant les transformations d'un matériau ainsi que ses performances. Le cours sera conclu par des exemples spécifiques de systèmes tels que les cellules solaires et les batteries, où les performances énergétiques dépendent des forces thermodynamique agissant sur le système. [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Thermodynamics for materials science",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58112-772-3&amp;con_lng=FRE\" target=\"blank\">The bases of chemical thermodynamics / Michael Graetzel, Pierre Infelta</a>\". Année:2000. ISBN:1-58112-772-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

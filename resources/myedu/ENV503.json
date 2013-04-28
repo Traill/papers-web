@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71825947&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","503"],
+    "title":"Environmental bioprocess design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71825947&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104934",
+      "name":"Deront Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Comprehensive overview of advanced engineering concept of environmental bioprocesses in the perspective of mathematical modeling, simulation",
+      "Content":"[b]Microbial growth and kinetics in environnmental biotechnology[/b][br/][li]Mass and energy balances[br/][li]Block box sotoichiometry of microbial growth, [br/][li]Coupled catabolism/anabolism, COD balance[br/][li]Black box kinetics of microbial growth and product formation, Herbert-Pirt and Mono relations[br/][li]Thermodynamic description of microbial conversion processes[br/][b]Bioreactors[/b][br/]Growth and production of organisms in bioreators; Batch, Chemostat and fed batch processes[br/][li]General aspect of transport processes in gbioreactors; Basic principles, Oxygen transfer rate, Mass transfer coefficient, Interfacial area, and Factor influencing oxygen transfer[br/][li]Coupled transport conversions in bioreactors, limiting transport[br/][li]Biofilm processes - Coupled transport-reaction kinetics of immobilized microorganisms[br/][li]Basics in bioreactor instrumentation[br/][b]Modelling and simulation of environmental bioprocesses[/b] (ASM 1 + Aquasim)",
+      "Form of examination":"The evaluation is continuous during the semester and will be based on attendance and implication as well as a regular reporting for tutorials, exercises and assignments. A personal multiple choice quiz will be proposed during the semester.[br/]60 % continuous evaluation based on reports[br/]40 % personal evaluation based on MCQ",
+      "Note":"[b]This course is proposed only to Master 1 students[/b].[br/]Practical work and exercises will be performed on two computing environments[br/][li]MathCAD - Spreadsheet for technical calculations and engineering[br/][li]Aquasim - simulation and identification software of aquatic biosystems[br/]The course is provided through the E-learning platform of CRAFT: Moodle.epfl.ch[br/][br/]Practical part[br/]At each session, exercises and tutorials are provided on computers (software: MathCAD and Aquasim). These software are available in the IT computer rooms ENAC IT1 (Bldg GR) and freely to all students. For better teaching effectiveness, the use of a PERSONAL COMPUTER is highly RECOMMENDED !"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Environmental bioprocess design",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30759-1&amp;con_lng=ENG\" target=\"blank\">Biological reaction engineering : dynamic modelling fundamentals with simulation examples / Irving J. Dunn ...[et al.]</a>\". Year:2003. ISBN:3-527-30759-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104934",
+      "name":"Deront Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Ce cours est donné uniquement aux étudiants de Master 1[/b].[br/]Travaux pratiques et exercices seront réalisés sur 2 environnements[br/][li]MathCAD - Tableur de calculs techniques et d'ingénieurs[br/][li]AquaSim - Logiciel de simulation et d'identification de biosystèmes[br/]aquatiques[br/]Le cours est mis à disposition au travers de la plateforme d'E-learning du CRAFT: Moodle.epfl.ch[br/][br/]Partie pratique:[br/]À chaque séance, des exercices et tutoriaux sont prévus sur ordinateurs (logiciels MathCAD et AquaSim). Ces logiciels sont disponibles dans les salles informatiques ENAC-IT 1 (Bât. GR) mais aussi librement pour tous les étudiants. Pour une meilleure efficacité pédagogique, l'utilisation d'un PORTABLE PERSONNEL EST RECOMMANDÉ et SOUHAITÉ.",
+      "Contenu":"[b]Croissance et cinétiques en biotechnologie environnementale[/b][br/][li]Bilan de masse et d'énergie pour la croissance microbienne[br/][li]Couplage catabolisme-anabolisme, Bilan COD[br/][li]Cinétiques de la croissance, microbienne (Black-Box), formation des produits, relations d'Herbert-Pirt and Monod[br/][li]Thermodynamique des processus de conversion microbiens[br/][b]Bioréacteurs[/b][br/][li]Croissance et production de biomasse dans les bioréacteurs; Batch, Chemostat et fed batch bioréacteurs[br/][li]Phénomènes de transport dans les bioréacteurs; principes de base, vitesse de transfert, taux de transferts d'oxygène, coefficient de transfert de masse, surface interfaciale et facteurs influençant le transfert d'oxygène[br/][li]Couplage transport/conversion dans les bioréacteurs, limitation du transfert-transport[br/][li]Procédés à biomasse fixée - Couplage des cinétiques de transport et de réactions au sein de bioréacteurs à biomasse immobilisée[br/][li]Introduction à l'instrumentation des bioréacteurs[br/][b]Introduction à la modélisation  et simulation des bioprocédés environnementaux[/b] (ASM 1 + Aquasim)",
+      "Forme du contrôle":"Le contrôle est continu pendant le semestre par la présence, la participation, la réalisation et le rendu régulier des tutoriaux d'une part, d'exercices-projets d'autre part ainsi que d'un questionnaire à choix multiples personnel en cours de semestre[br/]40 % contrôle personnel basé sur le QCM[br/]60 % contrôle continu basé sur les rendus d'exercices et projets",
+      "Bibliographie et matériel":"Notes de cours polycopiées et document Web.[br/]En bibliothèque/in libraries: (cliquez sur le lien pour consulter les informations du réseau de bibliothèque suisse/click on the link to consult information of the Swiss network of libraries) [br/]Biological reaction engineering : dynamic modelling fundamentals with simulation examples / Irving J. Dunn ...[et al.], 2003",
+      "Objectifs d'apprentissage":"Développer les concepts et fondements du génie des bioprocédés environnementaux en vue de leur modélisation et de leur simulation"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Génie des bioprocédés environnementaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30759-1&amp;con_lng=FRE\" target=\"blank\">Biological reaction engineering : dynamic modelling fundamentals with simulation examples / Irving J. Dunn ...[et al.]</a>\". Année:2003. ISBN:3-527-30759-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

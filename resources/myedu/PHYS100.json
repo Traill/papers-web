@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705532&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","100"],
+    "title":"Physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705532&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[["voir moodle","voir moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104398",
+      "name":"Ansermet Jean-Philippe"
+    },{
+      "url":"http://people.epfl.ch/137850",
+      "name":"Bréchet Sylvain"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To learn how to transcribe in a mathematical form a physical phenomenon, so as to produce a rational analysis of it. The phenomena considered in the course are limited to elementary experiments of classical mechanics for points and rigid solids. This mathematical transcription includes:[br/]- choosing coordinates and frames of references, [br/]- assessing and modelling the forces,[br/]- applying the theorem of linear and of angular moments,[br/]- applying the principles of conservation.[br/]Whenever possible, the problems are configured to reveal some physics typical of more advanced studies (ex. : e.g. linear response, scattering cross section, Debye relaxation, soft modes, ..)[br/]",
+      "Content":"[b]Introduction[/b][br/]Elementary mechanics of points in one dimension, harmonic oscillator, in Cartesian coordinates (ballistics)[br/][br/][b]Kinematics[/b][br/]Formal description of rotations, Poisson formula, angular velocity[br/][br/][b]Forces[/b][br/]Friction, gravitation, electromagnetism, collisions (and the notion of scattering cross section), open systems[br/][br/][b]Newton's laws[/b] [br/]System of points, conservation laws, energy, power, work, qualitative discussion of possible motions[br/][br/][b]Kinematics and kinetics of rigid bodies[/b][br/]Centre of mass, tensor of inertia, angular momentum[br/][br/][b]Change of reference frame[/b][br/]Coriolis, centripetal accelerations, terrestrial dynamics[br/][br/][b]Special relativity[/b][br/]Kinematics, momentum quadri-vector, collisions [br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises supervised  in classrooms",
+      "Form of examination":"Rule of the bonus calculated on the basis of 2 written tests"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-15-507630-2&amp;con_lng=ENG\" target=\"blank\">Classical mechanics / A. Douglas Davis</a>\". Year:1986. ISBN:0-15-507630-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-203813-3&amp;con_lng=ENG\" target=\"blank\">Engineering mechanics : statics and dynamics / R.C. Hibbeler</a>\". Year:2007. ISBN:978-0-13-203813-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-6123-3&amp;con_lng=ENG\" target=\"blank\">Equilibrium between phases of matter : phenomenology and thermodynamics / Harry A. Oonk and M. Teresa Calvet</a>\". Year:2008. ISBN:978-1-4020-6123-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-505223-8&amp;con_lng=ENG\" target=\"blank\">Introduction to classical mechanics / Atam P. Arya</a>\". Year:1998. ISBN:0-13-505223-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-005517-8&amp;con_lng=ENG\" target=\"blank\">Mécanique / Charles Kittel et Walter D. Knight, Malvin A. Ruderman</a>\". Year:2003. ISBN:2-10-005517-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-829-6&amp;con_lng=ENG\" target=\"blank\">Mécanique / Jean-Philippe Ansermet</a>\". Year:2009. ISBN:978-2-88074-829-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-602-00832-X&amp;con_lng=ENG\" target=\"blank\">Mécanique générale / Bernard Vittoz, Jean-Jacques Paltenghi</a>\". Year:1973-1974. ISBN:2-602-00832-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-305-2&amp;con_lng=ENG\" target=\"blank\">Mécanique générale / Christian Gruber, Willy Benoit</a>\". Year:1998. ISBN:2-88074-305-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-0013-0&amp;con_lng=ENG\" target=\"blank\">Mécanique générale : cours et problèmes / Murray R. Spiegel</a>\". Year:1997. ISBN:2-7042-0013-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-008209-4&amp;con_lng=ENG\" target=\"blank\">Physique générale : cours et exercices corrigés : [1er cycle, IUT, prépas] / Marcelo Alonso, Edward J. Finn</a>\". Year:2004. ISBN:2-10-008209-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-069258-0&amp;con_lng=ENG\" target=\"blank\">Schaum's outline of theory and problems of Lagrangian dynamics : with a treatment of Euler's equations of motion, Hamilton's equations and Hamilton's principle / by Dare A. Wells</a>\". Year:1967. ISBN:0-07-069258-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-046193-7&amp;con_lng=ENG\" target=\"blank\">Schaum's outline of theory and problems of engineering mechanics : statics and dynamics / E. W. Nelson, Charles L. Best, W. G. McLean</a>\". Year:1998. ISBN:0-07-046193-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-2327-1&amp;con_lng=ENG\" target=\"blank\">Spacetime physics : introduction to special relativity / Edwin F. Taylor, John Archibald Wheeler</a>\". Year:2002. ISBN:0-7167-2327-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8053-9045-6&amp;con_lng=ENG\" target=\"blank\">The Feynman lectures on physics / Feynman, Leighton, Sands</a>\". Year:2006. ISBN:0-8053-9045-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=ENG\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Year:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[["voir moodle","voir moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104398",
+      "name":"Ansermet Jean-Philippe"
+    },{
+      "url":"http://people.epfl.ch/137850",
+      "name":"Bréchet Sylvain"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Bonne formation au niveau maturité",
+      "Bibliographie et matériel":"Traité de Physique: La Mécanique. J.-Ph. Ansermet, PPUR 2009[br/]Eb185, E289, D429, Dd399, Dg349, E242, Eb157, E250, E284, Eb197, E303, E168, 753809, AI1039, Dg28[br/]En bibliothèque / in libraries:[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices dirigés en classe",
+      "Contenu":"[b]Introduction[/b][br/]Mécanique élémentaire du point matériel à une dimension, oscillateur harmonique, balistique[br/][b]Cinématique[/b][br/]Description formelle des rotations, formules de Poisson, vitesse instantanée de rotation.[br/][b]Forces[/b][br/]Friction, gravitation, électromagnétisme, collisions (notion de section efficace), systèmes ouverts.[br/][b]Lois de Newton[/b][br/]Système de points matériels, lois de conservation, énergie, puissance, travail, discussion qualitative.[br/][b]Cinématique, cinétique et dynamique du corps solide indéformable[/b][br/]Centre de masse, tenseur d'inertie, moment cinétique, axe de rotation fixe, effets gyroscopiques, contraintes aux points d'attache.[br/][b]Changement de référentiel[/b][br/]Accélérations de Coriolis, centripète, dynamique terrestre.[br/][b]Relativité restreinte[/b][br/]Cinématique, quadri-vecteur quantité de mouvement, collisions.",
+      "Forme du contrôle":"Règle du bonus calculé sur la base de 2 tests écrits",
+      "Préparation pour":"Physique II",
+      "Objectifs d'apprentissage":"Apprendre à transcrire sous forme mathématique un phénomène physique, afin de pouvoir en formuler une analyse raisonnée.[br/]Les phénomènes considérés seront limités aux expériences élémentaires de la mécanique rationnelle du point matériel et du solide indéformable. Cette transcription mathématique inclut :[br/]- une paramétrisation, un choix des repères de projection, des référentiels,[br/]- un inventaire des forces ;[br/]- l'application du théorème de la quantité de mouvement,[br/]- l'application des principes de conservation.[br/]Chaque fois que ce sera possible, les problèmes seront conçus pour illustrer par un modèle mécanique un sujet de physique plus avancé (par exemple, réponse linéaire, section efficace de collisions, relaxation de Debye, modes mous, etc. ...)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-15-507630-2&amp;con_lng=FRE\" target=\"blank\">Classical mechanics / A. Douglas Davis</a>\". Année:1986. ISBN:0-15-507630-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-203813-3&amp;con_lng=FRE\" target=\"blank\">Engineering mechanics : statics and dynamics / R.C. Hibbeler</a>\". Année:2007. ISBN:978-0-13-203813-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-6123-3&amp;con_lng=FRE\" target=\"blank\">Equilibrium between phases of matter : phenomenology and thermodynamics / Harry A. Oonk and M. Teresa Calvet</a>\". Année:2008. ISBN:978-1-4020-6123-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-505223-8&amp;con_lng=FRE\" target=\"blank\">Introduction to classical mechanics / Atam P. Arya</a>\". Année:1998. ISBN:0-13-505223-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-005517-8&amp;con_lng=FRE\" target=\"blank\">Mécanique / Charles Kittel et Walter D. Knight, Malvin A. Ruderman</a>\". Année:2003. ISBN:2-10-005517-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-829-6&amp;con_lng=FRE\" target=\"blank\">Mécanique / Jean-Philippe Ansermet</a>\". Année:2009. ISBN:978-2-88074-829-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-602-00832-X&amp;con_lng=FRE\" target=\"blank\">Mécanique générale / Bernard Vittoz, Jean-Jacques Paltenghi</a>\". Année:1973-1974. ISBN:2-602-00832-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-305-2&amp;con_lng=FRE\" target=\"blank\">Mécanique générale / Christian Gruber, Willy Benoit</a>\". Année:1998. ISBN:2-88074-305-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7042-0013-0&amp;con_lng=FRE\" target=\"blank\">Mécanique générale : cours et problèmes / Murray R. Spiegel</a>\". Année:1997. ISBN:2-7042-0013-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-008209-4&amp;con_lng=FRE\" target=\"blank\">Physique générale : cours et exercices corrigés : [1er cycle, IUT, prépas] / Marcelo Alonso, Edward J. Finn</a>\". Année:2004. ISBN:2-10-008209-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-069258-0&amp;con_lng=FRE\" target=\"blank\">Schaum's outline of theory and problems of Lagrangian dynamics : with a treatment of Euler's equations of motion, Hamilton's equations and Hamilton's principle / by Dare A. Wells</a>\". Année:1967. ISBN:0-07-069258-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-046193-7&amp;con_lng=FRE\" target=\"blank\">Schaum's outline of theory and problems of engineering mechanics : statics and dynamics / E. W. Nelson, Charles L. Best, W. G. McLean</a>\". Année:1998. ISBN:0-07-046193-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-2327-1&amp;con_lng=FRE\" target=\"blank\">Spacetime physics : introduction to special relativity / Edwin F. Taylor, John Archibald Wheeler</a>\". Année:2002. ISBN:0-7167-2327-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8053-9045-6&amp;con_lng=FRE\" target=\"blank\">The Feynman lectures on physics / Feynman, Leighton, Sands</a>\". Année:2006. ISBN:0-8053-9045-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=FRE\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Année:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

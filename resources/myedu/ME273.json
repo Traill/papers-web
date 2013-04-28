@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348623975&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","273"],
+    "title":"Introduction to control of dynamical systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348623975&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105941",
+      "name":"Müllhaupt Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduce the basic notions and tools for modeling and analysis of dynamic systems. Introduce the concept of feedback control and the procedure for designing controllers and analyzing the performance of controlled systems.",
+      "Content":"[li]  Principles of automatic control [br/][li]  Models of dynamical systems[br/][li]  Linearization and concept of transfer function[br/][li]  On-off and PID control algorithms[br/][li]  System stability[br/][li]  Control performance[br/][li]  Advanced control[br/][li]  Elements of digital control[br/][li]  Sensors and actuators[br/][br/]Classroom exercises (geomatics, population dynamics, environment)[br/][br/]",
+      "Type of teaching":"Lectures and exercises",
+      "Form of examination":"Written test 2x45 min"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to control of dynamical systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105941",
+      "name":"Müllhaupt Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours et exercices",
+      "Contenu":"[li]  Principes de la commande automatique[br/][li]  Mise en équation de systèmes dynamiques[br/][li]  Concept de  fonction de transfert[br/][li]  Commandes élémentaires : tout-ou-rien, PID[br/][li]  Etude de stabilité[br/][li]  Qualité de régulation[br/][li]  Commandes avancées[br/][li]  Eléments de commande numérique[br/][li]  Organes de mesure et de commande[br/][br/]Exercices et exemples (géomatique, dynamique des populations, environnement)[br/]",
+      "Forme du contrôle":"Examen écrit 2x45 min",
+      "Bibliographie et matériel":"Cours polycopié \"Commande de procédés\" /Lecture notes \"Commande de procédés\"",
+      "Objectifs d'apprentissage":"Apporter aux étudiants les connaissances de base nécessaires à la modélisation et à l'analyse des systèmes dynamiques. Leur apprendre à concevoir des régulateurs et à analyser la performance des systèmes commandés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à la commande des systèmes dynamiques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

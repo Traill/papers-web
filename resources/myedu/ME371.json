@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=788996484&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","371"],
+    "title":"Discretization methods in fluids",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=788996484&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/146793",
+      "name":"Habisreutinger Marc Anthony David"
+    },{
+      "url":"http://people.epfl.ch/106362",
+      "name":"Sawley Mark"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written examination, mini-projects",
+      "Bibliography and material":"Course material is available on-line (http://moodle.epfl.ch/course/view.php?id=249)[br/]Various reference texts",
+      "Required prior knowledge":"[li]Linear algebra[br/][li]Analysis / Numerical analysis[br/][li]Continuum mechanics[br/][li]Fluid mechanics",
+      "Content":"This course provides an introduction to discretization methods used for numerical flow simulation.[br/]It begins with a presentation of the theoretical basis for partial differential equations (adimensionalization, linearization, mathematical classification). Following a unified presentation of classical methods (finite element, finite volume, finite differences), the finite difference method is discussed in detail to illustrate the basic concepts. Through the study of simplified mono-dimensional, steady and unsteady problems, the discrete equations are analyzed in terms of accuracy and stability, which are essential for assessing the consistency of numerical solutions with respect to physical reality. These approaches are then extended to treat multi-dimensional problems. In order to solve the discrete equations, methods for solving (linear and nonlinear) systems of algebraic equations are presented with emphasis on their domain of application and computational complexity.[br/]The finite volume method and mesh generation techniques are subsequently presented to illustrate more applied concepts directly related to fluid mechanics.[br/]Laboratories based on the use of Matlab exercises illustrate the theoretical concepts and provide an understanding of the implementation and use of the algorithms presented. They also serve as the indispensable basis for undertaking the mini-project application.",
+      "Keywords":"Numerical simulation, Fluid mechanics, Partial differential equations, Finite difference and finite volume methods",
+      "Type of teaching":"Lectures, written exercises, Matlab laboratories, mini-projects",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Describe different methods used to discretize differential equations, such as finite differences, finite elements, finite volumes, lattice Boltzmann, SPH, AH30[br/][li]Evaluate numerical accuracy as a function of the choice of simulation parameters, AH28[br/][li]Analyse numerical solutions and identify any inconsistencies with respect to physical reality; understand and apply the concepts of verification and validation, AH29[br/][li]Determine the optimal mesh generation technique to apply for the numerical simulation of the flow in a given geometry, AH31[br/][li]Understand the basics of computer programming; develop a (simple) structured software using a programming language / environment such as C, Fortran or Matlab, AH40[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Document and communicate a project, T12"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Discretization methods in fluids",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/146793",
+      "name":"Habisreutinger Marc Anthony David"
+    },{
+      "url":"http://people.epfl.ch/106362",
+      "name":"Sawley Mark"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Algèbre linéaire[br/][li]Analyse / Analyse numérique[br/][li]Mécanique des milieux continus[br/][li]Mécanique des fluides",
+      "Bibliographie et matériel":"Matériel disponible en ligne (http://moodle.epfl.ch/course/view.php?id=249); divers ouvrages de référence",
+      "Mots clés":"Simulation numérique, Mécanique des fluides, Equations aux dérivées partielles, Méthode des dif. finies et des volumes finis",
+      "Forme d'enseignement":"Cours ex-cathedra, exercices écrits, laboratoires en Matlab, mini-projets",
+      "Contenu":"Ce cours présente une introduction aux méthodes numériques de discrétisation utilisées pour la simulation numérique en mécanique des fluides.[br/]Il s'ouvre sur une présentation des éléments théoriques de base concernant les équations aux dérivés partielles (adimensionalisation, linéarisation, classification mathématique). Après une présentation unifiée des méthodes classiques (éléments finis, volumes finis, différences finies), la méthode des différences finies est traitée en détail de manière à illustrer les concepts fondamentaux liés à la discrétisation des équations aux dérivées partielles. A travers l'étude de problèmes simplifiés, mono-dimensionnels, stationnaires et instationnaires, les équations discrètes sont analysées en termes de précision et stabilité. Ces approches sont ensuite étendues au traitement de problèmes multi-dimensionnels. Les méthodes de résolution de systèmes d'équations algébriques (linéaires et non-linéaires) sont présentées en mettant l'accent sur leurs conditions d'applicabilité et leur complexité algorithmique.[br/]La méthode des volumes finis et les algorithmes de génération de maillage illustrent ensuite des concepts plus appliqués et en lien direct avec la mécanique des fluides.[br/]Les laboratoires basés sur des exercices en Matlab permettent d'illustrer l'ensemble des concepts théoriques, ainsi que de comprendre l'implémentation et l'utilisation des algorithmes présentés. Ils servent aussi de base indispensable pour la réalisation du mini-projet d'application.",
+      "Forme du contrôle":"Examen écrit, mini-projets",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire les différentes méthodes utilisées pour la discrétisation des équations différentielles, telles que différences finies, éléments finis, volumes finis, Lattice-Boltzmann, SPH, AH30[br/][li]Evaluer la précision numérique des résultats en fonction des choix des paramètres de simulation, AH28[br/][li]Analyser des solutions numériques et identifier les inconsistances par rapport à la réalité physique, comprendre et appliquer les concepts de la vérification et de la validation, AH 29[br/][li]Déterminer la technique optimale pour la génération d'un maillage pour la simulation numérique dans une géométrie donnée, AH31[br/][li]Comprendre les bases de la programmation ; développer un logiciel (simple) structuré en utilisant un langage/environnement de programmation tel que C, Fortran ou Matlab, AH40[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Documenter et communiquer un projet, T12"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Méthodes de discrétisation en fluides",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354956496&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","461"],
+    "title":"Instability and turbulence",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354956496&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189938",
+      "name":"Gallaire François"
+    },{
+      "url":"http://people.epfl.ch/220979",
+      "name":"Serre Eric"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam consisting of the oral analysis of an article previously chosen by the student.",
+      "Bibliography and material":"Instabilités hyrodynamiques, F. Charru, CNRS Editions, 2007[br/]Introduction to Hydrodynamic Stability, P.G. Drazin, Cambridge Univ. Press, 2002.",
+      "Required prior knowledge":"Incompressible fluid mechanics[br/]Physical hydrodynamics (if possible)",
+      "Content":"Learn to understand the complex phenomena originating in the destabilization of laminar flows, and their transition to turbulence. Know how to linearize the fluid equations and to formulate the question of stability of a flow in terms of an eigenvalue problem and a dispersion relation. Understand the necessity for turbulence modelling and the pro and cons of the most used models.",
+      "Keywords":"Balance, complex fluids",
+      "Type of teaching":"Lectures and homework",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Describe a flow in scientific terms, AH1[br/][li]Link flow behaviour with non-dimensional parameters (e.g. Reynolds and Mach numbers), AH2[br/][li]Describe the physical differences between laminar and turbulent flows, AH4[br/][li]Describe hydrodynamic instabilities in laminar, incompressible flows; understand the physical phenomena associated with the transition to turbulence, AH6[br/][li]Formulate the basic flow equations, such as the Navier-Stokes equations, AH17[br/][li]Obtain by an order of magnitude analysis, the simplified equations describing lubrication and boundary layers, AH22[br/][li]Understand the basics of computer programming; develop a (simple) structures software using a programming language / environment such as C, Fortran or Matlab, AH40[br/][b]Transversal skills:[/b][br/][li]Do a literature review and assess the state of the art, T4[br/][li]Summarize an article or a technical report, T5 [br/][li]Make an oral presentation, T7[br/][li]Be perseverant through difficulties, T15"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Instability and turbulence",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-57066-2&amp;con_lng=ENG\" target=\"blank\">An introduction to turbulent flow / Jean Mathieu, Julian Scott</a>\". Year:2000. ISBN:0-521-57066-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-271-06565-0&amp;con_lng=ENG\" target=\"blank\">Instabilités hydrodynamiques / François Charru</a>\". Year:2007. ISBN:978-2-271-06565-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-80427-2&amp;con_lng=ENG\" target=\"blank\">Introduction to hydrodynamic stability / P.G. Drazin</a>\". Year:2002. ISBN:0-521-80427-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-59125-2&amp;con_lng=ENG\" target=\"blank\">Turbulent flows / Stephen B. Pope</a>\". Year:2009. ISBN:0-521-59125-2</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189938",
+      "name":"Gallaire François"
+    },{
+      "url":"http://people.epfl.ch/220979",
+      "name":"Serre Eric"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique des Fluides Incompressibles[br/]Hydrodynamique Physique (recommandé)",
+      "Bibliographie et matériel":"Instabilités hyrodynamiques, F. Charru, CNRS Editions, 2007[br/]Introduction to Hydrodynamic Stability, P.G. Drazin, Cambridge Univ. Press, 2002.",
+      "Mots clés":"Instabilités, bifurcation, turbulence ",
+      "Forme d'enseignement":"Cours magistral and homework",
+      "Contenu":"Développer la compréhension des phénomènes complexes de[br/]déstabilisation d'écoulements laminaires, de transition et[br/]d'écoulements turbulents. Savoir linéariser les équations fluides et formuler la question de la stabilité d'un écoulement en terme de problème aux valeurs propres et de relation de dispersion. Comprendre les raisons de la nécessité de modéliser la turbulence ainsi que les qualités et défauts des modèles les plus utilisés.",
+      "Forme du contrôle":"Examen oral consistant en un commentaire d'article choisi au préalable par l'étudiant.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire un écoulement en termes scientifiques, AH1[br/][li]Relier les comportements des écoulements aux paramètres adimensionnels (nombre de Reynolds, Mach, etc.), AH2[br/][li]Décrire en termes physiques les différences entre un écoulement laminaire et un écoulement turbulent, AH4[br/][li]Décrire des instabilités hydrodynamiques dans des écoulements laminaires incompressibles ; comprendre les phénomènes physiques liés à la transition à la turbulence, AH6[br/][li]Formuler les équations de base décrivant un écoulement, telles que Navier-Stokes, AH17[br/][li]Obtenir par analyse d'ordre de grandeur les équations simplifiées de lubrification et de couche limite, AH22[br/][li]Comprendre les bases de la programmation ; développer un logiciel (simple) structuré en utilisant un langage/environnement de programmation tel que C, Fortran ou Matlab, AH40[br/][b]Compétences transversales:[/b][br/][li]Réaliser une recherche bibliographique et une revue de l'état de l'art, T4[br/][li]Faire un résumé d'un article ou d'un document technique, T5[br/][li]Réaliser une présentation orale, T7[br/][li]Montrer de la persévérance en dépit des obstacles, T15"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Instability and turbulence",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-57066-2&amp;con_lng=FRE\" target=\"blank\">An introduction to turbulent flow / Jean Mathieu, Julian Scott</a>\". Année:2000. ISBN:0-521-57066-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-271-06565-0&amp;con_lng=FRE\" target=\"blank\">Instabilités hydrodynamiques / François Charru</a>\". Année:2007. ISBN:978-2-271-06565-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-80427-2&amp;con_lng=FRE\" target=\"blank\">Introduction to hydrodynamic stability / P.G. Drazin</a>\". Année:2002. ISBN:0-521-80427-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-59125-2&amp;con_lng=FRE\" target=\"blank\">Turbulent flows / Stephen B. Pope</a>\". Année:2009. ISBN:0-521-59125-2</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

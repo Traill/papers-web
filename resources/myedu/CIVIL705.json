@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412887147&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","705"],
+    "title":"Selected Topics on Advanced Composites in Engineering Structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412887147&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.cclab.ch","http://www.cclab.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    },{
+      "url":"http://people.epfl.ch/172705",
+      "name":"Vasilopoulos Anastasios"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Introduce composite materials to engineers and prepare them to understand the significance of use of composites in structural applications. Selected topics are addressed to describe the caracteristics and the behaviour of composite materials (as compared to conventional materials like steel or concrete).  ",
+      "Content":"Introduction to composite materials and the specific design concepts of structures with this type of material. Description of the characteristics of composite materials and their singularities. Selected topics to be addressed are:[br/][li]Failure modes and failure criteria for composite materials, [br/][li]Fatigue of composite materials and structures, [br/][li]Multiaxial static/fatigue behaviour,[br/][li]Fracture of composite materials,[br/][li]Joining techniques,[br/][li]Issues raised by the students, related to their PhD projects[br/]",
+      "Keywords":"Composite materials, fatigue, fracture, joining techniques",
+      "Note":"Project report: The students select their project based on their scientific interests. The scope of the project is to let the students understand how to apply the design concepts that are related to composite materials to any potential structure by incorporating the special characteristics of the, anisotropic, composite materials to their applications",
+      "Required prior knowledge":"Basic knowledge about composite materials and theory of elasticity."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Selected Topics on Advanced Composites in Engineering Structures",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.cclab.ch","http://www.cclab.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    },{
+      "url":"http://people.epfl.ch/172705",
+      "name":"Vasilopoulos Anastasios"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Project report: The students select their project based on their scientific interests. The scope of the project is to let the students understand how to apply the design concepts that are related to composite materials to any potential structure by incorporating the special characteristics of the, anisotropic, composite materials to their applications",
+      "Contenu":"Introduction to composite materials and the specific design concepts of structures with this type of material. Description of the characteristics of composite materials and their singularities. Selected topics to be addressed are:[br/][li]Failure modes and failure criteria for composite materials, [br/][li]Fatigue of composite materials and structures, [br/][li]Multiaxial static/fatigue behaviour,[br/][li]Fracture of composite materials,[br/][li]Joining techniques,[br/][li]Issues raised by the students, related to their PhD projects[br/]",
+      "Mots clés":"Composite materials, fatigue, fracture, joining techniques",
+      "Prérequis":"Basic knowledge about composite materials and theory of elasticity.",
+      "Objectifs d'apprentissage":"Introduce composite materials to engineers and prepare them to understand the significance of use of composites in structural applications. Selected topics are addressed to describe the caracteristics and the behaviour of composite materials (as compared to conventional materials like steel or concrete).  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Selected Topics on Advanced Composites in Engineering Structures",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229988060&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","402"],
+    "title":"Quantitative methods in finance",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229988060&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192170",
+      "name":"Ravanelli Claudia"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"The midterm and the final exam are closed-book, closed-notes.",
+      "Form of examination":"20% exercises[br/]40% midterm exam[br/]40% final exam",
+      "Bibliography and material":"Some research papers. Chapters in various books. A list will be given at the beginning of the course.",
+      "Prerequisite for":"Investments[br/]Real options and financial structuring",
+      "Content":"[b]1. Linear Algebra[/b][br/]Separating hyperplane theorems and Farkas' lemma in finite dimensional spaces.[br/][u]Applications to finance[/u]: Expected return and variance of portfolios[br/]Arbitrage pricing, state prices and risk neutral probability. [br/][br/][b]2. Simulation methods[/b][br/]An introduction to techniques for simulating random variables, basic Monte Carlo methods and variance reduction techniques.[br/][u]Applications to finance[/u]: Principles of derivatives pricing with Monte Carlo methods.[br/][br/][b]3. Optimization[/b][br/]Concave and convex functions. Static optimization without and with constraints:  Kuhn-Tucker Theorem and Lagrange multipliers. Dynamic optimization in discrete time. [br/][u]Applications to finance[/u]: Risk versus return: expected utility, mean-variance. Static portfolio optimization without and with constraints and market equilibrium. Intertemporal consumption and portfolio choice.",
+      "Keywords":"Separating hyperplane theorems; Monte Carlo methods, variance reduction techniques;  Kuhn-Tucker Theorem, Bellman's equation; Value at Risk, risk measures.",
+      "Type of teaching":"Lectures and exercises",
+      "Learning outcomes":"To introduce students to some of the mathematical methods used in Finance and to show how these methods are applied to solve fundamental problems in Finance."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantitative methods in finance",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192170",
+      "name":"Ravanelli Claudia"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"L'examen intermédiaire et l'examen final sont à livre fermé et sans documents",
+      "Bibliographie et matériel":"Documents de recherche. Chapitres tirés de différents ouvrages. Une bibliographie sera distribuée en début de cours.",
+      "Mots clés":"Théorèmes de séparation des hyperplans; méthodes de Monte Carlo, techniques de réduction de la variance; Théorème de Kuhn-Tucker, équation de Bellman; Value at Risk, mesures de risque.",
+      "Forme d'enseignement":"Cours et exercices ",
+      "Contenu":"[b]1. Algèbre linéaire[/b][br/]Théorèmes de séparation des hyperplans et lemme de Farkas dans des espaces de dimensions finies.[br/][u]Applications à la finance[/u]: Retour Attendu et désaccord de portefeuilles[br/]Evaluation par arbitrage, prix d'états, probabilité corrigée du risque. [br/][br/][b]2. Méthodes de simulation[/b][br/]Introduction aux techniques de simulation de variables aléatoires, méthodes de Monte Carlo et techniques de réduction de la variance.[br/][u]Applications à la finance[/u]: Retour Attendu et désaccord de portefeuilles[br/]Principes de l'évaluation de produits dérivés par les méthodes de Monte Carlo.[br/][br/][b]3. Optimisation[/b][br/]Fonctions concaves et convexes. Optimisation statique sans et avec contraintes: théorème de Kuhn-Tucker et multiplicateurs de Lagrange. Optimisation dynamique en temps discret. [br/][u]Applications à la finance[/u]: Risque versus rendement: utilité attendue, moyenne variance. Optimisation statique du portefeuille sans et avec contraintes et équilibre du marché. Consommation intertemporelle et choix du portefeuille. ",
+      "Forme du contrôle":"20% exercices à rendre[br/]40% examen intermédiaire[br/]40% examen final",
+      "Préparation pour":"Investments[br/]Real options and financial structuring",
+      "Objectifs d'apprentissage":"Initier les étudiants aux méthodes mathématiques utilisées en Finance et montrer comment ces méthodes sont utilisées pour résoudre des problèmes fondamentaux en Finance."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantitative methods in finance",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

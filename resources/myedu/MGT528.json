@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543121640&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","528"],
+    "title":"Operations: Economics & Strategy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543121640&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216550",
+      "name":"Weber Thomas Alois"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Supply-chain management within a firm is concerned with the flow of goods and services from firms to consumers. The design of high-performance supply chains depends decisively on the information available to the different parties. The  available information technology together with the incentives for the sharing of information within and across firm boundaries are of key importance for the analysis and optimization of supply chains.[br/][br/]This course provides an overview of the economic drivers and technological possibilities for designing a successful supply-chain strategy, especially in view of information flows. [br/][br/]",
+      "Content":"Readings and cases are used to discuss the following topics:[br/][br/][br/]1.\tOrigin and Scope of Supply-Chain Management[br/]2.\tSupply-Chain Coordination[br/]3.\tLogistics Design: Strategic/Tactical/Operational Decisions[br/]4.\tPerformance Metrics[br/]5.\tValue of Information[br/]6.\tEnabling Information Technologies[br/]7.\tIncentives for Information Sharing[br/]8.\tCooperation and Relational Contracts[br/]9.\tSourcing Decisions and Contract Design[br/]10.\tRecent & Special Issues[br/][br/]",
+      "Form of examination":"20% Homework[br/]40% Team project [br/]30% Written exam[br/]10% Class participation[br/]",
+      "Bibliography and material":"Reading bulkpack"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Operations: Economics & Strategy",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216550",
+      "name":"Weber Thomas Alois"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"Nous utiliserons une combinaison de lectures et des cas pour traiter des sujets suivants :[br/][br/]1.\tOrigine et champ d'application de la logistique[br/]2.\tCoordination des chaînes d'approvisionnement[br/]3.\tConception des systèmes logistiques: décisions stratégiques/tactiques/opérationnelles[br/]4.\tMesures de performance[br/]5.\tValeur de l'information[br/]6.\tTechnologies de l'information[br/]7.\tMotivations à partager l'information[br/]8.\tCoopération et contrats relationnels[br/]9.\tDécisions d'approvisionnement et design de contrats [br/]10.\tQuestions récentes et spéciales[br/]",
+      "Forme du contrôle":"20% Devoirs[br/]40% Projet de groupe[br/]30% Examen écrit[br/]10% Participation[br/]",
+      "Bibliographie et matériel":"Fascicule polycopié",
+      "Objectifs d'apprentissage":"Le management des chaines d'approvisionnement a pour objet la gestion du flux des marchandises et des services, des entreprises aux consommateurs. La conception d'un réseau logistique (chaîne d'approvisionnement) compétitif dépend de manière décisive de l'information à disposition des différents intervenants. La technologie de l'information disponible et la motivation à partager l'information à l'intérieur et à l'extérieur des frontières des entreprises sont indispensables pour l'analyse et l'optimisation des chaînes d'approvisionnement.[br/][br/]Ce cours donnera une vue globale des possibilités actuelles et des incitations économiques pour (ou contre) l'application fructueuse des systèmes d'information dans les réseaux logistiques.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Operations: Economics & Strategy",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

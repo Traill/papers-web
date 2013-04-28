@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775217&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","416"],
+    "title":"Elementary particle physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775217&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/~bay","http://lphe.epfl.ch/%7Ebay"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122784",
+      "name":"Bay Aurelio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to experimental and phenomenological aspects of Particle Physics, Part II",
+      "Content":"[b]Partons and quarks:[/b][br/]Deep inelastic scattering. Annihilation e+e- at LEP, jets and strings.[br/]   [br/][b]Weak Interaction:[/b][br/]Fermi's V-A theory. Pion and muon decays. Cabibbo's theory. The W and Z bosons and their observation at the CERN collider.[br/][b]Model of quarks and QCD:[/b][br/]SU(3) flavour, mesonic and baryonic structure. SU(N). Quarkonium. The Colour.[br/][b]Gauge Theories and the Standard Model:[/b][br/]Global and local gauge invariance. Yang and Mills theories. Spontaneous symmetry breaking. Electro-weak theory SU(2)xU(1), the Higgs mechanism. GUTs, the Grand Unification.[br/][][br/][][br/]  [br/]   [br/]    [br/]        ",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Nuclear and Particle Physics I and II, Quantum mechanics I and II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Elementary particle physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/~bay","http://lphe.epfl.ch/%7Ebay"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122784",
+      "name":"Bay Aurelio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de physique nucléaire et corpusculaire I et II, Physique quantique I et II",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]Partons et quarks :[/b][br/]Diffusion électron-nucléon, annihilation électron-positron au LEP, jets et cordes.[br/][b]L'interaction faible :[/b][br/]La théorie de Fermi, théorie V-A. Désintégration du pion et du muon. La théorie de Cabibbo. Les bosons W et Z et leur observation aux collisionneurs.[br/][b]Modèle des quarks et QCD :[/b][br/]SU(3) saveur, structure mésonique et baryonique. SU(N). Quarkonium. La Couleur.[br/][b]Théories de jauge et le Modèle Standard :[/b][br/]Structure globale et locale. Théories de Yang et Mills. La brisure spontanée de symétrie. La théorie Electro-Faible : SU(2)xU(1), le mécanisme du Higgs. GUTs, la grande unification",
+      "Forme du contrôle":"examen oral (100%)",
+      "Préparation pour":"Méthodes et concepts sont à large spectre d'utilisation; Introduction aux cours de 3ème cycle",
+      "Objectifs d'apprentissage":"Introduction à l'aspect expérimental et à la description phénoménologique de la physique des particules, partie II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Particules élémentaires II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

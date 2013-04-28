@@ -1,0 +1,60 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965841369&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","611"],
+    "title":"Financial Institutions",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965841369&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217007",
+      "name":"Sato Yuki"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"1.\tHidden information, screening.[br/]2.\tHidden information, signaling[br/]3.\tHidden action, moral hazard[br/]4.\tFinancial contracting and security design[br/]5.\tFinancial intermediation[br/]6.\tFinancial crises[br/]7.\tLearning, manipulation, herding in financial markets[br/]",
+      "Form of examination":"Written"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial Institutions",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217007",
+      "name":"Sato Yuki"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1.\tHidden information, screening.[br/]2.\tHidden information, signaling[br/]3.\tHidden action, moral hazard[br/]4.\tFinancial contracting and security design[br/]5.\tFinancial intermediation[br/]6.\tFinancial crises[br/]7.\tLearning, manipulation, herding in financial markets"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial Institutions",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

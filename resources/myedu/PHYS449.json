@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775167&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","449"],
+    "title":"Optics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775167&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131663",
+      "name":"Portella Oberli Marcia"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This optics course is given as a series over 3 semesters. A the end, the students should be able to analyse, understand and design complex optical systems containing both passibe elements such as lenses or fibers and active elements such as lasers or detectors. In addition, the students should acquire a basic knowledge of the time-resolved incoherent and coherent spectroscopy methods, which applies to studies of chemical, biological and physical systems.[br/][br/]",
+      "Content":"[b]Nonlinear Optics:[/b] The light interaction with mater, electromagnetic description of the nonlinear optic interaction. Second order nonlinear effects (optic rectification, electro-optical effect, Pockels effect, frequency conversion, three-wave mixing, parametric interaction of frequencies) and third order nonlinear effects (optical Kerr effect, self-phase modulation, self focusing, four-wave mixing, phase conjugation, soliton).[br/][br/][b]Pulsed Optics:[/b] Light pulses, Fourier transformation, short light pulses propagation, group velocity dispersion, self-phase modulation, soliton.[br/][br/][b]Ultrashort pulse lasers:[/b] Methods for the generation of ultrashort optical pulses: Principle of the active and passive modelocking, hybrid modelocking, pulse amplification and pulse compression. Techniques for characterization and for temporal measurements of ultrashort optical pulses: autocorrelators, Streak camera, amplitude-phase measurements. Dye laser, Ti:Saphire laser, semiconductor laser.[br/][br/][b]Methods for coherent and incoherent time-resolved spectroscopy:[/b] Luminescence, pump-probe experiments, four-wave mixing, photon echoes, applications in chemical and biological systems and in semiconductors.[br/][br/][b]Linear and nonlinear optical properties of semiconductors: [/b]absorption and emission of light, relaxation processes, radiative lifetimes, band gap renormalization, Stark shift, phase-space filling.[br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra with exercises each week",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"none"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/131663",
+      "name":"Portella Oberli Marcia"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices chaque semaine",
+      "Contenu":"[b]Optique non linéaire :[/b] Interaction de la lumière avec la matière, description électromagnétique de l'interaction optique non linéaire. Effets non linéaires du deuxième ordre (rectification optique, effet électro-optique, effet Pockels, conversion de fréquence, mélange à trois ondes, interaction paramétrique des fréquences) et du troisième ordre (effet Kerr optique, l'auto modulation de phase, l'auto focalisation, mélange à quatre-ondes, la conjugaison de phase, le soliton).[br/][br/][b]Optique pulsée :[/b] Impulsion de lumière, application de transformation de Fourier, propagation d'impulsions courtes, dispersion de vitesse de groupe, l'auto modulation de phase, le soliton.[br/][br/][b]Lasers à impulsions courtes :[/b] Méthodes de génération des impulsions courtes : principe du blocage des modes actif et passif, blocage de modes hybride, amplification et compression des impulsions. Techniques de caractérisation et de mesures temporales des impulsions courtes : les autocorrelateurs, la caméra à balayage de fentes, mesures de phase et amplitude. Laser à colorant, laser à Ti : Saphire, laser à semiconducteur.[br/][br/][b]Méthodes de spectroscopie résolue en temps cohérente et incohérente :[/b] luminescence, expérience pompe et sonde, mélange à quatre-ondes, échos des photons, applications en systèmes chimiques, biologiques et en semiconducteurs.[br/][br/][b]Propriétés optiques linéaires et non linéaires des semiconducteurs : [/b]absorption et émission de la lumière, processus de relaxation, durées de vie radiatives, rénormalisation du gap d'énergie, déplacement d'énergie Stark, remplissage de l'espace de phase.",
+      "Forme du contrôle":"examen oral (100%)",
+      "Prérequis":"aucun",
+      "Objectifs d'apprentissage":"Le cours d'optique est donné sur une série de trois semestres. A la fin du cours, l'étudiant doit être à même d'analyser, de comprendre et, en principe, de réaliser un système d'optique complexe comprenant à la fois des éléments passifs comme une fibre optique et des éléments actifs comme un laser ou un modulateur. En plus, les étudiants doivent acquérir une connaissance de base des méthodes spectroscopiques incohérentes et cohérentes résolues en temps utilisées pour étudier des systèmes chimiques, biologiques et physiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optique III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

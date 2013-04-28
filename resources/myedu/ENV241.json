@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775267&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","241"],
+    "title":"Photo interpretation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775267&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["www.gecweb.info/pi","www.gecweb.info/pi "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109329",
+      "name":"Gervaix François"
+    },{
+      "url":"http://people.epfl.ch/172717",
+      "name":"Graf Bernard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous (trial + project)",
+      "Prerequisite for":"Remote sensing[br/]Environmental geovizualisation[br/]Imagery of the territory[br/]Geomonitoring",
+      "Required prior knowledge":"Fundamentals of geomatics",
+      "Content":"[b]THEORY[/b][br/][li]Essential knowledge of remote sensing and Photogrammetry[br/][li]Frame and linear sensors[br/][li]Accuracy, resolution and level of detail[br/][li]Stereoscopic extraction[br/][li]Airborne laser scanners (LIDAR)[br/][li]Digital elevation model (DEM)[br/][li]True Ortho[sup]TM[/sub][br/][li]Remote sensing from space and satellites[br/][b]PRAXIS[/b][br/]Through the combination of field and office sessions, a link between the reality and the aerial imagery is established. Miscellaneous themes are offered in the vicinity of Plateau de Suchy (46°44'N, 6°36'E); they are linked not only to forestry, yet to territorial development, mobility or geomorphology. Observations made in situ are confronted with those made within the aerial date. Aspect like level of detail, timeline, geometric accuracy and field of view are considered.[br/][br/]",
+      "Type of teaching":"Ex cathedra lecture, practice in field and in computer room[br/]",
+      "Learning outcomes":"At the end of the course, the student will be able to:[br/]Recognise several types of images used in image analysis[br/]Compare information contained in these images[br/]Predict the geometric level of detail obtained from a given image[br/]Interpret the observed radiometric details[br/]Modify georeferencing files[br/]Express his/her needs in photogrammetric data[br/]Compare observations made in the field and in the office[br/]Communicate the conclusions made by the group[br/]Support the choices made during the synthesis work[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Photo interpretation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["www.gecweb.info/pi","www.gecweb.info/pi "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109329",
+      "name":"Gervaix François"
+    },{
+      "url":"http://people.epfl.ch/172717",
+      "name":"Graf Bernard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Eléments de géomatique",
+      "Bibliographie et matériel":"Polycopiés",
+      "Forme d'enseignement":"Cours ex cathedra, travaux pratiques sur le terrain et en salle d'informatique",
+      "Contenu":"[b]THEORIE[/b][br/][li]Notions essentielles de télédétection et de photogrammétrie[br/][li]Capteurs matriciels et linéaires[br/][li]Précision, résolution et niveau de détail[br/][li]Restitution stéréoscopique[br/][li]Scanners lasers aériens (LIDAR)[br/][li]Modèles numériques d'élévation[br/][li]Orthophoto intégrale (True Ortho[sup]TM [/sub])[br/][li]Télédétection et satellites[br/][b]PRATIQUE[/b][br/]La combinaison de séances de terrain et de bureau permet d'établir le lien entre la réalité et l'image aérienne. Différentes problématiques sont proposées dans les environs du plateau de Suchy (46°44'N, 6°36'E); elles peuvent être liées à la foresterie mais également au développement territorial, à la mobilité ou à la géomorphologie. Les observations faites sur le terrain sont confrontées aux observations faites sur les données aériennes. Les aspects de niveau de détail, de séquence temporelle, de précision géométrique et de largeur de champ sont discutés.",
+      "Forme du contrôle":"Continu (test + projet)",
+      "Préparation pour":"Télédétection[br/]Géovisualisation environnementale[br/]Imagerie du territoire[br/]Géomonitoring",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant-e sera capable de:[br/]Reconnaître les différents types d'images utilisées en PI.[br/]Comparer les informations contenues dans ces images[br/]Prédire le niveau de détail géométrique obtenu dans une image[br/]Interpréter les détails radiométriques observables[br/]Modifier les fichiers de géoréférencement[br/]Formuler ses besoins en données photogrammétriques[br/]Comparer les observations faites sur le terrain et au bureau[br/]Schématiser par un plan les observations faites sur le terrain[br/]Exposer les conclusions obtenues par le groupe[br/]Défendre les choix faits durant le travail de synthèse"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Photo-interprétation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

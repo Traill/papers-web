@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770973&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","401"],
+    "title":"Cryptography and security",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770973&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lasecwww.epfl.ch/teaching.shtml","http://lasecwww.epfl.ch/teaching.shtml"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210384",
+      "name":"Boureanu Ioana Cristina"
+    },{
+      "url":"http://people.epfl.ch/131602",
+      "name":"Vaudenay Serge"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Mandatory for the specialization \"Information and communication security\"",
+      "Form of examination":"Final exam with bonus based on continuous evaluations",
+      "Bibliography and material":"\"Communication security : an introduction to cryptography / Serge Vaudenay\". 2004",
+      "Prerequisite for":"Advanced cryptography",
+      "Required prior knowledge":"Algebra, Probability theory, Algorithmics",
+      "Content":"1.\tCryptography prehistory. Shannon secrecy.[br/]2.\tApplied number theory.[br/]3.\tCryptozoology: symmetric encryption, hashing, message authentication, public-key cryptography, signature, key agreement.[br/]4.\tElements of cryptanalysis: exhaustive search, birthday paradox, algorithmic complexity.[br/]5.\tCommunication security.[br/]6.\tTrust establishment. Public-key infrastructure, identity-based cryptography.[br/]7.\tPrivacy. RFID technology.[br/]8.\tCase studies: wireless ommunication (telephony, WiFi, Bluetooth, W-USB), biometric passport, secure transactions over the Internet (SSL, SSH, PGP).",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"Introduce the basics of cryptography : identify security issues and cryptographic primitives, understand how to use them and how they can be implemented, assimilate necessary notions to understand how they operate."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cryptography and security",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-25464-1&amp;con_lng=ENG\" target=\"blank\">A classical introduction to cryptography : applications for communications security / Serge Vaudenay</a>\". Year:2006. ISBN:0-387-25464-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-27934-2&amp;con_lng=ENG\" target=\"blank\">A classical introduction to cryptography exercise book / by Thomas Baignères ... [et al.] to accompany A classical introduction to cryptography by Serge Vaudenay</a>\". Year:2006. ISBN:0-387-27934-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-14-8&amp;con_lng=ENG\" target=\"blank\">Computer system security : basic concepts and solved exercises / Gildas Avoine, Pascal Junod and Philippe Oechslin</a>\". Year:2007. ISBN:978-2-940222-14-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lasecwww.epfl.ch/teaching.shtml","http://lasecwww.epfl.ch/teaching.shtml"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/210384",
+      "name":"Boureanu Ioana Cristina"
+    },{
+      "url":"http://people.epfl.ch/131602",
+      "name":"Vaudenay Serge"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Obligatoire pour la spécialisation \"Information and communication security\"",
+      "Prérequis":"Algèbre, Probabilités, Algorithmique",
+      "Bibliographie et matériel":"\"Communication security : an introduction to cryptography / Serge Vaudenay\". 2004",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1.\tPréhistoire de la cryptographie. Confidentialité de Shannon.[br/]2.\tThéorie des nombres appliquée à la cryptographie.[br/]3.\tCryptozoologie: chiffrement symétrique, hachage, authentification de message, chiffrement à clef publique, signature, établissement de clef.[br/]4.\tNotions d'analyse cryptographique: recherche exhaustive, paradoxe des anniversaires, complexité algorithmique.[br/]5.\tSécurité des communications.[br/]6.\tEtablissement de la confiance. Infrastructure à clef publique, chiffrement fondé sur l'identité.[br/]7.\tProtection de la sphère privée. Technologie RFID.[br/]8.\tEtudes de cas: communications sans fils (téléphonie, WiFi, Bluetooth, W-USB), passeport biométrique, transactions sécurisées sur Internet (SSL, SSH, PGP).[br/]",
+      "Forme du contrôle":"Examen final avec bonus en fonction du contrôle continu",
+      "Préparation pour":"Advanced cryptography",
+      "Objectifs d'apprentissage":"Introduire les bases de la cryptographie : identifier les problèmes de sécurité et les primitives cryptographiques, comprendre comment les utiliser et les mettre en oeuvre, assimiler les notions nécessaires pour comprendre leur fonctionnement."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cryptography and security",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-25464-1&amp;con_lng=FRE\" target=\"blank\">A classical introduction to cryptography : applications for communications security / Serge Vaudenay</a>\". Année:2006. ISBN:0-387-25464-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-27934-2&amp;con_lng=FRE\" target=\"blank\">A classical introduction to cryptography exercise book / by Thomas Baignères ... [et al.] to accompany A classical introduction to cryptography by Serge Vaudenay</a>\". Année:2006. ISBN:0-387-27934-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-14-8&amp;con_lng=FRE\" target=\"blank\">Computer system security : basic concepts and solved exercises / Gildas Avoine, Pascal Junod and Philippe Oechslin</a>\". Année:2007. ISBN:978-2-940222-14-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

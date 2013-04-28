@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597594187&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","706"],
+    "title":"Similarity in fluid dynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597594187&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["lhe.epfl.ch","lhe.epfl.ch   "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148669",
+      "name":"Ancey Christophe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To provide the student with the modern tools to solve fluid-mechanics problems (which can also be used in other fields)",
+      "Content":"1 Equations of mechanics:[br/]- linear and nonlinear diffusion[br/]- fractal diffusion[br/]- advection: shock formation, hyperbolic and parabolic equations[br/]- method of characteristics[br/]2 Similarity solutions[br/]- group theory, invariance[br/]- similarity[br/]- phase portrait[br/]3 Asymptotic analysis[br/]",
+      "Required prior knowledge":"fundamentals in fluid mechanics, differential analysis"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Similarity in fluid dynamics",
+    "recitation":{
+      "total_hours":24
+    },
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["lhe.epfl.ch","lhe.epfl.ch   "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148669",
+      "name":"Ancey Christophe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Similarity in fluid dynamics",
+    "recitation":{
+      "total_hours":24
+    },
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

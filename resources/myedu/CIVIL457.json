@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=338340784&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","457"],
+    "title":"Fundamentals of Traffic Operations and Control",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=338340784&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196675",
+      "name":"Geroliminis Nikolaos"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of Traffic Operations and Control",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196675",
+      "name":"Geroliminis Nikolaos"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Systèmes De Transport I or Consent of the Instructor",
+      "Bibliographie et matériel":"Course notes",
+      "Forme d'enseignement":"Lectures, mini project and exercises",
+      "Contenu":"Transportation Data Analysis[br/]Observation, Measurement, Stochastic Processes, review of probability theory and estimation; collection and interpretation of data.[br/][br/]Traffic Modeling[br/]Relations between properties of traffic streams and models describing how these properties change over time and space at different levels of scale: Micro- (Car following) , Meso- (link level), Macro- (city level)[br/][br/]Performance evaluation[br/]Performance quality, Level of Service; Estimation of queue lengths, speeds and delays[br/][br/]Control of Traffic Signals [br/]Fundamentals of signal design and timing. Technology, Pre-timed control, Actuated control, Coordination, Ramp metering[br/][br/]Scheduled transportation systems[br/]Basic principles in operating fleets, Allocation of urban space, preparation for more advanced study. [br/]",
+      "Forme du contrôle":"Written Midterm (Open Books) + Oral exam [br/]",
+      "Préparation pour":"Master Project",
+      "Objectifs d'apprentissage":"The objectives of this course are to present the major elements of traffic operations and to develop basic skills in applying the fundamentals of traffic analysis and control. By the end of this course, students should be able to start applying these skills to model different aspects of congestion in urban transportation systems and develop elegant control strategies to improve mobility in cities. The students are also prepared for further study in this field. The course does not cover all aspects of traffic engineering, operations and control.  The kinds of recipes found in handbooks, for example, are de-emphasized.  Priority is given instead to logic; i.e., ways of thinking about problems that commonly arise in transportation operations so as to obtain suitable solutions.  The ideas covered here are those that, by virtue of their grounding in physical reality, are most likely to stand the test of time."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of Traffic Operations and Control",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082377&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","604"],
+    "title":"Manufacturing information systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082377&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPR",
+    "program":"EDPR",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    },{
+      "url":"http://people.epfl.ch/112844",
+      "name":"Stroud Ian Anthony"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    },{
+      "url":"http://people.epfl.ch/107556",
+      "name":"Xirouchakis Paul"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objectives of the course are to introduce to the student the state of the art in various advanced topics of research (listed below in the content section) in the area of computer aided design and manufacturing. The student will familiarize himself/herself with the basic concepts, methods of approach and the available literature. Theoretical exercises and/or oral student research paper presentations will complement the learning of the material. Topics from the list will be offered selectively each year.",
+      "Content":"[li]Process planning models and generation and evaluation algorithms[br/][li]Computer-aided tolerancing[br/][li]Toolpath generation and simulation[br/][li]STEP data models[br/][li]Reverse engineering[br/][li]Machine tool command generation[br/][br/]Supervisor : Prof. P. Xirouchakis",
+      "Note":"Computer-aided manufacturing, virtual manufacturing, manufacturing optimization",
+      "Required prior knowledge":"A course in computer-aided design and manufacturing"
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Manufacturing information systems",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    },{
+      "url":"http://people.epfl.ch/112844",
+      "name":"Stroud Ian Anthony"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    },{
+      "url":"http://people.epfl.ch/107556",
+      "name":"Xirouchakis Paul"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Computer-aided manufacturing, virtual manufacturing, manufacturing optimization",
+      "Contenu":"[li]Process planning models and generation and evaluation algorithms[br/][li]Computer-aided tolerancing[br/][li]Toolpath generation and simulation[br/][li]STEP data models[br/][li]Reverse engineering[br/][li]Machine tool command generation[br/][br/]Supervisor : Prof. P. Xirouchakis",
+      "Prérequis":"A course in computer-aided design and manufacturing",
+      "Objectifs d'apprentissage":"The objectives of the course are to introduce to the student the state of the art in various advanced topics of research (listed below in the content section) in the area of computer aided design and manufacturing. The student will familiarize himself/herself with the basic concepts, methods of approach and the available literature. Theoretical exercises and/or oral student research paper presentations will complement the learning of the material. Topics from the list will be offered selectively each year."
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Manufacturing information systems",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  }
+}

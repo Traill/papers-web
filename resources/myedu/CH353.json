@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230666083&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","353"],
+    "title":"Introduction to electronic structure methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230666083&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150117",
+      "name":"Röthlisberger Ursula"
+    },{
+      "url":"http://people.epfl.ch/153498",
+      "name":"Tavernelli Ivano"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the theory and practical application of quantum chemical electronic structure methods and molecular modelling techniques.[br/] [br/]",
+      "Content":"Short repetition of the basic concepts of quantum mechanics and the main numerical algorithms used for practical implementions. Basic principles of electronic structure methods: Hartree-Fock, many body perturbation theory, configuration interaction, coupled-cluster theory, density functional theory. Overview of computational molecular modelling techniques.  [br/]Application of these techniques in a practical research project. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to electronic structure methods",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-69186-1&amp;con_lng=ENG\" target=\"blank\">Modern quantum chemistry : introduction to advanced electronic structure theory / Attila Szabo, Neil S. Ostlund</a>\". Year:1996. ISBN:0-486-69186-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-582-38210-6&amp;con_lng=ENG\" target=\"blank\">Molecular modelling : principles and applications / Andrew R. Leach</a>\". Year:2001. ISBN:0-582-38210-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150117",
+      "name":"Röthlisberger Ursula"
+    },{
+      "url":"http://people.epfl.ch/153498",
+      "name":"Tavernelli Ivano"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module Chimie computationnelle ",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Mathématiques appliquées\", \"Chimie quantique\".  ",
+      "Bibliographie et matériel":"\"Quantum Chemistry\", A. Szabo; \"Molecular Modelling\", A.R. Leach ",
+      "Forme d'enseignement":"Ex cathedra et projet par ordinateur  ",
+      "Contenu":"Répétition brève des concepts fondamentaux de la mécanique quantique et des algorithmes numériques utilisés pour les implémentations pratiques. Principes essentiels des méthodes de la structure électronique : HF, MPn, CI, CC, DFT. Résumé des techniques computationelles pour la modélisation des systèmes moléculaires.  ",
+      "Objectifs d'apprentissage":"Introduction à la théorie et les applications pratiques des méthodes de la structure électronique et des techniques de la modélisation moléculaire.  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to electronic structure methods",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-69186-1&amp;con_lng=FRE\" target=\"blank\">Modern quantum chemistry : introduction to advanced electronic structure theory / Attila Szabo, Neil S. Ostlund</a>\". Année:1996. ISBN:0-486-69186-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-582-38210-6&amp;con_lng=FRE\" target=\"blank\">Molecular modelling : principles and applications / Andrew R. Leach</a>\". Année:2001. ISBN:0-582-38210-6</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

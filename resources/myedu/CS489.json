@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71840994&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","489"],
+    "title":"Personal interaction studio",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71840994&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ldm.epfl.ch/","http://ldm.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166540",
+      "name":"Huang Jeffrey"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This module will introduce students to[br/][li]\tresearch in ubiquitous / pervasive computing[br/][li]\tapplication-based  research[br/][li]\tdesign methods[br/]and it will provide understanding and hands-on experience of[br/][li]\tMobile device (especially smart phones) architectures and programming[br/][tab]\t- interactive mobile applications[br/][tab]\t- local / remote connectivity[br/][li]\tInterfacing mobile devices, sensors and actuators[br/][tab]\t- data collection and analysis on smart phones[br/][tab]\t- display of information stored on the phone on ambient displays[br/]This module will be based on a balance of lectures and learning-through-making. Hands-on experience will be centered on a semester-long project which will also provide the main method of evaluation for the class.[br/][br/]",
+      "Content":"The module will provide an overview of research in ubiquitous and pervasive computing, including: mobile devices and mobile interaction; ambient computing and responsive environments; embedded interaction and tangible interfaces; social issues: privacy and disruption; evaluation: what should be measured and what cannot be.[br/]From the technology point of view the class project will include the design, development and testing of a mobile phone interactive application in response to a brief. The application will generally require sensing, analysis and display of information on the mobile phone and on embedded devices. The platform for the project will be smart  phones based on Symbian OS, programmed in a C++ dialect and (optionally) in J2ME. Projects will generally involve interfacing with wireless sensors and actuator/displays based on micro controllers programmable in C.[br/][br/][br/]",
+      "Type of teaching":"Studio (Project + lectures + readings)",
+      "Form of examination":"Continuous control and project",
+      "Required prior knowledge":"Object oriented programming in C++ (preferred) or Java.  Understanding of networking concepts, electronics principles and embedded systems.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Personal interaction studio",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ldm.epfl.ch/","http://ldm.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166540",
+      "name":"Huang Jeffrey"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Studio (projet + cours + lectures spécifiques)",
+      "Contenu":"Le cours présentera une vue d'ensemble de la recherche en [i]ubiquitous[/i] et [i]pervasive computing [/i]et particulièrement les dispositifs et interactions mobiles, [i]ambient computing[/i], les interactions embarquées et les interfaces tangibles. Il abordera aussi les questions sociales relatives à la sphère privée, ainsi que la pertinence des données mesurées. [br/]Du point de vue technologique, le projet inclura le design, le développement et les tests d'une application interactive sur un téléphone mobile, en accord avec des consignes de départ. L'application devra récolter, analyser et présenter des informations sur un téléphone mobile et sur des dispositifs embarqués. La plateforme pour le projet sera des [i]smart phones[/i] basés sur  SymbianOS, programmé en un dialecte C++ et (en option) en J2ME. Les projets seront interfacés avec des senseurs sans-fil et des actuateurs/écrans basés sur des microcontrôleurs programmable [br/]en C.  ",
+      "Forme du contrôle":"Contrôle continu et projet.",
+      "Prérequis":"Programmation orientée-objet en C++ (préféré) ou Java. Compréhension des concepts réseau, des principes de base d'électronique et des systèmes embarqués.",
+      "Objectifs d'apprentissage":"Ce module est une introduction à :[br/][li]\tla recherche  en [i]ubiquitous / pervasive computing[/i][br/][li]\tla recherche orientée applications [br/][li]\tles méthodes de design[br/]qui fournira la compréhension et l'expérience pratique concernant[br/][li]\tl'architecture et la programmation de dispositifs mobiles (particulièrement smart phones)[br/][tab]\t- les applications mobiles interactives[br/][tab]\t- la connectivité locale/distante[br/][li]\tL'interfaçage de dispositifs, senseurs et actuateurs mobiles[br/][tab]\t- la collecte et l'analyse de données sur des smart phones.[br/][tab]\t- la représentation sur des écrans présents dans l'environnement de données stockées sur un téléphone mobile. [br/]Ce module sera basé sur un équilibre entre cours et apprentissage par la pratique. Cette expérience pratique consistera en un projet développé tout au long du semestre, qui sera aussi le moyen principal d'évaluation du cours.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Personal interaction studio",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

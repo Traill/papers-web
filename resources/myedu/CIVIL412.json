@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772155&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","412"],
+    "title":"Hydraulic structures and schemes II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772155&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Acquisition of bases for the layout and design of hydraulic structures related to hydropower schemes in general and to storage schemes in particular (topics of dam and hydropower plant hydraulics).[br/][br/]",
+      "Content":"[br/][li]\tHydropower plants : types of powerhouses, layout and functioning of the main elements. Design of low, medium and high head schemes. Type of turbines. Pumped-storage power plants.[br/][li]\tReservoirs: design of volume and problematic of sedimentation. [br/][li]\tCriteria to find the optimum location of a reservoir in a catchment area. Types of dams.[br/][li]\tIntakes in lakes and reservoirs : selection criteria of type, hydraulic design, vortex formation.[br/][li]\tPressure tunnels and shafts. Types of linings and design of pervious and impervious linings. General design and safety criteria.[br/][li]\tRiver diversion works : possibilities of river diversion during construction of hydraulic structures. Hydraulic design and construction aspects. [br/][li]\tBottom outlets: purpose and principal elements of a bottom outlet. Hydraulic design and problems related to hydromechanical structures (gates, etc.) and aeration/air demand.[br/][li]\tSpillways: uncontrolled and gated overflow structures, orifices, chutes and stilling basins. Particularities of high velocity flows (natural and forced air entrainment, cavitation erosion) and energy dissipation (flip Bucket and plunge pool), scouring problems due to high veloicity jets.[br/][br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, application's exercices",
+      "Prerequisite for":"Master",
+      "Required prior knowledge":"Hydraulic structures and schemes I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hydraulic structures and schemes II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-163-7&amp;con_lng=ENG\" target=\"blank\">Constructions hydrauliques : écoulements stationnaires / Richard O. Sinniger, Willi H. Hager</a>\". Year:1989. ISBN:2-88074-163-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Aménagements hydrauliques I",
+      "Bibliographie et matériel":"Cours et fiches polycopiés. Livre \"Constructions Hydrauliques\" (TGC, Vol. 15, nouvelle édition 2009) ",
+      "Forme d'enseignement":"Ex cathedra, exercices d'application.",
+      "Contenu":"[br/][li]\tAménagements hydroélectriques : types de centrales, disposition et fonctionnement des éléments principaux. Conception des aménagements à basse, moyenne et à haute chute. Types de turbines. Aménagements de pompage-turbinage.[br/][li]\tRetenues : dimensionnement du volume et problématique de l'alluvionnement. [br/][li]\tCritères du choix de l'aménagement d'une retenue dans un bassin versant. Types de barrages.[br/][li]\tPrises d'eau en lac ou réservoir : critères du choix du type, dimensionnement hydraulique, formation des vortex. [br/][li]\tGaleries et puits en charge. Types de revêtements et dimensionnement des revêtement perméables et imperméables. Critères généraux de dimensionnement et aspects de sécurité.[br/][li]\tOuvrages de dérivation provisoire : possibilités de dériver un cours d'eau pour la réalisation d'un ouvrage hydraulique. Aspects constructifs et hydrauliques.[br/][li]\tOuvrages de vidange : but et éléments principaux d'une vidange. Calculs hydrauliques et problèmes particuliers liés aux vannes et à l'aération. [br/][li]\tOuvrages d'évacuation: déversoirs contrôlés et non contrôlés, orifices, coursiers et bassins amortisseurs. Aspects particuliers de l'eau s'écoulant à grande vitesse (aération superficielle et forcée, érosion de cavitation) et de la dissipation d'énergie (saut de ski et bassin de dissipation), affouillement dû aux jets à hautes vitesses. [br/][br/]",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Acquisition des bases nécessaires à la conception et au dimensionnement des ouvrages hydrauliques liés aux aménagements hydroélectriques en général et aux aménagements d'accumulation en particulier (problèmes hydrauliques des centrales hydroélectriques et barrages). "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Aménagements hydrauliques II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-163-7&amp;con_lng=FRE\" target=\"blank\">Constructions hydrauliques : écoulements stationnaires / Richard O. Sinniger, Willi H. Hager</a>\". Année:1989. ISBN:2-88074-163-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

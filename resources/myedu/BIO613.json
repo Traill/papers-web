@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=70099911&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","613"],
+    "title":"Immunology and bioengineering applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=70099911&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDBB",
+    "program":"EDBB",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172535",
+      "name":"Simeoni Eleonora"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To introduce immunology principles and to give knowledge of bioengineering applications in the immunology field and the impact of biomaterials on the immune system. ",
+      "Content":"Introduction to immunology principles: innate  and adaptive immune system, humoral response, cellulare response, autoimmunity, tollerance-allergy, transplantation, vaccines. Bioengineering applications in immunology. Interaction of biomaterials with the immune system. ",
+      "Required prior knowledge":"Basic knowledge of cellular and molecular biology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Immunology and bioengineering applications",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172535",
+      "name":"Simeoni Eleonora"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Introduction to immunology principles: innate  and adaptive immune system, humoral response, cellulare response, autoimmunity, tollerance-allergy, transplantation, vaccines. Bioengineering applications in immunology. Interaction of biomaterials with the immune system. ",
+      "Prérequis":"Basic knowledge of cellular and molecular biology",
+      "Objectifs d'apprentissage":"To introduce immunology principles and to give knowledge of bioengineering applications in the immunology field and the impact of biomaterials on the immune system. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Immunology and bioengineering applications",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

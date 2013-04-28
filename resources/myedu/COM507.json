@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231957235&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","507"],
+    "title":"Optional project in communication systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231957235&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SC-EPFL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ic.epfl.ch/page-29961-fr.html","http://ic.epfl.ch/page-29961-fr.html"],["http://ic.epfl.ch/page-29961-fr.html","http://ic.epfl.ch/page-29961-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Familiarize with the research problems and methods of an I&C laboratory, or a laboratory with similar research activities. Solve a problem autonomously and present the results orally and in a written report.",
+      "Content":"Individual research work to perform during the semester under the guidance of a professor or an assistant. The subject will be chosen among the themes proposed by the Communication Systems section, permanently accessible on the web from :[br/][br/]http://ssc.epfl.ch",
+      "Type of teaching":"Individual and independant work, under the guidance of a professor or an assistant.",
+      "Form of examination":"Oral presentation and written report.",
+      "Note":"1. The registration for the project is done via IS-Academia. Before registering, you must absolutely get the agreement from the person in charge of the project.[br/][br/]2. The optional project cannot be done during the same semester as the Semester project in Communication Systems II."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optional project in communication systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ic.epfl.ch/page-29961-fr.html","http://ic.epfl.ch/page-29961-fr.html"],["http://ic.epfl.ch/page-29961-fr.html","http://ic.epfl.ch/page-29961-fr.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Travail individuel et indépendant, supervisé par un professeur ou un assistant.",
+      "Contenu":"Travail de recherche individuel à effectuer pendant le semestre selon les directives d'un professeur ou d'un assistant. Sujet de travail à choisir parmi la liste des sujets de travail de semestre accessible en permanence sur internet depuis l'adresse :[br/][br/]http://ssc.epfl.ch",
+      "Forme du contrôle":"Présentation orale et rapport écrit",
+      "Remarque":"1. L'inscription au projet se fait via IS-Academia. Avant de vous inscrire, vous devez impérativement obtenir l'accord du responsable du projet.[br/][br/]2. Le projet optionnel ne peut pas se faire le même semestre que le projet en systèmes de communication II.",
+      "Objectifs d'apprentissage":"Entrer en contact avec les problèmes et les méthodes de recherche d'un laboratoire de la Faculté I&C ou d'un laboratoire avec des activités de recherche semblables. Résoudre un problème de manière autonome et présenter les résultats oralement et par écrit. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optional project in communication systems",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

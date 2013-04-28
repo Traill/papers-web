@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774242&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","330"],
+    "title":"Artificial intelligence",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774242&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"],["http://liawww.epfl.ch/","http://liawww.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105074",
+      "name":"Faltings Boi"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Exercises 40%, final exam 60%",
+      "Bibliography and material":"Polycopié: Intelligence Artificielle[br/]Winston & Horn: LISP, Addison Wesley[br/]Russel & Norvig: Artificial Intelligence: A Modern approach, Prentice Hall[br/]",
+      "Prerequisite for":"Intelligent Agents",
+      "Required prior knowledge":"Advanced topics in programming",
+      "Content":"The course consists of three segments that treat the 3 different types of logical inference: deduction, abduction and induction:[br/][br/]1.\tKnowledge representation with predicate logic, inference algorithms[br/]2.\tExpert systems[br/]3.\tImprecise and uncertain reasoning[br/]4.\tSearch algorithms[br/]5.\tConstraint satisfaction[br/]6.\tDiagnosis and Planning[br/]7.\tMachine learning, supervised and non-supervised[br/]",
+      "Type of teaching":"Ex cathedra, practical programming exercises",
+      "Learning outcomes":"Basic principles of Artificial Intelligence for implementing knowledge systems using deduction(reasoning), abduction(problem-solving) and induction (learning).[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Artificial intelligence",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-207148-2&amp;con_lng=ENG\" target=\"blank\">Artificial intelligence : a modern approach / Stuart J. Russell and Peter Norvig</a>\". Year:2010. ISBN:978-0-13-207148-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-764-0&amp;con_lng=ENG\" target=\"blank\">L'intelligence artificielle par la pratique / Boi Faltings et Michael Schumacher</a>\". Year:2009. ISBN:978-2-88074-764-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"],["http://liawww.epfl.ch/","http://liawww.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105074",
+      "name":"Faltings Boi"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Programmation avancée",
+      "Bibliographie et matériel":"Boi Faltings : Intelligence Artificielle par la pratique, PPUR[br/](Russel & Norvig : Artificial Intelligence : A Modern Approach / Prentice Hall)[br/]",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"Le cours comporte trois segments qui traitent les 3 différents formes d'inférence logique : déduction, abduction et induction :[br/][br/]1.\tReprésentation de connaissances en logique de prédicats, algorithmes d'inférence[br/]2.\tSystèmes experts[br/]3.\tRaisonnement imprécis et incertain[br/]4.\tAlgorithmes de recherche[br/]5.\tSatisfaction de Contraintes[br/]6.\tDiagnostic et Planification[br/]7.\tApprentissage supervisé et non-supervisé",
+      "Forme du contrôle":"Exercices 40%, examen final 60%[br/]",
+      "Préparation pour":"Intelligent Agents",
+      "Objectifs d'apprentissage":"Connaitre les principales techniques d'Intelligence Artificielle pour la réalisation de systèmes à base de connaissances : déduction (raisonnement), abduction (résolution de problèmes) et induction (apprentissage)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Intelligence artificielle",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-207148-2&amp;con_lng=FRE\" target=\"blank\">Artificial intelligence : a modern approach / Stuart J. Russell and Peter Norvig</a>\". Année:2010. ISBN:978-0-13-207148-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-764-0&amp;con_lng=FRE\" target=\"blank\">L'intelligence artificielle par la pratique / Boi Faltings et Michael Schumacher</a>\". Année:2009. ISBN:978-2-88074-764-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

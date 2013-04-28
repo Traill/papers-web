@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965857549&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","663"],
+    "title":"Practical - Trono Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965857549&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://tronolab.epfl.ch/","http://tronolab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168886",
+      "name":"Barde Isabelle"
+    },{
+      "url":"http://people.epfl.ch/181965",
+      "name":"Offner Sandra Eloise"
+    },{
+      "url":"http://people.epfl.ch/168513",
+      "name":"Turelli Priscilla"
+    },{
+      "url":"http://people.epfl.ch/174075",
+      "name":"Verp Sonia"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Content":"We will start with an introduction to the vectorology then learn how to design and produce a lentivector. The goal will be to discover how a modified lentivirus can be transformed to be used as a powerful tool to mediate stable expression of a transgene in vitro in cells and in vivo in a mouse model.",
+      "Keywords":"Lentivectors",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Note also that doctoral students from the Trono laboratory cannot take this course. Access is limited to 3 students.",
+      "Required prior knowledge":"Basic knowledge in cellular biology and virology "
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Trono Lab",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://tronolab.epfl.ch/","http://tronolab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168886",
+      "name":"Barde Isabelle"
+    },{
+      "url":"http://people.epfl.ch/181965",
+      "name":"Offner Sandra Eloise"
+    },{
+      "url":"http://people.epfl.ch/168513",
+      "name":"Turelli Priscilla"
+    },{
+      "url":"http://people.epfl.ch/174075",
+      "name":"Verp Sonia"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Brisken laboratory cannot take this course. Access is limited to 3 or 4 students.",
+      "Contenu":"We will start with an introduction to the vectorology then learn how to design and produce a lentivector. The goal will be to discover how a modified lentivirus can be transformed to be used as a powerful tool to mediate stable expression of a transgene in vitro in cells and in vivo in a mouse model.",
+      "Prérequis":"Basic knowledge in cellular biology and virology ",
+      "Mots clés":"Lentivectors"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Trono Lab",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

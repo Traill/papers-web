@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231606915&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","225"],
+    "title":"Continuum mechanics (for GC)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231606915&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178549",
+      "name":"Molinari Jean-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The aim of this class is to provide a theoretical and rational basis in the field of mechanics of solids and structures. The fundamental building blocks of the course are: kinematics of deformable bodies, stress, conservation laws and constitutive equations.",
+      "Content":"[li]\t[i]Solid Mechanics : [/i][br/]-\tContinuum mechanics hypothesis, conservation laws, tensors;[br/]-\tStrains and stresses;[br/]-\tLinear elastic isotropic solid (Hooke's law), internal energy;[br/]-\tPlane and three-dimensional elasticity;[br/]-\tUniform torsion;[br/]-\tPrinciple of virtual work;[br/]-\tEnergy."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Continuum mechanics (for GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-358-3&amp;con_lng=ENG\" target=\"blank\">Analyse des structures et milieux continus : mécanique des solides / François Frey</a>\". Year:2006. ISBN:2-88074-358-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178549",
+      "name":"Molinari Jean-François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Liaison avec cours: Analyse, algèbre linéaire, mécanique, géométrie, structures I, II, matériaux. Préparation aux cours de construction: mécanique des sols; mécanique des roches; béton armé et précontraint; construction métallique; construction en bois, barrages. Base des cours de mécanique des structures, méthode des éléments finis, dynamique, cours ultérieurs.",
+      "Prérequis":"Statique",
+      "Bibliographie et matériel":"Livre (PPUR) : TGC Vol.3",
+      "Forme d'enseignement":"Cours ex cathedra; moyens audio-visuels. Exercices en commun.",
+      "Contenu":"[li]\t[i]Mécanique des solides : [/i][br/]-\thypothèse du milieu continu; lois de conservation, tenseurs;[br/]-\tforces et contraintes;[br/]-\tdéplacements et déformations;[br/]-\tsolide élastique linéaire isotrope (loi de Hooke); énergie interne;[br/]-\télasticité plane et tridimensionnelle;[br/]-\ttorsion uniforme;[br/]-\tprincipe des travaux virtuels;[br/]-\ténergie.",
+      "Forme du contrôle":"Contrôle continu facultatif",
+      "Préparation pour":"Mécanique des structures I",
+      "Objectifs d'apprentissage":"Cette classe développe les notions fondamentales de la mécanique des milieux continus. Le contenu du cours donnera une base théorique et rationnelle dans le domaine du calcul des constructions et de la mécanique des solides déformables.[br/]Les blocs constituants le cours sont la cinématique des corps déformables, les contraintes, les grands principes de conservation, ainsi que les lois constitutives."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mécanique des milieux continus (pour GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-358-3&amp;con_lng=FRE\" target=\"blank\">Analyse des structures et milieux continus : mécanique des solides / François Frey</a>\". Année:2006. ISBN:2-88074-358-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

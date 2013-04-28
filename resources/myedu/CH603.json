@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51559381&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","603"],
+    "title":"Basic principles of drug action at the nervous system",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51559381&ww_x_anneeAcad=2012-2013&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDNE",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135476",
+      "name":"Cotecchia Susanna"
+    },{
+      "url":"http://people.epfl.ch/172784",
+      "name":"Kellenberger Stephan Beat"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of this course is two-fold:[br/]i) to describe the molecular properties of some important drug targets[br/]ii) to illustrate some applications of drugs active at the nervous system",
+      "Content":"Basic Principles of drug action at the nervous system[br/]1) Pharmacology of the cholinergic and adrenergic system 2h, SCotecchia[br/]2) Molecular pharmacology of G protein-coupled-receptors 4h, SCotecchia[br/]3) Molecular pharmacology of ion channels 2h, SKellenberger[br/]4) Pharmacology of pain 2h, SKellenberger[br/]5) Pharmacology of GABA receptors 2h, SKellenberger[br/]6) Anti-convulsant drugs 2h, SKellenberger ",
+      "Keywords":"drug action",
+      "Required prior knowledge":"Basic knowledge of biochemistry, physiology and neurobiology"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Basic principles of drug action at the nervous system",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135476",
+      "name":"Cotecchia Susanna"
+    },{
+      "url":"http://people.epfl.ch/172784",
+      "name":"Kellenberger Stephan Beat"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Basic Principles of drug action at the nervous system[br/]1) Pharmacology of the cholinergic and adrenergic system 2h, SCotecchia[br/]2) Molecular pharmacology of G protein-coupled-receptors 4h, SCotecchia[br/]3) Molecular pharmacology of ion channels 2h, SKellenberger[br/]4) Pharmacology of pain 2h, SKellenberger[br/]5) Pharmacology of GABA receptors 2h, SKellenberger[br/]6) Anti-convulsant drugs 2h, SKellenberger ",
+      "Mots clés":"drug action",
+      "Prérequis":"Basic knowledge of biochemistry, physiology and neurobiology",
+      "Objectifs d'apprentissage":"The aim of this course is two-fold:[br/]i) to describe the molecular properties of some important drug targets[br/]ii) to illustrate some applications of drugs active at the nervous and cardiovascular systems"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Basic principles of drug action at the nervous system",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

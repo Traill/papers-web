@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400839136&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","619"],
+    "title":"Solid-state Nuclear Magnetic Resonance spectroscopy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400839136&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205378",
+      "name":"Carnevale Diego"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Cover basic theoretical and experimental principles of solid-state NMR spectroscopy.",
+      "Content":"Introduction to solid-state NMR spectroscopy. Spin tensor operators. Basic principles of Magic Angle Spinning (MAS) solid-state NMR. NMR of quadrupolar nuclei. Chemical shift anistropy (CSA) and dipolar recoupling/decoupling in solids. Modern applications to study of molecular structures and dynamics.",
+      "Keywords":"Nuclear Magnetic Resonance (NMR), Solid-state NMR, Magic Angle Spinning (MAS)",
+      "Required prior knowledge":"Either \"Résonance Magntéique Nucléaire\" (Bachelor course, Prof. Bodenhausen) or \"Basic and Advanced NMR\" (Doctoral course)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Solid-state Nuclear Magnetic Resonance spectroscopy",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/205378",
+      "name":"Carnevale Diego"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Introduction to solid-state NMR spectroscopy. Spin tensor operators. Basic principles of Magic Angle Spinning (MAS) solid-state NMR. NMR of quadrupolar nuclei. Chemical shift anistropy (CSA) and dipolar recoupling/decoupling in solids. Modern applications to study of molecular structures and dynamics.",
+      "Mots clés":"Nuclear Magnetic Resonance (NMR), Solid-state NMR, Magic Angle Spinning (MAS)",
+      "Prérequis":"Either \"Résonance Magntéique Nucléaire\" (Bachelor course, Prof. Bodenhausen) or \"Basic and Advanced NMR\" (Doctoral course)",
+      "Objectifs d'apprentissage":"Cover basic theoretical and experimental principles of solid-state NMR spectroscopy."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Solid-state Nuclear Magnetic Resonance spectroscopy",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

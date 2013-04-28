@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774967&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","520"],
+    "title":"Laser micro-machining training course",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774967&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understanding the interactions of lasers with matter. Obtain and improve the knowledge of different applications of lasers in industrial micro- and nano-engineering.",
+      "Content":"[b]1. Introduction[/b][br/]Interaction light-matter[br/][b]2.Physical interactions[/b][br/]Bending[br/]Welding[br/]Cutting[br/]UV-ablation[br/]Femto-ablation[br/][b]3. Interaction with chemical changes[/b][br/]Photodeposition[br/]Etching[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Laser micro-machining training course",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-83345-0&amp;con_lng=ENG\" target=\"blank\">Laser fundamentals / William T. Silfvast</a>\". Year:2004. ISBN:0-521-83345-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113150",
+      "name":"Hoffmann Patrik"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, expériences et exercices",
+      "Contenu":"[b]1. Introduction[/b][br/]Interaction lumière/matière[br/][b]2. Interaction physique[/b][br/]Pliage[br/]Soudure[br/]Découpage[br/]UV-ablation[br/]Femto-ablation[br/][b]3.Interaction avec changement chimique[/b][br/]Photodéposition[br/]Etching",
+      "Bibliographie et matériel":"M. Von Allmen, A. Blatter, Laser-Beam Interaction with Materials, Springer 1995 et D. Bäuerle, Laser Processing and Chemistry, Springer, 2000 ",
+      "Objectifs d'apprentissage":"Comprendre l'interaction d'un laser avec la matière. Acquérir et approfondir des connaissances sur les différents types d'applications des lasers utilisés pour le micro- et nano-usinage industriel."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Micro-usinage par Laser",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-83345-0&amp;con_lng=FRE\" target=\"blank\">Laser fundamentals / William T. Silfvast</a>\". Année:2004. ISBN:0-521-83345-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

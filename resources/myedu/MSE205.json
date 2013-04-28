@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776072&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","205"],
+    "title":"Materials mechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776072&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[br/][li]To give an introduction to the solid mechanics of deformable materials.[br/][br/][li]To introduce the tools available for the calculation of stresses and strains into materials of loaded structures, thus to describe the mechanical behavior and the strength of materials. [br/][br/][li]To introduce the mechanics of structures such as beams, shells, trellis...[br/][li]To present the failure criteria and the limits of the elastic properties of isotropic materials.[br/][li]To illustrate material mechanics with examples from engineering and biology. [br/]",
+      "Content":"[br/][li]Introduction to material mechanics[br/][li]Elasticity and mechanical behavior of  the different materials[br/][br/][li]State, distribution and local concentration of stresses[br/][li]Tension, compression, shear, bending, torsion[br/][li]Structures : beam, plates, shells[br/][li]Thermomechanical properties of multi-material systems[br/][li]Failure criteria and design tools. ",
+      "Type of teaching":"Ex cathedra ",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"General physics I, Continuum mechanics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Materials mechanics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-553-01034-6&amp;con_lng=ENG\" target=\"blank\">Résistance des matériaux / André Bazergui ... [et al.]</a>\". Year:2002. ISBN:2-553-01034-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-553-01035-4&amp;con_lng=ENG\" target=\"blank\">Résistance des matériaux : recueil de problèmes / André Bazergui... [et al.]</a>\". Year:2003. ISBN:2-553-01035-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104610",
+      "name":"Bourban Pierre-Etienne"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique générale I, Milieux continus",
+      "Bibliographie et matériel":"Documents du cours, livres recommandés de résistance des matériaux",
+      "Forme d'enseignement":"Ex cathedra ",
+      "Contenu":"[br/][li]Introduction à la résistance des matériaux[br/][li]Élasticité linéaire et comportements mécaniques des différents matériaux[br/][li]États, distribution et concentration des contraintes[br/][li]Traction, compression, cisaillement, flexion, torsion, flambage[br/][li]Structures : poutres, plaques, coques, ...[br/][li]Comportement thermomécanique de systèmes multi-matériaux[br/][li]Critères de rupture et aides à la conception",
+      "Forme du contrôle":"Examen écrit ",
+      "Objectifs d'apprentissage":"[br/][li]Offrir une introduction à la mécanique des solides déformables en appliquant les théories des milieux continus. [br/][li]Présenter les outils permettant la détermination des contraintes et déformations des matériaux à partir des efforts et moments appliqués sur les structures courantes. Décrire ainsi le comportement et la résistance des matériaux sous divers cas de charges mécaniques.[br/][li]Présenter une introduction au comportement mécanique des structures (poutres, plaques, enveloppes, treillis, etc). [br/][li]Introduire les critères de rupture de l'équilibre élastique pour les matériaux isotropes. [br/][li]Illustrer la mécanique et la résistance des matériaux par des exemples tirés de structures industrielles, de la nature et de la biologie."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Résistance des matériaux",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-553-01034-6&amp;con_lng=FRE\" target=\"blank\">Résistance des matériaux / André Bazergui ... [et al.]</a>\". Année:2002. ISBN:2-553-01034-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-553-01035-4&amp;con_lng=FRE\" target=\"blank\">Résistance des matériaux : recueil de problèmes / André Bazergui... [et al.]</a>\". Année:2003. ISBN:2-553-01035-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

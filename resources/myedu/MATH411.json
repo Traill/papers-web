@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129696446&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","411"],
+    "title":"Quadratic forms over fields",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129696446&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The theory of quadratic forms over arbitrary fields is a very active topic, many new results were proved recently. The aim of the course is to give an introduction to this subject.",
+      "Content":"- Basic notions[br/]- Witt's cancellation theorem[br/]- Witt ring[br/]- Pfister forms[br/]- The level of a field[br/]- Base change and transfer[br/]- Hasse-Witt invariant[br/]- Galois descent[br/]- Generic methods[br/]- Perspectives.",
+      "Required prior knowledge":"Algebra 2nd year"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quadratic forms over fields",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8218-1095-2&amp;con_lng=ENG\" target=\"blank\">Introduction to quadratic forms over fields / T.Y. Lam</a>\". Year:2005. ISBN:0-8218-1095-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-13724-6&amp;con_lng=ENG\" target=\"blank\">Quadratic and hermitian forms / Winfried Scharlau</a>\". Year:1985. ISBN:3-540-13724-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"- Notions fondamentales[br/]- Simplification de Witt[br/]- Anneau de Witt[br/]- Formes de Pfister[br/]- Niveau d'un corps[br/]- Extensions de scalaires et transfert[br/]- Invariant de Hosse-Witt[br/]- Descente galoisienne[br/]- Méthodes géométriques[br/]- Perspectives.",
+      "Prérequis":"Algèbre 2ème année",
+      "Bibliographie et matériel":"Lam : Quadratic forms over fields[br/]Scharlau : Quadratic and hermitian forms",
+      "Objectifs d'apprentissage":"La théorie des formes quadratiques sur des corps quelconques est actuellement en plein développement. Le but de ce cours est de donner une introduction à ce sujet."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quadratic forms over fields",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8218-1095-2&amp;con_lng=FRE\" target=\"blank\">Introduction to quadratic forms over fields / T.Y. Lam</a>\". Année:2005. ISBN:0-8218-1095-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-13724-6&amp;con_lng=FRE\" target=\"blank\">Quadratic and hermitian forms / Winfried Scharlau</a>\". Année:1985. ISBN:3-540-13724-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

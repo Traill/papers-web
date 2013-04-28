@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776557&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","221"],
+    "title":"Dynamical Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776557&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104596",
+      "name":"Bonvin Dominique"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam with optional mid-term exam (bonus)",
+      "Bibliography and material":"Cours polycopié \"Systèmes dynamiques\", février 2007[br/]Modern Control Systems by R.C. Dorf, R.H. Bishop, Prentice Hall, 11th edition (2008)[br/]Signaux et systèmes linéaires by Y. Thomas, Masson (1994)",
+      "Required prior knowledge":"[li]Analyse I-III[br/][li]Physique générale I-II",
+      "Content":" I. Mathematical modeling[br/][li]Concept of process, system and model[br/][li]Dynamical systems[br/][li]Representation via state variables[br/][li]Mechanical, electrical, thermal, chemical examples[br/][br/] II. Linear systems[br/][li]Linearization procedure[br/][li]Convolution[br/][li]Input-output representation[br/][br/] III. Transfer function[br/][li]Laplace transformation[br/][li]Concept of transfer function[br/][li]Poles and zeros[br/][br/] IV. Analysis of linear dynamical systems[br/][li]Time response[br/][li]Frequency response[br/][li]Bode and Nyquist diagrams[br/]",
+      "Keywords":"Mathematical modeling, transfer function, time response, frequency response",
+      "Type of teaching":"Lectures, exercises and laboratory demonstrations",
+      "Learning outcomes":"  [b]Domain Skills:[/b][br/][li]Represent a physical process as a system with its inputs, outputs and disturbances, A1 [br/][li]Derive the dynamic equations for the system, A2[br/][li]Linearize a nonlinear system, A3[br/][li]Analyze a linear dynamical system (both time and frequency responses), A4[br/][li]Represent a linear system by a transfer function, A5[br/][li]Represent a system by a linear or nonlinear state-space model, A6[br/][br/]   [b]Transversal skills:[/b][br/][li]Time management, T1[br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamical Systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-227028-5&amp;con_lng=ENG\" target=\"blank\">Modern control systems / Richard C. Dorf, Robert H. Bishop</a>\". Year:2007. ISBN:0-13-227028-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-84489-5&amp;con_lng=ENG\" target=\"blank\">Signaux et systèmes linéaires / Yves Thomas</a>\". Year:1994. ISBN:2-225-84489-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104596",
+      "name":"Bonvin Dominique"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li] Analyse I-III[br/][li] Physique générale I-II",
+      "Bibliographie et matériel":"Cours polycopié \"Systèmes dynamiques\", février 2007[br/]Modern Control Systems by R.C. Dorf, R.H. Bishop, Prentice Hall, 11th edition (2008)[br/]Signaux et systèmes linéaires by Y. Thomas, Masson (1994)",
+      "Mots clés":"Modélisation mathématique, fonction de transfert, analyse temporelle, analyse fréquentielle",
+      "Forme d'enseignement":"Cours, exercices et démonstrations en laboratoire",
+      "Contenu":"I.\tModélisation mathématique \t\t\t\t[br/][li]Notions de processus, de système, de modèle[br/][li]Systèmes dynamiques[br/][li]Représentation par variables d'état[br/][li]Exemples mécaniques, électriques, thermiques, fluidiques[br/]\t [br/][br/]II.\tSystèmes linéaires[br/][li]Linéarisation[br/][li]Convolution[br/][li]Représentation entrée - sortie[br/][br/]III.\tFonction de transfert[br/][li]Transformation de Laplace[br/][li]Concept de fonction de transfert[br/][li]Pôles et zéros[br/][br/]IV.\tAnalyse de systèmes dynamiques linéaires[br/][li]Réponse temporelle[br/][li]Réponse fréquentielle[br/][li]Diagrammes de Bode et de Nyquist",
+      "Forme du contrôle":"Examen écrit avec contrôle facultatif durant le semestre (bonus)",
+      "Objectifs d'apprentissage":"  [b]Compétences de domaine:[/b][br/][li]Représenter un processus physique sous forme de système avec ses entrées, ses sorties et ses perturbations, A1 [br/][li]Ecrire les équations dynamiques du système, A2[br/][li]Linéariser un système non linéaire, A3[br/][li]Analyser un système dynamique linéaire (approches temporelle et fréquentielle), A4[br/][li]Représenter un système linéaire sous forme de fonction de transfert, A5[br/][li]Représenter un système sous forme de  modèle d'état linéaire ou non linéaire, A6[br/][br/]   [b]Compétences transversales:[/b][br/][li]Gérer son temps, T1[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes dynamiques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-227028-5&amp;con_lng=FRE\" target=\"blank\">Modern control systems / Richard C. Dorf, Robert H. Bishop</a>\". Année:2007. ISBN:0-13-227028-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-225-84489-5&amp;con_lng=FRE\" target=\"blank\">Signaux et systèmes linéaires / Yves Thomas</a>\". Année:1994. ISBN:2-225-84489-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

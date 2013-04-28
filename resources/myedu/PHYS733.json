@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1057185100&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","733"],
+    "title":"Diagnostics of fusion plasmas",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1057185100&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://crppwww.epfl.ch/&#61566;weisen/COURS_DIAGS_AGENDA.HTML","http://crppwww.epfl.ch/&#61566;weisen/COURS_DIAGS_AGENDA.HTML"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104482",
+      "name":"Behn Roland"
+    },{
+      "url":"http://people.epfl.ch/112823",
+      "name":"Coda Stefano"
+    },{
+      "url":"http://people.epfl.ch/111055",
+      "name":"Furno Ivo"
+    },{
+      "url":"http://people.epfl.ch/106722",
+      "name":"Weisen Henri"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"Diagnostics of hot magnetically confined plasmas, such as plasma radiation diagnostics, passive and active spectroscopy, Thomson scattering, interferometry, reflectometry, polarimetry, electron cyclotron emission, particle beam diagnostics, diagnostics of fusion products. Note that the course content is distinct from, and complementary to, the two-week biannual course given by I. Furno, H. Reimerdes and B. Labit. It can be taken as a stand-alone course or in combination with the latter. Together, the two courses constitute a comprehensive overview of plasma diagnostics from small research devices to fusion plasmas",
+      "Keywords":"fusion plasmas, high temperature plasmas, diagnostics, measurements",
+      "Form of examination":"The default procedure shall be an oral examination. Students who regularly and actively participate to the exercise sessions will be allowed a choice between an oral exam and a project chosen together with one of the teachers.",
+      "Note":"Henri Weisen (henri.weisen@epfl.ch)",
+      "Required prior knowledge":"Basic knowledge of plasma physics is an advantage. However the instrumental aspects of the course may be of interest to students outside the field of plasma physics and fusion research"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Diagnostics of fusion plasmas",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://crppwww.epfl.ch/&#61566;weisen/COURS_DIAGS_AGENDA.HTML","http://crppwww.epfl.ch/&#61566;weisen/COURS_DIAGS_AGENDA.HTML"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104482",
+      "name":"Behn Roland"
+    },{
+      "url":"http://people.epfl.ch/112823",
+      "name":"Coda Stefano"
+    },{
+      "url":"http://people.epfl.ch/111055",
+      "name":"Furno Ivo"
+    },{
+      "url":"http://people.epfl.ch/106722",
+      "name":"Weisen Henri"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Diagnostics of fusion plasmas",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

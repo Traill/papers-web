@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24355725&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","211"],
+    "title":"Physics, Laboratory work II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24355725&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106373",
+      "name":"Schaller Robert"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To acquire the knowledge of the basic physical phenomena and their applications. In particular, to develop the observation and measurement methods, as well as the practice of measurement instruments. To develop the creativity and the synthesis and critical mind of the students. To improve the technics of written reports and oral presentations.",
+      "Content":"In relation with the contents of the courses of mechanics and physics.",
+      "Type of teaching":"In laboratory, 4h every week",
+      "Form of examination":"Continuous control",
+      "Required prior knowledge":"Introduction to metrology"
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physics, Laboratory work II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106373",
+      "name":"Schaller Robert"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction à la métrologie",
+      "Bibliographie et matériel":"Notices polycopiées",
+      "Forme d'enseignement":"En laboratoire à raison de 4h. par semaine",
+      "Contenu":"En rapport avec le contenu des cours de mécanique et de physique.",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Acquérir la connaissance des phénomènes physiques de base ainsi que de leurs applications. Acquérir des connaissances concernant les méthodes d'observation et de mesure ainsi que la manipulation d'appareils et d'instruments. Développer les sens de l'initiative et de la créativité. Améliorer les techniques de rédaction de rapports et de présentation orale."
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physique TP II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

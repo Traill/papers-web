@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71855072&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","101"],
+    "title":"Chemical equilibria and reactivity",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71855072&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105914",
+      "name":"Moser Jacques-Edouard"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chemical equilibria and reactivity",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105914",
+      "name":"Moser Jacques-Edouard"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Page web dédiée au cours: http://photochemistry.epfl.ch/ERC.html ",
+      "Bibliographie et matériel":"Polycopié ",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices ",
+      "Contenu":"[br/][li] Quantités chimiques : masse atomique, isotopes, notion de mole, formules chimiques, concentrations.[br/][li] Réactions chimiques et stoechiométrie : Equations chimiques, électrolytes, acides et bases, réducteurs  et oxydants.[br/][li] Propriétés des gaz : modèle cinétique des gaz, lois des gaz parfaits, pressions partielles, gaz réels.[br/][li] Thermochimie : énergie interne, premier principe de la thermodynamique, enthalpies des transformations physiques et des réactions chimiques, entropie, deuxième principe, enthalpie libre.[br/][li] Équilibres chimiques : enthalpie libre dans un mélange, potentiel chimique et activité, quotient réactionnel, constante d'équilibre, influence des paramètres réactionnels sur les équilibres.[br/][li] Propriétés des solutions : Dissolution et solvatation, solubilité, lois de Raoult et de Henry, propriétés colligatives des solutions (ébullioscopie, cryoscopie, pression osmotique).[br/][li] Transfert de proton: équilibres acide-base : théorie de Brønsted-Lowry, couples acide-base, constante d'ionisation, échelle de pH, calcul du pH de solutions, titrages acide-base, acides et bases de Lewis.[br/][li] Transfert d'électron: électrochimie : équilibrage des équations rédox, piles électrochimiques, potentiels standard, piles et accumulateurs, équation de Nernst, potentiel de membrane, corrosion, titrages rédox, électrolyse.[br/][li] Cinétique chimique : vitesse d'une réaction, lois de vitesse, molécularité et ordre d'une réaction, théorie du complexe activé, loi d'Arrhenius, catalyse, réactions enzymatiques. ",
+      "Forme du contrôle":"Épreuve écrite ",
+      "Objectifs d'apprentissage":"En conjonction avec le cours \"Atomes, ions, molécules et fonctions\", cet enseignement constitue une mise à niveau des connaissances en chimie générale des étudiants. Il vise plus particulièrement l'établissement de bases solides en chimie quantitative. Le cours s'attache à introduire progressivement les concepts de la thermodynamique régissant les transformations physiques de la matière et les équilibres chimiques. Les premières notions d'électrochimie et de cinétique y sont également présentées. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Equilibres et réactivité chimiques",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=113368068&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","702"],
+    "title":"Advanced quantum field theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=113368068&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181759",
+      "name":"Scrucca Claudio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to introduce some advanced techniques in quantum field theory and describe certain peculiar phenomena in particle physics that can be understood with them.[br/]",
+      "Content":"1. Basic formalism for interacting theories                                                                                                    2. Path integral and quantum effective action                                                                                               3. Renormalization group and running couplings                                                                                                   4. Symmetry breaking and quantum corrections                                                                                                5. Yang-Mills gauge theories                                                                                                      6. Effective theories                                                                                                           7. Symmetries and anomalies                                                                                            8. Thermal field theory                                                                                                      9. Tunneling and vacuum decay[br/]",
+      "Required prior knowledge":"Foundations of quantum field theory and gauge theories.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced quantum field theory",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181759",
+      "name":"Scrucca Claudio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced quantum field theory",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

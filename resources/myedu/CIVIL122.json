@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776457&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","122"],
+    "title":"Structures I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776457&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://i-structures.epfl.ch","http://i-structures.epfl.ch "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104671",
+      "name":"Burdet Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Understand the load-carrying mechanisms of various structural types used in construction.[br/]Understand the fundamental principles of equilibrium and of the design of structures.[br/]Apply the knowledge gained to understand, design and dimension real structures.",
+      "Content":"[b]Forces[/b][br/]Types of forces.[br/]Line  of action.[br/][br/][b]Inner forces and materials[/b][br/]Tension and compression.[br/]Mechanical properties of materials.[br/]Bases of dimensioning.[br/][br/][b]Equilibrium[/b][br/]Equilibrium of forces in the plane and in 3D space.[br/][br/][b]Câbles[/b][br/]Cables with a single and several loads.[br/]Form-stability of cables.[br/][br/][b]Cable networks and membranes[/b][br/][br/][b]Arches[/b][br/]Ideal form of arches.[br/]Stability and the line of action of inner forces.[br/]Statically determinate and statically indeterminate arches.[br/][br/][b]Vaults[/b][br/][b]Domes[/b][br/][b]Shells[/b][br/][b]Arch-cables[/b][br/]Tied arch.[br/]Cable with a strut.",
+      "Bibliography and material":"A. Muttoni, [i]The art of Structures: Introduction to the Functioning of Structures in Architecture[/i], EPFL Press, Lausanne, 2011."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-554-7&amp;con_lng=ENG\" target=\"blank\">L'art des structures : une introduction au fonctionnement des structures en architecture / Aurelio Muttoni</a>\". Year:2010. ISBN:978-2-88074-554-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-38-4&amp;con_lng=ENG\" target=\"blank\">The art of structures : introduction to the functioning of structures in architecture / Aurelio Muttoni</a>\". Year:2011. ISBN:978-2-940222-38-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://i-structures.epfl.ch","http://i-structures.epfl.ch "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104671",
+      "name":"Burdet Olivier"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"A. Muttoni, [i]L'art des structures : une introduction au fonctionnement des structures en architecture[/i], Lausanne : PPUR 2010.[br/]A. Muttoni, [i]The art of Structures: Introduction to the Functioning of Structures in Architecture[/i], Lausanne, EPFL Press, 2011.",
+      "Forme d'enseignement":"Cours ex cathedra avec soutien du cours en ligne http://i-structures.epfl.ch. Exercices en ligne utilisant le site.",
+      "Contenu":"[b]Forces[/b][br/]Types de force.[br/]Ligne d'action.[br/][br/][b]Efforts et matériaux[/b][br/]Traction et compression.[br/]Comportement  mécanique des matériaux.[br/]Principes du dimensionnement.[br/][br/][b]Equilibre[/b][br/]Equilibre des forces dans le plan et dans l'espace.[br/][br/][b]Câbles[/b][br/]Câbles avec une charge et plusieurs charges.[br/]Stabilité de forme des câbles.[br/][br/][b]Réseaux de câbles et membranes[/b][br/][br/][b]Arcs[/b][br/]Forme idéale des arcs.[br/]Stabilité et ligne d'action des efforts.[br/]Arcs isostatiques et hyperstatiques.[br/][br/][b]Voûtes[/b][br/][b]Coupoles [/b][br/][b]Coques[/b][br/][b]Arc-et-câbles[/b][br/]Arc avec sous-tirant.[br/]Câble avec buton.",
+      "Forme du contrôle":"Test(s) en cours de semestre.",
+      "Préparation pour":"Cours de Structures II, autres cours de structures et de conception des structures.",
+      "Objectifs d'apprentissage":"Comprendre les principes de fonctionnement des divers types de structures du domaine de la construction.[br/]Connaître les principes fondamentaux de l'équilibre et du dimensionnement des structures.[br/]Appliquer les connaissances acquises pour comprendre, concevoir et dimensionner des structures réelles."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-554-7&amp;con_lng=FRE\" target=\"blank\">L'art des structures : une introduction au fonctionnement des structures en architecture / Aurelio Muttoni</a>\". Année:2010. ISBN:978-2-88074-554-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-38-4&amp;con_lng=FRE\" target=\"blank\">The art of structures : introduction to the functioning of structures in architecture / Aurelio Muttoni</a>\". Année:2011. ISBN:978-2-940222-38-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

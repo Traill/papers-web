@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=941688359&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","437"],
+    "title":"Bioprocesses and downstream processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=941688359&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/219001",
+      "name":"Crelier Simon"
+    },{
+      "url":"http://people.epfl.ch/218964",
+      "name":"Eyer Kurt"
+    },{
+      "url":"http://people.epfl.ch/221232",
+      "name":"Zinn Manfred"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[b]Objectives Bioprocesses[/b][br/][li] Understand and apply the principles of fermentative bioprocesses using micro-organisms and mammalian cells[br/][li] Be able to plan, maintain and understand the different ways of performing microbial and mammalian cell fermentations in bioreactors [br/][li] Master the methods for the determination of the most important kinetic parameters[br/][br/][br/][br/][b] Objectives Downstream processing (DSP)[/b][br/][li] Understand the principles of the most common separation techniques for biotechnological products[br/][li] Select the best-suited strategy for the isolation of a fermentation or biotransformation product[br/] ",
+      "Content":"[b]Contents Bioprocesses (K. Eyer)[/b][br/][li] Bioreactors design and characterization[br/][li] Feeding strategies[br/][li] Process kinetics[br/][li] Cell growth kinetics in batch, fed-batch and continuous modes[br/][li] Determination of yields and productivity[br/]\t[br/][br/][br/][b]Contents DSP (S. Crelier)[/b][br/][li] Characterization of the mixtures containing the target molecule[br/][li] Physical and thermal separation techniques[br/][li] Capture step(s)[br/][li] Purification step(s)[br/][li] Polishing step(s) ",
+      "Required prior knowledge":"Basic knowledge in microbiology and process engineering would be helpful. (a short list of recommended readings can be made available if desired) "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bioprocesses and downstream processing",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-081908-5&amp;con_lng=ENG\" target=\"blank\">Bioprocess engineering : basic concepts / Michael L. Shuler, Fikret Kargi</a>\". Year:2002. ISBN:0-13-081908-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-220851-5&amp;con_lng=ENG\" target=\"blank\">Bioprocess engineering principles / Pauline M. Doran</a>\". Year:2013. ISBN:978-0-12-220851-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-8274-1607-8&amp;con_lng=ENG\" target=\"blank\">Bioprozesstechnik / H. Chmiel</a>\". Year:2006. ISBN:3-8274-1607-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/219001",
+      "name":"Crelier Simon"
+    },{
+      "url":"http://people.epfl.ch/218964",
+      "name":"Eyer Kurt"
+    },{
+      "url":"http://people.epfl.ch/221232",
+      "name":"Zinn Manfred"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Connaissances de bases en microbiologie et en génie des procédés peuvent être utiles (une courte liste de lectures recommandées peut être mise à disposition) ",
+      "Bibliographie et matériel":"[li] M. L. Shuler & F. Kargi. Bioprocess engineering - basic concepts. 2nd edition, Prentice Hall, 2002[br/][li] P. M. Doran. Bioprocess engineering principles. Academic Press Ltd., 1995[br/][li] H. Chmiel. Bioprozesstechnik. 2. Auflage, Spektrum Akad. Verlag,  2006[br/] ",
+      "Forme d'enseignement":"Lectures with exercises ",
+      "Contenu":"[b] Contenu Bioprocédés (K. Eyer)[/b] [br/][li] Design et caractérisation de bioréacteurs[br/][li] Stratégies d'alimentation[br/][li] Cinétique des processus[br/][li] Cinétique de croissance de cellules en batch, en batch alimentés et en modes continus[br/][li] Détermination de rendements et de productivité[br/][br/][b]Contenu du traitement en aval (S. Crelier)[/b][br/][li] Caractérisation des mélanges contenant la molécule cible[br/][li] Techniques de séparation physique et thermique[br/][li] Etape(s) de capture[br/][li] Etape(s) de purification[br/][li] Etape(s) de polishing[br/] ",
+      "Forme du contrôle":"Oral examination if less than 9 students[br/]Written examination for 9 students or more[br/] ",
+      "Objectifs d'apprentissage":"[b]Objectifs bioprocédés[/b][br/][li] Comprendre et appliquer les principes des bioprocédés de fermentation utilisant des micro-organismes et des cellules de mammifères [br/][li] Etre capable de planifier, maintenir et comprendre les différentes manières d'effectuer des fermentations de cellules microbiennes et de mammifères dans les bioréacteurs[br/][li] Maîtriser les méthodes de détermination des paramètres cinétiques les plus importants[br/][br/][b]Objectifs Traitement en aval (DSP)[/b][br/][li] Comprendre les principes des techniques de séparation courantes de produits biotechnologiques[br/][li] Choisir la stratégie la mieux adaptée pour l'isolement d'un produit de fermentation ou de biotransformation[br/] "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bioprocesses and downstream processing",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-081908-5&amp;con_lng=FRE\" target=\"blank\">Bioprocess engineering : basic concepts / Michael L. Shuler, Fikret Kargi</a>\". Année:2002. ISBN:0-13-081908-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-220851-5&amp;con_lng=FRE\" target=\"blank\">Bioprocess engineering principles / Pauline M. Doran</a>\". Année:2013. ISBN:978-0-12-220851-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-8274-1607-8&amp;con_lng=FRE\" target=\"blank\">Bioprozesstechnik / H. Chmiel</a>\". Année:2006. ISBN:3-8274-1607-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

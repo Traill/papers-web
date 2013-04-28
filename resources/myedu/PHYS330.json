@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234134225&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","330"],
+    "title":"Quantum information processing II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234134225&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107423",
+      "name":"Macris Nicolas"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduce the concepts, applications and a few developments of quantum information processing.",
+      "Content":"6. Quantum algorithms[br/]· Quantum parallelism[br/]· Deutsch-Josza problem[br/]· Circuit model of computation: classical case[br/]· Circuit model of computation: quantum case[br/][br/]7. Grover's algorithm[br/]· Search problem in a date base[br/]· Quantum search algorithm[br/][br/]8. Schor's algorithm[br/]· Number theory reminder[br/]· Quantum Fourier Transform[br/]· Quantum factoring algorithm[br/][br/]9. Other quantum algorithms[br/]· Simon's problem[br/]· Discrete logarithm[br/][br/]10. Decoherence[br/]· Interaction of a system with the environment[br/]· Introduction to the density matrix formalism[br/]· Models of quantum noise[br/][br/]11. Introduction to quantum error correction[br/]· The Schor code[br/]· Stabilizer formalism[br/]",
+      "Bibliography and material":"M. Le Bellac, A Short Introduction to Quantum Information and Quantum Computation,[br/](Cambridge, 2006)[br/]G. Benenti, G. Casati, G. Strini, Principles of Quantum Computation and Information, (World[br/]Scientific, 2004)[br/]M. A. Nielsen, I. L. Chuang, Quantum Information and Quantum Computation, (Cambridge,[br/]2000)[br/]",
+      "Required prior knowledge":"Basic physics and mathematics courses of first and second years. Quantum Information Processing I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Quantum information processing II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-86056-7&amp;con_lng=ENG\" target=\"blank\">A short introduction to quantum information and quantum computation / Michel Le Bellac</a>\". Year:2006. ISBN:978-0-521-86056-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-830-3&amp;con_lng=ENG\" target=\"blank\">Principles of quantum computation and information / by Giuliano Benenti, Giulio Casati, Giuliano Strini</a>\". Year:2004-2007. ISBN:981-238-830-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-63235-8&amp;con_lng=ENG\" target=\"blank\">Quantum computation and quantum information / Michael A. Nielsen and Isaac L. Chuang</a>\". Year:2003. ISBN:0-521-63235-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107423",
+      "name":"Macris Nicolas"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"6. Algorithmes quantiques[br/]· Parallélisme quantique[br/]· Problème de Deutsch-Josza[br/]· Modèle des circuits: cas classique[br/]· Modèle des circuits: cas quantique[br/][br/]7. Agorithme de Grover[br/]· Problème de la recherche dans une base de donnée[br/]· Algorithme quantique de recherche[br/][br/]8. Algorithme de Shor[br/]· Rappels de théorie des nombres[br/]· Transformée de Fourier quantique[br/]· Algorithme quantique de factorisation[br/][br/]9. Autres algorithmes quantiques[br/]· Problème de Simon[br/]· Logarithme discret[br/][br/]10. Décohérence[br/]· L'interaction d'un système avec l'environnement[br/]· Introduction au formalisme de la matrice densité[br/]· Modèles de bruit quantique[br/][br/]11. Introduction à la correction d'erreur quantique[br/]· Le code de Shor[br/]· « Stabilizer formalism »[br/]",
+      "Prérequis":"Cours de base de physique et mathématique des première et deuxième années. Traitement Quantique de l'Information I.",
+      "Bibliographie et matériel":"M. Le Bellac, A Short Introduction to Quantum Information and Quantum Computation,[br/](Cambridge, 2006)[br/]G. Benenti, G. Casati, G. Strini, Principles of Quantum Computation and Information, (World[br/]Scientific, 2004)[br/]M. A. Nielsen, I. L. Chuang, Quantum Information and Quantum Computation, (Cambridge,[br/]2000)[br/]",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant avec les concepts, les applications et quelques développements du traitement quantique de l'information."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Traitement quantique de l'information II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-86056-7&amp;con_lng=FRE\" target=\"blank\">A short introduction to quantum information and quantum computation / Michel Le Bellac</a>\". Année:2006. ISBN:978-0-521-86056-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-830-3&amp;con_lng=FRE\" target=\"blank\">Principles of quantum computation and information / by Giuliano Benenti, Giulio Casati, Giuliano Strini</a>\". Année:2004-2007. ISBN:981-238-830-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-63235-8&amp;con_lng=FRE\" target=\"blank\">Quantum computation and quantum information / Michael A. Nielsen and Isaac L. Chuang</a>\". Année:2003. ISBN:0-521-63235-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

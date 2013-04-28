@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400838395&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","618"],
+    "title":"Dynamic Nuclear Polarization for NMR spectroscopy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400838395&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122795",
+      "name":"Bodenhausen Geoffrey"
+    },{
+      "url":"http://people.epfl.ch/166761",
+      "name":"Jannin Sami"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Dynamic Nuclear Polarization provides a way to improve NMR signals by up to 4 orders of magnitude. We present the current state-of-the-art of this technique available at EPFL LRMB. We aim to meet the current practical interest of the EPFL community to improve sensitivity in NMR.",
+      "Content":"Day 1: [br/]1. Theoretical aspects of DNP[br/]  [li] Introduction to DNP-enhanced NMR[br/]  [li] Principles of Dissolution DNP[br/]  [li] Principles of Solid state DNP[br/]  [li]Applications in imaging and chemistry [br/][br/]2. Experimental aspects of DNP[br/]   [li] Hardware for Dissolution DNP[br/]   [li] Hardware for Solid state DNP [br/]   [li] Sample Preparation[br/][br/]Day 2: [br/]3. Practical DNP at LRMB[br/]   [li] Students prepare samples, set up the NMR spectrometer, and perform dissolution DNP experiments at LRMB[br/][br/]4. Student presentations[br/]   [li] Students give a short presentation (5 slides) on possible applications of DNP to enhance their own research subjects.",
+      "Keywords":"NMR, DNP, hyperpolarization",
+      "Required prior knowledge":"Basic understanding of NMR"
+    },
+    "practical":{
+      "total_hours":7
+    },
+    "language":"English",
+    "title":"Dynamic Nuclear Polarization for NMR spectroscopy",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":7
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122795",
+      "name":"Bodenhausen Geoffrey"
+    },{
+      "url":"http://people.epfl.ch/166761",
+      "name":"Jannin Sami"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Day 1: [br/]1. Theoretical aspects of DNP[br/]  [li] Introduction to DNP-enhanced NMR[br/]  [li] Principles of Dissolution DNP[br/]  [li] Principles of Solid state DNP[br/]  [li]Applications in imaging and chemistry [br/][br/]2. Experimental aspects of DNP[br/]   [li] Hardware for Dissolution DNP[br/]   [li] Hardware for Solid state DNP [br/]   [li] Sample Preparation[br/][br/]Day 2: [br/]3. Practical DNP at LRMB[br/]   [li] Students prepare samples, set up the NMR spectrometer, and perform dissolution DNP experiments at LRMB[br/][br/]4. Student presentations[br/]   [li] Students give a short presentation (5 slides) on possible applications of DNP to enhance their own research subjects.",
+      "Mots clés":"NMR, DNP, hyperpolarization",
+      "Prérequis":"Basic understanding of NMR",
+      "Objectifs d'apprentissage":"Dynamic Nuclear Polarization provides a way to improve NMR signals by up to 4 orders of magnitude. We present the current state-of-the-art of this technique available at EPFL LRMB. We aim to meet the current practical interest of the EPFL community to improve sensitivity in NMR."
+    },
+    "practical":{
+      "total_hours":7
+    },
+    "language":"English",
+    "title":"Dynamic Nuclear Polarization for NMR spectroscopy",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":7
+    }
+  }
+}

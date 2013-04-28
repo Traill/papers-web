@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976164&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","200"],
+    "title":"Environmental chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838976164&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173999",
+      "name":"Kohn Tamar"
+    },{
+      "url":"http://people.epfl.ch/210253",
+      "name":"von Gunten Urs"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"33 % midterm exam during the semester, 67 % exam during exam session",
+      "Prerequisite for":"Pollutants analysis in the environment, Ecotoxicology, Fate and behaviour of organic pollutants",
+      "Required prior knowledge":"General chemistry, Biochemistry",
+      "Content":"Introduction to environmental chemistry[br/]Chemical composition of  natural water[br/]Biogeochemical cycles of organic and inorganic pollutants[br/]Fate and transformation of organic and inorganic pollutants[br/]Impact of pollutants on ecosystems[br/]Engineering applications of environmental chemistry[br/]Case studies",
+      "Type of teaching":"Lecture ex cathedra, exercises, talks and case studies",
+      "Learning outcomes":"Understand the chemical concepts characteristic of natural and engineered aquatic systems. Acquire the basic knowledge for assessing the fate, transformation and impact of chemical species in the environment with emphasis on aquatic system.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Environmental chemistry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-80415945-0&amp;con_lng=ENG\" target=\"blank\">Chimie de l'environnement : air, eau, sols, déchets / [Claus] Bliefert, {Robert] Perraud</a>\". Year:2009. ISBN:978-2-80415945-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-050380-4&amp;con_lng=ENG\" target=\"blank\">Chimie des milieux aquatiques : chimie des eaux naturelles et des interfaces dans l'environnement / Laura Sigg, Philippe Behra, Werner Stumm</a>\". Year:2006. ISBN:2-10-050380-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-35053-2&amp;con_lng=ENG\" target=\"blank\">Environmental organic chemistry / Rene P. Schwarzenbach, Philip M. Gschwend, Dieter M. Imboden</a>\". Year:2003. ISBN:0-471-35053-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-238390-4&amp;con_lng=ENG\" target=\"blank\">Water chemistry / Mark M. Benjamin</a>\". Year:2002. ISBN:978-0-07-238390-4</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/173999",
+      "name":"Kohn Tamar"
+    },{
+      "url":"http://people.epfl.ch/210253",
+      "name":"von Gunten Urs"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Chimie générale, Biochimie",
+      "Bibliographie et matériel":"Bliefert, Perraud: Chimie de l'environnement, Boeck ed., 2001; Schwarzenbach, Gschwend, Imboden: Environmental Organic Chemistry, Wiley 2003. Benjamin: Water Chemistry, McGraw Hill 2001. Sigg, Behra, Stumm: Chimie des milieux aquatiques, Dunod 2006",
+      "Forme d'enseignement":"Cours ex cathedra, exercices, discussions et études de cas",
+      "Contenu":"Introduction de la chimie environnementale[br/]Composition chimique des eaux naturelles[br/]Cycles biogéochimiques des polluants organiques et minéraux[br/]Distribution et transformation des polluants organiques et minéraux[br/]Impact des polluants sur les écosystèmes[br/]Applications de chimie environnementale[br/]Études de cas",
+      "Forme du contrôle":"33 % contrôle ponctuel pendant le semestre, 67 % épreuve pendant la session d'examen",
+      "Préparation pour":"Analyse des polluants dans l'environnement, Ecotoxicology, Fate and behaviour of organic pollutants",
+      "Objectifs d'apprentissage":"Comprendre les concepts chimiques caractéristiques des systèmes aquatiques naturels et aménagés. Acquérir les connaissances de base permettant de comprendre le devenir, les transformations et l'impact des espèces chimiques dans l'environnement avec un accent sur les systèmes aquatiques"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Environmental chemistry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-80415945-0&amp;con_lng=FRE\" target=\"blank\">Chimie de l'environnement : air, eau, sols, déchets / [Claus] Bliefert, {Robert] Perraud</a>\". Année:2009. ISBN:978-2-80415945-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-050380-4&amp;con_lng=FRE\" target=\"blank\">Chimie des milieux aquatiques : chimie des eaux naturelles et des interfaces dans l'environnement / Laura Sigg, Philippe Behra, Werner Stumm</a>\". Année:2006. ISBN:2-10-050380-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-35053-2&amp;con_lng=FRE\" target=\"blank\">Environmental organic chemistry / Rene P. Schwarzenbach, Philip M. Gschwend, Dieter M. Imboden</a>\". Année:2003. ISBN:0-471-35053-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-238390-4&amp;con_lng=FRE\" target=\"blank\">Water chemistry / Mark M. Benjamin</a>\". Année:2002. ISBN:978-0-07-238390-4</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1600801140&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","722"],
+    "title":"Microbial diversity",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1600801140&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171550",
+      "name":"Bernier-Latmani Rizlan"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    },{
+      "url":"http://people.epfl.ch/229844",
+      "name":"Keel Christoph"
+    },{
+      "url":"http://people.epfl.ch/141710",
+      "name":"van der Meer Jan Roelof"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Are there ten thousand or ten million bacterial species per gram of soil? And in your intestine? What is a bacterial species? Does this matter? What are all these bacteria doing and what could they be good for? What are the host-bacteria relationships? ",
+      "Content":"All such questions will be discussed and studied in this tutorial on the basis of the most recent literature, with a strong focus on specific molecular methods to unravel complex microbial communities. We will likely chose four different microbial ecosystems: human microbiome (mostly intestinal tract), insect gut, wastewater treatment plant and anaerobic digesters or the deep ocean. The course will be structured as a meeting in which each student and the instructor will be prepared to discuss the same publication for 2 hours. [br/]",
+      "Keywords":"microbial diversity, functional diversity, metabolic diversity, microbial ecology, DNA-based methods, RNA-based methods. ",
+      "Required prior knowledge":"Microbiology[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microbial diversity",
+    "recitation":{
+      "total_hours":16
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171550",
+      "name":"Bernier-Latmani Rizlan"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    },{
+      "url":"http://people.epfl.ch/229844",
+      "name":"Keel Christoph"
+    },{
+      "url":"http://people.epfl.ch/141710",
+      "name":"van der Meer Jan Roelof"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Microbial diversity",
+    "recitation":{
+      "total_hours":16
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

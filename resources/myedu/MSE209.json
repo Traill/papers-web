@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229733923&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","209"],
+    "title":"Transfer phenomena in materials science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229733923&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"notes de cours (http://ltp.epfl.ch)",
+      "Prerequisite for":"Courses in material science ",
+      "Content":"[b]Heat Transport[/b][br/][li] Equation of Fourier[br/][li] Conductivity (steady-state)[br/][li] Transient conduction[br/][li] Convection[br/][li] Radiation[br/][b]Mass Transport[/b][br/][li] Equation of Fick[br/][li] Solution of Fick's equation for typical cases[br/][li] Atomistic theory of diffusion[br/][li] Diffusion coeficients (autodiffusion, heterodiffusion, diffusion in alloys)[br/]",
+      "Type of teaching":"Course with exercises",
+      "Learning outcomes":"To learn and to become familiar with the theoretical an phenomenological approaches used in the field of quantitative studies of the fundamental laws of heat and masse transport phenomena in material science.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Transfer phenomena in materials science",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"notes de cours (http://ltp.epfl.ch)",
+      "Forme d'enseignement":"Cours avec exercices intégrés",
+      "Contenu":"[b]1. Transfert de chaleur[/b][br/][li] Equation de Fourier[br/][li] Conduction (régime stationnaire)[br/][li] Conduction (régime transitoire)[br/][li] Convection[br/][li] Rayonnement[br/][b]2. Transfert de masse[/b][br/][li] Equation de Fick[br/][li] Solution d'équation de Fick pour des différents cas typiques[br/][li] Théorie atomistique de la diffusion[br/][li] Coefficient de diffusion (autodiffusion, hétérodiffusion, diffusion dans les alliages)",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Cours en science des matériaux",
+      "Objectifs d'apprentissage":"Apprendre à se familiariser avec des approches théorétiques et phénoménologiques utilisées pour l'éude quantitative des phénomènes physique fondamentaux du transport de chaleur et de la masse en science des matériaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Phénomènes de transfert en science des matériaux",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771930&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","323"],
+    "title":"Astrophysics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771930&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lastro.epfl.ch/cms/page-21763.html","http://lastro.epfl.ch/cms/page-21763.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157449",
+      "name":"North Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduce the student to physical concepts frequently used in astrophysics, especially stellar astrophysics.",
+      "Content":"[b]1. Radiation in general:[/b] specific intensity, flux, energy density, radiative pressure. Blackbody radiation and temperatures in astrophysics ; extinction and emission coefficients.[br/][b]2. Stellar atmospheres:[/b] equation of radiative transfer, emerging flux; convective transfer.[br/][b]3. Interaction between radiation and matter in stellar interiors:[/b] Laws of  Boltzmann and of Saha; absorption by harmonic oscillator; spontaneous absorption and emission, induced emission; spectral lines; curve of growth; continuous opacities; global opacity in the stellar medium.[br/][b]4. Thermodynamics and internal structure of stars:[/b] specific heats and partial ionization;[br/]mean molecular weight; perfect gases; degenerate gases; electrostatic effects; logT/log[rho] diagram.[br/][b]5. Nuclear reactions:[/b] rate, cross-section.[br/]",
+      "Type of teaching":"Ex cathedra and exercises in classrooms",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Second year of physics or mathematics, Astrophysics I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Astrophysics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-44284-9&amp;con_lng=ENG\" target=\"blank\">An introduction to modern astrophysics / Bradley W. Carroll, Dale A. Ostlie</a>\". Year:2007. ISBN:0-321-44284-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-86720-018-9&amp;con_lng=ENG\" target=\"blank\">Astrophysics / Richard L. Bowers, Terry Deeming</a>\". Year:1984. ISBN:0-86720-018-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7298-2786-2&amp;con_lng=ENG\" target=\"blank\">Les étoiles et le milieu interstellaire : introduction à l'astrophysique : cours, exercices et problèmes résolus, niveau M1 / Richard Monier</a>\". Year:2006. ISBN:2-7298-2786-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-226-10952-6&amp;con_lng=ENG\" target=\"blank\">Principles of stellar evolution and nucleosynthesis : with a new preface / Donald D. Clayton</a>\". Year:1983. ISBN:0-226-10952-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-935702-64-4&amp;con_lng=ENG\" target=\"blank\">Radiation / Frank H. Shu</a>\". Year:1991. ISBN:0-935702-64-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-82759-7&amp;con_lng=ENG\" target=\"blank\">Radiative processes in astrophysics [Elektronische Daten]  / George B. Rybicki, Alan P. Lightman</a>\". Year:2004. ISBN:978-0-471-82759-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-891389-76-4&amp;con_lng=ENG\" target=\"blank\">The physics of astrophysics / Frank H. Shu</a>\". Year:1991. ISBN:978-1-891389-76-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lastro.epfl.ch/cms/page-21763.html","http://lastro.epfl.ch/cms/page-21763.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157449",
+      "name":"North Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"2e année de physique ou de mathématique ; Astrophysique I",
+      "Bibliographie et matériel":"Polycopié[br/]R. Monier, Les étoiles et le milieu interstellaire; Introduction à l'astrophysique, Ellipses, 2006[br/]B.W. Carroll & D.A. Ostlie, Introduction to Modern Astrophysics, Addison-Wesley, 1996[br/]R. Bowers & T. Deeming, Astrophysics I: Stars, Jones & Bartlett, 1984[br/]F. Shu, The Physics of Astrophysics, Volume I: Radiation, University Science Books, 1991[br/]D.D. Clayton, Principles of stellar evolution and nucleosynthesis, McGraw Hill, 1968[br/]G.B. Rybicki & A.P. Lightman, Radiative processes in astrophysics, WILEY-VCH, 2004",
+      "Forme d'enseignement":"Ex cathedra et exercices dirigés en classe",
+      "Contenu":"[b]1. Géneralités sur le rayonnement :[/b] intensité spécifique, flux, densité d'énergie, pression de radiation. Rayonnement noir et températures en astrophysique, coefficients d'extinction et d'émission.[br/][b]2. Atmosphères stellaires :[/b] équation de transfert radiatif, flux sortant, transfert convectif.[br/][b]3. Interaction rayonnement-matière dans les intérieurs stellaires:[/b] lois de Boltzmann et de Saha, absorption par un oscillateur harmonique ; absorption, émission spontanée, émission induite. Raies spectrales ; courbe de croissance. Opacités continues ; opacité globale du milieu stellaire.[br/][b]4. Thermodynamique et structure interne des étoiles :[/b] poids moléculaire moyen ; gaz parfait ; gaz dégénéré ; effets électrostatiques; diagramme logT/log[rho];[br/]chaleurs spécifiques et ionisation partielle.[br/][b]5. Réactions nucléaires :[/b] taux, section efficace.",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Permettre à l'étudiant d'acquérir les notions physiques fréquemment utilisées en astrophysique, particulièrement en matière de physique stellaire."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Astrophysique II : Bases physiques de l'astrophysique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-321-44284-9&amp;con_lng=FRE\" target=\"blank\">An introduction to modern astrophysics / Bradley W. Carroll, Dale A. Ostlie</a>\". Année:2007. ISBN:0-321-44284-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-86720-018-9&amp;con_lng=FRE\" target=\"blank\">Astrophysics / Richard L. Bowers, Terry Deeming</a>\". Année:1984. ISBN:0-86720-018-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7298-2786-2&amp;con_lng=FRE\" target=\"blank\">Les étoiles et le milieu interstellaire : introduction à l'astrophysique : cours, exercices et problèmes résolus, niveau M1 / Richard Monier</a>\". Année:2006. ISBN:2-7298-2786-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-226-10952-6&amp;con_lng=FRE\" target=\"blank\">Principles of stellar evolution and nucleosynthesis : with a new preface / Donald D. Clayton</a>\". Année:1983. ISBN:0-226-10952-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-935702-64-4&amp;con_lng=FRE\" target=\"blank\">Radiation / Frank H. Shu</a>\". Année:1991. ISBN:0-935702-64-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-82759-7&amp;con_lng=FRE\" target=\"blank\">Radiative processes in astrophysics [Elektronische Daten]  / George B. Rybicki, Alan P. Lightman</a>\". Année:2004. ISBN:978-0-471-82759-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-891389-76-4&amp;con_lng=FRE\" target=\"blank\">The physics of astrophysics / Frank H. Shu</a>\". Année:1991. ISBN:978-1-891389-76-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

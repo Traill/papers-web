@@ -1,0 +1,86 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348634646&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","445"],
+    "title":"Geomonitoring",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348634646&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    },{
+      "url":"http://people.epfl.ch/104028",
+      "name":"Vallet Julien"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"50 % continuous control during the semester (exercises, project)[br/]50 % oral exam (20 min) during the exam session",
+      "Prerequisite for":"Sensor Orientation",
+      "Required prior knowledge":"Statistics, Photo interpretation, Quantitative methods, Geodetic Engineering, Satellite positioning",
+      "Content":"[b]Surveying techniques[/b][br/]- Geodetic networks[br/]- analogical and numerical aerial imagery [br/]- photogrammetry[br/]- terrestrial and airborne laserscanning [br/]- GNSS phase measurement[br/]- interferometry / InSAR[br/][b]Coordinate systems and frames[/b][br/]- internal and external orientation[br/]- indirect georeferencing - classical aerotriangulation [br/]- with GPS, GPS+IMU - direct georeferencing[br/]- orthophoto without aerotriangulation[br/][b]Data quality[/b][br/]- geometrical and qualitative image analysis[br/]- quality indicators for the positions[br/][b]Specific applications[/b][br/]Helimap, scan2map, Bingo software package[br/]Avalanches, mudflows, permafrost[br/]Damages in forests, data for agriculture[br/]Constructions: bridges, dams, other monitoring methods[br/]",
+      "Keywords":"Natural hazard, terrain movement, stability of constructions ",
+      "Type of teaching":"Lecture ex cathedra and exercises, part of them in computer room.",
+      "Learning outcomes":"To understand the techniques for the spatial monitoring of the environment, in particular geodesy, photogrammetry and laser scanning.[br/]To develop the collaboration between geologists and engineers for the monitoring of natural hazards (rock movements, landslides, avalanches) and the maintenance of infrastructures.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Geomonitoring",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86601-656-4&amp;con_lng=ENG\" target=\"blank\">Manuel de photogrammétrie : principes et procédés fondamentaux / Karl Kraus, Peter Waldhäusl; trad. de Pierre Grussenmeyer ... [et al.]</a>\". Year:1998. ISBN:2-86601-656-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    },{
+      "url":"http://people.epfl.ch/104028",
+      "name":"Vallet Julien"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Statistique, Photo-interprétation, Méthodes quantitatives, Topométrie, Localisation par satellites",
+      "Bibliographie et matériel":"Manuel de photogrammétrie, K. Kraus, P. Waldhäusl, Hermès[br/]Article divers, notes de cours, mode d'emploi de logiciels[br/]",
+      "Mots clés":"Risques naturels, mouvements de terrain, stabilité des constructions ",
+      "Forme d'enseignement":"Cours ex cathedra et exercices, partiellement en salle informatique",
+      "Contenu":"[b]Techniques de lever[/b][br/]- réseaux topométriques[br/]- imagerie aérienne analogique et numérique[br/]- photogrammétrie[br/]- laserscanner terrestre et aéroporté[br/]- mesure de phase GNSS[br/]- interférométrie / InSAR[br/][b]Systèmes et cadres de coordonnées[/b][br/]- orientation interne et externe[br/]- géoréférencement indirect - aérotriangulation classique[br/]- avec GPS, GPS+IMU - géoréférencement direct[br/]- orthophoto sans aérotriangulation[br/][b]Qualité des données[/b][br/]- analyse géométrique et qualitative des images[br/]- indicateurs de qualité des positions[br/][b]Applications spécifiques[/b][br/]Helimap, scan2map, logiciel Bingo [br/]Avalanches, boues torrentielles, pergélisol[br/]Dégâts forestiers, données pour l'agriculture[br/]Ouvrages: ponts, barrages, autres méthodes d'auscultation[br/]",
+      "Forme du contrôle":"50 % contrôle continu pendant le semestre (exercices, projet)[br/]50 % examen oral (20 min) durant la session d'examen",
+      "Préparation pour":"Sensor Orientation",
+      "Objectifs d'apprentissage":"Comprendre les techniques de surveillance spatiale de l'environnement, notamment la géodésie, la photogrammétrie aérienne et le laser scanning.[br/]Développer la collaboration entre géologues et ingénieurs pour la surveillance de risques naturels (mouvements de roches, glissements de terrain, avalanches) et la maintenance d'infrastructures.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Geomonitoring",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86601-656-4&amp;con_lng=FRE\" target=\"blank\">Manuel de photogrammétrie : principes et procédés fondamentaux / Karl Kraus, Peter Waldhäusl; trad. de Pierre Grussenmeyer ... [et al.]</a>\". Année:1998. ISBN:2-86601-656-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

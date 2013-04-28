@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784637613&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","105"],
+    "title":"Introduction to algorithm",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784637613&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106335",
+      "name":"Salzmann Christophe"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control : project 60%, final test 40%",
+      "Required prior knowledge":"[li]Introduction to programming",
+      "Content":"Introduction to standard and numerical algorithms. Performances assertions. Algorithms implementation. Introduction to Matlab. Introduction to LabVIEW. Virtual Instrumentation. Data acquisition, processing and visualisation.",
+      "Keywords":"Algorithmes, Matlab, LabVIEW.",
+      "Type of teaching":"Ex cathedra course, exercices and projets",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][br/][li]Understand the basics of computer programming; develop a (simple) structures software using a programming language / environment such as C, Fortran or Matlab, AH40[br/][li]Become familiar with the basic of experimental and numerical analysis tools, A17, CP2[br/][li]Explain the operation of sensors, actuators and of the respective control algorithms, A18[br/][br/][br/][b]Transversal skills:[/b][br/][li]Time management, T1[br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Be perseverant through difficulties, T15"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to algorithm",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-03384-8&amp;con_lng=ENG\" target=\"blank\">Introduction to algorithms / Thomas H. Cormen ... [et al.]</a>\". Year:2009. ISBN:978-0-262-03384-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106335",
+      "name":"Salzmann Christophe"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Introduction à la programmation",
+      "Bibliographie et matériel":"Thomas H. Cormen Charles E. Leiserson Ronald L. Rivest Clifford Stein, Introduction to Algorithms, Second Edition, MIT press.",
+      "Mots clés":"Algorithmes, Matlab, LabVIEW",
+      "Forme d'enseignement":"Cours ex cathedra, exercices et projets",
+      "Contenu":"Introduction aux algorithmes standard et numériques. Mesure des performances. Mise en ½uvre de l'algorithme. Introduction à Matlab. Introduction à LabVIEW. Instrumentation virtuelle. Acquisition, traitement et visualisation de données.",
+      "Forme du contrôle":"Contrôle continu : projet 60%, test final 40%",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][br/][li]Comprendre les bases de la programmation; développer un logiciel (simple) structuré en utilisant un langage/environnement de programmation tel que C, Fortran ou Matlab, AH40[br/][li]Maîtriser les outils de l'analyse numérique et expérimentale, A17, CP2[br/][li]Expliquer le fonctionnement des capteurs, des actionneurs et des algorithmes de commande y relatifs, A18 [br/][br/][br/][b]Compétences transversales:[/b][br/][li]Gérer son temps, T1[br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Montrer de la persévérance en dépit des obstacles, T15"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction à l'algorithmique",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-03384-8&amp;con_lng=FRE\" target=\"blank\">Introduction to algorithms / Thomas H. Cormen ... [et al.]</a>\". Année:2009. ISBN:978-0-262-03384-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

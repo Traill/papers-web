@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=73562239&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","430"],
+    "title":"Risk management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=73562239&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216294",
+      "name":"Brückner Sebastian"
+    },{
+      "url":"http://people.epfl.ch/105841",
+      "name":"Meyer Thierry"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Students will be able to integrate the principles of the occupational risk management.",
+      "Content":"[li] Management techniques[br/][li] Introduction to risk management[br/][li] Hazard and risk evaluation[br/][li] Identifying risks and analyzing risks (HAZOP, FMECA, FTA, ...)[br/][li] Risk evaluation and treatment[br/][li] Event analysis[br/][li] Tolerable risk[br/][br/]Modules :[br/]1. Introduction to engineering and managing risks[br/]2. Risk management principles[br/]3. Hazards evaluation and portfolio (chemical and physical hazards; chemicals, lasers, magnetic fields, cryogenics, ...)[br/]4. Risk diagnostic[br/]5. Risk reduction[br/]6. Event analysis[br/]7. Example of practical implementation  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Risk management",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-72019-4&amp;con_lng=ENG\" target=\"blank\">Hazard analysis techniques for system safety / Clifton A. Ericson</a>\". Year:2005. ISBN:0-471-72019-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-28237-3&amp;con_lng=ENG\" target=\"blank\">Risk modeling, assessment, and management / Yacov Y. Haimes</a>\". Year:2009. ISBN:978-0-470-28237-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/216294",
+      "name":"Brückner Sebastian"
+    },{
+      "url":"http://people.epfl.ch/105841",
+      "name":"Meyer Thierry"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bases en chimie et en physique acquises dans le BSc",
+      "Bibliographie et matériel":"\"Risk modeling, assessment and management\", Y.Haimes, ISBN 0-471-48048-7, 2004[br/]\"Hazard analysis techniques for system safety, CA Ericson II, ISBN 0-471-72019-4, 2005 ",
+      "Forme d'enseignement":"Ex cathedra, projets en groupes",
+      "Contenu":"[li] Techniques de management[br/][li] Introduction à la gestion du risque[br/][li] Evaluation du danger et du risque [br/][li] Identifier  et analyser les risques (HAZOP, FMECA, FTA, ...)[br/][li] Evaluer, traiter les risques[br/][li] Analyse d'événement[br/][li] Notion de risque acceptable[br/][br/]Modules :[br/]1. Introduction à la gestion et l'ingénierie des risques[br/]2. Principes de la gestion des risques[br/]3. Evaluation des dangers (chimique et physiques ; substances chimiques, lasers, magnétisme, cryogénie, ...)[br/]4. Diagnostic des risques[br/]5. Réduction du risque[br/]6. Analyse de l'événement[br/]7. Exemples d'application ",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Les étudiants seront capables d'intégrer les concepts de la gestion des risques professionnels. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Risk management",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-72019-4&amp;con_lng=FRE\" target=\"blank\">Hazard analysis techniques for system safety / Clifton A. Ericson</a>\". Année:2005. ISBN:0-471-72019-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-28237-3&amp;con_lng=FRE\" target=\"blank\">Risk modeling, assessment, and management / Yacov Y. Haimes</a>\". Année:2009. ISBN:978-0-470-28237-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=138515572&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","398"],
+    "title":"Mathematics projects I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=138515572&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":10,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Contact a professor in the area that interests you."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematics projects I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":10,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":10,
+    "semester":"Automne",
+    "free_text":{
+      "Objectifs d'apprentissage":"Contacter les professeurs enseignant la branche qui vous intéresse."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet de Mathématiques I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":10,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

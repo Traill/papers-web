@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772085&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","310"],
+    "title":"Algebra",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772085&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Give the basic notions of algebra needed for certain topics of numerical communication.",
+      "Content":"1. Basic arithmetic[br/]2. Congruences and congruence classes[br/]3. Rings and fields[br/]4. Groups[br/]5. Polynomials[br/]6. Finite fields",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Prerequisite for":"Cryptography course",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algebra",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-74527-5&amp;con_lng=ENG\" target=\"blank\">A concrete introduction to higher algebra / Lindsay N. Childs</a>\". Year:2009. ISBN:978-0-387-74527-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Obligatoire pour IN/SC: Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"L.N. Childs \"A concrete introduction to higher Algebra\", Springer",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"1. Rappels d'arithmétique[br/]2. Congruences et classes de congruences[br/]3. Anneaux et corps[br/]4. Groupes[br/]5. Polynômes[br/]6. Corps finis",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Cours de Cryptographie",
+      "Objectifs d'apprentissage":"Apporter les notions d'algèbre nécessaires pour certains sujets de communication numérique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-74527-5&amp;con_lng=FRE\" target=\"blank\">A concrete introduction to higher algebra / Lindsay N. Childs</a>\". Année:2009. ISBN:978-0-387-74527-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

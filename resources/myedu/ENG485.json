@@ -1,0 +1,70 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23814643&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","485"],
+    "title":"Surveys and quantitative methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23814643&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"AR",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163250",
+      "name":"Dessemontet Pierre-Emmanuel"
+    },{
+      "url":"http://people.epfl.ch/168164",
+      "name":"Thomas Marie-Paule"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Territorial projects and urban policies generally require to join together information obtained, maybe near the population, maybe of secondary sources. Consequently, methods of empirical surveys developed by social sciences are essential tools to meet needs of a knowledge of our complex and changing environment.[br/][br/]This course gives the methodological bases of these quantitative and qualitative techniques. It is conceived like a practical initiation and a deepening for beginner, intended specifically for students in architecture, urbanism and engineering. The objective is to give basic notions of how to plan and how to carry an empirical study.[br/]",
+      "Content":"The course proposes a concrete introduction to the principal methods of research (which methods are available? How to choose the right method? How to gather valid data? What is a good question? What is a relevant survey? How to give meaning to data?).[br/][br/]It treats the different stages of the empirical investigation, and in particular the setting up of questionnaires, the statistical techniques of examination and of analysis of data. The course also aims to develop a critical mind. A particular stress will be laid on issues related to town planning, transport, housing and more generally on the interaction between individuals and their environment. An important place is reserved for practical and personal work that will have to be defined with students."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Surveys and quantitative methods",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163250",
+      "name":"Dessemontet Pierre-Emmanuel"
+    },{
+      "url":"http://people.epfl.ch/168164",
+      "name":"Thomas Marie-Paule"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Cours bisannuel, donner les années paires. [/b]",
+      "Contenu":"Le cours propose une introduction concrète aux principales méthodes d'enquête de terrain (quelles méthodes sont à disposition ? Comment choisir la méthode appropriée ? Comment recueillir des données valides ? Qu'est-ce qu'une bonne question ? Qu'est-ce qu'une bonne recherche ? Quelles sources de données existent ? comment les traiter ?). [br/][br/]Il aborde les différentes étapes du travail de terrain et ses instruments, en particulier l'élaboration de questionnaires et les méthodes statistiques de dépouillement et d'analyse des données empiriques. Pour chacun des aspects traités, il s'agit également de développer un regard critique. Un accent particulier sera mis sur des thèmes liés à l'urbanisme, les transports, le logement et plus généralement au rapport des individus à leur environnement. Une place importante est réservée au travail pratique et individuel sous une forme qui sera définie avec les étudiants.[br/]",
+      "Objectifs d'apprentissage":"Les projets territoriaux et la gestion du phénomène urbain nécessitent de plus en plus de disposer d'informations obtenues soit auprès de la population soit de sources secondaires. Les méthodes d'enquête empiriques issues des sciences sociales constituent des outils indispensables qui permettent de répondre au besoin croissant d'une connaissance de la réalité sociale dans un environnement complexe et en mutation. [br/][br/]Ce cours aborde les principales notions méthodologiques de la recherche quantitative et qualitative. Il est conçu comme une initiation pratique et comme un premier approfondissement destinés spécifiquement aux étudiants en architecture, urbanisme et ingénierie. L'objectif est de donner des bases suffisantes pour la mise en oeuvre et la supervision d'une enquête de terrain."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Enquêtes et méthodes quantitatives",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

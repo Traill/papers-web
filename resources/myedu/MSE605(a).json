@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771268&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","605(a)"],
+    "title":"Mathematica for materials scientists (Fall)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771268&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course is aimed to make use of the Mathematica program to model and analyze experimental results. Basic and advanced features of Mathematica will be demonstrated with the help on notebooks and through practical hands-on exercises using PC's.",
+      "Content":"The following topics will be addressed:[br/][br/][li]Symbolic algebra, linear and non linear systems[br/][li]Differentiation[br/][li]Integration[br/][li]Solving differential equations and systems of differential equations[br/][li]Regression analysis[br/][li]Multivariate statistical analysis",
+      "Keywords":"Symbolic algebra, linear systems, non linear systems, differentiation, integration, differential equations, regression analysis, multivariate statistical analysis"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Mathematica for materials scientists (Fall)",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The following topics will be addressed:[br/][br/][li]Symbolic algebra, linear and non linear systems[br/][li]Differentiation[br/][li]Integration[br/][li]Solving differential equations and systems of differential equations[br/][li]Regression analysis[br/][li]Multivariate statistical analysis",
+      "Mots clés":"Symbolic algebra, linear systems, non linear systems, differentiation, integration, differential equations, regression analysis, multivariate statistical analysis",
+      "Objectifs d'apprentissage":"This course is aimed to make use of the Mathematica program to model and analyze experimental results. Basic and advanced features of Mathematica will be demonstrated with the help on notebooks and through practical hands-on exercises using PC's."
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Mathematica for materials scientists (Fall)",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

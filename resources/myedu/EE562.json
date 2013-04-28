@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128808042&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","562"],
+    "title":"Hybrid systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128808042&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123862",
+      "name":"Barrade Philippe"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The objectives of this course are mainly in the learning of modern techniques for representation and modeling of complex systems, where multidisciplinary aspects are of importance. This course is dedicated in a first approach to learning of modern techniques for representation and modeling of complex systems with the help of Causal Ordering Graphs (COG) and Energetic Macroscopic Representation (EMR).[br/][br/]In a second approach, the lecture will present modern methods for the modeling of local and global phenomena by Finite Element Methods. This will be an introduction for engineers who intend to setup multiphysical modeling, where superposition and interaction between different phenomena of different nature must be taken into account (Electromagnetics, heat transfer, structures and mechanical stress).[br/][br/]This course represents an opportunity for advanced students for discovering diverse and new methods in relation with solving of even more complex problems.",
+      "Content":"[br/][li]Introduction[br/][li]Causal Ordering Graphs and Energetic Macroscopic Representation[br/][li]Electromagnetics (FEM)[br/][li]Heat transfer (FEM)[br/][li]Structures and mechanical stress (FEM)",
+      "Type of teaching":"Ex cathedra with integrated exercises",
+      "Form of examination":"Continuous control"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hybrid systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123862",
+      "name":"Barrade Philippe"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[br/][li]Introduction[br/][li]Graphes informationnels de causalité et représentation énergétique macroscopique[br/][li]Phénomènes électromagnétiques[br/][li]Transmission de chaleur[br/][li]Structures et contraintes mécaniques[br/]",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Les objectifs du cours Systèmes Hybrides se situent principalement dans l'apprentissage de techniques modernes de représentation et de modélisation de systèmes complexes, et qui mettent en jeu des techniques et composants à l'interface de domaines différents (approche interdisciplinaire). On traitera d'une part les aspects de modélisation macroscopique, à l'aide de graphes informationnels basés sur le principe de la causalité (GIC). On traitera également des méthodes de représentation des flux de puissance (représentation énergétique macroscopique, REM).[br/][br/]Dans une deuxième approche, le cours sera dédié à l'apprentissage de moyens modernes de représentation de phénomènes physiques locaux et globaux par la technique des éléments finis. Ce cours sert également de base pour une spécialisation en modélisation multi-physique, c'est-à-dire de superpositions et d'interactions de phénomènes de nature différente (Electromagnétisme, transmission de chaleur, structures et contraintes mécaniques).[br/][br/]Ce cours représente une opportunité pour des étudiants en fin d'études de découvrir des aspects de méthodes diverses et nouvelles en relation avec la résolution de problèmes toujours plus complexes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes hybrides",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

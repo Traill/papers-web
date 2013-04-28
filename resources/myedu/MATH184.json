@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774642&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","184"],
+    "title":"Mathematics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774642&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=en",
+    "section":"AR",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/132147",
+      "name":"Seal Gavin Jay"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Content":"Polynomials, exponential and logarithmic functions, trigonometric functions.[br/][br/]Infinite series, Taylor series.[br/][br/]Differentiation and integration.",
+      "Type of teaching":"Ex cathedra lecture, help to the exercises during the sessions.",
+      "Prerequisite for":"Mathematics II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/132147",
+      "name":"Seal Gavin Jay"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, aide aux exercices pendant les séances.",
+      "Contenu":"Polynômes, fonctions exponentielles et logarithmiques, fonctions trigonométriques.[br/][br/]Séries infinies, séries de Taylor.[br/][br/]Différentiation et intégration.",
+      "Préparation pour":"Mathématiques II",
+      "Bibliographie et matériel":"Notes de cours en ligne."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathématiques I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

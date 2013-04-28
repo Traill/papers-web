@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129871669&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","441"],
+    "title":"Robust and nonparametric Statistics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129871669&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To give an overview of the classical theory of distribution-free tests as well as an introduction to estimation in a function space. The course will also expose the student to the theory of robustness and the application of robustness concepts to linear models.",
+      "Content":"[b]I. Linear Rank Tests[/b][br/][li] Test of Mann-Whitney-Wilcoxon and linear rank tests: asymptotic theory[br/][li] Signed Rank Tests: properties[br/][li] Rank correlations[br/][li] U-statistics[br/][li] Comparison of tests: Pitman efficacy[br/][li] Randomisation tests[br/][b]II. Smoothing[/b][br/][li] Curve fitting: linear and non linear regression, polynomial regression, piece-wise polynomials[br/][li] Smoothing: non parametric estimation, degree of smoothness, bias vs. variance[br/][li] Kernel estimators: definition, properties[br/][li] Smoothing splines[br/][li] Local regression[br/][li] Wavelets[br/][b]III. Robust Statistics[/b][br/][li] Influence function[br/][li] Hampel's lemma[br/][li] Huber's theory: M-estimators, L-estimators, minimax robust estimators[br/][li] Breakdown point[br/][li] Robust tests[br/][li] Robust interval estimation[br/][li] Robust regression",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Required prior knowledge":"Introduction to probability and to statistics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Robust and nonparametric Statistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105911",
+      "name":"Morgenthaler Stephan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en classe",
+      "Contenu":"[b]I. Tests de rangs linéaires[/b][br/][li] Test de Mann-Whitney-Wilcoxon et statistiques linéaires de rang: théorie asymptotique[br/][li] Tests de rang signé : propriétés[br/][li] Corrélations basé sur les rangs[br/][li] Les statistiques U[br/][li] Comparaisons de tests : efficacité de Pitman[br/][li] Tests de randomisation[br/][b]II. Lissage[/b][br/][li] Ajuster une courbe : régression linéaire et non linéaire, régression polynomiale et polynomiale par morceau [br/][li] Lissage : ajustement non paramétrique, degré de lissage, biais et variance [br/][li] Estimateurs à noyaux : définition, propriétés[br/][li] Lissage par splines[br/][li] Régression locale[br/][li] Ondelettes [br/][b]III. Statistique robuste[/b][br/][li] Fonctions d'influence [br/][li] Le lemme de Hampel[br/][li] Théorie de Huber : M-estimateurs, L-estimateurs, estimateur minimax[br/][li] Point de rupture[br/][li] Tests robustes [br/][li] Estimation robuste par intervalles[br/][li] Régression robuste ",
+      "Prérequis":"Introduction à la probabilité et à la statistique",
+      "Bibliographie et matériel":"Sera distribuée pendant le cours",
+      "Objectifs d'apprentissage":"Le cours offre aux étudiants une introduction à la théorie classique des tests dits non paramétriques. Il traite aussi de la théorie d'estimation non paramétrique dans un espace fonctionnel. Le cours présentera la théorie mathématique de la robustesse et discutera l'application aux modèles statistiques les plus couramment utilisés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Robust and nonparametric Statistics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

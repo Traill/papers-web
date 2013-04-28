@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=321156939&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","363"],
+    "title":"Architectural integration of solar energy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=321156939&ww_x_anneeAcad=2012-2013&ww_i_section=69034007&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"ENAC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://cours-enac.epfl.ch/page66993.html","http://cours-enac.epfl.ch/page66993.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105844",
+      "name":"Meylan Georges"
+    },{
+      "url":"http://people.epfl.ch/159393",
+      "name":"Munari Probst Maria Cristina"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Architectural integration of solar energy",
+    "recitation":{
+      "week_hours":3,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://cours-enac.epfl.ch/page66993.html","http://cours-enac.epfl.ch/page66993.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105844",
+      "name":"Meylan Georges"
+    },{
+      "url":"http://people.epfl.ch/159393",
+      "name":"Munari Probst Maria Cristina"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Groupe d'enseignement [br/]Dr Maria Cristina Munari Probst, architecte, LESO-PB[br/]Georges Meylan, architecte, LESO-PB[br/]Intervenants externes: [br/]Christian Roecker, ingénieur[br/]Prof. Raphaël Compagnon, physicien, Ecole d'Ingénieurs et d'Architectes, Fribourg[br/]Architectes praticiens spécialistes du domaine (Beat Kaempfen / Alessandra Scognamiglio/.../ selon disponibilité); [br/]Coordination/ encadrement exercice.[br/][br/][br/]Un travail pratique ayant pour objet un projet de rénovation d'un bâtiment résidentiel collectif ou la conception d'une résidence individuelle utilisant l'énergie solaire, sera produit par groupes interdisciplinaires de deux/trois étudiants. Il se déroulera tout au long du semestre et sera la base pour l'évaluation finale des participants à l'UEE.",
+      "Contenu":"LLes thématiques suivantes seront traitées, dans l'ordre:[br/][br/]1. Besoins énergétiques du bâtiment et technologies solaires disponibles [br/]   (solaire passif ;  solaire actif : capteurs thermiques et modules photovoltaïques) [br/]2. Notions de géométrie solaire[br/]3. Outils informatiques d'aide au dimensionnement de dispositifs solaires (Lesosai, PVsyst, Polysun, ...)[br/]4. Problématique de l'intégration architecturale de ces technologies à l'enveloppe du bâtiment (questions constructives, fonctionnelles et formelles et critères d'intégration correspondants).[br/]5. Similarités et différences (techniques/constructives/formelles) entre les différentes technologies pour une utilisation optimale des surfaces exposées du bâtiment (trade-offs, aspects financier).[br/]6. Présentation de produits actuels adaptés en termes d'intégrabilité architecturale, pour chaque technologie.[br/]7. Exemples d'intégrations réussies (avec visite(s) de réalisation(s)).",
+      "Forme du contrôle":"[br/]",
+      "Objectifs d'apprentissage":"Dans le but de permettre l'utilisation de l'énergie solaire dans une architecture de qualité, cette Unité d'Enseignement vise à transmettre aux participants les connaissances nécessaires:[br/]- à traiter la problématique architecturale de l'intégration des différentes technologies solaires dans l'enveloppe du bâtiment[br/]- à maitriser et à optimiser leur apport par rapport aux besoins énergétiques du bâtiment[br/]Le contexte politique et économique actuel invite à réduire la consommation d'énergies non renouvelables dans les bâtiments (nouvelles normes énergétiques, standard volontaires de plus en plus performants - Minergie, Minergie P, Zéro Energie, Energie plus), et à accroitre l'utilisation des [br/]diverses formes d'énergies renouvelables  (part obligatoire d'énergies renouvelables, subventions etc.).[br/]Cette unité d'enseignement présente les diverses formes d'utilisation de l'énergie solaire en relation avec les besoins énergétiques du bâtiment (chauffage; électricité; eau chaude sanitaire - besoins en lumière pas traités dans ce contexte -), en mettant l'accent sur l'intégration architecturale de ces technologies dans l'enveloppe du bâtiment."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Intégration architecturale de l'énergie solaire",
+    "recitation":{
+      "week_hours":3,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  }
+}

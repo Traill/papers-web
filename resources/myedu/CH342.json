@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772652&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","342"],
+    "title":"Chemical kinetics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772652&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181577",
+      "name":"Vanicek Jiri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Applications of macroscopic laws of chemical kinetics.[br/]Mechanistic studies based on the kinetic theory of gases and the transition state theory.",
+      "Content":"[b]1. Definition[/b][br/][li] Nomenclature.[br/][br/][b]2. Macroscopic aspects of chemical kinetics[/b][br/][li] Variation of reaction rates with concentrations.[br/][li] Variation of reaction rates with temperature.[br/][li] Composite reactions.[br/][li] Introduction to enzyme catalysis.[br/][li] Kinetic aspects of polymerisation.[br/][br/][b]3. Kinetic theory of gases and molecular beams.[/b][br/][br/][br/][b]4. Collision theory[/b][br/][li] Bimolecular reactions. [br/][li] Unimolecular reactions.[br/][br/][b]5. Statistical thermodynamics[/b][br/][li] Distribution of molecular states.[br/][li] Thermodynamic properties.[br/][br/][b]6. Transition state theory[/b][br/][li] Statistical approach.[br/][li] Thermodynamic formulation.[br/][li] Potential energy surfaces.[br/][li] Extention of transition state theory[br/][br/][b]7. Reactions rates in solutions[/b][br/][li] Influence of the solvent on reaction rates. [br/][li] Reactions between ions. [br/][li] Diffusion controlled reactions.[br/][li] Influence of solvation on electron transfer reactions.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical kinetics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-737123-3&amp;con_lng=ENG\" target=\"blank\">Chemical kinetics and dynamics / Jeffrey I. Steinfeld, Joseph S. Francisco, William L. Hase</a>\". Year:1999. ISBN:0-13-737123-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181577",
+      "name":"Vanicek Jiri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cours donné en anglais",
+      "Bibliographie et matériel":"Polycopié: Cinétique chimique[br/]Selected chapters from: \"Chemical kinetics and dynamics\", J.I. Steinfeld, J.S. Francisco and W.L. Hase, Prentice Hall, 1999",
+      "Forme d'enseignement":"Ex cathedra et exercices ",
+      "Contenu":"[b]1. Définitions[/b][br/][li] Courtes descriptions et types de réactions.[br/][br/][b]2. Cinétique macroscopique[/b][br/][li] Influence des concentrations sur les vitesses de réaction.[br/][li] Influence de la température sur les vitesses de réaction.[br/][li] Applications des lois de vitesses aux réactions composées.[br/][li] Introduction à la catalyse enzymatique.[br/][li] Polymérisation.[br/][br/][b]3. Théorie cinétique des gaz et jets moléculaires[/b][br/][li] Le modèle et les calculs de base, collisions.[br/][br/][b]4. Théorie des collisions[/b][br/][li] Réactions bimoléculaires en phase gazeuse.[br/][li] Réactions unimoléculaires en phase gazeuse.[br/][br/][b]5. Rappel de thermodynamique statistique[/b][br/][li] La distribution des états moléculaires.[br/][li] Les propriétés thermodynamiques.[br/][br/][b]6. Théorie de l'état de transition[/b][br/][li] Formulation statistique.[br/][li] Formulation thermodynamique.[br/][li] Surface d'énergie potentielle.[br/][li] Extensions de théorie de l'état de transition.[br/][br/][b]7. Réactions en solution[/b][br/][li] Effet du solvant sur les vitesses de réaction.[br/][li] Réactions entre ions.[br/][li] Réactions contrôlées par la diffusion.[br/][li] Réactions ioniques.[br/][li] Influence de la solvatation sur les réactions du transfert d'électrons.",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Utilisation des lois de cinétique macroscopique.[br/]Compréhension des mécanismes des réactions par la théorie cinétique des gaz et la théorie de l'état de transition."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical kinetics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-737123-3&amp;con_lng=FRE\" target=\"blank\">Chemical kinetics and dynamics / Jeffrey I. Steinfeld, Joseph S. Francisco, William L. Hase</a>\". Année:1999. ISBN:0-13-737123-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

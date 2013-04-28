@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24371214&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","411"],
+    "title":"Cellular Signalling",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24371214&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105423",
+      "name":"Hovius Rudolf"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Presentation of selected signalling pathways with emphasis on both the mechanism of action of the molecules involved and the role of spatial organisation of these molecules within the cell. Overview of methodologies to quantify signalling. ",
+      "Content":"Ligand binding and receptor activation.[br/]Receptor systems in plasma membrane and nucleus.[br/]Lipids, proteins and molecular interactions.[br/]Regulation of activity and covalent modification.[br/]Spatial and temporal organisation of signalling.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cellular Signalling",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4292-7635-1&amp;con_lng=ENG\" target=\"blank\">Biochemistry / Jeremy M. Berg, John L. Tymoczko, Lubert Stryer</a>\". Year:2012. ISBN:978-1-4292-7635-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4111-6&amp;con_lng=ENG\" target=\"blank\">Molecular biology of the cell : Reference edition / Bruce Alberts ... [et al.]</a>\". Year:2008. ISBN:978-0-8153-4111-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105423",
+      "name":"Hovius Rudolf"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: \"Chimie biologique I & II\"",
+      "Bibliographie et matériel":"Articles from literature[br/]Alberts \"The Cell\"[br/]Stryer \"Biochemistry\"",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Liaison de ligands et activation des récepteurs.[br/]Système de réception dans la membrane plasmique et du noyau.[br/]Régulation de l'activité et modification covalente.[br/]Organisation spatiale et temporelle du signal.[br/]",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Présentation de chemins biosynthétiques de signaux avec une focalisation sur les mécanismes d'action des molécules impliquées et le rôle de leur organisation spatiale dans la cellule. [br/]Vue d'ensemble des méthodes de quantification du signal"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cellular Signalling",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4292-7635-1&amp;con_lng=FRE\" target=\"blank\">Biochemistry / Jeremy M. Berg, John L. Tymoczko, Lubert Stryer</a>\". Année:2012. ISBN:978-1-4292-7635-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4111-6&amp;con_lng=FRE\" target=\"blank\">Molecular biology of the cell : Reference edition / Bruce Alberts ... [et al.]</a>\". Année:2008. ISBN:978-0-8153-4111-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

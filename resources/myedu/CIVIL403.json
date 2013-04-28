@@ -1,0 +1,62 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2208536&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","403"],
+    "title":"Geology for construction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2208536&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To integrate geotechnical knowledge in real geological conditions of civil works.[br/]To educate students to solve three-dimensional complex problems.[br/]To offer students a contact with natural geomaterials.[br/]To become conscious of processes at various scales in time and space.[br/]To familiarize students with field conditions.[br/]To educate students in the works which are treated in consulting foundation companies.[br/][br/]",
+      "Content":"1. \tTaking into account the geological conditions in the various steps of a construction project[br/]2. \tIdentification of the main geomaterials and their ability for construction[br/]\t2.1. Rocks[br/]\t2.2. Soils[br/]3. \tStructural analyses of rock massifs[br/]4. \tFrom geological cartography to expected profiles[br/]5. \tProspecting methods[br/]\t5.1. Surface geophysics[br/]\t5.2. Mechanical boring[br/]6. \tPractical applications[br/]\t6.1. Subsurface works[br/]\t6.2. Underground works[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geology for construction",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Géologie I et II, Mécanique des sols et des roches",
+      "Bibliographie et matériel":"documentation distribuée, complétée par les notes de l'étudiant",
+      "Forme d'enseignement":"Enseignement participatif. En salle et sur le terrain",
+      "Contenu":"1. \tLa prise en compte des conditions géologiques dans les étapes d'un projet de construction[br/]2. \tIdentification des principaux substrats naturels et leurs aptitudes à la construction[br/]\t2.1. Roches[br/]\t2.2 Terrains meubles[br/]3. \tAnalyses structurale des massifs rocheux[br/]4. \tDe la cartographie géologique aux profils prévisionnels[br/]5. \tMéthodes de reconnaissances[br/]\t5.1. Géophysique de surface[br/]\t5.2. Sondages mécaniques[br/]6. \tApplications pratiques[br/]\t6.1. Travaux en surface[br/]\t6.2. Travaux souterrains[br/]",
+      "Forme du contrôle":"Contrôles durant le semestre",
+      "Préparation pour":"activité professionnelle. ",
+      "Objectifs d'apprentissage":"Intégrer les connaissances acquises en géotechinique dans des conditions géologiques réelles des ouvrages.[br/]Eduquer l'étudiant à résoudre des problèmes tridimensionnels complexes.[br/]Prendre contact avec les matériaux naturels.[br/]Prendre conscience de processus à différentes échelles de temps et d'espace.[br/]Rendre l'étudiant plus familier aux conditions propres du terrain.[br/]Préparer l'étudiant aux travaux qu'il devra traiter dans la pratique d'un bureau de conseil en fondation et en travaux souterrains.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Géologie de la construction",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

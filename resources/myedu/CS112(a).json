@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705566&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","112(a)"],
+    "title":"Computer-aided engineering II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705566&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=5571","http://moodle.epfl.ch/course/view.php?id=5571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course is a continuation of the \"Programming I\" course. It focusses on Object-Oriented Programming (again with C++). Part of the course is also dedicated to conception and programm specification, studied mainly in the framework of a group project aiming at producing from scratch a real (mini-)application. This project, as well as the practical sessions, provide also the opportunity to practically experiment the theoretical concepts presented in the lectures.[br/][br/]Some of the basic concepts of Computers Sciences and Algorithmics will also be introduced.[br/][br/][br/]",
+      "Content":"Fundamentals of Object-Oriented Programming: object, class, encapsulation, methods, inheritance, polymorphism, multiple inheritance.[br/][br/]Usual tools libraries (STL,...)[br/][br/]Generic programming (templates)[br/][br/]Introduction to basics of Computers Sciences and Algorithmics: complexity and problems (P and NP), scientific computation, numerical problem solving.[br/][br/]All theoretical concepts introduced in the lectures are experienced during practical sessions on computers (Unix workstations).[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, practical work on computer, group project.",
+      "Form of examination":"This course is graded jointly with its follower \"Computer-aided [br/]engineering\" (CS-110(A)).[br/]For the current semester, we have:[br/]1 graded practical session (11% of the final grade)[br/]1 paper exam, open book (22% of the final grade)[br/]1 programming project by groups of 2 students (33% of the final grade)[br/]",
+      "Required prior knowledge":"Computer-aided engineering I (CS-110(A))"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computer-aided engineering II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-604-9&amp;con_lng=ENG\" target=\"blank\">C     par la pratique : recueil d'exercicesJean-Cedric Chappelier, Florian Seydoux</a>\". Year:2011. ISBN:978-2-88074-604-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-504-2&amp;con_lng=ENG\" target=\"blank\">Programmation orientee objets en C   : une approche evolutive / Marylene Micheloud, Medard Rieder</a>\". Year:2007. ISBN:978-2-88074-504-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=5571","http://moodle.epfl.ch/course/view.php?id=5571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112547",
+      "name":"Chappelier Jean-Cédric"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Informatique I (CS-110(A))",
+      "Bibliographie et matériel":"Notes de cours ;[br/]Conseillé : [1] M. Micheloud et M. Rieder, Programmation orientée objet en C++,  PPUR,  2003 (2e édition)[br/][2] J.-C. Chappelier, C++ par la pratique, PPUR 2012 (3e édition)[br/]",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur, mini-projet.",
+      "Contenu":"Fondements de l'approche objet: structure de classe, encapsulation, méthodes, héritage, polymorphisme, héritage multiple.[br/][br/]Bibliothèques usuelles d'outils (STL,...)[br/][br/]Programmation générique (templates)[br/][br/]Approfondissements thématiques :[br/]-\tcomplexité et classes de problèmes (P et NP) ;[br/]-\tcalcul scientifique ;[br/]-\tméthodes de résolution de problèmes.[br/][br/]Les concepts théoriques introduits lors des cours magistraux seront mis en pratique dans le cadre d'exercices sur machines et par le biais de la réalisation d'un projet.[br/]",
+      "Forme du contrôle":"Ce cours est évalué conjointement avec «Informatique I» du premier semestre (CS-110(A)). Pour ce semestre ci :[br/]Une série notée intermédiaire, 11% du total final[br/]Un examen écrit (2 h), 22% du total final[br/]Un projet de groupe (2 pers.), 33% du total final[br/]",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est d'approfondir les connaissances théoriques et pratiques présentées dans le cours Informatique I.[br/][br/]L'accent sera mis sur l'approche par objets à l'aide du langage C++. Une part du cours sera également dédiée à la conception et spécification de programmes, en partie grâce à la réalisation d'une mini-application sous la forme d'un projet de groupe, qui permettra également la mise en pratique effective des notions introduites en cours.[br/][br/]Certains des concepts de base de l'informatique et de l'algorithmique seront également abordés.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Informatique II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-604-9&amp;con_lng=FRE\" target=\"blank\">C     par la pratique : recueil d'exercicesJean-Cedric Chappelier, Florian Seydoux</a>\". Année:2011. ISBN:978-2-88074-604-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-504-2&amp;con_lng=FRE\" target=\"blank\">Programmation orientee objets en C   : une approche evolutive / Marylene Micheloud, Medard Rieder</a>\". Année:2007. ISBN:978-2-88074-504-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

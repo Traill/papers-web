@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839103248&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","318"],
+    "title":"IGEM project in synthetic biology I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839103248&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://2008.igem.org/Team:EPF-Lausanne/Team","http://2008.igem.org/Team:EPF-Lausanne/Team "],["http://2010.igem.org/Team:EPF_Lausanne","http://2010.igem.org/Team:EPF_Lausanne"],["http://2009.igem.org/Team:EPF-Lausanne/Team","http://2009.igem.org/Team:EPF-Lausanne/Team"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182376",
+      "name":"Deplancke Bart"
+    },{
+      "url":"http://people.epfl.ch/182445",
+      "name":"Maerkl Sebastian"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"IGEM project in synthetic biology I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://2008.igem.org/Team:EPF-Lausanne/Team","http://2008.igem.org/Team:EPF-Lausanne/Team "],["http://2010.igem.org/Team:EPF_Lausanne","http://2010.igem.org/Team:EPF_Lausanne"],["http://2009.igem.org/Team:EPF-Lausanne/Team","http://2009.igem.org/Team:EPF-Lausanne/Team"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182376",
+      "name":"Deplancke Bart"
+    },{
+      "url":"http://people.epfl.ch/182445",
+      "name":"Maerkl Sebastian"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bachelor en sciences et technologies du vivant",
+      "Forme d'enseignement":"Projet",
+      "Contenu":"The first part of the course consists of a broad introduction to genetic engineering, synthetic biology, computational biology, and related fields. During this time, students will brainstorm potential projects, from which one will be selected. The team will then model and ultimately build the proposed genetically engineered machine in the wet-lab portion of the project during the summer. Due to the interdisciplinary nature of the course, students with a wide variety of backgrounds will constitute the team and therefore facilitate information and knowledge exchange amongst team members.[br/]A purely bioinformatic iGEM track is also available, generating the possibility to have a second, smaller team work solely on computational and bioinformatic aspects of genetic engineering either as a stand-alone team or in conjunction with the applied project.[br/][br/]Important remark: Only a limited number of spots will be available each year and we expect a highly competitive process for selecting team participants.",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"In this \"course\", an interdisciplinary team of EPFL students will design and build genetic circuits with novel functionalities. The conclusion of each class will be a trip to Boston to present the team's research at the annual international Genetically Engineered Machine (iGEM) competition. For more information on the concept and content of the iGEM competition, visit: www.iGEM.org or look at previous iGEM Projects performed at the EPFL (http://2008.igem.org/Team:EPF-Lausanne/Team for 2008 or http://2009.igem.org/Team:EPF-Lausanne/Team for 2009).[br/][br/]Please note that the project generally starts in early March and culminates at the competition in Boston in November and therefore lies outside of the regular semester timeframe."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"IGEM project in synthetic biology I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

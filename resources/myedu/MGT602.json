@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36234429&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","602"],
+    "title":"Mathematical models in supply chain management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=36234429&ww_x_anneeAcad=2012-2013&ww_i_section=32211080&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMT",
+    "program":"EDMT",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://tom.epfl.ch/","http://tom.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162367",
+      "name":"Seifert Ralf"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"        (1) To introduce to individual components of supply chain modeling and their interface with other functions of the company such as marketing, manufacturing and finance. [br/]\t(2) To impart analytical and problem solving skills necessary to develop solutions for a variety of supply chain management and design problems and develop an understanding for use of information technology in supply chain operation. [br/]\t(3) To understand the complexity of inter-firm and intra-firm coordination in implementing programs such as co-development of technology products, rapid product rollouts, quick response, and jointly managed inventories. [br/]",
+      "Content":"This course covers recent research and advances in operations and supply chain management. The objective of the course is to introduce Ph.D. students with the foundations of supply chain management modeling and to familiarize them with some of the latest research in this area. Special emphasis will be placed on research that has been conducted on supply chains for bringing technology products to markets whenever applicable. The course should be of particular interest for students who are currently pursuing doctoral studies at the junction of technology management and supply chain management, or related fields. In addition, it should appeal to students who are interested in the quantitative analysis of operations and supply chains. ",
+      "Keywords":"supply chains, mathematical modeling, optimization, firm and inter-firm context",
+      "Required prior knowledge":"Basic course in Probability"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematical models in supply chain management",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://tom.epfl.ch/","http://tom.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162367",
+      "name":"Seifert Ralf"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"This course covers recent research and advances in operations and supply chain management. The objective of the course is to introduce Ph.D. students with the foundations of supply chain management modeling and to familiarize them with some of the latest research in this area. Special emphasis will be placed on research that has been conducted on supply chains for bringing technology products to markets whenever applicable. The course should be of particular interest for students who are currently pursuing doctoral studies at the junction of technology management and supply chain management, or related fields. In addition, it should appeal to students who are interested in the quantitative analysis of operations and supply chains. ",
+      "Mots clés":"supply chains, mathemetical modeling, optimization, firm and inter-firm context",
+      "Prérequis":"Basic course in Probability",
+      "Objectifs d'apprentissage":"        (1) To introduce to individual components of supply chain modeling and their interface with other functions of the company such as marketing, manufacturing and finance. [br/]\t(2) To impart analytical and problem solving skills necessary to develop solutions for a variety of supply chain management and design problems and develop an understanding for use of information technology in supply chain operation. [br/]\t(3) To understand the complexity of inter-firm and intra-firm coordination in implementing programs such as co-development of technology products, rapid product rollouts, quick response, and jointly managed inventories. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mathematical models in supply chain management",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234860451&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=&ww_c_langue=fr",
+    "code":["HUM","109"],
+    "title":"Globalization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234860451&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[["https://documents.epfl.ch/groups/s/sh/shs1-mondialisation/public","https://documents.epfl.ch/groups/s/sh/shs1-mondialisation/public"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229444",
+      "name":"Lützelschwab Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Globalization",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[["https://documents.epfl.ch/groups/s/sh/shs1-mondialisation/public","https://documents.epfl.ch/groups/s/sh/shs1-mondialisation/public"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229444",
+      "name":"Lützelschwab Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"[b]Enseignants[/b] : [br/]Claude Lützelschwab (Section d'histoire, UNIL) ; intervenants à préciser",
+      "Bibliographie et matériel":"Des références bibliographiques pour chacun des thèmes traités seront mises à disposition en format pdf sur Moodle.",
+      "Mots clés":"Histoire, Mondialisation, Temps, Espace, Enjeux ",
+      "Forme d'enseignement":"Enseignement ex-cathedra ; différents intervenants.",
+      "Contenu":"Ce cours a deux objectifs : [br/](1) Eclairer les enjeux contemporains de la mondialisation en les intégrant dans une perspective historique longue (XVIe-XXe siècles) ; [br/](2) Montrer les diverses formes (dans le temps, dans l'espace et selon les thèmes) de la mondialisation. [br/][br/]Les thèmes traités sont :[br/][li]les transports[br/][li]les communications[br/][li]les maladies[br/][li]les migrations[br/][li]le commerce[br/][li]la Chine[br/][li]la mondialisation culturelle[br/][li]le politique",
+      "Forme du contrôle":"Contrôle continu en fin de semestre.",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant-e sera capable de :[br/][br/]- situer les grands débats de la mondialisation dans une perspective historique longue ;[br/]- poser des jalons chronologiques et spatiaux dans l'histoire longue de la mondialisation ;[br/]- traiter des exemples qui illustrent le phénomène de mondialisation à différentes époques et en différents lieux/espaces."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"La mondialisation",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

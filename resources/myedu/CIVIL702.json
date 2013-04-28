@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412838850&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","702"],
+    "title":"Conceptual Design of Structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412838850&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://is-beton.epfl.ch","http://is-beton.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    },{
+      "url":"http://people.epfl.ch/145823",
+      "name":"Salvi Renato"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To analyze and discuss innovative designs of contemporary structures. ",
+      "Content":"Topics: [br/][li] General design concepts, understanding a structure's function[br/][li] The role of history (previous examples, evolution of structural concepts)[br/][li] Structural aspects and detailing of contemporary structures[br/][li] Structural design of contemporary structures, and role of parameter variation [br/]",
+      "Keywords":"Structural design, contemporary structures, design concepts, structural detailing"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Conceptual Design of Structures",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://is-beton.epfl.ch","http://is-beton.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    },{
+      "url":"http://people.epfl.ch/145823",
+      "name":"Salvi Renato"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Topics: [br/][li] General design concepts, understanding a structure's function[br/][li] The role of history (previous examples, evolution of structural concepts)[br/][li] Structural aspects and detailing of contemporary structures[br/][li] Structural design of contemporary structures, and role of parameter variation ",
+      "Mots clés":"Structural design, contemporary structures, design concepts, structural detailing",
+      "Objectifs d'apprentissage":"To analyze and discuss innovative designs of contemporary structures. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Conceptual Design of Structures",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

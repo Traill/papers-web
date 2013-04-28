@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71832385&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","512"],
+    "title":"Models and methods for random networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71832385&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://icawww1.epfl.ch/class-nooc","http://icawww1.epfl.ch/class-nooc"]],
+    "instructors":[],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"With continuous control",
+      "Bibliography and material":"Polycopié et articles de références",
+      "Required prior knowledge":"First courses in probability and stochastic processes",
+      "Content":"- Random graphs : models for random graphs; threshold functions, giant component, full connectivity.[br/][br/]- Random Geographic Graphs, Elements of percolation theory and phase transitions.[br/][br/]- Small world networks : properties, measurements, generative models.[br/][br/]- Scale-free networks : properties, measurements, generative models.[br/][br/]- Applications : multi-hop wireless networks, social networks.[br/][br/]- Dynamic networks and dynamics on netoworks : throughput capacity, navigation with local information.",
+      "Type of teaching":"Ex cathedra and mini-project",
+      "Learning outcomes":"The goal of this class is to acquire mathematical tools and engineering insight about networks whose structure is random.[br/]Many communication networks, such as the global Internet and its multiple interconnected autonomous domains, ad hoc and embedded sensor networks, social networks, and peer-to-peer overlay networks, often evade detailed engineering and exhaustive measurement to rel instead on principles of self-organization. This new world of massive scale, lack of central control, and randomness requires new theoretical tools to reason about networks and their behavior, as well as new approoaches to engineer for and measure aggregate properties. Most of these tools are borrowed from other fields, surch as random graph theory, statistical physics, nonlinear dynammical systems, random algorithms, developmental biology and game theory.[br/]This course will bring together elements of these theories and their application to \"large-scale, self-organized or uncontrolled\" networks. It will provide an introduction to and perspective on this emerging field, and an opportunity to track and discuss new developments. The course will balance mathematical rigor with practical lessons for engineering."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Models and methods for random networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://icawww1.epfl.ch/class-nooc","http://icawww1.epfl.ch/class-nooc"]],
+    "instructors":[],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de base probabilités et processus stochastiques",
+      "Bibliographie et matériel":"Polycopié et articles de références",
+      "Forme d'enseignement":"Ex cathedra et mini-projet",
+      "Contenu":"- Graphes aléatoires : modèles, fonctions seuils, clique géante, connectivité complète.[br/][br/]- Réseaux géographiques aléatoires. Eléments de la théorie de la percolation et transistions de phase.[br/][br/]- Réseaux \"sans échelles\" (Scale-free) : propriétés, mesures, modèles générateurs.[br/][br/]- Applications : réseaux sans fil à saut multiples, réseaux sociaux.[br/][br/]- Réseaux dynamiques et dynamique sur les réseaux : capacité et débit, navigation avec information locale.",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Objectifs d'apprentissage":"Le but de ce cours est d'acquérir les outils mathématiques et l'intuition de l'ingénieur au sujet des réseaux dont la structure est aléatoire.[br/]Un grand nombre de réseaux de communication, comme l'Internet et ses multiples systèmes autonomes interconnectés, les réseaux ad hoc ou de capteurs embarqués échappent aux mesures exhaustives et règles précises de conception, reposant à la place sur des principes d'auto-organisation. Ce nouveau monde mêlant grande taille, absence de contrôle centralisé et caractère aléatoire requiert de nouveaux outils théoriques pour raisonner sur les réseaux et leur comportement, de même que de nouvelles approches pour les concevoir et pour mesurer leurs caractéristiques globales. La plupart de ces outils sont empruntés à d'autres domaines, comme la théorie des graphes aléatoires, la physique statistique, les systèmes dynamiques non linéaires, les algorithmes aléatoires, la biologie du développement et la théorie des jeux.[br/]Ce cours rassemble des éléments de ces théories, ainsi que leur application aux réseaux \"de grande taille, auto-organisés et non contrôlés\". Il procurera une introduction et une perspective sur ce domaine émergent, et une opportunité pour suivre et discuter les nouveaux développements. Le cours équilibrera rigueur mathématique et enseignements pratiques pour l'ingénieur."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Models and methods for random networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

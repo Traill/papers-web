@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132121224&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIOENG","312"],
+    "title":"Fluid mechanics for SV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132121224&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106482",
+      "name":"Stergiopulos Nikolaos"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to the basic concepts of fluid mechanics. ",
+      "Content":"1. Introduction. Basic characteristics of fluids.[br/]2. Fluid statics.[br/]3. Elementary fluid dynamics. The Bernoulli equation.[br/]4. Fluid kinematics. The velocity filed. Acceleration field. The Reynolds transport theorem.[br/]5. Control volume analysis. Mass conservation. Momentum and moment-of-momentum equations.[br/]6. Differential analysis of fluid flow. Inviscid flow. Potential flow. Viscous flow. Navier-Stokes equations. Simple solutions to viscous, incompressible flows.[br/]7. Dimensional analysis.[br/]8. Viscous flow in pipes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fluid mechanics for SV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-67582-2&amp;con_lng=ENG\" target=\"blank\">Fundamentals of fluid mechanics / Bruce R. Munson, Donald F. Young, Theodore H. Okiishi</a>\". Year:2006. ISBN:0-471-67582-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106482",
+      "name":"Stergiopulos Nikolaos"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique III,IV[br/]Analyse III,IV[br/]Analyse numérique",
+      "Bibliographie et matériel":"Fundamentals of Fluid Mechanics, Munson et al., Wiley and Sons",
+      "Forme d'enseignement":"Cours ex cathedra, exposé oral, exercices dirigés et répétitions",
+      "Contenu":"1. Introduction. Propriétés des fluides.[br/]2. Statique des fluides.[br/]3. Dynamique des fluides. Equation de Bernoulli.[br/]4. Cinématique des fluides. Champ de vitesses. Champ d'accélérations. Théorème de transport de Reynolds.[br/]5. Notion de volume de contrôle. Conservation de la masse. Conservation de la quantité de mouvement et du moment d'inertie.[br/]6. Analyse différentielle. Écoulement non-visqueux. Écoulement potentiel. Écoulement visqueux. Equations de Navier-Stokes. Solutions simples dans le cas d'un fluide visqueux et incompressible.[br/]7. Analyse dimensionnelle.[br/]8. Écoulement visqueux dans un tube.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Cardiovascular Mechanics",
+      "Objectifs d'apprentissage":"Introduction à la mécanique des fluides."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fluid mechanics for SV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-67582-2&amp;con_lng=FRE\" target=\"blank\">Fundamentals of fluid mechanics / Bruce R. Munson, Donald F. Young, Theodore H. Okiishi</a>\". Année:2006. ISBN:0-471-67582-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

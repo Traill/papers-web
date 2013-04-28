@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128848739&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","404(a)"],
+    "title":"Computer simulation of physical systems II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128848739&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3711","http://moodle.epfl.ch/course/view.php?id=3711"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109250",
+      "name":"Pasquarello Alfredo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To provide the student with basic methods of computational condensed-matter physics.",
+      "Content":"[b]Diffusion-limited aggregation:[/b] description of the model, fractal dimension, dielectric breakdown.[br/][br/][b]Boundary and eigenvalue problems:[/b] Numerov's integration algorithm, solution of the radial Poisson equation and of the one-dimensional Schrödinger equation.[br/][br/][b]Density-functional theory:[/b] Hohenberg-Kohn theorem, Kohn-Sham equations, local-density approximation.[br/][br/][br/][b]First-principles calculations:[/b]  selfconsistent  solutions for isolated atoms; selfconsistent solution for periodic systems,  plane-wave basis sets, pseudopotentials; applications to atoms, clusters, solids, surfaces, chemical reactions.[br/][br/][b][i]Ab initio[/i] molecular dynamics:[/b] Car-Parrinello method and applications.[br/][br/][br/][b]Variational Monte Carlo:[/b] solution of Schrödinger equation through the variational Monte Carlo method, variance minimization, application to quantum systems.[br/][br/][b]Diffusion Monte Carlo:[/b] solution of Schrödinger equation through evolution in imaginary time, Green-Function Monte Carlo method, guide function, fixed node approximation, application to quantum systems.[br/][br/][br/][b]Minimization in multidimensions:[/b] steepest-descent and conjugate-gradient methods.[br/]",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Report + oral exam = 1 grade",
+      "Required prior knowledge":"Quantum mechanics, Statistical physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer simulation of physical systems II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3711","http://moodle.epfl.ch/course/view.php?id=3711"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109250",
+      "name":"Pasquarello Alfredo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique quantique, Physique statistique",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Agrégation limitée par diffusion :[/b] description du modèle, dimension fractale, rupture diélectrique.[br/][br/][b]Problèmes avec conditions au bord et aux valeurs propres :[/b] méthode d'intégration de Numerov, solution de l'équation de Poisson radiale et de l'équation de Schrödinger unidimensionnelle.[br/][br/][b]Théorie de la fonctionnelle de densité :[/b] théorème de Hohenberg-Kohn, équations de Kohn-Sham, approximation de la densité locale.[br/][br/][b]Calculs à partir de principes premiers:[/b] solutions autocohérentes pour atomes isolés; solutions autocohérentes pour systèmes périodiques, bases d'ondes planes, pseudopotentiels; applications aux atomes, clusters, solides, réaction chimiques.[br/][br/][b]Dynamique moléculaire [i]ab initio[/i]:[/b] méthode de Car-Parrinello et applications.[br/][br/][b]Monte Carlo variationnel:[/b] solution de l'équation de Schrödinger par la méthode de Monte Carlo variationnelle, minimisation par la variance, application à des systèmes quantiques. [br/][br/][b]Monte Carlo de diffusion:[/b] solution de l'équation de Schrödinger par évolution dans le temps imaginaire, méthode de Monte Carlo basée sur des fonctions de Green, fonction guide, approximation de noeuds fixés, application à des systèmes quantiques.[br/][br/][b]Minimisation de fonctions à plusieurs variables:[/b] méthode du gradient à descente maximale, méthode du gradient conjugué.[br/]",
+      "Forme du contrôle":"Rapport + examen oral = 1 note",
+      "Objectifs d'apprentissage":"Introduire l'étudiant aux méthodes de la simulation numérique en physique de la matière condensée."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Computer simulation of physical systems II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

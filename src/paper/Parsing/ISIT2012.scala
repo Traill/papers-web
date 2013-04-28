@@ -7,7 +7,7 @@ import scala.io.Codec
 
 trait ISIT2012 extends XMLParser with PDFLoader {
 
-  def parseDoc[A <: DataItem](doc : Document[A]) : Option[Document[Paper]] = {
+  def parseDoc(doc : Document) : Option[Document] = {
     var paper : Option[Paper] = None
     val pdfName : String = Analyzer.filePath + doc.id + ".pdf"
     println(pdfName)

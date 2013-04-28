@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772335&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","462"],
+    "title":"Cavitation and interface phenomena",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772335&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123870",
+      "name":"Farhat Mohamed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral examination",
+      "Required prior knowledge":"[li]Fluid Mechanics",
+      "Content":"INTRODUCTION, BASIC CONCEPTS:[br/]- Definitions, history, effects and types of cavitation[br/]- Liquid-Vapor transition, tensile strength[br/]- Static equilibrium of a nuclei, role of surface tension[br/]CAVITATION BUBBLE COLLAPSE:[br/]- Dynamics of an isolated bubble : Rayleigh-Plesset equation[br/]- Micro-jetting, shock waves, sonoluminescence[br/]- Bubble collapse in the vicinity of a solid wall[br/]- Bubble collapse in the vicinity of a plane free surface[br/]- Bubble collapse within confined volumes (jets and drops)[br/]- Effect of acceleration field (i.e. : gravity)[br/]- Cavitation erosion mechanism[br/]- Thermodynamic effects[br/]DYNAMIQUE DES CAVITS ATTACHÉES :[br/]- Onset and stability of attached cavitation[br/]- Mechanism of transient cavities shedding[br/]- Role of the boundary layer (roughness) and pressure gradient[br/]- Cavitation aggressiveness[br/]- Scale effects[br/]CAVITATION IN VORTICALSTRUCTURES :[br/]- Tip vortex cavitation, nuclei and Reynolds effects[br/]- Cavitation in von Karman vortices[br/]INDUSTRIAL APPLICATIONS:[br/]- Cavitation in hydraulic machines[br/]- Model testing of cavitation in hydraulic machines[br/]- Techniques for Cavitation monitoring",
+      "Keywords":"Cavitation, bubble collapse, cavitation erosion, luminescence",
+      "Type of teaching":"Lectures, written exercices, teaching labs, mini-projects",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Describe a flow in scientific terms, AH1[br/][li]Link flow behaviour with non-dimensional parameters (e.g. Reynolds and Mach numbers), AH2[br/][li]Describe cavitation and its consequences in physical terms; predict the appearance of cavitation pockets in the flow, AH8[br/][li]Provide a characterization of complex physical behaviour, such as multiphase flow and combustion, AH9[br/][br/][br/][b]Transversal skills:[/b][br/][li]Take notes effectively, T3[br/][li]Do a literature review and assess the state of the art, T4[br/][li]Faire un résumé d'un article ou d'un document technique, T5"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Cavitation and interface phenomena",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123870",
+      "name":"Farhat Mohamed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Mécanique des fluides",
+      "Bibliographie et matériel":"[li]Notes de cours : http://lmh.epfl.ch/Teaching/Cavitation[br/][li]J. P. Franc et al, \"La Cavitation : Mécanismes industriels et aspects industriels\", Collection Grenoble Sciences - ISBN 2-86883-451-5 [br/][li]Ch. Brennen, \"Cavitation and Bubble Dynamics\" 1995 by Oxford University Press Inc.:http://caltechbook.library.caltech.edu/1/5/BUBBOOK.pdf[br/]",
+      "Mots clés":"Cavitation, implosion d'une bulle, érosion de cavitation, luminescence",
+      "Forme d'enseignement":"Cours ex-cathedra, exercices écrits, laboratoires, mini-projets",
+      "Contenu":"INTRODUCTION, CONCEPTS DE BASE:[br/]- Définitions, historique, effets et types de cavitation[br/]- Transition liquide-vapeur, tension dans les liquides[br/]- Equilibre statique d'un germe, rôle de la tension superficielle[br/]IMPLOSION D'UNE BULLE DE CAVITATION[br/]- Dynamique d'une bulle isolée: Équation de Rayleigh-Plesset [br/]- Micro jet, onde de choc, sonoluminescence[br/]- Implosion d'une bulle à proximité d'une surface solide[br/]- Implosion d'une bulle à proximité d'une surface libre plane[br/]- Implosion d'une bulle au sein d'un volume confiné (jets et gouttes)[br/]- Effet du champ d'accélération (cas particulier : gravité terrestre)[br/]- Mécanismes d'érosion[br/]- Effets thermodynamiques[br/]DYNAMIQUE DES CAVITS ATTACHÉES :[br/]- Apparition et stabilité des cavités attachées[br/]- Mécanisme de lâcher des cavités transitoires[br/]- Rôle de la couche limite (rugosité) et du gradient de pression[br/]- Effets d'échelle[br/]- Agressivité hydrodynamique[br/]CAVITATION DANS LES STRUCTURES TOURBILLONNAIRE[br/]- Cavitation du tourbillon marginal, rôle des germes et de Reynolds[br/]- Cavitation dans les tourbillons de von Karman[br/]APPLICATIONS INDUSTRIELS:[br/]- Cavitation dans les machines hydrauliques[br/]- Essais de cavitation sur modèles réduit de machines hydrauliques[br/]- Techniques de surveillance de la cavitation",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire un écoulement en termes scientifiques, AH1[br/][li]Relier les comportements des écoulements aux paramètres adimensionnels (nombre de Reynolds, Mach, etc.), AH2[br/][li]Décrire le phénomène de cavitation en termes physiques et les conséquences ; prédire l'apparition des poches de cavitation dans un écoulement, AH8[br/][li]Présenter la typologie des écoulements de physique complexe, tels que multiphasique, combustion, AH9[br/][br/][b]Compétences transversales:[/b][br/][li]Prendre des notes de manière efficace, T3[br/][li]Réaliser une recherche bibliographique et revue de l'état de l'art, T4[br/][li]Faire un résumé d'un article ou d'un document technique, T5"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Cavitation et phénomènes d'interface",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

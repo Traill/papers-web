@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775532&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","315"],
+    "title":"Statistical physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775532&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159141",
+      "name":"Mila Frédéric"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam. Mid-term optional exam giving up to one point of bonus",
+      "Prerequisite for":"Statistical physics II",
+      "Required prior knowledge":"Analytical Mechanics",
+      "Content":"[b]1. Towards a microscopic theory of the perfect gas[/b][br/][br/]- Review of thermodynamics[br/]- Kinetic theory[br/]- Phase space and entropy[br/][br/][b]2. General formalism[/b][br/][br/]- Statistical entropy and fundamental principle[br/]- Statistical ensembles and thermodynamic potentials[br/]- Example : classical perfect gas[br/][br/][b]3. First applications to classical systems[/b][br/][br/]- Virial and equipartition theorems[br/]- Paramagnetism of classical dipoles[br/]- Real gases : Van Der Waals equation and virial expansion[br/][br/][b]4. Introduction to quantum statistical physics[/b][br/][br/]- Density operator[br/]- Identical particles[br/]- Quantum perfect gases : Fermi-Dirac and Bose-Einstein distributions[br/]",
+      "Type of teaching":"Ex cathedra. Exercises in class",
+      "Learning outcomes":"To introduce the basic concepts of classical and quantum[br/]statistical mechanics.[br/][br/]To illustrate the theory with the study of several models and[br/]examples.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statistical physics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-66166-5&amp;con_lng=ENG\" target=\"blank\">Thermodynamique et mecanique statistique / Walter Greiner (et al.)</a>\". Year:1999. ISBN:978-3-540-66166-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159141",
+      "name":"Mila Frédéric"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique analytique",
+      "Bibliographie et matériel":"Notes de cours[br/]W. Greiner, L. Neise, H. Stöcker \"Thermodynamique et Mécanique Statistique\"",
+      "Forme d'enseignement":"Ex cathedra. Exercices en salle",
+      "Contenu":"[b]1. Vers une théorie microscopique du gaz parfait[/b][br/][br/]- Rappels de thermodynamique[br/]- Théorie cinétique[br/]- Espace des phases et entropie[br/][br/][b]2. Formalisme général[/b][br/][br/]- Entropie statistique et principe fondamental[br/]- Ensembles statistiques et potentiels thermodynamiques[br/]- Exemple : gaz parfait classique[br/][br/][b]3. Premières applications aux systèmes classiques[/b][br/][br/]- Théorèmes du viriel et d'équipartition[br/]- Paramagnétisme de dipôles classiques[br/]- Gaz réels : équation de Van Der Waals et développement du viriel[br/][br/][b]4. Introduction à la physique statistique quantique[/b][br/][br/]- Opérateur densité[br/]- Particules identiques[br/]- Gaz parfaits quantiques : distributions de Fermi-Dirac et de Bose-Einstein[br/]",
+      "Forme du contrôle":"examen écrit. Examen facultatif en cours de semestre donnant au maximum un point de bonus.",
+      "Préparation pour":"Physique statistique II",
+      "Objectifs d'apprentissage":"Introduire les concepts fondamentaux de la mécanique[br/]statistique classique et quantique.[br/][br/]Illustrer la théorie à l'aide d'applications et de modèles.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique statistique I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-66166-5&amp;con_lng=FRE\" target=\"blank\">Thermodynamique et mecanique statistique / Walter Greiner (et al.)</a>\". Année:1999. ISBN:978-3-540-66166-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

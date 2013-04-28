@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4147397&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ChE","309"],
+    "title":"Chemical engineering practice",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4147397&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li] To familiarize the student with the processes and equipment important in chemical engineering.[br/][li] To understand, simulate, and analyze the behavior of equipment in terms of fundamental and empirical theories.[br/][li] To improve oral and written communication skills.[br/] [br/]",
+      "Content":"[li] Heat exchangers (tube, plate and shell)[br/][li] Continuous chemical reactors [br/][li] Process control of tank level and temperature [br/][li] Liquid-Liquid extraction[br/][li] Double effect evaporation [br/][li] Continuous feed crystallization  [br/][li] Continuous distillation [br/][li] Continuous and batch filtration[br/][li] Fixed and fluidized bed[br/][li] Heat transfer by free and forced convection [br/][li] Transient and steady state heat conduction[br/][li] Wetted-wall gas absorption[br/] "
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Chemical engineering practice",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module Génie chimique",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Phénomènes de transfert\" et \" Introduction au génie chimique II\"",
+      "Forme d'enseignement":"Travail pratique dans le laboratoire pilote, epériences par groupes",
+      "Contenu":"[li] Échangeurs de chaleur (tubes, plaques et coques) [br/][li] Réacteurs chimiques en continu [br/][li] Contrôle de procédés du niveau du réservoir et de la température [br/][li] extraction liquide-liquide [br/][li] Evaporation à double effet [br/][li] Cristallisation à alimentation continue [br/][li] Distillation en continu [br/][li] Filtration continue et par lots [br/][li] Réacteur à lit fixe et fluidisé [br/][li] Transfert de chaleur par convection libre et forcée - Conduction thermique transitoire et à l'état d'équilibre [br/][li] Absorption des gaz dans une colonne à paroi mouillée [br/] ",
+      "Forme du contrôle":"Rapports, présentation orale",
+      "Objectifs d'apprentissage":"[li] Prise de connaissance avec les procédés et équipements importants en génie chimique. [br/][li] Comprendre, simuler et analyser le fonctionnement des équipements en termes de théories fondamentales et empiriques.[br/][li] Apprendre à communiquer des résultats techniques à d'autres sous forme de rapports et d'exposés.[br/] "
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Génie chimique TP",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

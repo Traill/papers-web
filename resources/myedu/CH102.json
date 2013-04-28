@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2246987&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","102"],
+    "title":"Atoms, ions, molecules and functions I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2246987&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"],["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178464",
+      "name":"Corminboeuf Anne-Clémence"
+    },{
+      "url":"http://people.epfl.ch/181574",
+      "name":"Waser Jérôme"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Atoms, ions, molecules and functions I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-21522-8&amp;con_lng=ENG\" target=\"blank\">Basic concepts of chemistry / Leo J. Malone</a>\". Year:2004. ISBN:0-471-21522-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-9903-0&amp;con_lng=ENG\" target=\"blank\">Chemical principles : the quest for insight / Peter Atkins, Loretta Jones</a>\". Year:2008. ISBN:978-0-7167-9903-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7296-0378-6&amp;con_lng=ENG\" target=\"blank\">Chimie générale / Peter Atkins ; texte français de Pierre Archirel ... [et al.]</a>\". Year:1992. ISBN:2-7296-0378-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-9949-9&amp;con_lng=ENG\" target=\"blank\">Organic chemistry : structure and function / K. Peter C. Vollhardt, Neil E. Schore</a>\". Year:2007. ISBN:0-7167-9949-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5508-7&amp;con_lng=ENG\" target=\"blank\">Principes de chimie / Atkins, Jones</a>\". Year:2008. ISBN:978-2-8041-5508-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5884-2&amp;con_lng=ENG\" target=\"blank\">Traité de chimie organique / K. Peter C. Vollhardt, Neil E. Schore</a>\". Year:2009. ISBN:978-2-8041-5884-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"],["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178464",
+      "name":"Corminboeuf Anne-Clémence"
+    },{
+      "url":"http://people.epfl.ch/181574",
+      "name":"Waser Jérôme"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"En relation avec le cours Atomes, ions, molécules et fonctions II",
+      "Bibliographie et matériel":"\"Chimie générale\", P.W. Atkins[br/]\"Traité de Chimie\", K.P.C. Vollardt, N.E. Schore[br/]\"Basic concepts of chemistry\", L.J. Malone[br/]\"Chemical principles\" P. Atkins, L. Jones (livre et manuel d'exercices) ",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices ",
+      "Contenu":"[i]Jérôme Waser[/i][br/][br/][li] Règles élémentaires de nomenclature des molécules organiques[br/][li] Stéréochimie : représentation des objets moléculaires en trois dimensions, chiralité, énantiomérie, diastéréoisomérie, prochiralité[br/][li] Influence de la structure des molécules sur leurs propriétés acido-basiques[br/][br/][i]Clémence Corminboeuf[/i][br/][b] Notions de base de la mécanique quantique[/b] [br/][li] Corpuscules matériels et ondes de matière, quantification, fonctions d'ondes et orbitales. [br/][li] Structure des atomes, isotopes et radioactivité, variations au travers du tableau périodique des éléments.[br/][li] Liaisons chimiques : covalente, ionique, métallique.[br/][li] Interactions intermoléculaires. ",
+      "Forme du contrôle":"Examen écrit (3h) à la session d'examen d'hiver ",
+      "Objectifs d'apprentissage":"[i]Jérôme Waser[/i][br/]Acquisition des notions de base de nomenclature des molécules organiques. Aspects fondamentaux de stéréochimie. Introduction aux relations structure/acidité des composés organiques.[br/][br/][i]Clémence Corminboeuf [/i][br/]Introduction des concepts qualitatifs de la mécanique quantique, connaissance de base des liaisons chimiques et du tableau périodique des éléments.  "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Atomes, ions, molécules et fonctions I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-21522-8&amp;con_lng=FRE\" target=\"blank\">Basic concepts of chemistry / Leo J. Malone</a>\". Année:2004. ISBN:0-471-21522-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-9903-0&amp;con_lng=FRE\" target=\"blank\">Chemical principles : the quest for insight / Peter Atkins, Loretta Jones</a>\". Année:2008. ISBN:978-0-7167-9903-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7296-0378-6&amp;con_lng=FRE\" target=\"blank\">Chimie générale / Peter Atkins ; texte français de Pierre Archirel ... [et al.]</a>\". Année:1992. ISBN:2-7296-0378-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7167-9949-9&amp;con_lng=FRE\" target=\"blank\">Organic chemistry : structure and function / K. Peter C. Vollhardt, Neil E. Schore</a>\". Année:2007. ISBN:0-7167-9949-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5508-7&amp;con_lng=FRE\" target=\"blank\">Principes de chimie / Atkins, Jones</a>\". Année:2008. ISBN:978-2-8041-5508-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-8041-5884-2&amp;con_lng=FRE\" target=\"blank\">Traité de chimie organique / K. Peter C. Vollhardt, Neil E. Schore</a>\". Année:2009. ISBN:978-2-8041-5884-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

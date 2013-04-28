@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48099118&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","403"],
+    "title":"Chemical engineering of heterogenous reactions",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48099118&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduce the theoretical background and practical aspects of heterogeneous reactions including basic knowledge of heterogeneous catalysis.[br/]The fundamentals are given allowing the proper choice and exploitation of a chemical reactor.",
+      "Content":"[b]1. Introduction[/b][br/][li] Basic homogeneous chemical reactors (BATCH, CSTR, Plug Flow)[br/][li] Choice and optimization of reactor performance[br/][b]2. Real quasi homogeneous reactors[/b][br/][li] Residence time distribution (RTD)[br/][li] Models for real reactors[br/][li] Influence of RTD on the reactor performance[br/][b]3. Heterogeneous catalytic reactions[/b][br/][li] Thermodynamic and kinetic aspects [br/][li] Fundamentals of adsorption[br/][li] Kinetics of heterogeneous reactions[br/][li] Influence of diffusion on the overall kinetics and selectivity   (external& internal mass transfer) [br/][b]4. Fluid-fluid reactions[/b][br/][li] Mass transfer coupled with chemical reactions[br/][li] Influence of mass transfer phenomena on the macrokinetics & reactor performance [br/][li] Examples of fluid/fluid reactors & processes [br/][b]5. Micro-reaction technology[/b] [br/][li] Micro-mixing & heat exchange[br/][li] Micro-structured reactors (MSR) for homogeneous reactions [br/][li] MSR for heterogeneous catalytic reactions [br/]",
+      "Bibliography and material":"Text book of lectures"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical engineering of heterogenous reactions",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie.htm","http://scgc.epfl.ch/telechargement_cours_chimie.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés ",
+      "Contenu":"[b]1. Introduction[/b][br/][li] Réacteurs chimiques idéaux (BATCH, CSTR, PF)[br/][li] Choix et optimisation de la performance de réacteurs[br/][b] 2. Réacteurs (quasi) homogènes réels[/b][br/][li] Distribution des temps de séjour (DTS)[br/][li] Modèles des réacteurs réels[br/][li] Influence de la DTS sur la performance de réacteurs[br/][b] 3. Réactions Catalytiques Hétérogènes[/b][br/][li] Aspects thermodynamiques & cinétiques[br/][li] Bases de l'adsorption[br/][li] Cinétique de réactions hétérogènes[br/][li] Influence de la diffusion sur la cinétique globale et sélectivité (transfert de masse externe & interne)[br/][b]4. Réactions fluide-fluide[/b][br/][li] Transfert de masse accompagné de réaction chimique[br/][li] Influence du transfert de masse sur la macrocinétique & la performance de réacteurs[br/][li] Exemples des réacteurs & des procédés fluide-fluide[br/][b]5. Réacteurs micro-structurés[/b] [br/][li] Micro mélange & transfert de chaleur[br/][li] Réacteurs micro structurés (MSR) pour des réactions homogènes[br/][li] MSR pour des réactions hétérogènes catalytiques  [br/]",
+      "Prérequis":"Module Génie chimique du cycle Bachelor",
+      "Bibliographie et matériel":"Polycopié (copie de transparents)",
+      "Objectifs d'apprentissage":"Introduire les aspects pratiques et théoriques des réactions chimiques hétérogènes y compris les connaissances de base dans la catalyse hétérogène. [br/]Donner aux étudiants les bases pour le choix, le dimensionnement et l'exploitation des réacteurs. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical engineering of heterogenous reactions",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

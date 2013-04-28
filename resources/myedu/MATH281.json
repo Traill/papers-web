@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774612&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","281"],
+    "title":"Applied mathematics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774612&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104724",
+      "name":"Caussignac Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Learn how to solve concrete problems using theoretical and numerical methods of applied mathematics.",
+      "Content":"[b]Linear algebra[/b][br/]Norm, dot product, orthogonality. Solution of linear systems: general properties, matrix decomposition. Diagonalization: theory and numerical methods.[br/][br/][b]Interpolation, smoothening[/b][br/]Least squares, polynomial interpolation.[br/][br/][b]Ordinary differential equations[/b][br/]Higher-order equations, systems of equations. Initial value problems. Analytical methods. Euler methods. Stability of numerical methods. Boundary value problems. Examples.[br/][br/][b]Fourier series and transform[/b][br/]Trigonometrical Fourier series. Impropre integral, convolution. Application to partial differential equations.[br/][br/]",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Form of examination":"Test, written exam",
+      "Required prior knowledge":"Mathematics I, II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Applied mathematics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=ENG\" target=\"blank\">Algèbre linéaire : théorie, exercices  [et] applications / David C. Lay</a>\". Year:2005. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=ENG\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Year:2006. ISBN:978-2-88074-513-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-363-X&amp;con_lng=ENG\" target=\"blank\">Introduction à l'analyse numérique / Jacques Rappaz, Marco Picasso</a>\". Year:2004. ISBN:2-88074-363-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104724",
+      "name":"Caussignac Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mathématiques I, II",
+      "Bibliographie et matériel":"D. C.Lay : Algèbre linéaire. DeBoeck, Bruxelles 2004.[br/]J. Rappaz, M. Picasso : Introduction à l'analyse numérique. PPUR, Lausanne 1998.[br/]B. Dacorogna, C. Tanteri : Analyse avancée pour ingénieurs. PPUR, Lausanne 2002.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"[b]Algèbre linéaire[/b][br/]Norme, produit scalaire, orthogonalité. Résolution de systèmes linéaires : propriétés générales, décomposition de la matrice. Diagonalisation : théorie et méthode numérique.[br/][br/][b]Interpolation, lissage[/b][br/]Moindres carrés, interpolation polynomiale.[br/][br/][b]Equations différentielles ordinaires[/b][br/]Equations d'ordre supérieur, systèmes d'équations. Problèmes à conditions initiales. Méthodes analytiques. Méthodes d'Euler. Stabilité des méthodes numériques. Problèmes à valeurs aux bords. Exemples.[br/][br/][b]Séries et transformées de Fourier[/b][br/]Séries de Fourier trigonométriques. Intégrale impropre, convolution. Transformée de Fourier. Application aux équations aux dérivées partielles.",
+      "Forme du contrôle":"Contrôle continu, examen écrit",
+      "Objectifs d'apprentissage":"Apprendre à résoudre des problèmes concrets par des méthodes théoriques et numériques de mathématiques appliquées."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathématiques appliquées",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-4408-9&amp;con_lng=FRE\" target=\"blank\">Algèbre linéaire : théorie, exercices  [et] applications / David C. Lay</a>\". Année:2005. ISBN:2-8041-4408-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-513-4&amp;con_lng=FRE\" target=\"blank\">Analyse avancée pour ingénieurs / Bernard Dacorogna, Chiara Tanteri</a>\". Année:2006. ISBN:978-2-88074-513-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-363-X&amp;con_lng=FRE\" target=\"blank\">Introduction à l'analyse numérique / Jacques Rappaz, Marco Picasso</a>\". Année:2004. ISBN:2-88074-363-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

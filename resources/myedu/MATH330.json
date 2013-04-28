@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774512&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","330"],
+    "title":"Martingales and applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774512&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104859",
+      "name":"Dalang Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Present an introduction to the theory of martingales and their  use in stochastic processes.",
+      "Content":"-\tConditional expectations and conditioning.[br/]-\tIntroduction to the theory of martingales and super-martingales.[br/]-\tStopping times and the optional sampling theorem.[br/]-\tConvergence theorems.[br/]-\tThe Doob-Kolmogorov inequality.[br/]-\tUse of martingales: stochastic control and branching processes.",
+      "Type of teaching":"Ex cathedra lecture",
+      "Form of examination":"Exercises each week, written or oral exam",
+      "Required prior knowledge":"1st cycle"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Martingales and applications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-12-398552-8&amp;con_lng=ENG\" target=\"blank\">A first course in stochastic processes / Samuel Karlin, Howard M. Taylor</a>\". Year:1975. ISBN:0-12-398552-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104859",
+      "name":"Dalang Robert"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"1er cycle",
+      "Bibliographie et matériel":"S. Karlin & H.M. Taylor, A First Course in Stochastic Processes (second ed.), Academic Press (1975).",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"-\tNotions d'espérance conditionnelle et de conditionnement.[br/]-\tIntroduction à la théorie des martingales et surmartingales.[br/]-\tTemps d'arrêt et théorème d'arrêt.[br/]-\tConvergence des martingales.[br/]-\tInégalité de Doob-Kolmogorov.[br/]-\tUtilisation des martingales : contrôle stochastique et processus de branchement.",
+      "Forme du contrôle":"Exercices hebdomadaires à rendre, examen écrit ou oral",
+      "Objectifs d'apprentissage":"Présenter une introduction à la théorie des martingales et à leur utilisation en processus stochastiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Martingales et applications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-12-398552-8&amp;con_lng=FRE\" target=\"blank\">A first course in stochastic processes / Samuel Karlin, Howard M. Taylor</a>\". Année:1975. ISBN:0-12-398552-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1590321840&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","422"],
+    "title":"Concepts in Ecological Engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1590321840&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190741",
+      "name":"Spiegelberger Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"40 % semester project[br/]60 % oral examination 20 min",
+      "Prerequisite for":"Master project",
+      "Required prior knowledge":"Ecologie générale (BA4), Sciences du sol (BA3), Microbiologie pour l'ingénieur (BA3)",
+      "Content":"1.\tEcosystem management - its principles[br/]2.\tThe concept of nature in environmental planning[br/]3.\tConcepts of ecosystem goods and service, monetarisation[br/]4.\tThreats to biodiversity in ecosystems[br/]5.\tIncreasing community structures (interactions, species-area relationships)[br/]6.\tEcological networks, fragmentation, metapopulation[br/]7.\tApplication to some particular ecosystems (wetlands, forests, grasslands, agro-ecosystems, mountain ecosystems)[br/]",
+      "Keywords":"Ecological engineering, planning, management, restoration",
+      "Type of teaching":"Lecture ex cathedra and exercises",
+      "Learning outcomes":"Students will be able to recognize, understand and articulate key ecosystem characteristics necessary to apply techniques of ecological engineering. Fundamental ecological concepts, including interactions between ecosystems and humans, will be presented so as to pave the way for application of ecological engineering approaches. Bases of ecological engineering techniques and perspectives will be discussed."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Concepts in Ecological Engineering",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190741",
+      "name":"Spiegelberger Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Ecologie générale (BA4), Sciences du sol (BA3), Microbiologie pour l'ingénieur (BA3)",
+      "Bibliographie et matériel":"Polycopié et autres supports de cours",
+      "Mots clés":"Ingénierie écologique, aménagement, gestion, restauration",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"1.\tGestion écosystémique - les principes[br/]2.\tLe concept de la nature dans l'aménagement territoriale[br/]3.\tConcepts de biens et services écologiques, monétarisation[br/]4.\tAtteintes à la biodiversité dans les écosystèmes[br/]5.\tAugmenter les structures des communautés (interactions, relation entre espace et espèces)[br/]6.\tRéseaux écologiques, fragmentation, métapopulation[br/]7.\tApplication à quelques écosystèmes particuliers (zones humides, forêts, prairies, agro-écosystèmes, écosystèmes montagnards)[br/]",
+      "Forme du contrôle":"40 % projet de semestre[br/]60 % examen oral 20 min[br/]",
+      "Préparation pour":"Travail de master",
+      "Objectifs d'apprentissage":"Les étudiants seront en mesure de reconnaître, de comprendre et d'articuler les caractéristiques clés des écosystèmes pour appliquer les techniques d'ingénierie écologique. Les concepts fondamentaux de l'écologie, y compris les interactions entre écosystèmes et actions humaines seront exposés pour jeter les bases des approches en ingénierie écologique, et leurs perspectives seront discutées."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Concepts in Ecological Engineering",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

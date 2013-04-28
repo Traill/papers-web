@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580272424&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["BIO","392"],
+    "title":"Introduction to oncology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580272424&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213145",
+      "name":"De Palma Michele"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The main goal of this course is to illustrate the concepts that together constitute our current thinking of how cancer arises and progresses in humans and experimental animal models of the disease.[br/]Beyond the cancer cells, the so-called \"tumor microenvironments\" will be a major focus of this course. We will discuss how the cancer cells interact with normal, non-transformed cells of the body to form malignant tumors that evade immune control and disseminate to distant organs.[br/]By analyzing both experimental and clinical data, the students will learn about the fundamental molecular and cellular players involved in tumorigenesis, and how this knowledge can be exploited to develop anti-cancer therapies. [br/]",
+      "Content":"[li] The biology of the cancer cells: Sustained proliferative signals, evasion of growth suppression, resistance to apoptosis, and replicative immortality.[br/][li] The cells of the tumor microenvironment: Endothelial cells and pericytes; Fibroblasts; Hematopoietic cells.[br/][li] The role of the immune system during tumor evolution: Anti- and pro-tumoral inflammation and immunity.[br/][li] The biology of metastasis and metastasis-associated organ microenvironments.[br/][li] Engineered mouse models of cancer.[br/][li] Cancer therapies: From targeted to personalized cancer medicine targeting the cancer cells and the tumor microenvironment.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to oncology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8153-4078-8&amp;con_lng=ENG\" target=\"blank\">The biology of cancer / Robert A. Weinberg</a>\". Year:2007. ISBN:0-8153-4078-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213145",
+      "name":"De Palma Michele"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"The biology of cancer, Ed. Garland Science (by R. A. Weinberg).[br/]Hallmarks of Cancer: The next generation. In Cell, 2011 (by D. Hanahan and R. A. Weineberg)",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[li] La biologie des cellules cancéreuses : signaux prolifératifs, évasion de la suppression de croissance, résistance à l'apoptose et immortalité réplicative.[br/][li] Les cellules du microenvironnement tumoral : cellules endothéliales et péricytes, fibroblastes, cellules hématopoïétiques[br/][li] Le rôle du système immunitaire dans l'évolution de la tumeur : inflammation anti- et pro-tumorale et immunité.[br/][li] La biologie de la métastase et le microenvironnement des organes associés aux métastases[br/][li] Modèle de souris conçus pour étudier le cancer[br/][li] Thérapies contre le cancer : de la médecine anticancéreuse ciblée à la médecine personnalisée visant les cellules cancéreuses et le microenvironnement des tumeurs.",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Bachelor puis master en Sciences de la Vie",
+      "Objectifs d'apprentissage":"L'objectif principal de ce cours est d'illustrer les concepts qui constituent le point de vue actuel sur la façon dont le cancer survient et progresse chez les humains ainsi que dans des modèles expérimentaux d'animaux.[br/]Au-delà des cellules cancéreuses, le microenvironnement des tumeurs sera un des sujets majeurs de ce cours. Nous allons discuter comment les cellules cancéreuses interagissent avec les cellules normales, non-transformées du corps pour générer des tumeurs malignes qui s'évadent du contrôle immunitaire et se disséminent dans de distants organes.[br/]En analysant des données expérimentales ainsi que cliniques, les étudiants vont apprendre quels sont les acteurs fondamentaux au niveau moléculaire et cellulaire impliqués dans la formation des tumeurs, et comment ces connaissances sont exploitées pour développer des thérapies contre le cancer."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to oncology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8153-4078-8&amp;con_lng=FRE\" target=\"blank\">The biology of cancer / Robert A. Weinberg</a>\". Année:2007. ISBN:0-8153-4078-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

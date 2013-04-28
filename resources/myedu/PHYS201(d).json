@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","201(d)"],
+    "title":"General physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    },{
+      "url":"http://people.epfl.ch/106568",
+      "name":"Tran Minh Quang"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The observation, analysis and quantitative description of some fundamental physical phenomena ; understanding the theoretical model and applying it to practical problems.",
+      "Content":"[b]Introduction to the physics of fluids[/b][br/]Statics, kinematics, and dynamics.[br/][br/][b]Wave phenomena[/b][br/]The wave equation and some selected solutions. Interference and diffraction.[br/][br/][b]Electrodynamics[/b][br/]Electrostatics and magnetostatics. Induction, electromotive force. Maxwell's equations. Electromagnetic waves.[br/]",
+      "Type of teaching":"Ex cathedra and exercices supervised in class",
+      "Form of examination":"Optional tests: returned exercises, optional test",
+      "Required prior knowledge":"Course of mathematics and physics 1st year"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    },{
+      "url":"http://people.epfl.ch/106568",
+      "name":"Tran Minh Quang"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de mathématiques et de physique de 1ère année",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Forme d'enseignement":"Ex cathedra avec présentation d'expériences et exercices dirigés en classe",
+      "Contenu":"[b]Introduction à la physique des fluides[/b][br/]Statique, cinématique et dynamique.[br/][br/][b]Phénomènes ondulatoires[/b][br/]L'équation des ondes et quelques solutions. Interférence et diffraction.[br/][br/][b]Électromagnétisme[/b][br/]Électrostatique et magnétostatique. Induction, force électromotrice. Les équations de Maxwell. Ondes électromagnétiques.",
+      "Forme du contrôle":"Epreuves facultatives : exercices rendus, test payant facultatif",
+      "Objectifs d'apprentissage":"L'observation, l'analyse et la description quantitative de phénomènes physiques fondamentaux ; la comphéhension du modèle théorique et son application aux problèmes pratiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

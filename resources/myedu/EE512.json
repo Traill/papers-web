@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229720940&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","512"],
+    "title":"Biomedical signal processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229720940&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://itswww.epfl.ch/~courstsb/","http://itswww.epfl.ch/%7Ecourstsb/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106643",
+      "name":"Vesin Jean-Marc"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written",
+      "Bibliography and material":"Notes polycopiées",
+      "Required prior knowledge":"Signal processing for telecommunications",
+      "Content":"[b]1. Generalities on biomedical signal processing[/b][br/][br/][b]2. Linear modeling[/b][br/][li]linear prediction[br/][li]parametric spectral estimation[br/][li]transfer function estimation[br/][li]adaptive prediction[br/][li]model selection criteria[br/][br/][b]3. Nonlinear modeling[/b][br/][li]polynomial models[br/][li]multi-layer perceptron[br/][li]radial basis functions[br/][li]model selection criteria[br/][br/][b]4. Time-frequency analysis[/b][br/][li]wavelet analysis[br/][li]Wigner-Ville transform and related transforms[br/][br/][b]5. Classification[/b][br/][li]classical classifiers[br/][li]neural network based classifiers[br/][br/][b]6. Miscellaneous (if time permits)[/b][br/][li]higher order statistics[br/][li]principal component analysis[br/][li]source separation",
+      "Type of teaching":"Ex cathedra, séances Matlab",
+      "Learning outcomes":"Biomedical signals constitute a very interesting application field for advanced signal processing techniques, be it for pre-processing (noise reduction...) or analysis. The goal of this course is to introduce these advanced techniques and to form students to their use on experimental biomedical signals."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomedical signal processing",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://itswww.epfl.ch/~courstsb/","http://itswww.epfl.ch/%7Ecourstsb/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106643",
+      "name":"Vesin Jean-Marc"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Traitement des signaux pour les télécommunications",
+      "Bibliographie et matériel":"Notes polycopiées",
+      "Forme d'enseignement":"Ex cathedra, séances Matlab",
+      "Contenu":"[b]1.\tGénéralités sur le traitement des signaux biomédicaux[/b][br/][br/][b]2.\tModélisation linéaire[/b][br/][li]\tprédiction linéaire[br/][li]\tanalyse spectrale paramétrique[br/][li]\testimation de la fonction de transfert[br/][li]\tprédiction adaptative[br/][li]\tcritères de sélection des modèles[br/][br/][b]3.\tModélisation non linéaire[/b][br/][li]\tmodèles polynomiaux[br/][li]\tperceptron multi-couches[br/][li]\tfonctions radiales[br/][li]\tcritères de sélection des modèles[br/][br/][b]4.\tAnalyse temps-fréquence[/b][br/][li]\tanalyse par ondelettes[br/][li]\ttransformation de Wigner-Ville et transformations associées[br/][br/][b]5.\tClassification[/b][br/][li]\tclassifieurs classiques[br/][li]\tclassifieurs basés sur les réseaux de neurones[br/][br/][b]6.\tDivers (si le temps disponible le permet)[/b][br/][li]\tstatistiques d'ordre supérieur[br/][li]\tanalyse en composantes principales[br/][li]\tséparation de sources",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"Les signaux biomédicaux constituent une application de choix des techniques avancées de traitement des signaux, tant du point de vue de leur pré-traitement (réduction de bruit...) que de leur analyse. Le but de ce cours est d'introduire ces techniques avancées et de former les étudiants à leur utilisation sur des signaux."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomedical signal processing",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

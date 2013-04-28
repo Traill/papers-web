@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348607885&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","351"],
+    "title":"Transportation systems engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348607885&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"GC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196675",
+      "name":"Geroliminis Nikolaos"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]Introduce the major elements of transportation systems and create awareness of the broader context[br/][li]Develop basic skills in applying the fundamentals of the transportation field[br/][li]Understand the key concepts and physics of the transport phenomena[br/][li]Connect with real transportation problems[br/][li]Be prepared for further study in this field",
+      "Content":"[b]Transportation Systems and Mobility:[/b][br/]Mobility - Activities - Land Use, Classification-Hierarchy , Multimodality-Urban Planning[br/][b]Demand:[/b][br/]Demand analysis, Travel Forecasting (4-step models)[br/][b]Modeling and Operations:[/b][br/]Basic assessment tools , Traffic flow modeling, Control and capacity of transport systems[br/][b]Design of multimodal systems:[/b][br/]Urban Policy, Case Studies, Intro to bus operations [br/]",
+      "Type of teaching":"Ex-cathedra with assisted exercises, course project",
+      "Prerequisite for":"Master classes in Transportation",
+      "Bibliography and material":"Class notes, slides and book chapters"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Transportation systems engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196675",
+      "name":"Geroliminis Nikolaos"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex-cathedra avec laboratoires pratiques assistés, mini-projet",
+      "Contenu":"[b]Systèmes de transport et  mobilité:[/b][br/]Mobilité - Activités, - Aménagement du territoire, Classification - hiérarchie, Multimodalité - Planification urbaine[br/][b]Demande:[/b][br/]Analyse et prévision de la demande, (modèles à 4 étapes)[br/][b]Modélisation et  Exploitation:[/b][br/]Outils d'évaluation de base, modélisation des flux de trafic, contrôle et capacité des systèmes de transport[br/][b]Conception de systèmes multimodaux[/b][br/]Politiques urbaines, études de cas, introduction à l'exploitation des bus[br/]",
+      "Préparation pour":"Cours de Master en transport",
+      "Bibliographie et matériel":"Class notes, slides and book chapters",
+      "Objectifs d'apprentissage":"[li]Introduction aux principaux éléments des systèmes de transport et sensibilation à un contexte plus large[br/][li]Développer des compétences de base en appliquant les principes fondamentaux du domaine des transports[br/][li]Comprendre les concepts clés et la physique des phénomènes de transport[br/][li]Sensibilisation à la réalité du transport[br/][li]Ouverture vers une étude plus approfondie dans ce domaine"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Transportation systems engineering",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

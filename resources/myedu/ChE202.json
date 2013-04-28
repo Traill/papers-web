@@ -1,0 +1,90 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774322&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","202"],
+    "title":"Introduction to chemical engineering II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774322&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174908",
+      "name":"Baati Nadia"
+    },{
+      "url":"http://people.epfl.ch/105841",
+      "name":"Meyer Thierry"
+    },{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Gain abitily to analyze chemical systems using mass and heat balances. Be introduced to basic chemical engineering unit operations and processes.",
+      "Content":"[b]Course[/b][br/][li] Introduction to heat and mass balances[br/][li] Introduction to ideal reactors theory[br/][li] Heat transfer [br/][li] Transfer / Transport operations[br/][li] Complex study case[br/][li] Non isothermal reactive system[br/][b]TP[/b][br/][li] Basics of fluid mechanics[br/][li] Thermodynymics of a heat pump[br/][li] Photovoltaic energy conversion[br/][li] Heat exchanges[br/][li] Continuous chemical reactors[br/][li] Friction loss in pipes and bends"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"Français",
+    "title":"Introduction to chemical engineering II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-59784-2&amp;con_lng=ENG\" target=\"blank\">Elementary principles of chemical processes / Richard M. Felder, Ronald W. Rousseau</a>\". Year:2009. ISBN:978-0-470-59784-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-127839-8&amp;con_lng=ENG\" target=\"blank\">Elements of chemical reaction engineering / H. Scott Fogler</a>\". Year:2006. ISBN:0-13-127839-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174908",
+      "name":"Baati Nadia"
+    },{
+      "url":"http://people.epfl.ch/105841",
+      "name":"Meyer Thierry"
+    },{
+      "url":"http://people.epfl.ch/178220",
+      "name":"Sivula Kevin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"\"Introduction to chemical engineering I\"",
+      "Bibliographie et matériel":"\"Elementary Principles of Chemical Processes\", Richard M. Felder, Ronald W. Rousseau, ISBN 978-0-471-68757-3, 2004[br/]\"Elements of chemical reaction engineering\", H. Scott Fogler, ISBN 0-13-253-220-4, 1992",
+      "Forme d'enseignement":"Cours: Ex cathedra et exercices[br/]TP: laboratoire, expériences par groupes",
+      "Contenu":"[b]Cours[/b][br/][li] Introduction au bilan de masse et de chaleur[br/][li] Introduction à la théorie des réacteurs idéaux[br/][li] Transfert de chaleur[br/][li] Opération de transfer / transport[br/][li] Etude de cas complexe[br/][li] Système réactif non isotherme[br/][b]TP[/b][br/][li] Notions de base de la mécanique des fluides[br/][li] Thermodynamique d'une pompe à chaleur[br/][li] Conversion de l'énergie photovoltaïque[br/][li] Echangeurs de chaleur[br/][li] Réacteurs chimiques continus[br/][li] Perte de charge dans les tuyaux et les coudes",
+      "Forme du contrôle":"Cours: examen final oral[br/]TP: rapports, présentation orale",
+      "Préparation pour":"Formation en génie chimique",
+      "Objectifs d'apprentissage":"Analyser des systèmes chimiques en formulant des bilans de masse et de chaleur. Introduction à la base des opérations unitaires en génie chimique et des procédés."
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"Français",
+    "title":"Introduction au génie chimique II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-59784-2&amp;con_lng=FRE\" target=\"blank\">Elementary principles of chemical processes / Richard M. Felder, Ronald W. Rousseau</a>\". Année:2009. ISBN:978-0-470-59784-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-127839-8&amp;con_lng=FRE\" target=\"blank\">Elements of chemical reaction engineering / H. Scott Fogler</a>\". Année:2006. ISBN:0-13-127839-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

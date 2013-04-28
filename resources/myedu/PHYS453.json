@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578878908&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","453"],
+    "title":"Quantum Electrodynamics and Quantum Optics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578878908&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105021",
+      "name":"Dupertuis Marc-André"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To give the basics of the interaction between matter and the light, with emphasis on quantum aspects when needed. Introduction to essential theoretical tools and to a few modern problems linked with quantum correlations.[br/]",
+      "Content":"[b]1.\tIntroduction to quantum optics[/b][br/]From Einstein to our days : a historical perspective.[br/][br/][b]2.\tClassical and quantum fields[/b][br/]\tQuantization of the radiation field in Coulomb gauge. Summary of second quantization formalism for fermions. Particular quantum states of radiation (Fock states, coherent states, thermal mixture, squeezed states)[br/][br/][br/][b]3.\tSemi-classical theory of the light-matter interaction : optical resonances and non-linearities, the laser[/b][br/]\tDynamics of the light-matter interaction. Optical Bloch equations. Classification of optical non-linearities. The laser equations. Static and dynamical phenomena.[br/][br/][b]4.\tClassical and quantum noise, quantum theory of measurement, quantum correlations[/b][br/]\tCorrelation functions of the radiation field and coherence. Quantum theory of measurement and photodetection. Interferometry and correlation functions. Entangled states of the electromagnetic field. Quantum spectroscopies[br/]",
+      "Type of teaching":"Ex cathedra with exercises, presentation of scientific articles by the students",
+      "Form of examination":"oral (70%), presentation and discussion of a scientific article in a team of two (30%)",
+      "Required prior knowledge":"Quantum physics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Quantum Electrodynamics and Quantum Optics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105021",
+      "name":"Dupertuis Marc-André"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique quantique",
+      "Bibliographie et matériel":"notes polycopiées",
+      "Forme d'enseignement":"Ex cathedra avec exercices, présentation d'articles scientifiques par les étudiants",
+      "Contenu":"[b]1.\tIntroduction à l'optique quantique[/b][br/]\tD'Einstein à nos jours : une perspective historique[br/][br/][b]2.\tChamps classiques et champs quantiques[/b][br/]\tQuantification du champ de rayonnement en jauge de Coulomb. Résumé du formalisme en seconde quantification pour les fermions. Etats quantiques particuliers du champ (états de Fock, états cohérents, état de mélange thermique, états comprimés)[br/][br/][b]3.\tInteraction lumière-matière en théorie semi-classique: résonances optiques et non-linéarités, le laser[/b][br/]\tDynamique de l'interaction entre champ et atome. Équations de Bloch optiques. Classification des non-linéarités optiques. Equations du laser. Phénomènes statiques et dynamiques[br/][br/][b]4.\tBruit classique et bruit quantique, théorie quantique de la mesure, corrélations quantiques[/b][br/]\tFonctions de corrélations du champ de rayonnement et cohérence. Théorie quantique de la mesure et de la détection. Interférométrie et fonctions de corrélations. Etats enchevêtrés du champ électromagnétique. Spectroscopies quantiques.[br/]",
+      "Forme du contrôle":"oral (70%), présentation et discussion d'un article scientifique par groupes de deux (30%)",
+      "Objectifs d'apprentissage":"Donner les bases de la description de l'interaction entre matière et lumière, en soulignant les aspects quantiques quand ils sont importants. Introduction aux outils théoriques essentiels et à quelques problématiques modernes liées aux corrélations quantiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrodynamique et Optique quantique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

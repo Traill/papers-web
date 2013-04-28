@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47572505&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENG","400"],
+    "title":"Water quality modeling",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47572505&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/","http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Homework assignments: 10 %, mid-term exam: 20 %, final written exam (120 min) in the post-semester exam period: 70 %.",
+      "Bibliography and material":"Class notes",
+      "Required prior knowledge":"Microbiology for the engineer[br/]Sites remediation",
+      "Content":"[b]Overview of principles and modelling for water quality in water bodies and the subsurface[/b][br/]Topics to be covered will be selected from the following: water phase equilibrium reactions, reaction kinetics, precipitation and dissolution, (mineral) subsurface reactions, cation exchange, bioremediation and contamination degradation, redox reactions, inverse reaction path modelling.[br/][br/][b]Modelling for prediction, diagnosis and design[/b][br/]The public domain geochemical modelling package, PHREEQC [br/](http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) will be used extensively for a variety of modelling scenarios and applications based on the reaction processes described above.[br/]",
+      "Keywords":"Biogeochemical modelling, PHREEQC, microbial degradation, carbonate chemistry, aqueous speciation, kinetics, thermodynamics, cation exchange, reactive transport, redox",
+      "Type of teaching":"Ex cathedra teaching, exercises",
+      "Learning outcomes":"[br/][li]Principles of aqueous phase chemistry and water phase, solid phase and gas phase and mass transfers[br/][li]Aqueous geochmistry modeling using PHREEQC[br/][li]Applications to water resources problems and remediation investigations[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Water quality modeling",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/","http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Microbiologie pour l'ingénieur[br/]Remédiation des sites",
+      "Bibliographie et matériel":"Notes de cours polycopiées",
+      "Mots clés":"Biogeochemical modelling, PHREEQC, microbial degradation, carbonate chemistry, aqueous speciation, kinetics, thermodynamics, cation exchange, reactive transport, redox",
+      "Forme d'enseignement":"Cours ex cathedra, exercices",
+      "Contenu":"[b]Principes généraux et modélisation de la qualité des  eaux de surface et souterraines [/b][br/]Les thématiques qui seront abordées concerneront les domaines des phases de réactions d'équilibre des eaux, des réactions cinétiques, des précipitations et dissolutions, des réactions (minérales) de surface, des échanges de cations, de la bioremédiation et de la dégradation des contaminants, des réactions redox, des réactions inverses de la modélisation des flux.[br/][b]Modélisation par la prédiction, le diagnostic et la conception [/b][br/]Le progiciel de modélisation géochimique PHREEQC (http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/) sera utilisé de manière extensive pour modéliser un éventail de scénarios et d'applications basés sur les processus de réactions décrits plus haut.",
+      "Forme du contrôle":"Exercices durant le semestre: 10 %, contrôle mi-semestre: 20 %, examen final écrit de 120 min pendant la session d'examen: 70%. ",
+      "Objectifs d'apprentissage":"[br/][li]Rappel des principes chimiques des phases aqueuses, eau, solides, réactions gazeuses et transferts de masse[br/][li]Utilisation de PHREEQC pour la modélisation de la géochimie aqueuse[br/][li]Applications à des problèmes liés aux ressources en eau, étude approfondie et propositions de remédiation "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Water quality modeling",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

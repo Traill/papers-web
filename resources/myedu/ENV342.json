@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47565939&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","342"],
+    "title":"Geografic information system (GIS)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47565939&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105275",
+      "name":"Golay François"
+    },{
+      "url":"http://people.epfl.ch/194694",
+      "name":"Heinis Thomas"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"In this course, students learn how to design, implement and use relational spatial databases (DB) and GIS. They acquire the following knowledge:[br/]-\tBasic knowledge of GIS and DB and their principal components and functionalities.[br/]-\tSkills to independently use a GIS and a DB to search and represent spatial data.[br/]-\tSolid competences in conceptual modeling and implementation of spatial databases.[br/][br/][br/]",
+      "Content":"[li]\tDigital representation of spatial information[br/][li]\tData gathering et updating techniques, topological data consolidation[br/][li]\tGIS software architecture[br/][li]\tData exchange and GIS interoperability[br/][li]\tConceptual modeling of spatial databases and GIS : [br/]   -\tConceptual modeling of spatial data structures, UML, [br/]   -\tProcess modeling,[br/]   -\tModel implementation in GIS and in relational databases,[br/]   -\tGeneral GIS analysis and design methodology.[br/][li]\tImplementation and use of databases and GIS via SQL[br/][br/][br/][br/][br/]Hands-on exercises are trained on the Manifold GIS software. [br/]Students can also use ArcGIS / ArcView GIS components[br/]",
+      "Type of teaching":"Ex-cathedra, with exercises in the classroom, practical on a computer",
+      "Prerequisite for":"GIS, Geomatics and Systems of environmental managements[br/]",
+      "Form of examination":"30 % spot check during the semester (with bonus system)[br/]70 % final written test (180 min) during the exam session"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geografic information system (GIS)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-955432-4&amp;con_lng=ENG\" target=\"blank\">Spatial data analysis : an introduction for GIS users / Christopher D. Lloyd</a>\". Year:2010. ISBN:978-0-19-955432-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105275",
+      "name":"Golay François"
+    },{
+      "url":"http://people.epfl.ch/194694",
+      "name":"Heinis Thomas"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Copie des transparents, support de cours",
+      "Forme d'enseignement":"Cours ex-cathedra, exercices pratiques à l'ordinateur, exercices en salle",
+      "Contenu":"[li]\tReprésentation numérique de l'information spatiale[br/][li]\tAcquisition et mise à jour de données spatiales, consolidation topologique des données[br/][li]\tArchitecture des SIG[br/][li]\tEchanges de données et interopérabilité[br/][li]\tConception d'une base de donnée spatiale et d'un SIG[br/]   -\tModélisation conceptuelle des données, le modèle conceptuel UML,[br/]   -\tModélisation de processus et traitements,[br/]   -\tImplémentation des modèles dans les SIG et dans les bases de données relationnelles,[br/]   -\tMéthodologie générale de conception et de mise en oeuvre de SIG.[br/][li]\tManipulation d'une base de données spatiale et d'un SIG, introduction à SQL[br/][br/]Les exercices à l'ordinateur sont proposés sur le logiciel Manifold.[br/]Les étudiants ont aussi à disposition le logiciel ArcGIS / ArcView[br/]",
+      "Forme du contrôle":"30 % contrôle ponctuel pendant le semestre, avec système bonus[br/]70 % épreuve écrite (180 min) pendant la session d'examen",
+      "Préparation pour":"Cours de master en SIG, en Géomatique et en Systèmes de managements environnementaux",
+      "Objectifs d'apprentissage":"Ce cours permet aux étudiants de se former aux tâches de conception, d'implémentation et d'utilisation des bases de données spatiale relationnelles (BD) et des SIG. Il leur permet notamment d'acquérir les compétences suivantes:[br/]-\tConnaissances de base des SIG et des BD et de leurs principales composantes et fonctions.[br/]-\tCapacité d'utiliser de manière autonome un SIG et une BD pour rechercher et représenter des informations spatiales.[br/]-\tCompétences solides pour la modélisation conceptuelle et l'implémentation de bases de données spatiales.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Système d'Information Géographique (SIG)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-955432-4&amp;con_lng=FRE\" target=\"blank\">Spatial data analysis : an introduction for GIS users / Christopher D. Lloyd</a>\". Année:2010. ISBN:978-0-19-955432-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1511075272&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","553"],
+    "title":"Haptic human robot interfaces",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1511075272&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104561",
+      "name":"Bleuler Hannes"
+    },{
+      "url":"http://people.epfl.ch/114980",
+      "name":"Bouri Mohamed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Haptic human robot interfaces",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104561",
+      "name":"Bleuler Hannes"
+    },{
+      "url":"http://people.epfl.ch/114980",
+      "name":"Bouri Mohamed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Approximate content :[br/][br/]- Human factors (physiology, anatomy, haptic sensation)   [br/]- Sensing in HRI (analogy between human and robot sensing)   [br/]- Data acquisition & real-time control Actuation in HRI   [br/]- Kinematics, transmissions, sensor collocation   [br/]- Basic modeling, electromechanical analogy , bond graphs  [br/]- Basic control   [br/]- Advanced modeling (friction identification and modeling)   [br/]- Advanced control (haptic rendering of rigid contact)   [br/]- Safety analysis and methods to minimize risks of injuries   [br/]- Performance metrics : step resp., bandwidth, friction, saturation, transparency, max acceleration, max velocity, user evaluation   [br/]- Student presentations ",
+      "Objectifs d'apprentissage":"Learning outcomes - domain skills :[br/][br/]Basic knowledge on haptic devices, force feedback, mechanical man-machine interfaces :[br/][br/]- Students can design and evaluate such systems  [br/]- Potential applications : Robot control (telemanipulators), interface with VR, robot assistive devices, rehabilitation devices[br/]- Know and identify critical physiological factors of the human somatosensory and motor system[br/]- Evaluate and define the characteristics and specifications of the mechatronic system using the bond-graph formalism [br/]- Derive and utilize dynamic models for design  [br/]- Select HW components and control strategy  [br/]- Characterize and optimize the system w.r.t. psychophysical and engineering criteria  [br/][br/]This lecture includes mandatory hands-on experiments and mini projects with a hardware device (the \"haptic paddle\")"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Haptic human robot interfaces",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

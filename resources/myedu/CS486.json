@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771158&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","486"],
+    "title":"Human computer interaction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771158&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://hci.epfl.ch/teaching/index.php","http://hci.epfl.ch/teaching/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106155",
+      "name":"Pu Faltings Pearl"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Connection with other course : Personal Design Studio, Social Media",
+      "Form of examination":"Exercises 20%, Mini-projects and presentation 40%, exam 40%",
+      "Bibliography and material":"To be recommended",
+      "Prerequisite for":"Personal design studio, Social media",
+      "Required prior knowledge":"Open to students enrolled in the Master and Ph.D. programs in IC.",
+      "Content":"[b]Basic concepts of human-computer interaction[/b][br/][tab]Objectives of course and HCI[br/][tab]Survey of existing technologies[br/][tab]Cognitive psychology [br/][tab]Social science [br/][br/][b]Evaluation techniques[/b][br/]            [tab]Critiquing[br/]            [tab]Inspection [br/]            [tab]Heuristic evaluations[br/]            [tab]Comparative user studies[br/]",
+      "Type of teaching":"Lectures, exercises, 2-3 mini projects, student presentations, videos of user interviews.",
+      "Learning outcomes":"This course is an introduction course to Human Computer Interaction. It presents psychological and other behavioral science knowledge useful in the design of interactive systems for human use. Particular emphasis is placed on human cognition, mental models, problem solving, learning, memory, perception and social communication. The course also presents basic interface evaluation techniques. [br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Human computer interaction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-046109-4&amp;con_lng=ENG\" target=\"blank\">Human-computer interaction / Alan J. Dix ... [et al.]</a>\". Year:2004. ISBN:978-0-13-046109-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-01866-8&amp;con_lng=ENG\" target=\"blank\">Interaction design : beyond human-computer interaction / Helen Sharp, Yvonne Rogers et Jennifer Preece</a>\". Year:2007. ISBN:978-0-470-01866-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://hci.epfl.ch/teaching/index.php","http://hci.epfl.ch/teaching/index.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106155",
+      "name":"Pu Faltings Pearl"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Liaison avec d'autres cours : Personal Design Studio, Social Media",
+      "Prérequis":"Open to students enrolled in the Master and Ph.D. programs in IC.",
+      "Bibliographie et matériel":"Human Computer Interaction, Jenny Preece, Yvonne Rogers, Helen Sharp, David Benyon, Simon Holland, and Tom Carey. Addison Wesley (1994)",
+      "Forme d'enseignement":"Lectures, exercises, 2-3 mini projects, student presentations, videos of user interviews.",
+      "Contenu":"[b]Concepts de base de l'interaction homme-machine[/b][br/][tab]Objectifs de cours et IHM[br/][tab]Aperçu succinct des technologies existantes[br/][tab]Psychologie cognitive[br/][tab]Sciences humaines[br/][br/][b]Méthodes d'évaluation en IHM[/b][br/][tab]Critiquing [br/][tab]Inspection[br/][tab]Evaluation heuristique[br/][tab]Evaluation comparatives[br/]",
+      "Forme du contrôle":"Exercises 20%, Mini-projects and presentation 40%, exam 40%",
+      "Préparation pour":"Personal design studio, Social media",
+      "Objectifs d'apprentissage":"Il s'agit d'un cours d'introduction au domaine de l'interaction homme-machine (IHM). Il introduit les connaissances scientifiques de la psychologie et des sciences sociales sous-jacentes à la conception de systèmes interactives destinés à l'utilisation humaine. Un accent particulier est mis sur la cognition humaine, les images mentales, la résolution de problèmes, l'apprentissage, la mémoire, la perception et la communication. Le cours présente également des techniques d'évaluation pour les interfaces. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Human computer interaction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-046109-4&amp;con_lng=FRE\" target=\"blank\">Human-computer interaction / Alan J. Dix ... [et al.]</a>\". Année:2004. ISBN:978-0-13-046109-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-01866-8&amp;con_lng=FRE\" target=\"blank\">Interaction design : beyond human-computer interaction / Helen Sharp, Yvonne Rogers et Jennifer Preece</a>\". Année:2007. ISBN:978-0-470-01866-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

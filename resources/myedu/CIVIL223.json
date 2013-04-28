@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=938058920&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","223"],
+    "title":"Mechanics of structures (For GC)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=938058920&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104868",
+      "name":"Davalle Eric Marcel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The aim of this course is to provide a unified presentation of the theoretical bases in structural and solid mechanics, used to address safely and pertinently the analysis of the bearing capacity of any construction.",
+      "Content":"[li]Solid Mechanics : Integral forms of equilibrium and cinematics, virtual work principles.[br/][li]Structural Mechanics (mainly for beams): Strength criteria; torsion and shear; combined stresses; virtual work principles; displacements; plasticity and theorems of limit analysis; buckling."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mechanics of structures (For GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-358-3&amp;con_lng=ENG\" target=\"blank\">Analyse des structures et milieux continus : mécanique des solides / François Frey</a>\". Year:2006. ISBN:2-88074-358-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-434-2&amp;con_lng=ENG\" target=\"blank\">Analyse des structures et milieux continus : mécanique des structures / François Frey</a>\". Year:2006. ISBN:2-88074-434-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104868",
+      "name":"Davalle Eric Marcel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"LIAISON AVEC D'AUTRES COURS : Analyse, algèbre linéaire, mécanique, géométrie, matériaux. - Préparation aux cours de construction: mécanique des sols; mécanique des roches; béton armé et précontraint; construction métallique; construction en bois, barrages, ... - Base des cours de mécanique des structures, méthode des éléments finis. ",
+      "Prérequis":"Statique (pour GC), Mécanique des milieux continus (pour GC)",
+      "Bibliographie et matériel":"Livres (PPUR) : TGC Vol. 2 et 3",
+      "Forme d'enseignement":"Ex cathedra; moyens audiovisuels; exercices en commun; Ex cathedra avec démonstrations",
+      "Contenu":"[li]Mécanique des solides :[br/]- forme intégrale de l'équilibre et de la cinématique, principes des travaux virtuels, théorèmes de Clapeyron et de réciprocité. [br/][li]Mécanique des structures :[br/]- critères de plasticité et rupture;[br/]- torsion et effort tranchant;[br/]- sollicitations composées;[br/]- principes des travaux virtuels appliqués aux structures formées de barres et poutres; calcul des déplacements;[br/]- plasticité; calcul des sections (traction, flexion); charge limite des poutres simples; théorèmes de l'analyse limite;[br/]- flambement et instabilité.",
+      "Préparation pour":"Modélisation numérique des solides et structures. Structures en béton, en métal.",
+      "Objectifs d'apprentissage":"Les objectifs du cours sont identiques à ceux des cours « Statique (pour GC) » et « Mécanique des milieux continus (pour GC) »."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mécanique des structures (pour GC)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-358-3&amp;con_lng=FRE\" target=\"blank\">Analyse des structures et milieux continus : mécanique des solides / François Frey</a>\". Année:2006. ISBN:2-88074-358-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-434-2&amp;con_lng=FRE\" target=\"blank\">Analyse des structures et milieux continus : mécanique des structures / François Frey</a>\". Année:2006. ISBN:2-88074-434-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

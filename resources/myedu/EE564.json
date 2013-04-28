@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776677&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","564"],
+    "title":"Railway technology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776677&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104372",
+      "name":"Allenbach Jean-Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Prerequisite for":"Master project in traction or similar fields",
+      "Required prior knowledge":"Electromechanics, Electrical machines, Electrical drives, Material mechanics, Tuning",
+      "Content":"1. History. Reasons of simultaneous presence of several systems.[br/]2. Adhesion. External efforts couteracting run of trains. Basis diagrams of traction motors.[br/]3. Definitions : electrical power, mechanical power at wheel, at motor axle or at coupling hook. Nominal power (continuous).[br/]4. Traction equations. Motor equations. Typical use of different motors[br/]5. Speed versus distance diagramm. Motor heating. Action of inertial wheels on train run.[br/]6. Direct current traction : rheostatic or chopper control. Auxiliary equipments.[br/]7. Single phase traction : tap changer transformator or rectifier control. Auxiliary equipments.[br/]8. Brushless motor traction drive.[br/]9. Diesel electric traction[br/]10. Gear types[br/]11. Speed control, tractive effort control.[br/]12. High speed traction[br/]13. Track and mutual influences with rail vehicles[br/]14. Catenary and power supply.",
+      "Type of teaching":"Ex cathedra combined with exercices. Study days on vehicles in operation, visite of an engine shed or a railway industry",
+      "Learning outcomes":"At the end of study, students will be able to :[br/][li]use their knowledge on electric machines, power electronic, mechanic and control in order to « build » an electric locomotive[br/][li]tide over the specific problems of electric railway[br/][li]define dimension of locomotive in order to fill necessity of customer (railway company)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Railway technology",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-674-2&amp;con_lng=ENG\" target=\"blank\">Traction électrique / Jean-Marc Allenbach... [et al.]</a>\". Year:2008. ISBN:978-2-88074-674-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104372",
+      "name":"Allenbach Jean-Marc"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Electromécanique, Machines électriques, Entraînements électriques, Mécanique des matériaux, réglage",
+      "Bibliographie et matériel":"Tirés à part. Livre \"Traction électrique\", PPUR, 1995/2007",
+      "Forme d'enseignement":"Cours ex cathedra combiné avec exercices. Journée d'étude sur des véhicules en service. Visite d'un dépôt ou d'une industrie ferroviaire",
+      "Contenu":"1. Historique et raisons de la coexistence de systèmes différents.[br/]2. Principe de l'adhérence, résistances au mouvement, caractéristiques fondamentales du moteur de traction.[br/]3. Définition de la puissance électrique, des puissances mécaniques à l'arbre, à la jante, au crochet; puissances nominales (et continue).[br/]4. Equations de traction. Equations du moteur de traction. Critères d'utilisation.[br/]5. Utilité du diagramme de marche, masses d'inertie rotative, échauffements.[br/]6. Traction à courant continu à rhéostat et à hacheur. Méthodes d'alimentation (graduation, couplages, shuntage). Auxiliaires.[br/]7. Traction à courant monophasé à moteurs \"directs\" (pour mémoire) et à moteurs à tension redressée.[br/]8. Traction avec moteurs sans collecteur.[br/]9. Traction thermoélectrique.[br/]10. Transmissions mécaniques[br/]11. Réglages simples, électromécaniques, électroniques.[br/]12. Traction à très grande vitesse.[br/]13. Voie ferrée et interactions avec véhicules.[br/]14. Ligne de contact et alimentation.",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Projet de master en traction ou dans les domaines voisins",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant sera capable de :[br/][li]coordonner les notions de machines électriques, d'électronique de puissance, de mécanique et de réglage, pour un véhicule électrique;[br/][li]appréhender les problèmes spécifiques posés par la traction;[br/][li]définir les caractéristiques du matériel à partir des contraintes posées par l'exploitation."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Techniques ferroviaires",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-674-2&amp;con_lng=FRE\" target=\"blank\">Traction électrique / Jean-Marc Allenbach... [et al.]</a>\". Année:2008. ISBN:978-2-88074-674-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

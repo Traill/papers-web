@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775627&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["COM","302"],
+    "title":"Principles of digital communications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775627&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113819",
+      "name":"Rimoldi Bixio"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"With continuous control",
+      "Prerequisite for":"Advanced digital communications[br/]Software-Defined Radio: A Hands-On Course",
+      "Required prior knowledge":"Signal processing for communications and modèles stochastiques pour les communications",
+      "Content":"Optimal receiver for vector channels[br/]Optimal receiver for waveform (AWGN) channels[br/]Various signaling schemes and their performance[br/]Efficient signaling via finite-state machines[br/]Efficient decoding via Viterbi algorithm [br/]Communicating over bandlimited AWGN channels[br/]Nyquist Criterion[br/]Communicating over passband AWGN channels",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Learning outcomes":"Learn the fundamentals of digital point-to-point communications as seen from a modern point of view.  The setup consists of a source, a transmitter, a channel, and a receiver.  We make several passes over the above setup, changing focus at each pass. The advantage of this approach is that we quickly get a rough picture of all components of a communication system, and then refine the initial picture as the semester proceeds. At the end of the course the student should be familiar with key design choices and should be able to evaluate the impact of those choices on the performance of the resulting system."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of digital communications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/113819",
+      "name":"Rimoldi Bixio"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Signal processing for communications et Modèles stochastiques pour les communications ",
+      "Bibliographie et matériel":" ",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"Récepteur optimal pour des canaux vectoriels[br/]Récepteur optimal pour des canaux en temps continu (AGB)[br/]Différentes méthodes de signalisation et leur performances[br/]Signalisation efficace à l'aide de machines à état fini[br/]Décodage efficace à l'aide de l'algorithme de Viterbi[br/]Communication à travers des canaux AGB de largeur de bande limitée[br/]Critère de Nyquist[br/]Communication en bande passante à travers des canaux AGB  ",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Préparation pour":"Advanced digital communications[br/]Software-Defined Radio: A Hands-On Course",
+      "Objectifs d'apprentissage":"Acquisition des notions de base dans les communications numériques d'un point de vue moderne.  Le modèle de base consiste en une source, un émetteur, un canal et un récepteur.  On va considérer ce modèle à plusieurs reprises en s'approchant de plus en plus de la réalité. L'avantage de cette approche est qu'on comprend rapidement les rôles fondamentaux de tous les composants d'un système de communication numérique. Les détails du système seront approfondis graduellement. A la fin du cours, l'étudiant comprendra les choix essentiels qui sont à sa disposition et pourra évaluer les conséquences de ces choix sur la performance du système résultant."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles of digital communications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

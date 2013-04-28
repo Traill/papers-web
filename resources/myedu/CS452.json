@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71840397&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","452"],
+    "title":"Foundations of software",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71840397&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lampwww.epfl.ch/teaching/index.html.en","http://lampwww.epfl.ch/teaching/index.html.en"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126003",
+      "name":"Odersky Martin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"With continuous control",
+      "Bibliography and material":"Types and Programming Languages, B. Pierce[br/]MIT Press 2002 ISBN 0-262-16209-1",
+      "Required prior knowledge":"Advanced topics in programming, Compiler construction",
+      "Content":"- simple types, lambda-calculus[br/]- normalization, references, exceptions[br/]- subtyping[br/]- recursive types[br/]- polymorphism[br/]- advances features of the Scala type system[br/]",
+      "Type of teaching":"Ex cathedra, practical exercises",
+      "Learning outcomes":"The study of type systems and of programming languages, from a type-theoric perspective, has important applications in software engineering, language design, high-performance compilers and security.[br/]In this course, the student will learn the basic principles of type systems as they appear in modern programming languages. The acquired knowledge will be sufficient to design small type systems, but it will also sharpen the student's awareness of typeful programming as such. The latter is an indispensable task when programming in strongly typed languages.[br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Foundations of software",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-16209-1&amp;con_lng=ENG\" target=\"blank\">Types and programming languages / Benjamin C. Pierce</a>\". Year:2002. ISBN:0-262-16209-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lampwww.epfl.ch/teaching/index.html.en","http://lampwww.epfl.ch/teaching/index.html.en"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126003",
+      "name":"Odersky Martin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Programmation avancée, Compiler construction",
+      "Bibliographie et matériel":"Types and Programming Languages, B. Pierce[br/]MIT Press 2002 ISBN 0-262-16209-1",
+      "Forme d'enseignement":"Ex cathedra, exercices pratiques",
+      "Contenu":"- types simples, lambda-calcul[br/]- normalisation, références, exceptions[br/]- sous-typage[br/]- types récursifs[br/]- polymorphisme[br/]- caractéristiques avancées du système de typage de Scala[br/]",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Objectifs d'apprentissage":"L'étude théorique des systèmes de types et des langages de programmation a d'importantes applications dans les domaines de l'ingénierie du logiciel, de la conception de langages, des compilateurs haute-performance et de la sécurité.[br/]Dans ce cours, les étudiants apprendront les principes de base des systèmes de types tels qu'ils apparaissent dans les langages de programmation modernes. La connaissance acquise sera suffisante pour concevoir de petits systèmes de types, mais surtout elle donnera une nouvelle vision, basée sur les types, de la programmation. Ce point de vue est indispensable dès qu'il s'agit de programmer dans un langage fortement typé.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Foundations of software",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-16209-1&amp;con_lng=FRE\" target=\"blank\">Types and programming languages / Benjamin C. Pierce</a>\". Année:2002. ISBN:0-262-16209-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

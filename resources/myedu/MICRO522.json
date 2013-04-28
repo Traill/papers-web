@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775172&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","522"],
+    "title":"Integrated optics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775172&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To introduce some basic concepts of integrated optics and to discuss some key components and fabrication technologies in view of understanding the characteristics of optical integrated circuits. ",
+      "Content":"1.  Electrodynamics fundamentals /  Light waves at a boundary[br/]2.  Planar waveguides [br/]3.  Two dimensional waveguides[br/]4.  Fiber Optic modes[br/]5.  Coupled waves[br/]6.  Coupling of radiation to and from waveguides[br/]7.  Fiber technology and basic devices[br/]8.  Fiber sensors[br/]9.  Photonic crystal waveguides[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Integrated optics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-525096-2&amp;con_lng=ENG\" target=\"blank\">Fundamentals of optical waveguides / Katsunari Okamoto</a>\". Year:2006. ISBN:978-0-12-525096-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=ENG\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Year:2007. ISBN:978-0-471-35832-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"ex cathedra, expériences et exercices pendant le cours",
+      "Contenu":"1.\tPrincipes fondamentaux d'électrodynamique / Ondes à travers une interface diélectrique[br/]2.  Les guides d'ondes planaires [br/]3.  Guides d'onde à 2 dimensions[br/]4.  Modes dans les fibres optiques[br/]5.  Ondes couplées [br/]6.  Couplage de la lumière dans les guides d'onde[br/]7.  Technologie et dispositifs de base en fibre optique[br/]8.  Capteurs à fibres[br/]9.  Guides d'onde en cristaux photonique[br/]",
+      "Bibliographie et matériel":"notes polycopiées et références à la littérature[br/]B.A. Saleh, M.C. Teich, \"Fundamental of Photonics\", John Wiley & Sons[br/]\"Fundamentals of optical waveguides\", Katsunari Okamoto, 2nd ed., Asterdam, Elsevier, 2006, 561 S. : Ill.. [005028637] ",
+      "Objectifs d'apprentissage":"Connaître les notions de base en optique intégrée, quelques composants et technologies de fabrication clé en vue de comprendre le comportement des circuits d'optique intégrée. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optique intégrée",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-525096-2&amp;con_lng=FRE\" target=\"blank\">Fundamentals of optical waveguides / Katsunari Okamoto</a>\". Année:2006. ISBN:978-0-12-525096-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=FRE\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Année:2007. ISBN:978-0-471-35832-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

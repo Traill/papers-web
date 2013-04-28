@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770798&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","513"],
+    "title":"Biometrics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770798&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SC-EPFL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://idiap.epfl.ch/","http://idiap.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104991",
+      "name":"Drygajlo Andrzej"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to analysis and interpretation of biometric data for biometric authentication, forensic biometrics and behavioral biometrics in man-machine communication.To give students an advanced understanding of and competence with, the theories, concepts, technologies and techniques for the design, development and effective use of biometric systems.",
+      "Content":"Fundamentals of Biometrics[br/]Identity and Biometrics, Individuality of Biometric Data, Recognition, Verification, Identification and Authentication[br/][br/]Analysis, Modeling and Interpretation of Biometric Data[br/]Mathematical Tools, Sensing and Storage, Representation and Feature Extraction, Enrollment and Template Creation, Biometric System Errors, Evaluation of Biometric Systems[br/][br/]Leading Biometric Technology[br/]Physiological Characteristics (fingerprints, face (2D and 3D), hand geometry, palmprint, iris, retina), Behavioral Characteristics (dynamic signature, voice, gait, keystroke dynamics), Biological Traces (DNA, odour), Technologies under development, Synthetic Biometric Data Generation[br/][br/]Multimodal Biometrics[br/][br/]Biometric Standards[br/][br/]Small, Medium and Large Scale Biometric SystemsIntegration of biometrics with other existing technologies (identity documents, smart cards, databases, e-technologies, transmission of biometric data)[br/][br/]Behavioral Biometrics in Human-Machine Communication[br/][br/]Securing Biometric Data and Systems [br/][br/]Biometric Encryption[br/][br/]Biometric Applications[br/]Security (Physical and Logical Access), Law Enforcement and Forensic Applications, Government and Military Sector, Financial Sector, Healthcare, Travel and Immigration[br/]Privacy and Legal Issues",
+      "Type of teaching":"En anglais, ex cathedra complété par des exercices et démonstrations",
+      "Bibliography and material":"[8]R. Bolle, et al. , \"Guide to Biometrics\", Springer, 2004, et notes polycopiées",
+      "Required prior knowledge":"Signal processing for communications"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biometrics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-40089-3&amp;con_lng=ENG\" target=\"blank\">Guide to biometrics / Ruud M. Bolle ... [et al.]</a>\". Year:2004. ISBN:0-387-40089-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://idiap.epfl.ch/","http://idiap.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104991",
+      "name":"Drygajlo Andrzej"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Signal processing for communications",
+      "Bibliographie et matériel":"R. Bolle, et al. , \"Guide to Biometrics\", Springer, 2004, et notes polycopiées",
+      "Forme d'enseignement":"Ex cathedra. Complété par des exercices et démonstrations",
+      "Contenu":"Notions fondamentales de biométrie[br/]Identité et biométrie, individualité de données biométriques, reconnaissance, vérification, identification, authentification.[br/][br/]Analyse, modélisation et interprétation de données biométriques[br/]Outils mathématiques, capteurs et stockage, extraction de paramètres, enrôlement, gabarits, taux d'erreurs, évaluation de systèmes biométriques.[br/][br/]Les technologies biométriques[br/]Caractéristiques physiologiques (empreintes digitales, visage, forme de la main, empreintes de paume, iris, rétine), Caractéristiques comportementales (signature dynamique, voix, démarche, frappe sur le clavier), Traces biologiques (ADN, odeur), Technologies expérimentales, Génération de données synthétiques.[br/][br/]Biométrie multi-modale[br/][br/]Standards biométriques[br/][br/]Systèmes biométriques à petite, moyenne et grande échelle[br/]Intégration de systèmes biométriques aux autres technologies (documents d'identité, cartes à puce, bases de données, e-technologies, transmission de données)[br/][br/]Biométrie comportementale en communication homme-machine[br/][br/]Sécurité de systèmes et données biométriques[br/][br/]Cryptographie à base biométrique[br/][br/]Applications des systèmes biométriques[br/]Protection de la vie privée et la législation",
+      "Préparation pour":"Projets de semestre, de diplôme, thèses de doctorat",
+      "Objectifs d'apprentissage":"Introduction à l'analyse et l'interprétation de données biométriques pour l'identification des personnes, l'investigation criminalistique et l'analyse comportementale en communication homme-machine. Comprendre et développer une compétence en théories, concepts, technologies et techniques de systèmes biométriques et leur utilisation efficace."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biometrics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-40089-3&amp;con_lng=FRE\" target=\"blank\">Guide to biometrics / Ruud M. Bolle ... [et al.]</a>\". Année:2004. ISBN:0-387-40089-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

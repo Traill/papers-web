@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350849178&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","377"],
+    "title":"Physiology by systems II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350849178&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li]Modern physiology aims at understanding the function of the different systems in the human body, from a molecular, cellular and an integrative perspective in tissues and organs. Such integrated approach leads to the fundamentals of what is called today system biology. A global understanding of organ functions presented by systems is indeed critical for developing new studies or diagnostic methods as well as pharmacological and gene-oriented therapies for the cure of human diseases.[br/][li]Students will learn basic principles that lead to appreciate the main physiological functions of our body including the regulatory functions of each system mentioned bellow, which are central in its homeostasis. Each system will be also approached with the essential notions of anatomy and histology and pharmacology together with the experimental methods used in the respective fields.[br/][li]Students will be asked to develop their capacity to learn through a problem solving approach and complete their training by personal readings in the reference textbook[br/]",
+      "Content":"[b]Part 1: General introduction [/b][br/][li]Principles and definition of homeostasis[br/][li]Control systems and the human body[br/][b]Part 2: The circulatory system[/b][br/][li]The heart[br/][li]The circulation (biophysics, arteries and veins, microcirculation, blood flow control, cardiac output, arterial pressure control, adaptation)[br/][b]Part 3: The kidneys and body fluids system[/b][br/][li]Body fluids compartments[br/][li]Urine formation by the kidneys[br/][li]Regulation of extracellular fluids osmolarity and Na+ concentration[br/][li]Ionic and acid-base regulation by kidneys[br/][b]Part 4: The respiratory system[/b][br/][li]Pulmonary ventilation and circulation[br/][li]Transport phenomena in the respiratory system[br/][li]Regulation [br/][b]Part 5: The gastrointestinal system[/b][br/][li]Motility, secretion, digestion, and absorption[br/][li]Blood circulation[br/][li]Nervous control[br/][b]Part 6: Integrated metabolism and system for temperature regulation[/b][br/][li]Energy storage and mobilization, signal transmission and transduction [br/][li]Normal feeding and starvation, metabolic adaptation, genes regulation [br/][li]Thermoregulation: endocrine and nervous system regulation   [br/][b]Part 7: The endocrine system[/b][br/][li]Coordination of body function by chemical messengers[br/][li]Pituitary, adrenocortical, reproductive and pancreatic hormones[br/][b]Part 8: haematology [/b][br/][li]Blood as a tissue and circulating factors[br/][li]Haemostasis[br/][br/][br/][b]PREREQUIS[/b][br/]Biologie I, II, Biologie Moléculaire et Cellulaire I, II, III, ou Cellular biology and biochemistry for engineers pour tout étudiant STI ou autres facultés[br/][br/][b]BIBLIOGRAPHY:[/b][br/]Guyton & Hall Text book of Medical Physiology  (11th edition)[br/]http://www.ebookee.com/Guyton-amp-Hall-Textbook-Of-Medical-Physiology -11th-Edition_60225.html [br/][br/][b]FORME D'ENSEIGNEMENT:[/b][br/]Cours ex cathedra avec exercices intégrés.[br/][br/][b]FORME DU CONTRÔLE:[/b][br/]Examen écrit QCM et réponses à développement court."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physiology by systems II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/135489",
+      "name":"Pralong William"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Très bonnes bases de biologie cellulaire et moléculaire. Les étudiants en échange devront faire preuve de telles acquisitions antérieures pour être acceptés au cours[br/]! pour étudiants STI ou FSB obligation d'avoir suivi au semestre d'automne le cours Cellular biology and biochemistry for engineers (BIO-105)  ",
+      "Forme d'enseignement":"Cours ex cathedra et travail par groupe de 6 étudiants",
+      "Contenu":"[b]Partie 1: Introduction générale [/b][br/][br/][b]Partie 2: Le système circulatoire[/b][br/][br/][b]Partie 3: Le système urinaire [/b][br/][br/][b]Partie 4: Le Système respiratoire[/b][br/] [br/][b]Partie 5 : Le système gastrointestinal[/b][br/][br/][b]Partie 6 : Métabolisme intégré et système de régulation thermique[/b][br/][br/][b]Partie 7 : Le système endocrinien[/b][br/][br/][b]Partie 8 : Hématologie[/b][br/]",
+      "Forme du contrôle":"QCM (50%) et questions à développer(50%); l'examen est réalisé avec livres et documentation du cours autorisés",
+      "Préparation pour":"Bioingénierie et médecine moléculaire",
+      "Objectifs d'apprentissage":"[li]La physiologie moderne vise à comprendre la fonction des différents systèmes du corps humain, dans une perspective allant des aspects moléculaires, cellulaires et intégratifs de ses tissus et organes. Cette approche de par son aspect fonctionnel intégré est la base de ce qui est appelé aujourd'hui la biologie des systèmes. Une compréhension globale des fonctions et régulations des organes présentés comme systèmes est en effet essentielle pour le développement des nouvelles méthodes d'étude et de diagnostic pour la mise au point de traitements pharmacologiques ou de thérapies géniques visant des maladies touchant l'être humain.[br/][li]En suivant ce cours, les étudiants pourront apprendre les principes de base qui permettent de comprendre les fonctions physiologiques principales de notre corps résumées dans la liste des contenus du cours. Ainsi, chaque système sera abordé avec les notions essentielles d'anatomie, d'histologie et de pharmacologie. Les méthodes expérimentales utilisées dans l'étude des différents systèmes seront aussi abordée; cet aspect est avant tout abordé dans les travaux pratiques de physiologie suivis en parallèle.[br/][li]Les étudiants pourront évaluer leur capacité d'appliquer les connaissances acquises par l'analyse approfondie d'articles scientifiques se référant à chacun des systèmes étudiés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physiologie par Systèmes II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

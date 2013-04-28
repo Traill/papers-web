@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352617902&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","419"],
+    "title":"Applied probability & stochastic processes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352617902&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"SC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/~leveque/Applied_Prob/","http://ipg.epfl.ch/%7Eleveque/Applied_Prob/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107931",
+      "name":"Lévêque Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"10% midterm exam[br/]10% mini project[br/]80% final exam[br/]",
+      "Bibliography and material":"Introduction to Probability Models, 10th edition, Sheldon M. Ross, Academic Press 2009[br/]Dynamic Programming and Optimal Control, 3rd edition, Dimitri P. Bertsekas, Athena Scientific, 2005",
+      "Prerequisite for":"Advanced MTE courses",
+      "Required prior knowledge":"elementary probability course",
+      "Content":"[b]1. Probability reminder[/b][br/]- distributions, expectation, variance[br/]- independence[br/]- conditionnal probability[br/][br/][b]2. Discrete-time Markov chains[/b][br/]- transition probabilities, Chapman-Kolmogorov equations[br/]- example: random walks[br/]- classification of states, stationary distribution[br/]- hitting times and absorption probabilities[br/][br/][b]3. Dynamic programming[/b][br/]- basic principles[br/]- examples: inventory control, optimal portfolio, ...[br/]- optimal stopping[br/]- imperfect state information[br/]- infinite horizon",
+      "Type of teaching":"ex cathedra classes",
+      "Learning outcomes":"- identify when a stochastic process is a Markov chain[br/]- being able to model a system as a Markov chain[br/]- analyze the properties of a Markov chain[br/]- understand the basic principles of dynamic programming and optimal control and put them into practice[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Applied probability & stochastic processes",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-375686-2&amp;con_lng=ENG\" target=\"blank\">Introduction to probability models / Sheldon M. Ross</a>\". Year:2010. ISBN:978-0-12-375686-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-857222-0&amp;con_lng=ENG\" target=\"blank\">Probability and random processes / Geoffrey R. Grimmett and David R. Stirzaker</a>\". Year:2003. ISBN:0-19-857222-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ipg.epfl.ch/~leveque/Applied_Prob/","http://ipg.epfl.ch/%7Eleveque/Applied_Prob/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107931",
+      "name":"Lévêque Olivier"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"cours de probabilités élémentaires",
+      "Bibliographie et matériel":"Introduction to Probability Models, 10th edition, Sheldon M. Ross, Academic Press 2009[br/]Dynamic Programming and Optimal Control, 3rd edition, Dimitri P. Bertsekas, Athena Scientific, 2005",
+      "Forme d'enseignement":"cours ex cathedra",
+      "Contenu":"[b]1. Rappel de probabilité[/b][br/]- distributions, espérance, variance[br/]- indépendance[br/]- probabilités conditionnelles[br/][br/][b]2. Chaînes de Markov à temps discret[/b][br/]- probabilités de transition, équations de Chapman-Kolmogorov[br/]- exemple: marches aléatoires[br/]- classification des états, distribution stationnaire[br/]- temps d'atteinte et probabilités d'absorption[br/][br/][b]3. Programmation dynamique[/b][br/]- principes de base[br/]- exemples: contrôle d'inventaire, portefeuille optimal, ...[br/]- arrêt optimal[br/]- information incompléte[br/]- horizon infini",
+      "Forme du contrôle":"10% midterm exam[br/]10% mini project[br/]80% final exam",
+      "Préparation pour":"cours avancés du programme MTE",
+      "Objectifs d'apprentissage":"- identifier quand un processus stochastique est markovien[br/]- modéliser un système à l'aide d'une chaîne de Markov[br/]- analyser les propriétés d'une chaîne de Markov[br/]- comprendre les principes de la programmation dynamique et du contrôle optimal et les mettre en pratique"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Applied probability & stochastic processes",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-375686-2&amp;con_lng=FRE\" target=\"blank\">Introduction to probability models / Sheldon M. Ross</a>\". Année:2010. ISBN:978-0-12-375686-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-857222-0&amp;con_lng=FRE\" target=\"blank\">Probability and random processes / Geoffrey R. Grimmett and David R. Stirzaker</a>\". Année:2003. ISBN:0-19-857222-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

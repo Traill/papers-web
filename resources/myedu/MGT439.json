@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47997051&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","439"],
+    "title":"Information technology and e-business strategy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47997051&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://csi.epfl.ch","http://csi.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162370",
+      "name":"Tucci Christopher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Course taught 3h per week during the last 7 weeks of the semester.",
+      "Form of examination":"1/3 class participation[br/]1/3 group cas report[br/]1/3 group cas analysis ",
+      "Bibliography and material":"Afuah A. & Tucci C., Internet Business Models and Strategies, 2nd Edition. New York: McGraw-Hill, 2002[br/]Chorafas D., Outsourcing, Insourcing, and IT for Enterprise Management. New York: Palgrave Macmillan, 2003",
+      "Content":"An introduction to electronic commerce and the elements of its infrastructure[br/]Explore current, and identify possible future, information technology trends, including outsourcing and operations[br/]Identify strategies for electronic commerce and how those strategies relate to and support traditional business functions (i.e. marketing, finance, accounting, management, etc...)[br/]",
+      "Keywords":"Information technology - e-commerce - outsourcing",
+      "Type of teaching":"Case Method",
+      "Learning outcomes":"In this course students should gain a broad-based knowledge of the ever-changing world of information technology and how it relates to corporate business operations and strategy."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information technology and e-business strategy",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-251166-4&amp;con_lng=ENG\" target=\"blank\">Internet business models and strategies : text and cases / Allan Afuah, Christopher L. Tucci</a>\". Year:2003. ISBN:0-07-251166-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-4039-0345-X&amp;con_lng=ENG\" target=\"blank\">Outsourcing, insourcing and IT for enterprise management / Dimitris N. Chorafas</a>\". Year:2003. ISBN:1-4039-0345-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://csi.epfl.ch","http://csi.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162370",
+      "name":"Tucci Christopher"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cours enseigné à raison de 3h par semaine durant les 7 dernières semaines du semestre.",
+      "Bibliographie et matériel":"Afuah A. & Tucci C., Internet Business Models and Strategies, 2nd Edition. New York: McGraw-Hill, 2002[br/]Chorafas D., Outsourcing, Insourcing, and IT for Enterprise Management. New York: Palgrave Macmillan, 2003",
+      "Mots clés":"Technologies de l'information - e-commerce - externalisation",
+      "Forme d'enseignement":"Etudes de cas",
+      "Contenu":"Introduction au commerce électronique et aux éléments de son infrastructure.[br/]Exploration des tendances actuelles et identification des futures tendances potentielles de la technologie de l'information, en incluant l'externalisation (outsourcing) et le fonctionnement.[br/]Identification des stratégies du commerce électronique et de la manière dont ces stratégies sont connectées et soutiennent les fonctions traditionnelles de l'entreprise (c'est-à-dire le marketing, la finance, la comptabilité, la gestion, etc...)",
+      "Forme du contrôle":"1/3 participation en classe[br/]1/3 rapport de cas en groupes[br/]1/3 analyse de cas en groupes",
+      "Objectifs d'apprentissage":"Dans ce cours, les étudiants devraient acquérir une connaissance générale du monde évolutif des technologies de l'information et de ses liens avec le fonctionnement et la stratégie d'entreprise."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information technology and e-business strategy",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-251166-4&amp;con_lng=FRE\" target=\"blank\">Internet business models and strategies : text and cases / Allan Afuah, Christopher L. Tucci</a>\". Année:2003. ISBN:0-07-251166-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-4039-0345-X&amp;con_lng=FRE\" target=\"blank\">Outsourcing, insourcing and IT for enterprise management / Dimitris N. Chorafas</a>\". Année:2003. ISBN:1-4039-0345-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

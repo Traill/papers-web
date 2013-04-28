@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=842513650&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["FIN","524"],
+    "title":"Securitization & the financial crisis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=842513650&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IF",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218475",
+      "name":"Gauthier Laurent"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"The project will focus on the analysis of typical subprime products, in cash and CDS form.[br/][br/]Course taught 4h per week during 7 weeks. Contact the FE section to get the detailed schedule.",
+      "Form of examination":"100% project",
+      "Bibliography and material":"On the products: The Handbook of Mortgage Backed Securities, ed. F. Fabozzi, as well as examples of investment bank mortgage research[br/]On the crisis: The Big Short, Michael Lewis[br/]",
+      "Required prior knowledge":"Good bond math background[br/]A reasonable knowledge of modern stats packages (SAS, R, S-plus) will allow students to benefit the most from the project.[br/]",
+      "Content":"[b](A)\tIntroduction to securitization[/b][br/]-\tSecuritization basics[br/]-\tSecuritized products markets[br/]-\tWhy was securitization such a success?[br/][br/][b](B)\tDetailed look at RMBS[/b][br/]-\tMortgage loan analysis[br/]-\tStructures[br/]-\tMarket mechanics[br/]-\tSecuritized bonds analysis[br/]-\tRate and credit convexity[br/][br/][b](C)\tThe sources of the crisis[/b][br/]-\tCDOs and correlation trading[br/]-\tCredit derivatives and the market crash[br/]-\tFundamental and root causes[br/][br/]As the course progresses the class will value example RMBS products in a more and more precise manner.[br/]",
+      "Keywords":"Securitization, financial crisis, residential mortgage backed securities, asset backed securities, collateralized debt obligation, credit default swaps, mortgage credit analysis, US housing market, subprime mortgages",
+      "Type of teaching":"Lectures and project",
+      "Learning outcomes":"The goal of this course is to allow students to value potentially complex securitized products by themselves."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Securitization & the financial crisis",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-393-33882-9&amp;con_lng=ENG\" target=\"blank\">The big short : inside the Doomsday Machine / Michael Lewis</a>\". Year:2011. ISBN:978-0-393-33882-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-146074-8&amp;con_lng=ENG\" target=\"blank\">The handbook of mortgage-backed securities / Frank J. Fabozzi, ed.</a>\". Year:2006. ISBN:0-07-146074-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218475",
+      "name":"Gauthier Laurent"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Le projet portera sur une analyse de produits typiques subprime, sous forme cash et CDS.[br/][br/]Cours enseigné à raison de 4h par semaine durant 7 semaines. Veuillez contacter la section IF pour avoir l'horaire détaillé.",
+      "Prérequis":"Bonne connaissance du calcul obligataire[br/]Une connaissance raisonnable des outils modernes de programmation statistique (SAS, R, S-plus) permettra de tirer le meilleur parti du projet[br/]",
+      "Bibliographie et matériel":"Sur les produits: The Handbook of Mortgage Backed Securities, ed. F. Fabozzi, et des exemplaires de recherche sur les produits hypothécaires des banques d'investissement[br/]Sur la crise: The Big Short, Michael Lewis[br/]",
+      "Mots clés":"Titrisation, crise financière, residential mortgage backed securities, asset backed securities, collateralized debt obligation, credit default swaps, analyse du crédit hypothécaire, marché immobilier US, prêts subprime",
+      "Forme d'enseignement":"Cours et projet",
+      "Contenu":"[b](A)\tIntroduction à la titrisation[/b][br/]-\tLes mécanismes de base[br/]-\tLe marché des produits titrisés[br/]-\tPourquoi un tel succès?[br/][br/][b](B)\tEtude détailée des RMBS[/b][br/]-\tAnalyse des prêts hypothécaires[br/]-\tLa structuration[br/]-\tLes mécanismes de marché[br/]-\tAnalyse des obligations titrisées[br/]-\tConvexité de taux et de crédit[br/][br/][b](C)\tAux sources de la crise[/b][br/]-\tCDOs et trading de correlation[br/]-\tDérives de crédit et crash du marché[br/]-\tLes causes fondamentales[br/][br/]Tout au long du cours, nous évaluerons des exemples de produits \"RMBS\" de manière de plus en plus précise.",
+      "Forme du contrôle":"100% projet",
+      "Objectifs d'apprentissage":"L'objectif du cours est de permettre aux étudiants d'évaluer par eux-mêmes des produits titrisés potentiellement très complexes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Securitization & the financial crisis",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-393-33882-9&amp;con_lng=FRE\" target=\"blank\">The big short : inside the Doomsday Machine / Michael Lewis</a>\". Année:2011. ISBN:978-0-393-33882-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-146074-8&amp;con_lng=FRE\" target=\"blank\">The handbook of mortgage-backed securities / Frank J. Fabozzi, ed.</a>\". Année:2006. ISBN:0-07-146074-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

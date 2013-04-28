@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231901032&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","453"],
+    "title":"Concurrent algorithms",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231901032&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lpd.epfl.ch/site/education","http://lpd.epfl.ch/site/education"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105326",
+      "name":"Guerraoui Rachid"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"With the advent of multi-processor architectures, it became crucial to unerstand the basics of concurrent computing. The goal of this course is to study the foundations of concurrency and in particular study techniques to devise algorithms that are parallel and robust.",
+      "Content":"[b]Model of a parallel system[/b][br/]Processes and objects[br/]Atomicity and wait-Freedom[br/][br/][b]Parallel programming[/b][br/]Automatic parallelism[br/]Mutual exclusion and locks[br/]Non-blocking data structures[br/]Transactional memory[br/][br/][b]Register Implementations[/b][br/]Safe, regular and atomic registers[br/]General and bounded transformations[br/]Counters and Snapshots[br/][br/][b]The consensus hierarchy[/b][br/]The FLP impossibility[br/]The consensus number[br/][br/][b]Transactional memory[/b][br/]Transactional memory[br/]Opacity and obstruction-freedom",
+      "Bibliography and material":"Un support ainsi que les transparents du cours seront disponible à l'URL indiqué ci-dessous"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Concurrent algorithms",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lpd.epfl.ch/site/education","http://lpd.epfl.ch/site/education"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105326",
+      "name":"Guerraoui Rachid"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[b]Modèle de système parallèle[/b][br/]Processus et objets[br/]Sûreté et vivacité[br/][br/][b]Programmation parallèle[/b][br/]Prallélisation automatique[br/]Exclusion mutuelle[br/]Structures de données non-bloquantes[br/]Mémoire transactionnelle[br/][br/][b]Implémentation de registres[/b][br/]Registres sûrs, réguliers et atomiques[br/]Transformations générales et limitées[br/]Etat global cohérent[br/][br/][b]La hiérarchie du consensus[/b][br/]L'impossibilité de FLP[br/]Le numéro de consensus[br/]La construction universelle[br/][br/][b]Les mémoires transactionnelles[/b][br/]Algorithmes transactionnels[br/]Opacité et vivacité",
+      "Bibliographie et matériel":"Un support ainsi que les transparents du cours seront disponible à l'URL indiqué ci-dessous",
+      "Objectifs d'apprentissage":"Devant l'avénement des architectures multi-processeurs, il devient crucial de maîtriser l'algorithmique de la concurrence. L'objectif de ce cours est d'étudier les fondements de cette algorithmique et en particulier les techniques permettant de concevoir des algorithmes parallèles et robustes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Concurrent algorithms",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

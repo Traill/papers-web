@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129398607&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","714"],
+    "title":"Mechanisms of cell motility",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129398607&ww_x_anneeAcad=2012-2013&ww_i_section=2875975&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDBB",
+    "program":"EDBB",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/129621",
+      "name":"Verkhovski Alexander"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course will be given in 14 weekly sessions, each either a 2h lecture or 1.5h lecture followed by 30 min presentation by one of the attendees and a guided group discussion. Presenters will discuss original papers related to this day's lecture topic.[br/]",
+      "Content":"1. Overview of different types of cell motility. Mechanisms of bacterial motility and chemotaxis. [br/]2. Eucaryotic cell motility: flagellated and ciliated cells, crawling cell motility.[br/]3. Motile machinery: types of the cytoskeletal structures, principles of assembly of cytoskeletal filaments (treadmilling, dynamic instability).[br/]4. Motile machinery: accessory proteins, regulation of assembly and supramolecular organization of the cytoskeleton.[br/]5. Methods to study cytoskeletal dynamics: live digital fluorescence microscopy, photoactivation, photobleaching, fluorescence speckle microscopy, and others.[br/]6. Mechanisms of actin assembly in protrusion at the leading edge of the cell. [br/]7. Biophysics of protrusion, forces and modeling.[br/]8. Cell-substrate attachment: molecular composition and dynamics of adhesion sites. [br/]9. Introduction to motor proteins, active cycle, steps and forces.[br/]10. Microtubule-dependent motors, role in intracellular transport and mitosis.[br/]11. Myosin superfamily of motor proteins, non-conventional myosins in intracellular transport and hearing.[br/]12. Myosin II, coordination of protrusion, attachment and contraction in the cell translocation.[br/]13. Signaling to motility and the origins of cell polarity (directional sensing in chemotaxis, PH-domain proteins, small GTPases, calcium).[br/]14. Interaction between actin and microtubules in cell polarization and motility (budding yeast model, animal cell mitosis and cytokinesis, cell migration).[br/][br/]",
+      "Keywords":"cell migration, cytoskeleton, actin, myosin, microtubules[br/]",
+      "Note":"This course requires a minimum of 4 participants and is limited to 10 participants.",
+      "Required prior knowledge":"basic biology[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mechanisms of cell motility",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/129621",
+      "name":"Verkhovski Alexander"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course requires a minimum of 4 participants and is limited to 10 participants.",
+      "Contenu":"1. Overview of different types of cell motility. Mechanisms of bacterial motility and chemotaxis. [br/]2. Eucaryotic cell motility: flagellated and ciliated cells, crawling cell motility.[br/]3. Motile machinery: types of the cytoskeletal structures, principles of assembly of cytoskeletal filaments (treadmilling, dynamic instability).[br/]4. Motile machinery: accessory proteins, regulation of assembly and supramolecular organization of the cytoskeleton.[br/]5. Methods to study cytoskeletal dynamics: live digital fluorescence microscopy, photoactivation, photobleaching, fluorescence speckle microscopy, and others.[br/]6. Mechanisms of actin assembly in protrusion at the leading edge of the cell. [br/]7. Biophysics of protrusion, forces and modeling.[br/]8. Cell-substrate attachment: molecular composition and dynamics of adhesion sites. [br/]9. Introduction to motor proteins, active cycle, steps and forces.[br/]10. Microtubule-dependent motors, role in intracellular transport and mitosis.[br/]11. Myosin superfamily of motor proteins, non-conventional myosins in intracellular transport and hearing.[br/]12. Myosin II, coordination of protrusion, attachment and contraction in the cell translocation.[br/]13. Signaling to motility and the origins of cell polarity (directional sensing in chemotaxis, PH-domain proteins, small GTPases, calcium).[br/]14. Interaction between actin and microtubules in cell polarization and motility (budding yeast model, animal cell mitosis and cytokinesis, cell migration). ",
+      "Mots clés":"cell migration, cytoskeleton, actin, myosin, microtubules",
+      "Prérequis":"basic biology",
+      "Objectifs d'apprentissage":"The course will be given in 14 weekly sessions, each either a 2h lecture or 1.5h lecture followed by 30 min presentation by one of the attendees and a guided group discussion. Presenters will discuss original papers  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mechanisms of cell motility",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775182&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","423"],
+    "title":"Optics Laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775182&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    },{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This laboratory work allows students to deepen their understanding of optical instruments, optoelectronic devices and diagnostic methods.",
+      "Content":"1.\tDiode pumped Nd :YAG laser - frequency doubling[br/][br/]2.\tOptical fibers - Light injection into multi and single mode fibers[br/][br/]3.\tDigital Holography[br/][br/]4.\tOptical Aberrations [br/][br/]5.\tOptical Coherence Tomography[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Optics Laboratory Work",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=ENG\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Year:2007. ISBN:978-0-471-35832-9</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    },{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    },{
+      "url":"http://people.epfl.ch/199130",
+      "name":"Moser Christophe"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Laboratoire",
+      "Contenu":"1.\tLaser Nd :YAG pompé par diodes - doublage en fréquence[br/]2.\tFibres optique - Couplage de la lumière dans des fibres multi- et monomodes[br/]3.\tHolographie digitale[br/]4.\tAberrations optiques[br/]5.\tTomographie optique à basse cohérence",
+      "Prérequis":"Photonique appliquée I et II (II suivi en même temps)",
+      "Bibliographie et matériel":"Fiches descriptives et polycopiés [br/]B.A. Saleh, M.C. Teich, «Fundamental of Photonics», John Wiley & Sons[br/]J. R. Taylor, An introduction to error analysis : the study of uncertainties in physical measurements, University Science Books.",
+      "Objectifs d'apprentissage":"Ces TP permettent aux étudiants d'approfondir leurs connaissances des instruments optiques, des composants opto-électroniques et des méthodes d'analyse de l'optique moderne."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Optique TP",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-35832-9&amp;con_lng=FRE\" target=\"blank\">Fundamentals of photonics / Bahaa E.A. Saleh, Malvin Carl Teich</a>\". Année:2007. ISBN:978-0-471-35832-9</li></ul>",
+    "lecture":null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1569420060&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","527"],
+    "title":"Management of Enterprise Networks and Supply Chain Management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1569420060&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105264",
+      "name":"Glardon Rémy"
+    },{
+      "url":"http://people.epfl.ch/105416",
+      "name":"Hongler Max-Olivier"
+    },{
+      "url":"http://people.epfl.ch/106738",
+      "name":"Wieser Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Evaluation continue de la partie expérimentale ; examen final en groupes de la partie théorique ; rapport et présentation en groupes des études de cas durant le semestre.",
+      "Bibliography and material":"Course booklet describing the mathematical models. Course managed using the Moodle website (http://moodle.epfl.ch). ",
+      "Required prior knowledge":"[li]Basic mathematic skills  (cours analyse IV ; probabilité et statistique)",
+      "Content":"Dilemma of local versus global optimization of a value adding network, information sharing, customer/supplier relationships, degrees of collaborative operations management (Beer Game on a multi computer simulation platform). Mathematical modeling of supply chain dynamics. Explicit analysis of order-based, inventory-based strategies with forecasting and commitment windows. Special attention devoted to the source of the \"bullwhip effect\" and to the various solutions enabling its elimination. Study of local and global optimization issues of the Supply Chain by the introduction of cost functions. Integration of all partners of the network, from raw material suppliers to product elimination or recycling, definition of the local versus global roles and stakes.",
+      "Keywords":"Supply Chain Management, Supply Chain Dynamics, bullwhip effect, Beer game",
+      "Type of teaching":"Course based on group works. 1/3 experimentation on a participatory simulation platform, 1/3 presentation of the mathematical models, 1/3 case study.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP6[br/][li]Choose production tools and methods based on performance and cost requirements and needs, taking into consideration applicability limits and associated hypotheses, CP11[br/][li]Model, analyse and optimize the internal logistics of a production and distribution system and the dynamic behaviour of a network of companies, CP12[br/][br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Make an oral presentation, T7[br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Respect the rules of the institution in which he/she is active, T17[br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20[br/][li]Share knowledge and experience with peers, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Management of Enterprise Networks and Supply Chain Management",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105264",
+      "name":"Glardon Rémy"
+    },{
+      "url":"http://people.epfl.ch/105416",
+      "name":"Hongler Max-Olivier"
+    },{
+      "url":"http://people.epfl.ch/106738",
+      "name":"Wieser Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Maîtrise des bases mathématiques (cours analyse IV ; probabilité et statistique)",
+      "Bibliographie et matériel":"Document décrivant la modélisation mathématique. Cours géré par le site Moodle (http://moodle.epfl.ch).",
+      "Mots clés":"Supply Chain Management, Supply Chain Dynamics, effet coup de fouet, jeu de la bière",
+      "Forme d'enseignement":"Cours basé sur le travail en groupe. 1/3 travail expérimental sur plateforme de simulation participative, 1/3 présentation de la modélisation mathématique, 1/3 études de cas réels.",
+      "Contenu":"Dilemme de l'optimisation locale contre globale d'une chaîne d'ajout de valeur; partage de l'information, relations client/fournisseur, degrés de gestion collaborative (jeu de la bière sur plateforme de simulation multi ordinateurs). Modélisation mathématique du comportement dynamique d'un réseau d'ajout de valeur. Analyse explicite des stra-[br/]tégies d'approvisionnement basées-ordres et  basées-inventaires avec, ou sans contraintes sur le futur. Etude spécifique du  phénomè-[br/]ne de \"bullwhip\" et des différents moyens de le faire disparaître. Analyse des aspects d'optimisations locale et  globale de la chaîne d'approvisionnement par l'introduction de fonctions de coûts. Intégration de l'ensemble des partenaires du réseau, du fournisseur de matières premières à la destruction et au recyclage du produit, définition des rôles et des enjeux locaux versus globaux.",
+      "Forme du contrôle":"Evaluation continue de la partie expérimentale ; examen final en groupes de la partie théorique ; rapport et présentation en groupes des études de cas durant le semestre.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (conception de produit, processus de fabrication et de systèmes de production), CP1[br/][li]Poser/extraire les hypothèses de modélisation adaptées et choisir les méthodes et outils en fonction des ressources pour le traitement du problème, CP6[br/][li]Choisir les méthodes et des outils de production en fonction des attentes et des exigences de performances et de coût en tenant comptes des limites d'application et les hypothèses associées, CP11[br/][li]Modéliser, analyser et optimiser la logistique interne d'un système de production et de distribution et les comportements dynamiques d'un réseau d'entreprises, CP12[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Réaliser une présentation orale, T7[br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Agir en respectant les principes de l'organisation dans laquelle on intervient, T17[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Management of Enterprise Networks and Supply Chain Management",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

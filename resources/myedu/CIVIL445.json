@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776062&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CIVIL","445"],
+    "title":"Hydraulic and energy networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776062&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101010",
+      "name":"De Cesare Giovanni"
+    },{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Basic knowledge acquisition useful for concept, designing and management of pipe adduction networks, natural drainage systems and energy supply nets.[br/][br/]",
+      "Content":"[b]Hydraulic networks [/b][br/][li]\tTheoretical basis of unsteady flows.[br/][li]\tConcept and design of pipe and open channel flows net¬works.[br/][li]\tParticular problem of water hammer and surge tanks.[br/][li]\tFloods and flooding management.[br/][li]\tCase study in urbanised and rural area.[br/][br/][b]Energy networks[/b][br/][li]\tEnergy supply using network systems. [br/][li]\tGoverning laws and network simulation.[br/][li]\tDesign, operation, financial aspects.[br/][li]\tPower networks[br/][li]\tCase studies: district heating networks and natural gas dis¬tribution networks.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hydraulic and energy networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101010",
+      "name":"De Cesare Giovanni"
+    },{
+      "url":"http://people.epfl.ch/126039",
+      "name":"Vacat ."
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Étude et analyse des systèmes énergétiques, [br/]Aménagements hydrauliques I",
+      "Bibliographie et matériel":"Notes de cours, documentation technique, normes VSS",
+      "Forme d'enseignement":"Ex cathedra et études de cas",
+      "Contenu":"[b]Réseaux hydrauliques [/b][br/][li]\tBases théoriques de l'hydraulique non stationnaire des réseaux.[br/][li]\tConception et dimensionnement des réseaux en charge et en nappe libre.[br/][li]\tProblème particulier du coup de bélier et des chambres d'équilibre.[br/][li]\tGestion des crues et des inondations.[br/][li]\tÉtude de cas en site urbain et en milieu rural [br/][br/][b]Réseaux énergétiques [/b][br/][li]\tApprovisionnement énergétique par des réseaux de distribution. [br/][li]\tConception et simulation d'un réseau. [br/][li]\tConstruction, exploitation et aspects économiques.[br/][li]\tRéseaux électriques[br/][li]\tÉtudes de cas: réseau de chauffage à distance en site urbain, réseau de distribution de gaz naturel.",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Acquisition des bases nécessaires à la conception, au dimensionnement, à l'exploitation et à la maintenance des réseaux d'adduction en charge, d'évacuation en nappe libre et d'approvisionnement énergétique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Réseaux hydrauliques et énergétiques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

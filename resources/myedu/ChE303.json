@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2268454&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","303"],
+    "title":"Reactor theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2268454&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To present fundamentals in Chemical Reaction Engineering allowing the proper choice, design and exploitation of a chemical reactor at lab, pilot or industrial scale. [br/]",
+      "Content":"[b]1. Introduction[/b][br/][li] The reactor as part of the process[br/][li] Parameter estimation and production costs[br/][li] Definitions, balances, stoechiometry[br/][li] thermodynamics and chemical kinetics[br/][br/][b]2. Ideal (quasi) homogeneous reactors[/b][br/][li] Material and energy balances[br/][li] Closed reaction systems (batch reactors)[br/][li] Continuous flow stirred tank reactor (CSTR)[br/][li] Plug flow reactor[br/][br/][b]3. Choice of the reactor and  optimisation of the reactor performance[/b][br/][li] Simple reaction, optimisation of the conversion[br/][li] Complex reactions: optimisation of yield and selectivity[br/][li] Combination of ideal reactors[br/][br/][br/][br/][b]4. Real quasi homogeneous reactors[/b][br/][li] residence time distribution (RTD)[br/][li] experimental determination of RTD[br/][li] RTD in ideal reactors[br/]",
+      "Bibliography and material":"The book of lectures"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Reactor theory",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105553",
+      "name":"Kiwi Lioubov"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module Génie chimique",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Introduction au génie chimique\", \"Cinétique\", \"Thermodynamique chimique\", \"Transfert de masse et de chaleur\"",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[b]1. Introduction[/b][br/][li] Le réacteur comme part d'un procédé[br/][li] Les paramètres déterminant les coûts de fabrication[br/][li] Définitions, stoechiométrie, bilans[br/][li] Rappels de thermodynamique et de cinétique chimique[br/][br/][b]2. Réacteurs (quasi) homogènes idéaux[/b][br/][li] Bilan de matière et bilans énergétiques[br/][li] Réacteur fermé[br/][li] Réacteur parfaitement mélangé continu[br/][li] Réacteur en écoulement piston[br/][br/][b]3. Choix et optimisation d'un réacteur et de la technique [br/]de réaction[/b][br/][li] Réactions simples, optimisation de la conversion[br/][li] Réactions complexes: optimisation du rendement et de la sélectivité[br/][li] Combinaison de réacteurs idéaux[br/][br/][b]4. Réacteurs (quasi) homogènes réels[/b][br/][li] Distribution des temps de séjour (DTS)[br/][li] Détermination expérimentale de la DTS[br/][li] DTS dans les réacteurs idéaux",
+      "Objectifs d'apprentissage":"Donner aux étudiants les bases dans le Génie de réactions chimiques pour le choix, le dimensionnement et l'exploitation des réacteurs à l'échelle de l'industrie, des laboratoires et des unités pilotes."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie des réacteurs",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

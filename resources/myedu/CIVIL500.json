@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4147873&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","500"],
+    "title":"Interaction soil-structure",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4147873&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114728",
+      "name":"Labiouse Vincent"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Master some design methods in the framework of soil-structure interaction analyses.[br/]Enlarge and improve the knowledge in the field of geotechnical engineering.[br/]Master the construction and design methods of special geotech-nical works.[br/]",
+      "Content":"[br/][li]    [i]Soil-structure interaction analyses :[/i][br/]\tBeam-spring approaches and finite element analyses applied to rafts, piles and retaining structures[br/][br/][li]    [i]Soil movements due to deep excavations :[/i][br/]\tObservations, factors that influence and measure to reduce soil movement, empirical and numerical methods of prediction, survey during construction[br/][br/][li]    [i]Observational method :[/i][br/]\tTheory and applications[br/][br/][li]    [i]Cut and cover tunnels :[/i][br/]\tType, execution and design[br/][br/][li]    [i]Deep foundations (continuation):[/i][br/]        Pile groups, lateral load deflection behaviour[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Interaction soil-structure",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114728",
+      "name":"Labiouse Vincent"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Géologie ; Mécanique des sols et écoulements souterrains ; Ouvrages géotechniques",
+      "Bibliographie et matériel":"Fiches polycopiées, mode d'emploi de programmes",
+      "Forme d'enseignement":"Ex cathedra, exercices ",
+      "Contenu":"[br/][li]    [i]Dimensionnement des ouvrages en déformation :[/i][br/]\tMéthodes des modules de réaction et des éléments finis appliquées aux radiers, pieux et parois[br/][br/][li]    [i]Mouvements associés aux fouilles :[/i][br/]\tObservations, facteurs influents, mesures d'atténuation, méthodes d'estimation empiriques et numériques, surveillance en cours d'exécution[br/][br/][li]    [i]Méthode observationnelle:[/i][br/]\tPrincipes et applications[br/][br/][li]    [i]Tranchées couvertes :[/i][br/]\tTypes, exécution et dimensionnement[br/][br/][li]    [i]Fondations sur pieux (compléments):[/i][br/]        Groupes de pieux, sollicitations horizontales[br/][br/]",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Projet de construction - ouvrages de géotechnique",
+      "Objectifs d'apprentissage":"Maîtriser des méthodes de dimensionnement en déformation pour divers problèmes d'interaction sol-structure.[br/]Elargir et approfondir les connaissances relatives aux travaux de fondations.[br/]Assimiler les techniques d'exécution et de dimensionnement d'ouvrages géotechniques particuliers.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Interaction sol-structure",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230665709&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","309(a)"],
+    "title":"Experimental analytical chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230665709&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    },{
+      "url":"http://people.epfl.ch/150841",
+      "name":"Roussel Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To familiarize the students to the basics of instrumental analytical chemistry ([i]identification, quantitative and qualitative[/i]). ",
+      "Content":"[b] Separation methods [/b][br/][li] Gas Phase Chromatography (GC)[br/][li] High Pressure Liquid Chromatography (HPLC)[br/][br/][b] Spectrometric methods [/b][br/][li] Atomic absorption[br/][li] Fluorometry / Infra-Red spectroscopy[br/][br/][b] X-ray analyses [/b][br/][li] X-ray fluorescence (XRF)[br/][li] X-ray diffraction (XRD)"
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Experimental analytical chemistry",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-048425-7&amp;con_lng=ENG\" target=\"blank\">Analyse chimique : méthodes et techniques instrumentales modernes : cours et exercices corrigés : [1er cycle/licence, Pharmacie] / Francis Rouessac, Annick Rouessac</a>\". Year:2004. ISBN:2-10-048425-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-2114-3&amp;con_lng=ENG\" target=\"blank\">Chimie analytique / Skoog, West, Holler; trad. et rév. scientifique de la 7e éd. américaine par Claudine Buess-Herman ... [et al.]</a>\". Year:1997. ISBN:2-8041-2114-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-495-01201-6&amp;con_lng=ENG\" target=\"blank\">Principles of instrumental analysis / Douglas A. Skoog, F. James Holler, Stanley R. Crouch</a>\". Year:2007. ISBN:978-0-495-01201-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-273-73042-2&amp;con_lng=ENG\" target=\"blank\">Statistics and chemometrics for analytical chemistry</a>\". Year:2010. ISBN:978-0-273-73042-2</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    },{
+      "url":"http://people.epfl.ch/150841",
+      "name":"Roussel Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Acquérir les crédits de 2 cours parmi: \"Analyse structurale\", \"Chimie des éléments s et p\", \"Electrochimie des solutions\". ",
+      "Bibliographie et matériel":"\"Chimie analytique\", D.A. Skoog, D.M. West, F.J. Holler, DeBoeck Editions 1997[br/]\"Analyse chimique : Méthodes et techniques instrumentales modernes\", 6ème édition. F. Rouessac, A. Rouessac, Dunod Editions 2004[br/]\"Principe d'analyse instrumentale\" D. A. Skoog, F. J. Holler, T. A. Nieman, DeBoeck Editions 2003[br/]\"Statistics and chemometrics for analytical chemistry, J.N. Miller, J.C. Miller, 5ème édition, Pearson Education 2005",
+      "Forme d'enseignement":"Laboratoire de chimie",
+      "Contenu":"[b] Méthodes de séparation[/b][br/][li] Chromatographie en phase gazeuse (GC)[br/][li] Chromatographie en phase liquide à haute pression (HPLC)[br/][br/][b] Méthodes spectrométriques[/b][br/][li] Absorption atomique[br/][li] Spectrofluorimétrie / Spectroscopie infrarouge[br/][br/][b] Analyse aux rayons X [/b][br/][li] Fluorescence aux rayons X (XRF)[br/][li] Diffraction des rayons X (XRD)",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant aux principes et à la rigueur des méthodes d'analyse chimiques ([i]identification, qualitative et quantitative[/i]). "
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Chimie analytique expérimentale",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-10-048425-7&amp;con_lng=FRE\" target=\"blank\">Analyse chimique : méthodes et techniques instrumentales modernes : cours et exercices corrigés : [1er cycle/licence, Pharmacie] / Francis Rouessac, Annick Rouessac</a>\". Année:2004. ISBN:2-10-048425-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-2114-3&amp;con_lng=FRE\" target=\"blank\">Chimie analytique / Skoog, West, Holler; trad. et rév. scientifique de la 7e éd. américaine par Claudine Buess-Herman ... [et al.]</a>\". Année:1997. ISBN:2-8041-2114-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-495-01201-6&amp;con_lng=FRE\" target=\"blank\">Principles of instrumental analysis / Douglas A. Skoog, F. James Holler, Stanley R. Crouch</a>\". Année:2007. ISBN:978-0-495-01201-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-273-73042-2&amp;con_lng=FRE\" target=\"blank\">Statistics and chemometrics for analytical chemistry</a>\". Année:2010. ISBN:978-0-273-73042-2</li></ul>",
+    "lecture":null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399799657&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","726"],
+    "title":"Working group in Topology I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=399799657&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://dmawww.epfl.ch/~hess/topsem/GAT.htm","http://dmawww.epfl.ch/%7Ehess/topsem/GAT.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The purpose of this working group is to allow the participants to familiarize themselves with recent important advances in algebraic topology.  Participants take turns reading and presenting papers related to the current theme of the working group.  ",
+      "Content":"The theme of the working group varies from year to year.  Examples of recent topics studied include: Galois theory of ring spectra, duality in algebra and topology, and topological algebraic geometry.",
+      "Keywords":"Topology, homotopy theory",
+      "Note":"Talks in the working group can be given in French or English.",
+      "Required prior knowledge":"Elementary homotopy theory, undergraduate algebra"
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Working group in Topology I",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://dmawww.epfl.ch/~hess/topsem/GAT.htm","http://dmawww.epfl.ch/%7Ehess/topsem/GAT.htm"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Talks in the working group can be given in French or English.",
+      "Contenu":"The theme of the working group varies from year to year.  Examples of recent topics studied include: Galois theory of ring spectra, duality in algebra and topology, and topological algebraic geometry.",
+      "Mots clés":"Topology, homotopy theory",
+      "Prérequis":"Elementary homotopy theory, undergraduate algebra",
+      "Objectifs d'apprentissage":"The purpose of this working group is to allow the participants to familiarize themselves with recent important advances in algebraic topology.  Participants take turns reading and presenting papers related to the current theme of the working group.  "
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Working group in Topology I",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":4
+    }
+  }
+}

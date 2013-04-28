@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348716744&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","205"],
+    "title":"Circuits and systems II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348716744&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://arni.epfl.ch/courses","http://arni.epfl.ch/courses"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208475",
+      "name":"Seeger Matthias"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Homeworks and written mid-term exam and final exams",
+      "Bibliography and material":"Books : Signals and Systems by A. Oppenheim and A. Willsky. Electric Circuits by J. Nilsson and S. Riedel",
+      "Prerequisite for":"Filtres électriques, Dynamical system theory for engineers",
+      "Required prior knowledge":"Analysis I, II, and III; Linear algebra I and II",
+      "Content":"[b]Transforms[/b]:[br/]-\tFourier series[br/]-\tContinuous time Fourier transform[br/]-\tLaplace transform[br/]-\tDiscrete time Fourier transform[br/]-\tZ-transform[br/][br/][b]Applications[/b]:[br/]- solution of continuous passive and active circuits in the s-domain[br/]- solution of discrete systems using z transforms[br/]- use of passive and active elements for the design of filters[br/]",
+      "Type of teaching":"Ex cathedra.  Exercises on paper and on computer",
+      "Learning outcomes":"The student will get an introduction to basic transforms and their properties, and will be able to use these to analyze circuits and systems in the frequency domain."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Circuits and systems II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-705051-2&amp;con_lng=ENG\" target=\"blank\">Electric circuits / James W. Nilsson, Susan A. Riedel</a>\". Year:2010. ISBN:978-0-13-705051-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-651175-9&amp;con_lng=ENG\" target=\"blank\">Signals and systems / Alan V. Oppenheim, Alan S. Willsky, with S. Hamid Nawab</a>\". Year:1997. ISBN:0-13-651175-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://arni.epfl.ch/courses","http://arni.epfl.ch/courses"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208475",
+      "name":"Seeger Matthias"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I , II et III; Algèbre linéaire I et II",
+      "Bibliographie et matériel":"Books : Signals and Systems by A. Oppenheim and A. Willsky. Electric Circuits by J. Nilsson and S. Riedel",
+      "Forme d'enseignement":"Ex cathedra.  Exercices sur papier et à l'ordinateur",
+      "Contenu":"[b]Transformations:[/b][br/]- Fonctions périodiques [br/]- Transformée de Fourier continue[br/]- Transformée de Laplace[br/]- Transformée de Fourier à temps discret[br/]- Transformée en Z[br/][br/][b]Applications[/b] :[br/]- Solution de circuits passifs et actifs dans le domaine de Laplace[br/]- Solution de systèmes discrets en utilisant la transformée en Z[br/]- Utilisation d'éléments actifs et passifs pour la conception de filtres[br/]",
+      "Forme du contrôle":"Devoirs, examen écrit intermédiaire et examen écrit final",
+      "Préparation pour":"Filtres électriques, Dynamical system theory for engineers",
+      "Objectifs d'apprentissage":"L'étudiant va apprendre les transformées de base et leurs propriétés. Il va aussi apprendre comment les utiliser pour analyser les circuits et les systèmes dans le domaine fréquentiel."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Circuits and systems II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-705051-2&amp;con_lng=FRE\" target=\"blank\">Electric circuits / James W. Nilsson, Susan A. Riedel</a>\". Année:2010. ISBN:978-0-13-705051-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-651175-9&amp;con_lng=FRE\" target=\"blank\">Signals and systems / Alan V. Oppenheim, Alan S. Willsky, with S. Hamid Nawab</a>\". Année:1997. ISBN:0-13-651175-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775377&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","310"],
+    "title":"Solid state physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775377&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104651",
+      "name":"Brune Harald"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student is familiarized with the phenomena observed in condensed matter and with the theoretical models used for their interpretation.[br/]",
+      "Content":"[b]Electrons in a periodic potential:[/b] Bloch theorem, almost free electrons, tight binding approximation, band structure and Fermi surface of slected elements.[br/][br/][b]Electron dynamics in a periodic potential:[/b] semi-classical equations of motion, holes, electrons and effective mass, electrical electron, conductivity electron, motion in a magnetic field.[br/][br/][b]Semconductors:[/b] band structure, impurity levels, level filling in doped and undoped semiconductors, p-n junction, transistor, quantum wells.[br/][br/][b]Superconductivity:[/b] Cooper pairs, phase diagrams, London theory, BCS-theory.[br/][br/][b]Magnetism :[/b] Hamiltonian of isolated magnetic ions, magnetism of an ensemble of non-interacting ions and conduction electrons, Heisenberg exchange energy, mean-field theory, itinerant magnetism, collective excitations (magnons), magnetic domains, superparamagnetism[br/][br/][br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Form of examination":"Oral exam in French, English or German (100%)",
+      "Required prior knowledge":"Solid State Physics I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Solid state physics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-711-0&amp;con_lng=ENG\" target=\"blank\">Introduction to condensed matter physics / Feng Duan and Jin Guojun</a>\". Year:2005. ISBN:981-238-711-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-049710-2&amp;con_lng=ENG\" target=\"blank\">Physique de l'Ã©tat solide : cours et problÃ¨mes / Charles Kittel</a>\". Year:2007. ISBN:978-2-10-049710-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-577-5&amp;con_lng=ENG\" target=\"blank\">Physique des solides / N. W. Ashcroft, N. D. Mermin ; trad. par Franck Biet, Hamid Kachkachi</a>\". Year:2002. ISBN:2-86883-577-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-083993-9&amp;con_lng=ENG\" target=\"blank\">Solid state physics / Neil W. Ashcroft, N. David Mermin</a>\". Year:2008. ISBN:0-03-083993-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-93803-3&amp;con_lng=ENG\" target=\"blank\">Solid-state physics : an introduction to principles of materials science / Harald Ibach, Hans LÃ¼th</a>\". Year:2009. ISBN:978-3-540-93803-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104651",
+      "name":"Brune Harald"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique du solide I",
+      "Bibliographie et matériel":"Notes polycopiées distribuées et sur web[br/][li] N.W. Ashcroft and N.D. Mermin, Solid State Physics, Holt Saunders Int. Ed. 1976, Physique des Solides, EDP-Sciences 2002[br/][li] Ch. Kittel, Physique de l'état solide, Dunod 2005[br/][li] H. Ibach-H. Lüth : Solid State Physics, Springer, Ed. 1991[br/][li] F. Duan and J. Guojun, Introduction to Condensed Matter Physics, World Scientific Publishing 2005",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]Les électrons dans un potentiel périodique :[/b] théorème de Bloch, l'électron faiblement couplé au réseau, l'approximation des liaisons fortes, surfaces de Fermi et structure de bande de quelques éléments.[br/][br/][b]La dynamique des électrons dans un potentiel périodique :[/b] équations de la dynamique semiclassique, la conduction électrique, le concept de trou et la masse effective, mouvement dans un champ mangnétique.[br/][br/][b]Les semiconducteurs :[/b] propriétés générales et structures de bandes, niveaux électroniques d'impuretés, occupation des niveaux dans un semiconducteur dopé et intrinsèque, concept du trou et de la masse effective, la jonction p-n, le transistor, quelques composants électroniques à puits quantique.[br/][br/][b]La supraconductivité :[/b] phénomènologie magnétique, thermique, électrique, théorie de London, éléments de la théorie BCS.[br/][br/][b]Magnétisme :[/b] Hamiltonien magnétique d'un ion isolé, magnétisme d'un ensemble d'ions localisés et d'électrons de conduction sans interaction mutuelle, l'interaction d'échange de Heisenberg, théorie de champ moyen, magnétisme itinérant, excitation collective (onde de spin, magnon), domaines magnétiques, superparamagnétisme.",
+      "Forme du contrôle":"Examen oral en français, anglais ou allemand",
+      "Objectifs d'apprentissage":"L'étudiant sera amené à se familiariser avec les phénomènes physiques observés dans les solides et avec les modèles théoriques utiles à leur interprétation."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique du solide II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-711-0&amp;con_lng=FRE\" target=\"blank\">Introduction to condensed matter physics / Feng Duan and Jin Guojun</a>\". Année:2005. ISBN:981-238-711-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-049710-2&amp;con_lng=FRE\" target=\"blank\">Physique de l'Ã©tat solide : cours et problÃ¨mes / Charles Kittel</a>\". Année:2007. ISBN:978-2-10-049710-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-577-5&amp;con_lng=FRE\" target=\"blank\">Physique des solides / N. W. Ashcroft, N. D. Mermin ; trad. par Franck Biet, Hamid Kachkachi</a>\". Année:2002. ISBN:2-86883-577-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-083993-9&amp;con_lng=FRE\" target=\"blank\">Solid state physics / Neil W. Ashcroft, N. David Mermin</a>\". Année:2008. ISBN:0-03-083993-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-93803-3&amp;con_lng=FRE\" target=\"blank\">Solid-state physics : an introduction to principles of materials science / Harald Ibach, Hans LÃ¼th</a>\". Année:2009. ISBN:978-3-540-93803-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

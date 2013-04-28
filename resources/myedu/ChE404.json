@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776682&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","404"],
+    "title":"Chemical & biological technology of environment",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776682&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/106159",
+      "name":"Pulgarin César"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Theoretical and practical basis in the field of industrial waste-water treatment containing different pollutants.",
+      "Content":"[br/][li] Chemical and biochemical analysis[br/][li] Evaluation of toxicity and biodegradability[br/][li] Principles of biological treatment[br/][li] Biological wastewater treatment processes (activated sludge, bio-film)[br/][li] Chemical, electrochemical and photochemical wastewater treatment[br/][li] Treatment by concentration (activated carbon, membranes)[br/][li] Water disinfection[br/][li] Project or seminar on different physico-chemical treatments:[br/][tab]- adsorption[br/][tab]- ion exchange[br/][tab]- membranes[br/][tab]- oxidation by O[sub]3[/sub], H[sub]2[/sub]O[sub]2[/sub], OVH, combustion, Photo-Fenton, electrochemistry[br/][li] Ultrasound[br/][li] Plasma[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chemical & biological technology of environment",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/106159",
+      "name":"Pulgarin César"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Chimie générale",
+      "Bibliographie et matériel":"Cours polycopié",
+      "Forme d'enseignement":"Ex cathedra, exercices intégrés dans le cours",
+      "Contenu":"[br/][li] Analyse chimique et biochimique[br/][li] Evaluation de la toxicité et biodégradabilité[br/][li] Principes du traitement biologique[br/][li] Processus biologique pour le traitement des eaux résiduaires (boue activée, bio-film)[br/][li] Traitement des eaux résiduaires par oxydation chimique, électrochimique et photochimique[br/][li] Traitement par concentration (charbon actif, membranes)[br/][li] La désinfection des eaux[br/][li] Projet ou séminaire sur différents traitements physico-chimiques:[br/][tab]- absorption[br/][tab]- échangeurs d'ions[br/][tab]- membranes[br/][tab]- oxidation par O[sub]3[/sub], H[sub]2[/sub]O[sub]2[/sub], OVH, combustion, photo-Fenton, électrochimie[br/][li] Ultrason[br/][li] Plasma",
+      "Forme du contrôle":"Continu",
+      "Objectifs d'apprentissage":"Acquérir des connaissances théoriques et pratiques dans le domaine de traitement des eaux industrielles contenant des agents polluants."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Technologie chimique et biologique de l'environnement",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228381963&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","499"],
+    "title":"Design, modelling and simulation of production systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228381963&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148071",
+      "name":"Cheikhrouhou Naoufel"
+    },{
+      "url":"http://people.epfl.ch/106142",
+      "name":"Pouly Michel"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1[br/][li]Choose the main solutions and identify the respective components to fulfil one function, taking into account the performance, technology and price constraints, CP5[br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP6[br/][li]Choose the models and analysis criterions following the specifications, CP7[br/][li]Realize, analyse and discuss a model: 3D complex geometries and assemblies, static, kinematic, dynamic, thermal and ultimate behaviour, life-cycle and costs of a system (product, manufacturing process or production system), CP8[br/][li]Evaluate the methodological choices for the building of a model and validate the results with respect to the analysis and modelling objectives, CP9[br/][li]Choose production tools and methods based on performance and cost requirements and needs, taking into consideration applicability limits and associated hypotheses, CP11[br/][li]Model, analyse and optimize the internal logistics of a production and distribution system and the dynamic behaviour of a network of companies, CP12[br/][b]Transversal skills:[/b][br/][li]Do a literature review and assess the state of the art, T4[br/][li]Make an oral presentation, T7[br/][li]Analyse decisions in terms of subjective and objective aspects, T9[br/][li]Use methods and tools for project planning and control, T11[br/][li]Document and communicate a project, T12[br/][li]Check each stage of a process, T16[br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20[br/][li]Improve skills continuously, T23[br/][li]Share knowledge and experience with peers, T25",
+      "Content":"Classification of production systems. Analytical models for the design and modelling of systems. Concepts of discrete event modeling and simulation. Discrete event modeling and use of the simulation software ARENA for the evaluation and optimization of performances. Projects (case studies taken from industrial research projects). Layout of production systems.",
+      "Keywords":"Discrete event modelling and simulation, analytical methods, performance[br/]evaluation, system layout",
+      "Form of examination":"Project and oral exam",
+      "Type of teaching":"ex-cathedra lesson with concrete examples, project, enterprise visits and student presentations"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design, modelling and simulation of production systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148071",
+      "name":"Cheikhrouhou Naoufel"
+    },{
+      "url":"http://people.epfl.ch/106142",
+      "name":"Pouly Michel"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"polycopié et diapositives du cours disponibles",
+      "Mots clés":"Modèles de simulation à événements discrets, méthodes analytiques,[br/]évaluation des performances, implantation de systèmes",
+      "Forme d'enseignement":"ex-cathedra avec exemples concrets,  visites d'entreprises, exercices et projet en classe et présentation par les étudiants",
+      "Contenu":"Classification des systèmes de production. Méthodes de rationalisation et amélioration des systèmes. Méthodes et outils de conception et de modélisation des systèmes de production. Modèles analytiques et modèles de simulation. Utilisation d'un logiciel de simulation à événements discrets (Arena). Implantation des systèmes de production.",
+      "Forme du contrôle":"Projet et examen oral",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique..., CP1[br/][li]Choisir des solutions de principe et identifier les composants correspondants en termes de performances, de technologie et de coût permettant de réaliser une fonction du cahier des charges, CP5[br/][li]Poser/extraire les hypothèses de modélisation adaptées et choisir les méthodes et outils en fonction des ressources pour le traitement du problème, CP6[br/][li]Choisir les modèles adéquats et définir des critères d'analyse à partir d'un cahier des charges, CP7 [br/][li]Réaliser, analyser et critiquer un modèle: ...comportement dynamique et de résistance d'un système, cycles de vie et les coûts associés d'un système..., CP8[br/][li]Evaluer les choix méthodologiques sur la construction du modèle et valider les résultats en fonction des objectifs d'analyse et de modélisation, CP9[br/][li]Choisir les méthodes et des outils de production en fonction des attentes et des exigences de performances et de coût en tenant comptes des limites d'application et les hypothèses associées, CP11[br/][li]Modéliser, analyser et optimiser la logistique interne d'un système de production et de distribution et les comportements dynamiques d'un réseau d'entreprises, CP12[br/][b]Compétences transversales:[/b][br/][li]Réaliser une recherche bibliographique, T4[br/][li]Réaliser une présentation orale, T7[br/][li]Analyser ses décisions en considérant les aspects objectifs et subjectifs, T9[br/][li]Utiliser des outils de planification et contrôle de projet, T11[br/][li]Documenter et communiquer un projet, T12[br/][li]Contrôler chaque étape d'une action, T16[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20[br/][li]Développer ses compétences de manière continue, T23[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conception, modélisation et simulation de systèmes de production",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

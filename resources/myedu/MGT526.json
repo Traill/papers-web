@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48092864&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","526"],
+    "title":"Supply chain management",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=48092864&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://tom.epfl.ch","http://tom.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162367",
+      "name":"Seifert Ralf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Supply Chain Management has gained tremendous momentum over the past decade and is rightfully seen as a competitive imperative in today's far-reaching and increasingly more complex supply networks.  However, moving on from the old era of functional excellence to state of the art supply chain management practice requires executive understanding of how integrated supply chains can delight customers, how to overcome adverse supply chain dynamics and organizational barriers, as well as how to preserve superior supplier relationships.  Advancing supply chain management can deliver dramatic results; it can put you ahead or leave you behind of competition.[br/][br/]The course will use a combination of recent cases from various industries, a simulation exercise, lectures and group discussions to best augment your understanding of key concepts and to gain appreciation of how the concepts can be successfully implemented.[br/][br/]",
+      "Content":"1.\tSupply Chain Management Put into Perspective[br/]2.\tSupply Chain Simulation Exercise ([i]The Beer Game[/i])[br/]3.\tSupply Chain Challenges (Philips Case)[br/]4.\tAdvancing to New Levels of Supply Chain Excellence[br/]5.\tLeveraging Information Flows (7-11 Japan Case)[br/]6.\tManaging Trade Working Capital in Supply Chain[br/]7.\tIntroduction to Inventory Control Models[br/]8.\tInventory Control Models Continued[br/]9.\tDesigning for Superior Supply-Chain-Responsiveness (Obermeyer Case)[br/]10.\tSupply Chain Portfolio Management (Hilti Case)[br/]11.\tRebuilding the Logistics Platform - Implementation Issues (Lego Case)[br/]12.\tSupply Chain Environmental Management[br/]13.\tAn Integrated View in the Mass Customization Context (mi-adidas Case)[br/]14.\tPresentation (mi-adidas Case) and Course Summary[br/]",
+      "Type of teaching":"Case studies, discussions, lectures and exercises",
+      "Form of examination":"30% on class participation[br/]60% individual written assignments[br/]10% group presentation",
+      "Bibliography and material":"Reading packet"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supply chain management",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://tom.epfl.ch","http://tom.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162367",
+      "name":"Seifert Ralf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Etudes de cas, discussions, cours et exercices",
+      "Contenu":"1. Le supply chain management mis en perspective[br/]2. Exercice de simulation de la supply chain ([i]The Beer Game[/i]) [br/]3. Les défis de la supply chain (cas Philips)[br/]4. Vers de nouveaux niveaux d'excellence en matière de supply chain [br/]5. Mettre à profit les flux d'information (cas Japan 7-11)[br/]6. L'influence du capital financier dans la supply chain [br/]7. Introduction aux modèles de contrôle d'inventaire [br/]8. Modèles de contrôle d'inventaire -Suite [br/]9. Concevoir une supply chain réactive (cas Obermeyer)[br/]10. La gestion du portfolio de supply chains (cas Hilti) [br/]11. Redessiner la plateforme logistique et les problèmes d'implémentation (cas Lego)[br/]12. La gestion environnementale de la supply chain [br/]13. Une vue globale dans le contexte de la personnalisation de masse (cas mi Adidas) [br/]14. Présentation (cas mi Adidas) et résumé du cours [br/]",
+      "Forme du contrôle":"30% participation en classe[br/]60% devoirs écrits individuels[br/]10% presentation en groupe",
+      "Bibliographie et matériel":"Polycopié",
+      "Objectifs d'apprentissage":"Le \"supply chain management\", gestion de la chaîne logistique, a pris un essor formidable durant la dernière décennie et est perçu comme essentiel à la performance des réseaux d'approvisionnement de plus en plus complexes et étendus. Cependant, passer d'une gestion traditionnelle du supply chain à une pratique de pointe demande une compréhension globale de de la réponse des réseaux logistiques à l'attente des clients, de la résolution des problèmes inhérents à la dynamique des chaînes logistiques ainsi qu'aux barrières organisationnelles et finalement, du maintien d'excellentes relations avec les fournisseurs. L'efficacité du supply chain management est déterminante pour la compétitivité d'une entreprise.[br/][br/]Ce cours utilise une combinaison d'études de cas récentes provenant de diverses industries, un exercice de simulation, des cours théoriques et de discussions de groupe pour favoriser une meilleure compréhension des concepts clé et permettre de saisir au mieux comment implémenter ces concepts avec succès."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Supply chain management",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

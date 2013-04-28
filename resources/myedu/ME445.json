@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772075&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","445"],
+    "title":"Aerodynamics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772075&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123870",
+      "name":"Farhat Mohamed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral examination",
+      "Required prior knowledge":"[li]Fluid Mechanics",
+      "Content":"INTRODUCTION:[br/]- Definitions, historical examples[br/]- Types of air flows[br/]- Main variables: Forces, moments, pressure, ...[br/]- Flow similarity, dimensional analysis[br/]FUNDAMENTAL EQUATIONS:[br/]- Continuity equation[br/]- Equation of momentum conservation [br/]- Equation of energy conservation [br/]- Vorticity, strain, circulation, stream function, ...[br/]INVISCID AND INCOMPRESSIBLE FLOWS:[br/]- Bernoulli equation[br/]- Incompressible flow in a Venturi[br/]- Laplace equation : Irrotational and incompressible flows[br/]- Kutta-Joukowski theorem[br/]INCOMPRESSIBLE FLOW OVER AIRFOILS[br/]- Airfoils nomenclature and characteristics[br/]- The Kutta condition[br/]- Kelvin's circulation theorem[br/]- Thin airfoils theory[br/]- Incompressible flows over finite wings[br/]INTRODUCTION TO COMPPRESSIBLE FLOWS:[br/]- Definition of compressibility[br/]- Fundamental equations of compressible flows[br/]- Some aspects of supersonic flows : Shock waves",
+      "Keywords":"Aerodynamic, airfoil, lift, drag, turbulence, compressibility",
+      "Type of teaching":"Lectures, written exercises, teaching labs, mini-projects",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Describe a flow in scientific terms, AH1[br/][li]Link flow behaviour with non-dimensional parameters (e.g. Reynolds and Mach numbers), AH2[br/][li]Describe the physical differences between laminar and turbulent flows, AH4[br/][li]Describe in detail the physical phenomena associated with the interaction of a flow with a solid wall (as a function of its characteristics, e.g. roughness), AH5[br/][li]Determine the flight characteristics from a wing shape and chose a wing shape to provide the desired flight characteristics, AH12[br/][li]Describe 3D effects resulting, for example, from a finite wing span or behind a blunt body, AH13[br/][li]Describe simplified governing equations, such as the Bernoulli or potential equations, their domain of validity and apply them in appropriate situations, AH19[br/][b]Transversal skills:[/b][br/][li]Take notes effectively, T3[br/][li]Summarize an article or a technical report, T5"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Aerodynamics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-018243-5&amp;con_lng=ENG\" target=\"blank\">Aerodynamics for engineers / John J. Bertin, Michael L. Smith</a>\". Year:1989. ISBN:0-13-018243-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-339810-5&amp;con_lng=ENG\" target=\"blank\">Fundamentals of aerodynamics / John D. Anderson, Jr.</a>\". Year:2011. ISBN:978-0-07-339810-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-33458-8&amp;con_lng=ENG\" target=\"blank\">Mechanics of flight / Warren F. Phillips</a>\". Year:2004. ISBN:0-471-33458-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123870",
+      "name":"Farhat Mohamed"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Mécanique des fluides",
+      "Bibliographie et matériel":"[li]Notes de cours : http://lmh.epfl.ch/Teaching/ Aérodynamique[br/][li]John D. Anderson, \"Fundamentals of Aerodynamics\", 1984, by McGraw-Hill, Inc, ISBN 0-07-001656-9",
+      "Mots clés":"Aérodynamique, profil d'aile, portance, traînée, turbulence, compressibilité",
+      "Forme d'enseignement":"Cours ex-cathedra, exercices écrits, laboratoires, mini-projets",
+      "Contenu":"INTRODUCTION:[br/]- Définitions, historique[br/]- Types d'écoulements[br/]- Grandeurs importantes : Forces, moments, pression, ...[br/]- Similarité d'écoulements, analyse dimensionnelle[br/]EQUATIONS FONDAMENTALES[br/]- Equation de continuité[br/]- Equation de conservation de la quantité de mouvement[br/]- Equation de conservation de l'énergie[br/]- Vorticité, contrainte, circulations, fonction de courant, ...[br/]ECOULEMENT DE FLUID PARFAIT ET INCOMPRESSIBLES:[br/]- Equation de Bernoulli[br/]- Ecoulement incompressible dans un Venturi[br/]- Equation de Laplace : écoulements irrotationels et incompressibles[br/]- Théorème de Kutta-Joukowski[br/]ECOULEMENT INCOMPRESSIBLE AUTOUR D'UNE AILE[br/]- Nomenclature et caractéristiques des profils d'aile[br/]- La condition de Kutta[br/]- Théorème de Kelvin : Conservation de la circulation[br/]- La théorie des profils minces[br/]- Ecoulement incompressible autour de profils à envergure finie[br/]INTRODUCTION AUX ECOULEMENTS COMPPRESSIBLES:[br/]- Définition de la compressibilité[br/]- Equations fondamentales des écoulements compressibles[br/]- Quelques aspects des écoulements compressibles : Ondes de choc",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire un écoulement en termes scientifiques, AH1[br/][li]Relier les comportements des écoulements aux paramètres adimensionnels (nombre de Reynolds, Mach, etc.), AH2[br/][li]Décrire en termes physiques les différences entre un écoulement laminaire et un écoulement turbulent, AH4[br/][li]Décrire en détail les phénomènes physiques associés à l'interaction de l'écoulement avec une paroi (en fonction de ses caractéristiques, par ex. rugosité), AH5[br/][li]Déterminer les caractéristiques de vol d'un profil d'aile et choisir un profil d'aile en fonction des caractéristiques de vol désiré, AH12[br/][li]Décrire les effets 3D résultant par exemple de l'envergure d'une aile ou derrière un corps émoussé, AH13 [br/][li]Décrire des équations simplifiées, telles que Bernoulli ou potentielles, leurs domaines de validité et les appliquer dans des situations appropriées, AH19[br/][b]Compétences transversales:[/b][br/][li]Prendre des notes de manière efficace, T3[br/][li]Faire un résumé d'un article ou d'un document technique, T5"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Aérodynamique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-018243-5&amp;con_lng=FRE\" target=\"blank\">Aerodynamics for engineers / John J. Bertin, Michael L. Smith</a>\". Année:1989. ISBN:0-13-018243-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-339810-5&amp;con_lng=FRE\" target=\"blank\">Fundamentals of aerodynamics / John D. Anderson, Jr.</a>\". Année:2011. ISBN:978-0-07-339810-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-33458-8&amp;con_lng=FRE\" target=\"blank\">Mechanics of flight / Warren F. Phillips</a>\". Année:2004. ISBN:0-471-33458-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

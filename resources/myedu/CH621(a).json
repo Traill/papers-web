@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965858883&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","621(a)"],
+    "title":"Perspectives in Modern Organic Chemistry (Fall)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965858883&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206338",
+      "name":"Cramer Nicolai"
+    },{
+      "url":"http://people.epfl.ch/206332",
+      "name":"Zhu Jieping"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"Natural product, modern synthetic tools[br/]C-C bond formation, C-heteroatom bond formation[br/]Enantioselective synthesis[br/]Lewis acid-catalyzed transformation[br/]Transition metal-catalyzed transformation[br/]Organocatalysis[br/]Green chemistry[br/]Drug development, Drug discovery[br/]Interface of organic chemistry/biology, organic chemistry/bioorganic chemistry",
+      "Keywords":"Total synthesis, Natural product, Green chemistry, Enantioselective synthesis, Organo-catalysis, Lewis acid, Transition-metal, Drug discovery",
+      "Required prior knowledge":"M2 level"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Perspectives in Modern Organic Chemistry A (Fall+Spring)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206338",
+      "name":"Cramer Nicolai"
+    },{
+      "url":"http://people.epfl.ch/206332",
+      "name":"Zhu Jieping"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Natural product, modern synthetic tools[br/]C-C bond formation, C-heteroatom bond formation[br/]Enantioselective synthesis[br/]Lewis acid-catalyzed transformation[br/]Transition metal-catalyzed transformation[br/]Organocatalysis[br/]Green chemistry[br/]Drug development, Drug discovery[br/]Interface of organic chemistry/biology, organic chemistry/bioorganic chemistry",
+      "Prérequis":"M2 level",
+      "Mots clés":"Total synthesis, Natural product, Green chemistry, Enantioselective synthesis, Organo-catalysis, Lewis acid, Transition-metal, Drug discovery"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Perspectives in Modern Organic Chemistry A (Fall+Spring)",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

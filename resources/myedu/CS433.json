@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771468&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","433"],
+    "title":"Pattern classification and machine learning",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771468&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"SC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208475",
+      "name":"Seeger Matthias"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam & miniproject",
+      "Bibliography and material":"Polycopiés : C. Bishop : Pattern Recognition and Machine Learning, Springer, 2006 ; [br/]R.O. Duda, P.E. Hart and D.G. Stork: Pattern Classification, Wiley;[br/]C. Bishop: Neural Networks for Pattern Recognition, Oxford",
+      "Required prior knowledge":"Probability and statistics I, II  Analysis I, II, III; Programming I",
+      "Content":"[b]I.\tClassification and supervised learning [/b][br/]\t-\tThe problem of automatic classification[br/][br/][b]II.\tArtificial Neural Networks[/b][br/]\t- \tSimple perceptrons and linear separability[br/]\t-\tMultilayer Perceptrons: Backpropagation Algorithm[br/]\t-\tThe problem of generalization[br/]\t-\tApplications[br/][br/][b]III. Optimal decision boundary and density estimation[/b][br/]\t-\tMaximum Likelihood and Bayes[br/]\t-\tMixture Models, expectation maximization (EM)[br/][br/][b]IV.\tSupport Vector Machines[/b][br/][br/][b]V.\t\tStatistical learning theory[/b][br/]\t-\tInformal introduction[br/]    -  Definition of the statistical learning problem[br/]    -  Empirical risk minimization[br/][br/][b]IV.\tUnsupervised learning[/b][br/]\t-\t Principal components analysis[br/]\t-\t Clustering, K-means[br/]",
+      "Type of teaching":"Classroom teaching, classroom exercises and miniproject",
+      "Learning outcomes":"Data classification is at the heart of automatized learning. In this course, the student will learn to master relevant classification algorithms (artificial neural networks, Bayes classification, support vector machine, expectation maximization), and understand their basic theoretical background.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pattern classification and machine learning",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-273350-1&amp;con_lng=ENG\" target=\"blank\">Neural networks : a comprehensive foundation / Simon Haykin</a>\". Year:1999. ISBN:0-13-273350-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-129376-2&amp;con_lng=ENG\" target=\"blank\">Neural networks and learning machines / Simon Haykin</a>\". Year:2009. ISBN:978-0-13-129376-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-853864-2&amp;con_lng=ENG\" target=\"blank\">Neural networks for pattern recognition / Christopher M. Bishop</a>\". Year:2005. ISBN:0-19-853864-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98780-0&amp;con_lng=ENG\" target=\"blank\">The nature of statistical learning theory / Vladimir N. Vapnik</a>\". Year:2000. ISBN:0-387-98780-0</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/208475",
+      "name":"Seeger Matthias"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Probabilité et statistique I, II ; Analyse I, II, III, et Programmation I",
+      "Bibliographie et matériel":"Polycopiés :   C. Bishop : Pattern Recognition and Machine Learning, Springer, 2006 ; [br/][tab][tab]  R.O. Duda, P.E. Hart and D.G. Stork: Pattern Classification, Wiley;[br/][tab][tab]  C. Bishop: Neural Networks for Pattern Recognition, Oxford[br/]",
+      "Forme d'enseignement":"Ex cathedra, exercices en salle et sur ordinateur,  miniprojet",
+      "Contenu":"[b]I. \tClassification et apprentissage supervisé[/b] [br/]\t- \tLe problème d'une classification automatique des données[br/][br/][b]II.\tRéseaux de neurones artificiels[/b][br/]\t-\tPerceptron simple et séparabilité linéaire[br/]\t- \tRéseaux multicouches et l'algorithme BackProp[br/]\t- \tLe problème de la généralisation[br/]\t- \tApplications[br/][br/][b]III. Décisions optimales et estimation de densité[/b][br/]\t- \tMaximum likelihood et Bayes[br/]\t- \tMixture Models et l'algorithme EM[br/][br/][b]IV.\t Support Vector Machines[/b][br/][br/][b]V.\tThéorie statistique de l'apprentissage[/b] [br/]\t- \tIntroduction informelle[br/]        -       Définition du problème d'apprentissage statistique[br/]        -       Minimisation du risque empirique[br/][br/][b]IV.\t Apprentissage sans supervision[/b][br/]\t-\tPrincipal components analysis[br/]\t- \tClustering, K-means[br/]",
+      "Forme du contrôle":"Examen écrit & miniprojet",
+      "Objectifs d'apprentissage":"La classification de données (images, textes, sons) est une tâche qui est à la base de toute apprentissage et reconnaissance automatique. L'objectif du cours est la maîtrise des algorithmes de classification (réseaux de neurones artificiels, méthodes classiques, méthodes modernes basées sur les vecteurs à support) ainsi que la compréhension de la théorie statistique de l'apprentissage."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Pattern classification and machine learning",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-273350-1&amp;con_lng=FRE\" target=\"blank\">Neural networks : a comprehensive foundation / Simon Haykin</a>\". Année:1999. ISBN:0-13-273350-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-129376-2&amp;con_lng=FRE\" target=\"blank\">Neural networks and learning machines / Simon Haykin</a>\". Année:2009. ISBN:978-0-13-129376-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-853864-2&amp;con_lng=FRE\" target=\"blank\">Neural networks for pattern recognition / Christopher M. Bishop</a>\". Année:2005. ISBN:0-19-853864-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-98780-0&amp;con_lng=FRE\" target=\"blank\">The nature of statistical learning theory / Vladimir N. Vapnik</a>\". Année:2000. ISBN:0-387-98780-0</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

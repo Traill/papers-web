@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105275&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","514"],
+    "title":"Flow cytometry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=839105275&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184841",
+      "name":"Garcia Miguel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Understand the theoretical principles of flow cytometry for analysis and cell sorting.",
+      "Content":"[b]Part 1 : Theory session[/b][br/][li] Lecture on first principles of flow cytometry[br/][li] Lecture on cell sorting by flow cytometry[br/][li] Lecture on multicolour flow cytometry[br/][b]Part 2 : Demonstration session[/b][br/][li] Demonstration of the analyzers and sorters by FCCF staff[br/][li] Visual explanation of the theory[br/][b]Part 3 : Practical session (by Groups)[/b][br/][li] Students in role of scientist with experiment for analysis only[br/][li] Set up analyser[br/][li] Run analyser (acquisition of samples)[br/][li] Extract statistics (analyse + results)[br/][li] Raw data's to analyse[br/][li] Multicolour panel to validate.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Flow cytometry",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/184841",
+      "name":"Garcia Miguel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cours théorique de 4 après-midis sur  une semaine et de 1 journée en laboratoire durant le semestre pour la partie pratique.",
+      "Prérequis":"1ère année de master en SSV",
+      "Forme d'enseignement":"Théorie + pratique.",
+      "Contenu":"[b]Partie 1 : Session théorique[/b][br/][li] Lecture sur les principes théorique de la cytométrie[br/][li] Lecture sur le tri cellulaire[br/][li] Lecture sur l'usage du multicouleur[br/][b]Partie 2 : Démonstration[/b][br/][li] Démonstration des analyseurs et des trieurs par le Staff de la Facility[br/][li] Explications de la théorie sur les machines[br/][b]Partie 3 : Session pratique (par Groupes)[/b][br/][li] Etudiants dans le rôle de scientifiques avec des expériences d'analyse[br/][li] Set up analyseurs[br/][li] Travail sur les analyseurs (acquisition d'échantillons)[br/][li] Statistiques (analyse + résultats)[br/][li] Données brutes des analyses[br/][li] Validation d'un panel multicouleur.",
+      "Forme du contrôle":"Examen écrit à la fin du module",
+      "Objectifs d'apprentissage":"Comprendre les principes théoriques de la cytométrie en flux pour l'analyse et le tri cellulaire."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Flow cytometry",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

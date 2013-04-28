@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228381203&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","523"],
+    "title":"Nonlinear Control Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228381203&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105941",
+      "name":"Müllhaupt Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Bibliography and material":"Ph. Müllhaupt, « Introduction à l'analyse et à la commande des systèmes non linéaires », PPUR, 2009.[br/]H. K. Khalil, « Nonlinear Systems », Prentice Hall, 3rd ed., 2002.",
+      "Required prior knowledge":"[li]Assess the stability, performance and robustness of a closed-loop system, A14[br/][li]Design a PID controller, A9[br/][li]Represent a system by a linear or nonlinear state-space model, A6",
+      "Content":"This course introduces analysis and control methods for nonlinear control systems.[br/]-\tNonlinear systems fundamentals[br/]-\tPhase plane description[br/]-\tDescribing function analysis[br/]-\tLyapunov stability analysis[br/]-\tPassivity. Circle criterion.[br/]-\tControl design based on exact linearization (state and output)",
+      "Keywords":"Lyapunov Stability, Feedback Linearization, Describing Functions, Passivity, Phase Plane.",
+      "Type of teaching":"Ex cathedra with examples and integrated exercises.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Analyse a nonlinear dynamic system and design a linear or nonlinear controller for the system, A11[br/][li]Linearize a nonlinear system, A3[br/][li]Validate the performance (by simulations or experiments), A24[br/][li]Evaluate and discuss the performance and the solutions, and draw conclusions, A26[br/][br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Be perseverant through difficulties, T15[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Nonlinear Control Systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-787-9&amp;con_lng=ENG\" target=\"blank\">Introduction à l'analyse et à la commande des systèmes non linéaires / Philippe Müllhaupt</a>\". Year:2009. ISBN:978-2-88074-787-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-067389-7&amp;con_lng=ENG\" target=\"blank\">Nonlinear systems / Hassan K. Khalil</a>\". Year:2002. ISBN:0-13-067389-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105941",
+      "name":"Müllhaupt Philippe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Déterminer la stabilité, la performance et la robustesse d'un système  en boucle fermée, A14[br/][li]Dimensionner un régulateur PID, A9[br/][li]Représenter un système sous forme de  modèle d'état linéaire ou non linéaire, A6",
+      "Bibliographie et matériel":"Ph. Müllhaupt, « Introduction à l'analyse et à la commande des systèmes non linéaires », PPUR, 2009.[br/]H. K. Khalil, « Nonlinear Systems », Prentice Hall, 3rd ed., 2002.",
+      "Mots clés":"Stabilité au sens de Lyapunov, linéarisation par rétroaction, équivalent du premier harmonique, passivité, plan de phase.",
+      "Forme d'enseignement":"Ex cathedra avec exemples et exercices intégrés   ",
+      "Contenu":"Ce cours introduit les méthodes de bases d'analyse et de commande des systèmes non linéaires.[br/]-\tNotions générales sur les systèmes non linéaires[br/]-\tDescription dans l'espace de phase[br/]-\tMéthode de l'équivalent harmonique[br/]-\tAnalyse de la stabilité au sens de Lyapunov[br/]-\tPassivité. Critère du cercle.[br/]-\tSynthèse de régulateur par linéarisation exacte (état et sortie)",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Analyser un système dynamique non linéaire et dimensionner un régulateur linéaire ou non linéaire pour le système, A11[br/][li]Linéariser un système non linéaire, A3[br/][li]Valider les performances (par simulation ou expérimentalement), A24[br/][li]Evaluer et critiquer les performances, la solution, et tirer un bilan, A26[br/][br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Commande non linéaire",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-787-9&amp;con_lng=FRE\" target=\"blank\">Introduction à l'analyse et à la commande des systèmes non linéaires / Philippe Müllhaupt</a>\". Année:2009. ISBN:978-2-88074-787-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-067389-7&amp;con_lng=FRE\" target=\"blank\">Nonlinear systems / Hassan K. Khalil</a>\". Année:2002. ISBN:0-13-067389-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

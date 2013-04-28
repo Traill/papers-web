@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30691019&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","629"],
+    "title":"Practical - Naef Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30691019&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://naef-lab.epfl.ch/","http://naef-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110606",
+      "name":"Naef Felix"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Biological modeling[br/][br/]The student will become familiar with a few selected classical and recent research articles in the field of biological modeling, or model driven analysis of biological data. The goal is that the student becomes aware of a number of quantitative approaches that he might apply in his future research. The course will also serve as an introduction to matlab, in particular the possibility of simulating simple differential equation systems. Reading topics will include cell cycle models, patterning in the drosophila embryo,[br/]models of circadian clocks.",
+      "Content":"Day 1: Introduction by the PI. Study of articles. [br/]Day 2: Practical exercices in matlab + article presentation (each student presents one article). [br/]Day 3: one day simulation miniproject. Possible topics include: 1) simulation of an enzymatic reaction, validity range of the Michaelis-Menten approximation. 2) Simulation of a biochemical oscillator, effect of noise on period length, collective synchonization in phase oscillators. Analysis and simulation of a predator-prey model.",
+      "Keywords":"Biological modeling, systems biology",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Note also that doctoral students from the Naef laboratory cannot take this course. Access is limited to 4 students."
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Practical - Naef Lab",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://naef-lab.epfl.ch/","http://naef-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110606",
+      "name":"Naef Felix"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Note also that doctoral students from the Naef laboratory cannot take this course. Access is limited to 3 students",
+      "Contenu":"Day 1: Introduction by the PI. Study of articles. [br/]Day 2: Practical exercices in matlab + article presentation (each student presents one article). [br/]Day 3: one day simulation miniproject. Possible topics include: 1) simulation of an enzymatic reaction, validity range of the Michaelis-Menten approximation. 2) Simulation of a biochemical oscillator, effect of noise on period length, collective synchonization in phase oscillators. Analysis and simulation of a predator-prey model.",
+      "Mots clés":"Biological modeling, systems biology",
+      "Objectifs d'apprentissage":"Biological modeling[br/][br/]The student will become familiar with a few selected classical and recent research articles in the field of biological modeling, or model driven analysis of biological data. The goal is that the student becomes aware of a number of quantitative approaches that he might apply in his future research. The course will also serve as an introduction to matlab, in particular the possibility of simulating simple differential equation systems. Reading topics will include cell cycle models, patterning in the drosophila embryo,[br/]models of circadian clocks."
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Practical - Naef Lab",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  }
+}

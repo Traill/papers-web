@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770688&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","402"],
+    "title":"Bioanalytics and analytical sensors",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770688&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/146269",
+      "name":"Lion Niels"
+    },{
+      "url":"http://people.epfl.ch/111744",
+      "name":"Rossier Joël Stéphane"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Presentation of biosensors.[br/]Introduction to instrumental and bioinformatics analytical methods used in proteomics and genomics.",
+      "Content":"[br/][li] Electrochemical and optical detection methods used in biosensors design for microchips.[br/]Case study: Glucose sensor and immunosensor.[br/][br/][li] Hyphenated analytical techniques for proteomics (fractionation, digestion/separation, mass spectrometry analysis, genomic data-base search)[br/]Case study: allergy[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bioanalytics and analytical sensors",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/146269",
+      "name":"Lion Niels"
+    },{
+      "url":"http://people.epfl.ch/111744",
+      "name":"Rossier Joël Stéphane"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et projets",
+      "Contenu":"[br/][li] Méthodes de détection électrochimique et optique utilisées pour la conception de biocapteurs sur microchips.[br/]Etude de cas : Capteur à glucose et immunoanalyses.[br/][br/][li] Méthodes couplées d'analyse protéomique (fractionation, digestion/séparation, analyse par spectrométrie de masse et recherche dans les bases de données génomiques)[br/]Etude de cas: Allergie.[br/]",
+      "Forme du contrôle":"Continu",
+      "Remarque":"Enseignement du module Analytical chemistry",
+      "Objectifs d'apprentissage":"Présentation de biocapteurs.[br/]Introduction aux méthodes d'analyse instrumentale et bioinformatique de protéomique et de génomique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Bioanalytics and analytical sensors",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

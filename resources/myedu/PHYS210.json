@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47901284&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","210"],
+    "title":"Computational physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47901284&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle/course/enrol.php?id=287","http://moodle/course/enrol.php?id=287 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106653",
+      "name":"Villard Laurent"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The student will learn to tackle, formulate and solve physics problems using elementary numerical methods. To understand advantages and limitations of these methods. To extend the applications to problems which are difficult to treat with analytical methods. To learn how to use physical concepts to verify and validate numerical results. To control numerical convergence in order to estimate errors. To complement and illustrate various physics subjects from other courses (Physics I-IV, Analytical Mechanics).",
+      "Content":"Continuation of Computational physics I[br/][br/][b]Space and time integration:[/b] Advection. Diffusion. Explicit schemes, finite differences. Von Neuman numerical spectral stability analysis. Courant-Friedrichs-Lewy condition. Diffusion and random walk: a Monte Carlo approach.[br/][br/]Wave propagation. Initial and boundary conditions. Eigenmodes and eigenvalues. Stability analysis. Waves in inhomogeneous media.[br/][br/]Quantum mechanics. Time-dependent Schrödinger equation. Semi-implicit, unitary scheme. Free particle, wave packet spreading. Potentiel barriers, tunneling. Harmonic oscillator, semi-classical limit. Eigenstates, time-independent Schrödinger equation. Potential well, bound states. Particle in a periodic potential, energy gaps.[br/][br/][b]A selection among various applications:[/b] statistical mechanics, Ising model, Monte Carlo approach, Metropolis algorithm.  Signal sampling and filtering (Fourier). Fluid flows, Particle-In-Cell  (PIC) method. [br/][br/]Several applications will be made as exercises and practical work, with evaluation of the returned reports.[br/][][br/]",
+      "Type of teaching":"Ex cathedra presentations, exercises and practical work under supervision",
+      "Form of examination":"Continuous control",
+      "Required prior knowledge":"1st year courses (Physics I, II, Numerical analysis, Computer science I, II) and Computational physics I"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computational physics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-146990-8&amp;con_lng=ENG\" target=\"blank\">Computational physics / Nicholas J. Giordano, Hisao Nakanishi</a>\". Year:2006. ISBN:0-13-146990-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46631-7&amp;con_lng=ENG\" target=\"blank\">Computational physics : an introduction / Franz J. Vesely</a>\". Year:2001. ISBN:0-306-46631-7</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle/course/enrol.php?id=287","http://moodle/course/enrol.php?id=287 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106653",
+      "name":"Villard Laurent"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de 1ère année (Physique I, II, Analyse numérique, Informatique I, II) et Physique numérique I",
+      "Bibliographie et matériel":"Notes de cours[br/]N.J. Giordano, Computational Physics, Pearson Prentice Hall 2006[br/]F.J. Vesely, Computational Physics, an Introduction, Kluwer Academic Plenum 2001",
+      "Forme d'enseignement":"Présentations ex cathedra, exercices et applications pratiques dirigés",
+      "Contenu":"Suite du cours de Physique numérique I.[br/][br/][b]Intégration spatio-temporelle :[/b] Advection. Diffusion. Schémas explicites, différences finies. Analyse spectrale de stabilité de Von Neuman. Condition Courant-Friedrichs-Lewy. Diffusion et marche aléatoire : approche Monte Carlo. [br/][br/]Propagation d'ondes. Conditions initiales et aux limites. Modes propres, fréquences propres. Analyse de stabilité. Ondes en milieu inhomogène. [br/][br/]Mécanique quantique. Equation de Schrödinger dépendante du temps. Schéma semi-implicite unitaire. Particule libre, étalement du paquet d'onde. Barrières de potentiel, effet tunnel. Oscillateur harmonique, limite semi-classique. Etats propres, équation de Schrödinger stationnaire. Puits de potentiel, états liés. Particule dans un potentiel périodique, bandes d'énergies interdites.[br/][br/][b]Une sélection parmi diverses applications :[/b] Mécanique statistique, modèle d'Ising, approche Monte Carlo, algorithme de Metropolis. Echantillonnage et filtrage de signaux (Fourier). Ecoulements fluides, méthode « Particle-In-Cell » (PIC). [br/][br/]Plusieurs applications seront faites en exercice et en pratique, avec évaluation des rapports rendus.[br/]",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Aborder, formuler et résoudre des problèmes de physique en utilisant des méthodes numériques simples. Comprendre les avantages et les limites de ces méthodes. Etendre les applications aux problèmes difficilement traitables par les méthodes analytiques. Apprendre à utiliser les concepts physiques pour vérifier et valider les résultats numériques. Contrôler la convergence pour estimer les erreurs. Complémenter et illustrer différents sujets de physique traités dans d'autres cours (Physique I-IV, Mécanique analytique)."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physique numérique II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-146990-8&amp;con_lng=FRE\" target=\"blank\">Computational physics / Nicholas J. Giordano, Hisao Nakanishi</a>\". Année:2006. ISBN:0-13-146990-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46631-7&amp;con_lng=FRE\" target=\"blank\">Computational physics : an introduction / Franz J. Vesely</a>\". Année:2001. ISBN:0-306-46631-7</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

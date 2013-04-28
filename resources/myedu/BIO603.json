@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30656105&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","603"],
+    "title":"Practical - Aguet Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30656105&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://aguet-lab.epfl.ch/","http://aguet-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168669",
+      "name":"Aguet Michel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"In vivo validation of putative cancer therapy targets",
+      "Content":"In this course, we will focus on the in vivo validation of candidate genes in carcinogenesis through conditional shRNA expression in tumor xenografts. A two-vector lentiviral system for doxycycline-regulated induction of shRNA will be introduced in colon carcinoma cell lines, which will subsequently be grafted in mice. Hands-on experience will include cloning of shRNAs, preparation of lentviruses, and transduction of colon carcinoma cell lines. The efficiency of the shRNA will be assessed by monitoring eGFP, by immunohistochemistry and by RT-QPCR, while histology and non-invasive luciferase-based imaging will be used to determine morphology and outgrowth of subcutaneously grafted tumor cells, respectively.",
+      "Keywords":"Carcinogenesis, shRNA, lentivirus, in vivo",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Note also that doctoral students from the Aguet laboratory cannot take this course. Access is limited to 1 student.[br/]",
+      "Required prior knowledge":"Read 1-2 articles."
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Aguet Lab",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://aguet-lab.epfl.ch/","http://aguet-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168669",
+      "name":"Aguet Michel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Note also that doctoral students from the Aguet laboratory cannot take this course. Access is limited to 2 students.[br/]",
+      "Contenu":"In this course, we will focus on the in vivo validation of candidate genes in carcinogenesis through conditional shRNA expression in tumor xenografts. A two-vector lentiviral system for doxycycline-regulated induction of shRNA will be introduced in colon carcinoma cell lines, which will subsequently be grafted in mice. Hands-on experience will include cloning of shRNAs, preparation of lentviruses, and transduction of colon carcinoma cell lines. The efficiency of the shRNA will be assessed by monitoring eGFP, by immunohistochemistry and by RT-QPCR, while histology and non-invasive luciferase-based imaging will be used to determine morphology and outgrowth of subcutaneously grafted tumor cells, respectively.",
+      "Mots clés":"Carcinogenesis, shRNA, lentivirus, in vivo",
+      "Prérequis":"Read 1-2 articles.",
+      "Objectifs d'apprentissage":"In vivo validation of putative cancer therapy targets"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Aguet Lab",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

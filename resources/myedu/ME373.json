@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127006741&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","373"],
+    "title":"Finite element modelling and simulation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127006741&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100957",
+      "name":"Cugnoni Joël"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam aiming at the realization of a finite element study using the software learned during the semester. Evaluation of the mini-project based on a report.",
+      "Bibliography and material":"Presentations, tutorials, exercises and projects given at http://lmafsrv1.epfl.ch/CoursEF",
+      "Prerequisite for":"Mechanical engineering projects, Computational solid and structural mechanics",
+      "Required prior knowledge":"Derive a finite element formulation of a physical problem from its differential equations in strong form (virtual work method or variational approach), (Finite element method, ME-372) S8",
+      "Content":"In this course, the student will learn the technical and methodological bases useful for the realisation of finite element studies of practical problems in solid mechanics. Through examples close to real case studies, the student will also develop a critical view of the possibilities and limitations of these numerical methods and related software. The structure of the course follows the classical approach of modelling, namely: the mathematical formulation of the finite element problem of linear statics, the physical modelling (geometry, choice of constitutive models, boundary conditions), choice of the finite element formulation, mesh generation, convergence study, solution of the problem, post-processing, analysis of the results and writing of a detailed and critical report",
+      "Keywords":"Solid mechanics, Numerical methods, Finite elements",
+      "Type of teaching":"The structure of the course is based on theoretical presentation, tutorials and practical exercises to learn how to use a finite element modelling software. A mini-project is also present for the student to learn how to apply these concepts to a real world problem.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Apply the concepts of the finite element method to realize a complete study of a real problem based on the specifications. Provide a critical analysis of the obtained results, S9[br/][li]Derive a finite element formulation of a physical problem from its differential equations in strong form (virtual work method or variational approach), S8[br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Fluently speak at least two languages, T8[br/][li]Document and communicate a project, T12[br/][li]Differentiate between ideal and feasible, T19[br/][li]Analyse the consequences of a decision or solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Finite element modelling and simulation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100957",
+      "name":"Cugnoni Joël"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Dériver une formulation par éléments finis d'un problème physique quelconque à partir de ses équations différentielles en forme forte (Méthode des éléments finis, ME-372) S8",
+      "Bibliographie et matériel":"Présentations, tutoriaux, exercices et projets sur http://lmafsrv1.epfl.ch/CoursEF",
+      "Mots clés":"Mécanique des solides, Méthodes numériques, Eléments finis",
+      "Forme d'enseignement":"La structure du cours se base sur une présentation théorique, des tutoriaux et une mise en application pratique (exercices) sur ordinateur dans le but de maitriser un logiciel de simulation éléments finis. Un mini-projet est également proposé pour que l'étudiant apprenne à mettre en ½uvre ces concepts pour l'analyse d'un problème concret.",
+      "Contenu":"Le but de ce cours est de transmettre aux étudiants les bases techniques et méthodologiques utiles à la réalisation d'études par éléments finis de problèmes concrets de mécanique des solides et des structures. A travers la réalisation d'exercices proches d'études réelles, l'étudiant développera également une vision critique des possibilités et des limitations de ces méthodes numériques et des logiciels afférents. La structure du cours suit la démarche de modélisation classique à savoir: la formulation mathématique par éléments finis du problème de statique en élasticité linéaire, la mise en données du problème (modélisation géométrique, choix du modèle constitutif, conditions limites), le  choix du type d'éléments finis, la génération du maillage, l'étude de convergence, la résolution du problème, le post-traitement, l'analyse des résultats et la rédaction d'un rapport d'étude circonstancié et critique.",
+      "Forme du contrôle":"Examen écrit portant sur la réalisation d'une étude éléments finis sur ordinateur. Evaluation du mini-projet sur la base d'un rapport d'étude.",
+      "Préparation pour":"Projets de génie mécanique, Mécanique numérique des solides et des structures",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Mettre en ½uvre les concepts théoriques de la méthode des éléments finis pour la réalisation d'une étude complète d'un problème réel à partir d'un cahier des charges d'étude, fournir une analyse critique des résultats obtenus, S9[br/][li]Dériver une formulation par éléments finis d'un problème physique quelconque à partir de ses équations différentielles en forme forte (méthode des travaux virtuels ou approche variationnelle), S8[br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Parler couramment au moins deux langues, T8[br/][li]Documenter et communiquer un projet, T12[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modélisation et simulation par éléments finis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

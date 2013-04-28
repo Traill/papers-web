@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239748354&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","636"],
+    "title":"Practical - Cole Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=239748354&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://cole-lab.epfl.ch/","http://cole-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177247",
+      "name":"Cole Stewart"
+    },{
+      "url":"http://people.epfl.ch/181734",
+      "name":"Magnet Sophie"
+    },{
+      "url":"http://people.epfl.ch/180776",
+      "name":"Pojer Florence"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"An introduction to antibacterials[br/]Teach steps in drug discovery[br/]",
+      "Content":"Students will learn how antibiotics work and what approaches are currently being used to find new ones.  This will include whole cell screens, target-based screens, structure-based drug design.[br/]",
+      "Keywords":"Antibacterials, susceptibility testing, assay development, crystallography[br/]",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students.  Note also that doctoral students from the Cole laboratory cannot take this course. Access is limited to 4 students. [br/]",
+      "Required prior knowledge":"Training in microbiology/biochemistry[br/]"
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Practical - Cole Lab",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://cole-lab.epfl.ch/","http://cole-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177247",
+      "name":"Cole Stewart"
+    },{
+      "url":"http://people.epfl.ch/181734",
+      "name":"Magnet Sophie"
+    },{
+      "url":"http://people.epfl.ch/180776",
+      "name":"Pojer Florence"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students.  Note also that doctoral students from the Cole laboratory cannot take this course. Access is limited to 4 students. [br/][br/]URL: http://cole-lab.epfl.ch/[br/]",
+      "Contenu":"Students will learn how antibiotics work and what approaches are currently being used to find new ones.  This will include whole cell screens, target-based screens, structure-based drug design.[br/]",
+      "Mots clés":"Antibacterials, susceptibility testing, assay development, crystallography[br/]",
+      "Prérequis":"Training in microbiology/biochemistry[br/]",
+      "Objectifs d'apprentissage":"An introduction to antibacterials[br/]Teach steps in drug discovery[br/]"
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Practical - Cole Lab",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":8
+    }
+  }
+}

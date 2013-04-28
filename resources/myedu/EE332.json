@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772662&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","332"],
+    "title":"Electronic circuits and systems II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772662&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104903",
+      "name":"Décurnex André"
+    },{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Duplicated lecture notes, slide copies, recent technical articles",
+      "Required prior knowledge":"Electronic circuits and systems I",
+      "Content":"Study of electronic circuits and systems[br/][br/][b]1. A/D and D/A Conversion : [/b]Introduction, definitions, analog to digital conversion, digital to analog conversion[br/][br/][b]2. Phase-Locked Loops (PLL) : [/b]Basic schematics, transfer function, applications, transient behavior, basic functional building blocks of a PLL, examples[br/][br/][b]3. Stability of Negative-Feedback Amplifiers :[/b] Stability criteria, analytical and graphical methods, frequency compensation[br/][br/][b]4. PLL-based frequency synthesis :[/b] PLL with integer division, P/P+1 division and fractional division[br/][br/][b]5. DDS (Direct Digital Synthesis) frequency synthesis[/b][br/]",
+      "Type of teaching":"Ex cathedra with exercises",
+      "Learning outcomes":"Acquiring skills in understanding, design and use of electronic circuits and systems, either discrete or integrated. Emphasis is put on applications in the field of telecommunications"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electronic circuits and systems II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104903",
+      "name":"Décurnex André"
+    },{
+      "url":"http://people.epfl.ch/105540",
+      "name":"Kayal Maher"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Circuits et Systèmes Electroniques I",
+      "Bibliographie et matériel":"Notes de cours polycopiées, copies de transparents, articles techniques récents",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"Etude de circuits et systèmes électroniques[br/][br/][b]1. Conversion A/N et N/A : [/b] introduction, définitions, conversion numérique/analogique, conversion analogique/numérique[br/][br/][b]2. Boucles à verrouillage de phase ou Phase-Locked Loops (PLL) :[/b] étude générale de PLL, applications de la PLL, comportement transitoire de la PLL, blocs fonctionnels constituant une PLL, exemples[br/][br/][b]3. Stabilité des amplificateurs à réaction négative : [/b]diagramme de Nyquist et critère de Nyquist, étude de la stabilité par la méthode des lieux de racines, étude de la stabilité sur la base du diagramme de Bode, compensation en fréquence[br/][br/][b]4. Synthèse de fréquences à PLL :[/b] boucles avec diviseur entier, diviseur P/P+1, division fractionnaire[br/][br/][b]5. Synthèse de fréquence par DDS (Direct Digital Synthesis)[/b]",
+      "Forme du contrôle":"Ecrit",
+      "Objectifs d'apprentissage":"Maîtriser la compréhension, la conception et la mise en oeuvre des circuits et systèmes électroniques, sous forme discrète ou intégrée. L'accent est mis sur les applications dans le domaine des télécommunications"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Circuits et systèmes électroniques II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

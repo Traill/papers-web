@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230666900&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","426"],
+    "title":"Artificial photosynthesis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230666900&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106763",
+      "name":"Zakeeruddin Shaik Mohammed"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Dye sensitized solar cell (DSC) is a new low-cost technology that converts sunlight directly to the electricity. The focus of the course will be to understand the operating principle of DSC with going in details of their mechanistic process involved in detail. ",
+      "Content":"Design and synthesis of efficient sensitizers for DSC and the influence of ligands on the energetics of sensitizers  in tuning the spectral response.[br/]Laser flash photolysis studies to understand the kinetic aspects of DSC, dye regeneration and recombination processes.[br/]Solar conversion efficiency measurements and analysis of devices with electrochemical impedance spectroscopy. [br/]Interface engineering by using co-adsorbing molecules to passivate the surface states. Influence of surface modification on the fermi level of titania and the photovoltaic performance of devices.[br/]Various types of redox electrolytes will be discussed, emphasizing more on the iodide triiodide redox couple. The role of solvents on the performance of device and the use of solvent free ionic liquid electrolytes in DSC. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Artificial photosynthesis",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106763",
+      "name":"Zakeeruddin Shaik Mohammed"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"Design et synthèse de sensibilisant efficace en CSC et l'influence du ligand sur la réponse énergétique en fonction des modifications spectrales. [br/]Etude de photolyses par flash laser pour la compréhension des aspects cinétiques des CSC, de la régénération du colorant et des processus de recombinaison.[br/]Mesures de l'efficacité de conversion solaire et analyse de systèmes par spectroscopie par impédance électrochimique.[br/]Engineering de l'interface par des molécules co-adsorbantes pour passiver l'état de surface. Influence des modifications de surface sur le niveau de Fermi de titanate et performance photovoltaïque du système.[br/]Différents types d'électrolytes redox seront traités avec un accent sur le couple redox iode/triiode. Le rôle du solvant sur les performances du système et l'utilisation de solvants sans électrolytes de liquides ioniques en CSC.",
+      "Objectifs d'apprentissage":"Les cellules solaires à colorant (CSC) sont une nouvelle technologie à bas coûts qui convertit l'énergie solaire directement en électricité. Le cours se concentrera sur les principes opérationnels des CSC avec une étude détaillée des processus méchanistiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Artificial photosynthesis",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

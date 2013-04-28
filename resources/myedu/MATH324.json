@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354379488&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","324"],
+    "title":"Homotopie et homologie",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354379488&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to present and study in detail two important homotopy invariants of topological spaces: the homotopy and homology groups of a space. ",
+      "Content":"1. Elements of category theory[br/]2. The homotopy relation[br/]3. H-spaces and co-H-spaces[br/]4. Puppe sequences[br/]5. Cofibrations and fibrations[br/]6. Introduction to CW-complexes[br/]7. Homology of CW-complexes[br/]8. The Blakers-Massey theorem",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom",
+      "Prerequisite for":"Master-level courses in topology and K-theory",
+      "Required prior knowledge":"Topology I, II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Homotopie et homologie",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-79160-1&amp;con_lng=ENG\" target=\"blank\">Algebraic topology / Allen Hatcher</a>\". Year:2006. ISBN:978-0-521-79160-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95450-3&amp;con_lng=ENG\" target=\"blank\">Algebraic topology from a homotopical viewpoint / Marcelo Aguilar, Samuel Gitler, Carlos Prieto</a>\". Year:2002. ISBN:0-387-95450-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105396",
+      "name":"Hess Bellwald Kathryn"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Topologie I, II",
+      "Bibliographie et matériel":"[b]Algebraic Topology[/b], A. Hatcher, Cambridge University Press, 2002.[br/][br/][b]Algebraic Topology from a Homotopical Viewpoint[/b], M. Aguilar, S. Gitler et C. Prieto, Springer Verlag 2002.",
+      "Forme d'enseignement":"Cours ex cathedra, exercices en salle",
+      "Contenu":"1. Eléments de la théorie des catégories[br/]2. La notion d'homotopie[br/]3. H-espaces et co-H-espaces[br/]4. Puppe sequences[br/]5. Cofibrations et fibrations[br/]6. Introduction aux CW-complexes[br/]7. Homologie de CW-complexes[br/]8. Le théorème de Blakers-Massey",
+      "Préparation pour":"Cours de topologie et de K-théorie au niveau master",
+      "Objectifs d'apprentissage":"Le but de ce cours est de présenter et d'étudier en profondeur deux invariants homotopiques importants d'espaces topologiques : les groupes d'homotopie et d'homologie d'un espace."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Homotopie et homologie",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-79160-1&amp;con_lng=FRE\" target=\"blank\">Algebraic topology / Allen Hatcher</a>\". Année:2006. ISBN:978-0-521-79160-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-387-95450-3&amp;con_lng=FRE\" target=\"blank\">Algebraic topology from a homotopical viewpoint / Marcelo Aguilar, Samuel Gitler, Carlos Prieto</a>\". Année:2002. ISBN:0-387-95450-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

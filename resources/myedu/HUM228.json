@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2805785&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","228"],
+    "title":"Musical studies",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2805785&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/106792",
+      "name":"Zwicky Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Musical studies",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/106792",
+      "name":"Zwicky Claude"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Ce cursus particulier offre à des étudiant-e-s engagé-e-s dans des études en musique à un haut niveau dans un conservatoire ou HEM la possibilité de faire reconnaître l'équivalence partielle de cette formation afin d'obtenir un allégement de la charge de travail SHS. Cette équivalence est accordée à partir de la 1ère ou encore 2e année Bachelor pour l'entier du cursus SHS, sur la base d'un dossier à remettre au Secrétariat du programme [b]pour le 31 août[/b].[br/][br/]Détails et conditions sur le site web SHS (http://shs.epfl.ch), page \"Organisation\".[br/][br/][b][red]ATTENTION[/b]: seuls peuvent s'inscrire à cette option les étudiant-e-s dont la candidature a été dûment acceptée![/red]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Études musicales",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

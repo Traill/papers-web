@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353831231&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","429"],
+    "title":"Information Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353831231&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/124002",
+      "name":"Riboni Stefano"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"90% final individual exam (open books)[br/]10% participation, exercises, team works",
+      "Bibliography and material":"- Essentials of Business Processes and Information Systems, Simha R. Magal & Jeffrey Word, Wiley, 2009.[br/]- Introduction to Information Systems: Supporting and Transforming Business, Efraim Turban & R. Kelly Rainer, Wiley, 2010 (2nd Edition).",
+      "Required prior knowledge":"None",
+      "Content":"Starting from informational needs of a company, we will see how to identify and model information flows. We will then look at all the different existing types of packaged Information Systems, to point out their structure, functionnalities, as well as their strengths and weaknesses.[br/]With a starting focus on internally-managed informations, we will look at ERP, WMS and MES systems, Reporting and Business Intelligence applications, as well as Document Management and Workflow systems.[br/]Looking then at inter-company or company-customers interactions, we will approach CRM and APS systems, as well as e-Commerce and e-Business infrastructures.[br/]All these systems will be put in perspective from what an appropriate IS strategy should be, in support to business objectives, to all the operational value of using the appropriate softwares and technologies (RFID, Bar-Codes, voice recognition, ...).[br/]",
+      "Keywords":"Information Systems, ERP, BI, CRM, e-Business.",
+      "Type of teaching":"The course will combine classic lectures and more active learning methods as Case Studies and Team Works. Students will regularly have to put in practice the theoretical knowledge acquired. Some practitioners will possibly be invited to illustrate the concepts, notions and tools presented.",
+      "Learning outcomes":"The main pedagogical objectives of the course are:[br/][li]to understand the strategical value of Information Systems[br/][li]to model a company's information management needs[br/][li]to identify the best adapted Information Systems to support business strategy[br/][li]to learn the best practices in manaing IS-related projects"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information Systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-23059-6&amp;con_lng=ENG\" target=\"blank\">Essentials of business processes and information systems / by Simha R. Magal, Jeffrey Word</a>\". Year:2009. ISBN:978-0-470-23059-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-23357-3&amp;con_lng=ENG\" target=\"blank\">Introduction to information systems : international student version / R. Kelly Rainer Jr., Efraim Turban</a>\". Year:2010. ISBN:978-0-470-23357-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/124002",
+      "name":"Riboni Stefano"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Aucun",
+      "Bibliographie et matériel":"- Essentials of Business Processes and Information Systems, Simha R. Magal & Jeffrey Word, Wiley, 2009.[br/]- Introduction to Information Systems: Supporting and Transforming Business, Efraim Turban & R. Kelly Rainer, Wiley, 2010 (2nd Edition).",
+      "Mots clés":"Systèmes d'Information, ERP, BI, CRM, e-Business.",
+      "Forme d'enseignement":"Le cours combinera des cours classiques avec des méthodes de pédagogie active telles que des études de cas et des travaux de groupes. Les étudiants seront régulièrement amenés à mettre en pratique les notions théoriques présentées. Des intervenants externes seront éventuellement invités à venir présenter l'application des concepts vus en cours.",
+      "Contenu":"En partant des besoins informationnels d'une entreprise, nous allons voir comment identifier et modéliser les flux d'information. Nous parcourrons ensuite les différents types de Systèmes d'Information, en mettant en évidence leur structure, fonctionnalités, avantages et limitations.[br/]En commençant par les informations internes à l'entreprise, nous verrons les systèmes ERP, WMS et MES, les applications de Reporting et Business Intelligence, ainsi que les systèmes de Gestion Documentaire et de Workflow.[br/]Nous étendant ensuite aux interactions inter-entreprises et entre entreprise et clients, nous approcherons les systèmes CRM et APS, ainsi que les infrastructures de e-Commerce et e-Business.[br/]L'ensemble de ces systèmes seront mis en perspective, de la bonne adaptation de la stratégie informatique aux objectifs stratégiques de l'entreprise à tous les gains apportés aux processus opérationnels par le bon usage des logiciels et technologies (RFID, codes-barres, reconnaissance vocale, ...) les mieux adaptés.[br/]",
+      "Forme du contrôle":"90% examen individuel final (avec documents)[br/]10% participation, exercices, Travaux de groupe",
+      "Objectifs d'apprentissage":"Les principaux objectifs du cours sont:[br/][li]de comprendre la valeur stratégique des Systèmes d'Information (SI)[br/][li]de modéliser les besoins informationnels d'une entreprise[br/][li]d'identifier les SI les mieux adaptés à supporter la stratégie de l'entreprise[br/][li]d'apprendre les meilleures pratiques de gestion de projets informatiques"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Information Systems",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-23059-6&amp;con_lng=FRE\" target=\"blank\">Essentials of business processes and information systems / by Simha R. Magal, Jeffrey Word</a>\". Année:2009. ISBN:978-0-470-23059-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-23357-3&amp;con_lng=FRE\" target=\"blank\">Introduction to information systems : international student version / R. Kelly Rainer Jr., Efraim Turban</a>\". Année:2010. ISBN:978-0-470-23357-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

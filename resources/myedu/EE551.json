@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24335285&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","551"],
+    "title":"Image communication",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24335285&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control",
+      "Bibliography and material":"Polycopié distribué au cours.",
+      "Prerequisite for":"Semester projects, master thesis projects and doctoral thesis",
+      "Required prior knowledge":"Introduction to signal processing, Image processing",
+      "Content":"[b]Recall[/b][br/]Basics of rate-distortion theory, basics of quantization, basics of DPCM, basics of Fourier and wavelets transforms.[br/][br/][b]Image and video compression[/b][br/]Overview of image compression, multiresolution and wavelet coding, still image compression standards, motion estimation, overview of video coding, video compression standards.[br/][br/][b]Multimedia Networking[/b][br/]Basics of networking, multimedia networking protocols, multimedia traffic and network infrastructures. [br/][br/][b]Image Communication[/b][br/]Internet video streaming, wireless video streaming, error resilient image communication, rate control, content distribution networks.",
+      "Type of teaching":"Ex cathedra with exercices in classroom and using computer",
+      "Learning outcomes":"This course is devoted to the principles of image and video coding and communication, and the relative technologies. It emphasizes the source coding principles of image and video, for efficient storage or transmission. It also covers the methods of distribution of video streams over Internet or wireless networks."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image communication",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction au traitement des signaux,Traitement d'images",
+      "Bibliographie et matériel":"Polycopié distribué au cours.",
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe et sur ordinateur",
+      "Contenu":"[b]Rappels[/b][br/]Rappels de théorie de débit-distorsion, quantification, codage différentiel, transformées de Fourier et ondelettes.[br/][br/][b]Compression d'image et de séquences d'images[/b][br/]Compression d'image, codage multi-résolution et par ondelettes, standards de compression d'image, estimation de mouvement, codage vidéo, standards de compression vidéo.[br/][br/][b]Multimédia sur réseau de paquets[/b][br/]Bases de réseaux d'ordinateurs, protocoles de communication multimédia, traffic multimédia et infrastructures des réseaux.[br/][br/][b]Transmission d'images[/b][br/]Transmission de flux vidéo sur Internet, transmission de vidéo sur réseaux wireless, transmission robuste d'images, contrôle de débit, réseaux de distribution de contenu.",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Projets de semestre, projet de master et thèse de doctorat",
+      "Objectifs d'apprentissage":"Ce cours est dédié à l'enseignement des principes de codage et de transmission adaptés aux images ou aux séquences d'images. Plus particulièrement, il décrit l'application des principes de codage de source aux images, en vue d'un stockage ou une transmission efficace. Il couvre aussi les méthodes de distribution de flux vidéo sur Internet et sur réseaux sans fil."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Image communication",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=235424693&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["HUM","233"],
+    "title":"Film history and theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=235424693&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196401",
+      "name":"Turquety Benoît"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Film history and theory",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196401",
+      "name":"Turquety Benoît"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"[b]Enseignant :[/b][br/]Benoît Turquety MER (Section d'histoire et esthétique du cinéma, UNIL).",
+      "Mots clés":"Cinéma, technologie, esthétique.",
+      "Forme d'enseignement":"Cours magistral avec analyse collective de séquences filmiques.",
+      "Contenu":"[b]Techniques et formes[/b][br/][br/]L'enseignement propose une étude de l'évolution parallèle des modes de production cinématographiques et des films, depuis la fin du 19e siècle jusqu'à nos jours. L'examen des procédés techniques et des manières de faire est systématiquement problématisé par une analyse d'oeuvres parmi les plus révélatrices de l'époque ou du système considéré, ainsi que des discours les concernant. On considère notamment l'histoire des caméras, du son, de la couleur, mais aussi des méthodes de productions ou du montage.",
+      "Forme du contrôle":"Examen écrit en fin de semestre (série de questions).",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant est capable de :[br/]- analyser une séquence de film d'un point de vue technique et formel. [br/]- replacer dans l'histoire des formes cinématographiques.[br/]- repérer, selon les films, les caractéristiques principales de leur mode de réalisation.[br/]- analyser les enjeux théoriques d'un procédé technique, et d'une histoire technologique.[br/]- articuler l'histoire du cinéma avec l'histoire générale de la culture (art, économie, technologie...)."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Histoire et théorie du cinéma",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

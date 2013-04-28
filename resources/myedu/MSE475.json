@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774517&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","475"],
+    "title":"Biomimetic materials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774517&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"MX",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105649",
+      "name":"Lemaître Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Articles spécialisés",
+      "Prerequisite for":"Professional occupation, PhD thesis",
+      "Required prior knowledge":"Inorganic chemistry, Organic and polymer chemistry, Dispersed materials[br/]",
+      "Content":"INTRODUCTION[br/][li]Biomimetic materials: definitions.[br/][li]Characteristics of materials of biological origin.[br/][li]Interest for biomimetic materials.[br/]PART I. MICROSTRUCTURE AND GENESIS OF BIOGENIC MATERIALS [br/][li]Spatial organization of biogenic materials.[br/][li]Formation processes of biogenic materials.[br/]PART II. SYNTHESIS OF BIOMIMETIC MATERIALS:BASIC PRINCIPLES [br/][li] Mineral-organic interactions.[br/][li]Dynamics of biomineralization processes.[br/]PART III. EXAMPLES AND APPLICATIONS OF BIOMIMETIC MATERIALS [br/][li]Formation of inorganic-polymer composites.[br/][li]Bio-inspired synthesis of monodispersed nano-particles.",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"[br/][li]\tDefine the concepts of \"Biogenic\" and \"Biomimetic\" materials.[br/][li]\tPresent the main characteristics of biogenic materials using concrete examples.[br/][li]\tPresent and discuss the processes of biogenic and biomimetic materials formation.[br/][li]\tPresent and discuss new materials processing routes inspired by the living world."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biomimetic materials",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105649",
+      "name":"Lemaître Jacques"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Chimie inorganique, Chimie organique et des polymères, Matériaux divisés",
+      "Bibliographie et matériel":"Articles spécialisés",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"INTRODUCTION[br/][li] Définition des matériaux biomimétiques.[br/][li]Caractéristiques des matériaux d'origine biologique.[br/][li]Intérêt des matériaux biomimétiques.[br/]PARTIE I. MICROSTRUCTURE ET GENESE DES MATERIAUX BIOGENIQUES [br/][li]Organisation spatiale des matériaux biogéniques.[br/][li]Processus de formation des matériaux biogéniques.[br/]PARTIE II. SYNTHESE DE MATERIAUX BIOMIMETIQUES:PRINCIPES [br/][li]Interactions minéral-organique.[br/][li]Dynamique des processus de biominéralisation.[br/]PARTIE III. EXEMPLES ET APPLICATIONS DE MATERIAUX BIOMIMETIQUES [br/][li]Formation de composites minéraux à matrice polymérique.[br/][li]Synthèse bio-inspirée de nano-particules monodisperses.",
+      "Forme du contrôle":"examen écrit ",
+      "Préparation pour":"Activité professionnelle, thèse de doctorat",
+      "Objectifs d'apprentissage":"[br/][li]Définir les concepts de matériau \"biogénique\" et \"biomimétique\".[br/][li]\tPrésenter les principales caractéristiques des matériaux biogéniques, à l'aide d'exemples concrets.[br/][li]\tPrésenter et discuter les processus de formation de matériaux biogéniques et biomimétiques.[br/][li]\tPrésenter et discuter des nouvelles voies d'élaboration de matériaux inspirées par le monde vivant."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Matériaux biomimétiques",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

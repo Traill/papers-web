@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4651611&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","596"],
+    "title":"Engineering internship (master in Life Sciences and Technology)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4651611&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Engineering internship (master in Life Sciences and Technology)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    },{
+      "url":"http://people.epfl.ch/162095",
+      "name":"Zufferey Romain"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cette description ne concerne pas l'année 2010-2011 mais les étudiants qui rentreront en cycle de Master en année académique 2011-2012.",
+      "Prérequis":"Bachelor in Life Sciences and Technology ",
+      "Bibliographie et matériel":"According to the undertaken internship",
+      "Contenu":"Full time (usually during the summer break before Ma1 or Ma3) professional activity within a relevant company, asking for the specific competence of a future engineer in Life Sciences & Technologies or Bioengineering.  The internship has to be approved by the EPFL.",
+      "Forme du contrôle":"Internship Report and oral defense",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"[li]Internships in a company become an integral part of EPFL students' program. This is an excellent opportunity for our students to get a crucial insight into the day-to-day workflow in industry and also offer to the company their broad expertise and skills in the Life Sciences and in Engineering. It should thus reach the following objectives: [br/][br/][li]Immersion in a productive professional environment;[br/][li]Familiarization to the company's processes and workflow;[br/][li]Sensitization to team work;[br/][li]Acquisition of the requirements of the skills asked to an engineer. "
+    },
+    "practical":{
+      "total_hours":320
+    },
+    "language":"Français",
+    "title":"Stage d'ingénieur (master en Sciences et technologie du vivant)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

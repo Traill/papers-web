@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499374219&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","477"],
+    "title":"Dynamic coordination",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499374219&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105245",
+      "name":"Gillet Denis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The objective is to enable students to design advanced solutions for the coordination of distributed dynamic devices and systems, such as sensor and actuator networks, production or distribution energy systems, as well as intelligent transportation systems.",
+      "Content":"Selected chapters in dynamic coordination:[br/][br/][li]Modeling of complex dynamic devices and[br/]systems using state-space representation[br/][li]Sensors and actuators networks (Internet of[br/]Things)[br/][li]Analysis of dynamic properties of complex[br/]systems[br/][li]Detection and state estimation[br/][li]Optimal control with and without actuator[br/]constraints [br/][li]Navigation functions for dynamic coordination[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamic coordination",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105245",
+      "name":"Gillet Denis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Lecture and teamwork",
+      "Contenu":"Chapitres choisis en coordination dynamique:[br/][br/][li]Modélisation d'éléments et de systèmes dynamiques complexes sous forme de représentation d'état[br/][li]Réseaux de capteurs et d'actuateurs (Internet of Things)[br/][li]Analyse des propriétés dynamiques de systèmes complexes[br/][li]Détection et estimation d'état[br/][li]Commande optimale avec et sans contraintes sur les actuateurs[br/][li]Fonctions de navigation pour la coordination dynamique[br/]",
+      "Forme du contrôle":"Written and teamwork defense",
+      "Bibliographie et matériel":"Notes de cours",
+      "Objectifs d'apprentissage":"L'objectif du cours est que les étudiants soient capables de mettre en ½uvre des solutions avancées de coordination de systèmes dynamiques complexes distribués comme des réseaux de capteurs et d'actuateurs, des systèmes de production ou de distribution d'énergie, ainsi que des systèmes de transport intelligent.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Dynamic coordination",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

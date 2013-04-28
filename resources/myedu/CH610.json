@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322545&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","610"],
+    "title":"Inorganic chemistry \"Fundamentals and properties\"",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4322545&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective of this course is to present and discuss important recent contributions in the field of inorganic chemistry with an emphasis on fundamental aspects and properties.  This will be achieved by student literature seminars based on publications, which are selected by the instructors, emanating from the last 12 months.  The seminar will be preceded by an introduction to the topic by the instructors and followed by a group discussion.",
+      "Content":"The topics covered in this course will include recent advances in the field of: [br/]1. Bioinorganic chemistry (e.g. structure/function correlations and reaction mechanisms.[br/]2. Organometallic systems (e.g. non-linear optical properties and novel electronic and magnetic properties). [br/]3. Supramolecular coordination chemistry (e.g. new functional materials by self-assembly, the adaptive behavior of dynamic systems). [br/]4. Inorganic/organometallic polymers. [br/]5. Theoretical methods (e.g. the development of new methods and their application to inorganic/organometallic systems). [br/]The specific content will be chosen by the instructors and will be renewed every year. The ethics of publishing will also be discussed.",
+      "Keywords":"Inorganic, Organometallic, Materials, Catalysis, Spectroscopy, Theory.",
+      "Required prior knowledge":"Masters level knowledge of inorganic/organometallic chemistry."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry \"Fundamentals and properties\"",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/145138",
+      "name":"Severin Kay"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The topics covered in this course will include recent advances in the field of: [br/]1. Bioinorganic chemistry (e.g. structure/function correlations and reaction mechanisms.[br/]2. Organometallic systems (e.g. non-linear optical properties and novel electronic and magnetic properties). [br/]3. Supramolecular coordination chemistry (e.g. new functional materials by self-assembly, the adaptive behavior of dynamic systems). [br/]4. Inorganic/organometallic polymers. [br/]5. Theoretical methods (e.g. the development of new methods and their application to inorganic/organometallic systems). [br/]The specific content will be chosen by the instructors and will be renewed every year. The ethics of publishing will also be discussed.",
+      "Mots clés":"Inorganic, Organometallic, Materials, Catalysis, Spectroscopy, Theory.",
+      "Prérequis":"Masters level knowledge of inorganic/organometallic chemistry.",
+      "Objectifs d'apprentissage":"The objective of this course is to present and discuss important recent contributions in the field of inorganic chemistry with an emphasis on fundamental aspects and properties.  This will be achieved by student literature seminars based on publications, which are selected by the instructors, emanating from the last 12 months.  The seminar will be preceded by an introduction to the topic by the instructors and followed by a group discussion."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Inorganic chemistry \"Fundamentals and properties\"",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

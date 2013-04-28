@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705566&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","112(c)"],
+    "title":"Computer-aided engineering II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705566&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"IN",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6831","http://moodle.epfl.ch/course/view.php?id=6831"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104608",
+      "name":"Boulic Ronan"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"The course Informatique I is a prerequisite. The percentages of the grades are given in proportion of the global grade obtained when integrating also the grades of the course Informatique I given in the first semester.",
+      "Form of examination":"Throughout semester [br/]2 written tests, 1 mini-project with 3 hand-in of report (28%)[br/]",
+      "Bibliography and material":"C. Delannoy, programmer en Langage C, Eyrolles ISBN 978-2-212-12546-7, 5ième édition 2009",
+      "Prerequisite for":"Course, exercises and projects with computer",
+      "Required prior knowledge":"Computer-aided engineering I",
+      "Content":"C language (thematic topics)[br/]   Files[br/]   Structures (structuring data)[br/]   Dynamic memory allocation [br/]                  (The correct use of pointers)[br/]                  (List)[br/]   Modular programming (opaque type)[br/]                  (Principle of Separation of Concerns)[br/]   Preprocessor[br/][br/]Development of interactive applications[br/]  Element of 2D graphics (OPEN-GL)[br/]  Event-based programming (GLUT)[br/]  Graphical User interface (GLUI)[br/][br/]",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Learning outcomes":"This course provides the complementary knowledge to master the development of  robust modular application in C language (C99 standard). The principle of Object Oriented programming is briefly introduced (with C++). It is organized with a mini-project.[br/][br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computer-aided engineering II",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-212-12546-7&amp;con_lng=ENG\" target=\"blank\">Programmer en langage C : cours et exercices corrigés / Claude Delannoy</a>\". Year:2009. ISBN:978-2-212-12546-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=6831","http://moodle.epfl.ch/course/view.php?id=6831"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104608",
+      "name":"Boulic Ronan"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"le cours d'Informatique I est un prérequis. Les pourcentages des notes sont relatifs à la note globale obtenue en intégrant aussi les notes obtenues au cours d'informatique I.",
+      "Prérequis":"Informatique I",
+      "Bibliographie et matériel":"C. Delannoy, programmer en Langage C, Eyrolles ISBN 978-2-212-12546-7, 5ième édition 2009",
+      "Forme d'enseignement":"Ex cathedra + exercices ",
+      "Contenu":"Langage C  (Thème approfondi )[br/]    Les fichiers [br/]    Les structures (structuration des données)[br/]    La gestion dynamique de la mémoire [br/]        (Le bon usage des pointeurs)[br/]        (Liste)[br/]    La programmation modulaire  (type opaque)[br/]        ( Principe de séparation des fonctionnalités)[br/]    Le préprocesseur[br/][br/]Développement d'application interactive[br/]    Eléments de graphique 2D (OPEN-GL)[br/]    Programmation par événement  (GLUT)[br/]    Interface Graphique Utilisateur (GLUI)",
+      "Forme du contrôle":"Contrôle continu [br/]2 tests écrits (32%), 1 mini-projet avec 3 rendus (28%)[br/]",
+      "Préparation pour":"Cours, laboratoires et projets avec ordinateur ",
+      "Objectifs d'apprentissage":"Ce cours complète les connaissances sur le langage C standard C99, approfondit les thèmes portant sur le développement d'application modulaire robuste, et pose les fondements de l'approche orientée objet (en C++). Il est structuré autour du mini-projet.[br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Informatique II",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-212-12546-7&amp;con_lng=FRE\" target=\"blank\">Programmer en langage C : cours et exercices corrigés / Claude Delannoy</a>\". Année:2009. ISBN:978-2-212-12546-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

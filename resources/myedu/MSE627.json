@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580937032&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","627"],
+    "title":"X-Ray Analysis for thin films",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580937032&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190473",
+      "name":"Dommann Alex"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Advanced X-ray Diffraction methods are applied in strain, defect and deformation analysis on thin films. [br/]The structural properties of the coatings obtained at different substrate temperatures for different chemical compositions will be investigated by X-Ray Diffraction (XRD) techniques. The composition of the layers could also be studied by RBS and ERDA. The complementarily will be discussed.  The phase stability of different phases will be investigated by in-situ high temperatures XRD studies The understanding of the structure will result in an improved thin film production and fabrication.     [br/]",
+      "Content":"Introduction into the relation between physical and structural properties[br/]Introduction into different X-Ray techniques[br/]Examples of successful technological transfer using X-Ray techniques[br/][li]structural properties[br/][li]relation between mechanical, electrical and structural properties [br/][li]coherent and non coherent scattering[br/][li]high resolution X-Ray techniques[br/][li]stress,[br/][li]coatings[br/][li]epitaxial films[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"X-Ray Analysis for thin films",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190473",
+      "name":"Dommann Alex"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"X-Ray Analysis for thin films",
+    "recitation":{
+      "total_hours":10
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

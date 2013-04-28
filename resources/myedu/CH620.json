@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965858768&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","620"],
+    "title":"Efficient Synthetic Routes Towards Bioactive Molecules",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=965858768&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206338",
+      "name":"Cramer Nicolai"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Content":"The following topics will be mainly targeted by this lecture:[br/][li] The concept of synthetic strategy optimization[br/][li] Diversity oriented synthetic approaches[br/][li] Convergent and building block based synthetic tactics[br/][li] Differences in planning of process and discovery routes[br/][li] Application of modern sustainable and efficient catalytic methods in multi-step synthesis",
+      "Keywords":"Natural Products, Disconnection approach, Synthetic efficiency",
+      "Form of examination":"Oral presentation together with oral exam",
+      "Required prior knowledge":"Master EPFL or Equivalent"
+    },
+    "practical":{
+      "total_hours":36
+    },
+    "language":"English",
+    "title":"Efficient Synthetic Routes Towards Bioactive Molecules",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206338",
+      "name":"Cramer Nicolai"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The following topics will be mainly targeted by this lecture:[br/][li] The concept of synthetic strategy optimization[br/][li] Diversity oriented synthetic approaches[br/][li] Convergent and building block based synthetic tactics[br/][li] Differences in planning of process and discovery routes[br/][li] Application of modern sustainable and efficient catalytic methods in multi-step synthesis",
+      "Forme du contrôle":"Oral presentation together with oral exam",
+      "Prérequis":"Master EPFL or Equivalent",
+      "Mots clés":"Natural Products, Disconnection approach, Synthetic efficiency"
+    },
+    "practical":{
+      "total_hours":36
+    },
+    "language":"English",
+    "title":"Efficient Synthetic Routes Towards Bioactive Molecules",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  }
+}

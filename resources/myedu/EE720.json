@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1387121912&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","720"],
+    "title":"Integral equations in Electromagnetics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1387121912&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["lema.epfl.ch","lema.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Content":"Integral equations in Electromagnetics: selected chapters with emphasis in the numerical modelling of planar antennas.[br/][br/]1) Electrostatics as an introductory example: [br/]Electric field and potential of point charges. Differential and integral formulations. Green's function as responses to point sources. Perfect electric conductors, capacitance. Integral equations for electrostatics problems in free space. 2D and 3D problems: specific issues. Dielectric bodies and polarization charges. Integral equations including dielectric media. The particular case of stratified media: spectral domain and associated Green's functions. First encounter with Sommerfeld integrals. Practical implementation of integral equation formulations: the method of moments.[br/]and integral equations for printed antennas. Singular behaviors, singular integrals. Numerical evaluation of Sommerfeld integrals: the Weighted Averages algorithm[br/]Practical examples: calcul of capacitances[br/][br/]2) A short detour through magnetostatics and quasistatics.[br/]Integral equations for divergenceless current flows. Blending 2D and 3D problems. Equivalent and excess inductances.  [br/]Practical examples: equivalent circuit of printed line discontinuites.[br/][br/]3) Integral equation in engineering electrodynamics (full-wave problems).[br/]Maxwell equations: Differential and integral formulations. Vector and scalar (mixed potentials). Generalization to magnetic sources. Full-wave integral equations: equivalence field theorems, possible formulations (surface and volume formulations, electric and magnetic field, combined field, mixed potential). Field and potential singularities. Stratified media in full-wave problems: spectral/space domains and the equivalent transmission line model. Sommerfeld integrals and the complex spectral plane. Surface and space waves as poles and branch points in the complex plane. Boxed and shielded problems as periodical problems. Infinite series representation of periodic Green's functions. The summation by parts procedure. Method of moment implementations. Basis and test functions, entire domain basis and macrobasis.[br/]Practical examples: The microstrip patch antenna[br/]",
+      "Keywords":"Electromagnetics, integral equations, Green's functions, stratified media theory",
+      "Form of examination":"Oral presentation[br/]Project report",
+      "Note":"Knowledge in Antenna engineering and Basic Numerical Analysis is helpful but not mandatory[br/]Maximum participants: 20",
+      "Required prior knowledge":"Basic courses in Algebra, Integral&Differential Calculus, Electrodynamics and/or Electromagnetics, "
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Integral equations in Electromagnetics",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["lema.epfl.ch","lema.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Integral equations in Electromagnetics",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

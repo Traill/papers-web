@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1308755179&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","120"],
+    "title":"Complements in programming",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1308755179&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=en",
+    "section":"EL",
+    "program":"SC",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=5681","http://moodle.epfl.ch/course/view.php?id=5681 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111472",
+      "name":"Lecoultre Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course is a continuation of the \"Programming I\" course. It focusses on Object-Oriented Programming (again with C++). Part of the course is also dedicated to conception and programm specification, studied mainly in the framework of a group project aiming at producing from scratch a real (mini-)application. This project, as well as the practical sessions, provide also the opportunity to practically experiment the theoretical[br/]concepts presented in the lectures.[br/][br/]Some of the basic concepts of Computers Sciences and Algorithmics will also be introduced.[br/][br/]",
+      "Content":"Fundamentals of Object-Oriented Programming: object, class,[br/]encapsulation, methods, inheritance, polymorphism, multiple inheritance.[br/][br/]Usual tools libraries (STL,...)[br/][br/]Generic programming (templates)[br/][br/]Introduction to basics of Computers Sciences and Algorithmics:[br/]complexity and problems (P and NP), scientific computation, numerical problem solving.[br/][br/]All theoretical concepts introduced in the lectures are experienced during practical sessions on computers (Unix workstations).[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, practical work on computer",
+      "Form of examination":"1- Written exam[br/]2- Intermediary graded series[br/]3- A group project (2 persons)[br/]",
+      "Required prior knowledge":"Introduction to programming"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Complements in programming",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=5681","http://moodle.epfl.ch/course/view.php?id=5681 "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111472",
+      "name":"Lecoultre Marc"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction à la programmation",
+      "Bibliographie et matériel":"Polycopié des notes de cours ; livre(s) de référence indiqué(s) en début de semestre",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur",
+      "Contenu":"Fondements de l'approche objet: structure de classe, encapsulation, méthodes, héritage, polymorphisme, héritage multiple.[br/][br/]Bibliothèques usuelles d'outils (STL,...)[br/][br/]Programmation générique (templates)[br/][br/]Approfondissements thématiques :[br/]- complexité et classes de problèmes (P et NP) ;[br/]- calcul scientifique ;[br/]- méthodes de résolution de problèmes.[br/][br/]Les concepts théoriques introduits lors des cours magistraux seront mis en pratique dans le cadre d'exercices sur machines et par le biais de la réalisation d'un projet.[br/]",
+      "Forme du contrôle":"1- Examen écrit[br/]2- Série notée intermédiaire[br/]3- Project de groupe (2 pers.)[br/]",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est d'approfondir les connaissances théoriques et pratiques présentées dans le cours Informatique I.[br/][br/]L'accent sera mis sur l'approche par objets à l'aide du langage C++. Une part du cours sera également dédiée à la conception et spécification de programmes, en partie grâce à la réalisation d'une mini-application sous la forme d'un projet de groupe, qui permettra également la mise en pratique effective des notions introduites en cours.[br/][br/]Certains des concepts de base de l'informatique et de l'algorithmique seront également abordés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Compléments de programmation",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

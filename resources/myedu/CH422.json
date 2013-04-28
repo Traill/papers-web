@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129833984&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","422"],
+    "title":"Catalyst design for synthesis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129833984&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/123171",
+      "name":"Laurenczy Gabor"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The goal of the course will be to provide an understanding of the methods for making organic compounds using transition metal catalysts. The design process for developing superior catalysts to those currently in use will be explored and methods to recycle homogeneous catalysts evaluated.",
+      "Content":"[br/][li] Organometallic chemistry: revision of basic ideas including structure and bonding and the implications this has on reactivity of an organic ligand coordinated to a metal centre.[br/][br/][li] A description of the reactions involved in homogeneous catalysis, with an emphasis on the essential features required to predict which type of reactions can take place.[br/][br/][li] General classification of different types of catalysts and their industrial relevance/importance.[br/][br/][li] With an emphasis on the mechanistics the following types of reactions will be studied: hydrogenation, carbonylation, hydroformylation, isomerisation, metathesis (ring opening and ring closing), carbon-carbon coupling (e.g. Heck, Suzuki and Stille reactions). [br/][br/][br/][li] Ligand design, i.e. modification of ligands in order to produce more efficient and selective catalysts, will be discussed. Enan-tioselective ligands that give optically pure products will also be considered.[br/][br/][br/][li] Methods to immobilise homogeneous catalysts in alternative sol-vents (biphasic catalysis) will be explored with an emphasis on the strategies available and how to modify the catalyst to operate under the different conditions.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Catalyst design for synthesis",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    },{
+      "url":"http://people.epfl.ch/123171",
+      "name":"Laurenczy Gabor"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[li] Chimie organométallique: révision des principes de bases com-prenant la structure et la liaison ainsi que les implications sur la réactivité d'un ligand organique lié à un centre métallique. [br/][br/][li] Une description des réactions impliquées dans la catalyse homo-gène, avec un accent sur les points essentiels exigés pour prédire quel type de réactions a lieu.[br/][br/][li] Une classification générale des différents types de catalyseurs et leurs applications industrielles.[br/][br/][li] En mettant l'accent sur le mécanisme, les réactions suivantes seront étudiées : hydrogénation, carbonylation, hydroformylation, isomérisation, métathèse (ouverture de cycle et fermeture de cycle), couplage carbone-carbone (par exemple les réactions de Heck, Suzuki et Stille).[br/][br/][li] La conception de ligand, c'est-à-dire la modification de ligands afin de former des catalyseurs plus efficaces et sélectifs sera discutée.  Les ligands énantiosélectifs qui donnent des produits optiquement purs seront aussi présentés.[br/][br/][li] Les méthodes pour immobiliser les catalyseurs homogènes dans des solvants alternatifs (catalyse biphasique) seront explorées et en particulier les stratégies disponibles ainsi que les méthodes de modification d'un catalyseur pour fonctionner sous différentes conditions.",
+      "Forme du contrôle":"Examen écrit",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Chimie organométallique\"",
+      "Bibliographie et matériel":"Publications récentes, livres organométalliques",
+      "Objectifs d'apprentissage":"Le but de ce cours est de fournir une compréhension des méthodes utilisées pour préparer des composés organiques en utilisant des catalyseurs de métaux de transitions. Le procédé d'élaboration de catalyseurs plus performant que ceux actuellement utilisés sera discuté. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Catalyst design for synthesis",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

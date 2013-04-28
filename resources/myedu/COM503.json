@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771473&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","503"],
+    "title":"Performance evaluation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771473&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://perfeval.epfl.ch","http://perfeval.epfl.ch"]],
+    "instructors":[],
+    "lab":null,
+    "credits":7,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"With continuous control",
+      "Bibliography and material":"See web site",
+      "Required prior knowledge":"A first course in probability + programming",
+      "Content":"[b]Methodology[/b]A Performance Evaluation Methodology. The scientific method. Dijkstra and Occam's principle.[br/][b]Statistics and Modeling.[/b][br/]Stochastic modeling, why and how. Comparing systems using sampled data. Regression models. Factorial analysis. Stochastic load and system models. Self-similarity. Application to traffic models used in the Internet. Load forecasting. The Box-Jenkins method.[br/][b]Practicals.[/b] [br/]Using a statistics package (Matlab). Measurements. Discrete event simulation. Stationarity and Steady State. Analysis of simulation results. Perfect Simulations.[br/][b]Elements of a Theory of Performance.[/b]Performance of systems with waiting times. Utilization versus waiting times. Operational laws. Little's formula. Forced flows.law. Stochastic modeling revisited. The importance of the viewpoint. Palm calculus. Application to Simulation Performance patterns in complex systems. Bottlenecks. Congestion phenomenon. Performance paradoxes.[br/][br/][b]Mini-Project[/b] proposed by student. ",
+      "Type of teaching":"Lectures + labs + miniproject",
+      "Learning outcomes":"Performance Evaluation is often the critical part in evaluating the results of a research project. Many of us are familiar with simulations, but it is often difficult to address questions like[br/][li] should I eliminate the beginning of the simulation in order to wait until the system stabilizes ?[br/][li] I would like to fit an explanatory model to my datea, I was told to use least squares for that; is that the right thing to do ? Why ?[br/][li] should I eliminate the beginning of the simulation in order to wait until the system stabilizes ?[br/][li] I simulate a random way point model but the average speed in my simulation is not as expected. What happened?[br/][li] the reviewers of my paper complained that I did not provide confidence intervals. What is that ? How do I get them ?\t [br/]These and other questions are the topic of the Performance Evaluation lecture. You will be able to evaluate the performance of computer and communication systems and master the theoretical foundations of performance evaluation and the corresponding software packages. This is a master level course for master and PhD students."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Performance evaluation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://perfeval.epfl.ch","http://perfeval.epfl.ch"]],
+    "instructors":[],
+    "lab":null,
+    "credits":7,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Premier cours de probabilité + savoir programmer",
+      "Bibliographie et matériel":"See web site",
+      "Forme d'enseignement":"Leçons + TPs + mini-projet",
+      "Contenu":"[b]Méthodologie[/b] d'évaluation de performance. La méthode scientifique[br/][b]Statistiques et modélisation.[/b][br/]Modélisation stochastique. Comparer des systèmes. Modèles de régression. Analyse factorielle. Prévision[br/][b]TPs[/b] [br/]Package de calcul et de modélisation (matlab). Mesures. Simulation à événements discrets. Analyse des résultats. Simulation parfaite.[br/][b]Elements de théorie de la performance.[/b][br/]Systèmes à attente. Utilisation et temps d'attente. Lois opérationnelles. Formule de Little. Flux forces. L'importance du point de vue. Calcul de Pal. Patterns. Goulots d'étranglement. Phénomènes de congestion. Paradoxes.[br/][br/][b]Mini-projetct[/b] proposé par l'étudiant(e).",
+      "Forme du contrôle":"Avec contrôle continu",
+      "Objectifs d'apprentissage":"L'évaluation de performance est souvent une partie délicate lors de l'évaluation des résultat d'un projet. Il est souvent difficile de répondre à des questions telles que [br/][li] Pourquoi dois-je supprimer le début de la simulation et attendre une stabilisation? [br/][li] Pourquoi utiliser les moindres carrés pour ajuster un modèle aux résultats de mesure ?[br/][li] Je simule un modèle de mobilité mais la vitesse moyenne me semble incompatible avec mes hypothpses. Pourquoi ?[br/][li] On me demande des intervalles de confiance. Qu'est-ce ? Comment les obtenir ?[br/]Ces questions, et bien d'autre encore, sont l'objet de ce cours. Vous apprendrez les méthodes et des outils qui s'appliquent à l'évaluation de performance de systèmes informatiques et de communications."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Performance evaluation",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

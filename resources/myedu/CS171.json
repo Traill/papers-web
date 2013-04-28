@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776592&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","171"],
+    "title":"Logic systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776592&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158881",
+      "name":"Kluter Ties Jan Henderikus"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The students will acquire some [i]systematic methods[/i] in order to design and analyze digital electronic circuits, as well as gain some [i]practical experience[/i] in the implementation, the wiring and the debugging of  this kind of circuits.[br/]",
+      "Content":"Combinational circuit representation.[br/][br/]Logical function simplification.[br/][br/]Exclusive-OR simplification.[br/][br/]Flip-flops.[br/][br/]Counters.[br/][br/]Synchronous sequential circuits.[br/][br/]Finit state Machines[br/][br/]Technology[br/][br/]Programmable logic circuits.[br/]",
+      "Type of teaching":"Course - integrated laboratory",
+      "Form of examination":"Theoretical test (75%)[br/]Practical test   (25%)",
+      "Bibliography and material":"Volume V du Traité d'Electricité: \"Analyse et synthèse des systèmes logiques\" (D. Mange). lslwww.epfl.ch/staff/stauffer: \"Cours de systèmes logiques\". manuel d'utilisation des logidules (D. Mange, A. Stauffer) "
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Logic systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-045-2&amp;con_lng=ENG\" target=\"blank\">Analyse et synthèse des systèmes logiques / par Daniel Mange</a>\". Year:2004. ISBN:2-88074-045-2</li><li>\"Travaux pratiques de systèmes logiques : manuel d'utilisation des logidules / Daniel Mange, André Stauffer; éd.: Laboratoire de systèmes logiques de l'Ecole polytechnique fédérale de Lausanne\". Year:1981</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158881",
+      "name":"Kluter Ties Jan Henderikus"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours - laboratoire intégré",
+      "Contenu":"Modes de représentation des systèmes combinatoires.[br/][br/]Simplification des fonctions logiques.[br/][br/]Simplification OU-exclusive.[br/][br/]Bascules bistables.[br/][br/]Compteurs.[br/][br/]Systèmes séquentiels synchrones.[br/][br/]Machine d'états finis.[br/][br/]Technologie.[br/][br/]Circuits logiques programmables.[br/]",
+      "Forme du contrôle":"Test théorique (75%)[br/]Test pratique  (25%)",
+      "Bibliographie et matériel":"Volume V du Traité d'Electricité: \"Analyse et synthèse des systèmes logiques\" (D. Mange)",
+      "Objectifs d'apprentissage":"Acquisition par les étudiants d'un certain nombre de [i]méthodes systématiques[/i] permettant la conception et l'analyse de systèmes électroniques digitaux, ainsi que l'apprentissage d'un certain [i]savoir-faire[/i] dans la réalisation pratique, le câblage et le dépannage des systèmes en question."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Systèmes logiques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-045-2&amp;con_lng=FRE\" target=\"blank\">Analyse et synthèse des systèmes logiques / par Daniel Mange</a>\". Année:2004. ISBN:2-88074-045-2</li><li>\"Travaux pratiques de systèmes logiques : manuel d'utilisation des logidules / Daniel Mange, André Stauffer; éd.: Laboratoire de systèmes logiques de l'Ecole polytechnique fédérale de Lausanne\". Année:1981</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

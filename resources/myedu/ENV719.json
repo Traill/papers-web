@@ -1,0 +1,94 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412902878&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","719"],
+    "title":"Localization and Navigation Methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412902878&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190010",
+      "name":"Botteron Cyril"
+    },{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    },{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    },{
+      "url":"http://people.epfl.ch/126005",
+      "name":"Skaloud Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Note":"http://moodle.epfl.ch (To be open later) ",
+      "Form of examination":"Project Report 30%, Lab reports 30%, Oral exam 40% (half of which is the project defense)[br/][br/]Oral exam: From the main (project) topic and 1 other topic. Once the lecturing part of course is completed, students select a project from one of the 5 presented topics. Students are orally examined on this topic and on another minor topic. The latter is selected randomly and announced to the student at time of project selection.  [br/]",
+      "Required prior knowledge":"Least-square adjustment; course Navigation techniques recommended[br/]",
+      "Content":"Week 1: Satellite positioning (Prof. Bertrand Merminod): Satellite orbit motion, Kepler's laws, broadcast and precise ephemeris; Description of GPS signal structure and derivation of observables; Inventory of error sources, random and non-random effects; Derivation of mathematical models for absolute and differential positioning; Estimation of the position and its precision based on least-square principle analysis; Overview of GNSS. [br/]Lab assignments: Absolute GPS positioning with and without approximation.[br/][br/]Week 2: Wireless location and state-space estimation (Dr. Cyril Botteron): Fundamentals of radio-frequency propagation and positioning; Time and angle observables and associated error sources; Kalman filtering applied to kinematic positioning; Location with wireless computer network; Ultra-wide band positioning principles; Outdoor and indoor personal location, asset tracking. [br/]Lab assignment: Kalman Filtering in kinematic positioning.[br/][br/]Week 3: Trajectory and attitude determination with INS/GPS (Dr. Jan Skaloud): Inertial sensors, inertial systems; Linear dynamical systems, stochastic differential equations; Inertial strapdown mechanization equations in (i,e,n) frames; INS strapdown error equations and calibration states; Alignment models; Redundant IMU configurations; Prediction, filtering, smoothing and calibration.[br/]No lab assignments.[br/][br/]Week 4: Trajectory and attitude determination via optical positioning and dynamic networks (Dr. Jan Skaloud): Colinearity condition for LiDAR, line and frame optical sensors; Sensor models and observations, feature matching; Principle of integrated sensor orientation; Concept of time dependent networks (DN); DN solution strategy and structural issues; Formulation of GPS/INS case in DN; mNumerical and practical issues.[br/]Lab assignment: GPS/INS/LiDAR integration via DN in 2D.[br/][br/]Week 5: Localization and Navigation in Mobile Robotics (Prof. Alcherio Martinoli): Overview of localization techniques in mobile robotics  (off-board/on-board; absolute/relative); Basic kinematic models (differential drive, Ackerman steering vehicles); Odometry; Feature-based localization; Kalman filtering and particle filtering techniques applied to mobile robots; Multi-robot localization; Fundamental of navigation (path planning, landmark-based navigation).[br/]No lab assignments[br/]",
+      "Keywords":"Navigation, Localization, Kalman Filtering, Estimation Methods",
+      "Learning outcomes":"Transmitting to the student state-of-the art methods and research topics in localization and navigation algorithms and systems. [br/][br/]Students will be able to put in practice their knowledge in a course project and by three labs involved in the course.[br/][br/]Lectures are concetrated to the first 5 weeks of the semester. Over the last 9 weeks students  work on an individual project and on completing the labs. They will give a final presentation and report for the project and report for the labs.[br/][br/]"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Localization and Navigation Methods",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch","http://moodle.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190010",
+      "name":"Botteron Cyril"
+    },{
+      "url":"http://people.epfl.ch/105782",
+      "name":"Martinoli Alcherio"
+    },{
+      "url":"http://people.epfl.ch/105831",
+      "name":"Merminod Bertrand"
+    },{
+      "url":"http://people.epfl.ch/126005",
+      "name":"Skaloud Jan"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"http://moodle.epfl.ch (To be open later)",
+      "Contenu":"Week 1: Satellite positioning (Prof. Bertrand Merminod): Satellite orbit motion, Kepler's laws, broadcast and precise ephemeris; Description of GPS signal structure and derivation of observables; Inventory of error sources, random and non-random effects; Derivation of mathematical models for absolute and differential positioning; Estimation of the position and its precision based on least-square principle analysis; Overview of GNSS. [br/]Lab assignments: Absolute GPS positioning with and without approximation.[br/][br/]Week 2: Wireless location and state-space estimation (Dr. Phillip Tomé): Fundamentals of radio-frequency propagation and positioning; Time and angle observables and associated error sources; Kalman filtering applied to kinematic positioning; Location with wireless computer network; Ultra-wide band positioning principles; Outdoor and indoor personal location, asset tracking. [br/]Lab assignment: Kalman Filtering in kinematic positioning.[br/][br/]Week 3: Trajectory and attitude determination with INS/GPS (Dr. Jan Skaloud): Inertial sensors, inertial systems; Linear dynamical systems, stochastic differential equations; Inertial strapdown mechanization equations in (i,e,n) frames; INS strapdown error equations and calibration states; Alignment models; Redundant IMU configurations; Prediction, filtering, smoothing and calibration.[br/]No lab assignments.[br/][br/]Week 4: Trajectory and attitude determination via optical positioning and dynamic networks (Dr. Jan Skaloud): Colinearity condition for LiDAR, line and frame optical sensors; Sensor models and observations, feature matching; Principle of integrated sensor orientation; Concept of time dependent networks (DN); DN solution strategy and structural issues; Formulation of GPS/INS case in DN; mNumerical and practical issues.[br/]Lab assignment: GPS/INS/LiDAR integration via DN in 2D.[br/][br/]Week 5: Localization and Navigation in Mobile Robotics (Prof. Alcherio Martinoli): Overview of localization techniques in mobile robotics  (off-board/on-board; absolute/relative); Basic kinematic models (differential drive, Ackerman steering vehicles); Odometry; Feature-based localization; Kalman filtering and particle filtering techniques applied to mobile robots; Multi-robot localization; Fundamental of navigation (path planning, landmark-based navigation).[br/]No lab assignments[br/]",
+      "Mots clés":"Navigation, Localization, Kalman Filtering, Estimation Methods",
+      "Prérequis":"Least-square adjustment; course Navigation techniques recommended[br/]",
+      "Objectifs d'apprentissage":"Transmitting to the student state-of-the art methods and research topics in localization and navigation algorithms and systems. [br/][br/]Students will be able to put in practice their knowledge in a course project and by three labs involved in the course.[br/][br/]Lectures are concetrated to the first 5 weeks of the semester. Over the last 9 weeks students  work on an individual project and on completing the labs. They will give a final presentation and report for the project and report for the labs.[br/][br/]Evaluation: [br/]Project defense 20%, Project Report 30%, Lab reports 20%, Oral exam 30% [br/][br/]Oral exam: From the main (project) topic and 1 other topic. Once the lecturing part of course is completed, students select a project from one of the 5 presented topics. Students are orally examined on this topic and on another minor topic. The latter is selected randomly and announced to the student at time of project selection.  [br/]"
+    },
+    "practical":{
+      "total_hours":20
+    },
+    "language":"English",
+    "title":"Localization and Navigation Methods",
+    "recitation":{
+      "total_hours":6
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":30
+    }
+  }
+}

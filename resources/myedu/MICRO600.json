@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127419007&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","600"],
+    "title":"Emerging Nanopatterning Methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127419007&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145781",
+      "name":"Brugger Jürgen"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course will provide a comprehensive overview of advanced lithography methods and nanotechnologies. It will show the current state-of-the-art and limits of conventional lithography and describes in detail present day engineering methods to realize sub-micron and nanostructures on surfaces by top-down and bottom-up methods. The course presents examples of recent R&D breakthroughs as well as examples of industrial applications in the field of surface nanotechnology in general, information tech-nologies and life-sciences in particular.[br/]",
+      "Content":"[li]Lithography and pattern transfer.[br/][li]Limits and challenges of classical high-resolution patterning methods.[br/][li]Soft-lithography / microcontact printing[br/][li]Nano-Imprint Lithography (NIL)[br/][li]Nanostencil lithography[br/][li]Scanning probe based lithography[br/][li]Liquid dispensing[br/][li]Self-assembly[br/][li]Nanopattern-enabled applications (electronic/photonic/biology/data storage)[br/]",
+      "Keywords":"Microfabrication, nanofabrication, lithography, MEMS/NEMS, sensors, actuators, scanning probe systems[br/]",
+      "Note":"Part of this course is given by external guest speakers.[br/]",
+      "Required prior knowledge":"Introductory course to materials science or microfabrication technologies. Basic chemistry, physics and electronics.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Emerging Nanopatterning Methods",
+    "recitation":{
+      "total_hours":3
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":11
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/145781",
+      "name":"Brugger Jürgen"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Part of this course is given by external guest speakers.",
+      "Contenu":"[li]Lithography and pattern transfer.[br/][li]Limits and challenges of classical high-resolution patterning methods.[br/][li]Soft-lithography / microcontact printing[br/][li]Nano-Imprint Lithography (NIL)[br/][li]Nanostencil lithography[br/][li]Scanning probe based lithography[br/][li]Liquid dispensing[br/][li]Self-assembly[br/][li]Nanopattern-enabled applications (electronic/photonic/biology/data storage)[br/]",
+      "Mots clés":"Microfabrication, nanofabrication, lithography, MEMS/NEMS, sensors, actuators, scanning probe systems",
+      "Prérequis":"Introductory course to materials science or microfabrication technologies. Basic chemistry, physics and electronics.",
+      "Objectifs d'apprentissage":"This course will provide a comprehensive overview of advanced lithography methods and nanotechnologies. It will show the current state-of-the-art and limits of conventional lithography and describes in detail present day engineering methods to realize sub-micron and nanostructures on surfaces by top-down and bottom-up methods. The course presents examples of recent R&D breakthroughs as well as examples of industrial applications in the field of surface nanotechnology in general, information tech-nologies and life-sciences in particular.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Emerging Nanopatterning Methods",
+    "recitation":{
+      "total_hours":3
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":11
+    }
+  }
+}

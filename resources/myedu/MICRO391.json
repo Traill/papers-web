@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580272486&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","391"],
+    "title":"Interfaces in biology and nanoscience",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1580272486&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209207",
+      "name":"Roke Sylvie"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Interfaces in biology and nanoscience",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-375182-9&amp;con_lng=ENG\" target=\"blank\">Intermolecular and surface forces / Jacob N. Israelachvili</a>\". Year:2011. ISBN:978-0-12-375182-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209207",
+      "name":"Roke Sylvie"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"[b]1 Introduction to and numerical aspects of interfaces[/b][br/]  * Why interfaces? [br/]  * Overview of surface / interface studies and a brief history of the study[br/]    of interfacial phenomena.[br/]  * Ideal gas: Number of atoms in bulk and on surface, planar surfaces,[br/]    quantum dots / proteins[br/]  * Gas pressure, density, speed: impact of gas onto a surface and the need for[br/]    using vacuum [keep surface clean, probes need access (ions, electrons, )][br/]  * Impurity issues[br/][br/][b]2 Driving forces in biological systems[/b][br/]  * Dispersive forces, [br/]  * Electrical forces, [br/]  * Solvent-induced forces (water)[br/][br/][b]3 Electrical aspects of surfaces[/b][br/]  * Electrical double layer, [br/]  * Debye length, [br/]  * Zeta potential[br/][br/][b]4 Langmuir films[/b] [br/]  * 2D gas: states of the films, properties of films (pressure, optical)[br/][br/][b]5 Surfaces in 3 dimensions[/b][br/]  * States in solution: gas, micelles, microemulsions, emulsions, stability, driving[br/]    forces,[br/]  * Revision of effects of impurities, and difficulty in probing, Head group vs curvature[br/]    effects, uses in medication.[br/][br/][b]6 Techniques to probe interfaces[/b][br/]  * Surface tension, Contact Angle, Electrophoresis, STM, AFM, TEM, SEM, RAIRS,[br/]  * Ellipsometry, Nonlinear optics.[br/][br/][b]7 State of the art: What will[lig]\"you\" do in the future?[/b][br/]  * Potential for developments in devices, medication, biology[br/]  * wraps up with beginning of course.",
+      "Bibliographie et matériel":"Jacob N. Israelachvili. Intermolecular and Surface Forces, Third Editio; Publication Date: June 27, 2011 | ISBN-10: 0123919274",
+      "Objectifs d'apprentissage":"The student will learn the key chemical and physical properties needed to understand  interfaces. The course will treat fundamental interactions (such as covalent, Coulomb, polar and dispersive interactions) from a molecular basis to the combined interaction, needed to understand interfacial phenomena. Special attention will be given to compounds and interfaces occurring in biological systems and the emerging utilization of interfaces in medical technologies and nano-science. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Interfaces in biology and nanoscience",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-375182-9&amp;con_lng=FRE\" target=\"blank\">Intermolecular and surface forces / Jacob N. Israelachvili</a>\". Année:2011. ISBN:978-0-12-375182-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

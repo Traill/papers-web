@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","251(c)"],
+    "title":"Numerical analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179245&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Content":"-\tStability, condition number and convergence of numerical methods.[br/]-\tPolynomial interpolation and least squares approximation.[br/]-\tNumerical integration.[br/]-\tDirect methods for the solution of linear systems.[br/]- Iterative methods for the solution of linear and nonlinear systems.[br/]-\tNumerical approximation of ordinary differential equations.[br/]-\tIntroduction to MATLAB/OCTAVE.",
+      "Type of teaching":"Ex cathedra lecture, exercises in the classroom and on the computer",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Analysis. Linear Algebra. Programming basics."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Numerical analysis",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1675-0&amp;con_lng=ENG\" target=\"blank\">Calcul scientifique : cours, exercices corrigés et illustrations en MATLAB et Octave / by Alfio Quarteroni, Paola Gervasio, Fausto Saleri</a>\". Year:2010. ISBN:978-88-470-1675-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-12429-7&amp;con_lng=ENG\" target=\"blank\">Scientific computing with MATLAB and Octave / Alfio Quarteroni, Fausto Saleri, Paola Gervasio</a>\". Year:2010. ISBN:978-3-642-12429-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121157",
+      "name":"Deparis Simone"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe et sur ordinateur",
+      "Contenu":"-\tStabilité, conditionnement et convergence de problèmes numériques.[br/]-\tApproximation polynomiale par interpolation et moindres carrés.[br/]-\tIntégration numérique.[br/]-\tMéthodes directes pour la résolution de systèmes linéaires.[br/]-\tMéthodes itératives pour systèmes d'équations linéaires et non linéaires.[br/]-\tÉquations différentielles ordinaires.[br/]-\tIntroduction à l'utilisation du logiciel MATLAB/OCTAVE.",
+      "Forme du contrôle":"Examen écrit",
+      "Prérequis":"Analyse. Algèbre linéaire. Bases de programmation",
+      "Bibliographie et matériel":"Calcul scientifique : cours, exercices corrigés et illustrations en MATLAB et OCTAVE / Alfio Quarteroni, Fausto Saleri, 2006.[br/]Scientific computing with MATLAB and Octave / Alfio Quarteroni, Fausto Saleri, Paola Gervasio, 2010."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse numérique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-88-470-1675-0&amp;con_lng=FRE\" target=\"blank\">Calcul scientifique : cours, exercices corrigés et illustrations en MATLAB et Octave / by Alfio Quarteroni, Paola Gervasio, Fausto Saleri</a>\". Année:2010. ISBN:978-88-470-1675-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-642-12429-7&amp;con_lng=FRE\" target=\"blank\">Scientific computing with MATLAB and Octave / Alfio Quarteroni, Fausto Saleri, Paola Gervasio</a>\". Année:2010. ISBN:978-3-642-12429-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

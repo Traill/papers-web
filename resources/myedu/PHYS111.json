@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784634759&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","111"],
+    "title":"General physics (English) I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=784634759&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"The course concludes with a written exam. The bonus eligibility rules will be specified at the beginning of the course[br/]",
+      "Prerequisite for":"General physics II",
+      "Required prior knowledge":"Math level required for \"maturité fédérale\", see on the left the hyperlinks and the book, indicative of the level of math appropriate for a good start at EPFL. [br/][]",
+      "Content":"The course may contain, but not exclusively, the following elements : [br/][br/][br/][b]Mechanics[/b][br/][br/][b]Introduction and kinematics[/b][br/]Reference frames, trajectories, velocity, acceleration, Cartesian, spherical and cylindrical coordinates.[br/][br/][b]Dynamics of the point mass and solid body[/b][br/]Momentum, Newton's laws, fundamental forces, empirical forces and constraints. Oscillatory motion, Angular momentum.[br/][br/][b]Work, power, energy[/b][br/]Kinetic energy, potential energy, conservation laws, gravitational motion. Collisions.[br/]",
+      "Type of teaching":"Lectures + exercises",
+      "Learning outcomes":"Give the student the basic notions that will allow him or her to have a better understanding of physical phenomena. Acquire the capacity to analyze quantitatively the consequences of these effects with appropriate theoretical tools."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"General physics I (English)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-32057-9&amp;con_lng=ENG\" target=\"blank\">Physics / David Halliday, Robert Resnick, Kenneth S. Krane ; with the assistance of Paul Stantley</a>\". Year:2002. ISBN:0-471-32057-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-157849-4&amp;con_lng=ENG\" target=\"blank\">Physics for scientists and engineers with modern physics / Douglas C. Giancoli</a>\". Year:2009. ISBN:978-0-13-157849-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188499",
+      "name":"Leiman Petr"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Niveau mathématique de la maturité fédérale, voir par exemple [br/]http://www.vsmp.ch/crm/cat.htm[br/]http://www.vsmp.ch/crp/informations/nouvelle_maturite_2.html[br/]et « Savoir-faire en maths», PPUR[br/]",
+      "Bibliographie et matériel":"\"Physics for scientists and Engineers\"  Douglas C. Giancoli, publisher: Pearson[br/]\"Physics\" David Halliday, Robert Resnick and Kenneth S. Krane, publisher: Wiley",
+      "Forme d'enseignement":"Cours  + exercices en salle",
+      "Contenu":"L'enseignement peut contenir, mais pas exclusivement, les éléments suivants :[br/][br/][b]Mécanique[/b][br/][br/][b]Introduction et Cinématique[/b] [br/]Référentiels. Trajectoire. Vitesse. Accélération. Coordonnées cartésiennes, cylindriques et sphériques.[br/][br/][b]Dynamique du point matériel[/b]\t[br/]Quantité de mouvement. Lois de Newton. Forces fondamentales, empiriques et de liaison. Mouvement oscillatoire. Moment cinétique.[br/][] [br/][b]Travail, puissance, énergie[/b] [br/]Energies cinétique, potentielle, mécanique. Lois de conservation. Mouvements gravitationnels. Chocs. [br/]",
+      "Forme du contrôle":"Le cours se conclut par un examen écrit. Toute autre forme de contrôle sera spécifiée par l'enseignant au début du cours.  ",
+      "Préparation pour":"Physique générale II",
+      "Objectifs d'apprentissage":"Donner à l'étudiant les notions de base nécessaires à la compréhension des phénomènes physiques. Etre capable de prévoir quantitativement les conséquences de ces phénomènes avec des outils théoriques appropriés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Physique générale I (anglais)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-32057-9&amp;con_lng=FRE\" target=\"blank\">Physics / David Halliday, Robert Resnick, Kenneth S. Krane ; with the assistance of Paul Stantley</a>\". Année:2002. ISBN:0-471-32057-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-157849-4&amp;con_lng=FRE\" target=\"blank\">Physics for scientists and engineers with modern physics / Douglas C. Giancoli</a>\". Année:2009. ISBN:978-0-13-157849-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

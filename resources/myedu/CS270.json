@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771839&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","270"],
+    "title":"Computer architecture I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771839&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lap2.epfl.ch/courses/archord1/","http://lap2.epfl.ch/courses/archord1/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101954",
+      "name":"Ienne Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Labs 20%, final exam 80%",
+      "Bibliography and material":"Wakerly, Digital Design, 3rd Ed., Prentice Hall, 2000[br/]Patterson and Hennessy, Computer Organization & Design, 3rd Ed., Morgan Kaufmann, 2005[br/]",
+      "Prerequisite for":"Computer Architecture II[br/]Advanced Computer Architecture[br/]",
+      "Required prior knowledge":"Logic Systems I and II",
+      "Content":"[li]\tComplex digital systems in VHDL[br/][li]\tBasic components of a computer[br/][li]\tInstruction Set Architectures[br/][li]\tAssembly-level programming[br/][li]\tMulti-cycle implementation of processors[br/][li]\tCaches[br/][li]\tVirtual memory",
+      "Type of teaching":"Courses and labs",
+      "Learning outcomes":"Master the design of complex digital system at the register transfer level using logic synthesis tools and simulators. Understand the fundamentals of modern computer organization and in particular basic processor architecture and assembly level programming."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Computer architecture I",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374750-1&amp;con_lng=ENG\" target=\"blank\">Computer organization and design : the hardware/software interface / David A. Patterson, John L. Hennessy ; with a contribution by Peter J. Ashenden ... [et al.]</a>\". Year:2012. ISBN:978-0-12-374750-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-186389-4&amp;con_lng=ENG\" target=\"blank\">Digital design : principles and practices / John F. Wakerly</a>\". Year:2006. ISBN:0-13-186389-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lap2.epfl.ch/courses/archord1/","http://lap2.epfl.ch/courses/archord1/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101954",
+      "name":"Ienne Paolo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Systèmes logiques I et II",
+      "Bibliographie et matériel":"John F. Wakerly, Digital design: principles and practices, 4th edition, 2005.[br/]David A. Patterson and John L. Hennessy, Computer organization and design: the hardware/software interface, 4th edition, 2011.[br/]",
+      "Forme d'enseignement":"Cours et travaux pratiques",
+      "Contenu":"[li]\tSystèmes logiques complexes en VHDL[br/][li]\tComposants de base d'un ordinateur[br/][li]\tArchitecture au niveau du répertoire d'instructions[br/][li]\tProgrammation en assembleur[br/][li]\tImplémentation multi-cycle des processeurs[br/][li]\tCaches[br/][li]\tMémoire virtuelle",
+      "Forme du contrôle":"Travaux pratiques 20%,  examen final 80%[br/]",
+      "Préparation pour":"Architecture des ordinateurs II[br/]Architecture des ordinateurs avancée[br/]",
+      "Objectifs d'apprentissage":"Concevoir au niveau RTL de systèmes digitaux complexes en utilisant des outils de synthèse logique et des simulateurs. Comprendre l'organisation des ordinateurs modernes et en particulier l'architecture des processeurs et la programmation assembleur."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Architecture des ordinateurs I",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-374750-1&amp;con_lng=FRE\" target=\"blank\">Computer organization and design : the hardware/software interface / David A. Patterson, John L. Hennessy ; with a contribution by Peter J. Ashenden ... [et al.]</a>\". Année:2012. ISBN:978-0-12-374750-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-186389-4&amp;con_lng=FRE\" target=\"blank\">Digital design : principles and practices / John F. Wakerly</a>\". Année:2006. ISBN:0-13-186389-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

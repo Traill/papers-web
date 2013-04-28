@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132147064&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","481"],
+    "title":"Biomechanics of the cardiovascular system",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=132147064&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106482",
+      "name":"Stergiopulos Nikolaos"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To present the students with the concepts and principles of Cardiac and Vascular Biomechanics. [br/]To describe the physical phenomena observed in the cardiovascular system and to present the models used for their interpretation.",
+      "Content":"[b]Introduction[/b][br/]Physics of living matter and biomedical engineering; anatomy and physiology of the cardiovascular system[br/][b]Biophysics of the blood[/b][br/]Blood rheology; mechanical properties of red blood cells.[br/][b]Cardiac mechanics[/b][br/]Mechanical activity of the heart; biomechanics of the cardiac muscle; Pressure-volume diagram; Frank-Starling laws of the heart; Varying elastance principle; Pump function graphs; Cardiac energetics; Arterio-ventricular coupling; Windkessel effect.[br/][b]Hemodynamics and biomechanics of the arterial system[/b][br/]Structure, passive and active mechanical properties of the arterial wall; pulsatile blood flow in a rigid tube, model of Womersley; propagation of pressure and flow waves in an elastic tube; reflection and attenuation of waves in arteries; physical models of the arterial system; blood-vessel wall interactions.[br/][b]Microcirculation[/b][br/]Hemodynamics in capillaries; exchange of substances and liquids across the capillary wall.[br/][b]Biomechanics of the venous system[/b][br/]Biomechanics of the venous wall; flow in collapsible tubes; \"Waterfall\" phenomenon."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomechanics of the cardiovascular system",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106482",
+      "name":"Stergiopulos Nikolaos"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices dirigés en classe",
+      "Contenu":"[b]Introduction[/b][br/]Physique de la matière vivante et génie médical; éléments d'anatomie et de physiologie du système cardiovasculaire [br/][b]Propriétés physiques du sang[/b][br/]Constituants et rhéologie du sang; propriétés mécaniques des globules rouges[br/][b]Biomécanique cardiaques[/b][br/]Activité mécanique du coeur; biomécanique du muscle cardiaque; Diagramme pression-volume ; Lois Frank-Starling; Principe d'élastance variée ; « pump-function » ; Energie et puissance cardiaque ; interaction coeur-système artériel ; effet Windkessel[br/][b]Hémodynamique et biomécanique du système artériel[/b][br/]Structure, propriétés biomécaniques passives et actives de la paroi artérielle; écoulement pulsé dans un tube rigide, modèle de Womersley; propagation des ondes de pression et de vitesse dans un tube élastique; atténuation et réflexions d'ondes dans un réseau artériel; modèles du système artériel; interactions sang-paroi artérielle[br/][b]Microcirculation[/b][br/]Hémodynamique des capillaires; mécanismes de transport de substances[br/][b]Biomécanique du système veineux[/b][br/]Biomécanique de la paroi; écoulement dans un tube collabable; phénomène \"Waterfall\".",
+      "Forme du contrôle":"Examen écrit",
+      "Bibliographie et matériel":"Cours polycopié et corrigés d'exercices",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant aux concepts et méthodes de la biomécanique cardiaque et vasculaire. [br/]Présenter les phénomènes physiques observés dans le système cardio-vasculaire et les modèles utiles à leur interprétation."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomechanics of the cardiovascular system",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

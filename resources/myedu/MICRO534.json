@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=937846233&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","534"],
+    "title":"Advanced MEMS and Microsystems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=937846233&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188690",
+      "name":"Briand Danick"
+    },{
+      "url":"http://people.epfl.ch/190049",
+      "name":"Gautsch Sebastian"
+    },{
+      "url":"http://people.epfl.ch/155722",
+      "name":"Noell Wilfried"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The student will be introduced to the operation principles of advanced micro- and nanosystems and the technology to fabricate them. The student will learn how to transfer a concept of a micro- and nano-device into a real device considering the scaling laws and boundary conditions involved. Everyday applications of MEMS will be explained as well as some of their sophisticated and dedicated usage. The basics of implementation of MEMS into products will be covered.",
+      "Content":"[b]Introduction[/b]: Overview of the different types of MEMS and microsystems. Smart systems and 3D architectures. Current state of the art and trends at the academic and industrial levels. [br/][br/][b]MEMS sensors[/b]: Introduction to motion sensors, 3D accelerometers, gyroscopes, pressure sensors, microphones, resonators, CMOS integration, surface mount devices (SMD), multi-parametric devices.[br/][br/][b]Optical MEMS[/b]: Optical Microsystems for research and industry, display (DMD projector), fiber optical switches and modulators, steering beam mirrors, spatial light modulators, and adaptive optics.[br/][br/][b]Actuators[/b]: Thermal, electromagnetic, electrostatic, piezoelectric: fundamental principles and presentation of MEMS actuating devices. RF-MEMS switches.[br/][br/][b]Power MEMS[/b]: Overview of micro power sources, batteries and solar cells vs. MEMS based devices, micro-fuel cells (PEM, SOFC), micro-turbines and micro-thrusters, energy harvesting (thermoelectric, vibrational).[br/][br/][b]Polymeric MEMS[/b]: Polymeric technologies for the fabrication of sensors and actuators: materials and fabrication processes.  Polymeric MEMS on rigid, flexible and stretchable substrates. [br/][br/][b]NEMS[/b]: Nano electro mechanical systems and tools to investigate physical, chemical and biological phenomena on the nanoscale."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced MEMS and Microsystems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-5511-5&amp;con_lng=ENG\" target=\"blank\">Fundamentals of microfabrication and nanotechnology / Marc J. Madou</a>\". Year:2012. ISBN:978-1-4200-5511-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-290722-3&amp;con_lng=ENG\" target=\"blank\">Micromachined transducers sourcebook / Gregory T.A. Kovacs</a>\". Year:1998. ISBN:0-07-290722-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188690",
+      "name":"Briand Danick"
+    },{
+      "url":"http://people.epfl.ch/190049",
+      "name":"Gautsch Sebastian"
+    },{
+      "url":"http://people.epfl.ch/155722",
+      "name":"Noell Wilfried"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Capteurs, Technologie des microstructures I",
+      "Bibliographie et matériel":"G.T.A, Kovacs, Micromachined Transducers Sourcebook, McGraw-Hill, 1998.[br/]M. Madou, Fundamentals of Microfabrication, CRC Press, 1998[br/]Stephen Senturia (Editor in chief), MEMS Reference Shelf, Springer, 2010 and later.",
+      "Forme d'enseignement":"Exposés oraux et discussions",
+      "Contenu":"[b]Introduction[/b]: Vue d'ensemble des différents types de MEMS et Microsystèmes. Systèmes intelligents et architectures d'intégration 3D. Etat de l'art actuel et tendances aux niveaux académiques et industriels.[br/][br/][b]Capteurs MEMS[/b]: Introduction aux capteurs de mouvements, accéléromètres 3D, gyroscopes, capteurs de pression, microphones, résonateurs, intégration CMOS  et packaging SMD, capteurs intégrés multiparamétriques.[br/][br/][b]MEMS pour l'optique[/b]: Microsystèmes optiques pour la recherche et l'industrie, écran (projecteur DMD), modulateurs et interrupteurs pour les fibres optiques, miroirs de positionnement de faisceau, modulateurs spatial de lumière, optique adaptive.[br/][br/][b]Actionneurs[/b]: thermique, électromagnétique, électrostatique, piézoélectrique : principes fondamentaux et présentation de réalisation d'actionneurs MEMS. Interrupteurs MEMS RF.[br/][br/][b]MEMS pour l'énergie[/b]: Vue d'ensemble des sources d'énergies miniaturisées, piles et cellules solaires vs. dispositifs MEMS, micro-piles à combustible (PEM, SOFC), micro-turbines et micro-propulseurs, récupérateurs d'énergie microfabriqués (thermique, vibration).[br/][br/][b]MEMS en polymère[/b]: Technologies polymères pour la fabrication de capteurs et actionneurs : matériaux et procédés de fabrication, MEMS polymériques sur substrats rigides, flexible et élastiques.[br/][br/][b]NEMS[/b]: Nanosystèmes électromécaniques et instruments pour l'étude des phénomènes physique, chimique et biologique à l'échelle nanométrique.",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"L'étudiant sera introduit aux principes d'opération des micro- et nano-systèmes avancés et aux technologies utilisées pour leur fabrication. L'étudiant apprendra comment transférer les concepts et principes théoriques de micro- et nano-dispositifs en un dispositif opérationnel en considérant les facteurs d'échelle et les conditions limites impliquées. Les applications courantes des MEMS seront expliquées de même que certaines utilisations plus sophistiquées et particulières. Les bases de l'implémentation de MEMS dans des produits seront traitées."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced MEMS and Microsystems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-5511-5&amp;con_lng=FRE\" target=\"blank\">Fundamentals of microfabrication and nanotechnology / Marc J. Madou</a>\". Année:2012. ISBN:978-1-4200-5511-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-290722-3&amp;con_lng=FRE\" target=\"blank\">Micromachined transducers sourcebook / Gregory T.A. Kovacs</a>\". Année:1998. ISBN:0-07-290722-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

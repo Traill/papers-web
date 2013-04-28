@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1576313429&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","547"],
+    "title":"Design of SIG",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1576313429&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115447",
+      "name":"Buogo Alain"
+    },{
+      "url":"http://people.epfl.ch/105275",
+      "name":"Golay François"
+    },{
+      "url":"http://people.epfl.ch/103773",
+      "name":"Soutter Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Acquisition of knowledge and experience in the design and setup of GIS projects:[br/][br/][li]\tMethodological principles for the conception and design of geographical information systems[br/][li]\tTechnologies and softwares,[br/][li]\tData infrastructures, geoservices[br/]",
+      "Content":"The teaching includes a theoretical part, exposing the fundamentals of GIS project design, illustrated by examples.[br/]A GIS product results from the encounter of a concept and some technical possibilities. It is therefore necessary to have a good picture of the range and variety of available software solutions, in order to propose adequate choices.[br/]The integration of data infrastructures and geoservices is becoming a major added-value of any GIS project.[br/][br/]A GIS design and implementation project, based on the needs of an external  \"customer\" will provide  the background context to test and train the concepts and techniques presented during the lectures. [br/][br/][br/]",
+      "Type of teaching":"Lectures, project, conferences",
+      "Form of examination":"40 % continuous control during the semester (project)[br/]60 % final oral exam (25 min) during the exam session",
+      "Required prior knowledge":"Basic knowledge and skills in GIS and databases[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design of SIG",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115447",
+      "name":"Buogo Alain"
+    },{
+      "url":"http://people.epfl.ch/105275",
+      "name":"Golay François"
+    },{
+      "url":"http://people.epfl.ch/103773",
+      "name":"Soutter Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours, projet, conférences",
+      "Contenu":"Le cours comprend un volet théorique exposant les principes fondamentaux du design de projets SIG, illustré par des exemples de réalisation concrets.[br/]La réalisation d'un SIG résulte de la rencontre entre un concept et des possibilités techniques. Il importe par conséquent d'avoir une bonne idée de l'étendue et de la variété des solutions logicielles existantes pour être en mesure de proposer des choix pertinents.[br/]L'intégration d'infrastructures de données et de géoservices existants va devenir un élément de plus en plus incontournable de tout projet SIG.[br/][br/]Un projet de conception et de mise en ½uvre d'un SIG sur la base de besoins exprimés par un « client » externe à l'école constituera finalement un « banc d'essai » sur lequel exercer les concepts et techniques exposés dans les cours.[br/]",
+      "Forme du contrôle":"40 % contrôle continu pendant le semestre (projet)[br/]60 % épreuve orale (25 min) durant la session d'examen",
+      "Prérequis":"Connaissances et compétences de base en SIG et bases de données",
+      "Objectifs d'apprentissage":"Acquisition de connaissances et expérience de mise en ½uvre pour le design et la réalisation de projets SIG : [br/][br/][li]\tPrincipes méthodologique de conception et de design de systèmes d'information géographiques,[br/][li]\tTechnologies et logiciels,[br/][li]\tInfrastructures de données, géoservices"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Design de SIG",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

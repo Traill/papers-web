@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127424556&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","708"],
+    "title":"Nano CMOS Devices & Technologies for Tera-Bit Circuits and Systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=127424556&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155724",
+      "name":"Skotnicki Thomas Piotr"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course objective is to bridge between the world of technology and that of circuit and system design. It would be useless today to develop a record rapid devices if millions of them are not matching all identical characteristics. Equally useless would be designing a circuit that cannot be realized technologically. Whereas in the past technology was exclusively driven by the quest for performance, it is today driven even more by low power considerations, leakage, parasitics, variability, manufacturability, etc. Therefore, both technologists and designers need to learn about these problems and prepare for developing new solutions. An enormous R&D effort and founds have been invested by the industry to develop new technological and design/system solutions that will be explained, discussed and analyzed in this course.[br/]",
+      "Content":"1.\tpresentation and discussion of technological, physical and circuit/system limitations of the actual CMOS (MOSFET & interconnect scaling, multicore processing, SRAM variability problems,  power dissipation, etc.)[br/]2.\tphysical understanding/simple models of these limitations - their analysis and hints on possible improvements - confrontation with actual industrial practice[br/]3.\tqualitative and quantitative analysis of advanced Bulk technology modules aimed at curing the actual CMOS - HK dielectrics, metal gate, spike annealing, impact on SRAM,  on leakage, on power dissipation, etc. [br/]4.\tanalysis of nano-technologies /device architectures aimed at removing the limitations of the actual CMOS - breakthrough solutions for Tera-Bit circuits - devices down to 5-10nm - Double Gate, FDSOI - multiple core processing, design and layout solutions aiming at improvement in SRAM variability, power dissipation etc.[br/]5.\tCircuit implications (Inverter, Ring Oscillator) and predictions on CMOS Roadmap - what future CMOS will be able to do and what it will not. Acquisition and familiarization with MASTAR - the tool serving for conception of the ITRS CMOS Roadmaps - explanation of the examination project - Design your own CMOS Roadmap ![br/][br/]",
+      "Keywords":"CMOS, Roadmap, ITRS, Tera-Bit, Low Power, Mobile, Multimedia, layout, power management, MOSFET, interconnects, fluctuations, short-channel effects (SCE), quantum effects, SRAM, variability,  power dissipation, gate leakage, drain-induced barrier lowering (DIBL), mobility, H-K dielectrics, metallic gate, ultra-shallow junctions,  Schottky junctions, strained Silicon, SiGe, Ge and GaAs, rotated substrates, FD SOI,  Silicon On Nothing, Double Gate, FinFET devices, 10nm devices, Cross-bar, 3D integration, Beyond CMOS,  Nano-technologies.[br/]",
+      "Note":"this course delivers what a CMOS engineer should really know of technology, devices and circuits[br/]",
+      "Required prior knowledge":"\tBasic knowledge of electrostatics and materials (potential, field, electron flow, diffusion), of MOS transistor (field effect, depletion, inversion), and of basic logic gates (Inverter, NAND, NOR, ring oscillator)[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nano CMOS Devices & Technologies for Tera-Bit Circuits and Systems",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/155724",
+      "name":"Skotnicki Thomas Piotr"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"this course delivers what a CMOS engineer should really know of technology, devices and circuits",
+      "Contenu":"1.\tpresentation and discussion of technological, physical and circuit/system limitations of the actual CMOS (MOSFET & interconnect scaling, multicore processing, SRAM variability problems,  power dissipation, etc.)[br/]2.\tphysical understanding/simple models of these limitations - their analysis and hints on possible improvements - confrontation with actual industrial practice[br/]3.\tqualitative and quantitative analysis of advanced Bulk technology modules aimed at curing the actual CMOS - HK dielectrics, metal gate, spike annealing, impact on SRAM,  on leakage, on power dissipation, etc. [br/]4.\tanalysis of nano-technologies /device architectures aimed at removing the limitations of the actual CMOS - breakthrough solutions for Tera-Bit circuits - devices down to 5-10nm - Double Gate, FDSOI - multiple core processing, design and layout solutions aiming at improvement in SRAM variability, power dissipation etc.[br/]5.\tCircuit implications (Inverter, Ring Oscillator) and predictions on CMOS Roadmap - what future CMOS will be able to do and what it will not. Acquisition and familiarization with MASTAR - the tool serving for conception of the ITRS CMOS Roadmaps - explanation of the examination project - Design your own CMOS Roadmap ![br/][br/]",
+      "Mots clés":"CMOS, Roadmap, ITRS, Tera-Bit, Low Power, Mobile, Multimedia, layout, power management, MOSFET, interconnects, fluctuations, short-channel effects (SCE), quantum effects, SRAM, variability,  power dissipation, gate leakage, drain-induced barrier lowering (DIBL), mobility, H-K dielectrics, metallic gate, ultra-shallow junctions,  Schottky junctions, strained Silicon, SiGe, Ge and GaAs, rotated substrates, FD SOI,  Silicon On Nothing, Double Gate, FinFET devices, 10nm devices, Cross-bar, 3D integration, Beyond CMOS,  Nano-technologies.[br/]",
+      "Prérequis":"\tBasic knowledge of electrostatics and materials (potential, field, electron flow, diffusion), of MOS transistor (field effect, depletion, inversion), and of basic logic gates (Inverter, NAND, NOR, ring oscillator)[br/]",
+      "Objectifs d'apprentissage":"This course objective is to bridge between the world of technology and that of circuit and system design. It would be useless today to develop a record rapid devices if millions of them are not matching all identical characteristics. Equally useless would be designing a circuit that cannot be realized technologically. Whereas in the past technology was exclusively driven by the quest for performance, it is today driven even more by low power considerations, leakage, parasitics, variability, manufacturability, etc. Therefore, both technologists and designers need to learn about these problems and prepare for developing new solutions. An enormous R&D effort and founds have been invested by the industry to develop new technological and design/system solutions that will be explained, discussed and analyzed in this course.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nano CMOS Devices & Technologies for Tera-Bit Circuits and Systems",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":15
+    }
+  }
+}

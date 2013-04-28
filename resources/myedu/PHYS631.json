@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1575025258&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","631"],
+    "title":"Fundamentals of superresolution optical microscopy and Scanning Probe Microscopy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1575025258&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://will be prepared on Moodle","http://will be prepared on Moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162316",
+      "name":"Sekatski Serguei"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course is intended to introduce the fundamentals of Scanning Probe Methods, including both purely methodological (e.g. what are STM probes and AFM cantilevers, scanners, etc.) as well as more fundamental questions (diffraction limit of far-field microscopy, light transmission through subwavelength-size aperture, tunneling phenomenon, etc.) The Program of the course is the following :",
+      "Content":"1.\tSpatial resolution of optical far-field microscopy. Light diffraction and Abbe criterion. Attempts to beat Abbe criterion in the frame of far-field optics: engineering of a pupil function, immersion microscopy, 4pi-microscopy, confocal microscopy and their limitations. [br/][br/]2.\tUltramicroscopy: how to distinguish blue from red (not to mix this problem with the real optical resolution problem!). Its relation with Abbe criterion and modern implementation: Photoactivated Localization Microscopy (PALM), Stochastic Optical Reconstruction Microscopy (STORM). [br/][br/]Stimulation Emission Depletion (STED). Two-photon microscopy and SIM (structured-illumination microscopy).[br/][br/]3.\tNear-field optical microscopy and its modifications (aperture and apertureless approaches). General concept of Scanning Probe Microscopy, piezoelectric scanners. Peculiarities of scanning for SNOM (connection between fiber probe and tuning fork, shear force).[br/][br/]4.\tScanning Tunneling Microscopy. Tunneling phenomenon, tunneling in 1D and 2D/3D cases. Field Electron/Ion Emission Microscopy.[br/][br/]5-6.\tAtomic Force microscopy and its modifications. AFM cantilevers, angular detection methods and their sensitivity. Contact and non-contact imaging modes. How to pass from 3D dithered beam to simple 1D oscillator when discussing AFM results.[br/][br/]7.\tSingle molecule force spectroscopy. Bell-Evans model of the bond breaking under the action of a force. Parallel bonds and bonds in series.[br/]",
+      "Keywords":"far field and near-field microscopy, scanning probe microscopy, superresolution, force spectroscopy",
+      "Form of examination":"Oral and oral presentation",
+      "Required prior knowledge":"The course is of an introductory character (actually almost each topic here deserves its own course) so no specialized knowledge is presupposed from students, just a course of general physics at the level of a Physics Department."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of superresolution optical microscopy and Scanning Probe Microscopy",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://will be prepared on Moodle","http://will be prepared on Moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/162316",
+      "name":"Sekatski Serguei"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1.\tSpatial resolution of optical far-field microscopy. Light diffraction and Abbe criterion. Attempts to beat Abbe criterion in the frame of far-field optics: engineering of a pupil function, immersion microscopy, 4pi-microscopy, confocal microscopy and their limitations. [br/][br/]2.\tUltramicroscopy: how to distinguish blue from red (not to mix this problem with the real optical resolution problem!). Its relation with Abbe criterion and modern implementation: Photoactivated Localization Microscopy (PALM), Stochastic Optical Reconstruction Microscopy (STORM). [br/]        Stimulation Emission Depletion (STED). Two-photon microscopy and SIM (structured-illumination microscopy).[br/][br/]3.\tNear-field optical microscopy and its modifications (aperture and apertureless approaches). General concept of Scanning Probe Microscopy, piezoelectric scanners. Peculiarities of scanning for SNOM (connection between fiber probe and tuning fork, shear force).[br/][br/]4.\tScanning Tunneling Microscopy. Tunneling phenomenon, tunneling in 1D and 2D/3D cases. Field Electron/Ion Emission Microscopy.[br/][br/]5-6.\tAtomic Force microscopy and its modifications. AFM cantilevers, angular detection methods and their sensitivity. Contact and non-contact imaging modes. How to pass from 3D dithered beam to simple 1D oscillator when discussing AFM results.[br/][br/]7.\tSingle molecule force spectroscopy. Bell-Evans model of the bond breaking under the action of a force. Parallel bonds and bonds in series.[br/]",
+      "Mots clés":"far field and near-field microscopy, scanning probe microscopy, superresolution, force spectroscopy",
+      "Prérequis":"The course is of an introductory character (actually almost each topic here deserves its own course) so no specialized knowledge is presupposed from students, just a course of general physics at the level of a Physics Department.",
+      "Forme du contrôle":"Oral and oral presentation",
+      "Objectifs d'apprentissage":"The course is intended to introduce the fundamentals of Scanning Probe Methods, including both purely methodological (e.g. what are STM probes and AFM cantilevers scanners, etc.) as well as more fundamental questions (diffraction limit of far-field microscopy, light transmission through sub wavelength-size aperture, tunneling phenomenon, etc.). The Program of the course is the following.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Fundamentals of superresolution optical microscopy and Scanning Probe Microscopy",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

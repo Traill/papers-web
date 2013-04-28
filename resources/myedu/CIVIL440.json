@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775017&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","440"],
+    "title":"Modelling of energy and transport systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775017&ww_x_anneeAcad=2012-2013&ww_i_section=637843547&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EME-MES",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100959",
+      "name":"Curchod Anne"
+    },{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The students will have acquired the basic knowledge allowing them to develop and assess scenarios and sustainable strategies aiming at meeting medium and long term demand of energy and mobility. The course introduces scenarios and strategies development with application to transport and energy systems as well as decision support models related to techno-economic and environmental evaluation of energy and transport systems.",
+      "Content":"[i]1.\tExamples of scenarios and strategies of transport and energy systems[/i][br/]-\tCases of selected European countries[br/]-\tReview of selected evaluation methods[br/][br/][i]2.\tModeling of energy systems[br/][/i][br/]-\tEvaluation of energy demand for transport systems[br/]-\tAssessment of supply chains[br/]-\tCase of biofuels[br/]-\tCase studies of selected European countries[br/][br/][i]3.\tModeling of transport systems[br/][/i][br/]-\tPrivate transportation - public transportation[br/]-\tModeling demand and network state[br/]-\tTools: EMME/2, Transcad[br/]-\tCase study : analysis of scenarios in the Lausanne region[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modelling of energy and transport systems",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100959",
+      "name":"Curchod Anne"
+    },{
+      "url":"http://people.epfl.ch/105271",
+      "name":"Gnansounou Edgard"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Probabilités et statistiques, Recherche opérationnelle, Etude et analyse des systèmes énergétiques, Systèmes de transports I",
+      "Bibliographie et matériel":"Polycopiés",
+      "Forme d'enseignement":"Ex cathedra, études de cas",
+      "Contenu":"[i]1.\tExemples de scénarios et de stratégies des systèmes Transports et Energie[/i][br/]-\tCas de différents pays européens[br/]-\tRevue de méthodes d'évaluation[br/][br/][i]2.\tModélisation des systèmes énergétiques[/i][br/]-\tEvaluation de la demande d'énergie pour les transports[br/]-\tStratégie d'approvisionnement [br/]-\tCas des biocarburants[br/]-\tEtudes de cas de différents pays Européens[br/][br/][i]3.\tModélisation des systèmes de transports[/i][br/]-       Transports individuels - transports publics[br/]-\tModélisation de la demande et de la charge des réseaux[br/]-\tOutils : EMME/2, Transcad[br/]-\tEtude de cas : analyse de variantes dans la région Lausannoise[br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Systèmes de transports II, Planification intégrée des infrastructures d'énergie",
+      "Objectifs d'apprentissage":"A la fin du cours, l'étudiant doit avoir acquis les connaissances de base en vue de concevoir et d'évaluer des scénarios et stratégies visant à satisfaire la demande d'énergie et de mobilité à moyen et long terme de manière durable. Le cours introduit l'élaboration de scénarios et de stratégies appliquée aux systèmes transports et énergie ainsi que des modèles d'aide à la décision en relation avec l'évaluation technico-économique et environnementale des systèmes Energie et Transports."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modélisation des systèmes Énergie et Transports",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

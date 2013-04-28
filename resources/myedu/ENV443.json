@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23814849&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","443"],
+    "title":"GIS supporting decision making",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23814849&ww_x_anneeAcad=2012-2013&ww_i_section=84482889&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-DEV-TER",
+    "program":"SIE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105275",
+      "name":"Golay François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Course with many relevant links to the minor in Urban planing and territorial developpement and to the specialization in Geomatics",
+      "Form of examination":"33 % spot written check during the semester[br/]33 % continuous control during the semester (seminar synthesis)[br/]33 % written test (60 min) during the exam session",
+      "Required prior knowledge":"Basic knowledge and skills in GIS",
+      "Content":"[br/][li]Situations and cases of decision making in territorial and environmental planning and management[br/][li]Spatial decision processes and steps[br/][li]Spatial decision support processes and tools[br/][li]Multi-criteria decision making (MCDM) and its spatial applications[br/][li]Collaborative/group spatial decision-making[br/][li]Hands-on exercises of MCDM with GIS[br/][li]Cases studies and seminars[br/][br/]",
+      "Type of teaching":"Lecture, exercises, seminars",
+      "Learning outcomes":"[br/][li]Understanding of the principles and stakes of decision making in territorial and environmental planning and management[br/][li]Ability to choose and support relevant decision processes likely to solve actual problems or conflict situations in territorial and environmental planning and management[br/][li]Acquisition of some essential skills in applying GIS and specialized software for supporting spatial decision making[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"GIS supporting decision making",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-32944-4&amp;con_lng=ENG\" target=\"blank\">GIS and multicriteria decision analysis / Jacek Malczewski</a>\". Year:1999. ISBN:0-471-32944-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105275",
+      "name":"Golay François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Connaissances et outils à mettre en relation avec de nombreux cours du mineur Développement territorial et urbanisme et de la spécialisation en Géomatique",
+      "Prérequis":"Connaissances et compétences de base en SIG",
+      "Bibliographie et matériel":"GIS and multi-criteria decision analysis, Jacek Malczewski, Wiley & sons, 1999",
+      "Forme d'enseignement":"Cours, exercices, conférences, séminaire",
+      "Contenu":"[br/][li]Situations et cas de prise de décision en planification et management territorial et environnemental[br/][li]Processus et étapes de prise de décision[br/][li]Processus et outils d'aide à la décision à référence spatiale[br/][li]Prise de décision multi-critères et ses applications à l'espace géographique[br/][li]Prise de décisions spatialisées collaborative / en groupe[br/][li]Exercices pratiques d'aide à la décision multi-critères avec des SIG[br/][li]Cas d'étude et séminaires[br/]",
+      "Forme du contrôle":"33 % contrôle ponctuel écrit pendant le semestre[br/]33 % contrôle continu pendant le semestre (synthèse séminaire)[br/]33 % épreuve écrite (60 min) pendant la session d'examen",
+      "Objectifs d'apprentissage":"[br/][li]Compréhension des principes et des enjeux de la prise de décisions en planification et management territorial et environnemental [br/][li]Capacité à choisir et à encadrer des processus de décision susceptibles de résoudre les problèmes ou situations conflictuelles survenant en planification et management territorial et environnemental [br/][li]Acquisition de compétences de base dans l'application des SIG et de logiciels spécialisés dans l'aide à la décision à référence spatiale"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"SIG et aide à la décision",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-32944-4&amp;con_lng=FRE\" target=\"blank\">GIS and multicriteria decision analysis / Jacek Malczewski</a>\". Année:1999. ISBN:0-471-32944-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

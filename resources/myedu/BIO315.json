@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=271439550&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","315"],
+    "title":"Biomolecular structure and mechanics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=271439550&ww_x_anneeAcad=2012-2013&ww_i_section=250684349&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOCOMP",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lbm.epfl.ch/teaching/","http://lbm.epfl.ch/teaching/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182443",
+      "name":"Dal Peraro Matteo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introducing the principles of structural biology along with the principal experimental and computational techniques used to investigate the structure, dynamics and function of biological systems. The main focus is on the description of molecular interactions and how they can be quantitatively modeled using theoretical and computational tools to study relevant problems in the domain of biophysics and biochemistry. ",
+      "Content":"[b]1. Structure: [/b]intermolecular interactions and structure of biomolecules, experimental methods in structural biology, homology-based structure prediction.[br/][b]2. Dynamics:[/b] elements of statistical mechanics, classical molecular mechanics, molecular dynamics and Monte Carlo methods, free energy calculations.[br/][b]3. Selected topics: [/b]de novo protein structure prediction and design; protein folding, assembly, and misfolding; structure-based drug discovery, multiscale molecular simulation techniques.[br/][b]Computational projects[/b] will run in parallel to have a first hand experience on molecular modeling tools applied to problems such as protein structure prediction; protein, nucleic acids and membrane dynamics; structure-based drug design.[br/]",
+      "Form of examination":"Projects assessment during the semester",
+      "Required prior knowledge":"Basic mathematics, physics, biology and biochemistry courses of SV BA"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomolecular structure and mechanics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4419-6351-2&amp;con_lng=ENG\" target=\"blank\">Molecular Modeling and Simulation : an interdisciplinary guide / Tamar Schlick</a>\". Year:2010. ISBN:978-1-4419-6351-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-582-38210-6&amp;con_lng=ENG\" target=\"blank\">Molecular modelling : principles and applications / Andrew R. Leach</a>\". Year:2001. ISBN:0-582-38210-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lbm.epfl.ch/teaching/","http://lbm.epfl.ch/teaching/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/182443",
+      "name":"Dal Peraro Matteo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours bachelor SV de mathématiques, physique, biologie et chimie biologique",
+      "Bibliographie et matériel":"Molecular modelling: principles and applications, A.R. Leach, Pearson[br/]Molecular modeling and simulations, T. Schlick, Springer",
+      "Forme d'enseignement":"Cours ex cathedra et travaux pratiques intégrés",
+      "Contenu":"[b]1. Structure:[/b] interactions intermoléculaires et structure des biomolécules. Méthodes expérimentales en biologie structurelle, prédiction de structure par homologie.[br/][b]2. Dynamique:[/b] éléments de mécanique statistique, mécanique moléculaire classique, dynamique moléculaire, méthodes de Monte Carlo et calculs d'énergie libre.[br/][b]3. Thèmes choisis:[/b] prédiction de novo et conception de la structure des protéines; repliement des protéines, assemblage et mauvais repliement; découverte de médicaments fondée sur la structure, techniques de simulation moléculaire multi-échelle.[br/][b]Des projets computationnels[/b] vont avoir lieu en parallèle aux cours. L'étudiant pourra ainsi acquérir une première expérience  pratique avec différents outils de modélisation moléculaire. Des problèmes tels que la prédiction de structure d'une protéine, les dynamiques des protéines, acides nucléiques et membranes et la conception de médicaments sur une base structurelle pourront ainsi être étudiés.",
+      "Forme du contrôle":"Evaluation des projets au cours du semestre",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Le but de ce cours est d'introduire les principes de biologie structurelle. Les principales techniques expérimentales et computationnelles utilisées pour l'étude des structures, dynamique et fonction des systèmes biologiques seront abordées. L'accent sera mis sur la description des interactions au niveau moléculaire et comment celles-ci peuvent être modélisées quantitativement au moyen d'outils théoriques et computationels pour l'étude de problèmes dans les domaines de la biophysique et la biochimique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomolecular structure and mechanics",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4419-6351-2&amp;con_lng=FRE\" target=\"blank\">Molecular Modeling and Simulation : an interdisciplinary guide / Tamar Schlick</a>\". Année:2010. ISBN:978-1-4419-6351-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-582-38210-6&amp;con_lng=FRE\" target=\"blank\">Molecular modelling : principles and applications / Andrew R. Leach</a>\". Année:2001. ISBN:0-582-38210-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

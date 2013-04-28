@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71544480&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","167"],
+    "title":"Introduction to environmental engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71544480&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    },{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The major goal of this course is to show how upcoming courses in chemistry, mathematics, physics, biology and other areas will be used to gain a scientific understanding of environmental problems and then help to solve them. While working towards this objective, a variety of environmental engineering applications and career options will be presented, with the intent of familiarizing students with the breadth of this field.",
+      "Content":"Topics covered include (among other topics) environmental engineering concepts, water quality and treatment, risk analysis and management, forecasting, groundwater management and remediation, resource use, energy production and air pollution.[br/]",
+      "Keywords":"Water pollution, wastewater treatment, groundwater pollution, remediation, wells, exponential growth, logistic model, water resources, air pollution, greenhouse gases, climate change[br/]",
+      "Form of examination":"Three written tests during the semester, totaly 105 min.",
+      "Type of teaching":"Lecture ex cathedra and exercises"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to environmental engineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-148193-2&amp;con_lng=ENG\" target=\"blank\">Introduction to environmental engineering and science / Gilbert M. Masters</a>\". Year:2008. ISBN:0-13-148193-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169370",
+      "name":"Arey Jeremy Samuel"
+    },{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Masters G.M. & Wendell P.E. Introduction to Environmental Engineering and Science, 3rd edition, Prentice Hall.",
+      "Mots clés":"Pollution de l'eau, traitement des eaux usées, pollution des nappes phréatiques, puits, croissance exponentielle, modèle logistique, ressource en eau, pollution de l'air, gaz à effet de serre, changement climatique",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"Les thèmes traités incluent (entre autres) les concepts de base de l'ingénierie en environnement, la qualité et le traitement de l'eau, l'analyse et la gestion du risque, la remédiation et la gestion des nappes phréatiques, l'utilisation des ressources naturelles, la production d'énergie et la pollution de l'air.",
+      "Forme du contrôle":"Trois tests écrits durant le semestre, pour un total de 105 min.",
+      "Objectifs d'apprentissage":"Le but principal de ce cours est de montrer comment les connaissances de bases acquises dans les cours de mathématique, physique, chimie et biologie seront utilisées pour analyser de manière scientifique les problèmes environnementaux et pour ensuite proposer des solutions. Dans ce but,  plusieurs exemples d'ingénierie en environnement et d'options de carrière seront présentés avec l'intention de familiariser l'étudiant avec l'ampleur de la discipline."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to environmental engineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-148193-2&amp;con_lng=FRE\" target=\"blank\">Introduction to environmental engineering and science / Gilbert M. Masters</a>\". Année:2008. ISBN:0-13-148193-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775357&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","334"],
+    "title":"Building physics VI",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775357&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107373",
+      "name":"Hadorn Jean-Christophe"
+    },{
+      "url":"http://people.epfl.ch/106368",
+      "name":"Scartezzini Jean-Louis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"At the end of the semester the students will be able to:[br/][br/][li]perform building diagnostics regarding energy performance;[br/][br/][li]determine the energy savings contribution of different heat recovery devices;[br/][br/][li]identify and design different passive and active solar energy systems;[br/][br/][li]identify and design different heat storage processes and technologies.[br/][br/]",
+      "Content":"Optimal energy management within buildings.[br/][br/]Heat recovery techniques.[br/][br/]Solar energy collectors.[br/][br/]Heat storage technology.[br/][br/]Building energy analysis methods.[br/][br/]Building energy management methods.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Building physics VI",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107373",
+      "name":"Hadorn Jean-Christophe"
+    },{
+      "url":"http://people.epfl.ch/106368",
+      "name":"Scartezzini Jean-Louis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"[b]Liaison avec d'autres cours[/b]: Physique du bâtiment V.",
+      "Prérequis":"Physique du bâtiment III, IV et V.",
+      "Bibliographie et matériel":"Cours polycopié. Illustrations architecturales.",
+      "Forme d'enseignement":"Cours ex cathedra. Démonstrations. Website.",
+      "Contenu":"Gestion rationnelle de l'énergie dans les bâtiments.[br/][br/]Techniques de récupération de chaleur.[br/][br/]Procédés de captage de l'énergie solaire.[br/][br/]Techniques de stockage de la chaleur.[br/][br/]Méthodes de diagnostic thermique de bâtiments.[br/][br/]Techniques de gestion de l'énergie dans les bâtiments.[br/][br/]",
+      "Forme du contrôle":"Evaluation continue (deux mini-tests en cours de semestre).[br/]Bonus maximal d'un point ajouté à la note de l'examen écrit de fin de semestre.[br/]Examen écrit de fin de semestre.[br/]",
+      "Préparation pour":"Théorie et critique du projet. Science et Technique. Unités d'enseignement.",
+      "Objectifs d'apprentissage":"A la fin du semestre, l'étudiant(e) sera à même de:[br/][br/][li]effectuer le diagnostic énergétique d'une construction existante;[br/][br/][li]évaluer la contribution de différents dispositifs de récupération de chaleur;[br/][br/][li]différencier et dimensionner différents dispositifs passifs et actifs de captage d'énergie solaire;[br/][br/][li]différencier et dimensionner divers procédés de stockage de chaleur.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique du bâtiment VI",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  }
+}

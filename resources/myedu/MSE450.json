@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128342116&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","450"],
+    "title":"Electron microscopy : advanced methods and laboratory work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128342116&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178548",
+      "name":"Hébert Cécile"
+    },{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To master concepts and methods based on TEM to quantitatively observe the microstructure of materials. To deepen the theory of high resolution imaging and convergent beam electron diffraction. To develop skills for qualitative and quantitative X-Ray energy dispersive spectroscopy and EEL spectroscopy. To master some of the tools employed to analyse and simulate TEM contrasts.[br/]",
+      "Content":"1. High resolution TEM.[br/]2. Quantitative transmission electron microscopy.[br/]3. EDS-, EEL-spectroscopy in TEM.[br/][br/]TEM hands-on concerning these themes.",
+      "Type of teaching":"Courses and laboratory works",
+      "Form of examination":"Project and oral presentation",
+      "Required prior knowledge":"- Electron microscopy : introduction[br/]- Basic knowledge of Solid state physics, Cristallography, Cristal defects[br/][br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Electron microscopy : advanced methods and laboratory work",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-45223-5&amp;con_lng=ENG\" target=\"blank\">Electron energy-loss spectroscopy in the electron microscope / R. F. Egerton</a>\". Year:1996. ISBN:0-306-45223-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-76502-0&amp;con_lng=ENG\" target=\"blank\">Transmission electron microscopy : a textbook for materials science / David B. Williams, C. Barry Carter</a>\". Year:2009. ISBN:978-0-387-76502-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-67841-7&amp;con_lng=ENG\" target=\"blank\">Transmission electron microscopy and diffractometry of materials / Brent Fultz, James Howe</a>\". Year:2001. ISBN:3-540-67841-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178548",
+      "name":"Hébert Cécile"
+    },{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"- Microscopie électronique : introduction[br/]- Notions de physique du solide et de structure électronique de l'atome, cristallographie, défauts cristallins[br/]",
+      "Bibliographie et matériel":"Ouvrages spécialisés : [br/]- Carta & Williams : TEM : a textbook for materials sciences[br/]- Egerton : electron energy loss spectroscopy[br/]- Fultz & Howe : Transmission electron microscopy diffractometry of materials",
+      "Forme d'enseignement":"Cours et travaux pratiques en laboratoire",
+      "Contenu":"1. Microscopie à haute résolution.[br/]2. Microscopie à transmission quantitative.[br/]3. Spectroscopie quantitative par EDS et EELS.[br/][br/]Travaux dirigés au MET concernant ces thèmes.",
+      "Forme du contrôle":"Projet soutenu oralement",
+      "Objectifs d'apprentissage":"Maîtriser les concepts et les techniques d'observation quantitatives de la microstructure des matériaux basés sur l'utilisation du MET. Approfondir la théorie de la formation des images haute résolution et de la diffraction convergente en microscopie électronique. Développer la capacité d'interprétation quantitative des observations et des analyses spectroscopiques EDS et EELS en TEM.  Maîtriser certains outils d'analyse et de simulation des contrastes en TEM."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Electron microscopy : advanced methods and laboratory work",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-45223-5&amp;con_lng=FRE\" target=\"blank\">Electron energy-loss spectroscopy in the electron microscope / R. F. Egerton</a>\". Année:1996. ISBN:0-306-45223-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-387-76502-0&amp;con_lng=FRE\" target=\"blank\">Transmission electron microscopy : a textbook for materials science / David B. Williams, C. Barry Carter</a>\". Année:2009. ISBN:978-0-387-76502-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-67841-7&amp;con_lng=FRE\" target=\"blank\">Transmission electron microscopy and diffractometry of materials / Brent Fultz, James Howe</a>\". Année:2001. ISBN:3-540-67841-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

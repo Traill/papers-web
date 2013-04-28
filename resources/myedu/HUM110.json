@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234835887&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=&ww_c_langue=fr",
+    "code":["HUM","110"],
+    "title":"Media and society A",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234835887&ww_x_anneeAcad=2012-2013&ww_i_section=1751774&ww_i_niveau=&ww_c_langue=en",
+    "section":"SHS",
+    "program":"SHS",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[["https://documents.epfl.ch/groups/s/sh/shs1-medias/public","https://documents.epfl.ch/groups/s/sh/shs1-medias/public"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157690",
+      "name":"Haver Gianni"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Media and society A",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[["https://documents.epfl.ch/groups/s/sh/shs1-medias/public","https://documents.epfl.ch/groups/s/sh/shs1-medias/public"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/157690",
+      "name":"Haver Gianni"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra. Intervenants externes. Discussion",
+      "Contenu":"[b]La sphère médiatique : aspects historiques et contemporains[/b][br/][br/]L'objectif de cet enseignement est d'exposer une approche historique du développement de la sphère médiatique à l'époque moderne et contemporaine afin de sensibiliser les étudiant-e-s aux enjeux actuels liés à la société médiatique en les inscrivant dans une perspective de longue durée. La plupart des séances de cours articulent les enjeux technologiques aux dimensions sociales et culturelles. Ils servent d'introduction aux modules thématiques sur les médias (et aussi à l'histoire sociale des technologies) de deuxième et troisième année de Bachelor et au Master.[br/][br/]Cet enseignement est coordonnés et pris en charge avec un souci de forte interaction et de complémentarité, marqué par des apports de différents domaines. De manière générale, chaque séance ou groupe de séances intègrent un élément audiovisuel directement lié à la thématique principale du cours et se prêtant à une discussion ou à un travail de groupe. Cet enseignement est complété par des interventions de personnes issues d'un univers professionnel dont l'apport peut être débattu collectivement en classe.",
+      "Forme du contrôle":"QCM en semestre",
+      "Remarque":"[b]Coordinateurs: [/b]Gianni Haver, François Vallotton.[br/][br/][b][i]Enseignants: [/b][/i]Gianni Haver (ISS, UNIL), François Vallotton (Section d'histoire, UNIL).",
+      "Objectifs d'apprentissage":"Au terme du cours, l'étudiant-e sera capable de :[br/][br/]- Identifier les enjeux actuels liés à la sphère médiatique par une approche historique.[br/]- S'orienter dans les thématiques spécifiques propres à ce champ de connaissances.[br/]- Situer sur le plan historique l'origine de la sphère médiatique contemporaine.[br/]- Etablir des relations entre développements technologiques et évolutions des médias actuels."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Médias et société A",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

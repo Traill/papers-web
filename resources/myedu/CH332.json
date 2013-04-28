@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1515989348&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","332"],
+    "title":"Medicinal chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1515989348&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217627",
+      "name":"Dubikovskaya Elena"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"\"Why and how a chemical compound becomes a drug?\" The medicinal chemistry course provides the basic knowledge needed to answer these questions. ",
+      "Content":"The identification of hit compounds and their transformation to lead compounds with pharmacodynamic and pharmacokinetic properties that have to be optimized are the main subjects of the course.[br/][br/]Discussed aspects:[br/][br/][b][br/][li] Physicochemical and structural properties relevant to medicinal chemistry:[/b] ionisation, solubility, lipophilicity, conformation and configuration, stereoelectronic properties, intermolecular interaction forces, pharmacophore, molecular modeling, drug design, SAR, QSAR, linear and multilinear relations.[br/][br/][br/][b][br/][li] Natural products as source of hit compounds.[/b][br/][br/][b][br/][li] Drug metabolism:[/b] activation, inactivation, detoxifica-tion, toxification, enzyme catalysis, biochemical reaction mecanisms, enzyme induction and inhibition, pharmacogenetics, drug interactions.[br/][br/][br/][b][br/][li] Combinatorial chemistry of focalized libraries of chemical compounds. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Medicinal chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/217627",
+      "name":"Dubikovskaya Elena"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module de chimie synthètique ",
+      "Prérequis":"Bases en chimie générale et organique, notions de biochimie ",
+      "Bibliographie et matériel":"Matériel de cours, publications récentes  ",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"L'identification de touches actives et leurs transformations en chefs de file à optimiser tant au plan pharmacodynamique que pharmacocinétique seront les thèmes principaux du cours.[br/][br/]Thèmes traités:[br/][br/][b][br/][li] Propriétés physicochimiques et structurales pertinentes en chimie médicinale:[/b] ionisation, solubilité, lipophilie, conformation et configuration, propriétés stéréo-électroniques, forces de reconnaissance intermoléculaires, pharmacophore, modélisation moléculaire, drug design, SAR, QSAR, relations linéaires et multilinéaires.[br/][br/][b][br/][li] Les produits naturels comme source de touches actives.[/b][br/][br/][b][br/][li] Métabolisme des médicaments:[/b] réactions d'activation ou d'inactivation, de détoxification ou de toxification, catalyse par les enzymes, réactions biochimiques, in-duction et inhibition enzymatique, pharmacogénétique, interactions médicamenteuses.[br/][br/][b][br/][li] Chimie combinatoire de librairies focalisées de composés chimiques.[/b] ",
+      "Préparation pour":"Découverte de composés d'intérêt thérapeutiques[br/]Optimisation de candidats-médicament ",
+      "Objectifs d'apprentissage":"\"Pourquoi et comment un composé chimique devient un [br/]médicament ?\" Le cours de chimie médicinale veut apporter des éléments fondamentaux de réponse à ces questions.  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Medicinal chemistry",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

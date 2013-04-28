@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2977980&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","601"],
+    "title":"Advanced energy conversion technologies",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2977980&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    },{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    },{
+      "url":"http://people.epfl.ch/107971",
+      "name":"Van Herle Jan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The integration of advances in key engineering sciences and technology fundamentals allows the development of new emerging energy conversion technologies that apply chemistry, thermodynamics, mechanics and electricity. In the lecture, the path from basic phenomena description and characterization to their application in the energy conversion technologies domain will be studied. Based on the study of advanced energy conversion technologies, the student will learn the methodological aspects and the solutions that have been applied to solve the technological issues in the technology development.",
+      "Content":"[li] Solving technological issues in the development of SOFC fuel cells systems: membrane, stacks and systems issues;[br/][br/][li] Oxygen separation concepts including pressure swing adsorption, diffusion through membranes and their applications;[br/][br/][li] Gasification, partial oxidation and fuel reforming including biofuels;[br/][br/][li] Hydrogen production technologies including electrolysis, production from fuels;[br/][br/][li] Advanced techniques for temperature upgrading or conversion of thermal energy: compression and absorption heat pumps including hybrid absorption-compression cycles, heat transformers, hermetic Rankine power cycles including their application to geothermal power plants;[br/][br/][li] Modeling the properties of real fluids and mixtures and application to advanced cycles (sorption including diffusion absorption heat pumps, Lorenz or Kalina cycle);[br/][br/][li] Emerging compression technologies: high speed direct drive compressors, co-rotating systems, magnetic and gas bearings compressors,...",
+      "Form of examination":"Oral presentation and project report",
+      "Required prior knowledge":"Thermodynamics, Basics in energy conversion technologies and their applications"
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Advanced energy conversion technologies",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    },{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    },{
+      "url":"http://people.epfl.ch/106311",
+      "name":"Rufer Alfred"
+    },{
+      "url":"http://people.epfl.ch/107971",
+      "name":"Van Herle Jan"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Solving technological issues in the development of SOFC fuel cells systems: membrane, stacks and systems issues;[br/][br/][li] Oxygen separation concepts including pressure swing adsorption, diffusion through membranes and their applications;[br/][br/][li] Gasification, partial oxidation and fuel reforming including biofuels;[br/][br/][li] Hydrogen production technologies including electrolysis, production from fuels;[br/][br/][li] Advanced techniques for temperature upgrading or conversion of thermal energy: compression and absorption heat pumps including hybrid absorption-compression cycles, heat transformers, hermetic Rankine power cycles including their application to geothermal power plants;[br/][br/][li] Modeling the properties of real fluids and mixtures and application to advanced cycles (sorption including diffusion absorption heat pumps, Lorenz or Kalina cycle);[br/][br/][li] Emerging compression technologies: high speed direct drive compressors, co-rotating systems, magnetic and gas bearings compressors,...",
+      "Forme du contrôle":"Oral presentation and project report",
+      "Prérequis":"Thermodynamics, Basics in energy conversion technologies and their applications",
+      "Objectifs d'apprentissage":"The integration of advances in key engineering sciences and technology fundamentals allows the development of new emerging energy conversion technologies that apply chemistry, thermodynamics, mechanics and electricity. In the lecture, the path from basic phenomena description and characterization to their application in the energy conversion technologies domain will be studied. Based on the study of advanced energy conversion technologies, the student will learn the methodological aspects and the solutions that have been applied to solve the technological issues in the technology development."
+    },
+    "practical":{
+      "total_hours":10
+    },
+    "language":"English",
+    "title":"Advanced energy conversion technologies",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

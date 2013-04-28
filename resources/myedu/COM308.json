@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501612711&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["COM","308"],
+    "title":"Internet analytics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501612711&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/152655",
+      "name":"Grossglauser Matthias"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This class introduces the basic architectural building blocks and computational methods that underlie most internet services, with a particular focus on models and technologies for large-scale analytics and mining of user data.",
+      "Content":"The class seeks a balance between foundational but relatively basic material in algorithms, statistics, graph theory and related fields, with real-world applications inspired by the current practice of internet and cloud services.[br/][br/]1. Platform technologies : review of web, networking, cloud[br/][br/]2. Methods : elements of behavioral modeling; network & social science; data mining, retrieval, analytics[br/][br/]3. Applications : behavioral tracking ; recommandation & reputation; indexing & search; filtering; online advertisement",
+      "Type of teaching":"Ex cathedra + exercises + project",
+      "Form of examination":"Project 20%, midterm 30%, final exam 50%",
+      "Required prior knowledge":"Modèles stochastiques pour les communications (COM-300), Algorithms (CS-250)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Internet analytics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/152655",
+      "name":"Grossglauser Matthias"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra + exercices + projet",
+      "Contenu":"Le cours vise un équilibre entre les méthodes fondamentales en algorithmique, statistique, théorie des graphes, et les applications concrètes inspirées par la pratique dans les services internet et cloud :[br/][br/]1. Technologies de plateforme : web, réseaux, cloud[br/][br/]2. Méthodes : modèles comportementales, science des réseaux et sociale, forage de données, recherche, analyse[br/][br/]3. Applications : tracking, recommandations, réputation, indexage, recherche, filtrage, publicité online",
+      "Forme du contrôle":"Projet 20%, examen intermédiaire 30%, examen final 50%",
+      "Prérequis":"Modèles stochastiques pour les communications (COM-300), Algorithms (CS-250)",
+      "Objectifs d'apprentissage":"Ce cours décrit les composantes architecturales et les méthodes de calcul qui constituent la base d'une majorité des services internet, avec un intérêt particulier pour les modèles et technologies pour l'analyse de données à grande échelle."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Internet analytics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

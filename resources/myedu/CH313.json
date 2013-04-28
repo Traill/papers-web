@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350462476&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","313"],
+    "title":"Biochemistry II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=350462476&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123155",
+      "name":"Johnsson Kai"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Introduction to primary metabolism and biosynthetic pathways.[br/]Biosynthesis of selected natural products. Discussion of underlying chemistry and enzyme mechanisms.[br/] [br/]",
+      "Content":"- Citric acid cycle[br/][br/]- Oxidative phosphorylation[br/][br/]- Calvin cycle and pentose phosphate pathway[br/][br/]- Glycogen metabolism[br/][br/]- Fatty acid metabolism[br/][br/]- Biosynthesis of amino acids and nucleotides[br/][br/]- Biosynthesis of polyketides and non-ribosomal peptides  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biochemistry II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=ENG\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Year:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/123155",
+      "name":"Johnsson Kai"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module Chimie biologique et biophysique  ",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Biochimie I\"",
+      "Bibliographie et matériel":"\"Principles of Biochemistry\" by Lehninger Albert, Cox Michael and Nelson David. W.H. Freeman & Company, 5th ed.  ",
+      "Forme d'enseignement":"Ex cathedra et exercices  ",
+      "Contenu":"- Cycle de l'acide citrique[br/][br/]- Phosphorylation oxidative[br/][br/]- Cycle de Calvin en chemin du pentose phosphate[br/][br/]- Mécanisme glycogène[br/][br/]- Métabolisme des acides gras[br/][br/]- Biosynthèse des acides aminés et des nucléotides[br/][br/]- Biosynthèse des polycétides et des peptides non-ribosomiaux  ",
+      "Préparation pour":"\"Pharmacological Chemistry\"",
+      "Objectifs d'apprentissage":"Introduction aux métabolisme primaire et aux chemins biosynthétiques. Biosynthèse de quelques produits naturels. Discussion de la chimie sous-jascente et des mécanismes enzymatiques.   "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biochemistry II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=FRE\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Année:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

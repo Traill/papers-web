@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772205&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","400"],
+    "title":"Experimental data analysis and modelization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772205&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To know the basics of Mathematica programming. To use Mathematica to model physical phenomena in materials science and to analyse experimental data. To know how to use of the standard Mathematica packages. To develop new packages for specific applications. To write scientific reports using Mathematica.[br/]",
+      "Content":"-\tDescription of the Mathematica Front-end and Kernel.[br/]-\tSolution of linear and non-linear equations.[br/]-\tPlot of 2-D and 3-D functions.[br/]-\tData lists and their representation, reading data files.[br/]-\tDifferentiation, symbolic and numerical integration.[br/]-\tExpressions, functions, lists, vectors, matrices and tensors.[br/]- Solving ordinary differential equations, Laplace and Fourier transforms.[br/]- Tensors. [br/]-\tUsing standard graphics libraries.[br/]-\tProcedural programming.[br/]-\tFunctional programming.[br/]-\tRule based programming.[br/]-\tGraphical programming.[br/]-\tWriting packages.[br/]-\tWriting notebooks and scientific reports.[br/][br/][br/][br/]",
+      "Type of teaching":"Computer assisted",
+      "Prerequisite for":"Laboratory works, courses, analysis of experimental results",
+      "Form of examination":"Writing a notebook about an optional or proposed subject"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Experimental data analysis and modelization",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-57955-022-3&amp;con_lng=ENG\" target=\"blank\">The Mathematica book / Stephen Wolfram</a>\". Year:2003. ISBN:1-57955-022-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106465",
+      "name":"Stadelmann Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"The Mathematica Book , S. Wolfram, notebooks",
+      "Forme d'enseignement":"Assisté par ordinateur",
+      "Contenu":"-\tBases de l'utilisation de Mathematica, description simplifiée de l'interface utilisateur et du noyau.[br/]-\tOpérations élémentaires, solutions d'équations linéaires et non-linéaires.[br/]-\tReprésentation graphique 2-D et 3-D.[br/]-\tReprésentations de listes de données, lecture de fichiers de données expérimentales, ajustement de paramètres.[br/]-\tDifférentiation, intégration symbolique et numérique.[br/]-\tExpressions, fonctions, listes, vecteurs, matrices et tenseurs.[br/]- Solution d'équations différentielles ordinaires, transformées de Laplace et de Fourier.[br/]- Tenseurs. [br/]-\tUtilisation des librairies graphiques.[br/]-\tProgrammation procédurale.[br/]-\tProgrammation fonctionnelle.[br/]-\tProgrammation basée sur des règles.[br/]-\tProgrammation graphique. [br/]-\tCréation de packages.[br/]-\tÉcriture de notebooks et rapports scientifiques.",
+      "Forme du contrôle":"Écriture d'un notebook sur un sujet à choix ou proposé.",
+      "Préparation pour":"Travaux pratiques, cours, analyse de résultats expérimentaux",
+      "Objectifs d'apprentissage":"Connaître les bases de la programmation avec le logiciel Mathematica. Utiliser Mathematica pour modéliser des phénomènes physiques et analyser des données expérimentales. Être capable de se servir de la bibliothèque de programmes écrits en Mathematica. Développer des nouveaux modules dans son domaine de recherche. Utiliser Mathematica pour écrire des rapports scientifiques."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Experimental data analysis and modelization",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-57955-022-3&amp;con_lng=FRE\" target=\"blank\">The Mathematica book / Stephen Wolfram</a>\". Année:2003. ISBN:1-57955-022-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

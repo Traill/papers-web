@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776002&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","345"],
+    "title":"Radiation and antennas",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776002&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    },{
+      "url":"http://people.epfl.ch/118757",
+      "name":"Perruisseau-Carrier Julien"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Duplicated lecture notes, technical articles[br/]Book: Balanis, Stutzman ",
+      "Prerequisite for":"Propagation, Hyperfrequences, EMC",
+      "Required prior knowledge":"Electromagnetics ",
+      "Content":"1. Free propagation of electromagnetic waves. Radiation mechanism and elementary sources. The electromagnetic spectrum: frequency allocation.[br/][br/]2. Parameters and characteristics of radiating sources: radiation pattern, impedance, directivity, gain, polarization, bandwidth. Main types of antennas.[br/][br/]3. Radiation through slots. Huyghens' principle, aperture theory, reflector and horn antennas. [br/][br/]4. Hertzian links and communication satellites.[br/][br/]5. Antenna arrays.[br/][br/]6. Introduction to some recent antenna topics: MIMO, metamaterials, and reflectarrays. Example of antenna electromagnetic simulation.[br/]",
+      "Type of teaching":"Ex cathedra + demonstrations and exercises",
+      "Learning outcomes":"Students will be able to analyze a radiating system and to predict its performances and the characteristics of the radiated fields. They will also know the basic principles underlying the radiation and propagation of electromagnetic waves and their interaction with a material environment. Finally, they will be able to select an antenna for a specific application."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Radiation and antennas",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-66782-X&amp;con_lng=ENG\" target=\"blank\">Antenna theory : analysis and design / Constantine A. Balanis</a>\". Year:2005. ISBN:0-471-66782-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-02590-9&amp;con_lng=ENG\" target=\"blank\">Antenna theory and design / Warren L. Stutzman, Gary A. Thiele</a>\". Year:1998. ISBN:0-471-02590-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105917",
+      "name":"Mosig Juan Ramon"
+    },{
+      "url":"http://people.epfl.ch/118757",
+      "name":"Perruisseau-Carrier Julien"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electromagnétisme ",
+      "Bibliographie et matériel":"Notes polycopiées, articles techniques[br/]Livre: Balanis, Stutzman [br/]Antenna theory : analysis and design / Constantine A. Balanis, 2005[br/]Antenna theory and design / Warren L. Stutzman, Gary A. Thiele, 1998",
+      "Forme d'enseignement":"Ex cathedra + démonstrations et exercices",
+      "Contenu":"1. Propagation libre d'ondes électromagnétiques. Mécanisme de rayonnement et sources élémentaires. Le spectre électromagnétique. Affectation des fréquences.[br/][br/]2. Caractéristiques et paramètres des sources rayonnantes: dia-gramme de rayonnement, impédance, directivité, gain, polarisation, bande passante. Types principaux d'antennes.[br/][br/]3. Rayonnement à travers les fentes. Principe de Huyghens, théorie des ouvertures, antennes à réflecteur et antennes cornet.[br/][br/]4. Faisceaux hertziens et satellites de communication.[br/][br/]5. Antennes réseaux.[br/][br/]6. Introduction à quelques nouvelles tendances dans le domaine des antennes: antennes pour communication MIMO, métamatériaux, reflectarrays. Exemple de simulation électromagnétique d'une antenne.",
+      "Forme du contrôle":"Écrit",
+      "Préparation pour":"Propagation, Hyperfréquences, CEM",
+      "Objectifs d'apprentissage":"À la fin du cours, l'étudiant sera capable d'analyser un système rayonnant et de prédire ses caractéristiques et celles du rayonnement émis. Il connaîtra aussi les principes gouvernant le rayonnement et la propagation des ondes électromagnétiques et leur interaction avec l'environnement. Il sera à même de choisir une antenne pour une application spécifique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Rayonnement et antennes",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-66782-X&amp;con_lng=FRE\" target=\"blank\">Antenna theory : analysis and design / Constantine A. Balanis</a>\". Année:2005. ISBN:0-471-66782-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-02590-9&amp;con_lng=FRE\" target=\"blank\">Antenna theory and design / Warren L. Stutzman, Gary A. Thiele</a>\". Année:1998. ISBN:0-471-02590-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

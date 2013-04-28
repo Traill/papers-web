@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24334807&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","521"],
+    "title":"Advanced analog and RF integrated circuits design II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24334807&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105059",
+      "name":"Enz Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written",
+      "Bibliography and material":"Notes de cours, articles techniques",
+      "Prerequisite for":"Semester projects and master thesis projects in micro et nanoelectronics",
+      "Required prior knowledge":"Analog basic structures, Analog circuits design I, Advanced analog and RF IC design I",
+      "Content":"[b]1)\tBackground :[/b] overview of wireless principles.[br/][br/][b]2)\tModeling of Active and Passive Devices at RF :[/b] MOS and bipolar transistors; integrated R L C components.[br/][br/][b]3)\tNoise at RF :[/b] classical noisy two-port theory; examples of noise calculations in RF circuits.[br/][br/][b]4)\tDistortion and Intermodulation :[/b] origin of distortion; characterization of distortion at RF; intermodulation, intercept points.[br/][br/][b]5)\tBasic Receiver Architectures :[/b] super-heterodyne; low-IF; direct conversion; super-regenerative.[br/][br/][b]6)\tFront-end circuits :[/b] low-noise amplifier (LNA) design; mixers.[br/][br/][b]7)\tOscillators :[/b] basic tuned oscillators (Colpitts, Pierce, Clapp, cross-coupled); phase-noise.[br/][br/][b]8)\tFrequency Synthesizers :[/b] basic frequency synthesizers.[br/][br/][b]9)\tRF Power Amplifiers :[/b] class A, AB, B, and C power amplifiers; class D, E and F amplifiers.",
+      "Type of teaching":"Ex cathedra and exercices",
+      "Learning outcomes":"This course covers the analysis and design of integrated RF circuits focusing on CMOS implementation at the transistor level. It starts with a review of active and passive devices operation and modelling at RF. The fundamental limitations such as noise and distortion are discussed in the perspective of radio transceivers. The main transceiver architectures are presented and the most important building blocks are discussed.[br/]The main objective is to understand RF transceivers and be able to design basic RF integrated circuits."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analog and RF integrated circuits design II",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105059",
+      "name":"Enz Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Dispositifs et structures analogiques, Analog circuits design I, Advanced analog and RF IC design I",
+      "Bibliographie et matériel":"Notes de cours, articles techniques",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[b]1) Introduction :[/b] rappel des principes de communication sans fil.[br/][br/][b]2) Modélisation des composants actifs et passifs en RF :[/b] transistors bipolaire et MOS; composants passifs intégrés R, L et C.[br/][br/][b]3) Le bruit en RF :[/b] théorie du biporte bruyant; exemples de calcul de bruit dans les circuits RF.[br/][br/][b]4) Distorsion et intermodulation :[/b] source de distorsion; caractérisation de la distorsion en RF; intermodulation et points d'intersection du 2ème et du 3ème ordre.[br/][br/][b]5) Architecture des émetteurs-récepteurs radio :[/b] hétérodyne et super-hétérodyne; conversion à basse fréquence intermédiaire; conversion directe; super-régénératif.[br/][br/][b]6) Circuits de tête :[/b] amplificateur faible bruit; mélangeurs.[br/][br/][b]7) Oscillateurs :[/b] oscillateurs de base (Colpitts, Pierce, Clapp, cross-coupled); bruit de phase.[br/][br/][b]8) Synthèse de fréquence :[/b] principes et composants des synthétiseurs de fréquence.[br/][br/][b]9) Amplificateur RF de puissance :[/b] amplis RF classe A, AB, B, et C; amplis RF classe D, E et F.",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Projets de semestre et PDM en micro et nanoélectronique",
+      "Objectifs d'apprentissage":"Ce cours couvre l'analyse et la conception de circuits intégrés RF, focalisant sur leurs implémentations en technologie CMOS. Le fonctionnement et la modélisation des composants intégrés passifs et actifs en RF sont d'abord revus. Les limitations telles que le bruit et la distorsion dans les émetteurs-récepteurs radio sont étudiés. Les principales architectures de radio ainsi que les circuits de base sont présentés.[br/]L'objectif principal est de comprendre et de pouvoir concevoir des circuits intégrés RF et des radios simples."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analog and RF integrated circuits design II",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

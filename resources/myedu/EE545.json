@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775972&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","545"],
+    "title":"Propagation of electromagnetic waves",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775972&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114730",
+      "name":"Mattes Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Bibliography and material":"Notes de cours, corrigés d'exercices sur serveur",
+      "Prerequisite for":"Practical work and projects",
+      "Required prior knowledge":"Electromagnetics",
+      "Content":"[b]Maxwell's Equations[/b][br/]Recall and consolidation of Maxwell's equations: General solutions, duality principles, symmetries, symmetric Maxwell equations.[br/][br/][b]Propagation[/b][br/]Different types of propagation velocities: phase, group, energy and signal velocities[br/][br/][b]Transmission line theory[/b][br/]Basic properties, Telegrapher's equations and its solution, frequency properties (dispersion, distortion, phase and group velocity).[br/][br/][b]Waveguides[/b][br/]Different types of waveguides, Uniform waveguides (Modes, Maxwell's equations in the frame of waveguides and its solution, representation of electromagnetic field in terms of modes, modal - characteristic - impedance, losses).[br/][br/][b]High-power and non-linear phenomena in waveguides[/b][br/]Multipactor, Corona, PIM[br/][br/][b]Theory of cavities[/b][br/][br/][b]Numerical Methods[/b][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations and exercises",
+      "Learning outcomes":"To understand the phenomena of propagation of electromagnetic waves appearing in transmission line based system (waveguides, cavities, filters, etc.). To approach their solution by mastering the basic principles and fundamental models. To know how to apply correctly several prediction methods."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Propagation of electromagnetic waves",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/114730",
+      "name":"Mattes Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Electromagnétisme",
+      "Bibliographie et matériel":"Notes de cours, corrigés d'exercices sur serveur",
+      "Forme d'enseignement":"Ex cathedra avec démonstrations et exercices",
+      "Contenu":"[b]Equations de Maxwell[/b][br/]Rappel et approfondissement des équations de Maxwell: solutions générales, principe de dualité, symétrie, équations de Maxwell symétriques.[br/][br/][b]Propagation[/b][br/]Different types de vitesses de propagation : vitesse de phase, de groupe, d'énergie et de signal.[br/][br/][b]Théorie des lignes de transmission[/b][br/]Propriétés de base, équations de télégraphistes et ses solutions, propriétés fréquentielles (dispersion, distorsion, vitesse de phase et de groupe).[br/][br/][b]Guides d'ondes[/b][br/]Différents types de guides d'ondes, uniforme (modes, équations de Maxwell et ses solutions, représentations du champ électromagnétique en utilisant les modes, impédance modale - caractéristiques -, pertes).[br/][br/][b]Phénomènes haute puissance et non linéaires dans les guides d'ondes[/b][br/]Multipactor, Corona, PIM[br/][br/][b]Théorie de cavités[/b][br/][br/][b]Méthodes numériques[/b]",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Travaux pratiques et projets",
+      "Objectifs d'apprentissage":"Connaître les différents phénomènes de propagation des ondes électromagnétiques survenant dans des systèmes basés sur des lignes de transmission (guides d'ondes, cavités, filtres, etc.). Approcher leurs solutions par la maîtrise des principes et des modèles fondamentaux et savoir appliquer à bon escient quelques méthodes de prévision."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Propagation d'ondes électromagnétiques",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

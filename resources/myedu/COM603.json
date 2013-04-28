@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51647320&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","603"],
+    "title":"Bio-inspired Processing of Cognitive Signals",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=51647320&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105043",
+      "name":"Ebrahimi Touradj"
+    },{
+      "url":"http://people.epfl.ch/125681",
+      "name":"Süsstrunk Sabine"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Form of examination":"Oral exam and project report",
+      "Bibliography and material":"Materials distributed in the lectures and posted on the web",
+      "Required prior knowledge":"Basic undergraduate math and physics, some knowledge of digital signal processing helpful but not necessary     ",
+      "Content":"1.                    Introduction: Biological communication signals (acoustic, visual, haptic,..), their purpose, use and basic principles of their sensory perception in lower animals and in mammals. Arguments for human-like processing of cognitive signals. [br/]2.\tPhysiology of senses: Description of hearing and visual apparatus in animals and in humans, roles of individual components, neural firings, receptive fields, engineering implications.[br/]3.\tBasic psychophysical concepts and techniques: Scales, types of perceptual experiments, just noticeable differences, detection theory, channel capacity of human perception. [br/]4.\tBasic physiological measurement techniques: Threshold measurements, tuning curves, post-stimulus histogram, peri-stimulus histogram, reverse correlations (spike-triggered averages).[br/]5.\tSimilarities and differences between auditory and visual perception: Role of retina and of basi-lar membrane, lateral inhibition in vision and in hearing.[br/]6.\tPsychophysics of sensory perception: Loudness and brightness, frequency selectivity, temporal resolution, power-law of perception, engineering implications.[br/]7.\tMasking: Simultaneous masking, forward and backward masking in time, co-modulation masking release, engineering implications.[br/]8.\tPerception of modulations: Modulation spectrum of important signals, sensitivity to modulations, engineering implications.[br/]9.\tMulti-channel phenomena: Localization, release from masking, information fusion.[br/]10.\tEngineering applications: Perceptual coders, auditory models in automatic speech recognition, emulation of animal communication for robotics applications.[br/]11.\tLaboratory exercises: Perceptual demonstrations, simple perceptual experiments, MATLAB design of a simple auditory-like speech feature extraction. ",
+      "Keywords":"Biological communication signals, perception, psychophysics, physiology, signal processing",
+      "Learning outcomes":"The goal of the course is to introduce engineering students to basic concepts of human processing of biological communication signals and to demonstrate advantages of emulation of the human-like signal processing by machine."
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Bio-inspired Processing of Cognitive Signals",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105043",
+      "name":"Ebrahimi Touradj"
+    },{
+      "url":"http://people.epfl.ch/125681",
+      "name":"Süsstrunk Sabine"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Prérequis":"Basic undergraduate math and physics, some knowledge of digital signal processing helpful but not necessary     ",
+      "Bibliographie et matériel":"Materials distributed in the lectures and posted on the web",
+      "Mots clés":"biological communication signals, perception, psychophysics, physiology, signal processing",
+      "Contenu":"1.                    Introduction: Biological communication signals (acoustic, visual, haptic,..), their purpose, use and basic principles of their sensory perception in lower animals and in mammals. Arguments for human-like processing of cognitive signals. [br/]2.\tPhysiology of senses: Description of hearing and visual apparatus in animals and in humans, roles of individual components, neural firings, receptive fields, engineering implications.[br/]3.\tBasic psychophysical concepts and techniques: Scales, types of perceptual experiments, just noticeable differences, detection theory, channel capacity of human perception. [br/]4.\tBasic physiological measurement techniques: Threshold measurements, tuning curves, post-stimulus histogram, peri-stimulus histogram, reverse correlations (spike-triggered averages).[br/]5.\tSimilarities and differences between auditory and visual perception: Role of retina and of basi-lar membrane, lateral inhibition in vision and in hearing.[br/]6.\tPsychophysics of sensory perception: Loudness and brightness, frequency selectivity, temporal resolution, power-law of perception, engineering implications.[br/]7.\tMasking: Simultaneous masking, forward and backward masking in time, co-modulation masking release, engineering implications.[br/]8.\tPerception of modulations: Modulation spectrum of important signals, sensitivity to modulations, engineering implications.[br/]9.\tMulti-channel phenomena: Localization, release from masking, information fusion.[br/]10.\tEngineering applications: Perceptual coders, auditory models in automatic speech recognition, emulation of animal communication for robotics applications.[br/]11.\tLaboratory exercises: Perceptual demonstrations, simple perceptual experiments, MATLAB design of a simple auditory-like speech feature extraction.",
+      "Forme du contrôle":"Oral exam and project report",
+      "Objectifs d'apprentissage":"The goal of the course is to introduce engineering students to basic concepts of human processing of biological communication signals and to demonstrate advantages of emulation of the human-like signal processing by machine."
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Bio-inspired processing of cognitive signals",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  }
+}

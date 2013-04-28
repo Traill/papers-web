@@ -1,0 +1,61 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72270722&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","422"],
+    "title":"Physics, Laboratory work IVb",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=72270722&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physics, Laboratory work IVb",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Objectifs d'apprentissage":"Pour la section de physique, les Travaux Pratiques IV doivent être de la physique théorique, expérimentale ou appliquée.[br/][br/]Pour les Travaux Pratiques IV dans une autre section de l'EPFL, un descriptif doit être fourni au conseiller d'études pour lui permettre de prendre une décision. Si le sujet proposé n'a pas de relation avec un des aspects susmentionés, il ne peut pas être accepté comme TP IV de physique."
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physique TP IVb",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

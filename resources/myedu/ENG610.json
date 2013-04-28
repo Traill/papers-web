@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=760561890&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","610"],
+    "title":"Scientific Writing (EDMX)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=760561890&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188381",
+      "name":"Bless Ann Sheila"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] To make researchers aware of good scientific writing.[br/][li] To help writers structure their articles.[br/][li] To point out the pitfalls in scientific articles.[br/][li] To enable researchers to face their writing tasks with confidence",
+      "Content":"[li] Comparing a scientific article written in different styles.[br/][li] Participants will write the Title, Abstract and Introduction to their article which will be discussed in class.[br/][li] Readability exercises (turning clumsy, wordy writing into clear understandable writing).[br/][li] Editing a badly written text.[br/][li] How to make a good poster.[br/][li] Any subject of participants' choice to be decide in class.",
+      "Note":"This is an interactive course so PhD students should be in their 2nd or 3rd year and in the process of writing an article. This is a 4 day course of 4 hours each and on the last day each student will have an individual[br/]session of 30 minutes where she/he can bring any part of the article."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Scientific Writing (EDMX)",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188381",
+      "name":"Bless Ann Sheila"
+    }],
+    "lab":null,
+    "credits":0,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This is an interactive course so PhD students should be in their 2nd or 3rd year and in the process of writing an article. This is a 4 day course of 4 hours each and on the last day each student will have an individual[br/]session of 30 minutes where she/he can bring any part of the article.",
+      "Contenu":"[li] Comparing a scientific article written in different styles.[br/][li] Participants will write the Title, Abstract and Introduction to their article which will be discussed in class.[br/][li] Readability exercises (turning clumsy, wordy writing into clear understandable writing).[br/][li] Editing a badly written text.[br/][li] How to make a good poster.[br/][li] Any subject of participants' choice to be decide in class.",
+      "Objectifs d'apprentissage":"[li] To make researchers aware of good scientific writing.[br/][li] To help writers structure their articles.[br/][li] To point out the pitfalls in scientific articles.[br/][li] To enable researchers to face their writing tasks with confidence"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Scientific Writing (EDMX)",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":16
+    }
+  }
+}

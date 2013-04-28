@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774797&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","372"],
+    "title":"Finite element method",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774797&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105270",
+      "name":"Gmür Thomas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written examination",
+      "Bibliography and material":"Gmür Th., Méthode des éléments finis en mécanique des structures, PPUR, Lausanne, 2007, ISBN 978-2-88074-461-8.",
+      "Required prior knowledge":"[li]Apply the concepts of rigid and deformable body mechanics and of continuum mechanics to model and solve analytically problems of statics, structural stress analysis or simple mechanisms, S1 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Apply the principle of statics and structural mechanics to analyse and design assemblies of simple mechanical elements in the framework of statics and buckling. Compute thermal stresses for simple cases, S2 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Analyse numérique",
+      "Content":"Starting from the strong form associated to the problem of the longitudinal deformation in a uniform bar under traction and compression, the corresponding integral formulation and the weak form are first developed. The latter formulation is next discretised by means of the Galerkin method and the finite element method. Typical concepts like shape functions, classes of admissible functions, Hilbert and Sobolev spaces of functions or convergence criteria, necessary for the understanding of the approach, are briefly described, and the discrimination between natural and essential boundary conditions is discussed. The one-dimensional problem is then generalised by introducing various discontinuities (loading, section, material, etc) into the bar and the concept of higher-order finite elements is introduced. Following an approach similar to the one used for the one-dimensional problem, the course then focuses on the two-dimensional boundary-value problem of heat conduction on a surface. The corresponding weak formulation based on a scalar variable (temperature) is then approximated with two-dimensional finite elements. Lagrangian and serendipity, quadrangular and triangular, so-called master elements are developed and used for elaborating two-dimensional arbitrarily shaped finite elements (geometrically deformed finite elements). After a convergence study of the approximated solutions obtained with two-dimensional finite elements, an example of application is fully treated.",
+      "Keywords":"Finite element, Weak Form, Integral Formulation, Numerical Methods",
+      "Type of teaching":"Ex cathedra with weekly exercises. Computer-based numerical simulations will also be presented.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Derive a finite element formulation of a physical problem from its differential equations in strong form (virtual work method or variational approach), S8[br/][b]Transversal skills:[/b][br/][li]Self-assessment of acquired skills, T2[br/][li]Be perseverant through difficulties, T15[br/][li]Estimate the accuracy level of a process, T18[br/][li]Improve skills continuously, T23"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Finite element method",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-461-8&amp;con_lng=ENG\" target=\"blank\">Méthode des éléments finis en mécanique des structures / Thomas Gmür</a>\". Year:2007. ISBN:978-2-88074-461-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105270",
+      "name":"Gmür Thomas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Appliquer les concepts de la mécanique des solides rigides et déformables et de la mécanique des milieux continus pour modéliser et résoudre analytiquement des problèmes de statique et d'analyse de contraintes d'éléments de structures ou de mécanismes simples, S1 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Appliquer les principes de la statique et de la mécanique des structures pour l'analyse et le dimensionnement en statique et en flambage d'assemblage d'éléments mécaniques simples. Calculer les contraintes d'origine thermique dans des cas simples, S2 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Analyse numérique",
+      "Bibliographie et matériel":"Gmür Th., Méthode des éléments finis en mécanique des structures, PPUR, Lausanne, 2007, ISBN 978-2-88074-461-8.",
+      "Mots clés":"Elément fini, Forme faible, Formulation intégrale, Méthodes numériques",
+      "Forme d'enseignement":"Ex cathedra avec exercices hebdomadaires. Des simulations numériques sur ordinateur seront également présentées.",
+      "Contenu":"A partir de la forme forte du problème-modèle unidimensionnel de la déformation axiale d'une barre à section uniforme en traction-compression, une formulation intégrale, puis faible, est développée dans un premier temps. Cette dernière est ensuite discrétisée au moyen du procédé de Galerkin et de la méthode des éléments finis. Les notions de fonctions de base, de classes de fonctions, d'espaces fonctionnels de Hilbert et de Sobolev et de convergence, nécessaires pour la compréhension de l'approche, sont brièvement décrites et la distinction entre conditions aux limites naturelle et essentielle est discutée. Une généralisation du problème-modèle unidimensionnel par l'introduction de diverses discontinuités (chargement, section, matériau, ...) dans la barre est ensuite étudiée et la notion d'éléments finis d'ordre élevé est abordée. Selon une démarche analogue à celle utilisée pour le problème unidimensionnel, le cours s'intéresse dans un second temps au problème-modèle bidimensionnel du transfert-chaleur par conduction jusqu'à sa formulation faible discrétisée en éléments finis bidimensionnels à variable scalaire (température). Les concepts d'éléments finis pères lagrangiens et sérendipiens, quadrangulaires et triangulaires, sont introduits, puis utilisés pour la création d'éléments finis bidimensionnels à géométrie quelconque (éléments finis géométriquement déformés). Après une étude de convergence des solutions approchées par éléments finis bidimensionnels, le cours se clôt sur un exemple d'application complet.",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Dériver une formulation par éléments finis d'un problème physique quelconque à partir de ses équations différentielles en forme forte (méthode des travaux virtuels ou approche variationnelle), S8[br/][b]Compétences transversales:[/b][br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Développer ses compétences de manière continue, T23"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Méthode des éléments finis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-461-8&amp;con_lng=FRE\" target=\"blank\">Méthode des éléments finis en mécanique des structures / Thomas Gmür</a>\". Année:2007. ISBN:978-2-88074-461-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

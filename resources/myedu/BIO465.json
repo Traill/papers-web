@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501614035&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","465"],
+    "title":"Biological modeling of neural networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501614035&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"IN",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html or http://moodle.epfl.ch/","http://lcn.epfl.ch/%7Egerstner/VideoLecturesGerstner.html or http://moodle.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111732",
+      "name":"Gerstner Wulfram"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Neural networks are a fascinating interdisciplinary field where physicists, biologists, and computer scientists work together in order to better understand the information processing in biology. In this course, mathematical models of biological neurons and neural networks are presented and analyzed. The student will master theoretical methods (bifurcation and phase plane analysis, Fokker-Plank equation, continuum transition) that are used in many areas of applied math and theoretical biology",
+      "Content":"[i][b]I.\tModels of single neurons[/b][/i][br/]1.\tIntroduction: brain vs computer and a first simple neuron model [br/]2.\tModels on the level of ion current (Hodgkin-Huxley model)[br/]3.\tTwo-dimensional models and phase space analysis  (Fitzhugh-Nagumo and Morris LeCar model)[br/][i][b]II.\tSyanaptic changes and learning[/b][/i][br/]4.\tSynaptic Plasticity and Long-term potentiation [br/]       (Hebb rule, mathematical formulation) [br/]5.    Network Dynamics and  Associative Memory [br/]       (Hopfield Model, spin analogy) [br/]6:    Introduction to the Blue Brain Project[br/]7.   Complements and hand-out of miniproject[br/][i][b]III.\tNoise and the neural code[/b][/i][br/]8.\tNoise and variability of spike trains[br/]       (point processes, renewal process, interval distribution)[br/]9:    Spike Response Models and the neural code revisited[br/]       (Reliability of neurons, predicting spike times, timing codes[br/]10.\tPopulation dynamics and membrane potential distribution (Fokker-Planck equation)[br/]11.\tpopulation rate models and coding[br/]      (PSTH, reverse correlation, population transients)[br/][i][b]IV.\tNetworks [/b][/i] 12. Spatially structured networks (Continuous field models)13. Decision making in populations of neurons ",
+      "Type of teaching":"Classroom teaching, exercises and miniproject",
+      "Form of examination":"Written exam (67%) & miniproject (33%)",
+      "Required prior knowledge":"Analysis I-III, linear algebra, probability and statistics[br/]For SSV students: Dynamical Systems Theory for Engineers or \"Mathematical and Computational Models in Biology\" course, Felix Naef"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biological modeling of neural networks",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-81384-0&amp;con_lng=ENG\" target=\"blank\">Spiking neuron models : single neurons, populations, plasticity / Wulfram Gerstner, Werner M. Kistler</a>\". Year:2002. ISBN:0-521-81384-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-04199-5&amp;con_lng=ENG\" target=\"blank\">Theoretical neuroscience : computational and mathematical modeling of neural systems / Peter Dayan and L. F. Abbott</a>\". Year:2001. ISBN:0-262-04199-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html or http://moodle.epfl.ch/","http://lcn.epfl.ch/%7Egerstner/VideoLecturesGerstner.html or http://moodle.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111732",
+      "name":"Gerstner Wulfram"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I-III, Algèbre linéaire, Probabilité et statistique,[br/]Pour les étudiants SSV: Dynamical Systems Theory for Engineers ou cours \"Mathematical and Computational Models in Biology\", Felix Naef",
+      "Bibliographie et matériel":"Dayan & Abbott : Theoretical Neuroscience, MIT Press 2001; Gerstner & Kistler : Spiking Neuron Models, Cambridge Univ. Press ",
+      "Forme d'enseignement":"Ex cathedra, exercices et miniprojet",
+      "Contenu":"[i][b]I.\tModèles de neurones isolés[/b][/i][br/]1.\tIntroduction (cerveau et ordinateur, et neurones)[br/]2.\tModèles ioniques (modèle de Hodgkin et Huxley)[br/]3.\tModèles en 2 dimensions (modèle de Fitzhugh-Nagumo, analyse en espace de phase)[br/][i][b]II.  Synapses et la base d'apprentissage[/b][/i][br/]4.\tLa règle de Hebb (Long-term-potentiation et formulation math.) [br/]5.\tLa mémoire associative (le modèle de Hopfield, relation au modèle de ferromagnétisme)[br/]6.\tIntroduction Blue Brain Project [br/]7.   Compléments et définition du miniprojet [br/][i][b]III. Bruit et le code neuronal[/b][/i][br/]8.   Bruit et variabilité  dans des modèles impulsionels (processus ponctuel, distribution d'intervalles)[br/]9.\tModèle SRM et codage neuronal (fiabilité de neurones et prédiction du temps de tir)[br/]10.\tDistribution du potentiel membranaire (équation de Fokker-Planck)[br/]11.\tGroupes de neurones et codage (activité d'une population, PSTH, reverse correlation)[br/][i][b]IV.\tRéseaux [/b][/i][br/]12.\tRéseaux spatials continus  13.\tModèles de décision",
+      "Forme du contrôle":"Examen écrit (67%) & miniprojet (33%)",
+      "Objectifs d'apprentissage":"Les réseaux de neurones sont une classe de modèles de traitement d'information inspirée par la biologie du cerveau. Ce domaine interdisciplinaire a attiré beaucoup d'intérêt parmi des mathématiciens, physiciens, informaticiens et biologistes. Le cours introduit les réseaux de neurones comme modèle du système nerveux. L'étudiant devra maîtriser les méthodes théoriques (bifurcation and phase plane analysis, Fokker-Plank equation, continuum transition) utilisées en math appliquées et la biol. théor."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biological modeling of neural networks",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-81384-0&amp;con_lng=FRE\" target=\"blank\">Spiking neuron models : single neurons, populations, plasticity / Wulfram Gerstner, Werner M. Kistler</a>\". Année:2002. ISBN:0-521-81384-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-04199-5&amp;con_lng=FRE\" target=\"blank\">Theoretical neuroscience : computational and mathematical modeling of neural systems / Peter Dayan and L. F. Abbott</a>\". Année:2001. ISBN:0-262-04199-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

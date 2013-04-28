@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578164041&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","322"],
+    "title":"Introduction to differentiable manifolds",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1578164041&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224282",
+      "name":"Hausel Tamás"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"A manifold is a Hausdorff topological space locally homeomorphic to R[sup]n. Under some general assumptions, one may consider differential manifolds to be a natural home for differential calculus and  tensorial analysis. [br/]Differential manifolds are the fundamental objects on which one builds  differential geometry and topology, Lie groups, dynamical systems, global analysis and many aspects of contemporary physics (analytical mechanics, general relativity, gauge theory,  etc.).[br/][br/]The objective of this course is to learn the fundamental notions of the geometry of manifolds and to learn the basic calculus on them.[br/][br/]",
+      "Content":"[li]\tTopological manifolds,  atlases, smooth structures[br/][li]\tDifferential calculus (the rank theorem, partitions of unity, etc.)[br/][li]\tFiber bundles, tangent and cotangent spaces[br/][li]\tDifferential topology: submanifolds, submersion, immersion [br/][li]\tDifferential forms manifolds[br/][li]\tFrobenius theorem[br/][li]\tDe Rham cohomology",
+      "Type of teaching":"Ex cathedra lecture with exercises",
+      "Prerequisite for":"Smooth manifolds, differential geometry, analytical mechanic, mathematical physics",
+      "Form of examination":"Written exam"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to differentiable manifolds",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-86094-355-1&amp;con_lng=ENG\" target=\"blank\">An introduction to differential manifolds / Dennis Barden,  Charles Thomas</a>\". Year:2003. ISBN:1-86094-355-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224282",
+      "name":"Hausel Tamás"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Barden, Thomas \"An Introduction to Differential Manifolds\", Imperial College Press 2003.",
+      "Forme d'enseignement":"Cours ex cathedra avec exercices",
+      "Contenu":"[li]\tVariétés topologiques, atlas, structures différentiables[br/][li]\tCalcul différentiel (théorème du rang constant, partitions de l'unité,  etc.)[br/][li]\tFibrés vectoriels, espaces tangent et cotangent[br/][li]\tTopologie différentielle : sous-variétés, immersion, submersion[br/][li]\tFormes différentielles sur les variétés[br/][li]\tThéorème de Frobenius[br/][li]\tCohomologie de De Rham",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Variétés, géométrie différentielle, mécanique analytique, physique mathématique",
+      "Objectifs d'apprentissage":"Une variété est un espace topologique séparé et localement homéomorphe à l'espace R[sup]n[/sup]. Sous quelques hypothèses générales, on peut considérer que le lieu naturel du calcul différentiel et de l'analyse tensorielle est une variété différentiable. La variété différentiable est l'objet fondamental sur lequel on construit la géométrie et la topologie différentielle, les groupes de Lie, la théorie des systèmes dynamiques, l'analyse globale et de nombreux aspects de la physique contemporaine (mécanique analytique, relativité générale, théorie de jauge, etc.).[br/][br/]L'objectif de ce cours est d'apprendre les notions fondamentales de la géométrie des variétés et de voir les bases du calcul différentiel sur les variétés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to differentiable manifolds",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-86094-355-1&amp;con_lng=FRE\" target=\"blank\">An introduction to differential manifolds / Dennis Barden,  Charles Thomas</a>\". Année:2003. ISBN:1-86094-355-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

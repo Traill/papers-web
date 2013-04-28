@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400766326&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","321"],
+    "title":"Optical engineering I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400766326&ww_x_anneeAcad=2012-2013&ww_i_section=84482953&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOMED",
+    "program":"MT",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Optical engineering I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/159310",
+      "name":"Martin Olivier"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"- Rappels d'optique géométrique et ondulatoire[br/]- Optique de Maxwell et polarisation[br/]- Guides d'ondes[br/]- Optique de Fourrier et diffraction[br/]- Photons et interaction lumière-matière[br/]- Lasers[br/]- Photodétecteurs",
+      "Préparation pour":"Ingénierie Optique II[br/]Approfondissement en optique",
+      "Prérequis":"Cours de Physique et de Mathématique 1ère et 2ème année.",
+      "Objectifs d'apprentissage":"Ce cours donne les bases de l'optique moderne, nécessaires pour mettre en ½uvre les différentes applications abordées dans le cours Ingénierie Optique II. Le cours met l'accent sur les principes fondamentaux en les illustrant avec des expériences de cours et des exemples pratiques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ingénierie optique I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

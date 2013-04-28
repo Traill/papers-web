@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1748172&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","104"],
+    "title":"Analysis (German) I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1748172&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=&ww_c_langue=en",
+    "section":"MT",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213191",
+      "name":"Kressner Daniel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Studium der wichtigsten Methoden der Differential- und Integralrechnung von reellwertigen Funktionen. Die Vorlesung bereitet die Studenten auf Anwendungen im Ingenieurwesen vor.",
+      "Content":"Natürliche, ganze, reelle und komplexe Zahlen.[br/]Funktionen, Folgen, Reihen und Konvergenz.[br/]Stetigkeit.[br/]Ableitungen, Taylor Entwicklung mit Rest, Taylor-Reihe.[br/]Bestimmte und unbestimmte Integrale.[br/]Uneigentliche Integrale.[br/]Reihenentwicklungen.[br/]Differentialgleichungen.[br/]Funktionen von Variablen im Rn: Stetigkeit, Ableitungen und partielle Ableitungen.[br/]Implizite Funktionen.[br/]Extrema, Optimierungsprobleme mit Nebenbedingungen.[br/]Multiple Integrale.[br/][br/]Für jede der Analysisvorlesungen kann der Inhalt und die Reihenfolge der behandelten Themen leicht vom obigen Plan abweichen.",
+      "Type of teaching":"Ex cathedra mit Uebungen",
+      "Form of examination":"Die Prüfung ist schriftlich, findet jeweils am Ende jedes Semesters statt und jede der beiden Prüfungen dauert 3 Stunden."
+    },
+    "practical":null,
+    "language":"Deutsch",
+    "title":"Analysis I (German)",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/213191",
+      "name":"Kressner Daniel"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"Nombres entiers, réels et complexes.[br/]Fonctions réelles, suites, limites.[br/]Continuité.[br/]Dérivées, développement limité et séries de Taylor.[br/]Primitives et intégrales définies.[br/]Intégrales généralisées.[br/]Séries numériques, séries entières.[br/]Equations différentielles.[br/]Fonctions de plusieurs variables : continuité, dérivées et dérivées partielles.[br/]Fonctions implicites.[br/]Extrema et extrema liés.[br/]Intégrales multiples.[br/][br/]Le programme détaillé et l'ordre peuvent varier.[br/]",
+      "Forme du contrôle":"L'examen est écrit et semestriel, et chaque examen dure 3 heures.",
+      "Bibliographie et matériel":"Der Professor wird die für seine Vorlesung empfohlene Lektüre besprechen.",
+      "Objectifs d'apprentissage":"Etude des méthodes principales du calcul différentiel et intégral de fonctions réelles en vue de leur utilisation par le futur ingénieur.[br/]"
+    },
+    "practical":null,
+    "language":"Deutsch",
+    "title":"Analyse I (allemand)",
+    "recitation":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

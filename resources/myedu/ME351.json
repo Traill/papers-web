@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776897&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","351"],
+    "title":"Thermodynamics and energetics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776897&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written examen at the end of the semester",
+      "Required prior knowledge":"[li]Thermodynamics and energy systems analysis II",
+      "Content":"[b]Mixtures of gases and condensible substances (complements)[/b][br/][b]Exergy analysis :[/b] caracterisation  of exergy terms including exergy losses of dissipation and devalorisation, first and second Law efficiencies.[br/][br/][b]Combustion :[/b] elements of chemical kinetics, thermal properties of combustion gases, combustion phenomena, energy and exergy analyses of energy systems including combustion (combustion chambers, boilers and fuel cells).[br/][br/][br/][b]Generalisation of the cycle theory :[/b] (engine and compression heat pump cycles, improvements of basic Rankine and Brayton cycles, etc.)[br/]",
+      "Keywords":"Thermodynamics, energy, matter, cycles",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Master the concepts of mass, energy, and momentum balance, E1[br/][li]Compute the thermodynamic properties of a fluid, E2...[br/][li]Compute the main thermodynamic processes of compressible and incompressible fluids, E4[br/][li]Understand the main thermodynamic cycles, E5[br/][li]Master the concepts of thermodynamic efficiency, E6[br/][li]Know the principles and limitations of the main energy conversion technologies, E7[br/][b]Transversal skills:[/b][br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19[br/][li]Work ethically respecting safety and the environment, T21[br/][li]Analyse the consequences of a decision or solution, T20[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Thermodynamics and energetics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-545-4&amp;con_lng=ENG\" target=\"blank\">Thermodynamique et énergétique. Vol.1 De l'énergie à l'exergie / Lucien Borel et Daniel Favrat</a>\". Year:2005. ISBN:2-88074-545-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-215-3&amp;con_lng=ENG\" target=\"blank\">Thermodynamique et énergétique. Vol.2 / Lucien Borel et Daniel Favrat</a>\". Year:1993. ISBN:2-88074-215-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Thermodynamique et énergétique I",
+      "Bibliographie et matériel":"Borel, Favrat Thermodynamique et énergétique I, PPUR[br/][br/]Borel, Favrat et al. Thermodynamique et énergétique II, PPUR ",
+      "Mots clés":"Thermodynamique, énergie, matière, cycles",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Mélanges d'un gaz et d'une substance condensable (compléments)[/b][br/][b]Théorie de l'exergie :[/b] caractérisation des pertes exergétiques de dissipation et de dévalorisation, bilans énergétiques et exergétiques de systèmes en régime permanent, rendements et efficacités.[br/][b]Combustion:[/b] éléments de cinétique chimique, propriétés thermodynamiques des gaz de combustion, déroulement d'une combustion, condensation de l'eau des gaz de combustion, bilans énergétiques et exergétiques pour les systèmes en régime permanent (relatifs aux chambres de combustion, aux chaudières et aux moteurs à combustion interne). Phénoménologie des piles à combustible.[br/][br/][b]Généralisation de la théorie des cycles[/b] (cycles moteurs, cycles générateurs, cogénération, améliorations des cycles de Rankine et de Brayton, etc.)[br/]",
+      "Forme du contrôle":"Examen écrit à la fin du semestre",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Maîtriser les notions de bilans de matière, d'énergie et de quantité de mouvement, E1[br/][li]Calculer les propriétés thermodynamiques d'un fluide, E2...[br/][li]Calculer les principales transformations thermodynamiques des fluides compressibles et incompressibles, E4[br/][li]Comprendre les principaux cycles thermodynamiques, E5[br/][li]Maîtriser les notions de rendements thermodynamiques, E6[br/][li]Connaître les principales technologies de conversion de l'énergie, leurs principes et leurs limites, E7[br/][b]Compétences transversales:[/b][br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Travailler éthiquement dans le respect de la sécurité et de l'environnement, T21[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Thermodynamique et énergétique II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-545-4&amp;con_lng=FRE\" target=\"blank\">Thermodynamique et énergétique. Vol.1 De l'énergie à l'exergie / Lucien Borel et Daniel Favrat</a>\". Année:2005. ISBN:2-88074-545-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-215-3&amp;con_lng=FRE\" target=\"blank\">Thermodynamique et énergétique. Vol.2 / Lucien Borel et Daniel Favrat</a>\". Année:1993. ISBN:2-88074-215-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

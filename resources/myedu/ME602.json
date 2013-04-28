@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2977991&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","602"],
+    "title":"Modelling, optimisation, design and analysis of integrated energy systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2977991&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Combined application of process modeling, process integration techniques and optimization reveals to be a very efficient tool for the design of integrated energy systems. The student will learn advanced concepts in the field of process integration, process modeling and optimization for the design of integrated energy systems: Life cycle energy analysis.[br/][br/][li]Mixed Integer linear and non linear optimization techniques and their application;[br/][li]Environomic (combined economic, thermodynamic and emission) modeling concepts;[br/][li]Multi objective optimization techniques and their application;",
+      "Content":"[li] Advanced process integration techniques based on mixed integer programming for site scale energy system integration.[br/][li] Integration of advanced energy conversion technologies including cogeneration, heat pumps and refrigeration systems in industrial processes and urban communities.[br/][li] Combined integration of heat and water for the design of integrated system.[br/][li] Process integration of batch and discontinuous processes.[br/][li] Definition of objective functions based on life cycle & energy analysis.[br/][li] Multi-objective optimization including energetic, environmental and economic parameters.[br/][li] Application to the design of integrated energy systems: zero emission plants, advanced cycles including combined cycles, thermal solar plants, hybrid solar combined cycles.",
+      "Form of examination":"Oral presentation and project report",
+      "Required prior knowledge":"Process integration (advanced energy systems),  modeling and optimization of energy systems, thermodynamics, basic in optimization techniques"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Modelling, optimisation, design and analysis of integrated energy systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/140973",
+      "name":"Maréchal François"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Advanced process integration techniques based on mixed integer programming for site scale energy system integration.[br/][li] Integration of advanced energy conversion technologies including cogeneration, heat pumps and refrigeration systems in industrial processes and urban communities.[br/][li] Combined integration of heat and water for the design of integrated system.[br/][li] Process integration of batch and discontinuous processes.[br/][li] Definition of objective functions based on life cycle & energy analysis.[br/][li] Multi-objective optimization including energetic, environmental and economic parameters.[br/][li] Application to the design of integrated energy systems: zero emission plants, advanced cycles including combined cycles, thermal solar plants, hybrid solar combined cycles.",
+      "Forme du contrôle":"Oral presentation and project report",
+      "Prérequis":"Process integration (advanced energy systems),  modeling and optimization of energy systems, thermodynamics, basic in optimization techniques",
+      "Objectifs d'apprentissage":"Combined application of process modeling, process integration techniques and optimization reveals to be a very efficient tool for the design of integrated energy systems. The student will learn advanced concepts in the field of process integration, process modeling and optimization for the design of integrated energy systems: Life cycle energy analysis.[br/][br/][li]Mixed Integer linear and non linear optimization techniques and their application;[br/][li]Environomic (combined economic, thermodynamic and emission) modeling concepts;[br/][li]Multi objective optimization techniques and their application;"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Modelling, optimisation, design and analysis of integrated energy systems",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

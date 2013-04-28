@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=787366356&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","271"],
+    "title":"Fluid flow",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=787366356&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189938",
+      "name":"Gallaire François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Physical Hydrodynamics, Guyon, Hulin, Petit & Mitescu, Oxford, [br/]2001.",
+      "Required prior knowledge":"Analysis I, II, III[br/]Physics I, II, III",
+      "Content":"The objective of this class is to introduce the fundamental concepts which allow to describe and to understand the physics of fluid flow phenomena. The concepts of diffusion, advection, transport and mixing are introduced as well as the specificities of viscoelastic fluids, granular flow and flames. The approach followed is inductive and avoids the general conservation laws in favour of a case by case treatment of mass, force or energy balance in control volumes.",
+      "Keywords":"Balance, complex fluids",
+      "Type of teaching":"[br/]Lectures and exercise sessions",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Describe a flow in scientific terms, AH1[br/][li]Link flow behaviour with non-dimensional parameters (e.g. Reynolds and Mach numbers), AH2[br/][li]Describe the physical differences between laminar and turbulent flows, AH4[br/][li]Describe the different types of non-Newtonian flows and provide examples of both Newtonian and non-Newtonian flows, AH7[br/][li]Provide a characterization of complex physical behaviour, such as multiphase flow and combustion, AH9[br/][li]Identify the crucial aspects present in a real flow in order to propose an appropriate modelling, AH10[br/][li]Understand similarity laws and their use for dimensioning an experimental testbed, AH33[br/][b]Transversal skills:[/b][br/][li]Do a literature review and assess the state of the art, T4[br/][li]Summarize an article or a technical report, T5[br/][li]Be perseverant through difficulties, T15[br/][li]Differentiate between ideal and feasible, T19"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fluid flow",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-502-3&amp;con_lng=ENG\" target=\"blank\">Hydrodynamique physique / Etienne Guyon, Jean-Pierre Hulin, Luc Petit ; préf. de Pierre-Gilles de Gennes</a>\". Year:2001. ISBN:2-86883-502-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/189938",
+      "name":"Gallaire François"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I, II, III[br/]Physique I, II, III",
+      "Bibliographie et matériel":"Hyrodynamique Physique, Guyon, Hulin & Petit, CNRS Editions, [br/]2001.",
+      "Mots clés":"Bilans, fluides complexes ",
+      "Forme d'enseignement":"Cours magistral et séance d'exercices",
+      "Contenu":"L'objectif de ce cours est d'introduire les notions fondamentales permettant de décrire et de comprendre la physique des écoulements fluides. Il s'agit d'appréhender les notions de diffusion, d'advection, de transport et de mélange ainsi que d'introduire les particularités des fluides complexes comme les fluides viscoélastiques,  les écoulements granulaires ou les flammes. L'approche proposée contourne l'énoncé général des lois  de conservation au profit d'une approche au cas par cas par bilans de matière, de force ou d'énergie dans des volumes de contrôle. ",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Décrire un écoulement en termes scientifiques, AH1[br/][li]Relier les comportements des écoulements aux paramètres adimensionnels (nombre de Reynolds, Mach, etc.), AH2[br/][li]Décrire en termes physiques les différences entre un écoulement laminaire et un écoulement turbulent, AH4[br/][li]Décrire les différents types d'écoulements non newtoniens et donner des exemples d'écoulements newtoniens et non newtoniens, AH7[br/][li]Présenter la typologie des écoulements de physique complexe, tels que multiphasique, combustion, AH9[br/][li]Identifier les aspects cruciaux présents dans un écoulement  réel afin de proposer une modélisation appropriée, AH10[br/][li]Comprendre les lois de similitudes et leur utilisation pour le dimensionnement d'un banc d'essai, AH33[br/][b]Compétences transversales:[/b][br/][li]Réaliser une recherche bibliographique et une revue de l'état de l'art, T4[br/][li]Faire un résumé d'un article ou d'un document technique, T5[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ecoulement des fluides",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-502-3&amp;con_lng=FRE\" target=\"blank\">Hydrodynamique physique / Etienne Guyon, Jean-Pierre Hulin, Luc Petit ; préf. de Pierre-Gilles de Gennes</a>\". Année:2001. ISBN:2-86883-502-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

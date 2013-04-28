@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24004448&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","521"],
+    "title":"Numerical ecology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24004448&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133834",
+      "name":"Buttler Alexandre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"40 % spot written control (2h) during the semester[br/]10 % continuous control (exercises) during the semester[br/]50 % oral exam (30 min) during exam session",
+      "Prerequisite for":"Master project",
+      "Required prior knowledge":"Probabilities and statistics",
+      "Content":"[br/][li]Biological and environmental descriptors, multidimensional data, coding and transformation[br/][li]Resemblance and dependence measures, association matrices[br/][li]Analysis of discontinuities: clustering techniques[br/][li]Regression and classification trees[br/][li]Gradient analysis: ordination techniques in reduce space[br/][li]Direct gradient analysis: constrained ordination[br/][li]Statistical tests for multivariable responses[br/]",
+      "Keywords":"Multivariable analysis, statistics for complexe data sets",
+      "Type of teaching":"Lecture and exercises on laptop, project",
+      "Learning outcomes":"[br/][li]Introduction to multivariate data analysis and modelling[br/][li]Critical choice of methods and their integration in a research planning[br/][li]Preparation to personal research activities[br/][li]Use of dedicated R libraries[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Numerical ecology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-47574-0&amp;con_lng=ENG\" target=\"blank\">Data analysis in community and landscape ecology / ed. by R. H. G. Jongman ... [et al.]</a>\". Year:2001. ISBN:0-521-47574-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-444-89250-8&amp;con_lng=ENG\" target=\"blank\">Numerical ecology / Pierre Legendre and Louis Legendre</a>\". Year:1998. ISBN:0-444-89250-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133834",
+      "name":"Buttler Alexandre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Probabilités et statistique",
+      "Bibliographie et matériel":"Legendre, P., & Legendre, L. (1998): Numerical Ecology. [i]2e ed., Elsevier[/i][br/]Jongman, R.H.G, Ter Braak, C.J.F. & Van Tongeren, O.F.R. (1987): Data analysis in community and landscape ecology. [i]PUDOC, Wageningen. [/i]",
+      "Mots clés":"Analyses multivariables, statistiques pour données complexes",
+      "Forme d'enseignement":"Cours et exercices sur ordinateur, projet",
+      "Contenu":"[br/][li]Descripteurs biologiques et environnementaux, données multidimensionnelles, codage et transformations[br/][li]Mesures de ressemblance et de dépendance, matrice d'association[br/][li]Analyse des discontinuités: les techniques de groupement[br/][li]Arbres de régression et de classification[br/][li]Analyse de gradient: les techniques d'ordination en espace réduit[br/][li]Analyse directe de gradients: ordinations sous contrainte[br/][li]Tests statistiques d'hypothèses pour réponses multivariées[br/]",
+      "Forme du contrôle":"40 % contrôle ponctuel écrit (2h) pendant le semestre[br/]10 % contrôle continu (exercices) pendant le semestre[br/]50 % épreuve orale (30 min) pendant la session d'examen",
+      "Préparation pour":"Projet de Master",
+      "Objectifs d'apprentissage":"[br/][li]Initiation à l'analyse et à la modélisation des données écologiques multidimensionnelles[br/][li]Choix critique des méthodes et intégration de celles-ci dans un plan de recherche [br/][li]Préparation aux travaux de recherche personnels[br/][li]Utilisation de librairies R spécialisées"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ecologie numérique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-47574-0&amp;con_lng=FRE\" target=\"blank\">Data analysis in community and landscape ecology / ed. by R. H. G. Jongman ... [et al.]</a>\". Année:2001. ISBN:0-521-47574-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-444-89250-8&amp;con_lng=FRE\" target=\"blank\">Numerical ecology / Pierre Legendre and Louis Legendre</a>\". Année:1998. ISBN:0-444-89250-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

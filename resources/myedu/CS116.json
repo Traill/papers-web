@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352067537&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","116"],
+    "title":"Project in Informatics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352067537&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7941","http://moodle.epfl.ch/course/view.php?id=7941"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106336",
+      "name":"Sam Jamila"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Team of two's project (2/3) and written exam (1/3)",
+      "Prerequisite for":"Programming bio-mathematiques",
+      "Required prior knowledge":"Computer-aided engineering I, II",
+      "Content":"[li]Algorithmic fundamentals[br/][li]Advanced C++ usage (including the STL)[br/][li]Presentation of commonly used programming libraries[br/][li]Development tools : version control, documentation, etc.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, exercise sessions on computer.",
+      "Learning outcomes":"The goals of this course are as follows:[br/][br/][li]to apply the theoretical and practical knowledge acquired in the courses Computer-aided Engineering I and II;[br/][li]to acquire some fundamental algorithmic notions (complexity, generic strategies for problem solving);[br/][li]to get acquaintance with some commonly used programming libraries;[br/][li]to use tools for managing larger projects.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Project in Informatics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=7941","http://moodle.epfl.ch/course/view.php?id=7941"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106336",
+      "name":"Sam Jamila"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Informatique I, II",
+      "Bibliographie et matériel":"Notes téléchargeables sur le web; livre(s) de référence indiqué(s) en début de semestre",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateurs",
+      "Contenu":"[li]Complément algorithmiques[br/][li]Compléments de C++ et STL;[br/][li]Présentation de librairies courantes;[br/][li]Outils de développement: contrôle de révision, documentation, etc.[br/][br/]Le cours sera axé sur la pratique avec la réalisation de plusieurs projets d'envergures croissantes au cours du semestre.",
+      "Forme du contrôle":"Projets par groupes de deux (2/3) et examen écrit (1/3).",
+      "Préparation pour":"Programmation bio-mathématique",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est de permettre à l'étudiant :[br/][br/][li]de mettre en oeuvre les connaissances théoriques et pratiques acquises dans les cours Informatique I et II;[br/][li]d'acquérir quelques notions algorithmiques fondamentales  (complexité, stratégies de résolution de problèmes); [br/][li]de se familiariser avec quelques librairies couramment utilisées dans le développement d'applications; [br/][li]et d'utiliser des outils permettant de gérer des projets de plus grande envergure."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projets en informatique (pour SV)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771718&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","432"],
+    "title":"Structure and reactivity",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771718&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206338",
+      "name":"Cramer Nicolai"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To develop a detailed knowledge of the key steps of advanced modern organic synthesis going beyond classical chemistry of olefins and carbonyls.",
+      "Content":"[b]1. Repetition of the chemistry of olefins and carbonyls[/b][br/]- limitations[br/][b]2. Rearrangements[/b] [br/]- Sigmatropic: Claisen, Ireland-Claisen, Johnson-Claisen, Eschenmoser, Wittig, Evans-Mislow[br/]- Reactive intermediates : cations, carbenes, nitrenes[br/][b]3. Cyclisations and Cycloadditions[/b][br/]- Pericyclic reactions[br/]- Diels-Alder (normal, hetero, inverse electron demand)[br/]- Dipolar cycloadditions [br/][b]4. Radical- and Photochemistry[/b][br/][b]5. Strrategy of Umpolung[/b] [br/]- Stoichiometric and catalytic [br/][b]6. Metal-catalysis in Organic Chemistry[/b][br/]- Cross-coupling and metathesis[br/]- Olefins and C-H bonds functionalization[br/]- Synthesis of carbo- and heterocyclic systems "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Structure and reactivity",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206338",
+      "name":"Cramer Nicolai"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Connaissances nécessaires: \"Fonctions et réactions organiques I & II\" ou cours équivalent[br/]Connaissances désirable: \"Synthèse asymétrique\" et \"Rétrosynthèse\" ou cours équivalent",
+      "Bibliographie et matériel":"Cours au tableau noir. Notes de cours contiennent les concepts généraux. Exemples illustrés seront vus au cours",
+      "Forme d'enseignement":"Ex cathedra avec séances d'exercices",
+      "Contenu":"[b]1. Répétition de la chimie des oléfines et des carbonyles[/b] [br/]- limitations[br/][b]2. Réarrangements[/b] [br/]- Sigmatropiques : Claisen, Ireland-Claisen, Johnson-Claisen, Eschenmoser, Wittig, Evans-Mislow[br/]- Par intermédiaires réactifs : cations, carbènes, nitrènes[br/][b]3. Cyclisations et cycloadditions[/b][br/]- Réactions péricycliques[br/]- Diels-Alder (normal, hétéro, demande inversée d'électrons)[br/]- Cycloadditions dipolaires[br/][b]4. Méthodes radicalaires et photochimie[/b][br/][b]5. Stratégie et Umpolung[/b] [br/]- Umpolung stoichiométrique et catalytique[br/][b]6. Utilisation des métaux en chimie organique[/b][br/]- Couplage croisé et métathèse[br/]- Fonctionnalisation des oléfines et liaisons C-H[br/]- Synthèse des systèmes carbocycliques et hétérocycliques[br/]",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Développer une connaissance approfondie des étapes clés en synthèse organique moderne avancée en dehors de la chimie classique des oléfines et des carbonyles."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Structure and reactivity",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

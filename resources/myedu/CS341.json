@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348718726&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","341"],
+    "title":"Introduction to computer graphics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348718726&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lgg.epfl.ch/teaching.php","http://lgg.epfl.ch/teaching.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196500",
+      "name":"Pauly Mark"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Exercises 25%, Project 35%, Written Exam 40%",
+      "Prerequisite for":"Advanced Computer Graphics",
+      "Required prior knowledge":"Some experience with C/C++/Java programming is helpful",
+      "Content":"Transformations, Projections, Colors & Lighting, OpenGL rendering pipeline, Shadows, Texture, Shaders, Raytracing, Freeform Curves & Surfaces, Polygon Meshes, Basics of Animation, Keyframing",
+      "Type of teaching":"Lectures, exercises, project",
+      "Learning outcomes":"This course covers fundamental concepts of computer graphics. At the end of the course students will be able to design and implement a rendering system based on OpenGL and raytracing to visualize digital 3D scenes. Students will also be familiar with basic concepts in 3D modeling and computer animation.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to computer graphics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lgg.epfl.ch/teaching.php","http://lgg.epfl.ch/teaching.php"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196500",
+      "name":"Pauly Mark"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"De l'expérience en C / C + + / Java est utile",
+      "Forme d'enseignement":"Séminaires, exercices, projet",
+      "Contenu":"Transformations, projections, couleurs et éclairages, OpenGL, ombres, textures, shaders, lancer de rayons, courbes et surfaces, maillages polygonaux, bases de l'animation, images-clés",
+      "Forme du contrôle":"Exercices 25%, projet 35%, examen écrit 40%",
+      "Préparation pour":"Infographie avancée",
+      "Objectifs d'apprentissage":"Ce cours couvre les concepts fondamentaux de l'infographie. À l'issue du cours, les étudiants seront capables de concevoir et mettre en ½uvre un système de rendu basé sur l'OpenGL et le lancer de rayons afin de visualiser des scènes 3D numériques. Les étudiants se seront également familiarisés avec les concepts de base en modélisation 3D et animation par ordinateur."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to computer graphics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

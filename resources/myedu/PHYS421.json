@@ -1,0 +1,61 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=135955930&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","421"],
+    "title":"Physics, Laboratory work IV (autumn)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=135955930&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"For the section of physic, the Laboratory work of physics IV have to be the theoretical, experimental or applied physics.[br/][br/]For the Laboratory work of physics IV in another section of the EPFL, a description must be supplied to the tutor to allow him to make a decision. If the proposed subject has no relation with one of the above-mentioned aspects, he cannot be accepted as TP IV of physical physics."
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physics, Laboratory work IV (autumn)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Automne",
+    "free_text":{
+      "Objectifs d'apprentissage":"Pour la section de physique, les Travaux Pratiques de physique IV doivent être de la physique théorique, expérimentale ou appliquée.[br/][br/]Pour les Travaux Pratiques de physique IV dans une autre section de l'EPFL, un descriptif doit être fourni au conseiller d'études pour lui permettre de prendre une décision. Si le sujet proposé n'a pas de relation avec un des aspects susmentionnés, il ne peut pas être accepté comme TP IV de physique."
+    },
+    "practical":{
+      "week_hours":8,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Physique TP IVa",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

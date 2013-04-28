@@ -1,0 +1,91 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227317652&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","203"],
+    "title":"Soil mechanics and Groundwater seepage",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=227317652&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105611",
+      "name":"Laloui Lyesse"
+    },{
+      "url":"http://people.epfl.ch/106690",
+      "name":"Vulliet Laurent"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Writing test at the end of the semester",
+      "Prerequisite for":"Rock Mechanics, Foundation Engineering, Hydraulic engineering, Underground structures.",
+      "Required prior knowledge":"Geology, Static and Mechanics of Material, Fluid mechanics.",
+      "Content":"[br/][li]\tExperimental determination of the principal characteristics of soil: density and water content, USCS classification system, permeability, strength, deformability.[br/][li]\tEffective stress principle, long/short term analysis, stress paths.[br/][li]\tIntroduction to non linear behavior of geomaterials. Non linear elasticity (oedometric behavior), Mohr-Coulomb yield criterion. Darcy's law. Compaction.[br/][li]\tTheory of elasticity applied to semi infinite soil mass. Stress-strain states. Consolidation theory (Terzaghi). Earth pressure theories (Rankine). Slope stability (i.e. methods of slices).[br/][li]\tGroundwater flow properties.[br/][li]\tFlow net: equipotential lines and streamlines.[br/][li]\tHeterogeneity and anisotropy influence.[br/][li]\tBidimensional steady flows under long geostructures (impervious sheet-pile, dam, tunnel, drain) and in unconfined aquifer towards trench or through earth dam.[br/][li]\tSteady and transient flow to wells and trenches.[br/][li]\tIntroduction to finite elements and finite differences approaches to solve groundwater flow problems.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra, numerical exercises, practical and laboratory work.",
+      "Learning outcomes":"[br/][li]\tSoil identification and classification.[br/][li]\tDescription of the mechanical behavior of soil: basic constitutive laws, lab and in-situ mechanical tests.[br/][li]\tCalculation of: stresses in soil (theory of elasticity); settlements due to primary consolidation; earth pressure on retaining walls; slope stability.[br/][li]\tTo define seepage properties in soils and rocks (permeability, ...) [br/][li]\tTo express the equations for the determination of seepage characteristic parameters (potential, fluid head, pressure, velocity, ...).[br/][li]\tTo know analytical and numerical resolution techniques, and their application to typical underground seepage problems. [br/][li]\tTo be aware of problems and dangers induced by water.[br/][br/]"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Soil mechanics and Groundwater seepage",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"Mécanique des sols et des roches : extraits d'une version provisoire du futur Traité de génie civil, volume 18 / L. Vulliet, L. Laloui, J. Zhao\". Year:2009</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105611",
+      "name":"Laloui Lyesse"
+    },{
+      "url":"http://people.epfl.ch/106690",
+      "name":"Vulliet Laurent"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Adresse internet: http://lms.epfl.ch/page-51649-fr.html",
+      "Prérequis":"Géologie, Statique et Mécanique des matériaux, Mécanique des fluides.",
+      "Bibliographie et matériel":"Extraits du Traité de Génie Civil, \"Mécanique des Sol et des Roches\", Vulliet, Laloui, Zhao (disponible à la vente des cours)[br/]",
+      "Forme d'enseignement":"Ex cathedra, exercices numériques, travaux pratiques en laboratoire.",
+      "Contenu":"[br/][li]\tMéthodes expérimentales de détermination des principales caractéristiques des sols : compacité et degré d'humidité d'un sol; nomenclature et classification USCS; perméabilité ; résistance au cisaillement; déformabilité.[br/][li]\tPrincipe des contraintes effectives, calcul à court/long terme. Chemins des contraintes.[br/][li]\tIntroduction au comportement non linéaire des géomatériaux. Elasticité non linéaire (comportement oedométrique). Critère de rupture de Mohr-Coulomb. Loi de Darcy. Principes de compactage des remblais.[br/][li]\tThéorie de l'élasticité appliquée à un massif de sol demi-infini. Etats de contrainte et déformation. Théorie de la consolidation de Terzaghi. Théorie des poussées de Rankine. Analyse de stabilité des pentes, notamment par les méthodes des tranches.[br/][li]\tPropriétés des écoulements souterrains.[br/][li]\tRéseaux d'équipotentielles et de lignes de courant.[br/][li]\tInfluence de l'hétérogénéité et de l'anisotropie.[br/][li]\tEcoulements permanents bidimensionnels par-dessous les ouvrages longs (rideau étanche, barrage, tunnel, drain) et en nappe libre vers une tranchée ou à travers un barrage en terre.[br/][li]\tHydraulique des puits et des tranchées en écoulement permanent et transitoire.[br/][li]\tIntroduction à la résolution par éléments finis et différences finies des problèmes d'écoulements souterrains.",
+      "Forme du contrôle":"Examen écrit à la fin du semestre",
+      "Préparation pour":"Mécanique des roches. Travaux de fondations. Voies de circulation. Constructions hydrauliques. Ouvrages souterrains.",
+      "Objectifs d'apprentissage":"[br/][li]\tIdentification et classification des sols.[br/][li]\tDescription du comportement mécanique des sols : connaissance des lois constitutives de base et des essais mécaniques en laboratoire et in situ.[br/][li]\tCalcul : des contraintes dans un massif de sol (théorie de l'élasticité); des déformations par consolidation primaire; des poussées sur un écran (Rankine); de la stabilité des pentes.[br/][li]\tDéfinir les propriétés des écoulements dans les sols et les roches (perméabilité, ...).[br/][li]\tEnoncer les équations qui permettent de déterminer les grandeurs caractéristiques des écoulements (potentiel, perte de charge, pression, vitesse, ...). [br/][li]\tConnaître les méthodes de résolution analytiques et numériques, et savoir les appliquer à des problèmes types d'écoulements souterrains.[br/][li]\tEtre sensible aux problèmes et aux dangers que représente l'eau."
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Mécanique des sols et écoulements souterrains",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"Mécanique des sols et des roches : extraits d'une version provisoire du futur Traité de génie civil, volume 18 / L. Vulliet, L. Laloui, J. Zhao\". Année:2009</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

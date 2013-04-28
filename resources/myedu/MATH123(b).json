@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773777&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","123(b)"],
+    "title":"Geometry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773777&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=&ww_c_langue=en",
+    "section":"GC",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104683",
+      "name":"Buser Jürgpeter"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"Link with other lectures: Analysis",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Analysis I, Linear Algebra",
+      "Content":"[li] Parametrized curves[br/][li] Tangent vectors[br/][li] Bézier curves[br/][li] Curvature[br/][li] Vector fields and moving frames[br/][li] Curves in [b]R2[/b][br/][li] Isometries of [b]Rn[/b][br/][li] Homogeneous coordinates[br/][li] Parametrized surfaces[br/][li] Tangent vectors of a surface[br/][li] The metric tensor[br/][li] Normal curvatures[br/][li] The second fundamental form[br/][li] Principal curvatures[br/]",
+      "Type of teaching":"Ex cathedra lecture",
+      "Learning outcomes":"Improve geometric intuition through the study of curves, surfaces, etc. and acquire skills in the use of mathematical methods to describe and handle geometric objects."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Geometry",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=ENG\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Year:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104683",
+      "name":"Buser Jürgpeter"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Liaison avec d'autres cours : Analyse",
+      "Prérequis":"Analyse I, Algèbre linéraire",
+      "Bibliographie et matériel":"Livre de M. Troyanov : \"Cours de Géométrie\", PPUR 2009.[br/][br/]Manuscrit : \"Géométrie pour Ingénieur\" (P. Buser, K.-D. Semmler).",
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"[li] Paramétrages d'une courbe[br/][li] Vecteurs tangents[br/][li] Courbes de Bézier[br/][li] Courbure[br/][li] Champs vectoriels et repères mobiles[br/][li] Courbes dans [b]R2[/b][br/][li] Isométries de [b]Rn[/b][br/][li] Coordonnées homogènes[br/][li] Paramétrages d'une surface[br/][li] Vecteurs tangents d'une surface[br/][li] Le tenseur métrique[br/][li] Courbures normales[br/][li] La seconde forme fondamentale[br/][li] Courbures principales[br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Approfondir l'intuition géométrique à travers l'étude des courbes, surfaces, etc. et apprendre à appliquer des méthodes mathématiques à des objets de la géométrie."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Géométrie",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-817-3&amp;con_lng=FRE\" target=\"blank\">Cours de géométrie / Marc Troyanov</a>\". Année:2009. ISBN:978-2-88074-817-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

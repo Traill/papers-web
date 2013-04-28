@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773427&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","465"],
+    "title":"Thin film fabrication processes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773427&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To learn about the most important techniques for thin film deposition, about their specific advantages, and about their typical applications.[br/][br/]To understand the essential mechanisms of the processes and for the thin film growth, such as thermal and plasma activation, and chemical reactions.[br/][br/]To know about the impact of process parameters on the properties of the film.[br/][br/]",
+      "Content":"Introduction\t(Samples, applications, importance, history, overview).[br/][br/]Major deposition methods with examples and typical applications:[br/]\t-\tevaporation[br/]\t-\tintroduction to cold plasmas[br/]\t-\tsputter processes[br/]\t-\treactive plasma processes[br/]\t-\tchemical vapour deposition (CVD)[br/]\t-\tplasma enhanced CVD, powder generation[br/]\t-\tother methods in short[br/]\t- plasma surface treatments for organic materials[br/][br/]The examples cover several applications: hard coatings, microelectronics, display technology, optics, coatings on polymers.[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Continuous assessment and oral exam",
+      "Bibliography and material":"Feuilles polycopiées"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Thin film fabrication processes",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105945",
+      "name":"Muralt Paul"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Introduction \t(Échantillons, applications, importance, histoire, vue d'ensemble).[br/][br/]Méthodes importantes avec exemples et applications typiques:[br/]\t-\tévaporation[br/]\t-\tintroduction aux plasmas froids[br/]\t-\tpulvérisation[br/]\t-\tpulvérisation et autres méthodes réactives[br/]\t-\tdéposition chimique en phase vapeur[br/]\t-\tCVD assistée par plasma, poudre dans le plasma[br/]\t-\tautres méthodes en bref[br/]\t- traitement de surfaces organiques par plasma[br/][br/]Les exemples seront pris parmi les applications suivantes: revêtement de protection, microélectronique, technologie de l'affichage, optique, revêtement et modification sur polymères.[br/]",
+      "Forme du contrôle":"Contrôle continu et ponctuel (oral)",
+      "Bibliographie et matériel":"Feuilles polycopiées[br/]Script en français",
+      "Objectifs d'apprentissage":"Apprendre les techniques pour la déposition des couches minces les plus importantes, leurs avantages particuliers, et leurs applications typiques.[br/][br/]Comprendre les mécanismes principaux de déposition et croissance, comme l'activation thermique, l'activation par plasma, et encore des réactions chimiques.[br/][br/]Connaître l'influence des paramètres du procédé sur les propriétés de la couche.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Thin film fabrication processes",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

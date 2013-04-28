@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776777&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=fr",
+    "code":["AR","121"],
+    "title":"Theory of architecture I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776777&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105024",
+      "name":"Dupuis Danièle"
+    },{
+      "url":"http://people.epfl.ch/105709",
+      "name":"Lucan Jacques"
+    },{
+      "url":"http://people.epfl.ch/137578",
+      "name":"Meystre Olivier Nicolas"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course is an introduction to the principal notions and concepts behind the theory of architecture. [br/]",
+      "Content":"[b]Four \"tales\" regarding the origin of architecture[/b][br/][br/]1.\tFraming[br/]2.\tCladding[br/]3.\tFoyer[br/]4.\tMeasure.[br/][br/]5.\tVernacular construction and longevity[br/]6.\tSmart construction and innovation[br/]7.\tRegularity (and classicism)[br/]8.\tIrregularity (and picturesque).[br/][br/]9.\tThe closed order (the room)[br/]10.\tThe open order (the open plan)[br/]11.\tContemporary architecture 1[br/]12.\tContemporary architecture 2.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Theory of architecture I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105024",
+      "name":"Dupuis Danièle"
+    },{
+      "url":"http://people.epfl.ch/105709",
+      "name":"Lucan Jacques"
+    },{
+      "url":"http://people.epfl.ch/137578",
+      "name":"Meystre Olivier Nicolas"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra.",
+      "Contenu":"[b]Quatre « récits » concernant l'origine de l'architecture[/b][br/][br/]1.\tL'ossature [br/]2.\tLe revêtement[br/]3.\tLe foyer[br/]4.\tLa mesure.[br/][br/]5.\tConstruction vernaculaire et longue durée[br/]6.\tConstruction savante et innovation[br/]7.\tRégularité (et \"classicisme\")[br/]8.\tIrrégularité (et pittoresque).[br/][br/]9.\tL'ordre fermé (la pièce)[br/]10.\tL'ordre ouvert (le plan libre)[br/]11.\tArchitecture contemporaine 1[br/]12.\tArchitecture contemporaine 2.[br/][br/]",
+      "Forme du contrôle":"Examen écrit.",
+      "Objectifs d'apprentissage":"Le cours sert d'introduction aux principales notions et concepts relatifs à la théorie de l'architecture. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Théorie de l'architecture I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

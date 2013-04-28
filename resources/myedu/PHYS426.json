@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775522&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","426"],
+    "title":"Quantum physics IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775522&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103561",
+      "name":"Savona Vincenzo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course aims at providing the advanced tools for the theoretical description of quantum many-body systems, both at zero- and finite temperature. The focus of the course is the derivation of the perturbation expansion of one- and two-body Green's functions in terms of Feynman diagrams. For finite temperature, the Matsubara formalism is introduced. As examples, the theories of the Fermi-liquid and of a weakly-interacting Bose gas above Tc, are developed. For a quantum degenerate Bose gas, the symmetry-breaking assumption and the resulting Dyson-Belaev perturbation formalism are developed. As an application, the Bogolyubov and Popov approximations for BEC are developed and superfluidity is discussed. [br/][br/]",
+      "Content":"[b]1.\tIntroduction[/b][br/]- General considerations on quantum many-body systems[br/]- Reminder: second quantization, field operators.[br/]- Reminder: Schrödinger, Heisenberg and interaction representations[br/]- Reminder: statistical mechanics and thermodynamics of ideal Fermi and Bose gases.[br/][b]2.\tPerturbation theory of quantum many-body systems at T=0[/b][br/]- Green's functions: definition and general properties[br/]- Gell-Mann and Low theorem, Wick theorem[br/]- Perturbation expansion and Feynman diagrams. Feynman rules in real and reciprocal space.[br/]- Self-energy and the Dyson equation[br/]- Example: the weakly interacting Fermi gas: The Fermi liquid[br/][b]3.\tPerturbation theory of quantum many-body systems at T>0[/b][br/]- Green's function at finite temperature and imaginary time representation[br/]- Periodicity of the Green's function and expansion in Matsubara frequencies[br/]- Perturbation expansion and Feynman diagrams. Feynman rules in real and reciprocal space.[br/]- Example: The weakly interacting Bose gas above Tc.[br/]- Example: Bose-Einstein condensation and superfluidity[br/][b]4.\tSymmetry-breaking formalism for a quantum degenerate Bose gas[/b][br/]- Bose-Einstein condensation. [br/]- The symmetry-breaking assumption and the Dyson-Belaev formalism[br/]- Feynman rules for the Dyson-Belaev formalism[br/]- Example: Bogolyubov and Popov approximations for BEC. Superfluidity.[br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Form of examination":"Written final exam, plus one mid-term written test. Passing the midterm test gives 1/2 point for the final grade",
+      "Required prior knowledge":"Quantum physics III"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46338-5&amp;con_lng=ENG\" target=\"blank\">Many-particle physics / Gerald D. Mahan</a>\". Year:2000. ISBN:0-306-46338-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-4864-2827-7&amp;con_lng=ENG\" target=\"blank\">Quantum Theory of Many-Particle Systems / Alexander L. Fetter, John Dirk Walecka</a>\". Year:2003. ISBN:978-0-4864-2827-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-08-023073-3&amp;con_lng=ENG\" target=\"blank\">Statistical physics / by L. D. Landau and E. M. Lifschitz Part 2</a>\". Year:1981. ISBN:0-08-023073-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103561",
+      "name":"Savona Vincenzo"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique quantique III",
+      "Bibliographie et matériel":"A. L. Fetter and J. D. Walecka, Quantum Theory of Many-Particle Systems[br/]G. D. Mahan, Many-Particle Physics[br/]E. M. Lifshitz and L. P. Pitaevskii (aka Landau-Lifshitz 9), Statistical Physics, Part 2[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"[b]1.\tIntroduction[/b][br/]- Considérations générales[br/]- Rappel: seconde quantification, opérateurs de champ.[br/]- Rappel: représentations de Schrödinger, Heisenberg et d'interaction[br/]- Rappel: Thermodynamique et physique statistique des Gaz de Bose et de Fermi non interagissant.[br/][b]2.\tThéorie de perturbation de systèmes quantiques à plusieurs corps à T=0[/b][br/]- Fonction de Green: définition et propriétés générales[br/]- Théorème de Gell-Mann et Low, théorème de Wick[br/]- Théorie de perturbation et diagrammes de Feynman. Règles de Feynman en l'espace réel et réciproque[br/]- Self-énergie et l'équation de Dyson[br/]- Ex.: le gaz de Fermi faiblement interagissant: le liquide de Fermi [br/][b]3.\tThéorie de perturbation de systèmes quantiques à plusieurs corps à T>0[/b][br/]- Fonction de Green à température finie et représentation en temps imaginaire[br/]- Périodicité de la fonction de Green et développement en fréquences de Matsubara[br/]- Théorie de perturbation et diagrammes de Feynman. Règles de Feynman en l'espace réel et réciproque[br/]- Exemple: Le gaz de Bose faiblement interagissant au-dessus de Tc.[br/]- Exemple: La condensation de Bose-Einstein et la superfluidité[br/][b]4.\tLe formalisme avec rupture de symétrie pour un gaz de Bose dégénéré[/b][br/]- Condensation de Bose-Einstein [br/]- L'hypothèse de rupture de symétrie et le formalisme de Dyson-Belaev[br/]- Règles de Feynman pour le formalisme de Dyson-Belaev[br/]- Exemple: Approximations de Bogolyubov et de Popov approximations pour la condensation de Bose-Einstein. Superfluidité.",
+      "Forme du contrôle":"Examen écrit. Un contrôle écrit durant le semestre. La réussite du contrôle donne 1/2 point sur la note finale",
+      "Objectifs d'apprentissage":"Ce cours vise à fournir les outils avancés pour la description théorique des systèmes quantiques à plusieurs corps, à la fois à température zéro et finie. On dérivera la théorie de perturbation pour les fonctions de Green à un et à deux corps, à l'aide des diagrammes de Feynman. Pour le cas à température finie, on introduira le formalisme de Matsubara. La théorie du liquide de Fermi et celle du gaz de Bose au-dessus de Tc seront développées à titre d'exemples. Ensuite, on introduira l'hypothèse de rupture de symétrie, nécessaire pour décrire le gaz de Bose dégénéré, et on développera le formalisme de Dyson-Belaev qui s'ensuit. Comme exemples, les approximations de Bogolyubov et de Popov pour la BEC seront développées et la superfluidité sera discuté."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-306-46338-5&amp;con_lng=FRE\" target=\"blank\">Many-particle physics / Gerald D. Mahan</a>\". Année:2000. ISBN:0-306-46338-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-4864-2827-7&amp;con_lng=FRE\" target=\"blank\">Quantum Theory of Many-Particle Systems / Alexander L. Fetter, John Dirk Walecka</a>\". Année:2003. ISBN:978-0-4864-2827-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-08-023073-3&amp;con_lng=FRE\" target=\"blank\">Statistical physics / by L. D. Landau and E. M. Lifschitz Part 2</a>\". Année:1981. ISBN:0-08-023073-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

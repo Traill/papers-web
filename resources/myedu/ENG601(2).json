@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=445492504&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","601(2)"],
+    "title":"Light sources: optical fiber and waveguide lasers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=445492504&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ioa.epfl.ch","http://ioa.epfl.ch "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] Understanding of waveguide laser concepts and design[br/][li] Acquiring skills for waveguide laser development[br/][li] Overview about actual research and applications[br/]",
+      "Content":"[li] Spectra of rare earth ions, Intra-ionic processes, inter ionic interaction[br/][li] Materials and waveguide fundamentals (planar and circular)[br/][li] Basics of lasers and amplifiers, pump and resonator geometries[br/][li] Bragg grating fiber lasers[br/][li] Pulsed fiber lasers[br/][li] Upconversion lasers and non-linear waveguide lasers[br/][li] Waveguide laser zoo[br/][li] hands-on on fiber splicing and handling, fiber, fiber laser characterization[br/][li] visit of Swiss fiber manufacturer (optional)[br/]",
+      "Keywords":"Lasers, waveguides, optical fibers, resonators",
+      "Required prior knowledge":"[li] Basics in physics (electrodynamics, waves, atomic physics)[br/][li] Basics in optics (lightwave, diffraction, lasers)[br/]"
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Light sources: optical fiber and waveguide lasers",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":19
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ioa.epfl.ch","http://ioa.epfl.ch "]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105668",
+      "name":"Limberger Hans Georg"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li] Spectra of rare earth ions, Intra-ionic processes, inter ionic interaction[br/][li] Materials and waveguide fundamentals (planar and circular)[br/][li] Basics of lasers and amplifiers, pump and resonator geometries[br/][li] Bragg grating fiber lasers[br/][li] Pulsed fiber lasers[br/][li] Upconversion lasers and non-linear waveguide lasers[br/][li] Waveguide laser zoo[br/][li] hands-on on fiber splicing and handling, fiber, fiber laser characterization[br/][li] visit of Swiss fiber manufacturer (optional)[br/]",
+      "Mots clés":"Lasers, waveguides, optical fibers, resonators",
+      "Prérequis":"[li] Basics in physics (electrodynamics, waves, atomic physics)[br/][li] Basics in optics (lightwave, diffraction, lasers)[br/]",
+      "Objectifs d'apprentissage":"[li] Understanding of waveguide laser concepts and design[br/][li] Acquiring skills for waveguide laser development[br/][li] Overview about actual research and applications[br/]"
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Light sources: optical fiber and waveguide lasers",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":19
+    }
+  }
+}

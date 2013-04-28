@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128778875&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","450"],
+    "title":"Advanced algorithms",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=128778875&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"IN",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcbb.epfl.ch/algs11/","  http://lcbb.epfl.ch/algs11/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172233",
+      "name":"Moret Bernard"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To learn the main techniques for analyzing and for designing[br/]algorithms, while building a repertory of basic algorithmic solutions[br/]to problems in graph theory, linear algebra, geometry, biology,[br/]scheduling, and finance.",
+      "Content":"[br/]Algorithm analysis techniques: worst-case and amortized,[br/]average-case, randomized, competitive. Basic algorithm design[br/]techniques: greedy, iterative, incremental, divide-and-conquer,[br/]dynamic programming, and randomization.",
+      "Form of examination":"Controle continu (weekly graded homeworks, 3 tests)",
+      "Required prior knowledge":"Basic data structures (arrays, lists, stacks, queues,[br/]trees) and algorithms (binary search; sorting; graph connectivity);[br/]basic discrete mathematics (proof methods, induction, enumeration and[br/]counting, graphs); data abstraction."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced algorithms",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-60582-7&amp;con_lng=ENG\" target=\"blank\">Algebraic complexity theory / Peter Bürgisser, Michael Clausen, M. Amin Shokrollahi ; with the collab. of Thomas Lickteig</a>\". Year:1997. ISBN:3-540-60582-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-65367-8&amp;con_lng=ENG\" target=\"blank\">Approximation algorithms / Vijay V. Vazirani</a>\". Year:2003. ISBN:3-540-65367-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53082-1&amp;con_lng=ENG\" target=\"blank\">Computational complexity / Christos H. Papadimitriou</a>\". Year:1996. ISBN:0-201-53082-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-63235-8&amp;con_lng=ENG\" target=\"blank\">Quantum computation and quantum information / Michael A. Nielsen and Isaac L. Chuang</a>\". Year:2003. ISBN:0-521-63235-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-47465-5&amp;con_lng=ENG\" target=\"blank\">Randomized algorithms / Rajeev Motwani, Prabhakar Raghavan</a>\". Year:1995. ISBN:0-521-47465-5</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcbb.epfl.ch/algs11/","  http://lcbb.epfl.ch/algs11/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172233",
+      "name":"Moret Bernard"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"Algorithm analysis techniques: worst-case and amortized,[br/]average-case, randomized, competitive. Basic algorithm design[br/]techniques: greedy, iterative, incremental, divide-and-conquer,[br/]dynamic programming, and randomization.",
+      "Forme du contrôle":"Controle continu (weekly graded homeworks, 3 tests)",
+      "Prérequis":"Basic data structures (arrays, lists, stacks, queues,[br/]trees) and algorithms (binary search; sorting; graph connectivity);[br/]basic discrete mathematics (proof methods, induction, enumeration and counting, graphs); data abstraction.",
+      "Objectifs d'apprentissage":"To learn the main techniques for analyzing and for designing[br/]algorithms, while building a repertory of basic algorithmic solutions[br/]to problems in graph theory, linear algebra, geometry, biology,[br/]scheduling, and finance."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced algorithms",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-60582-7&amp;con_lng=FRE\" target=\"blank\">Algebraic complexity theory / Peter Bürgisser, Michael Clausen, M. Amin Shokrollahi ; with the collab. of Thomas Lickteig</a>\". Année:1997. ISBN:3-540-60582-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-65367-8&amp;con_lng=FRE\" target=\"blank\">Approximation algorithms / Vijay V. Vazirani</a>\". Année:2003. ISBN:3-540-65367-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-53082-1&amp;con_lng=FRE\" target=\"blank\">Computational complexity / Christos H. Papadimitriou</a>\". Année:1996. ISBN:0-201-53082-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-63235-8&amp;con_lng=FRE\" target=\"blank\">Quantum computation and quantum information / Michael A. Nielsen and Isaac L. Chuang</a>\". Année:2003. ISBN:0-521-63235-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-47465-5&amp;con_lng=FRE\" target=\"blank\">Randomized algorithms / Rajeev Motwani, Prabhakar Raghavan</a>\". Année:1995. ISBN:0-521-47465-5</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

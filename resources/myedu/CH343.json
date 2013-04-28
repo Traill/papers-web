@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47987731&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","343"],
+    "title":"Spectroscopy",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47987731&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121774",
+      "name":"Drabbels Marcel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Develop a solid base in molecular spectroscopy.",
+      "Content":"[br/][li] Molecular Symmetry and Molecular Spectroscopy [br/][li] Overview of Molecular Spectroscopy[br/][li] Rotational Spectroscopy[br/][li] Vibrational Spectroscopy[br/][li] Electronic Spectroscopy"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Spectroscopy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/121774",
+      "name":"Drabbels Marcel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Le cours est donné en anglais",
+      "Prérequis":"Le cours nécessite les connaissances de: \"Chimie quantique \"",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[br/][li] Symétrie moléculaire et spectroscopie moléculaire[br/][li] Survol de la spectroscopie moléculaire[br/][li] Spectroscopie rotationnelle[br/][li] Spectroscopie vibrationnelle[br/][li] Spectroscopie électronique",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Développer une base solide en spectroscopie moléculaire. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Spectroscopy",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

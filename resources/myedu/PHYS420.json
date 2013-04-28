@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=140433189&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","420"],
+    "title":"Solid State Physics IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=140433189&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lqm.epfl.ch/","http://lqm.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176429",
+      "name":"Rønnow Henrik"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To gain overview of selected experimental methods, material classes and current research topics in the field of solid state physics[br/]",
+      "Content":"[b]1. Scattering methods[/b][br/]- Neutron scattering[br/]- Resonant X-ray scattering[br/]- Angular resolved photoemission[br/][b]2. Bulk methods[/b][br/]- Transport, specific heat and susceptibility[br/][b]3. Strongly correlated electron materials[/b][br/]- Transition metal oxides[br/]- Cuprates: high-temperature superconductivity[br/]- manganites: colossal magnetoresistance[br/][b]4. Quantum magnets[/b][br/]- Low-dimensional magnetism[br/]- Rare-earth magnetism[br/]- Quantum phase transitions",
+      "Type of teaching":"Lectures, exercises, visit to Paul Scherrer Institut",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Solid state physics I and II or the equivalent to one of the book Aschroft&Mermin or Kittel"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Solid State Physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lqm.epfl.ch/","http://lqm.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176429",
+      "name":"Rønnow Henrik"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique du solide I et II ou l'équivalent du livre de Aschroft&Mermin ou de Kittel",
+      "Bibliographie et matériel":"Will be provided as PDF",
+      "Forme d'enseignement":"Ex cathedra, exercices, visite de l'Institut Paul Scherrer ",
+      "Contenu":"[b]1. Méthodes de diffusion[/b][br/]- Diffusion de neutrons[br/]- Diffusion résonnante de rayons X[br/]- Photoémission résolue en angle (ARPES)[br/][b]2. Bulk[/b][br/]- Transport, chaleur spécifique et susceptibilité[br/][b]3. Matériaux à électrons fortement corrélés[/b][br/]- Oxides de métal transitoire[br/]- Cuprates: supraconducteurs à haute température[br/]- Manganite: magnétorésistance colossale[br/][b]4. Aimants quantiques[/b][br/]- Magnétisme en une et deux dimensions[br/]- Magnétisme des terres rares[br/]- Transition de phase quantiques",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Obtenir une vue d'ensemble d'une sélection de méthodes expérimentales, de classes de matériaux et de sujets modernes de recherche en physique du solide"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Solid State Physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

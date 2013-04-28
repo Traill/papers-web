@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400829733&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","730"],
+    "title":"Cosmology: Dark and Luminous Matters",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=400829733&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lastro.epfl.ch","http://lastro.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166196",
+      "name":"Courbin Frédéric"
+    },{
+      "url":"http://people.epfl.ch/178340",
+      "name":"Jablonka Pascale"
+    },{
+      "url":"http://people.epfl.ch/158695",
+      "name":"Meylan Georges"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Two of the most important problems in modern astrophyiscs and cosmology are (i) galaxy formation and their evolution with time and (ii) the study of the distribution and the nature of dark matter and dark energy in the Universe. [br/]This course addresses these two interconnected fields of research and presents a new tool to tackle both issues in the context of future whole-sky multi-wavelength surveys: gravitational lensing. [br/]",
+      "Content":"A ) Gravitational Lensing as a Tool for Astrophysics and Cosmology[br/]1- Phenomenology and history 2- Basic equations 3- Multiple images, Fermat's principle, magnification, time delays 4- Quasar lensing 5- Lensing by individual galaxies: dark matter and substructures 6- Microlensing by stars 7- Extragalactic microlensing 8- Microlensing searches for exoplanets 9- Lensing by galaxy clusters 10- Gravitational lensing as a natural telescope 11- Weak gravitational lensing: principles and applications 12- Weak gravitational lensing: detection and analysis methods 13- Weak lensing by large scale structures 14- Gravitational lensing and cosmology : a bright future[br/]B) Galaxy Evolution : Stellar Populations and Cosmology[br/]1- The different classes of galaxies and their components 2- Evolution of morphologies 3- Basic equations of chemical evolu-tion 4- The star formation rate 5- The initial mass function  6- First stars 7- The chemical abundances 8- Integrated stellar populations 9- Resolved stellar populations 10- The first galaxies 11- Stellar populations and dynamical models  12- Popula-tion synthesis 13- Chemo-dynamical simulations 14- Large structures of the Universe[br/]",
+      "Keywords":"cosmology; astrophysics; galaxies; gravitational lensing; stellar population; dark matter",
+      "Note":"slides and exercises",
+      "Required prior knowledge":"master in astrophysics or physics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cosmology: Dark and Luminous Matters",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lastro.epfl.ch","http://lastro.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/166196",
+      "name":"Courbin Frédéric"
+    },{
+      "url":"http://people.epfl.ch/178340",
+      "name":"Jablonka Pascale"
+    },{
+      "url":"http://people.epfl.ch/158695",
+      "name":"Meylan Georges"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cosmology: Dark and Luminous Matters",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24168132&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENG","483"],
+    "title":"An introduction to the law of architecture : contracts and competition",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24168132&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188019",
+      "name":"Carrel Matthieu"
+    },{
+      "url":"http://people.epfl.ch/111310",
+      "name":"Werro Franz"
+    },{
+      "url":"http://people.epfl.ch/112780",
+      "name":"Zufferey Jean-Baptiste"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]Elementary knowledge of private and public construction law.[br/][li]Awareness of concrete problems linked to the practice of the profession in architecture.[br/]",
+      "Content":"1.\tGeneral introduction to private and public law.[br/][br/]2.\tIntroduction to public law.[br/][li]Public procurement.[br/][li]Building permit.[br/][br/]3.\tIntroduction to private law.[br/][li]Contracts.[br/][li]Tort.[br/][li]Other institutions of private law.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"An introduction to the law of architecture : contracts and competition",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"Code civil suisse du 10 décembre 1907 / éd. par la Chancellerie Fédérale\"</li><li>\"Code des obligations / éd. par la Chancellerie Fédérale\"</li></ul>",
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188019",
+      "name":"Carrel Matthieu"
+    },{
+      "url":"http://people.epfl.ch/111310",
+      "name":"Werro Franz"
+    },{
+      "url":"http://people.epfl.ch/112780",
+      "name":"Zufferey Jean-Baptiste"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra.",
+      "Contenu":"1.\tIntroduction générale au droit privé et public.[br/][br/]2.\tIntroduction au droit public.[br/][li]Les marchés publics.[br/][li]Le permis de construire.[br/][br/]3.\tIntroduction au droit privé.[br/][li]Les contrats.[br/][li]La responsabilité civile.[br/][li]Les autres institutions du droit privé.[br/][br/]",
+      "Bibliographie et matériel":"Polycopié de droit privé et de droit public. Recueil de lois. Code civil et Code des obligations. Normes SIA 102, 118.",
+      "Objectifs d'apprentissage":"[li]Connaissance des notions fondamentales en droit privé et public de la construction.[br/][li]Sensibilisation à des problèmes concrets liés à l'exercice de la profession d'architecte.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Droit de l'architecte I, introduction : contrats et concours",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"Code civil suisse du 10 décembre 1907 / éd. par la Chancellerie Fédérale\"</li><li>\"Code des obligations / éd. par la Chancellerie Fédérale\"</li></ul>",
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

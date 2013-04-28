@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179240&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","110"],
+    "title":"Linear algebra I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1179240&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"MA",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133751",
+      "name":"Testerman Donna"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Linear algebra I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-616-7&amp;con_lng=ENG\" target=\"blank\">Algèbre linéaire : aide-mémoire, exercices et applications / Robert C. Dalang, Amel Chaabouni</a>\". Year:2004. ISBN:2-88074-616-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-66959-3&amp;con_lng=ENG\" target=\"blank\">Elementary linear algebra : applications version / Howard Anton, Chris Rorres</a>\". Year:2005. ISBN:978-0-471-66959-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133751",
+      "name":"Testerman Donna"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre linéaire I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-616-7&amp;con_lng=FRE\" target=\"blank\">Algèbre linéaire : aide-mémoire, exercices et applications / Robert C. Dalang, Amel Chaabouni</a>\". Année:2004. ISBN:2-88074-616-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-66959-3&amp;con_lng=FRE\" target=\"blank\">Elementary linear algebra : applications version / Howard Anton, Chris Rorres</a>\". Année:2005. ISBN:978-0-471-66959-3</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

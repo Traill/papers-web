@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773932&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","571"],
+    "title":"High voltage",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773932&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106791",
+      "name":"Zweiacker Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Bibliography and material":"Vol. XII et XXII du Traité d'électricité de l'EPFL",
+      "Prerequisite for":"High voltage lab",
+      "Content":"[b]1. Introduction[/b][br/]Historical review, general remarks, studies area.[br/][br/][b]2. Electrostatic[/b][br/]Fundamentals. Needle effect, Schwaiger factor. Rogowski profile.[br/][br/][b]3. Insulating material[/b][br/]Sorts of materials (solid, liquid, and gas). Charateristic quantities (conductivity, permittivity, loss factor, electric strength, partial discharges). Ageing.[br/][br/][b]4. Electric discharge[/b][br/]Discharge in gas, Paschen's law, arc. Discharge in solids and liquids. Lightning.[br/][br/][b]5. High voltage generators[/b][br/]Electrostatic generators. AC, DC high-voltage generators. Transient voltage generators. Power quality.[br/][br/][b]6. High-voltage measurements[/b][br/]Static charges measurements. AC, DC, and transient voltages measurement. Transient current measurement. Measurement of the properties of the insulating material. Measurement of the grounding systems, biological effects of currents. Measurement of electric and magnetic fields, biological effect of fields. Miscellaneous measurements.[br/][br/][b]7. High-voltage applications[/b][br/]\"Power network\" applications: isolators, switches, surge arresters, cables. Other applications: xerography, electrostatic cleaning, X rays, fragmentation, food preservation, atomization, taser.",
+      "Type of teaching":"Courses and exercises, demonstrations, plant visits ",
+      "Learning outcomes":"To learn specific high-voltage phenomena and to master the design of applications which make use of high voltages."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"High voltage",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-482-2&amp;con_lng=ENG\" target=\"blank\">Haute tension / par Michel Aguet et Michel Ianoz</a>\". Year:2001. ISBN:2-88074-482-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106791",
+      "name":"Zweiacker Pierre"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Vol. XXII du Traité d'électricité de l'EPFL. : Haute tension / par Michel Aguet et Michel Ianoz, 2001",
+      "Forme d'enseignement":"Cours et exercices intégrés, démonstrations, visites d'installations",
+      "Contenu":"[b]1. Introduction à la haute tension[/b][br/]Historique, généralités sur la haute tension.[br/][br/][b]2. Electrostatique[/b][br/]Principes fondamentaux. Effet des pointes. Facteur de Schwaiger. Surface de Rogowski.[br/][br/][b]3. Matériaux isolants[/b][br/]Types de matériaux (solides, liquides et gazeux). Grandeurs caractéristiques (conductivité, permittivité, facteur de pertes, rigidité diélectrique, décharges partielles). Vieillissement.[br/][br/][b]4. Décharge électrique[/b][br/]Décharge dans les gaz, loi de Paschen, arc électrique. Décharge dans les liquides, dans les solides et dans le vide. La foudre.[br/][br/][b]5. Générateurs de hautes tensions[/b][br/]Générateurs électrostatiques. Générateurs de hautes tensions alternatives et continues. Générateurs de hautes tensions transitoires. Qualité de la tension.[br/][br/][b]6. Mesures en haute tension[/b][br/]Mesure de charges statiques. Mesure de tensions alternatives, continues et transitoires. Mesure de courants transitoires. Mesure des caractéristiques des matériaux isolants. Mesure de terre, effets biologiques des courants. Mesure des champs électriques et magnétiques, effets biologiques des champs. Autres mesures.[br/][br/][b]7. Applications de la haute tension[/b][br/]Application « réseau électrique » : isolateurs, disjoncteurs, parafoudre, câbles. Autres applications : xérographie, purification, rayons X, fragmentation, conservations alimentaire, atomisation, taser.[br/]",
+      "Forme du contrôle":"Oral",
+      "Préparation pour":"Laboratoire haute tension",
+      "Objectifs d'apprentissage":"Apprendre à connaître les phénomènes spécifiques aux hautes tensions et maîtriser la conception d'applications qui font usage de tensions élevées."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Haute tension",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-482-2&amp;con_lng=FRE\" target=\"blank\">Haute tension / par Michel Aguet et Michel Ianoz</a>\". Année:2001. ISBN:2-88074-482-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

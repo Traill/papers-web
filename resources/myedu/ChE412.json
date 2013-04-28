@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771533&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ChE","412"],
+    "title":"Polyelectrolytes and biopolymers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771533&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112792",
+      "name":"Wandrey Christine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to polyelectrolytes (PEL) and biopolymers including chemistry, physical chemistry, physics, and their practical application. [br/]PEL and BP are essential to many technical applications and play an important role in biological processes. Considerable interest is also directed toward their application as new materials resulting from structure formation processes in solution and at interfaces having novel and unusual properties.[br/]For the optimization of appropriate processes and materials it is necessary to understand how molecular and electrochemical parameters influence the behavior and function of PEL and BP.[br/][br/]",
+      "Content":"[li] Structure and composition of synthetic PEL and BP[br/][br/][li] PEL and BP in solution[br/][br/][li] Specific PEL and BP characteristics[br/][br/][li] Macromolecular characterization[br/][br/][li] Electrochemical characterization[br/][br/][li] PEL and BP interactions[br/][br/][li] Structure formation by electrostatic interaction[br/][br/][li] Practical and potential application of PEL and BP - PEL and BP materials[br/][br/][li] Areas of application: biotechnology, food industry, micro and nanotechnology, pharmaceutical industry, biomedicine, separation technology, paper industry, ...[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polyelectrolytes and biopolymers",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112792",
+      "name":"Wandrey Christine"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[li] Structure et composition de PEL synthétique et BP[br/][br/][li] PEL et BP en solution[br/][br/][li] Caractéristiques spécifiques de PEL et BP[br/][br/][li] Caractérisation macromoléculaire[br/][br/][li] Caractérisation électrochimique[br/][br/][li] Interactions des PEL et BP[br/][br/][li] Formation de structures par interactions électrostatiques[br/][br/][li] Application pratique et potentielles des PEL et BP et des matériaux PEL et BP[br/][br/][li] Domaines d'application: biotechnologie, industrie alimentaire, micro et nanotechnologie, industrie pharmaceutique, biomédecine, technologie de séparation, industrie papetière,...",
+      "Forme du contrôle":"Continu",
+      "Bibliographie et matériel":"Polycopié, online Moodle",
+      "Objectifs d'apprentissage":"Introduction aux polyélectrolytes (PEL) et biopolymères (BP) comprenant chimie, physico-chimie, physique, et leurs applications pratiques.[br/]Les PEL et BP sont essentiels dans de nombreuses applications techniques et jouent un rôle important dans les procédés biologiques. Un intérêt considérable vient de leur utilisation comme nouveau matériaux qui résultent du procédé de formation de leur structure en solution et aux interfaces présentant des propriétés nouvelles et inhabituelles.[br/]Pour optimiser les procédés et matériaux, il faut comprendre comment les paramètres moléculaires et électrochimiques influencent le comportement et la fonction du PEL et BP."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Polyelectrolytes and biopolymers",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

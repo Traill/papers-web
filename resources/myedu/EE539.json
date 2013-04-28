@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773667&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","539"],
+    "title":"Electric filters",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773667&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral",
+      "Bibliography and material":"Vol. XIX \"Traité d'Electricité\"[br/]",
+      "Required prior knowledge":"Circuits and systems I and II",
+      "Content":"Analog signals and systems (reminders) [br/]Definition of the analog filtering problems[br/]Theory of non-dissipative 2-poles Theory of non-dissipative 2-ports Analytic approximations[br/]Numerical approximations[br/]Phase shifters[br/]Circuit approximation[br/]Active filters[br/]Introduction to digital filtering Switched capacitor filters",
+      "Type of teaching":"Ex cathedra with exercise sessions",
+      "Learning outcomes":"Introduction to approximation and synthesis methods for analog filters. Modern realization technologies are described including their limitations."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electric filters",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-315-X&amp;con_lng=ENG\" target=\"blank\">Filtres électriques / Hervé Dedieu, Catherine Dehollain, Martin Hasler et Jacques Neirynck</a>\". Year:1996. ISBN:2-88074-315-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107331",
+      "name":"Dehollain Catherine"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Circuits et Systèmes I et II",
+      "Bibliographie et matériel":"Electrical Filter, Editor: Artech House, Authors : Martin Hasler and Jacques Neirynck[br/][br/]",
+      "Forme d'enseignement":"Cours ex cathedra et séances d'exercices",
+      "Contenu":"Rappels sur les signaux et systèmes à temps continu Définition du problème du filtrage analogique Théorie du bipôle non dissipatif[br/]Théorie du quadripôle non dissipatif[br/]Approximations analytiques[br/]Méthodes numériques d'approximation[br/]Correction de phase[br/]Approximation de circuit[br/]Filtres actifs[br/]Introduction au filtrage numérique[br/]Filtres à capacités commutées[br/]",
+      "Forme du contrôle":"Oral",
+      "Objectifs d'apprentissage":"Le cours donnera les notions essentielles permettant de comprendre et de mettre en oeuvre les techniques d'approximation et de synthèse des filtres analogiques. Les technologies modernes de réalisation seront décrites ainsi que leurs limitations."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Filtres électriques",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-315-X&amp;con_lng=FRE\" target=\"blank\">Filtres électriques / Hervé Dedieu, Catherine Dehollain, Martin Hasler et Jacques Neirynck</a>\". Année:1996. ISBN:2-88074-315-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773517&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","102(a)"],
+    "title":"Electrotechnics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773517&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"All courses of the Electrical and Electronic Engineering Section",
+      "Required prior knowledge":"Electrotechnics I",
+      "Content":"[b]Electrical circuits basics[/b][br/]Voltage and current sources. Resistance, capacitance and inductance. Kirchhoff laws. Combination of circuit elements. Voltage/current dividers. Source substitution. Fondamental theorems : Thévenin, Norton, power transfer, superposition.[br/][b]Circuit analysis in sinusoidal steady-state regime[/b][br/]Importance of sinusoidal regime. Response of a linear circuit to a sinusoidal excitation. Phasors and complex analysis. Complexe impedance and admittance. Network of impedances. Phasor representation in complex plane. Bode diagram. Thévenin and Norton theorems in sinusoidal regime. Instantaneous power. Active, reactive and apparent power. Power factor.[br/][b]Symmetrical three-phase systems[/b][br/]Definitions. Three-phase systems in electrical power transmission and distribution. Symmetrical three-phase systems. Simple and line voltages. Phase voltage and current. Power in three-phase systems. Star and delta connections. Star-delta conversions.[br/][b]Unsymmetrical three-phase systems[/b][br/]Symmetrical voltage sources and unsymmetrical loads. Analysis of a star-connected load. Analysis of a delta-connected load.[br/][b]Transient analysis[/b][br/]Definitions. Response to unit-step excitations. Initial conditions. Transient analysis of simple circuits. Time constants. Transient and steady-state responses of a circuit.[br/]",
+      "Type of teaching":"Ex cathedra lectures. Exercises and labs.",
+      "Learning outcomes":"Students will be able to analyze basic linear circuits. They will learn to[br/]apply phasor theory based on complex numbers to analyze linear circuits[br/]in sinusoidal regime. They will also learn to analyze symmetrical and[br/]unsymmetrical three-phase systems. Finally, they will be able to perform[br/]a transient analysis of basic electrical circuits."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechnics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-041-X&amp;con_lng=ENG\" target=\"blank\">Introduction à l'électrotechnique / par Frédéric de Coulon et Marcel Jufer</a>\". Year:2001. ISBN:2-88074-041-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106170",
+      "name":"Rachidi-Haeri Farhad"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Electrotechnique I",
+      "Bibliographie et matériel":"Traité d'électricité, vol. I + compléments  polycopiés + CD Rom. En bibliothèque / in libraries : (cliquez sur le lien pour consulter les informations du réseau de bibliothèque suisse / click on the link to consult information of the Swiss network of libraries)[br/]Introduction à l'électrotechnique / par Frédéric de Coulon et Marcel Jufer, 2001 ",
+      "Forme d'enseignement":"Cours ex cathedra. Exercices et travaux pratiques.",
+      "Contenu":"[b]Circuits électriques[/b] : rappel des notions de base[br/]Sources de tension et de courant, résistance, capacité, inductance. Lois de Kirchhoff. Combinaisons d'éléments. Diviseurs de tension/courant. Substitution de sources. Théorèmes fondamentaux : Thévenin, Norton, transfert de puissance, superposition.[br/][b]Analyse des circuits en régime permanent  sinusoïdal[/b][br/]Importance du régime sinusoïdal. Réponse d'un circuit linéaire à une excitation sinusoïdale. Phaseurs et calcul complexe. Impédance et admittance complexes. Réseaux d'impédances. Diagramme de phaseur et d'impédance. Diagramme de Bode. Théorèmes de Thévenin et de Norton en régime sinusoïdal. Puissance instantanée en régime sinusoïdal. Puissances active, réactive et apparente. Facteur de puissance.[br/][b]Systèmes triphasés symétriques[/b][br/]Définitions. Rôle des systèmes triphasés pour le transport et la distribution d'énergie électrique. Systèmes triphasés symétriques. Tensions simples et composées. Tensions et courants de phases de l'utilisateur. Courants de lignes. Puissances en régime triphasé symétrique. Charges en étoile et en triangle. Conversion triangle-étoile.[br/][b]Systèmes triphasés non symétriques[/b][br/]Sources de tension symétrique avec charge non symétrique. Calcul d'un système triphasé non symétrique avec une charge en triangle. Calcul d'un système triphasé non symétrique avec une charge en étoile.[br/][b]Régimes transitoires[/b][br/]Définitions. Réponse indicielle. Conditions initiales. Analyse du régime transitoire de circuits simples. Constantes de temps. Réponses transitoire et permanente. ",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Tous les cours de la section de génie électrique et électronique ",
+      "Objectifs d'apprentissage":"Les étudiants seront capables de mettre en équation des circuits linéaires. Ils maîtriseront le calcul complexe pour l'analyse des circuits linéaires en régime sinusoïdal. Ils maîtriseront également le calcul de circuits triphasés, symétriques et non symétriques. Ils seront également capables d'analyser la réponse en régime transitoire de circuits élémentaires."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrotechnique II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-041-X&amp;con_lng=FRE\" target=\"blank\">Introduction à l'électrotechnique / par Frédéric de Coulon et Marcel Jufer</a>\". Année:2001. ISBN:2-88074-041-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

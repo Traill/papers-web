@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773437&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","243"],
+    "title":"Electrochemistry of solutions",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773437&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Thermodynamics aspects of electrochemistry (Nernst equation) and its applications.[br/]Aqueous solutions and conductivity[br/]Structure of electrified interfaces.[br/]Electrochemicals reactions at interfaces.",
+      "Content":"[br/][li] Thermodynamics aspects of electrochemistry. Electrochemical potential. Nernst equation. Analytical applications. Ion exchange membrane and Donnan potential.[br/][br/][li] Electrolytes solutions: solvation energy, Debye-Hückel theory. Ion pairing. Transport and ionic conductivity.[br/][br/][br/][li] Interfacial electrochemistry: interfacial tension. Gibbs adsorption equation. Thermodynamic aspsects of electrified interfaces. Structure of electrified interfaces.[br/][br/][li] Amperometry: Tafel law, diffusion controlled reactions.[br/]",
+      "Bibliography and material":"Analytical and Physical Chemistry, EPFL Press, 2006"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrochemistry of solutions",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-673-5&amp;con_lng=ENG\" target=\"blank\">Electrochimie physique et analytique / Hubert H. Girault</a>\". Year:2007. ISBN:978-2-88074-673-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105258",
+      "name":"Girault Hubert"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: Physique générale",
+      "Bibliographie et matériel":"\"Electrochimie physique et analytique\", PPUR, 2006",
+      "Forme d'enseignement":"Ex cathedra & exercices",
+      "Contenu":"[br/][li] Électrochimie thermodynamique: potentiel électrochimique, équation de Nernst, application analytique. Membranes échangeurs d'ions et potentiel de Donnan.[br/][br/][li] Électrochimie ionique: enthalpie de solvatation ionique, théorie de Debye-Hückel, paires d'ions, transport dans les solutions ioniques, la conductivité ionique.[br/][br/][li] Électrochimie interfaciale: tension interfaciale, approche thermodynamique des interfaces, thermodynamique des interfaces électrifiées, structure des interfaces électrifiées.[br/][br/][li] Ampérométrie: courant contrôlé par la cinétique sur l'électrode, courant limité par la diffusion en solution, cas des systèmes quasi-réversibles.",
+      "Forme du contrôle":"Examen écrit ",
+      "Objectifs d'apprentissage":"Connaissance de la thermodynamique électrochimique (équation de Nernst) et ses applications.[br/]Solutions aqueuses et conductivité.[br/]Compréhension de la structure des interfaces électrifiées et des réactions électrochimiques aux interfaces."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Electrochimie des solutions",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-673-5&amp;con_lng=FRE\" target=\"blank\">Electrochimie physique et analytique / Hubert H. Girault</a>\". Année:2007. ISBN:978-2-88074-673-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

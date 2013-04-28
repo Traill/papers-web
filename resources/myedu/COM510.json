@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772065&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","510"],
+    "title":"Advanced digital communications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772065&ww_x_anneeAcad=2012-2013&ww_i_section=950840&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SC-EPFL",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://linx.epfl.ch","http://linx.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122796",
+      "name":"Gastpar Michael Christoph"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Homework 10%, mid-term exam 40% and final exam (50%)",
+      "Bibliography and material":"Duplicated lecture notes",
+      "Required prior knowledge":"Principles of digital communications",
+      "Content":"1. Basic Concepts of Probability and Detection Theory[br/]2. Models and Modulation for the AWGN Channel[br/]3. Introduction to Digital Coding techniques, including classical (Hamming, Reed-Solomon) and modern techniques (LDPC, Turbo).[br/]4. Communication over Band-limited Channels. Equalization and OFDM techniques.[br/]5. Wireless Communication. Diversity, MIMO Communication. V-BLAST architectures and beyond.[br/][br/]Time permitting, we will discuss emerging techniques for multi-user communication.",
+      "Type of teaching":"Ex cathedra + exercises",
+      "Learning outcomes":"The course covers advanced digital communications techniques as they are used in modern communication devices (including wireless communication). The course is a sequel to the course \"Principles of digital communications\"."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced digital communications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://linx.epfl.ch","http://linx.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122796",
+      "name":"Gastpar Michael Christoph"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Principles of digital communications",
+      "Bibliographie et matériel":"Duplicated lecture notes",
+      "Forme d'enseignement":"Ex cathedra + exercices",
+      "Contenu":"1. Concepts de base en probabilités et théorie de la détection[br/]2. Modèles et modulation pour le canal AWGN.[br/]3. Introduction aux techniques de codage digital, dont les techniques classiques (Hamming, Reed-Solomon) et modernes (LDPC, Turbo). [br/]4. Communications sur les canaux à bande limitée. Egalisation et techniques OFDM.[br/]5. Communication sans fil. Diversité. Communication MIMO. Architectures V-BLAST et plus.[br/][br/]Si le temps le permet, nous allons discuter des techniques émergentes pour les communications multi-utilisateurs.[br/]",
+      "Forme du contrôle":"Devoirs 10%, examen mi-session 40% et examen final 50%",
+      "Objectifs d'apprentissage":"Ce cours enseigne des techniques avancées de communications numériques telles qu'utilisées dans les moyens modernes de communication (y compris la communication sans fil). Ce cours est une suite du cours \"Principles of digital communications\"."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced digital communications",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

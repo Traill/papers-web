@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241290048&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","705"],
+    "title":"Speech Signal Processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241290048&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    },{
+      "url":"http://people.epfl.ch/193977",
+      "name":"Garner Philip Neil"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to provide the students with a broad background in state of the art signal processing of speech.  This will include formalisms and methods for analysis and statistical modeling.",
+      "Content":"1. Auditory and computational perception. [br/]Computational and biological auditory models.  Cochlear processing.  Fourier analysis.  Critical band analysis.[br/]2. Auditory production. [br/]Computational and biological models of speech production. Introductory acoustic phonetics.  Linear prediction.  Harmonic plus noise models.  Overlap-add.  Generalised cepstra.[br/]3. Statistical modeling of speech. [br/]Mixture models.  Bayesian methods.  Expectation maximisation (but not HMMs).  Decorrelation.  Dynamic features.[br/]4. Robustness in modeling speech signals.[br/]Effects of room, channel, speaker and noise.  Speech enhancement.  Statistics of speech and noise.  Cepstral normalization.  Vocal tract normalization.  RASTA.  Voice Activity Detection.[br/]5. Laboratory exercises in speech analysis, enhancement, voice activity detection and diarisation.[br/]",
+      "Keywords":"speech, noise, statistical modeling, robustness",
+      "Note":"http://www.idiap.ch/resource/lectures/speech-signal-processing",
+      "Required prior knowledge":"Undergraduate level mathematics and signal processing, including Fourier transforms, linear filters and probability theory.  Programming in Matlab or similar."
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Speech Signal Processing",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":23
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/117014",
+      "name":"Bourlard Hervé"
+    },{
+      "url":"http://people.epfl.ch/193977",
+      "name":"Garner Philip Neil"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Remarque":"URL: http://www.idiap.ch/~pgarne",
+      "Contenu":"1. Auditory and computational perception. [br/]Computational and biological auditory models.  Cochlear processing.  Fourier analysis.  Critical band analysis.[br/]2. Auditory production. [br/]Computational and biological models of speech production. Introductory acoustic phonetics.  Linear prediction.  Harmonic plus noise models.  Overlap-add.  Generalised cepstra.[br/]3. Statistical modeling of speech. [br/]Mixture models.  Bayesian methods.  Expectation maximisation (but not HMMs).  Decorrelation.  Dynamic features.[br/]4. Robustness in modeling speech signals.[br/]Effects of room, channel, speaker and noise.  Speech enhancement.  Statistics of speech and noise.  Cepstral normalization.  Vocal tract normalization.  RASTA.  Voice Activity Detection.[br/]5. Laboratory exercises in speech analysis, enhancement, voice activity detection and diarisation.[br/]",
+      "Mots clés":"speech, noise, statistical modeling, robustness",
+      "Prérequis":"Undergraduate level mathematics and signal processing, including Fourier transforms, linear filters and probability theory.  Programming in Matlab or similar.",
+      "Objectifs d'apprentissage":"The goal of this course is to provide the students with a broad background in state of the art signal processing of speech.  This will include formalisms and methods for analysis and statistical modeling."
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Speech Signal Processing",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":23
+    }
+  }
+}

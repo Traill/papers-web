@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=248366494&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","603(b)"],
+    "title":"Intensive TEM and SEM training course (Spring)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=248366494&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180921",
+      "name":"Alexander Duncan"
+    },{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/178548",
+      "name":"Hébert Cécile"
+    },{
+      "url":"http://people.epfl.ch/104267",
+      "name":"Hessler-Wyser Aïcha"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"1) To learn the basics of scanning and transmission instrumentation and capabilities.[br/]2) To understand the image contrast formation in scanning electron microscopy and in TEM (bright field, dark field, high resolution).[br/]3) To understand X-Ray spectroscopy in SEM and TEM and electron energy loss spectrometry in TEM.[br/]4) To understand the different possibilities and application domains (Materials sciences, biology, crystalline or amorphous materials...)",
+      "Content":"This intensive course is intended for researchers who are new users of electron microscopes. It will provide them with a basic understanding of the instruments, optics of SEM and TEM, their imaging modes, their associated spectroscopy techniques EDS and EELS, related theories of image formation.[br/][br/]The most important sample preparation techniques will be presented. An equal importance will be given to the two major application domains (materials sciences and life sciences). Demonstrations will be given on the microscopes.",
+      "Keywords":"electron microscopy, spectroscopy"
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Intensive TEM and SEM training course (Spring)",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/180921",
+      "name":"Alexander Duncan"
+    },{
+      "url":"http://people.epfl.ch/120862",
+      "name":"Cantoni Marco"
+    },{
+      "url":"http://people.epfl.ch/178548",
+      "name":"Hébert Cécile"
+    },{
+      "url":"http://people.epfl.ch/104267",
+      "name":"Hessler-Wyser Aïcha"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"This intensive course is intended for researchers who are new users of electron microscopes. It will provide them with a basic understanding of the instruments, optics of SEM and TEM, their imaging modes, their associated spectroscopy techniques EDS and EELS, related theories of image formation.[br/][br/]The most important sample preparation techniques will be presented. An equal importance will be given to the two major application domains (materials sciences and life sciences). Demonstrations will be given on the microscopes.",
+      "Mots clés":"electron microscopy, spectroscopy",
+      "Objectifs d'apprentissage":"1) To learn the basics of scanning and transmission instrumentation and capabilities.[br/]2) To understand the image contrast formation in scanning electron microscopy and in TEM (bright field, dark field, high resolution).[br/]3) To understand X-Ray spectroscopy in SEM and TEM and electron energy loss spectrometry in TEM.[br/]4) To understand the different possibilities and application domains (Materials sciences, biology, crystalline or amorphous materials...)"
+    },
+    "practical":{
+      "total_hours":16
+    },
+    "language":"English",
+    "title":"Intensive TEM and SEM training course (b)",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

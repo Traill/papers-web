@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774827&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","340"],
+    "title":"Production methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774827&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105468",
+      "name":"Jacot Jacques"
+    },{
+      "url":"http://people.epfl.ch/102423",
+      "name":"Lüthi Jean-Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Learning to assess production technology in the industrial context.[br/]Getting used to mind economic aspects of technical problems.[br/]",
+      "Content":"Analysis of one or two production technologies in groups of two students along a prescribed method.[br/][br/]examples: EDM, injection, micro-machining, sintering, laser welding, etc.[br/]Products such as watches, sensers, lensis, hearing aids, lighters, CDs, etc.[br/]"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Production methods",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105468",
+      "name":"Jacot Jacques"
+    },{
+      "url":"http://people.epfl.ch/102423",
+      "name":"Lüthi Jean-Daniel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Blocs 1 et 2[br/]en particulier physique, électrotechnique, Matériaux microtechniques, chimie des surfaces",
+      "Forme d'enseignement":"Séminaire par groupes de 2x2 étudiants",
+      "Contenu":"Deux groupes de deux étudiants analysent une technique de production en suivant une démarche imposée. Un groupe traite de la technique à comprendre et l'autre présente des applications.[br/]Les sujets sont choisis parmi les principales techniques de production telles que par exemple: découpage au jet d'eau, soudage laser, électroérosion, injection, micro-usinage, frittage, décolletage, etc. Ils sont abordés sur les plans technologique, productivité, mise en oeuvre, etc., à travers de cas d'applications dans la fabrication de produits tels que: montres,  robots-ménager, capteurs de pression, lentilles de contact, prothèses auditives, briquets, disques compacts, vannes thermostatiques, etc.[br/][br/]REMARQUES[br/]Chaque groupe de 2 étudiants prépare un document d'une dizaine de pages sur son sujet et le présente en 20 minutes. L'ensemble des documents constitue les notes de cours.",
+      "Forme du contrôle":"L'évaluation des étudiants se fait en combinant les évaluations du document de référence, de l'exposé et de l'examen oral.",
+      "Préparation pour":"Industrialisation, Techniques d'assemblage",
+      "Objectifs d'apprentissage":"Apprendre à analyser et à choisir judicieusement des techniques de production et leur mise en oeuvre en fonction du problème à résoudre et du contexte industriel. [br/]Se familiariser avec la prise en compte de facteurs économiques dans des problèmes techniques. "
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Méthodes de production",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355187475&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","486"],
+    "title":"Laboratory in single-cell electrophysiology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=355187475&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169973",
+      "name":"Schneggenburger Ralf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Laboratory in single-cell electrophysiology",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169973",
+      "name":"Schneggenburger Ralf"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"[b]Enrollment of the students in this course[/b][br/][br/]For practical reasons, we can only accept a maximal number of 10 students (limited availability of patch-clamp set-ups). [br/][br/]We ask the students to write an ~ 0,5 page (maximal 1 page) motivation text, explaining their motivation to study electrical signalling in neurons (or other cells, if applicable), and why it is important for them to learn patch-clamp techniques.[br/][br/]The motivational text has to be sent to laure.dayer@epfl.ch at the time the students register for the course.",
+      "Prérequis":"Orientation in neurosciences;[br/]Courses : Neuroscience I, II, III and a good understanding of neurophysiological mechanisms.",
+      "Forme d'enseignement":"Laboratory - This course will be offered as a block course (duration: 1,5 weeks ) ",
+      "Contenu":"- Brief introduction to patch-clamp methods: Electronic design of patch-clamp amplifiers, whole-cell patch-clamp configuration, voltage-clamp / current clamp, data acquisition and software-control of patch-clamp amplifier, data analysis.[br/]- Brief introduction to methods of tissue preparation (neuron culture / brain slice preparation).[br/][br/][b]Experimental projects:[/b][br/][br/]- Patch-clamp recording of voltage-gated currents in cultured neurons / brain slice preparation[br/]- Patch-clamp recording of excitatory postsynaptic currents (EPSCs) in cultured neurons[br/]- Patch-clamp recording of EPSCs and their short-term plasticity in brainstem slices[br/]- Patch-clamp recording of inhibitory synaptic transmission.",
+      "Forme du contrôle":"Written Report (thesis paper)",
+      "Objectifs d'apprentissage":"Building on the earlier Master's courses Neuroscience I, II, this optional laboratory course will allow the student to gain hands-on experience in recording single neuron electrical activity in cultured neurons / brain slices. In current neuroscience research, single neuron electrical and synaptic activity is mostly measured by the whole-cell patch-clamp technique. The students will work in groups of two at a patch-clamp set-up, performing one of the proposed experiments, starting from experiment preparation (solutions, fabrication of glass pipettes), to performing the experiment and finally to analyze the data with current data analysis programmes. This will enable the student to gain practical and theoretical knowledge about single-cell electrophysiological techniques."
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Laboratory in single-cell electrophysiology",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

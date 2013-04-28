@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=130130740&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ChE","401"],
+    "title":"Equilibrium-stage separation processes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=130130740&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-ING",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103246",
+      "name":"Randall Harvey"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"1. Overview of some important separation processes used in industry.[br/]2. To analyse them in terms of equilibrium stages using numerical and graphical methods.[br/]3. To understand phase equilibrium thermodynamics and its application to ideal and non-ideal equilibria.[br/][br/]",
+      "Content":"[br/][li] Role of separation processes in the chemical process industries. Categorization and description of separation processes.[br/][li] Analysis of processes operating at steady state using the equilibrium-stage approach. Cross-current and counter-current stage contacting. Numerical and graphical methods based on mass balances, heat balances and phase equilibrium relationships. [br/][li] Application to some important industrial processes including gas absorption, liquid/liquid extraction and rectification.[br/][li] Phase equilibrium thermodynamics. Isothermal and isobaric vapor/liquid equilibrium. Models for non-ideal cases."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Equilibrium-stage separation processes",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103246",
+      "name":"Randall Harvey"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"\"Introduction au génie chimique\"[br/]\"Thermodynamique\"",
+      "Bibliographie et matériel":"Polycopiés: \"Procédés de séparation Vol 1, 2 et 3\" (Prof. Urs von Stockar)",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[br/][li] Importance des procédés de séparation pour la fabrication de produits chimiques. Classification et description des différents types de procédés de séparation.[br/][li] Analyse des procédés de séparation fonctionnant à l'état stationnaire en terme d'étages d'équilibre. Contact multiple parallèle, courant-croisé, contre-courant. Techniques numériques et graphiques basées sur les bilans de masse, de chaleur et les relations d'équilibre. [br/][li] Application à quelques procédés importants, tels que l'absorption de gaz, l'extraction liquide/liquide et la rectification.[br/][li] Thermodynamique des équilibres de phase. Equilibres vapeur/liquide isothermes et isobariques. Modèles pour cas non-idéaux.",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"1. Survol des différents procédés industriels de séparation , en comprendre les principes fondamentaux.[br/]2. Savoir analyser les procédés de séparation en termes d'étages d'équilibre en appliquant des techniques numériques et graphiques.[br/]3. Comprendre la thermodynamique des équilibres de phase et son application pour le calcul des équilibres non-idéaux.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Equilibrium-stage separation processes",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

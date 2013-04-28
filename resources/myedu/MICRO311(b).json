@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24357053&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MICRO","311(b)"],
+    "title":"Signals and systems II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24357053&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html","http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction of the basic concepts and mathematical tools for the analysis and characterization of signals, the design of processing algorithms, and the linear modeling of systems for students in the life sciences. Application of these techniques to signal processing and communications with an emphasis on biomedical applications.[br][br/][br/]The first semester is devoted to the continuous-time formulation, while the second one focuses on discrete-time signals and digital systems.[br/]",
+      "Content":"[br/][]9.[]Discrete signals and systems. Discrete convolution. z-transform.[br/][br/]10.[]Time-domain analysis of discrete signals.[br/][br/]11.[]Discrete-time Fourier transform. FFT.[br/][br/]12.[]Frequency analysis of discrete systems.[br/][br/]13.[]Statistical properties of signals.[br/][br/]14.[]Source and channel coding of signals[br/][br/]15.[]Control systems.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Signals and systems II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html","http://bigwww.epfl.ch/teaching/courses/signalsystem_sv.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Signaux et systèmes I (pour SV)",
+      "Bibliographie et matériel":"Cours polycopié Signaux et systèmes I et II (édité par l'EPFL)",
+      "Forme d'enseignement":"Exposé oral, exercices dirigés et répétitions",
+      "Contenu":"[]9.[]Signaux et systèmes discrets. Convolution discrète. Transformée en z.[br/][br/]10.[]Analyse temporelle des signaux discrets[br/][br/]11.[]Transformation de Fourier discrète. FFT[br/][br/]12.[]Analyse fréquentielle des systèmes discrets.[br/][br/]13.[]Propriétés statistiques des signaux.[br/][br/]14.[]Encodage de signaux.[br/][br/]15.[]Notions d'automatique.[br/]",
+      "Forme du contrôle":"Un seul un examen écrit a la fin de la session d'été.",
+      "Préparation pour":"Analyse d'images I,II",
+      "Objectifs d'apprentissage":"Présentation des concepts et des outils de base pour l'analyse et la caractérisation des signaux, la conception de systèmes de traitement et la modélisation linéaire de systèmes pour les étudiants en sciences de la vie. Application de ces techniques au traitement et à la transmission de signaux avec illustrations dans le domaine biomédical. Le premier semestre est consacré à l'étude des signaux et systèmes en temps continu, tandis que le second  se concentre sur les signaux discrets et les systèmes de traitement numérique.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Signaux et systèmes II (pour SV)",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

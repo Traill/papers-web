@@ -1,0 +1,88 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348225525&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","212"],
+    "title":"Art of colour II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348225525&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104996",
+      "name":"Duboux Charles"
+    },{
+      "url":"http://people.epfl.ch/106453",
+      "name":"Soubeyrand Paule"
+    },{
+      "url":"http://people.epfl.ch/106786",
+      "name":"Zufferey Marie-Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li]Based around the central theme of stereotomy, the student will acquire the geometric bases necessary for the design and fabrication of a stone architectural element.[br/][li]Emphasis will be focused on the various stages of design and carving of the block of stone, as well as the perception of this volume in different lighting situations.[br/][li]After the essentially theoretical first semester based on analysis of existing objects, the second semester will focus on the practice of stereotomy as applied to contemporary architecture. This will result in a \"utopian project\" followed by a concrete (stone) creation.[br/][li]Relating the central theme to the teaching of \"Fundamentals of Computer Graphics\" will allow theoretical and critical thinking about the means of digital representation of the \"utopian project\".[br/]",
+      "Content":"[li]Theory of stereotomy and its application to contemporary architecture and curved surfaces.[br/][li]Completion of utopian project documented by a series of sketches.[br/][li]Representation of the different stages of the cut stone block under different light conditions.[br/][li]Carving of the stone with traditional tools, hammer, chisels, etc.[br/][li]Preparation and presentation of the yearlong theme project, both manual and digital, \"The hand and the mouse\".[br/][br/]",
+      "Note":"[li]Theme parallel with the \"Fundamentals of Computer Aided Design and Graphics\" course.[br/][li]Important transitional phase of this course in conjunction with the course \"Fundamentals of Computer Aided Design and Graphics \", in accordance with the future philosophy of \"Stereotomic vision - The Mouse and Digital Representation\".[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Art of colour II",
+    "recitation":{
+      "week_hours":3,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104996",
+      "name":"Duboux Charles"
+    },{
+      "url":"http://people.epfl.ch/106453",
+      "name":"Soubeyrand Paule"
+    },{
+      "url":"http://people.epfl.ch/106786",
+      "name":"Zufferey Marie-Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"[li]Thématique commune avec \"Bases d'Informatique Graphique\".[br/][li]Enseignement en phase transitoire pour une importante liaison avec le cours de \"Bases d'Informatiques Graphiques\", à considérer en son futur titre \"Vision stéréotomique - La Main et la représentation architecturale\".[br/]",
+      "Prérequis":"[li]Bases d'Informatique Graphique I.[br/][li]Art de la couleur I.",
+      "Bibliographie et matériel":"Transmise lors du cours.",
+      "Forme d'enseignement":"[li]Cours ex cathedra, exercices, travail pratique autour de la thématique développée sur l'année.[br/][li]Apports externes sous forme de cours / conférences.",
+      "Contenu":"[li]Réflexion théorique autour de la stéréotomie dans son application à l'architecture contemporaine et aux surfaces courbes.[br/][li]Réalisation de l'utopie documentée par une série de croquis.[br/][li]Représentation des différentes étapes de taille de la pierre et du bloc achevé sous la lumière.[br/][li]Taille de la pierre avec les outils traditionnels, massette, ciseaux, chemin de fer, etc.[br/]Rendu et présentation du travail de l'année, numérique et manuel, \"La main et la souris\".[br/][br/]",
+      "Forme du contrôle":"Rendus intermédiaires, rendu et affichage semestriel complété d'une réflexion théorique.",
+      "Préparation pour":"[li]Art du Volume.[br/][li]UE H - Graphie I.",
+      "Objectifs d'apprentissage":"[li]A travers le thème central de la stéréotomie, l'étudiant sera en possession de bases géométriques nécessaires à la réalisation d'un élément architectural et construit en pierre.[br/][li]L'accent sera porté sur la conception des différentes étapes de travail de transformation du bloc de pierre, et sur la perception de ce volume en différentes situation d'éclairage.[br/][li]Après une réflexion du premier semestre théorique et portée sur l'existant, le second semestre gravitera autours de la stéréotomie appliquée à l'architecture contemporaine. Il en découlera un \"projet utopique\" suivi d'une réalisation concrète.[br/][li]La thématique liée à l'enseignement de \"Bases d'Informatique Graphique\" permettra une réflexion théorique et critique quant aux modes et moyens de représentation numérique du \"projet utopique\".[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Art de la couleur II",
+    "recitation":{
+      "week_hours":3,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":12
+    }
+  }
+}

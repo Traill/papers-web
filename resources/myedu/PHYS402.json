@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230678479&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","402"],
+    "title":"Astrophysics IV : Observational cosmology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230678479&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158695",
+      "name":"Meylan Georges"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Cosmology is the study of the structure and evolution of the universe as a whole. This course describes the principal themes of cosmology, as seen from the point of view of observations.",
+      "Content":"1. A brief historical perspective: a few ancient cosmologies. Olbers' paradox.[br/][br/]2. The three observational pillars of Big Bang cosmology dis-covered during the 20th century: (i) The universe expansion; (ii) The cosmic microwave background at 3K; (iii) The abundance of light elements.[br/][br/]3. The metric of the universe. The spectral redshifts.[br/][br/]4. Cosmological models and the evolution of the universe.[br/][br/]5. Observational tests: the age of the universe, mean density and the problem of dark matter, nucleo-cosmo-chronology, the deep galaxy counts.[br/][br/]6. Recent observations of the cosmic microwave background and its power spectrum.[br/][br/]7. Impact of gravitational lenses on cosmology.[br/][br/]8. The initial phases of the evolution of the universe in the Big Bang model and cosmological nucleosynthesis.[br/][]",
+      "Type of teaching":"Ex cathedra and exercices supervised in classroom",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Bachelor in physics or mathematics and Astrophysics I, II and III"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Astrophysics IV : Observational cosmology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-73477-5&amp;con_lng=ENG\" target=\"blank\">Galaxy formation / Malcolm S. Longair</a>\". Year:2008. ISBN:3-540-73477-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-12-219141-2&amp;con_lng=ENG\" target=\"blank\">Modern cosmology / Scott Dodelson</a>\". Year:2003. ISBN:0-12-219141-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/158695",
+      "name":"Meylan Georges"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Bachelor de physique ou de mathématiques et Astrophysique I, II et III",
+      "Bibliographie et matériel":"\"Galaxy formation\", M.S. Longair, Springer-Verlag, 2008[br/]\"Modern Cosmology\", S. Dodelson, Academic Press, 2003",
+      "Forme d'enseignement":"Ex cathedra (avec polycopié) et exercices dirigés en classe",
+      "Contenu":"1. Une brève perspective historique : quelques cosmologies anciennes. Le paradoxe d'Olbers.[br/][br/]2. Les trois piliers observationnels de la cosmologie du big bang découverts durant le XXème siècle: (i) l'expansion de l'univers ; (ii) le rayonnement de fond cosmique à 3K ; (iii) l'abondance des éléments légers.[br/][br/]3. La métrique de l'univers. Les décalages spectraux vers le rouge.[br/][br/]4. Les modèles cosmologiques et l'évolution de l'univers.[br/][br/]5. Les tests observationnels : l'âge de l'univers, la densité moyenne et le problème de la masse sombre, la nucléo-cosmo-chronologie, les comptages profonds de galaxies.[br/][br/]6. Récentes observations du rayonnement de fond cosmique et de son spectre de puissance.[br/][br/]7. Impact des lentilles gravitationnelles sur la cosmologie.[br/][br/]8. Les phases initiales de l'évolution de l'univers dans le modèle du Big Bang et la nucléosynthèse cosmologique[br/]",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"La cosmologie est l'étude de la structure et de l'évolution de l'univers dans son ensemble. Ce cours décrit les principaux thèmes de la cosmologie, abordés du point de vue des observations."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Astrophysics IV : Observational cosmology",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-73477-5&amp;con_lng=FRE\" target=\"blank\">Galaxy formation / Malcolm S. Longair</a>\". Année:2008. ISBN:3-540-73477-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-12-219141-2&amp;con_lng=FRE\" target=\"blank\">Modern cosmology / Scott Dodelson</a>\". Année:2003. ISBN:0-12-219141-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

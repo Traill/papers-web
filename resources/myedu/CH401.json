@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770748&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","401"],
+    "title":"Advanced NMR and imaging",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770748&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122795",
+      "name":"Bodenhausen Geoffrey"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Principles of magnetic resonance imaging (MRI) and its applications to medicine and material science. Principles of modern NMR spectroscopy with application to biomolecules.",
+      "Content":"[br/][li] Projections of objects using magnetic field gradients.[br/][br/][li] Reconstruction by back- projection.[br/][br/][li] Reconstruction by Fourier transformation.[br/][br/][li] Selective excitation and slice selection.[br/][br/][li] Contrast based on relaxation, diffusion, and contrast agents.[br/][br/][br/][li] Functional imaging.[br/][br/][li] Imaging of flow and angiography.[br/][br/][li] Principles of advanced mag-netic resonance:  concept of coherence transfer and hamilton operators. Applications to metabolites and biomolecules."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced NMR and imaging",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850415-2&amp;con_lng=ENG\" target=\"blank\">NMR : the toolkit / P.J. Hore, J.A. Jones, S. Wimperis</a>\". Year:2000. ISBN:0-19-850415-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122795",
+      "name":"Bodenhausen Geoffrey"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Le cours nécessite les connaissances de: Résonance magnétique nucléaire",
+      "Bibliographie et matériel":"\"NMR: the Toolkit\", P.J. Hore, J.A. Jones and S.Wimperis, Oxford, 2003",
+      "Forme d'enseignement":"Ex cathedra avec exercices intégrés",
+      "Contenu":"[br/][li] Projections d'objets grâce aux gradients de champs magnétiques.[br/][br/][li] Reconstruction de l'image par rétro-projection.[br/][br/][li] Reconstruction par transformation de Fourier.[br/][br/][li] Excitation sélective et sélection de tranches.[br/][br/][li] Contrastes basés sur la relaxation, la diffusion, les agents de contraste.[br/][br/][li] Imagerie fonctionnelle.[br/][br/][li] Imagerie du flux et angiographie.[br/][br/][li] Principes de la résonance magnétique moderne : notions de transfert de cohérence, opérateur densité et opérateurs hamiltoniens. Applications aux métabolites et aux biomolécules.",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Principes de l'imagerie par résonance magnétique (IRM) et ses principales applications à la médecine et aux sciences des matériaux. Principes de la RMN moderne et application aux biomolécules."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced NMR and imaging",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-19-850415-2&amp;con_lng=FRE\" target=\"blank\">NMR : the toolkit / P.J. Hore, J.A. Jones, S. Wimperis</a>\". Année:2000. ISBN:0-19-850415-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

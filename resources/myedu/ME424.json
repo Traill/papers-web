@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228393085&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","424"],
+    "title":"Mecatronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=228393085&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104364",
+      "name":"Agbeviade Kossi"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"The notes of  the mini-projects and  the  practical classes count  for 50% as well as the note of the written final exam.",
+      "Bibliography and material":"Cours polycopié  et cahier de mini-projets et TP.",
+      "Required prior knowledge":"This multidisciplinary course requisites electronics, automatics, computing and microcontroller notions.",
+      "Content":"[li]Modelling and control of mechatronics systems[br/][li]Actuators and power stages[br/][li]Sensors and their conditioning[br/][li]Microcontrollers, DSP: features and  applications[br/][li]Communication buses[br/][li]Control and filtering[br/][li]Case study.",
+      "Keywords":"Mechatronics, System dynamics, System  control, Electronics, Real time computing.",
+      "Type of teaching":"Formal lectures strengthened by practical mini-projects and practical classes.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Formulate the specifications of a mechatronic system, A20[br/][li]Define (specifications) the control performance for mechatronic systems, A21[br/][li]Explain the operation of sensors, actuators and of the respective control algorithms, A18[br/][li]Instrument a dynamic system to determine its behaviour, A19[br/][li]Design mechatronic systems (choice of sensors, actuators, embedded systems), A23[br/][li]Build a virtual or real prototype, A25[br/][li]Validate the performance (by simulations or experiments), A24[br/]Evaluate and discuss the performance and the solutions, and draw conclusions, A26[br/][li]Justify methodological choices and validate the results with respect to the specifications, A22[br/][br/][b]Transversal skills:[/b][br/][li]Write a scientific or technical report, T6[br/][li]Estimate the accuracy level of a process, T18[br/][li]Share knowledge and experience with peers, T25"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mecatronics",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104364",
+      "name":"Agbeviade Kossi"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Ce cours multidisciplinaire s'appuie sur les notions d'électronique, d'automatique, d'informatique, et de microcontrôleur acquis précédemment.",
+      "Bibliographie et matériel":"Cours polycopié  et cahier de mini-projets et TP.",
+      "Mots clés":"Mécatronique, Systèmes dynamiques, Commande, Electronique, Informatique temps réel.",
+      "Forme d'enseignement":"Cours ex-cathedra consolidé par des mini-projets pratiques  et des travaux pratiques  en groupe.",
+      "Contenu":"[li]Modélisation et contrôle de systèmes mécatroniques[br/][li]Actionneurs et étages de puissances[br/][li]Capteurs et conditionnements[br/][li]Microcontrôleurs, DSP : structures, fonctions  et leur programmation[br/][li]Bus de communications[br/][li]Commande et filtrage[br/][li]Présentation de cas.",
+      "Forme du contrôle":"Les notes des mini-projets  et des TP comptent pour 50%  de même que la note de l'examen final écrit.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Formuler le cahier des charges d'un système mécatronique, A20[br/][li]Définir (cahier des charges) les performances de systèmes mécatroniques, A21[br/][li]Expliquer le fonctionnement  des capteurs, des actionneurs et des algorithmes de commande y relatifs, A18 [br/][li]Instrumenter un système dynamique de manière à qualifier son comportement, A19[br/][li]Concevoir des systèmes mécatroniques (choix de capteurs, actionneurs, systèmes embarqués), A23[br/][li]Réaliser un prototype virtuel ou réel, A25[br/][li]Valider les performances (par simulation ou expérimentalement), A24[br/][li]Evaluer et critiquer les performances, la solution, et tirer un bilan, A26[br/][li]Justifier les choix méthodologiques et valider les résultats en fonction du cahier des charges, A22[br/][br/][b]Compétences transversales:[/b][br/][li]Rédiger un rapport d'étude scientifique ou technique, T6[br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Partager ses connaissances et expériences avec ses pairs, T25"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Systèmes mécatroniques",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

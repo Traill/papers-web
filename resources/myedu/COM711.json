@@ -1,0 +1,89 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2978399&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","711"],
+    "title":"Selected Topics in Computer Vision",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2978399&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198495",
+      "name":"Benmansour Fethallah"
+    },{
+      "url":"http://people.epfl.ch/149007",
+      "name":"Lepetit Vincent"
+    },{
+      "url":"http://people.epfl.ch/201504",
+      "name":"Li Yunpeng"
+    },{
+      "url":"http://people.epfl.ch/163328",
+      "name":"Smith Kevin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The goal of Computer vision is to process images acquired with cameras in order to produce a representation of objects in the world. Although there already exists a number of working systems that perform parts of this task in specialized domains,  the generic \"Vision Problem\" is far from being solved. No existing  system can come close to emulating the capabilities of a human.[br/][br/]The  aim of this  course is  to teach  the students  how to  reason in rigorous manner on Computer Vision  related problems. We will focus on a few subsets and study them  in depth. We will try to understand what makes Computer Vision so hard,  what is the state-of-the-art, and what are promising directions for future research.[br/][br/]",
+      "Content":"This year, we will focus on the following topics:[br/][li] local image descriptors (SIFT, SURF, Compact Signatures, etc.);[br/][li] 3D object tracking (both rigid and deformable, including faces);[br/][li] Simultaneous Localization and Mapping (SLAM) algorithms;[br/][li] structure-from-motion pipelines (Fundamental and Essential matrices, tri-tensor, bundle adjustment, etc.);[br/][li] dense 3D reconstruction from multiple images;[br/][li] Multiple 2D tracking (pedestrians, biological cells, etc.) [br/]",
+      "Keywords":"SIFT, SURF, SLAM, 2D Tracking, 3D Tracking, SfM, Dense 3D Reconstruction.[br/]",
+      "Note":"URL: http://cvlab.epfl.ch/teaching/topics/[br/]",
+      "Required prior knowledge":"The  students are expected  to have  already followed  an introductory Computer Vision  class such as  the \"Introduction to  Computer Vision\" Master's  course  and  to  be  familiar  with  basic  Computer  Vision concepts. A  solid background in  both programming and  mathematics is also a requirement for this class.[br/]"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Selected Topics in Computer Vision",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198495",
+      "name":"Benmansour Fethallah"
+    },{
+      "url":"http://people.epfl.ch/149007",
+      "name":"Lepetit Vincent"
+    },{
+      "url":"http://people.epfl.ch/201504",
+      "name":"Li Yunpeng"
+    },{
+      "url":"http://people.epfl.ch/163328",
+      "name":"Smith Kevin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"URL: http://cvlab.epfl.ch/teaching/topics/[br/]",
+      "Contenu":"This year, we will focus on the following topics:[br/][li] local image descriptors (SIFT, SURF, Compact Signatures, etc.);[br/][li] 3D object tracking (both rigid and deformable, including faces);[br/][li] Simultaneous Localization and Mapping (SLAM) algorithms;[br/][li] structure-from-motion pipelines (Fundamental and Essential matrices, tri-tensor, bundle adjustment, etc.);[br/][li] dense 3D reconstruction from multiple images;[br/][li] Multiple 2D tracking (pedestrians, biological cells, etc.) ",
+      "Mots clés":"SIFT, SURF, SLAM, 2D Tracking, 3D Tracking, SfM, Dense 3D Reconstruction.",
+      "Prérequis":"The  students are expected  to have  already followed  an introductory Computer Vision  class such as  the \"Introduction to  Computer Vision\" Master's  course  and  to  be  familiar  with  basic  Computer  Vision concepts. A  solid background in  both programming and  mathematics is also a requirement for this class.[br/]",
+      "Objectifs d'apprentissage":"The goal of Computer vision is to process images acquired with cameras in order to produce a representation of objects in the world. Although there already exists a number of working systems that perform parts of this task in specialized domains,  the generic \"Vision Problem\" is far from being solved. No existing  system can come close to emulating the capabilities of a human.[br/][br/]The  aim of this  course is  to teach  the students  how to  reason in rigorous manner on Computer Vision  related problems. We will focus on a few subsets and study them  in depth. We will try to understand what makes Computer Vision so hard,  what is the state-of-the-art, and what are promising directions for future research.[br/]"
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Selected topics in computer vision",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

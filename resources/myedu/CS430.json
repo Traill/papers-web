@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771183&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","430"],
+    "title":"Intelligent Agents",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771183&ww_x_anneeAcad=2012-2013&ww_i_section=120623110&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IF",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"],["http://liawww.epfl.ch/","http://liawww.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105074",
+      "name":"Faltings Boi"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Mini-projects and exercises 40%, final exam 60%",
+      "Bibliography and material":"Various technical papers in English language",
+      "Required prior knowledge":"Intelligence artificielle",
+      "Content":"The course contains 4 main subject areas:[br/][br/]1) Basic models and algorithms for individual agents:[br/]game-playing algorithms, reactive agents and reinforcement learning. Models and algorithms for rational, goal-oriented behavior in agents.[br/]2) Multi-agent systems: [br/]multi-agent planning, distributed algorithms for constraint satisfaction, coordination techniques for multi-agent systems.[br/]3) Self-interested agents:[br/]Models and algorithms for implementing self-interested agents motivated by economic principles: elements of computational game theory, models and algorithms for automated negotiation, social choice, mechanism design, electronic auctions and marketplaces.[br/]4) Implementing multi-agent systems:[br/]Agent platforms, ontologies and markup languages, web services and standards for their definition and indexing.[br/]",
+      "Type of teaching":"Ex cathedra, practical programming exercises",
+      "Learning outcomes":"This course teaches students the main technologies for implementing intelligent agents and multi-agent systems are well as their underlying theories."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Intelligent Agents",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-51946-2&amp;con_lng=ENG\" target=\"blank\">An introduction to multiagent systems / Michael Woolridge</a>\". Year:2009. ISBN:978-0-470-51946-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-207148-2&amp;con_lng=ENG\" target=\"blank\">Artificial intelligence : a modern approach / Stuart J. Russell and Peter Norvig ; contributing writers: Ernest Davis ... [et al.]</a>\". Year:2010. ISBN:978-0-13-207148-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"],["http://liawww.epfl.ch/","http://liawww.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105074",
+      "name":"Faltings Boi"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Intelligence artificielle",
+      "Bibliographie et matériel":"Michael Wooldridge : An Introduction to MultiAgent Systems - Second Edition, John Wiley & Sons, 2009[br/]Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach (2nd/3rd Edition), Prentice Hall Series in Artificial Intelligence, 2003/2009.[br/]",
+      "Forme d'enseignement":"Ex cathedra, travaux pratiques sur ordinateur ",
+      "Contenu":"Le cours traite 4 thèmes principaux:[br/][br/]1) Agents simples:[br/]Algorithmes pour des programmes de jeux, agents réactifs, reinforcement learning, planification automatique.[br/]2) Systèmes multi-agents : planification multi-agent, algorithmes distribués pour la satisfaction de contraintes, coordination d'agents.[br/]4) Agents économiques:[br/]Modèles et algorithmes pour l implémentation d agents motivés par des principes économiques [br/]théorie des jeux, principes de la négociation, choix de groupes, conception de mécanismes économiques, économies électroniques.[br/]4) Implémentation de systèmes multi-agents:[br/]Plateformes d'agents, utilisation d'ontologies, standards pour les web services.[br/][br/]",
+      "Forme du contrôle":"Mini-projets et exercices 40%, examen final 60%",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est d'apprendre les technologies pour l'implémentation d'agents intelligents et de systèmes multi-agents ainsi que les théories sous-jacentes."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Intelligent Agents",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-51946-2&amp;con_lng=FRE\" target=\"blank\">An introduction to multiagent systems / Michael Woolridge</a>\". Année:2009. ISBN:978-0-470-51946-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-207148-2&amp;con_lng=FRE\" target=\"blank\">Artificial intelligence : a modern approach / Stuart J. Russell and Peter Norvig ; contributing writers: Ernest Davis ... [et al.]</a>\". Année:2010. ISBN:978-0-13-207148-2</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

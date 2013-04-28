@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771970&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","360"],
+    "title":"Atoms and radiation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771970&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188660",
+      "name":"Auböck Gerald"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to deliver the basic ideas behind the description of radiation and atom interactions. This course concentrates on a classical physics approach to various phenomena including line broadening and shifts of atomic transitions, but it includes the quantum mechanical treatment as well. In addition, the course seeks to introduce the student to the experimental methods and tools, with which various atom-radiation phenomena can be observed. Finally, an introduction to laser principles will be given.",
+      "Content":"[b]- Reminder: Electromagnetism[br/]- Reminder: Quantum Mechanics[br/]- Spontaneous emission of radiation[br/]- The spectral shapes of atomic transitions[br/]- Spectrometers and Detectors[br/]- Stimulated absorption and emission of radiation[br/]- Laser Basics[/b][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Required prior knowledge":"Quantum mechanics, Electromagnetism"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Atoms and radiation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-74953-0&amp;con_lng=ENG\" target=\"blank\">Laser spectroscopy / Wolfgang Demtröder</a>\". Year:2008. ISBN:978-3-540-74953-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188660",
+      "name":"Auböck Gerald"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]- Rappel d'électromagnétisme[br/]- Rappels de mécanique quantique[br/]- L'émission spontanée de lumière[br/]- Les formes des raies spectrales[br/]- Spectrographes et détecteurs[br/]- L'absorption et l'émission stimulée de lumière[br/]- Les lasers",
+      "Prérequis":"Physique quantique, Electromagnétisme",
+      "Bibliographie et matériel":"W. Demtröder : Laser Spectroscopy (Springer Verlag, Berlin 1997)",
+      "Objectifs d'apprentissage":"Le but de ce cours est de fournir les notions de bases à la description de l'interaction rayonnement-matière en se concentrant sur le cas des atomes. Le cous se concentre sur une approche classique des phénomènes en raison de sa transparence au niveau physique, mais les approches quantiques sont aussi introduites. Les techniques de la spectroscopie seront traits."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Atomes et rayonnement",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-74953-0&amp;con_lng=FRE\" target=\"blank\">Laser spectroscopy / Wolfgang Demtröder</a>\". Année:2008. ISBN:978-3-540-74953-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

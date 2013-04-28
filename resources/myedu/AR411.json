@@ -1,0 +1,64 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775032&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","411"],
+    "title":"Computered modelisation and representation I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775032&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course assumes that the continuity of the history of the models and means of representation comprehends also the numerical representation.[br/][br/]",
+      "Content":"The description of an architectural object in a numerical space, implies the creation of data structures, the implementing of algorithms for the acquisition, the processing and the visualization of what could be called a numerical mock-up.[br/][br/]Between modeling and representation, from full scale survey to the architectural planning, the teaching covers the specific theoretical knowledge implied by the digital tool.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Computered modelisation and representation I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104355",
+      "name":"Abou Jaoudé Georges"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours. Séminaires.",
+      "Contenu":"La description d'un objet architectural dans un espace numérique implique la création de structures de données et la conception d'algorithmes pour l'acquisition, le traitement et la visualisation de ce que l'on pourrait appeler une maquette numérique.[br/][br/]",
+      "Objectifs d'apprentissage":"En sus des aspects spécifiques à l'espace numérique, le cours inscrit la représentation informatique dans la continuité de l'histoire des modèles et moyens de représentation.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modélisation et représentation informatique I",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

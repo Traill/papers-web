@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=411840529&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","550"],
+    "title":"Synthesis, analysis and verification",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=411840529&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lara.epfl.ch","http://lara.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177241",
+      "name":"Kuncak Viktor"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Grading will be based on one mini project, weekly homeworks, class participation, and taking lecture notes.  Students will participate in homework grading. ",
+      "Prerequisite for":"Research and application of program analysis, verification, software reliability, and compilers.",
+      "Required prior knowledge":"Theory of Computation, Compiler Construction, and basics of Formal Logic are helpful but not required.  If you are not familiar with these topics, please see the instructor.",
+      "Content":"Motivation:[br/]Tools for automated analysis and verification of software   can improve reliability of software that we use every day.   The underlying techniques are also used for compiler   optimizations and program understanding.  In recent years,   new algorithms and combinations of existing techniques   have made such tools more effective than in the past.  This   course will give an overview of basic techniques, as well as the recent advances that made this progress possible.[br/][br/]Topics covered include: [br/][li]\tLogic and program semantics[br/][li]\tVerification condition generation[br/][li]\tTheorem proving and decision procedures[br/][li]\tSyntactic loop invariant inference[br/][li]\tAbstract interpretation and data flow analysis[br/][li]\tPredicate abstraction; shape analysis[br/][li]\tModular verification[br/][li]\tInterprocedural analysis[br/][li]\tAnalysis of object-oriented and concurrent programs[br/][li]\tDynamic analysis; bug finding; loop unrolling[br/]",
+      "Type of teaching":"The course will include lectures, exercises, paper discussions, mini   project presentations, and possibly an invited lectures. ",
+      "Learning outcomes":"The class will introduce foundations, algorithms, and tools[br/]for automated analysis and verification of complex[br/]properties of software systems."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Synthesis, analysis and verification",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lara.epfl.ch","http://lara.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/177241",
+      "name":"Kuncak Viktor"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Theory of Computation, Compiler Construction, and basics of Formal Logic are helpful but not required.  If you are not familiar with these topics, please see the instructor.",
+      "Forme d'enseignement":"The course will include lectures, exercises, paper discussions, mini   project presentations, and possibly an invited lectures. ",
+      "Contenu":"Matières:[br/][li]\tLogic[br/][li]\tSémantique de programme[br/][li]\tGénération  d'état de vérification [br/][li]\tS'avérer automatisé de théorème [br/][li]\tProcédures de décision[br/][li]\tInterprétation abstraite[br/][li]\tAbstraction d'attribut[br/][li]\tAnalyse d'indicateur[br/][li]\tAnalyse de forme[br/][li]\tAnalyse d'Interprocedural[br/][li]\tConstruction de graphique d'appel[br/][li]\tAnalyse des programmes concourants[br/][br/][br/][br/][br/][br/][br/][br/]",
+      "Forme du contrôle":"Grading will be based on one mini project, weekly homeworks, class participation, and taking lecture notes.  Students will participate in homework grading. ",
+      "Préparation pour":"Research and application of program analysis, verification, software reliability, and compilers.",
+      "Objectifs d'apprentissage":"Introduction à la vérification de logiciel: bases théoriques,  algorithmes, outils. [br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Synthesis, analysis and verification",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

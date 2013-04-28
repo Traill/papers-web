@@ -1,6 +1,5 @@
 package paper
 
-import net.liftweb.json._
 import java.io._
 import scala.io.Source
 import scala.reflect.runtime.universe._

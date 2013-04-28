@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352628271&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","501"],
+    "title":"Economics of innovation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352628271&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141288",
+      "name":"Foray Dominique"
+    },{
+      "url":"http://people.epfl.ch/168565",
+      "name":"Hamdan Livramento Intan Maizurah"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Note":"The course is given in English",
+      "Form of examination":"Individual and group evaluation",
+      "Bibliography and material":"To be provided at the first session",
+      "Content":"Economics of innovation: general introduction.[br/]Understanding the drivers for R&D location.[br/]Characterizing national innovation capacities.[br/]Observing and measuring.[br/] [br/]The group work will last the whole semester and involves the following exercises:[br/]- understanding the concept of NICs in general[br/]- understanding and learning to manipulate the main indicators that help to measure NICs[br/]- examining the case of a country: building a general framework, selecting indicators, collecting the data, and assessing its NIC performance[br/]- evaluating the attractiveness of a R&D location strategy in this country[br/][br/]Since this is a data-intensive work, an important challenge for you will be to learn how to \"navigate in an ocean of data\".",
+      "Keywords":"Innovation, globalization, R&D location, competition, microeconomics, national capacities",
+      "Type of teaching":"Formal courses, group work, oral presentations by students",
+      "Learning outcomes":"The main objective of this course is to introduce and familiarize students on the concept of \"National Innovation Capacity\" (NIC) through group work on various country-specific case studies. Students will be divided into groups and will be expected to deliver a presentation and a written report on the NIC of a chosen country. The goal of this group work will be to assess the attractiveness of locating a nanotechnology R&D (research & development) lab in the considered country."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Economics of innovation",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/141288",
+      "name":"Foray Dominique"
+    },{
+      "url":"http://people.epfl.ch/168565",
+      "name":"Hamdan Livramento Intan Maizurah"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Le cours est donné en anglais",
+      "Bibliographie et matériel":"Sera fournie lors de la première séance",
+      "Mots clés":"Innovation, globalisation, localisation de la R&D, concurrence, microéconomie, capacités nationales",
+      "Forme d'enseignement":"Cours formel, travail en groupe, présentation des travaux",
+      "Contenu":"Introduction à l'économie de l'innovation.[br/]Comprendre les déterminants de la localisation de la R&D.[br/]Caractériser les capacités nationales d'innovation.[br/]Observer et mesurer.[br/][br/]Le travail de groupe durera tout le semestre et comprendra les phases suivantes:[br/]- compréhension du concept de CNI en général et des facteurs qui déterminent les choix de localisation de la R&D[br/]- compréhension de et formation à la manipulation des indicateurs nécessaires à la mesure d'une CNI[br/]- compréhension et développement du cas d'un pays en particulier : cadre général de description, sélection d'indicateurs, collecte des données, évaluation des performances de la CNI sélectionnée[br/]- évaluation de l'intérêt d'une stratégie de localisation d'un laboratoire de R&D dans le pays étudié[br/][br/]Dans la mesure où l'ensemble de ce travail est particulièrement intensif en données, un défi important sera d'apprendre à \"naviguer\" dans un océan de données pour ne retenir que les plus pertinentes.",
+      "Forme du contrôle":"Notation des travaux de groupe[br/]Travail individuel",
+      "Objectifs d'apprentissage":"L'objectif principal du cours est d'introduire le concept de capacité nationale d'innovation (CNI) et de familiariser les étudiants à son utilisation grâce à  des travaux de groupe sur des études de cas spécifiques. Les étudiants, répartis en groupes, devront préparer une présentation et un rapport écrit sur la CNI d'un pays choisi par eux. L'objectif concret de la présentation sera d'évaluer l'intérêt de localiser un laboratoire de R&D en nanotechnologie dans le pays sélectionné."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Economics of innovation",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

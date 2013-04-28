@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129835072&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","421"],
+    "title":"Catalysis for energy production",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129835072&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181278",
+      "name":"Hu Xile"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To learn how catalysis can improve energy generation and utilization. Emphasis is on the catalytic production of solar fuels (H[sub]2[/sub], O[sub]2[/sub], etc...).[br/]",
+      "Content":"1. Introduction to energy demand and challenge[br/]2. Hydrogen production[br/]3. Oxygen: water oxidation[br/]4. CO[sub]2[/sub] reduction [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Catalysis for energy production",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181278",
+      "name":"Hu Xile"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Cours donné en anglais",
+      "Prérequis":"Le cours nécessite les connaissances de: Chimie de coordination et Chimie organométallique, Electrochimie",
+      "Bibliographie et matériel":"Littérature récente et notes prises en cours",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"1. Introduction[br/]2. Hydrogène: production[br/]3. Oxygène: oxydation de l'eau[br/]4. CO[sub]2[/sub]: réduction enzymatique et chimique ",
+      "Forme du contrôle":"Contrôle continu",
+      "Objectifs d'apprentissage":"Comprendre comment la catalyse peut améliorer l'utilisation et la génération d'énergie. Détails sur la production catalytique de sources d'énergie solaire (H[sub]2[/sub], O[sub]2[/sub], etc...)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Catalysis for energy production",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129683781&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","498(b)"],
+    "title":"Statistical analysis project III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=129683781&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":9,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To provide skills and experience for analyzing a variety of dat tpyes and presenting results in both written and oral form.",
+      "Content":"Potential topics include :[br/][br/]Brief introduction to tools (R, LaTeX)[br/]Exploratory Data Analysis[br/]Simulation and programming in R[br/]Regression models[br/]ANOVA models[br/]Generalized linear models[br/]Multivariate data analysis[br/]Time series.",
+      "Type of teaching":"Meetings and discussions with different statistics teachers",
+      "Prerequisite for":"Courses \"Statistics and financial mathematics\" of the Master in Applied Mathematics",
+      "Required prior knowledge":"Basic statistics"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Statistical analysis project III",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":9,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":9,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Rencontres et discussions avec différents enseignants en statistique",
+      "Contenu":"Les sujets seront choisis parmi les suivants :[br/][br/]Utilisation des logiciels (R, LaTeX)[br/]Analyse exploratoire des données[br/]Simulation et programmation avec R[br/]Modèles de régression[br/]Analyse de la variance[br/]Modèles linéaires généralisées[br/]Analyse multivariée[br/]Séries temporelles.",
+      "Préparation pour":"Cours de statistique de l'orientation \"Statistique et mathématique financière\" du master en Ingénierie mathématique",
+      "Prérequis":"Statistique de base",
+      "Objectifs d'apprentissage":"Acquisition des compétences et expérience avec l'analyse des données diverses et la présentation des résultats par écrit et orale."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Projet III Analyse de données",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":9,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":null
+  }
+}

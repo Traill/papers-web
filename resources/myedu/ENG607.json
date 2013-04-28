@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240564181&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","607"],
+    "title":"Photomechanics for Engineers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=240564181&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106189",
+      "name":"Rastogi Pramod"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective of the course is to provide a basic understanding of a variety of modern optical methods of measurements and their applications in nondestructive testing. Both point-by-point and full-field methods are considered. Methods based on light scattering and light emission are also covered. Hands-on practical work will allow the students to practice some of these concepts.[br/]",
+      "Content":"[li] Basic notions[br/][li] Common types of interferometers[br/][li] Holographic interferometry[br/][li] TV Holography[br/][li] Phase Shifting interferometry[br/][li] Moiré[br/][li] Digital image correlation[br/][li] Photoelasticity[br/][li] Fiber Optics Sensors[br/][li] Hands-on practical work-[br/]",
+      "Keywords":"optical metrology, holography, interferometry, phase shifting, diffuse objects, deformation[br/]",
+      "Note":"URL: http://people.epfl.ch/pramod.rastogi"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Photomechanics for Engineers",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106189",
+      "name":"Rastogi Pramod"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"URL: http://people.epfl.ch/pramod.rastogi",
+      "Contenu":"[li] Basic notions[br/][li] Common types of interferometers[br/][li] Holographic interferometry[br/][li] TV Holography[br/][li] Phase Shifting interferometry[br/][li] Moiré[br/][li] Digital image correlation[br/][li] Photoelasticity[br/][li] Fiber Optics Sensors[br/][li] Hands-on practical work-[br/]",
+      "Mots clés":"optical metrology, holography, interferometry, phase shifting, diffuse objects, deformation[br/]",
+      "Objectifs d'apprentissage":"The objective of the course is to provide a basic understanding of a variety of modern optical methods of measurements and their applications in nondestructive testing. Both point-by-point and full-field methods are considered. Methods based on light scattering and light emission are also covered. Hands-on practical work will allow the students to practice some of these concepts.[br/]"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Photomechanics for Engineers",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":24
+    }
+  }
+}

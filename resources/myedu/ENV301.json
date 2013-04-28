@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71559290&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","301"],
+    "title":"Sites remediation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71559290&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"40 % spot check durant the semester[br/]60 % written test (120 min) during exam session",
+      "Bibliography and material":"Class notes and document from the Swiss Federal Office for Environment",
+      "Prerequisite for":"Specialization in Environmental chemistry and bioprocesses",
+      "Content":"[b]Contaminated site management[/b][br/]Registration of polluted sites, preliminary and detailed investigation, remediation[br/][b]Remediation techniques[/b][br/]Physical methods by evacuation and trapping, chemical, thermal and biological methods[br/][b]Choice of a decontamination process[/b][br/]Technical and economical criteria, environmental diagnosis[br/][b]Evaluation of the treatment process[/b] Laboratory studies, pilot-scale tests on site, quantitative and qualitative analysis on site[br/][b]Groundwater Flow and Solute Transport Modeling[/b][br/]Revision of aquifer flow and solute transport theory, numerical modeling of flow and transport, MOD-FLOW/MT3DMS model applications[br/][br/][br/]",
+      "Keywords":"Contaminated site management, remediation techniques, NAPL, MODFLOW, groundwater remediation design",
+      "Type of teaching":"Lecture ex cathedra and exercises",
+      "Learning outcomes":"[br/][li]Knowledge of the principles of contaminated sites management in Switzerland[br/][li]Knowledge of the different physico-chemical, chemical and biological techniques to remediate soils and aquifers[br/][li]Knowledge of the global approach for the selec-tion and application of a treatment process at a site[br/][li]Knowledge and application of groundwater modeling for site remediation"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Sites remediation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169209",
+      "name":"Barry David Andrew"
+    },{
+      "url":"http://people.epfl.ch/121849",
+      "name":"Holliger Christof"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Notes de cours polycopiées et documents de l'Office fédéral de l'environnement (OFEN)",
+      "Mots clés":"Gestion des sites contaminés, techniques de remédiation, NAPL, MODFLOW, design de la remédiation des nappes phréatiques",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[b]Gestion des sites contaminés[/b][br/]Etablissement du cadastre, investigation préalable et détaillée, projet d'assainissement[br/][b]Techniques de remédiation[/b][br/]Méthodes physiques par évacuation et piégeages, méthodes chimiques, thermiques et biologiques[br/][b]Choix d'une filière de décontamination[/b][br/]Critères techniques et économiques, diagnostic environnemental[br/][b]Evaluation du procédé de traitement[/b][br/]Vérification en laboratoire, vérification du potentiel (tests-pilote) sur site, analyse quantitative et qualitative sur site [br/][b]Ecoulement des eaux souterraines et modélisation de transports solubles[/b][br/]Révision de la théorie de l'écoulement des nappes et des transports solubles, applications de la modélisation numérique des écoulements et des transports, MODFLOW/MT3DMS",
+      "Forme du contrôle":"40 % contrôle ponctuel pendant le semestre[br/]60 % épreuve écrite (120 min) pendant la session d'examen",
+      "Préparation pour":"Spécialisation en chimie et bioprocédés environnementaux",
+      "Objectifs d'apprentissage":"[br/][li]Connaître les principes de gestion des sites contaminés en Suisse[br/][li]Connaître les différentes techniques physico-chimiques, chimiques et biologiques pour la remédiation des sols et des nappes[br/][li]Connaître la démarche globale pour la sélection et la mise en oeuvre d'une technique de traitement[br/][li]Connaître et appliquer la modélisation des eaux souterraines pour la remédiation ou l'assainissement des sites.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Remédiation des sites",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

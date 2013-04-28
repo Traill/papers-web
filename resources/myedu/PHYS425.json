@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775517&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","425"],
+    "title":"Quantum physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775517&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-70379.html","http://itp.epfl.ch/page-70379.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181759",
+      "name":"Scrucca Claudio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To introduce several advanced topics in quantum mechanics, including the semiclassical approximation, scattering theory, and approximation methods for many-body problems.[br/]",
+      "Content":"[b]1. The semiclassical approximation to quantum mechanics[/b][br/]Hamilton-Jacobi description of classical mechanics. Semiclassical approximation in quantum mechanics. General form of the semiclassical wave function and matching conditions at turning points.[br/][br/]  [br/][b]2. One-dimensional problems in the semiclassical approximation[/b][br/]Energy levels in a generic potential barrier. Tunneling probability through [br/]a generic potential well. Lifetime of a metastable state. Multiple barriers and wells.[br/][br/]  [br/][b]3. Central problems and the semiclassical approximation[/b][br/]Radial and angular partial wave functions. Exact and semiclassical behaviors. Localized stationary states and energy levels. Delocalized stationary states, phase shifts and scattering amplitude. Quasi-localized stationary states and decay probability. Resonance effects. [br/][br/][b]4. Approximation methods for central scattering problems[/b][br/]General behavior of the partial-wave expansion. Weak-coupling scattering and Born approximation. High-energy scattering and eikonal approximation. Low-energy scattering and threshold approximation.[br/][br/][b]5. General operatorial formalism for scattering problems[/b][br/]Time evolution operator, scattering matrix and cross section. Systematics of the perturbative expansion and optical theorem. Central problems. Relation with Green functions. [br/][br/][b]6. Approximation methods for many-body problems[/b][br/]Individual wave function approach and Hartree-Fock approximation. Particle density approach and Thomas-Fermi approximation. Application to the structure of atoms. [br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Quantum physics I, II"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"Lectures on quantum mechanics / Gordon Baym\". Year:1969</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-50336-7&amp;con_lng=ENG\" target=\"blank\">Modern quantum mechanics / J.J. Sakurai, Jim Napolitano</a>\". Year:2011. ISBN:978-0-321-50336-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-3539-8&amp;con_lng=ENG\" target=\"blank\">Quantum mechanics : non-relativistic theory / by L.D. Landau and E.M. Lifshitz</a>\". Year:2010. ISBN:0-7506-3539-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-40924-4&amp;con_lng=ENG\" target=\"blank\">Quantum mechanics : two volumes bound as one / Albert Messiah</a>\". Year:1999. ISBN:0-486-40924-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-50820-6&amp;con_lng=ENG\" target=\"blank\">Topics in advanced quantum mechanics / Barry R. Holstein</a>\". Year:1992. ISBN:0-201-50820-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://itp.epfl.ch/page-70379.html","http://itp.epfl.ch/page-70379.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181759",
+      "name":"Scrucca Claudio"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique quantique I, II",
+      "Bibliographie et matériel":"Notes de cours dactylographiées.[br/]L. D. Landau and E. M. Lifshitz, Quantum mechanics: non-relativistic theory (Pergamon, 1977).[br/]G. Baym, Lectures on quantum mechanics (Benjamin, 1973).[br/]A. Messiah, Quantum mechanics (North-Holland, 1975).[br/]B. R. Holstein, Topics in advanced quantum mechanics (Addison Wesley, 1992).[br/]J. J. Sakurai and J. Napolitano, Modern quantum mechanics (Addision Wesley, 1994).[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"[b]1. L'approximation semiclassique de la mécanique quantique[/b][br/]Description de Hamilton-Jacobi de la mécanique classique. Approximation semiclassique de la mécanique quantique. Forme générale de la fonction d'onde semiclassique et conditions [br/]de raccord aux points d'inversion.[br/][br/][b]2. Problèmes unidimensionnels dans l'approximation semiclassique[/b][br/]Niveaux d'énergie dans un puits de potentiel générique. Probabilité de pénétration d'une barrière de potentiel générique. Temps de vie d'un état métastable. Puits et barrières multiples.[br/][br/][b]3. Problèmes centraux et approximation semiclassique[/b][br/]Fonctions d'onde partielles radiales et angulaires. Comportement exact et semiclassique. Etats stationnaires localisés et niveaux d'énergie. Etats stationnaires délocalisés, déphasages et amplitude de diffusion. Etats métastables quasi-localisés et temps de vie. Effets de résonance.[br/][br/][b]4. Méthodes d'approximation pour diffusions centrales[/b][br/]Comportement général du développement en ondes partielles. Diffusion à faible couplage et approximation de Born. Diffusion à haute énergie et approximation eikonale. Diffusion à basse énergie et approximation de seuil.[br/][br/][b]5. Formalisme général opératoriel pour problèmes de diffusion[/b][br/]Opérateur d'évolution temporelle, matrice de diffusion et section efficace de diffusion. Systématique du développement perturbatif et théorème optique. Problèmes centraux. Relation avec les fonctions de Green.[br/][br/][b]6. Méthodes d'approximation pour problèmes à plusieurs corps[/b][br/]Approche de fonction d'onde individuelle et approximation de Hartree-Fock. Approche de densité de particules et approximation de Thomas-Fermi. Application à la structure des atomes.",
+      "Forme du contrôle":"examen oral (100%)",
+      "Objectifs d'apprentissage":"Introduire plusieurs sujets avancés de mécanique quantique, [br/]parmi lesquels l'approximation semiclassique, la théorie de la [br/]diffusion, et des méthodes d'approximation pour problèmes à [br/]plusieurs corps."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"Lectures on quantum mechanics / Gordon Baym\". Année:1969</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-321-50336-7&amp;con_lng=FRE\" target=\"blank\">Modern quantum mechanics / J.J. Sakurai, Jim Napolitano</a>\". Année:2011. ISBN:978-0-321-50336-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-3539-8&amp;con_lng=FRE\" target=\"blank\">Quantum mechanics : non-relativistic theory / by L.D. Landau and E.M. Lifshitz</a>\". Année:2010. ISBN:0-7506-3539-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-40924-4&amp;con_lng=FRE\" target=\"blank\">Quantum mechanics : two volumes bound as one / Albert Messiah</a>\". Année:1999. ISBN:0-486-40924-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-201-50820-6&amp;con_lng=FRE\" target=\"blank\">Topics in advanced quantum mechanics / Barry R. Holstein</a>\". Année:1992. ISBN:0-201-50820-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353834062&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","427"],
+    "title":"Project management and risk analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=353834062&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106738",
+      "name":"Wieser Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To present the methods and the tools of the project management according to the phases and the steps of the project by integrating the multicriteria analysis.",
+      "Content":"[li] Base of project management[br/][li] Steps of a project[br/][li] Risk analysis, risk management[br/][li] Strategic approach of a project[br/][li] Numerical simulation: performance evaluation of a system[br/][li] Economical evaluation, criteria of investments choice[br/][li] Planning and monitoring[br/][li] Multicriteria analysis[br/][li] Examples, case studies[br/][li] Software training",
+      "Type of teaching":"Lectures, practical exercises",
+      "Form of examination":"50% project during the semester[br/]50% final exam",
+      "Bibliography and material":"Coursepack"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Project management and risk analysis",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106738",
+      "name":"Wieser Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, exercices pratiques",
+      "Contenu":"[li] Les principes généraux du management de projet[br/][li] Les phases d'un projet[br/][li] L'intégration du risque[br/][li] L'approche stratégique d'un projet[br/][li] L'évaluation des performances d'un système: simulation numérique[br/][li] L'évaluation économique d'un projet, les critères de choix d'investissement[br/][li] L'organisation et la planification[br/][li] Les méthodes d'évaluation multicritère[br/][li] Exemples, études de cas[br/][li] Applications informatiques",
+      "Forme du contrôle":"50% project durant le semestre[br/]50% examen final",
+      "Bibliographie et matériel":"Fascicule polycopié",
+      "Objectifs d'apprentissage":"Présenter les méthodes et les techniques du management de projet en fonction des phases et des étapes d'avancement du projet en intégrant les méthodes d'évaluation multicritère."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Management de projet et analyse du risque",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776397&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","212"],
+    "title":"Structural properties of condensed matter",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776397&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcr.epfl.ch","http://lcr.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/153052",
+      "name":"Schenk Kurt"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To present the various state of ordering of matter. Introduction of the concept of symmetry of crystalline solids and its consequences on the physical properties. Presentation of the X-ray and diffraction phenomena",
+      "Content":"[b]Order in solids[/b][br/]Positional disorder in gas. Short range order in liquids. Long range order in periodic and non-periodic solids (incommensurate, composites and quasi-crystals). Partial order in liquid crystals, crystal defects.[br/][b]Geometric crystallography[/b] [br/]Introduction of the concept of crystal lattice. System of references, metrics, Miller indices, definition of the reciprocal lattice.[br/][b]Symmetry[/b][br/]Symmetry operations and group theory. Symmetry elements. Space groups and point groups. Bravais classes and crystal systems. Introduction of the superspace.[br/][b]X-ray and electron diffraction[/b] [br/]Diffraction phenomenon. Laue and Bragg's equations. Ewald construction. Experimental diffraction methods. Physics of X-ray and electrons. Intensities of diffracted beams. Structure factors, phase problem.[br/][b]Physical properties[/b] [br/]Symmetry dependent tensor properties. Anisotropic properties[br/]",
+      "Type of teaching":"Ex cathedra and exercises in classrooms"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structural properties of condensed matter",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-672-8&amp;con_lng=ENG\" target=\"blank\">Cristallographie / Dieter Schwarzenbach, Gervais Chapuis</a>\". Year:2006. ISBN:2-88074-672-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-850958-5&amp;con_lng=ENG\" target=\"blank\">Fundamentals of crystallography / C. Giacovazzo ... [et al.] ; ed. by C. Giacovazzo</a>\". Year:2006. ISBN:978-0-19-850958-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcr.epfl.ch","http://lcr.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/153052",
+      "name":"Schenk Kurt"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]Ordre dans la matière[/b][br/]Désordre positionnel et orientationel du gaz, ordre à courte distance du liquide. Ordre dans le solide : cristal périodique et apériodique (incommensurable, quasi-cristal et composites). Ordre partiel : cristal liquide, défauts cristallins.[br/][b]Cristallographie géométrique[/b][br/]Introduction mathématique des réseaux cristallins. Système de coordonnées, métrique, indices de Miller. Définition du réseau réciproque.[br/][b]Symétrie[/b][br/]Opérations de symétrie et théorie des groupes. Éléments de symétrie. Groupes d'espace et groupes ponctuels. Classes de Bravais et systèmes cristallins. Introduction au superespace. [br/][b]Diffraction des rayons X et des électrons[/b] [br/]Phénomène de la diffraction. Equations de Laue et de Bragg, construction d'Ewald. Méthodes expérimentales. Physique des rayons X et des électrons. Intensités des rayons diffractés, facteur de structure. Problème des phases.[br/][b]Propriétés physiques[/b][br/]Propriétés tensorielles découlant de la symétrie des cristaux. Propriétés anisotropiques.",
+      "Préparation pour":"Physique du solide, Physique des matériaux, Microscopie électronique, Propriétés électroniques des solides",
+      "Bibliographie et matériel":"« Cristallographie », 2e édition D. Schwarzenbach & G. Chapuis, PPUR, 2006",
+      "Objectifs d'apprentissage":"Présenter les divers états d'ordre dans la matière. Introduire le concept de symétrie pour les solides cristallins parfaits ainsi que les propriétés qui en découlent. Présentation du phénomène la diffraction des rayons X et des électrons."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structure de la matière condensée",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-672-8&amp;con_lng=FRE\" target=\"blank\">Cristallographie / Dieter Schwarzenbach, Gervais Chapuis</a>\". Année:2006. ISBN:2-88074-672-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-850958-5&amp;con_lng=FRE\" target=\"blank\">Fundamentals of crystallography / C. Giacovazzo ... [et al.] ; ed. by C. Giacovazzo</a>\". Année:2006. ISBN:978-0-19-850958-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

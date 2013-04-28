@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501691751&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","593"],
+    "title":"Social media",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1501691751&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105245",
+      "name":"Gillet Denis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The objective is to enable students to critically apprehend the Human Computer Interaction (HCI) challenges associated with the design and the exploitation of social media platforms.",
+      "Content":"[li]Social media platforms and the long tail (definition and typology)[br/][li]Usability and adoption of social media platforms[br/][li]Web 2.0 features and adoption factors[br/][li]Privacy, trust and reputation models[br/][li]Identities, traces, and Web analytics[br/][li]Interplay, between platforms and communities (interdisciplinary perspective)[br/][li]Opportunities, requirements and constraints for organization and enterprises[br/][li]Participatory design and agile development methodologies[br/][li]Extension of social media platforms with Web apps (interoperability standards)[br/][li]Links between the Web of People and the Internet of Things",
+      "Type of teaching":"Lecture & Teamwork (evaluation of existing social media platforms and design of extensions)",
+      "Bibliography and material":"To be recommended"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Social media",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105245",
+      "name":"Gillet Denis"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Lecture & Teamwork (evaluation of existing social media platforms and design of extensions)",
+      "Contenu":"[li]Les médias sociaux et la longue traîne (définition et typologie)[br/][li]Utilisabilité et adoption des médias sociaux[br/][li]Fonctionnalités Web 2.0 et facteurs d'adoption[br/][li]Modèles d'accès, de confiance et de réputation[br/][li]Identités, traces et [i]Web analytics[/i][br/][li]Relation entre plates-formes et communautés (une perspective interdisciplinaire)[br/][li]Opportunités, besoins et contraintes pour les organisations et les entreprises[br/][li]Conception participation eet méthodologies de développement agile[br/][li]Extensions des plates-formes sociales avec des applications Web (standards d'interopérabilité)[br/][li]Liens entre le [i]Web of People[/i] et l'[i]Internet of Things[/i]",
+      "Bibliographie et matériel":"To be recommended",
+      "Objectifs d'apprentissage":"L'objectif du cours est que les étudiants soient capables d'appréhender de manière critique les challenges d'Interaction Humain-Machine (IHM) liés à la conception et à l'exploitation des médias sociaux."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Social media",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24103304&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["COM","611"],
+    "title":"Quantum Information Theory and Computation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24103304&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDIC",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107423",
+      "name":"Macris Nicolas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"It appears that today we are able to manipulate matter  at the nanoscale, so that information processing will have to take into account the laws of quantum physics. In this course the students will be introduced to the theoretical concepts and ways of thinking that have been developed in the last two decades to take advantage of genuine quantum resources. The role of quantum parallelism and of entanglement  will be emphasized throughout the course. ",
+      "Content":"[b]Part I. A primer on Quantum Mechanics and Qubits.[/b][br/]Quantum bits.[br/]Interference experiments with photon polarisation, spin; Superposition principle; Measurement postulate;[br/]Basic principles of quantum mechanics in finite Hilbert spaces.[br/]Many Qubit states.[br/]Entanglement; Bell inequalities and EPR paradox; No cloning; Quantum key distribution; Quantum teleportation.[br/][br/][b]Part II. Quantum Information Theory.[/b][br/]Von Neumann Entropy and Mutual Information.[br/]Density matrix and mixed states; Von Neumann entropy; Subadditivity; Araki-Lieb lower bound; Mutual information.[br/]Quantum data compression.[br/]Schumacher compression; Compression of mixed states and Holevo bound.[br/]Noisy Quantum Channels.[br/]Channel models; Capacity results.[br/][br/][b]Part III. Quantum Computation.[/b][br/]Basic ideas behind the Quantum Computer.[br/]Feynman and Deutsch point of view; Unitary evolution and quantum parallelism; Quantum circuits; [br/]Universal elementary gates; Quantum Fourier transform and its circuit.[br/]Quantum Algorithms.[br/]Deutsch-Josza problem; Grover search algorithm; Shor algorithm for the period of a function; [br/]Application to factoring and cryptography.[br/]Quantum Error Correcting Codes (if time permits)   ",
+      "Keywords":"Linear Algebra and Basic Information Theory",
+      "Required prior knowledge":"Linear Algebra and Basic Information Theory. No prerequisite in quantum mechanics will be needed."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum Information Theory and Computation",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107423",
+      "name":"Macris Nicolas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[b]Part I. A primer on Quantum Mechanics and Qubits.[/b][br/]Quantum bits.[br/]Interference experiments with photon polarisation, spin; Superposition principle; Measurement postulate;[br/]Basic principles of quantum mechanics in finite Hilbert spaces.[br/]Many Qubit states.[br/]Entanglement; Bell inequalities and EPR paradox; No cloning; Quantum key distribution; Quantum teleportation.[br/][br/][b]Part II. Quantum Information Theory.[/b][br/]Von Neumann Entropy and Mutual Information.[br/]Density matrix and mixed states; Von Neumann entropy; Subadditivity; Araki-Lieb lower bound; Mutual information.[br/]Quantum data compression.[br/]Schumacher compression; Compression of mixed states and Holevo bound.[br/]Noisy Quantum Channels.[br/]Channel models; Capacity results.[br/][br/][b]Part III. Quantum Computation.[/b][br/]Basic ideas behind the Quantum Computer.[br/]Feynman and Deutsch point of view; Unitary evolution and quantum parallelism; Quantum circuits; [br/]Universal elementary gates; Quantum Fourier transform and its circuit.[br/]Quantum Algorithms.[br/]Deutsch-Josza problem; Grover search algorithm; Shor algorithm for the period of a function; [br/]Application to factoring and cryptography.[br/]Quantum Error Correcting Codes (if time permits)   ",
+      "Mots clés":"Qubits, Von Neumann entropy, quantum gates, quantum algorithms",
+      "Prérequis":"Linear Algebra and Basic Information Theory. No prerequisite in quantum mechanics will be needed.",
+      "Objectifs d'apprentissage":"It appears that today we are able to manipulate matter  at the nanoscale, so that information processing will have to take into account the laws of quantum physics. In this course the students will be introduced to the theoretical concepts and ways of thinking that have been developed in the last two decades to take advantage of genuine quantum resources. The role of quantum parallelism and of entanglement  will be emphasized throughout the course. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Quantum Information Theory and Computation",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=317975583&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","600"],
+    "title":"Game Theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=317975583&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198391",
+      "name":"Mariotti Thomas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objective of the course is to teach PhD students the basic concepts of non-cooperative game theory (Nash equilibrium, subgame-perfect equilibrium, Bayesian equilibrium, perfect Bayesian equilibrium), so as to provide them with the appropriate tools for applications. ",
+      "Content":"The course is divided into four parts: 1. Strategic form games; 2. Extensive form games with perfect information and repeated games; 3. Static games with incomplete information; 3. Dynamic games with imperfect and/or incomplete information ",
+      "Form of examination":"Written",
+      "Required prior knowledge":"No prior knowledge of game theory is required to follow the course. However, familiarity with the basic concepts of analysis and probability is likely to be useful to the students.   "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Game Theory",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/198391",
+      "name":"Mariotti Thomas"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course is divided into four parts: 1. Strategic form games; 2. Extensive form games with perfect information and repeated games; 3. Static games with incomplete information; 3. Dynamic games with imperfect and/or incomplete information ",
+      "Objectifs d'apprentissage":"The objective of the course is to teach PhD students the basic concepts of non-cooperative game theory (Nash equilibrium, subgame-perfect equilibrium, Bayesian equilibrium, perfect Bayesian equilibrium), so as to provide them with the appropriate tools for applications. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Game Theory",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

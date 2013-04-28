@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771338&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["COM","405"],
+    "title":"Mobile networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771338&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"SC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://mobnet.epfl.ch","http://mobnet.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105427",
+      "name":"Hubaux Jean-Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Quizzes during the semester + written exam",
+      "Bibliography and material":"Handouts, recommended books (check the URL, provided below)",
+      "Prerequisite for":"Security and Cooperation in Wireless Networks (http://secowinetcourse.epfl.ch/)",
+      "Required prior knowledge":"Computer networks",
+      "Content":"[li]\tIntroduction to wireless networks[br/][li]\tWireless Local Area Networks - WiFi[br/][li]\tCellular networks[br/][li]\tMobility at the network and transport layers[br/][li]\tSecurity and privacy in mobile networks",
+      "Type of teaching":"Ex cathedra + exercise sessions + hands-on exercises",
+      "Learning outcomes":"To provide a deep understanding of the techniques used to support mobility in wireless networks (above the physical layer) : multiple access, mobility management, hand-over, roaming, security, privacy, and network planning (including capacity estimation)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mobile networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://mobnet.epfl.ch","http://mobnet.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105427",
+      "name":"Hubaux Jean-Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Réseaux informatiques",
+      "Bibliographie et matériel":"Handouts, recommended books (check the URL, provided below)",
+      "Forme d'enseignement":"Ex cathedra + session d'exercices + TPs sur machine",
+      "Contenu":"[li]\tIntroduction aux réseaux sans fil[br/][li]\tRéseaux locaux sans fil - WiFi[br/][li]\tRéseaux cellulaires[br/][li]\tMobilité dans les couches réseau et transport[br/][li]\tSécurité et protection de la sphère privée dans les réseaux mobiles",
+      "Forme du contrôle":"Quizzes pendant le semestre + examen écrit",
+      "Préparation pour":"Security and Cooperation in Wireless Networks (http://secowinetcourse.epfl.ch/)",
+      "Objectifs d'apprentissage":"Fournir une compréhension approfondie des techniques utilisées pour offrir la mobilité dans les réseaux sans fil (au-dessus de la couche physique) : accès multiple, gestion de la mobilité, hand-over, roaming, sécurité, protection de la sphère privée et planification de réseau (y compris l'estimation de la capacité)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mobile networks",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=161868651&ww_x_anneeAcad=2012-2013&ww_i_section=99177298&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","450"],
+    "title":"Radioisotope and radiation applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=161868651&ww_x_anneeAcad=2012-2013&ww_i_section=99177298&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PH-NE",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/215204",
+      "name":"Frajtag Pavel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Radioisotope and radiation applications",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30317-0&amp;con_lng=ENG\" target=\"blank\">Nuclear and radiochemistry : fundamentals and applications / Karl Heinrich Lieser</a>\". Year:2001. ISBN:3-527-30317-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-40611-1&amp;con_lng=ENG\" target=\"blank\">Physics for radiation protection : a handbook / James E. Martin</a>\". Year:2006. ISBN:978-3-527-40611-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7817-8856-4&amp;con_lng=ENG\" target=\"blank\">The physics of radiation therapy / Faiz M. Kahn</a>\". Year:2010. ISBN:978-0-7817-8856-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/215204",
+      "name":"Frajtag Pavel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Lectures, numerical exercises",
+      "Contenu":"[li] Basics: radiation sources and interaction with matter, radioisotope production using reactors and accelerators, radiation protection and shielding. [br/][li] Medical applications: diagnostic tools, radiopharmaceuticals, cancer treatment methodologies such as brachytherapy, neutron capture therapy and proton therapy. [br/][li] Industrial applications: radiation gauges, radiochemistry, tracer techniques, radioisotope batteries, sterilization, etc. [br/][li] Applications in research: dating by nuclear methods, applications in environmental and life sciences, etc. [br/]",
+      "Forme du contrôle":"oral exam",
+      "Bibliographie et matériel":"Hand-outs will be distributed[br/][br/][li] James E. Martin, \"Physics for Radiation Protection\", Wiley-VCH (2nd edition, 2006) [br/][li] F.M. Khan, \"The Physics of Radiation Therapy\", Lippincott, Williams & Wilkins, (4th edition, 2010) [br/][li] G.C. Lowenthal, P.L. Airey, \"Practical Applications of Radioactivity and Nuclear Reactions\", Cambridge University Press (2001) [br/][li] K.H. Lieser, \"Nuclear and Radiochemistry\", Wiley-VCH (2nd edition, 2001) [br/]",
+      "Objectifs d'apprentissage":"The course aims at providing an overview of the wide range of applications of radioisotopes and radiation in industry, medicine and research. The important advantages of using radioisotopes and radiation will be underlined, e.g. uniqueness of the methods, high sensitivity, non-destructive measurements, high efficiency, complementarity to other techniques, and low costs. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Radioisotope and radiation applications",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-527-30317-0&amp;con_lng=FRE\" target=\"blank\">Nuclear and radiochemistry : fundamentals and applications / Karl Heinrich Lieser</a>\". Année:2001. ISBN:3-527-30317-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-40611-1&amp;con_lng=FRE\" target=\"blank\">Physics for radiation protection : a handbook / James E. Martin</a>\". Année:2006. ISBN:978-3-527-40611-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7817-8856-4&amp;con_lng=FRE\" target=\"blank\">The physics of radiation therapy / Faiz M. Kahn</a>\". Année:2010. ISBN:978-0-7817-8856-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

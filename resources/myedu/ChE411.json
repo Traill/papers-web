@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71898059&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","411"],
+    "title":"Principles and applications of systems biology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71898059&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174688",
+      "name":"Hatzimanikatis Vassily"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course will introduce the students to the principles and applications of computational biology methods for the analysis and study of complex biological systems. Emphasis will be placed (i) on the technologies used for the quantitative, cell-wide monitoring of cellular processes and the associated mathematical and computational frameworks for the analysis of this information, and (ii) the application of systems engineering principles and methodologies on the study of complex, large-scale biological systems. ",
+      "Content":"The course will include the following topics:[br/][li] Methods and technologies for monitoring cell-wide gene expression[br/][li] Mathematical and computational analysis of gene expression data[br/][li] Methods and technologies for monitoring cell-wide protein expression[br/][li] Mathematical and computational analysis of protein expression data[br/][li] Methods and technologies for identification of protein-protein interaction[br/][li] Mathematical and computational analysis of protein-protein interaction data[br/][li] Methods and technologies for identification of DNA-protein interaction[br/][li] Mathematical and computational analysis of DNA-protein interaction data[br/][li] Genetic networks[br/][li] Mathematical methods for the identification of genetic regulatory networks[br/][li] Modeling and Simulation of gene expression networks[br/][li] Translation networks[br/][li] Modeling and Simulation of protein expression networks[br/][li] Methods and technologies for monitoring metabolic reaction networks[br/][li] Mathematical and computational analysis of metabolic reaction networks[br/]The course will also offer computer laboratory.[br/][br/][br/][br/][br/][br/]",
+      "Required prior knowledge":"[b]Bibliographie[/b][br/][br/]Post-Genome Informatics, by Minoru Kanehisa;[br/]Case Studies in Mathematical Modeling in Ecology, Physiology, and Cell Biology, by Hans G. Othmer, Mark Lewis, and Fred Adler;[br/]Computational Modeling of Genetic and Biochemical Networks, by James M. Bower and Hamid Bolouri.[br/]Foundations of System Biology, by Hiraoki Kitano.[br/]Modeling Differential Equations in Biology, by Clifford H. Taubes[br/]Biological Kinetics, edited by Lee A. Segel "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles and applications of systems biology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174688",
+      "name":"Hatzimanikatis Vassily"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Conférences, lecture d'articles et discussion, informatique ",
+      "Contenu":"Le cours comprendra les sujets suivants :[br/][li] Méthodes et technologies pour la surveillance de l'expression de gènes sur la cellule entière[br/][li] Analyse mathématique et informatique de données sur l'expression de gènes[br/][li] Méthodes et technologies pour la surveillance de l'expression de protéines sur la cellule entière[br/][li] Analyse mathématique et informatique de données sur l'expression de protéines[br/][li] Méthodes et technologies pour l'identification d'interactions entre protéines[br/][li] Analyse mathématique et informatique de données sur les interactions entre protéines[br/][li] Méthodes et technologies pour l'identification d'interactions ADN-protéine[br/][li] Analyse mathématique et informatique de données sur les interactions ADN-protéine[br/][li] Réseaux génétiques[br/][li] Méthodes mathématiques pour l'identification de réseaux de régulation génétiques[br/][li] Modélisation et simulation de réseaux d'expression de gènes[br/][li] Réseaux de translation[br/][li] Modélisation et simulation de réseaux d'expression de protéines[br/][li] Méthodes et technologies pour la surveillance de réseaux de réactions métaboliques[br/][li] Analyse mathématique et informatique de réseaux de réactions métabolotiques.[br/]Le cours comprendra également du laboratoire informatique",
+      "Forme du contrôle":"Projet (Rapport écrit et présentation orale) ",
+      "Prérequis":"Connaissance de base en biologie, algèbre linéaire et équations différentielles. La composition des groupes de travail permettra aux membres du groupe avec connaissance partielle dans ces domaines de contribuer selon leur formation.",
+      "Objectifs d'apprentissage":"Introduction aux principes et application des méthodes de biologie computationnelle pour l'analyse et l'étude de systèmes biologiques complexes. Un accent est portés sur (i) les technologies utilisées pour la surveillance quantitative de la cellule complète lors de procédés cellulaires et les mathématiques associées ainsi que le cadre informatique pour l'analyse de l'information et (ii) l'application de principes et méthodologies du Systems engineering pour l'étude de systèmes biologiques complexes à large échelle.  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Principles and applications of systems biology",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=468277528&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","617"],
+    "title":"Nanoparticles for medical Applications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=468277528&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ltp.epfl.ch","http://ltp.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    },{
+      "url":"http://people.epfl.ch/110499",
+      "name":"Coullerez Géraldine Sylvie"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The Nanotechnology Summer School has been designed to promote learning in the broad[br/]field of nanoparticles and diagnostic tools, and to foster discussion and exchange of ideas[br/]",
+      "Content":"[li]Physical background of nanoparticles[br/][li]Chemical background of nanoparticles[br/][li]Characterization of nanoparticles[br/][li]Ethical considerations of [li]nanoparticles[br/][li]Imaging[br/][li]Nanoparticles in medical application (overview)[br/][li]Nanoparticles in biological environment[br/][li]Bioassays[br/][li]Lab visites[br/]",
+      "Note":"The Summerschool will be carrired out in the framework of an EU-project and is alos open for PhD students from outside EPFL",
+      "Required prior knowledge":"MS in Material Science, Chemistry, Physics or Engineering, Biology"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Nanoparticles for medical Applications",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":34
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ltp.epfl.ch","http://ltp.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104626",
+      "name":"Bowen Paul"
+    },{
+      "url":"http://people.epfl.ch/110499",
+      "name":"Coullerez Géraldine Sylvie"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Remarque":"The Summerschool will be carrired out in the framework of an EU-project and is alos open for PhD students from outside EPFL",
+      "Contenu":"[li]Physical background of nanoparticles[br/][li]Chemical background of nanoparticles[br/][li]Characterization of nanoparticles[br/][li]Ethical considerations of [li]nanoparticles[br/][li]Imaging[br/][li]Nanoparticles in medical application (overview)[br/][li]Nanoparticles in biological environment[br/][li]Bioassays[br/][li]Lab visites[br/]",
+      "Prérequis":"MS in Material Science, Chemistry, Physics or Engineering, Biology",
+      "Objectifs d'apprentissage":"The Nanotechnology Summer School has been designed to promote learning in the broad[br/]field of nanoparticles and diagnostic tools, and to foster discussion and exchange of ideas"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Nanoparticles for medical Applications",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":34
+    }
+  }
+}

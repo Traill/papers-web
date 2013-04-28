@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773402&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","446"],
+    "title":"Two-phase flows and heat transfer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773402&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108776",
+      "name":"Thome John Richard"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral presentation of group project",
+      "Bibliography and material":"Free net book \"Engineering Databook III\": John R. Thome, http://www.wlv.com/products/thermal-management-databooks.html",
+      "Required prior knowledge":"[li]Heat and mass transfer (ME-341)",
+      "Content":"1. Introduction to two-phase flow patterns (annular, mist, bubbly,[br/]stratified, etc).[br/]2. Two-phase flow pattern maps and transition theory.[br/]3. Homogeneous and heterogeneous flow models.[br/]4. Film condensation (Nusselt equation, multitube models,[br/]condensation on enhanced fin geometries).[br/]5. Convective condensation (flow pattern effects, various models and[br/]methods for plain and internally enhanced channels).[br/]6. Fundamentals of pool boiling (nucleation, bubble dynamics,[br/]nucleate boiling, peak heat flux models, film boiling).[br/]7. Convective boiling (heat transfer models and design methods for[br/]evaporation inside tubes and outside tube bundles).[br/]8. Combined heat and mass transfer in phase change processes[br/](condensation in presence of non-condensable gas and evaporation of mixtures.",
+      "Keywords":"Two-phase heat transfer, two-phase flow, condensation, convection, evaporation",
+      "Type of teaching":"The course is organized with lectures plus student projects in groups.",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Master the concepts of two-phase flow and heat transfer, E3[br/][li]Calculate two-phase fluid flows in energy conversion systems, compute two-phase pressure drops and heat coefficients and fluid-structure interactions, E10[br/][li]Calculate and design heat exchangers, E15"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Two-phase flows and heat transfer",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108776",
+      "name":"Thome John Richard"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Transfert de chaleur et de masse (ME-341)",
+      "Bibliographie et matériel":"Livre gratuit sur internet \"Engineering Databook III\": John R. Thome, http://www.wlv.com/products/thermal-management-databooks.html",
+      "Mots clés":"Transfert de chaleur biphase, écoulement biphase, condensation, évaporation",
+      "Forme d'enseignement":"Le cours est organisé en sessions théoriques et comprend des projets de groupe.",
+      "Contenu":"1. Introduction aux régimes d'écoulement biphase (annulaire, brouillard, à bulle, stratifié, etc.).[br/]2. Cartes de régimes d'écoulement et théorie de transition.[br/]3. Modèle d'écoulement homogène et hétérogène.[br/]4. Condensation en films (Equation de Nusselt, modèles de faisceau de[br/]tubes, condensation sur surfaces améliorées).[br/]5. Condensation en écoulement (effet de régimes d'écoulement, différents modèles et méthodes de calcul des écoulements dans des tubes lisses et améliorés).[br/]6. Ébullition en vase (nucléarisation, dynamique des bulles, ébullition[br/]nucléée, modèle de flux de chaleur critique, vaporisation en films).[br/]7. Évaporation en écoulement (modèles de transfert de chaleur, method de dimensionnement pour l'évaporation à l'intérieur et à l'extérieur des[br/]faisceaux des tubes).[br/]8. Transfert de chaleur et de masse combinés en processus de[br/]changement de phase (condensation en présence de gaz non-condensable, évaporation de mélanges).",
+      "Forme du contrôle":"Examen oral sur projet de groupe.",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Maîtriser les notions de ecoulement et transfert de chaleur biphase, E3[br/][li]Calculer les écoulements de fluides biphase dans les équipements de conversion d'énergie, calculer des pertes de charges et de chaleur biphase et calculer les interactions fluide-structure, E10[br/][li]Calculer et concevoir des échangeurs de chaleur, E15"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Two-phase flows and heat transfer",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

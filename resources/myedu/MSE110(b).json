@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774782&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","110(b)"],
+    "title":"Metals and alloys",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774782&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=&ww_c_langue=en",
+    "section":"GM",
+    "program":"MX",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112836",
+      "name":"Mortensen Andreas"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"course : written propedeutic examen - LW : reports ",
+      "Bibliography and material":"Livre (Barralis et Maeder, Précis de Métallurgie, AFNOR-Nathan); polycopié[br/]TP : Polycopié; Werstoffe, E. Hornbogen; Des matériaux, Pallisy; Essais mécaniques et lois de comportement, D. François",
+      "Required prior knowledge":"Introduction à la science des matériaux",
+      "Content":"- Brief historical overview of metallurgy. Pure metals : general properties and economic factors.[br/]- Aluminium and its alloys. General properties and applications, extraction and processing. Binary Al-Cu alloys : phase diagrams, solidification, TTT diagrams, precipitation hardening. Binary Al-Mg alloys : solid solution and work hardening. Binary Al-Si alloys : casting and castability. Aluminium alloy families and designation.[br/]- Copper and its alloys. General properties and applications, extraction and processing. Pure and lightly alloyed copper, brass and the bronzes ; other copper alloys.[br/]- Iron and steel. General properties and applications, steelmaking. Tensile behaviour of steel : influence of interstitials ; embrittlement and impact testing.[br/]- Iron-carbon alloy phase transformations. Equilibrium diagrams, the martensitic transformation, TTT and CT diagrams. Influence of alloying elements, hardenability, heat treatment and surface hardening of steel.[br/]- Iron alloy families : carbon steels, alloyed and hardening steels, HSLA steels, stainless steels, tool steels and cast iron.[br/][b]LW Material processing I[/b][br/][li]Hot deformation of metals [br/]           (TP Forging)[br/][li]Steel thermal treatment and Jominy test (TP Thermal treatment and Jominy end quench test),[br/][li]Non destructive testing[br/][b]LW Microstructures and mechanical[br/]properties[/b][br/][li]Optical observation (TP Metallography)[br/][li]Mechanical behaviour (TP tensile stress and TP resilience)[br/][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"This course is an introduction to metals and alloys used in engineering, and to the relationships between their processing, their microstructure and their mechanical behaviour. The course covers the three main engineering metal alloy systems, namely alloys of aluminium, copper, and iron.[br/][b]LW (Mechanical engineering only) :[/b]To assimilate general concepts of Materials Science. To distinguish the microstructural features of metals and alloys and interpret phase diagrams. To know the physical and mechanical behaviour of the materials.  To improve the writing of reports.[br/] [br/][br/]"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Metals and alloys",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-553-00770-1&amp;con_lng=ENG\" target=\"blank\">Des matériaux : Palissy / [Jean-Paul Ba?lon...[et al.]</a>\". Year:2004. ISBN:2-553-00770-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7462-0205-0&amp;con_lng=ENG\" target=\"blank\">Essais mécaniques et lois du comportement / sous la dir. de Dominique François</a>\". Year:2001. ISBN:2-7462-0205-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-09-179582-8&amp;con_lng=ENG\" target=\"blank\">Métallurgie : élaboration, structures-propriétés, normalisation / Jean Barralis, Gérard Maeder</a>\". Year:2007. ISBN:2-09-179582-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-30723-0&amp;con_lng=ENG\" target=\"blank\">Werkstoffe : Aufbau und Eigenschaften von Keramik-, Metall-, Polymer- und Verbundwerkstoffen / Erhard Hornbogen</a>\". Year:2006. ISBN:3-540-30723-0</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":1.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112836",
+      "name":"Mortensen Andreas"
+    },{
+      "url":"http://people.epfl.ch/115064",
+      "name":"Weber Ludger"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Introduction à la science des matériaux",
+      "Bibliographie et matériel":"Livre (Barralis et Maeder, Précis de Métallurgie, AFNOR-Nathan); polycopié[br/]TP : Polycopié; Werkstoffe, E. Hornbogen; Des matériaux, Pallisy; Essais mécaniques et lois de comportement, D. François",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"- Bref aperçu historique de la métallurgie. Les métaux purs : propriétés générales et facteurs économiques.[br/]- L'aluminium et ses alliages. Propriétés générales et utilisation, extraction et production. Le système binaire Al-Cu : diagrammes de phase, solidification, diagrammes TTT, précipitation, durcissement structural. Le système binaire Al-Mg :  durcissement par solution solide et par écrouissage.  Le système binaire Al-Si : coulabilité, moulage. Les alliages d'aluminium: familles, désignation.[br/]- Le cuivre et ses alliages. Propriétés générales et utilisation, extraction et production. Le cuivre non, ou faiblement, allié. Les laitons. Les bronzes.  Les autres alliages du cuivre.[br/]- Le fer et les aciers.  Propriétés générales, production de la fonte et de l'acier. Propriétés en traction des aciers: influence des intersticiels. Résilience.[br/]- Les transformations du système fer-carbone. Diagrammes d'équilibre, la transformation martensitique.  Diagrammes TTT, diagrammes TRC. Influence des éléments d'alliage. Traitement thermique des aciers, trempabilité. Traitements superficiels.[br/]- Les grandes familles d'alliages du fer: les aciers non alliés à faible teneur en carbone, les aciers trempables, les aciers microalliés, les aciers inoxydables, les aciers à outils, les fontes.[br/][b]TP Mise en oeuvre des matériaux I[/b][br/][li]Déformation à chaud des métaux (TP Forgeage),[br/][li]Traitement thermique des aciers - essai Jominy (TP Traitement thermique et essai Jominy),[br/][li]Contrôle non-destructif[br/][b]TP Microstructures et propriétés mécaniques[/b][br/][li]Microstructures et analyse d'images (TP Métallographie),[br/][li]Comportement mécanique (TP essai de traction et TP essai de résilience).",
+      "Forme du contrôle":"cours : examen propédeutique écrit - TP GM : rapports [br/] ",
+      "Objectifs d'apprentissage":"Ce cours constitue une introduction aux matériaux métalliques utilisés par l'ingénieur, et aux principes qui régissent les liens entre leur élaboration, leur microstructure et leurs propriétés mécaniques.  Ces liens et leurs principes généraux sont introduits par une présentation des trois systèmes d'alliage principalement utilisés dans le monde de l'ingénieur, à savoir les alliages de l'aluminium, du cuivre et du fer.[br/][b]TP (Génie mécanique seulement) :[/b] Assimiler les concepts généraux et savoir distinguer les particularités microstructurales des métaux et alliages, savoir interpréter les diagrammes de phase et connaître le comportement physico-chimique et mécanique des matériaux. Perfectionner la capacité de rédaction d'un rapport. [br/] "
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Métaux et alliages",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-553-00770-1&amp;con_lng=FRE\" target=\"blank\">Des matériaux : Palissy / [Jean-Paul Ba?lon...[et al.]</a>\". Année:2004. ISBN:2-553-00770-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7462-0205-0&amp;con_lng=FRE\" target=\"blank\">Essais mécaniques et lois du comportement / sous la dir. de Dominique François</a>\". Année:2001. ISBN:2-7462-0205-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-09-179582-8&amp;con_lng=FRE\" target=\"blank\">Métallurgie : élaboration, structures-propriétés, normalisation / Jean Barralis, Gérard Maeder</a>\". Année:2007. ISBN:2-09-179582-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-30723-0&amp;con_lng=FRE\" target=\"blank\">Werkstoffe : Aufbau und Eigenschaften von Keramik-, Metall-, Polymer- und Verbundwerkstoffen / Erhard Hornbogen</a>\". Année:2006. ISBN:3-540-30723-0</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

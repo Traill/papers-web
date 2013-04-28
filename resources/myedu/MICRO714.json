@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=163900539&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","714"],
+    "title":"Basics of microfluidics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=163900539&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206194",
+      "name":"Bruus Henrik"
+    },{
+      "url":"http://people.epfl.ch/113762",
+      "name":"Gijs Martinus"
+    },{
+      "url":"http://people.epfl.ch/113381",
+      "name":"Lehnert Thomas"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"As the diversity of lab-on-a-chip systems is continuously growing, there is also an increasing demand of a better understanding of the microfluidic phenomena behind the final application. The course aims to provide a theoretical background of microfluidics effects and concepts. After revising the fundamental equations that govern liquid flow in microchannels, most popular electrohydrodynamic effects (electroosmosis), as well as the effect of electrical or magnetic fields on microparticles suspended in solution will be discussed. Multiphase flow is also a topic in actual lab-on-a-chip developments that will be adressed in this course. Finally we will also give an outlook to theoretical approaches of more recently emerging fields such as optofluids and nanofluidics.     [br/]",
+      "Content":"Basic microfluidic equations and flow solutions [br/]Diffusion and capillary effects[br/]Electroosmosis, Electro- and Magnetophoresis[br/]Thermal transfer[br/]Two phase flow and complex flow patterns[br/]Acusto-, Opto-, Nanofluidics[br/]",
+      "Keywords":"Theoretical microfluidics, lab-on-a-chip, electrohydrodynamics, two-phase flow[br/]",
+      "Required prior knowledge":"Basic lectures in physics and on MEMS technologies/applications[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Basics of microfluidics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":17
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/206194",
+      "name":"Bruus Henrik"
+    },{
+      "url":"http://people.epfl.ch/113762",
+      "name":"Gijs Martinus"
+    },{
+      "url":"http://people.epfl.ch/113381",
+      "name":"Lehnert Thomas"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Basic microfluidic equations and flow solutions [br/]Diffusion and capillary effects[br/]Electroosmosis, Electro- and Magnetophoresis[br/]Thermal transfer[br/]Two phase flow and complex flow patterns[br/]Acusto-, Opto-, Nanofluidics",
+      "Mots clés":"Theoretical microfluidics, lab-on-a-chip, electrohydrodynamics, two-phase flow[br/]",
+      "Prérequis":"Basic lectures in physics and on MEMS technologies/applications",
+      "Objectifs d'apprentissage":"As the diversity of lab-on-a-chip systems is continuously growing, there is also an increasing demand of a better understanding of the microfluidic phenomena behind the final application. The course aims to provide a theoretical background of microfluidics effects and concepts. After revising the fundamental equations that govern liquid flow in microchannels, most popular electrohydrodynamic effects (electroosmosis), as well as the effect of electrical or magnetic fields on microparticles suspended in solution will be discussed. Multiphase flow is also a topic in actual lab-on-a-chip developments that will be adressed in this course. Finally we will also give an outlook to theoretical approaches of more recently emerging fields such as optofluids and nanofluidics.     [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Basics of microfluidics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":17
+    }
+  }
+}

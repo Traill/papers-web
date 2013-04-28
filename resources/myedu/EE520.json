@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24334799&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","520"],
+    "title":"Advanced analog and RF integrated circuits design I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24334799&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105059",
+      "name":"Enz Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written",
+      "Bibliography and material":"Notes de cours, articles techniques",
+      "Prerequisite for":"Semester projects and master thesis projects in micro- et nanoelectronics",
+      "Required prior knowledge":"Electronics I-II, Analog basic structures",
+      "Content":"[b]1)\tBackground :[/b] Review of fundamental passive and active integrated components and their models.[br/][br/][b]2)\tNoise Analysis and Modeling :[/b] noise characterization; thermal noise; flicker noise; other types of noise; noise models of circuit elements; noise analysis in circuits; examples: single-stage OTA.[br/][br/][b]3)\tFundamentals of Filter Design :[/b] types of filters; frequency and impedance normalization; filter specifications; approximation; passive synthesis; second-order sections - the biquads; high-order filter design; non-ideal effects.[br/][br/][b]4)\tIntegrated Active Filters Implementations :[/b] continuous-time filters: RC-active, Gm-C filters, MOSFET-C filters; switched-capacitor filters: basic building blocks, basic operation and analysis, first-order filter, biquad filters; high-order filters: component simulation of LC ladders, operational simulation of LC ladders; non-ideal effects.",
+      "Type of teaching":"Ex cathedra and exercices",
+      "Learning outcomes":"This course covers the analysis and design of advanced analog integrated circuits, focusing on the design of integrated filters. It starts reviewing the passive and active devices and looks at the fundamental limitations such as noise and distortion. It then presents the different implementations of integrated filters including switched-capacitor and continuous-time techniques.[br/]The main objective is to be able to design analog integrated filters starting from the system specifications and choosing the appropriate technique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analog and RF integrated circuits design I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105059",
+      "name":"Enz Christian"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Electronique I-II, Dispositifs et structures analogiques",
+      "Bibliographie et matériel":"Notes de cours, articles techniques",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"[b]1) Introduction :[/b] Rappel des propriétés fondamentales des composants intégrés passifs et actifs ainsi que de leurs modèles respectifs.[br/][br/][b]2) Analyse et modélisation du bruit :[/b] caractérisation du bruit; bruit thermique; bruit en 1/f; autres types de bruit; modèles de bruit des composants; analyse de bruit des circuits; exemples : ampli à transconductance OTA.[br/][br/][b]3) Base de la conception des filtres :[/b] différents types de filtres; normalisation en impédance et en fréquence; spécifications d'un filtre; différentes approximations; synthèse des filtres passifs; sections du second ordre; méthodes de conception de filtre d'ordre élevé; effets non-idéaux.[br/][br/][b]4) Implémentations des filtres actifs :[/b] filtres à temps continus: RC-actifs, filtres Gm-C; filtres MOSFET-C; filtres à capacités commutées: principe, circuits de base, analyse, filtre du 1er ordre, sections biquadratiques, filtres d'ordre élevé; conception de filtres d'ordre élevé: simulation des filtres LC en échelle, simulation opérationnelle; effets non-idéaux.",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Projets de semestre et PDM en micro- et nanoélectronique",
+      "Objectifs d'apprentissage":"Ce cours couvre la conception de circuits intégrés analogiques avancés, et plus particulièrement de filtres intégrés. Les composants intégrés passifs et actifs sont passés en revue et les limitations fondamentales telles que bruit et distorsion sont étudiées. Différentes implémentations telles que filtres à capacités commutées et filtres à temps continus sont décrites.[br/]L'objectif principal est d'être capable de concevoir des filtres intégrés partant du cahier des charges en choisissant la technique appropriée."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced analog and RF integrated circuits design I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

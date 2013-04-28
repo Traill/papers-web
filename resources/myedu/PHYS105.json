@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705538&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","105"],
+    "title":"Physics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1705538&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[["voir moodle","voir moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104398",
+      "name":"Ansermet Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Rule of the bonus calculated on the basis of 2 written tests",
+      "Prerequisite for":"Physics III and IV",
+      "Required prior knowledge":"Physics I, Analysis I",
+      "Content":"[b]Thermodynamics: developping an intuition[/b][br/]Introduction to the objectives of thermodynamics. The notion of entropy. Thermal machines. The thermomechanics of the ideal gas. Response to heat and calorimetric coefficients.[br/][br/][b]Thermodynamics: formal derivation on the basis of thermokinetics[/b][br/]Quasi-static evolution of a system made of homogeneous blocks, thermodynamics functions, Legendre transformations, chemical reactions, phase transitions.[br/]Thermokinetics of irreversible processes in the linear regime (Fick, Fourier, Ohm, Seebeck.[br/][br/][b]Statistical Mechanics[/b] [br/]Kinetics of gases, equipartition and viriel theorems, predictions for heat capacity and failures, magnetism, black-body radiation (failure of the classical picture), conceptual link of entropy and disorder, statistical entropy.[br/][br/][b]Special relativity[/b] (end of physics I)[br/]Kinematics, momentum quadric-vector, collisions.",
+      "Type of teaching":"Ex cathedra and exercises supervised  in class",
+      "Learning outcomes":"- to learn how to define a physics system in the framework of thermodynamics: to choose variables that define its state and to specify how it is coupled to the outside world.[br/]- To know how to apply the main principles of thermodynamics in a systematic fashion.[br/]- To become acquainted with the principals of thermal machines, the energetics of chemical reactions and equilibriums among several phases.[br/]- To learn how to describe and have an appreciation for the importance of irreversible pheonomena such as the conduction of heat, charges or thermoelectric effects.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physics II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7355-0216-3&amp;con_lng=ENG\" target=\"blank\">Du flou au clair? : histoire de l'affinité chimique : de Cardan à Prigogine / par Michelle Goupil</a>\". Year:1991. ISBN:2-7355-0216-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-954617-6&amp;con_lng=ENG\" target=\"blank\">Entropy and the time evolution of macroscopic systems / Walter T. Grandy, Jr.</a>\". Year:2008. ISBN:978-0-19-954617-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-6123-3&amp;con_lng=ENG\" target=\"blank\">Equilibrium between phases of matter : phenomenology and thermodynamics / Harry A. Oonk and M. Teresa Calvet</a>\". Year:2008. ISBN:978-1-4020-6123-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-2894-4&amp;con_lng=ENG\" target=\"blank\">Introduction to continuum mechanics / W. Michael Lai, David Rubin, Erhard Krempl</a>\". Year:1999. ISBN:0-7506-2894-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-267758-X&amp;con_lng=ENG\" target=\"blank\">Introduction to solid mechanics / Irving H. Shames, James M. Pitarresi</a>\". Year:2000. ISBN:0-13-267758-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-2033-3&amp;con_lng=ENG\" target=\"blank\">La thermodynamique mot à mot / André Marchand, Adolphe Pacault; avec la collab. de Jacques Mesnil</a>\". Year:1995. ISBN:2-8041-2033-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-829-6&amp;con_lng=ENG\" target=\"blank\">Mécanique / Jean-Philippe Ansermet</a>\". Year:2009. ISBN:978-2-88074-829-6</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[["voir moodle","voir moodle"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104398",
+      "name":"Ansermet Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Physique I, Analyse I",
+      "Bibliographie et matériel":"Traité de Physique: La Mécanique. J.-Ph. Ansermet, PPUR 2009[br/]758786, FC506, DP03.4, DP05.7, DF479, DF47, D210-6, AYI12,",
+      "Forme d'enseignement":"Ex cathedra et exercices dirigés en classe",
+      "Contenu":"[b]Thermodynamique : développement d'une intuition[/b][br/]Introduction aux objectifs de la thermodynamique. La notion d'entropie. Machines thermiques. La thermomécanique du gaz parfait. Réponse à la chaleur et coefficients calorimétriques.[br/][br/][b]Thermodynamique : dérivation formelle base sur la thermocinétique[/b][br/]Evolution quasi-static d'un système de blocs homogènes, fonctions thermodynamiques, transformations de Legendre, réactions chimiques, transitions de phase.[br/]Thermocinétique des processus irréversibles dans le régime linéaire (Fick, Fourier, Ohm, Seebeck).[br/][br/][b]Mécanique statistique[/b][br/]Théorie cinétique des gaz, principe d'équipartition et du virile, prédictions pour la chaleur spécifique et leurs manquements, magnétisme, rayonnement du corps noir (manquement du modèle classique), lien conceptuel entre entropie, désordre et entropie statistique.[br/][br/] [b]Relativité restreinte[/b] (fin de physique I)[br/]Cinématique, quadri-vecteur quantité de mouvement, collisions.",
+      "Forme du contrôle":"Règle du bonus calculé sur la base de 2 tests écrits",
+      "Préparation pour":"Physique III et IV",
+      "Objectifs d'apprentissage":"- Apprendre à définir un système physique dans l'esprit de la thermodynamique, choisir les  variables qui définissent son état, spécifier comment il est couplé au monde extérieur.[br/]- Savoir appliquer les grands principes de façon systématique.[br/]- Se sensibiliser à la problématique des machines thermiques, de l'énergétique des réactions chimiques et des transitions de phase.[br/]- Apprendre à décrire et apprécier l'importance des phénomènes irréversibles tels que la conduction de la chaleur, les effets magnétocaloriques ou thermoélectriques."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-7355-0216-3&amp;con_lng=FRE\" target=\"blank\">Du flou au clair? : histoire de l'affinité chimique : de Cardan à Prigogine / par Michelle Goupil</a>\". Année:1991. ISBN:2-7355-0216-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-19-954617-6&amp;con_lng=FRE\" target=\"blank\">Entropy and the time evolution of macroscopic systems / Walter T. Grandy, Jr.</a>\". Année:2008. ISBN:978-0-19-954617-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4020-6123-3&amp;con_lng=FRE\" target=\"blank\">Equilibrium between phases of matter : phenomenology and thermodynamics / Harry A. Oonk and M. Teresa Calvet</a>\". Année:2008. ISBN:978-1-4020-6123-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7506-2894-4&amp;con_lng=FRE\" target=\"blank\">Introduction to continuum mechanics / W. Michael Lai, David Rubin, Erhard Krempl</a>\". Année:1999. ISBN:0-7506-2894-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-267758-X&amp;con_lng=FRE\" target=\"blank\">Introduction to solid mechanics / Irving H. Shames, James M. Pitarresi</a>\". Année:2000. ISBN:0-13-267758-X</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-8041-2033-3&amp;con_lng=FRE\" target=\"blank\">La thermodynamique mot à mot / André Marchand, Adolphe Pacault; avec la collab. de Jacques Mesnil</a>\". Année:1995. ISBN:2-8041-2033-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-829-6&amp;con_lng=FRE\" target=\"blank\">Mécanique / Jean-Philippe Ansermet</a>\". Année:2009. ISBN:978-2-88074-829-6</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

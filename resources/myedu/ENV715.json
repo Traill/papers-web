@@ -1,0 +1,61 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=411923156&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","715"],
+    "title":"Atmospheric Boundary Layer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=411923156&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168244",
+      "name":"Porté Agel Fernando"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objectives of the course are to provide the students:[br/][li] the basics to understand the physical processes (and their dynamics) controlling the turbulent fluxes in the atmospheric boundary layer (ABL)[br/][li] the knowledge about how land surfaces influence the flow in the ABL[br/][li] the ability to work with turbulence data taken in the ABL using statistical tools[br/]",
+      "Content":"The course will follow the book Introduction to Boundary-Layer Meteorology by Roland Stull (1989). [br/]The topics covered will be:[br/]1) Mean boundary layer characteristics[br/]Boundary-layer definition, turbulent transport, boundary layer depth and structure[br/]2) Statistical tools[br/]Turbulence and spectrum, Reynolds decomposition, kinematic fluxes, eddy fluxes[br/]3) Governing equations of turbulent flow[br/]Prognostic equations for mean variables, variances and turbulent fluxes[br/]4) Turbulent kinetic energy[br/]TKE budget, stability concepts, the Richardson number, the Obukhov length[br/]5) Boundary conditions and external forcings[br/]6) Time series analysis[br/]Structure function, FFT, energy spectrum.[br/]7) Similarity theory[br/]Scaling variables, stable boundary layers, convective boundary layers, the log wind profile[br/]8) Measurement and simulation techniques[br/]Field experiments, large-eddy simulations[br/]9) Convective mixed layer[br/]10) Stable boundary layer[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Atmospheric Boundary Layer",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168244",
+      "name":"Porté Agel Fernando"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course will follow the book Introduction to Boundary-Layer Meteorology by Roland Stull (1989). [br/]The topics covered will be:[br/]1) Mean boundary layer characteristics[br/]Boundary-layer definition, turbulent transport, boundary layer depth and structure[br/]2) Statistical tools[br/]Turbulence and spectrum, Reynolds decomposition, kinematic fluxes, eddy fluxes[br/]3) Governing equations of turbulent flow[br/]Prognostic equations for mean variables, variances and turbulent fluxes[br/]4) Turbulent kinetic energy[br/]TKE budget, stability concepts, the Richardson number, the Obukhov length[br/]5) Boundary conditions and external forcings[br/]6) Time series analysis[br/]Structure function, FFT, energy spectrum.[br/]7) Similarity theory[br/]Scaling variables, stable boundary layers, convective boundary layers, the log wind profile[br/]8) Measurement and simulation techniques[br/]Field experiments, large-eddy simulations[br/]9) Convective mixed layer[br/]10) Stable boundary layer[br/]",
+      "Objectifs d'apprentissage":"The objectives of the course are to provide the students:[br/][li] the basics to understand the physical processes (and their dynamics) controlling the turbulent fluxes in the atmospheric boundary layer (ABL)[br/][li] the knowledge about how land surfaces influence the flow in the ABL[br/][li] the ability to work with turbulence data taken in the ABL using statistical tools[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Atmospheric Boundary Layer",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":56
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=137356530&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","279"],
+    "title":"Microcontrollers for mecanical systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=137356530&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106249",
+      "name":"Rochat Pierre-Yves"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Knowledge of basic digital systems involved in[br/]industrial informatics.[br/]Design and use of digital systems for simple realtime[br/]applications : wired logical systems, sequencers[br/](state machines)[br/]Understand microprocessors[br/]Input / Output access in C language[br/]DC motors command[br/]",
+      "Content":"1.  [b]Combinative logical systems[/b][br/]Synthesis of the combinative logical systems: variables and logical [br/]functions (AND, OR, NOT, NAND, XOR, universal function), realization by [br/]integrated circuits (multiplexer, decoder), logical algebra (Boolean algebra).[br/][br/]2.  [b]Sequential systems and memories[/b][br/]Sequential Systems: flop-flops, registers, counters, and frequency [br/]dividers. Memories (ROM, RAM). Design of sequential systems using state [br/]graphs. Design of a sequencer.[br/][br/][br/][br/]3.  [b]Microprocessors and micro-controllers[/b][br/]Structures and operation of the microprocessors. Calculation with integer, [br/]representation of negative numbers (two's complement).[br/]Instruction set: instruction coding, categories of instructions, addressing [br/]modes. Concept of stack. Elementary concepts of  assembly language [br/]programming.[br/]Program structure. Microprocessor interface: signals, decoding and [br/]input-output register selection. Programming of input-output in C language.[br/][br/][br/][br/][br/]4. [b]DC motor command[/b][br/]Position détection. Pluse With Modulation command. Proportional control.[br/][br/]",
+      "Type of teaching":"Course - integrated laboratory",
+      "Form of examination":"written"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microcontrollers for mecanical systems",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-353-2&amp;con_lng=ENG\" target=\"blank\">Informatique industrielle : microprocesseurs et interfaces temps-réel / Roger D. Hersch</a>\". Year:1997. ISBN:2-88074-353-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106249",
+      "name":"Rochat Pierre-Yves"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours - laboratoire intégré",
+      "Contenu":"1. [b]Systèmes logiques combinatoires câblés[/b][br/]Synthèse des systèmes logiques combinatoires: variables et fonctions logiques (ET, OU, NON, NAND, OU-exclusif, fonction universelle), réalisation par des circuits intégrés (multiplexeur, décodeur), algèbre logique (algèbre de Boole).[br/][br/]2. [b]Systèmes séquentiels et mémoires[/b][br/]Systèmes séquentiels: bascules bistables, registres, compteurs et diviseurs de fréquence.[br/]Circuits mémoires (mémoire morte, mémoire statique, mémoire dynamique).[br/]Conception de systèmes séquentiels à l'aide de graphes d'états.[br/]Conception d'un séquenceur.[br/][br/]3. [b]Microprocesseurs et micro-contrôleurs[/b][br/]Architecture et fonctionnement des microprocesseurs.[br/]Calcul en nombres entiers, représentation de nombres négatifs (complément à 2.[br/]Répertoire d'instructions: codage des instructions, catégories d'instructions, modes d'adressage.[br/]Concept de pile.[br/]Notions élémentaires de programmation en langage assembleur.[br/]Structuration de programmes.[br/]Interface microprocesseur: signaux, décodage et sélection de registres d'entrées-sorties.[br/]Programmation d'entrées-sorties en langage C.[br/][br/]4. [b]Commande de moteurs à courant continu[/b][br/]Détection de position, commande à modulation de largeur d'impulsion, réglage proportionnel.[br/]",
+      "Forme du contrôle":"écrit",
+      "Bibliographie et matériel":"R.D. Hersch, Informatique industrielle, PPUR,[br/]Notes de laboratoires: logique digitale, Programmation sur système cible",
+      "Objectifs d'apprentissage":"Maîtriser les systèmes digitaux élémentaires nécessaires à l'informatique industrielle.[br/][br/]Concevoir et utiliser les systèmes digitaux pour des applications du temps-réel simples: systèmes logiques câblés, séquenceurs (graphe d'état et machine d'états). Comprendre le fonctionnement des micro-processeurs. Accès aux entrées-sorties en langage C.[br/]Commande de moteurs à courant continu."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Microcontrôleurs pour la commande de systèmes mécaniques",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-353-2&amp;con_lng=FRE\" target=\"blank\">Informatique industrielle : microprocesseurs et interfaces temps-réel / Roger D. Hersch</a>\". Année:1997. ISBN:2-88074-353-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

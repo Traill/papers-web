@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3286323&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","447"],
+    "title":"Statistics of extremes",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3286323&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The statistical modelling of rare events, such as stock market crashes, storms and catastrophic structural failures, is increasingly seen to be important. For example, the most destructive effects of climatic change are likely to be due to changes in extreme events, and events in the financial markets are also often modelled using methods from extreme-value statistics. This course will describe the special models and methods that are relevant to the analysis of such data, including the mathematical bases, statistical tools, and practical applications.",
+      "Content":"[li] [b]Mathematical bases[/b]: behaviour of maxima and threshold exceedances in large samples, both for independent and dependent data.[br/][br/][li] [b]Statistical methods[/b]: modelling using the GEV and GP distributions, for independent and dependent data. Non-stationarity. Extremal coefficients. Multivariate data. Likelihood and Bayesian inference. Geostatistics of extremes.[br/][br/][li] [b]Applications[/b]: environmental, financial, and engineering applications. Use of R for extremal modelling.",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Required prior knowledge":"Probabilities, Statistics for mathematicians"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistics of extremes",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-85233-459-2&amp;con_lng=ENG\" target=\"blank\">An introduction to statistical modeling of extreme values / Stuart Coles</a>\". Year:2004. ISBN:1-85233-459-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-97647-9&amp;con_lng=ENG\" target=\"blank\">Statistics of extremes : theory and applications / Jan Beirlant ... [et al.] ; with contributions from Daniel De Waal, Chris Ferro</a>\". Year:2004. ISBN:978-0-471-97647-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/111184",
+      "name":"Davison Anthony C."
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra, exercices en classe",
+      "Contenu":"[li] [b]Bases mathématiques[/b] : comportement des maxima et des dépassements des seuils, pour des variables indépendantes et dépendantes.[br/][br/][li] [b]Méthodes statistiques[/b] : modélisation avec les lois GEV et GP, non-stationarité, coefficient extrêmal. Lois multivariées. Inférence par vraisemblance et par l'approche bayesienne.[br/][br/][li] [b]Applications[/b] : applications aux données provenant des domaines variés.",
+      "Prérequis":"Probabilités, Statistiques pour mathématiciens",
+      "Bibliographie et matériel":"Coles, S. G. (2001) An introduction to the Statistical Modelling of Extreme Values. Springer.[br/]Beirlant, J. Goegebeur. Y., Teugels. J. and Segers. J. (2004) Statistics of Extremes: Theory and Applications. Wiley.",
+      "Objectifs d'apprentissage":"La modélisation des événements rares est devenue un domaine important de la statistique. Ce cours donnera un survol de ce sujet riche, y compris les bases mathématiques, les outils et méthodes statistiques, et des applications."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistics of extremes",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-85233-459-2&amp;con_lng=FRE\" target=\"blank\">An introduction to statistical modeling of extreme values / Stuart Coles</a>\". Année:2004. ISBN:1-85233-459-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-471-97647-9&amp;con_lng=FRE\" target=\"blank\">Statistics of extremes : theory and applications / Jan Beirlant ... [et al.] ; with contributions from Daniel De Waal, Chris Ferro</a>\". Année:2004. ISBN:978-0-471-97647-9</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

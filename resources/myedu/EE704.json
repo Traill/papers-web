@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241578301&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","704"],
+    "title":"Computational perception using multimodal sensors",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241578301&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218077",
+      "name":"Emonet Rémi"
+    },{
+      "url":"http://people.epfl.ch/161663",
+      "name":"Odobez Jean-Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Form of examination":"[li] written exam[br/][li] homeworks (includes practical work)[br/][li] paper presentation[br/]",
+      "Bibliography and material":"[li] C. Bishop, Pattern Recognition and Machine Learning, Springer, 2008.[br/][li] M. Brandstein and D. Ward (eds.), Microphone Arrays, Springer, 2001.[br/][li] D. Forsyth and J. Ponce, Computer Vision: a Modern Approach, Prentice Hall, 2002.[br/][li] B. Gold and N. Morgan, Speech and Audio Processing. Wiley, 1999.[br/][li] M. I. Jordan (ed.), Learning in Graphical Models, MIT Press, 1999.[br/]",
+      "Required prior knowledge":"Undergraduate-level knowledge of linear algebra, statistics, image and signal processing",
+      "Content":"1. Perceptual modalities in computers. Vision, hearing, touch, smell[br/][br/]2. Models for analyzing people: introduction to probabilistic graphical models. Basic concepts. Bayesian Networks (BNs). Learning and inference in BNs.  Dynamic Bayesian Networks (DBNs). Exact and approximate inference. Examples.[br/][br/]3. Analyzing people: fundamental tasks[br/]    a. Representation. The problem of representation in computational perception. Global vs. local representations. Visual models for faces, heads, hands, and full-bodies (shape/appearance, exemplars, geometric models). Models and features for speech and audio processing. [br/]     b. Detection and localization. Basic concepts. Detection as binary classification and as ran-dom sampling. Visual localization: skin color modeling, face localization. Audio localization: microphone arrays. Audio-visual fusion for speaker detection.[br/]    c. Segmentation. Basic concepts. Visual segmentation: background subtraction. Audio seg-mentation: source separation, speaker turn segmentation, speaker clustering.[br/]    d. Tracking. State space representation. Dynamic modeling. Human motion modeling. Multi-person tracking. Visual, audio and multimodal tracking of people.[br/]    e. Recognition. Recognition tasks. Visual recognition: facial expressions, gestures, actions, interaction. Audio recognition: speech, emotion, multi-speaker events. Audio classification. Multimodal recognition: speech, emotion, actions.[br/]    f.\t Identification. Audio, visual, and multimodal person recognition.[br/][br/]4. Final project[br/] [br/]",
+      "Keywords":"Artificial perception, human representation, multi-modalities, audio, video, probabilistic model, graphical models",
+      "Learning outcomes":"This course will provide the students with a unified view on representations, statistical models, and algorithms to automatically analyze people for real-world tasks, using single and multiple perceptual modalities (mainly vision and audio). The course will emphasize the comparison between modalities and the discussion of their individual and combined advantages, while introducing modeling tools for localization, segmentation, tracking, recognition, and identification, using probabilistic graphical models as the underlying formalism. "
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Computational perception using multimodal sensors",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-608592-8&amp;con_lng=ENG\" target=\"blank\">Computer vision : a modern approach / David A. Forsyth, Jean Ponce ; international ed. contrib. by Soumen Mukherjee ... [et al.]</a>\". Year:2012. ISBN:978-0-13-608592-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-60032-3&amp;con_lng=ENG\" target=\"blank\">Learning in graphical models / ed. by Michael I. Jordan</a>\". Year:1999. ISBN:0-262-60032-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-41953-2&amp;con_lng=ENG\" target=\"blank\">Microphone arrays : signal processing techniques and applications / Michael Brandstein ... [et al.](eds.)</a>\". Year:2001. ISBN:978-3-540-41953-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0387-31073-2&amp;con_lng=ENG\" target=\"blank\">Pattern recognition and machine learning / Christopher M. Bishop</a>\". Year:2008. ISBN:978-0387-31073-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-19536-9&amp;con_lng=ENG\" target=\"blank\">Speech and audio signal processing / Ben Gold, Nelson Morgan, Dan Ellis ; with contrib. by Hervé Bourlard ... [et al.]</a>\". Year:2011. ISBN:978-0-470-19536-9</li></ul>",
+    "lecture":{
+      "total_hours":32
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/218077",
+      "name":"Emonet Rémi"
+    },{
+      "url":"http://people.epfl.ch/161663",
+      "name":"Odobez Jean-Marc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Prérequis":"Undergraduate-level knowledge of linear algebra, statistics, image and signal processing",
+      "Bibliographie et matériel":"[li] C. Bishop, Pattern Recognition and Machine Learning, Springer, 2008.[br/][li] M. Brandstein and D. Ward (eds.), Microphone Arrays, Springer, 2001.[br/][li] D. Forsyth and J. Ponce, Computer Vision: a Modern Approach, Prentice Hall, 2002.[br/][li] B. Gold and N. Morgan, Speech and Audio Processing. Wiley, 1999.[br/][li] M. I. Jordan (ed.), Learning in Graphical Models, MIT Press, 1999.[br/]",
+      "Mots clés":"Artificial perception, human representation, multi-modalities, audio, video, probabilistic model, graphical models",
+      "Contenu":"1. Perceptual modalities in computers. Vision, hearing, touch, smell[br/][br/]2. Models for analyzing people: introduction to probabilistic graphical models. Basic concepts. Bayesian Networks (BNs). Learning and inference in BNs.  Dynamic Bayesian Networks (DBNs). Exact and approximate inference. Examples.[br/][br/]3. Analyzing people: fundamental tasks[br/]    a. Representation. The problem of representation in computational perception. Global vs. local representations. Visual models for faces, heads, hands, and full-bodies (shape/appearance, exemplars, geometric models). Models and features for speech and audio processing. [br/]     b. Detection and localization. Basic concepts. Detection as binary classification and as ran-dom sampling. Visual localization: skin color modeling, face localization. Audio localization: microphone arrays. Audio-visual fusion for speaker detection.[br/]    c. Segmentation. Basic concepts. Visual segmentation: background subtraction. Audio seg-mentation: source separation, speaker turn segmentation, speaker clustering.[br/]    d. Tracking. State space representation. Dynamic modeling. Human motion modeling. Multi-person tracking. Visual, audio and multimodal tracking of people.[br/]    e. Recognition. Recognition tasks. Visual recognition: facial expressions, gestures, actions, interaction. Audio recognition: speech, emotion, multi-speaker events. Audio classification. Multimodal recognition: speech, emotion, actions.[br/]    f.\t Identification. Audio, visual, and multimodal person recognition.[br/][br/]4. Final project",
+      "Forme du contrôle":"[li] written exam[br/][li] homeworks (includes practical work)[br/][li] paper presentation",
+      "Objectifs d'apprentissage":"This course will provide the students with a unified view on representations, statistical models, and algorithms to automatically analyze people for real-world tasks, using single and multiple perceptual modalities (mainly vision and audio). The course will emphasize the comparison between modalities and the discussion of their individual and combined advantages, while introducing modeling tools for localization, segmentation, tracking, recognition, and identification, using probabilistic graphical models as the underlying formalism. "
+    },
+    "practical":{
+      "total_hours":24
+    },
+    "language":"English",
+    "title":"Computational perception using multimodal sensors",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-608592-8&amp;con_lng=FRE\" target=\"blank\">Computer vision : a modern approach / David A. Forsyth, Jean Ponce ; international ed. contrib. by Soumen Mukherjee ... [et al.]</a>\". Année:2012. ISBN:978-0-13-608592-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-60032-3&amp;con_lng=FRE\" target=\"blank\">Learning in graphical models / ed. by Michael I. Jordan</a>\". Année:1999. ISBN:0-262-60032-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-41953-2&amp;con_lng=FRE\" target=\"blank\">Microphone arrays : signal processing techniques and applications / Michael Brandstein ... [et al.](eds.)</a>\". Année:2001. ISBN:978-3-540-41953-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0387-31073-2&amp;con_lng=FRE\" target=\"blank\">Pattern recognition and machine learning / Christopher M. Bishop</a>\". Année:2008. ISBN:978-0387-31073-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-470-19536-9&amp;con_lng=FRE\" target=\"blank\">Speech and audio signal processing / Ben Gold, Nelson Morgan, Dan Ellis ; with contrib. by Hervé Bourlard ... [et al.]</a>\". Année:2011. ISBN:978-0-470-19536-9</li></ul>",
+    "lecture":{
+      "total_hours":32
+    }
+  }
+}

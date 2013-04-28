@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351053875&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","100"],
+    "title":"Biologie cellulaire et moléculaire I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=351053875&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=&ww_c_langue=en",
+    "section":"SV",
+    "program":"SV",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168579",
+      "name":"Constam Daniel"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course contents cover notably the structure of genomes, the mechanisms of DNA replication, of checkpoints function and of DNA repair, as well as the regulation of gene expression, from DNA to the post-translational level. [br/]An emphasis will be placed on discussing experimental approaches that allow the analysis of these processes, thus helping students prepare for the Laboratoire Intégré en Sciences de la Vie I,II practical class. [br/]The weekly lectures will be followed by theoretical exercises.[br/]The acquisition of knowledge by the students will be assessed in two \"contrôle continu\" sessions. ",
+      "Content":"[li] DNA, chromosomes, genomes[br/][li] Analyzing genes and genomes[br/][li] DNA replication, repair and recombination[br/][li] Gene expression: from DNA to protein[br/][li] Experimental approaches in molecular and cellular biology[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie cellulaire et moléculaire I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=ENG\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Year:2010. ISBN:978-0-8153-4129-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4105-5&amp;con_lng=ENG\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Year:2008. ISBN:978-0-8153-4105-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":2.0,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/168579",
+      "name":"Constam Daniel"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Printemps",
+    "free_text":{
+      "Bibliographie et matériel":"Molecular Biology of the Cell,  5th Ed.[br/]Alberts et al.; Garland Science[br/]",
+      "Forme d'enseignement":"Ex cathedra + exercices                        ",
+      "Contenu":"[li] ADN, chromosomes, genomes[br/][li] Analyse des gènes et génomes[br/][li] Réplication, réparation et recombinaison de l'ADN[br/][li] Expression des genes: de l'ADN à la protéine[br/][li] Approches expérimentales en biologie moléculaire[br/]  et cellulaire[br/]",
+      "Forme du contrôle":"Contrôles continus pendant le semestre (écrits)",
+      "Préparation pour":"Laboratoire intégré en Sciences de la Vie, Biologie cellulaire et moléculaire II",
+      "Objectifs d'apprentissage":"Ce cours couvre notamment la structure des génomes, les mécanismes de la réplication, des functions \"checkpoint\" et de la recombinaison de l'ADN, de même que la régulation de l'expression des gènes, de l'ADN à la protéine. [br/]Un accent sera placé sur la discussion d'approches expérimentales qui permettent l'analyse de ces processus, aidant par là-même les étudiants à se préparer pour le cours pratique Laboratoire Intégré en Sciences de la Vie I,II.[br/]Les cours hebdomadaires seront suivis d'exercices théoriques. La lecture du livre est hautement recommandée[br/]L'acquisition de connaissances sera évaluée lors de deux sessions de contrôle continu. "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Biologie cellulaire et moléculaire I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=FRE\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Année:2010. ISBN:978-0-8153-4129-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4105-5&amp;con_lng=FRE\" target=\"blank\">Molecular biology of the cell / Bruce Alberts ... [et al.] ; with problems by John Wilson ... [et al.]</a>\". Année:2008. ISBN:978-0-8153-4105-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

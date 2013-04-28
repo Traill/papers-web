@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776477&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","526"],
+    "title":"Steel structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776477&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["Charpentes métalliques: conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel, 2005","http://opac.nebis.ch/F/Y7MPGQJFL92RD6IEB1R5FB9U155H9A1FRN3YYKPCD96DCUGH91-28364?func=service&doc_number=004929607&line_number=0010&service_type=TAG"],["Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer, 2007","http://opac.nebis.ch/F?local_base=nebis&con_lng=FRE&func=find-b&find_code=020&request=978-2-88074-702-2"],["Construction métallique: notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer, 2006","http://opac.nebis.ch/F?local_base=nebis&con_lng=FRE&func=find-b&find_code=020&request=2-88074-646-9"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105637",
+      "name":"Lebet Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/113159",
+      "name":"Nussbaumer Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[b]Conceptual design and analysis of industrial and multi-storey steel buildings[/b][br/][br/]Conceptual structural design of multi-storey and industrial steel buildings and their different analysis and design methods. Design of glass-steel façades. Fire protection and fatigue strength",
+      "Content":"-   Conceptual design of structural systems for mult-storey and industrial steel buildings[br/]-   Structural systems to resist vertical and horizontal actions[br/]-   Structural analysis and design of mult-storey and industrial buildings[br/]-   Structural elements: bulding floors[br/]-   Beam-column connections, frame joints, column bases[br/]-   Secondary elements[br/]-   Building envelopes[br/]-   Fire design and safety[br/]-   Fatigue: S-N curves, classification of details, fatigue histograms, damage accumulation."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Steel structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-629-9&amp;con_lng=ENG\" target=\"blank\">Charpentes métalliques : conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel</a>\". Year:2005. ISBN:2-88074-629-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-646-9&amp;con_lng=ENG\" target=\"blank\">Construction métallique : notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer</a>\". Year:2006. ISBN:2-88074-646-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-702-2&amp;con_lng=ENG\" target=\"blank\">Stahlbau : Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer</a>\". Year:2007. ISBN:978-2-88074-702-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["Charpentes métalliques: conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel, 2005","http://opac.nebis.ch/F/Y7MPGQJFL92RD6IEB1R5FB9U155H9A1FRN3YYKPCD96DCUGH91-28364?func=service&doc_number=004929607&line_number=0010&service_type=TAG"],["Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer, 2007","http://opac.nebis.ch/F?local_base=nebis&con_lng=FRE&func=find-b&find_code=020&request=978-2-88074-702-2"],["Construction métallique: notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer, 2006","http://opac.nebis.ch/F?local_base=nebis&con_lng=FRE&func=find-b&find_code=020&request=2-88074-646-9"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105637",
+      "name":"Lebet Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/113159",
+      "name":"Nussbaumer Alain"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Structures en métal, Statique (pour GC), Mécanique des milieux continus (pour GC), Mécanique des structures I, Mécanique des structures et solides V",
+      "Bibliographie et matériel":"TGC vol. 10 et 11[br/][br/]En bibliothèque / in libraries :[br/]Construction métallique : notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer, 2011[br/]Stahlbau : Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer, 2007[br/]Charpentes métalliques : conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel, 2011",
+      "Forme d'enseignement":"Ex cathedra, illustré par des diapositives, exercices",
+      "Contenu":"-   Conception des systèmes porteurs des halles et bâtiments à étages en acier[br/]-   Cheminement des forces, stabilisation des halles et bâtiments à étages[br/]-   Analyse et dimensionnement des systèmes porteurs des halles et bâtiments à étages[br/]-   Eléments de structures: planchers de bâtiments[br/]-   Assemblages poutre-poteau, angles de cadres, pieds de poteau[br/]-   Eléments secondaires[br/]-   Enveloppes des bâtiments[br/]-   Protection et calcul incendie[br/]-   Fatigue : courbes S-N, classement détails de construction, Sollicitations de fatigue, histogramme, cumul des dommages.",
+      "Préparation pour":"Projets de construction, projet de master",
+      "Objectifs d'apprentissage":"[b]Conception et dimensionnement des halles et bâtiments en acier[/b][br/]Maîtrise de la conception des structures porteuses des bâtiments et halles en charpentes métalliques, ainsi que de leurs méthodes d'analyse et de dimensionnement. Conception des façades verre-acier. Protection incendie et résistance à la fatigue"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures en métal, chapitres choisis",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-629-9&amp;con_lng=FRE\" target=\"blank\">Charpentes métalliques : conception et dimensionnement des halles et bâtiments / Manfred A. Hirt et Michel Crisinel</a>\". Année:2005. ISBN:2-88074-629-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-646-9&amp;con_lng=FRE\" target=\"blank\">Construction métallique : notions fondamentales et méthodes de dimensionnement / Manfred A. Hirt, Rolf Bez et Alain Nussbaumer</a>\". Année:2006. ISBN:2-88074-646-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-702-2&amp;con_lng=FRE\" target=\"blank\">Stahlbau : Grundbegriffe und Bemessungsverfahren / Manfred A. Hirt, Rolf Bez, Alain Nussbaumer</a>\". Année:2007. ISBN:978-2-88074-702-2</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499250198&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","350"],
+    "title":"Signal processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499250198&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101475",
+      "name":"Frossard Pascal"
+    },{
+      "url":"http://people.epfl.ch/115534",
+      "name":"Thiran Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Learning basic concepts of signal processing such as correlation and convolution, the Fourier transform, sampling and quantization, the discrete Fourier transform and the fast Fourier transform, and their application to the design of digital filters, spectral analysis. At the end of the course, students will be able to master these signal processing techniques and to apply them to practical problems.",
+      "Content":"[b]Introduction [/b][br/]Analog and digital signals, deterministic and random signals.[br/][b]Basic tools [/b][br/]Projection theorem, Fourier transform, correlation, convolution, spectrum.[br/][b]Sampling and quantization [/b][br/]Shannon's theorem, sampling and reconstruction, A/D and D/A conversion, quantization.[br/][b]The Discrete Fourier Transform [/b][br/]The discrete Fourier transform, fast computation algorithm.[br/][b]Digital filters [/b][br/]Structure of digital filters, design of digital filters, FIR and IIR filters.[br/][b]Spectral analysis [/b][br/]Random signals, correlation estimation, spectral estimation.[br/][b]Linear prediction [/b][br/]Prediction and estimation with linear filters, optimal linear filters, Wiener filtering.[br/]",
+      "Type of teaching":"Ex cathedra with exercises in class and on computer",
+      "Prerequisite for":"Advanced Signal Processing, Image Processing, Image Analysis and Pattern recognition, semester and diploma projects, PhD thesis",
+      "Form of examination":"Evaluation in class"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Signal processing",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-187374-1&amp;con_lng=ENG\" target=\"blank\">Digital signal processing : [principles, algorithms, and applications] / John G. Proakis, Dimitris G. Manolakis</a>\". Year:2007. ISBN:0-13-187374-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101475",
+      "name":"Frossard Pascal"
+    },{
+      "url":"http://people.epfl.ch/115534",
+      "name":"Thiran Jean-Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"John G. Proakis and Dimitris K. Manolakis, Digital Signal Processing, Prentice Hall, 4th edition, 2006.[br/]En bibliothèque / in libraries : (cliquez sur le lien pour consulter les informations du réseau de bibliothèque suisse / click on the link to consult information of the Swiss network of libraries)",
+      "Forme d'enseignement":"Ex cathedra avec exercices en classe et sur ordinateur",
+      "Contenu":"[b]Introduction[/b][br/]Signaux analogiques et numériques, signaux déterministes et aléatoires.[br/][b]Outils de base[/b][br/]Théorème de la projection, transformation de Fourier, corrélation, convolution, spectres.[br/][b]Échantillonnage et quantification[/b][br/]Théorème de Shannon, échantillonnage et reconstruction de signaux, conversion A/D et D/A, quantification[br/][b]Transformée de Fourier Discrète[/b][br/]Discrétisation de la transformation de Fourier, algorithme de calcul rapide.[br/][b]Filtrage numérique[/b][br/]Structure des filtres numériques, construction de filtres numériques RIF et RII. [br/][b]Analyse spectrale numérique[/b][br/]Signaux aléatoires, estimation de la corrélation, estimation spectrale.[br/][b]Estimation et prédiction linéaire[/b][br/]Estimation et prédiction par filtrage linéaire, filtrage optimal, filtre de Wiener.[br/]",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"Traitement avancé des signaux, Traitement d'images, analyse d'images et reconnaissance des formes, Projets de semestre et de diplôme, Thèses de doctorat",
+      "Objectifs d'apprentissage":"Maîtriser les concepts de base de traitement des signaux comme la transformée de Fourier, l'échantillonnage et la quantification, la transformée de Fourier discrète et la transformée de Fourier rapide, ainsi que les applications à l'analyse spectrale de signaux, la construction de filtres numériques. A la fin du cours, les étudiants seront capables de dominer ces méthodes du traitement des signaux et de les appliquer à des cas concrets."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Traitement des signaux",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-13-187374-1&amp;con_lng=FRE\" target=\"blank\">Digital signal processing : [principles, algorithms, and applications] / John G. Proakis, Dimitris G. Manolakis</a>\". Année:2007. ISBN:0-13-187374-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

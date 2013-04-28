@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=826348955&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","567"],
+    "title":"Optical waves propagation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=826348955&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174684",
+      "name":"Psaltis Demetri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Content can evolve depending on students' understanding",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Fundamentals of optic and electromagnetism",
+      "Content":"1. From Maxwell's equation to beam propagation methods (BPM)[br/]2. Relationship to classical diffraction integrals (Fresnel, Fraunhofer, Sommerfeld (paraxial / non paraxial BPM)).[br/]3. Lenses, grating, imaging[br/]4. Scattering particle, Mie Theory, BPM approximation[br/]5. Waveguides[br/]6. Phase conjugation, holography[br/]7. Volume holograms / grating[br/]8. Birefringent materials[br/]9. Coherence[br/]10. Nonlinear propagation equation and nonlinear BPM for chi(3), solitons[br/]11. Nonlinear propagation in chi(2), cascaded chi(2)[br/]12. Nonlinear imaging (chi(2) and chi(3))[br/]13. Second harmonic generation[br/]14. SHRIMPs (second harmonic radiating imaging microprobes)",
+      "Type of teaching":"Ex cathedra, exercises and simulations using MATLAB",
+      "Learning outcomes":"Give a tool for the treatment of electromagnetic wave propagation in linear and nonlinear media."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optical waves propagation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-369470-6&amp;con_lng=ENG\" target=\"blank\">Nonlinear optics / Robert W. Boyd</a>\". Year:2008. ISBN:978-0-12-369470-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/174684",
+      "name":"Psaltis Demetri"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Le contenu peut évoluer en fonction de la réception par les étudiants",
+      "Prérequis":"Optique et électromagnétisme de base",
+      "Bibliographie et matériel":"Nonlinear Optics R. W. Boyd, Academic Press, 3ème édition",
+      "Forme d'enseignement":"Ex cathedra, exercices et travaux pratiques avec MATLAB",
+      "Contenu":"1. Des équations de Maxwell aux méthodes de propagation de faisceaux (MPF)[br/]2. Relation avec les les intégrales de diffraction classiques (Fresnel, Fraunhofer, Sommerfeld (MPF paraxiale / non paraxiale))[br/]3. Lentilles, réseaux, imagerie[br/]4. Particule diffusante, théorie de Mie, approximation de la MPF[br/]5. Guides d'onde[br/]6. Conjugaison de phase et holographie[br/]7. Hologramme de volume, réseaux de diffraction[br/]8. Matériaux biréfringents[br/]9. Cohérence[br/]10. Equation de propagation nonlinéaire et MPF nonlinéaire pour matériaux avec chi(3), solitons[br/]11. Propagation nonlinéaire avec chi(2), chi(2) en cascade[br/]12. Imagerie nonlinéaire (chi(2) et chi(3))[br/]13. Génération de second harmonique[br/]14. SHRIMPs (second harmonic radiating imaging microprobes)",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Donner un outil de travail pour le traitement de la propagation des ondes électromagnétique en milieux linéaires et nonlinéaires."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optical waves propagation",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-369470-6&amp;con_lng=FRE\" target=\"blank\">Nonlinear optics / Robert W. Boyd</a>\". Année:2008. ISBN:978-0-12-369470-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

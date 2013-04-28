@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348761303&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CS","445"],
+    "title":"Foundations of imaging science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348761303&ww_x_anneeAcad=2012-2013&ww_i_section=2139068&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDIC",
+    "program":"IN",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112366",
+      "name":"Fua Pascal"
+    },{
+      "url":"http://people.epfl.ch/125681",
+      "name":"Süsstrunk Sabine"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written examination and continuous control",
+      "Bibliography and material":"[li]C. Bishop, [i]Pattern Recognition and Machine Learning[/i], C.M. Bishop, Springer 2006.[br/][li]R. Szeliki, [i]Computer Vision: Algorithms and Applications[/i], 2010.[br/][li]R. Raskar and J. Tumblin, [i]Computational Photography : Mastering New Techniques for Lenses, Lighting, and Sensors[/i], A.K. Peters, 2010.[br/][li]P. Shirley and S. Marschner, Fundamentals of Computer Graphics, A.K. Peters, 2009.",
+      "Prerequisite for":"Computer vision, Computer graphics, Color reproduction",
+      "Required prior knowledge":"Signal processing",
+      "Content":"[b]Image formation :[/b][br/][li]Human perception.[br/][li]Cameras, optics, and projective geometry.[br/][li]Light sources, shadows, and shading.[br/][li]Measuring and sampling light.[br/][li]Color models and color encodings.[br/][b]Image Filtering :[/b][br/][li]Linear filters, convolution, and separability.[br/][li]Domain transform.[br/][li]Splines and interpolation.[br/][b]Singe-View Image Processing :[/b][br/][li]Finding interest points.[br/][li]Matching image features.[br/][b]Multi-View Image Processing :[/b][br/][li]Image stacks.[br/][li]High dynamic range.[br/][li]Extended depth of fiel.[br/][b]Estimation and Optimization :[/b][br/][li]Robust Least-Squares.[br/][li]Riemannian and HVS metrics.[br/][b]Machine Learning for Image Processing :[/b][br/][li]Classifiers and Decision Trees.[br/][li]Gaussian Processes.",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Learning outcomes":"Advanced classes in the fields of Image Processing, Computer Vision, Color Imaging and Computer Graphics all require mastery of a number of mathematical tools and of their implementation. Also required is an understanding the image formation and perception processes.[br/][br/]This course aims at supplying this knowledge by combining formal lectures and software development and prototyping exercises under Matlab."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Foundations of imaging science",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-56881-313-4&amp;con_lng=ENG\" target=\"blank\">Computational photography : mastering new techniques for lenses, light, and sensors / Ramesh Raskar, Jack Tumblin</a>\". Year:2007. ISBN:978-1-56881-313-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-84882-934-3&amp;con_lng=ENG\" target=\"blank\">Computer vision : algorithms and applications / by Richard Szeliski</a>\". Year:2010. ISBN:978-1-84882-934-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-56881-469-8&amp;con_lng=ENG\" target=\"blank\">Fundamentals of computer graphics / Peter Shirley, Steve Marschner</a>\". Year:2009. ISBN:978-1-56881-469-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0387-31073-2&amp;con_lng=ENG\" target=\"blank\">Pattern recognition and machine learning / Christopher M. Bishop</a>\". Year:2007. ISBN:978-0387-31073-2</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112366",
+      "name":"Fua Pascal"
+    },{
+      "url":"http://people.epfl.ch/125681",
+      "name":"Süsstrunk Sabine"
+    }],
+    "lab":null,
+    "credits":7,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Signal processing",
+      "Bibliographie et matériel":"[li]C. Bishop, [i]Pattern Recognition and Machine Learning[/i], C.M. Bishop, Springer 2006.[br/][li]R. Szeliki, [i]Computer Vision: Algorithms and Applications[/i], 2010.[br/][li]R. Raskar and J. Tumblin, [i]Computational Photography : Mastering New Techniques for Lenses, Lighting, and Sensors[/i], A.K. Peters, 2010.[br/][li]P. Shirley and S. Marschner, Fundamentals of Computer Graphics, A.K. Peters, 2009.",
+      "Forme d'enseignement":"Ex cathedra et exercices sur ordinateur",
+      "Contenu":"[b]Géométrie et radiométrie des images :[/b][br/][li]Perception humaine.[br/][li]Caméras, optique et géométrie projective.[br/][li]Sources lumineuses, ombres et ombrage.[br/][li]Mesure et échantillonnage de l'intensité lumineuse.[br/][li]Représentation de la couleur.[br/][b]Filtrage linéaire :[/b][br/][li]Filtres linéaires, Convolution et séparabilité.[br/][li]Transformée de Fourier.[br/][li]Splines et Interpolation.[br/][b]Traitement d'images individuelles :[/b][br/][li]Points d'intérêt.[br/][li]Mise en correspondance.[br/][b]Traitement d'images multiples :[/b][br/][li]Séquences d'images.[br/][li]Imagerie à grande gamme dynamique.[br/][li]Augmentation de la profondeur de champ.[br/][b]Eestimation et optimisation :[/b][br/][li]Moindre carrés robustes.[br/][li]Métriques Rienmanniennes et HVS.[br/][b]Apprentissage statistique pour le traitement d'image :[/b][br/][li]Classification et arbres de décision.[br/][li]Processus Gaussiens.",
+      "Forme du contrôle":"Examen écrit et contrôle continu",
+      "Préparation pour":"Computer vision, Computer graphics, Color reproduction",
+      "Objectifs d'apprentissage":"Les cours avancés dans les domaines de la photographie digitale, de la vision par ordinateur et du graphique requièrent la maîtrise d'un certain nombre de techniques mathématiques, de leur implémentation. A cela  doit s'ajouter une compréhension des phénomènes sous-jacents à la création et à la perception des images.[br/][br/]Le but de ce cours est de donner aux étudiants cette maîtrise en combinant des cours ex-cathedra avec des travaux pratiques de développement et de prototypage en Matlab."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Foundations of imaging science",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-56881-313-4&amp;con_lng=FRE\" target=\"blank\">Computational photography : mastering new techniques for lenses, light, and sensors / Ramesh Raskar, Jack Tumblin</a>\". Année:2007. ISBN:978-1-56881-313-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-84882-934-3&amp;con_lng=FRE\" target=\"blank\">Computer vision : algorithms and applications / by Richard Szeliski</a>\". Année:2010. ISBN:978-1-84882-934-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-56881-469-8&amp;con_lng=FRE\" target=\"blank\">Fundamentals of computer graphics / Peter Shirley, Steve Marschner</a>\". Année:2009. ISBN:978-1-56881-469-8</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0387-31073-2&amp;con_lng=FRE\" target=\"blank\">Pattern recognition and machine learning / Christopher M. Bishop</a>\". Année:2007. ISBN:978-0387-31073-2</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

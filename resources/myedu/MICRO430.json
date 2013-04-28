@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824206674&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MICRO","430"],
+    "title":"Scaling laws in micro- and nanosystems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=824206674&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"MT",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107144",
+      "name":"Renaud Philippe"
+    },{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Overview of the dominant physical effects and scaling of laws that applies when downsizing sensors and actuators in microsystems. Show the limits and breakdown of scaling laws in miniaturization.[br/]Several examples taken from research articles are presented for each case.",
+      "Content":"[li][b]Introduction to scaling laws[/b][br/]Scaling of classical mechanical systems, scaling of classical electrical systems, breakdown in scaling, quantum breakdown [br/][br/][li][b]Thermal effects[/b][br/]Conduction, convection, dynamics, breakdown, thermal micro-actuators, microreactors[br/] [br/][li][b]Mechanical devices[/b][br/]Mass-spring model, mechanical noise, squeeze film effects[br/][br/][li][b]Electrical devices[/b][br/]Electrostatic micro-actuators, electrostatic breakdown, tunnel sensors, coils and inductors, electromagnetic micro-actuators, magnetostriction, magnetic beads[br/][br/][li][b]Microfluidics[/b][br/]Liquid flow, gas flow, mixing, surface tension, entropy trapping, chromatography[br/][br/][li][b]Electrokinetics[/b][br/]Dielectrophresis, EHD and MHD pumps, electrowetting, electroosmosis.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Scaling laws in micro- and nanosystems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-5511-5&amp;con_lng=ENG\" target=\"blank\">Fundamentals of microfabrication and nanotechnology / Marc J. Madou</a>\". Year:2012. ISBN:978-1-4200-5511-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107144",
+      "name":"Renaud Philippe"
+    },{
+      "url":"http://people.epfl.ch/162368",
+      "name":"Shea Herbert"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Remarque":"Le contenu peut être complété en cours de semestre",
+      "Prérequis":"bases en: physique, chimie, technologies MEMS, capteurs",
+      "Bibliographie et matériel":"Résumé de notes de cours (en anglais) et copies d'articles scientifiques[br/]G. Kovacz, Micromachined transducers handbook, McGrawHill,1998      [br/]M. Madoux, fundamentals of microfabrication, CRC Press, 1998",
+      "Forme d'enseignement":"Exposé oral + discussions",
+      "Contenu":"[li][b]Introduction aux lois d'échelle[/b][br/]Effets de taille dans le systèmes mécanique et électriques classiques, limites des lois d'échelle, limite quantique.[br/][br/][li][b]Effets thermiques[/b][br/]Conduction, convection, dynamique, limites, micro-actionneurs thermiques, micro-réacteurs.[br/][br/][li][b]Dispositifs mécaniques[/b][br/]Modèle masse-ressort, bruit mécanique, effets \"squeeze film\".[br/][br/][li][b]Dispositifs électriques[/b][br/]Micro-actionneurs électrostatiques, limites, capteurs \"tunnel\", bobines et inducteurs, micro-actionneurs électromagnétiques, magnétostriction, \"beads\" magnétiques.[br/][br/][li][b]Micro-fluidique[/b][br/]Liquides, gaz, mélanges, tension de surface, \"trappe\" d'entropie, chromatographie[br/][br/][li][b]Electrocinétique[/b][br/]Diélectrophorèse, pompes EHD et MHD, électro-osmose.",
+      "Objectifs d'apprentissage":"Présentation générale des effets physiques dominants et des lois d'échelle (scaling laws) qui s'appliquent lors de la miniaturisation des capteurs et des actionneurs dans les microsystèmes. Montrer les limites dans les petites dimensions. Plusieurs exemples tirés d'articles de recherche sont présentés pour chaque cas."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Scaling laws in micro- and nanosystems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4200-5511-5&amp;con_lng=FRE\" target=\"blank\">Fundamentals of microfabrication and nanotechnology / Marc J. Madou</a>\". Année:2012. ISBN:978-1-4200-5511-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

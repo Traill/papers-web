@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775572&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","611"],
+    "title":"Piezoelectric materials, properties and devices",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775572&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["lc.epfl.ch/ddamjanovic.html","lc.epfl.ch/ddamjanovic.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104860",
+      "name":"Damjanovic Dragan"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To acquire up-to-date knowledge of the properties and applications of piezoelectric materials. ",
+      "Content":"Since the backround and interest of the attendeeds varies from year to year, the lectures' content is adapted each time to the partcipants as much as this is possible. The discussed topics may include but are not limited to:[br/]1. [][] Piezoelectric effect. Thermodynamic relations. Electromechanical coupling coefficients. Constitutive equations.[br/]Boundary conditions.[br/]2. [][] Piezoelectric materials: single crystals, ceramics, polymers and composites. New piezoelectric materials.[br/]3. [][] Piezoelectric anisotropy. Symmetry and piezoelectricity.[br/]4. [][] Concept of morphotropic phase boundary. Soft and hard piezoelectrics.[br/]5. [][] Piezoelectric resonance.[br/]6. [][] Equivalent circuits.[br/]7. [][] Physical phenomena that can contribute to the piezoelectric effect. Piezoelectric hysteresis, nonlinearity, creep[br/]and relaxation.[br/]8. [][] Piezoelectric actuators and motors.[br/]9. [][] Piezoelectric sensors. Quasistatic and resonance mode of operation.[br/]10. [][] High frequency piezoelectric transducers for medical imaging. Concept of matching layers. Ultrasonic arrays.[br/]Doppler probes.[br/]11. [][] Surface acoustic wave effect and devices.[br/]12. [][] Other types of electro-mechanical and magneto-electro-mechanical coupling (electrostriction, flexoelectricity, strain mediated magneto-electric effect) [br/]",
+      "Keywords":"Piezoelectric effect, piezoelectric materials, actuators, sensors, crystals, ceramics, transducers power transducers, surface acoustic wave effect[br/]",
+      "Note":"Maximum number of participants: 30",
+      "Required prior knowledge":"physics and mathematics on the bachelor level of EPFL, basic materials science"
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Piezoelectric materials, properties and devices",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["lc.epfl.ch/ddamjanovic.html","lc.epfl.ch/ddamjanovic.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104860",
+      "name":"Damjanovic Dragan"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. [][]Piezoelectric effect. Thermodynamic relations. Electromechanical coupling coefficients. Constitutive equations. Boundary conditions. Piezoelectric resonance.[br/][br/]2. [][]Piezoelectric materials: single crystals, ceramics, polymers, and composites. Piezoelectric anisotropy.[br/][br/]3. [][]Piezoelectric measurements and determination of the material constants. Equivalent circuits.[br/][br/]4. [][]Physical phenomena that can contribute to the piezoelectric effect. Piezoelectric hysteresis, nonlinearity, creep and relaxation.[br/][br/]5. [][]Piezoelectric actuators and motors.[br/][br/]6. [][]Methods for linearization of the displacement and reduction of hysteresis in micropositioners.[br/][br/]7. [][]Piezoelectric sensors. Quasistatic and resonance mode of operation.[br/][br/]8. [][]High frequency piezoelectric transducers for medical imaging. Concept of matching layers. Ultrasonic arrays. Doppler probes.[br/][br/]9. [][]High power transducers.[br/][br/]10. Surface acoustic wave effect and devices.",
+      "Mots clés":"Piezoelectric effect, piezoelectric materials, piezoelectric actuators, micropositioners, piezoelectric sensors, high power transducers, surface acoustic wave effect",
+      "Objectifs d'apprentissage":"To acquire the up-to-date knowledge of the piezoelectric materials, their properties and applications."
+    },
+    "practical":{
+      "total_hours":4
+    },
+    "language":"English",
+    "title":"Piezoelectric materials, properties and devices",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":10
+    }
+  }
+}

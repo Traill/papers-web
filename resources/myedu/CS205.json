@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71644584&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","205"],
+    "title":"Advanced topics in programming",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71644584&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lamp.epfl.ch/teaching/progp","  http://lamp.epfl.ch/teaching/progp"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126003",
+      "name":"Odersky Martin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Continuous and written test at the end of the course",
+      "Bibliography and material":"Abelson/Sussman : Structure and Interpretation of Computer Programs, MIT Press",
+      "Prerequisite for":"Compiler Construction[br/]Foundations of Software",
+      "Required prior knowledge":"Introduction à la programmation objet[br/]Théorie et pratique de la programmation",
+      "Content":"Introduction to programming in Scala[br/]Expressions and functions[br/]Classes and objects[br/]Evaluation by rewriting[br/]Pattern matching\t[br/]Polymorphism[br/]Evaluation strategies[br/]Domain-specific languages[br/]Constraint programming[br/]Language interpretation[br/]An interpreter for Lisp[br/]An interpreter for Prolog[br/]",
+      "Type of teaching":"Ex cathedra. Computer exercises and projects",
+      "Learning outcomes":"Understanding of the principles and applications of declaratative programming.[br/]Understanding of the fundamental models of program execution.[br/]Understanding and application of fundamental methods of program composition.[br/]Understanding meta-programming through the construction of interpreters.[br/]Learning advanced programming techniques.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Advanced topics in programming",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-51087-1&amp;con_lng=ENG\" target=\"blank\">Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman; with Julie Sussman; forew. by Alan J. Perlis</a>\". Year:1996. ISBN:0-262-51087-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lamp.epfl.ch/teaching/progp","  http://lamp.epfl.ch/teaching/progp"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126003",
+      "name":"Odersky Martin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Introduction à la programmation objet[br/]Théorie et pratique de la programmation",
+      "Bibliographie et matériel":"Abelson/Sussman : Structure and Interpretation of Computer Programs, MIT Press",
+      "Forme d'enseignement":"Ex cathedra. Exercices et projets sur ordinateur",
+      "Contenu":"Introduction au langage Scala[br/]Expressions et fonctions[br/]Classes et objets[br/]Evaluation par réécriture[br/]Filtrage de motifs[br/]Polymorphisme[br/]Stratégies de l'évaluation[br/]Langages spécifiques de domaine[br/]Programmatuon par contraines[br/]Interprètes des langages[br/]Un interprète pour Lisp[br/]Un interprète pour Prolog[br/]",
+      "Forme du contrôle":"Continue et par écrit a la fin du cours",
+      "Préparation pour":"Compiler construction[br/]Foundations of Software",
+      "Objectifs d'apprentissage":"Comprendre les principes et appplications [br/]de la programmation déclarative[br/]Comprendre des modèles fondamentaux de [br/]l'exécution des logiciels[br/]Comprendre et utiliser des méthodes fondamentales [br/]de la composition des logiciels[br/]Comprendre la méta-programmation par la [br/]construction interprètes[br/]Apprentissage des techniques de programmation avancées."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Programmation avancée",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-262-51087-1&amp;con_lng=FRE\" target=\"blank\">Structure and interpretation of computer programs / Harold Abelson and Gerald Jay Sussman; with Julie Sussman; forew. by Alan J. Perlis</a>\". Année:1996. ISBN:0-262-51087-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

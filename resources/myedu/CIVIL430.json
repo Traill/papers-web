@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775602&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","430"],
+    "title":"Concrete bridges",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775602&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course presents the main aspects of prestressed concrete bridge conceptual design and dimensioning. It focuses on beam-type bridges. This course offers the opportunity to explore some key areas of structural engineering, namely optimization of the structural behavior, construction methods, dynamics and materials technology.[br/]",
+      "Content":"[br/][li]\tConceptual design of beam bridges:[br/]-\tLongitudinal design[br/]-\tStability and piles design[br/]-\tInternal and external prestressing[br/]-\tTransverse design[br/]-\tInfluence of the construction method (scaffolding, free cantilevering, incremental launching, precasting,...)[br/]-\t\tDesign of diaphragms[br/][br/][li]\tConceptual design of arch bridges[br/][br/][li]\tConceptual design of cable-stayed bridges[br/][br/][li]\tSpecial cases: rail bridges and pedestrian bridges"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Concrete bridges",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[br/][li]\tConception des ponts poutres :[br/]-\tDimensionnement longitudinal[br/]-\tStabilité et dimensionnement des piles[br/]-\tPrécontrainte intérieure et extérieure[br/]-\tDimensionnement transversal[br/]-\tInfluence du mode d'exécution (cintre,[br/]encorbellement, poussage, préfabrication, ...)[br/]-\tCalcul et dimensionnement des entretoises[br/][br/][li]\tConception des ponts arcs[br/][br/][li]\tConception des ponts haubanés[br/][br/][li]\tParticularité des ponts-rails et des passerelles",
+      "Préparation pour":"Projet de Master",
+      "Prérequis":"Structures en béton ou équivalent",
+      "Objectifs d'apprentissage":"Ce cours traite des principaux aspects de la conception et du dimensionnement des ponts en béton précontraint. L'accent est mis sur les ponts poutres. Ce cours est l'occasion d'étudier plusieurs aspects clés du génie des structures, telles que l'optimisation du comportement structural, les méthodes de construction, la dynamique des structures et la technologie des matériaux."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Ponts en béton",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

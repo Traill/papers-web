@@ -1,0 +1,66 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771708&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","441"],
+    "title":"Statistical theories and electronic of solids",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771708&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Acquire a solid understanding of the statistical theories of Maxwell Boltzmann, Bose-Einstein and Fermi Dirac. [br/]See their applications in statitistical thermodynamics and understand the electronic properties of solids.",
+      "Content":"[b]1. Classical Maxell Boltzmann Statistics[/b][br/]Energy distribution law and partition function, basis of statistical thermodynamics and applications to derive the specific heat of solids (Debye Einstein), the value of equilibrium constants for chemical reactions as well as the entropy and the equation of state for an ideal gas. [br/][br/][br/][b]2. Bose Einstein quantum statistics[/b][br/]Properties of Bosons, energy levels and distribution  law for their occupancy, application to describe photons, the properties of black body radiation and to derive Planck's formula.[br/][br/][b]3. Fermi-Dirac quantum statistics[/b][br/]Properties of fermions, distribution law and occupancy of energy levels. Fermi energy and chemical potential of electrons. [br/][br/][b]4. Electronic theory of metals[/b][br/]Energy bands, density of state (DOS) as a function of energy, organic metals[br/][br/][b]5. Electronic theory of semiconductors[/b][br/]Energy bands, Brillouin zones, doping of semiconductors, organic semiconductors, p-n junctions, diodes and thin film transistors, photovoltaic cells.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical theories and electronic of solids",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra, moyens audiovisuels",
+      "Contenu":"[b] 1. Statistique classique de Maxwell Boltzmann[/b] [br/]Thermodynamique statistique. Loi de distribution et fonction de partition, applications à la théorie de la chaleur spécifique des solides (Debye Einstein), au calcul des constantes d'équilibres des réactions chimiques, et de l'entropie des gaz parfaits et dérivation de leur équation d'état. [br/][br/][b]2. Statistique quantique de Bose Einstein[/b][br/]Propriétés des bosons, loi de distribution, occupation des niveaux énergétiques, applications aux photons, rayonnement des corps noirs, dérivation de la formule de Planck.  [br/][br/][b]3. Statistique quantique de Fermi-Dirac[/b][br/]Propriétés des fermi-ions, loi de distribution, occupation de niveau énergétique, énergie de Fermi et potentiel chimique des électrons. [br/][br/][b]4. Théorie électronique des métaux[/b][br/]Bandes d'énergie, densité d'états électronique, conducteurs organiques[br/][br/][b]5. Théorie électronique des semi-conducteurs[/b][br/]Bandes d'énergie, zones de Brillouin, dopage des semi-conducteur, semi-conducteurs organiques, jonction type p-n, diodes et transistors à effet de champs, piles photovoltaïques.",
+      "Prérequis":"Le cours nécessite les connaissances de: Thermodynamique",
+      "Bibliographie et matériel":"Polycopié",
+      "Objectifs d'apprentissage":"Apprendre les bases des théories statistiques de Maxwell, Boltzmann, Bose-Einstein, et Fermi Dirac. [br/]Voir leur application en thermodynamique statistique et comprendre les propriétés électroniques des solides"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Statistical theories and electronic of solids",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

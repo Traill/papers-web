@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24005195&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","524"],
+    "title":"Hydrological risks and structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24005195&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148669",
+      "name":"Ancey Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]To introduce to the concepts and principles related to risk management, with emphasis on hydrological risks[br/][li]To provide an overview on the phenomena involved[br/][li]To present mathematical tools (deterministic and stochastic) tools for spreading computation[br/][li]To develop mitigation strategies available to reducing hydrological risks[br/]",
+      "Content":"[b]Fundamentals: Hazard, danger and hydrological risk, vulnerability, objectives and deficit of protection[/b][br/][br/][b]Mathematical tools:[/b][br/][li]naturalist approach[br/][li]scenario-based deterministic approach[br/][li]stochastic simulation using Monte Carlo schemes[br/][br/][b]Physical phenomena studied:[/b][br/][li]floods / inundations (low floods)[br/][li]solid and sediment transport[br/][li]debris flows and mud flows [br/][li]avalanches[br/][br/][b]Risk Management:[/b][br/][li]strategies and measures of structural (protection works) and non-structural types[br/][li]zoning and soil occupation[br/][li]regulation[br/][br/][b]Exercises based on a case study.[/b][br/]",
+      "Type of teaching":"Ex-Cathedra",
+      "Form of examination":"100 % continuous control during the semester (project)",
+      "Required prior knowledge":"Hydrology for engineer, Hydraulique des ouvrages"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hydrological risks and structures",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/148669",
+      "name":"Ancey Christophe"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Hydrology for engineer, Hydraulique des ouvrages",
+      "Bibliographie et matériel":"Notes de cours, cours virtuel sur le Web",
+      "Forme d'enseignement":"Ex-Cathedra",
+      "Contenu":"[b]Les notions de base : l'aléa, le danger et le risque hydrologique, la vulnérabilité, les objectifs et le déficit de protection[/b][br/][br/][b]Outils mathématiques :[/b][br/][li]approche naturaliste[br/][li]approche déterministe par scénario[br/][li]approche stochastique par simulation de Monte Carlo[br/][br/][b]Phénomènes physiques étudiés :[/b][br/][li]les inondations (crues lentes)[br/][li]le transport de matériaux et de sédiments[br/][li]les laves torrentielles et les coulées de boues[br/][li]les avalanches[br/][br/][b]La gestion du risque: [/b][br/][li]stratégie et aménagements de type structural (ouvrages de protection) et non-structural[br/][li]zonage et occupation du sol[br/][li]réglementation[br/][br/][b]Travaux dirigés sur une étude de cas.[/b]",
+      "Forme du contrôle":"100 % contrôle continu pendant le semestre (projet)",
+      "Objectifs d'apprentissage":"[li]Introduire aux concepts liés à la gestion des risques naturels, principalement les risques hydrologiques[br/][li]Donner une vue d'ensemble sur les phénomènes impliqués[br/][li]Présenter des outils de calcul déterministes et stochastiques pour les calculs de propagation[br/][li]Développer les stratégies de protection possibles[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Risques hydrologiques et aménagements",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4046557&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","202"],
+    "title":"Cristallography and diffraction methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4046557&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lcr.epfl.ch","http://lcr.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    },{
+      "url":"http://people.epfl.ch/112564",
+      "name":"Stolichnov Igor"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Diffraction methods are particularly adapted to reveal the precise three dimensional structures of molecules or other compounds in crystalline state. This course intends to familiarize the chemistry student with these methods and to show their potential in the daily research of the chemist.[br/]",
+      "Content":"1.\tIntroduction to the periodicity of crystalline systems and to the reciprocal space.[br/]2.\tSymmetry operations and space groups. Crystalline classes.[br/]3.\tIntroduction to the diffraction of periodic and quasiperiodic systems.[br/]4.\tDerivation of the von Laue and Bragg equations.[br/]5.\tElectronic density and Fourier transform. Structure factors.[br/]6.\tCurrent diffraction methods on single crystals. Synchrotronic radiation.[br/]7.\tStructure solving methods for periodic crystals.[br/]8.\tExamples of organic and inorganic structure types.[br/]9.\tAbsolute chirality.[br/]10.\tCrystallographic databases.[br/]",
+      "Type of teaching":"Ex cathedra with demonstrations"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Cristallography and diffraction methods",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-672-8&amp;con_lng=ENG\" target=\"blank\">Cristallographie / Dieter Schwarzenbach, Gervais Chapuis</a>\". Year:2006. ISBN:2-88074-672-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lcr.epfl.ch","http://lcr.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138857",
+      "name":"Scrivener Karen"
+    },{
+      "url":"http://people.epfl.ch/112564",
+      "name":"Stolichnov Igor"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours du bachelor",
+      "Bibliographie et matériel":"Cristallographie : D. Schwarzenbach & G. Chapuis[br/]PPUR Lausanne. ISBN : 2-88074-672-8[br/]The interactive course of crystallography, http://lcr.epfl.ch",
+      "Forme d'enseignement":"Ex cathedra avec démonstrations",
+      "Contenu":"1.\tIntroduction à la périodicité des systèmes cristallins et à l'espace réciproque.[br/]2.\tOpérations de symétrie et groupes d'espace. Classes cristallines. Symétrie de site.[br/]3.\tIntroduction à la diffraction des systèmes périodiques et quasi périodiques.[br/]4.\tDérivation des équations de von Laue et de Bragg.[br/]5.\tDensité électronique et transformée de Fourier. Facteur de structure.[br/]6.\tMéthodes actuelles de diffraction par monocristaux. Radiation synchrotronique.[br/]7.\tMéthodes de résolution des structures cristallines périodiques.[br/]8.\tExemples types de structures cristallines organiques et inorganiques.[br/]9.\tChiralité absolue.[br/]10.\tBases de données cristallographiques.",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Ecole doctorale : Cours pratique de méthodes de diffraction (2 semaines au printemps)",
+      "Objectifs d'apprentissage":"Les méthodes de diffraction sont particulièrement adaptées pour révéler très précisément la structure tridimensionnelle de molécules ou autres composés à l'état cristallin. Le cours à pour but de familiariser l'étudiant en chimie avec ces méthodes et de montrer leur application dans le travail quotidien du chimiste."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Cristallographie et méthodes de diffraction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-672-8&amp;con_lng=FRE\" target=\"blank\">Cristallographie / Dieter Schwarzenbach, Gervais Chapuis</a>\". Année:2006. ISBN:2-88074-672-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

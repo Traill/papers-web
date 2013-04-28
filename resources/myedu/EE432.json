@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24102460&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","432"],
+    "title":"Hardware systems modeling I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24102460&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MNIS",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lsm.epfl.ch/page13591.html","http://lsm.epfl.ch/page13591.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Bibliography and material":"Notes polycopiées, précis de syntaxe VHDL",
+      "Prerequisite for":"Hardware systems modeling II; VLSI design II",
+      "Required prior knowledge":"Computer tools (VDHL Module); Logic systems",
+      "Content":"[b]Introduction[/b][br/]Models in electronic design automation. Hardware description languages. Logic simulation. Architectural and logic synthesis. VHDL characteristics (language, design flow, modeling guidelines).[br/][br/][b]Synthesis with VHDL[/b][br/]VHDL synthesis subset (IEEE Std 1076.3 and 1076.6). Synthesis of VHDL statements.[br/][br/][b]Modeling of digital components[/b][br/]Basic combinational and sequential elements. Controllers (finite state machines). Arithmetic units (adders, multipliers, ALU). Memories (registers, RAM, ROM, FIFO, LIFO). Digital filters. Interface circuits (UART, PCI). Processors. Testbenches and verification techniques.",
+      "Type of teaching":"Ex cathedra with integrated exercises",
+      "Learning outcomes":"[br/][li]To be able to create VHDL models of digital components for simulation and synthesis.[br/][li]To be able to create testbench models and to learn verification techniques.[br/][li]To learn modeling guidelines.[br/][li]To get a reference library of VHDLmodels.[br/][li]To get a working knowledge of VHDL simulation and synthesis tools."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hardware systems modeling I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lsm.epfl.ch/page13591.html","http://lsm.epfl.ch/page13591.html"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104020",
+      "name":"Vachoux Alain"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Outils informatiques (module VHDL); Systèmes logiques",
+      "Bibliographie et matériel":"Notes polycopiées, précis de syntaxe VHDL",
+      "Forme d'enseignement":"Cours avec exemples et exercices pratiques intégrés",
+      "Contenu":"[b]Introduction[/b][br/]Notion de modèle et de langages de description de matériel. Principes de la simulation logique et de la synthèse logique et architecturale. Caractéristiques de VHDL (langage, flot de conception, règles de modélisation).[br/][br/][b]VHDL pour la synthèse[/b][br/]Sous-ensemble synthétisable standard du langage (IEEE Std 1076.3 et 1076.6). Synthèse d'instructions VHDL.[br/][br/][b]Modélisation de composants numériques[/b][br/]Éléments combinatoires et séquentiels. Contrôleurs (machines à états finis). Unités arithmétiques (additionneurs, multiplieurs, ALU). Mémoires (registres, RAM, ROM, FIFO, LIFO). Filtres numériques. Circuits d'interface (UART, PCI), Processeurs. Modèles de test et techniques de vérification.",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Hardware systems modeling II; VLSI design II",
+      "Objectifs d'apprentissage":"[br/][li]Être capable de créer des modèles VHDL de composants numériques pour la simulation et la synthèse.[br/][li]Être capable de créer des modèles de test et d'appliquer des techniques de vérification.[br/][li]Acquérir des règles de modélisation.[br/][li]Disposer d'une bibliothèque de modèles VHDL.[br/][li]Obtenir une connaissance pratique des outils de simulation et de synthèse VHDL."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Hardware systems modeling I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

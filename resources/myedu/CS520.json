@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47885289&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","520"],
+    "title":"Advanced computer networks and distributed systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47885289&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://nsl.epfl.ch/teaching/acnds","http://nsl.epfl.ch/teaching/acnds"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171553",
+      "name":"Kostic Dejan"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The Internet has changed the way people perceive computers, communicate and do business. A key component of many successful Internet applications is a scalable, high-performance, and highly-available distributed system.  Moreover, as the planetary-scale services become prevalent and grow in importance, it becomes necessary to understand the distributed systems underpinnings that will enable the future applications. This is a distributed systems course with an experimental systems viewpoint: the course will discuss the architecture and teach the understanding of the performance of real systems. The title of the course reflects the blurring of boundaries between computer networks and distributed systems, as often distributed systems are used to implement large-scale services that could not be implemented and deployed solely at the network level. The syllabus for this research-oriented course is driven by published, current papers. After completing the course, the students should be able to engage in doctoral-level research in this field. Paper evaluations that demand critical reasoning will be a part of the grade. There will be a midterm and a final group project report, with a goal of publishing the best projects in top conferences (with additional work).[br/][br/][br/][br/]",
+      "Content":"[li]\tBrief overview of networking aspects that impact planetary-scale systems: [br/][li]\tTechniques for implementing scalable, large-scale network services at the distributed systems level [br/][li]\tCloud computing [br/][li]\tEnergy-proportional networked systems [br/][li]\tImproving reliability of internet services.[br/][li]\tMultimedia Streaming and Content Distribution: Content Distribution Networks (CDNs), overlay trees, overlay meshes.[br/][li]\tPeer-to-Peer storage and wide-area file systems.[br/][li]\tOverlay network creation and programming: state-machine and query-based.[br/]",
+      "Type of teaching":"Ex cathedra and mini-project",
+      "Form of examination":"Continuous, with final written exam",
+      "Required prior knowledge":"Good knowledge of networking concepts and protocols, operating systems (UNIX environment), and programming."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced computer networks and distributed systems",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://nsl.epfl.ch/teaching/acnds","http://nsl.epfl.ch/teaching/acnds"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171553",
+      "name":"Kostic Dejan"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et mini-projet",
+      "Contenu":"[li]\tVue d'ensemble rapide des aspects réseaux qui ont un impacte sur les systèmes déployés à échelle mondiale.[br/][li]\tTechniques d'implémentation de services réseau à large échelle au niveau des systèmes distribués.[br/][li]\tCloud computing[br/][li]\tEnergie proportionnelle des systèmes en réseau.[br/][li]\tAmélioration de la fiabilité de services Internet.[br/][li]\tDiffusion et distribution de contenu multimédia: Réseau de distribution de contenus (CDNs),[br/][li]\tStockage pair à pair et systèmes de fichiers réseau.[br/][li]\tCréation et programmation de réseaux superposés: machines d'état, basés sur des requêtes.[br/]",
+      "Forme du contrôle":"Examen Ecrit avec contrôle continu",
+      "Prérequis":"Bonnes connaissances des concepts et protocoles réseaux, des systèmes d'exploitation, et de la programmation.",
+      "Objectifs d'apprentissage":"Internet a changé la façon dont les gens perçoivent les ordinateurs et travaillent. Un des composants clés de beaucoup de services Internet à succès est un système distribué à haute disponibilité et hautes performances, capables de résister à de grosses variations de charge. De plus, alors que la planétarisation des services devient de plus en plus prévalente et croit en importance, il devient nécessaire de comprendre les fondements des systèmes distribués qui permettront de créer les applications du future. Ce cours de systèmes distribués adopte une approche expérimentale : le cours parlera d'architecture et de performances de systèmes réels. Le titre du cours reflète le flou qui existe autour de la frontière entre réseaux d'ordinateurs et systèmes distribués, puisque souvent on utilise des systèmes distribués pour implémenter des services à large échelle qui ne pouvaient pas simplement êtres implémentés et déployés au niveau du réseau. Le plan de ce cours est établi à partir de papiers de recherche publiés et récents. Après avoir terminé ce cours, l'étudiant devrait être capable de s'engager dans des études doctorales sur ce sujet. L'évaluation de papiers demandant un esprit critique fera partie de la note. Il y aura un examen de milieu de semestre ainsi qu'un projet de groupe, avec comme but de publier les meilleurs projets dans une des meilleures conférences du domaine (moyennant un peu de travail additionnel)."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced computer networks and distributed systems",
+    "recitation":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

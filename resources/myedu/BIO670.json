@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=446504343&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","670"],
+    "title":"Lectures in Life Sciences",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=446504343&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196676",
+      "name":"Harris Nicola"
+    },{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    },{
+      "url":"http://people.epfl.ch/171549",
+      "name":"van der Goot Grunberg Françoise Gisou"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"To expose PhD students to cutting-edge research in the life sciences through attendance of plenary-style lecture series given by external world experts. The objectives are to broaden the knowledge of students and expose them to the diversity of life science studies. This cross-disciplinary course will increase our students' comprehension in a broad range of fields of research and reinforce interactions within the EPFL life science school.   ",
+      "Content":"The course comprises a series of lectures in various fields of life science by internationally renowned scientists (mainly from abroad). Students will read one review about the topic that is covered by each lecturer to be prepared. Lectures will include an overview of the field and will be given in a way to be understandable to students despite the diversity of covered topics. These lectures include a general discussion between speakers and audience followed by a more informal meeting time to permit direct contacts and informal discussions with the invited speakers. This format will highlight the diversity of model organisms (from bacteria to human), technical approaches, layers of integrations (from single molecules to human behavior) that characterize the current trends in science. Examination procedure consists of a written report on 1-2 recent papers related to one of the lectures.     ",
+      "Keywords":"molecular and cellular biology, neuroscience, system biology  "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lectures in Life Sciences",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Term paper",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196676",
+      "name":"Harris Nicola"
+    },{
+      "url":"http://people.epfl.ch/178546",
+      "name":"Lemaitre Bruno"
+    },{
+      "url":"http://people.epfl.ch/171549",
+      "name":"van der Goot Grunberg Françoise Gisou"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The course comprises a series of lectures in various fields of life science by internationally renowned scientists (mainly from abroad). Students will read one review about the topic that is covered by each lecturer to be prepared. Lectures will include an overview of the field and will be given in a way to be understandable to students despite the diversity of covered topics. These lectures include a general discussion between speakers and audience followed by a more informal meeting time to permit direct contacts and informal discussions with the invited speakers. This format will highlight the diversity of model organisms (from bacteria to human), technical approaches, layers of integrations (from single molecules to human behavior) that characterize the current trends in science. Examination procedure consists of a written report on 1-2 recent papers related to one of the lectures.     ",
+      "Mots clés":"molecular and cellular biology, neuroscience, system biology ",
+      "Objectifs d'apprentissage":"To expose PhD students to cutting-edge research in the life sciences through attendance of plenary-style lecture series given by external world experts. The objectives are to broaden the knowledge of students and expose them to the diversity of life science studies. This cross-disciplinary course will increase our students' comprehension in a broad range of fields of research and reinforce interactions within the EPFL life science school.   "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Lectures in Life Sciences",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Mémoire",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

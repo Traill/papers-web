@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1494718976&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","447"],
+    "title":"UE O: Concrete. Construction material",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1494718976&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169271",
+      "name":"Amstein Emy"
+    },{
+      "url":"http://people.epfl.ch/104128",
+      "name":"Voellinger Thierry"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The objective for both teaching units is to focus on the material, from a perceptive and constructive angle. The student will be able to define a concept relative to concrete in an architectural project.[br/][br/][b]Outcomes[/b][br/][br/]CONCRETE: CONSTRUCTION MATERIAL[br/]Recipe and composition of concrete.[br/]Imprint / matrix.[br/]Texture (shadow and light).[br/]Principles of color / pigment.[br/]Abrasions of concrete.[br/][br/]",
+      "Content":"The student will make use of the knowledge gained from the observation and experimentation phases which he'll have completed before tackling questions of concept. The educational method used is based upon the scientific method, that is, observation, experimentation and interpretation (Claude Bernard).[br/][br/]CONCRETE: CONSTRUCTION MATERIAL[br/]The subject will revolve around the material of concrete and its materiality.[br/]Observation: geometry and composition of the material.[br/]Experimentation: creation of samples.[br/]Interpretation: materialization of a street shop showcase.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE O: Concrete. Construction material",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169271",
+      "name":"Amstein Emy"
+    },{
+      "url":"http://people.epfl.ch/104128",
+      "name":"Voellinger Thierry"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours, travaux dirigés, travaux pratiques.",
+      "Contenu":"L'étudiant se servira de ses expériences faites lors des phases d'observation et d'expérimentation qu'il aura effectuées avant d'aborder la question du concept même. La méthode pédagogique appliquée est la méthode expérimentale, soit observation, expérimentation et interprétation (Claude Bernard).[br/][br/]BETON : MATIERE DE CONSTRUCTION[br/]Le thème se développera sur la matière du béton et sa matérialité.[br/]Observation : géométrie et composition de la matière.[br/]Expérimentation : création d'échantillons.[br/]Interprétation : matérialisation d'une boutique d'un immeuble urbain.[br/]",
+      "Forme du contrôle":"[li]3 rendus en cours de semestre selon un canevas proposé, comptant chacun pour 25%[br/][li]1 critique finale (oral + beamer) selon un canevas proposé comptant pour les 25 derniers pourcents.[br/]",
+      "Objectifs d'apprentissage":"L'objectif des deux unités d'enseignement est d'approcher le matériau, des points de vue perceptif et constructif. L'étudiant sera capable d'établir un concept propre au béton pour un projet d'architecture.[br/][br/][b]Acquis de formation[/b][br/][br/]BETON : MATIERE DE CONSTRUCTION[br/]Recette et composition du béton.[br/]Empreinte / matrice.[br/]Notions de texture (ombre et lumière).[br/]Principes de couleur / pigment.[br/]Traitements du béton.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"UE O : Béton. Matière de construction",
+    "recitation":{
+      "week_hours":2,
+      "weeks":12
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":12
+    }
+  }
+}

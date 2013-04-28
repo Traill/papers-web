@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231685619&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","444"],
+    "title":"Environmental geovisualization",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=231685619&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149002",
+      "name":"Joost Stéphane"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"At the end of lectures and exercices, students shall be able : [br/]- to apply a geovisualization approach to any georeferenced data set;[br/]- to apply GVIS to uncover underlying geographic structures and to detect outliers in any investigated spatial data set;[br/]- to form working hypotheses with standard statistical tools (confirmatory statistics) on the basis of GVIS (exploratory statistics);[br/]- to know how to apply the \"Information Seeking Mantra\"; or any other systematic way to implement geovisualization.[br/][b]Goals[/b][br/]- To make students aware of the geographic dimension of (almost) any data set to be analysed or to be processed within environmental sciences and environmental engineering;[br/]- To make students aware that scientific visualization represents a powerful force for perception and understanding;[br/]- To illustrate Exploratory Spatial Data Analysis (ESDA), Scientific Visualization, and Geovisualization's contribution to highlight hidden patterns in the spatial distribution of any environmental variable, to detect relationships between investigated  factors or individuals;[br/]- To show that the geovisualization approach is also useful in the context of data management, and decision-making related tasks.[br/][br/][br/][br/][br/][br/]",
+      "Content":"The geovisualization approach will mainly be demonstrated in the context of research activities carried out at the Institute of Environmental Engineering (IIE): case studies and data produced by IIE's laboratories will be used for exercices. IIE's professors and scientists will give talks to explain the contribution of geovisualization in their research field. Lab work will consist of geovisualization tasks to be carried out with the help of dedicated GVIS software.[br/][br/]",
+      "Type of teaching":"Lecture ex-cathedra, practical works",
+      "Form of examination":"Continuous controls. 4 practical works during the semester 50 %. Written project 25 %. Oral defence of the project 25 %."
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Environmental geovisualization",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-25994-7&amp;con_lng=ENG\" target=\"blank\">Exploratory analysis of spatial and temporal data : a systematic approach / Natalia Andrienko, Gennady Andrienko</a>\". Year:2008. ISBN:978-3-540-25994-7</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149002",
+      "name":"Joost Stéphane"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex-cathedra, travaux pratiques",
+      "Contenu":"La géovisualisation de données sera mise en oeuvre dans le contexte de recherches menées à l'Institut d'Ingénierie Environnementale (IIE). Les données utilisées dans le cadre des travaux pratiques seront principalement issues de travaux de recherche menés par des laboratoires de l'IIE. Des professeurs et chercheurs de l'IIE viendront expliquer l'importance de la géovisualisation dans le cadre de leurs travaux. Des tâches de géovisualisation seront effectuées lors des travaux pratiques avec l'aide de logiciels spécialisés",
+      "Forme du contrôle":"Contrôle continu. 4 TP durant le semestre 50 %. Rapport de projet 25 %. défense orale du projet 25 %.[br/]",
+      "Bibliographie et matériel":"- Andrienko, N., Andrienko, G. (2006) Exploratory Analysis of Spatial and Temporal Data: A Systematic Approach, Springer, Heidelberg.[br/][br/][br/][br/]",
+      "Objectifs d'apprentissage":"À l'issue du cours, les étudiants seront capables:[br/]- d'appliquer une approche de géovisualisation à n'importe quel jeu de données géoréférencées;[br/]- d'appliquer la GVIS dans le but de découvrir des structures géographiques sous-jacentes ou de détecter des irrégularités dans tout jeu de données analysé;[br/]- de formuler des hypothèses de travail dans le cadre de l'utilisation de la GVIS et de les vérifier avec des outils standards en statistiques confirmatoires;[br/]- d'appliquer une approche systématique d'exploration des données en GVIS (par exemple le \"Information Seeking Mantra\").[br/][b]Buts[/b][br/]- Mettre en évidence la dimension géographique de (presque) tous les jeux de données disponibles en ingénierie environnementale;[br/]- Montrer que la visualisation scientifique constitue un moyen puissant dans les processus de perception et de compréhension des phénomènes;[br/]- Mettre en évidence les capacités de l'analyse exploratoire des données spatiales (ESDA) et de la géovisualisation (GVIS) dans le but de révéler des structures spatiales cachées ou de détecter des relations entre des facteurs environnementaux analysés;[br/]- Montrer que la géovisualisation est utile également dans le domaine de la gestion et de l'intégration des données, ainsi que dans celui de l'aide à la décision.[br/][br/]"
+    },
+    "practical":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Géovisualisation environnementale",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-540-25994-7&amp;con_lng=FRE\" target=\"blank\">Exploratory analysis of spatial and temporal data : a systematic approach / Natalia Andrienko, Gennady Andrienko</a>\". Année:2008. ISBN:978-3-540-25994-7</li></ul>",
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

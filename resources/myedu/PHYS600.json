@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24011733&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","600"],
+    "title":"Frederic Joliot/Otto Hahn Summer School on nuclear reactors Physics, fuels and systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24011733&ww_x_anneeAcad=2012-2013&ww_i_section=2138185&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEY",
+    "program":"EDEY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.fjohss.eu/","http://www.fjohss.eu/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104755",
+      "name":"Chawla Rakesh"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The Frédéric Joliot / Otto Hahn Summer School (FJOH-SS) was established in 1995 to promote, at the post-graduate level, knowledge in nuclear reactor physics and technology. EPFL, in the person of Rakesh Chawla, was  represented in the FJOH-SS's founding group from the very outset and continues to form part of the international executive board which is responsible for organising the School's annual sessions. In generic terms, the objectives of each year's course are to address the challenges of designing advanced nuclear (fission) systems and optimal nuclear fuel cycles, while deepening the understanding of theory and experiments. Lecturers, on various specific topics of relevance, are invited from internationally leading universities, R&D centres and industry. The annual FJOH-SS sessions are held alternatingly at Cadarache (France) and Karlsruhe (Germany) and, as such, entail certain off-campus expenses for travel, board & lodging and infrastructure.",
+      "Content":"The contents of each FJOH-SS session, while following the general objectives outlined above, vary from year to year, as does also the list of invited lecturers, each of whom is selected by the School's executive board on the basis of the person's international renown as expert on the topic addressed. Decision of the contents of each FJOH-SS session is made a year in advance at the annual meeting of the executive board. ",
+      "Keywords":"fission energy, reactor physics, nuclear fuels, advanced systems, nuclear safety, fuel cycles",
+      "Note":"[b]Enrolling in this course requires payment of fees and/or expenses by the laboratory of the doctoral candidate. Prior approval of these expenses by the laboratory director is required before enrolling.[/b][br/][br/]Next course, please see the web site link below",
+      "Required prior knowledge":"Master's level degree in Physics, Chemistry, Materials, Engineering, etc., with some knowledge of nuclear energy systems"
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Frederic Joliot/Otto Hahn Summer School on nuclear reactors Physics, fuels and systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":40
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.fjohss.eu/","http://www.fjohss.eu/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104755",
+      "name":"Chawla Rakesh"
+    },{
+      "url":"http://people.epfl.ch/",
+      "name":"Various lecturers"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Remarque":"[b]Enrolling in this course requires payment of fees and/or expenses by the laboratory of the doctoral candidate. Prior approval of these expenses by the laboratory director is required before enrolling.[/b][br/][br/]Next course, please see the web site link below",
+      "Contenu":"The contents of each FJOH-SS session, while following the general objectives outlined above, vary from year to year, as does also the list of invited lecturers, each of whom is selected by the School's executive board on the basis of the person's international renown as expert on the topic addressed. Decision of the contents of each FJOH-SS session is made a year in advance at the annual meeting of the executive board. ",
+      "Mots clés":"fission energy, reactor physics, nuclear fuels, advanced systems, nuclear safety, fuel cycles",
+      "Prérequis":"Master's level degree in Physics, Chemistry, Materials, Engineering, etc., with some knowledge of nuclear energy systems",
+      "Objectifs d'apprentissage":"The Frédéric Joliot / Otto Hahn Summer School (FJOH-SS) was established in 1995 to promote, at the post-graduate level, knowledge in nuclear reactor physics and technology. EPFL, in the person of Rakesh Chawla, was  represented in the FJOH-SS's founding group from the very outset and continues to form part of the international executive board which is responsible for organising the School's annual sessions. In generic terms, the objectives of each year's course are to address the challenges of designing advanced nuclear (fission) systems and optimal nuclear fuel cycles, while deepening the understanding of theory and experiments. Lecturers, on various specific topics of relevance, are invited from internationally leading universities, R&D centres and industry. The annual FJOH-SS sessions are held alternatingly at Cadarache (France) and Karlsruhe (Germany) and, as such, entail certain off-campus expenses for travel, board & lodging and infrastructure."
+    },
+    "practical":{
+      "total_hours":8
+    },
+    "language":"English",
+    "title":"Frederic Joliot/Otto Hahn Summer School on nuclear reactors Physics, fuels and systems",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":40
+    }
+  }
+}

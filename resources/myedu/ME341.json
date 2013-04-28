@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126999599&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","341"],
+    "title":"Heat and mass transfer",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=126999599&ww_x_anneeAcad=2012-2013&ww_i_section=84483323&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-TEC-SPACE",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108776",
+      "name":"Thome John Richard"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Bibliography and material":"Free net book \"A Heat Transfer Textbook\" : John H. Lienhard IV and John H. Lienhard V, http://web.mit.edu/lienhard/www/ahtt.html",
+      "Required prior knowledge":"[li]Incompressible fluid mechanics",
+      "Content":"1. Introduction, to types of heat transfer. Conduction, radiation, convection.[br/]2. One-dimensional, and two dimensional steady state, conductive heat[br/]transfer.[br/]3. Transient conductive heat transfer.[br/]4. Convective heat transfer for external flows.[br/]5. Convective heat transfer for internal flows.[br/]6. Natural convection.[br/]7. Radiation: black bodies, grey bodies, form factors of[br/]surfaces, solar and infrared radiation.[br/]8. Heat exchangers: Types of heat exchangers, efficiency, thermal[br/]design methods.",
+      "Keywords":"Heat transfer, conduction, convection, thermal radiation",
+      "Type of teaching":"The course is organized with lectures and problem working sessions",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Master the concepts of heat and mass transfer, E3[br/][li]Calculate fluid flows in energy conversion systems, compute pressure drops and heat losses and fluid-structure interactions, E10[br/][li]Calculate and design heat exchangers, E15"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Heat and mass transfer",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0971383531&amp;con_lng=ENG\" target=\"blank\">A heat transfer textbook / by John H. Lienhard IV and John H. Lienhard V.</a>\". Year:2008. ISBN:978-0971383531</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108776",
+      "name":"Thome John Richard"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Mécanique des fluides incompressibles",
+      "Bibliographie et matériel":"Livre gratuit sur internet \"A Heat Transfer Textbook\": John H. Lienhard IV and John H. Lienhard V, http://web.mit.edu/lienhard/www/ahtt.html",
+      "Mots clés":"Transfert de chaleur, conduction, convection, rayonnement.",
+      "Forme d'enseignement":"Ex cathedra avec exercises",
+      "Contenu":"1.\tIntroduction aux modes de transfert de chaleur.[br/]Conduction, convection, rayonnement[br/]2.\tConduction thermique stationnaire unidimensionnelle et bidimensionnelle. [br/]3.\tConduction thermique transitoire.[br/]4.\tConvection thermique pour écoulement externe.[br/]5.\tConvection thermique pour écoulement interne.[br/]6.\tConvection naturelle.[br/]7.\tRayonnement : corps noirs, corps gris, écrans, facteurs des forme et des surfaces, corps colorés rayonnement solaire et infrarouge, effet de serre.[br/]8.\tÉchangeurs  de chaleur : Type d'échangeurs de chaleur, efficacité, méthodes de dimensionnement.[br/]",
+      "Forme du contrôle":"Examen oral",
+      "Préparation pour":"Ecoulements biphasiques et transfert de chaleur",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Maîtriser les notions de transfert de chaleur et de masse, E3[br/][li]Calculer les écoulements de fluides dans les équipements de conversion d'énergie, calculer des pertes de charges et de chaleur et calculer les interactions fluide-structure, E10[br/][li]Calculer et concevoir des échangeurs de chaleur, E15"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Heat and mass transfer",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0971383531&amp;con_lng=FRE\" target=\"blank\">A heat transfer textbook / by John H. Lienhard IV and John H. Lienhard V.</a>\". Année:2008. ISBN:978-0971383531</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

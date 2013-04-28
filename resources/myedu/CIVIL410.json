@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774027&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","410"],
+    "title":"Fluvial hydraulics and river training works",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774027&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112543",
+      "name":"Blanckaert Koen"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"33 % continuous control (exercises) during the semester[br/]67 % oral test (20 min) during the exam session",
+      "Prerequisite for":"Master",
+      "Required prior knowledge":"Fluid Mechanics, Hydraulics of structures, Hydraulic structures and schemes I (can be followed in parallel)",
+      "Content":"Unsteady flow : hydrodynamic equations, methods of solution, kinematic wave, diffusive wave, flood wave, translatory waves, exercises.[br/][br/]Transport of sediments : generalities, description of processes, modeling of processes (hydrodynamic equations, bed-load transport, suspended-load transport, total-load transport), river morphodynamics, exercises.[br/][br/]River mixing: generalities, description of processes, modeling of processes (advection, molecular diffusion, turbulent diffusion, dispersion), transport with reaction, water quality.[br/][br/]Design of river training works and flood protection measures. Assessment of hazards and flood protection objectives.[br/][br/]Importance of bed load transport on flood protection measures. Interaction between flow and vegetation along rivers.[br/][br/]Planning and design of protection measures at water courses; bank protection works and measures against bed erosion: rip-raps, protection walls, groynes, sills, erosion check weirs, bloc ramps and river widenings.[br/][br/]Methods of revitalisation of rivers, minimum ecological space requirement for rivers.[br/]",
+      "Type of teaching":"Ex cathedra with discussions based on documentation",
+      "Learning outcomes":"Introduction to \"Fluvial hydraulics and river training works\" : theoretical bases and design of various flood protection measures and river training works.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Fluvial hydraulics and river training works",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-746-6&amp;con_lng=ENG\" target=\"blank\">Constructions hydrauliques : écoulements stationnaires / Willi H. Hager, Anton J.Schleiss</a>\". Year:2009. ISBN:978-2-88074-746-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-442-3&amp;con_lng=ENG\" target=\"blank\">Hydraulique fluviale : écoulement et phénomènes de transport dans les canaux à géométrie simple / Walter H. Graf ; en collab. avec M. S. Altinakar</a>\". Year:2000. ISBN:2-88074-442-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112543",
+      "name":"Blanckaert Koen"
+    },{
+      "url":"http://people.epfl.ch/112841",
+      "name":"Schleiss Anton"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Mécanique des fluides, Hydraulique des ouvrages, Aménagements hydraulique I (ce dernier peut être suivi en parallèle avec Hydraulique fluviale et aménagements des cours d'eau)",
+      "Bibliographie et matériel":"Graf W.H. et Altinakar M.S.: \"Hydraulique fluviale\", PPUR 2000.[br/]Textes polycopiés par Prof. A. Schleiss.[br/]Livre \"Constructions hydrauliques\" TGC Vol. 15, édition 2009.",
+      "Forme d'enseignement":"Ex cathedra avec discussions basées sur la documentation",
+      "Contenu":"Écoulement non permanent : équations hydrodynamiques, méthodes de solution, onde cinématique, onde diffusive, onde de crue, onde de translation, exercices.[br/][br/]Transport de sédiment : généralités, description des phénomènes, modélisation des phénomènes (équations hydrodynamiques, transport par charriage, transport en suspension, transport total), morphodynamique alluviale, exercices.[br/][br/]Transport de matière : généralités, description des phénomènes, modélisation des phénomènes (advection, diffusion moléculaire, diffusion turbulente, dispersion), transport avec réaction, qualité des eaux.[br/][br/]Conception des aménagements de cours d'eau et de protection contre les crues. Analyse de dangers et objectifs de la protection.[br/][br/]Importance du charriage pour la protection contre les crues. Interaction de l'écoulement avec la végétation riveraine.[br/][br/]Planification et dimensionnement des mesures de protection sur les cours d'eau ; protection des rives et stabilisation des lits contre érosions: enrochements, murs de protection, épis, seuils, traversées, rampes en bloc et élargissements.[br/][br/]Méthodes de revitalisation des rivières et espace nécessaire.",
+      "Forme du contrôle":"33 % contrôle continu (exercices) pendant le semestre[br/]67 % examen oral de 20 min durant la session d'examen",
+      "Préparation pour":"Master",
+      "Objectifs d'apprentissage":"Introduction au domaine \"Hydraulique fluviale et aménagement de cours d'eau\" : Bases théoriques et dimensionnement des différentes mesures de protection contre les crues et correction des cours d'eau."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Hydraulique fluviale et aménagement des cours d'eau",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-746-6&amp;con_lng=FRE\" target=\"blank\">Constructions hydrauliques : écoulements stationnaires / Willi H. Hager, Anton J.Schleiss</a>\". Année:2009. ISBN:978-2-88074-746-6</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-442-3&amp;con_lng=FRE\" target=\"blank\">Hydraulique fluviale : écoulement et phénomènes de transport dans les canaux à géométrie simple / Walter H. Graf ; en collab. avec M. S. Altinakar</a>\". Année:2000. ISBN:2-88074-442-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","206"],
+    "title":"Analysis IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772235&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125665",
+      "name":"Stubbe Joachim"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"For the teacher: to present briefly certain methods of basic mathematical analysis that are essential tools in physics.[br/][br/][br/]For the student: to become familiar with certain important tools of classical analysis.",
+      "Content":"- Fundamental Equations in Physics[br/]- Elements of complex Analysis[br/]- Linear ordinary differential and special functions[br/]- Fourier Transform[br/]- Initiation to calculus in infinite dimensional vector spaces",
+      "Type of teaching":"Ex cathedra lecture and exercises in the classroom",
+      "Form of examination":"Written exam",
+      "Required prior knowledge":"Analysis I, II and III"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analysis IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/125665",
+      "name":"Stubbe Joachim"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Analyse I, II et III",
+      "Bibliographie et matériel":"Seront donnés au cours.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices en salle",
+      "Contenu":"- Equations fondamentales de la physique[br/]- Elements de l'analyse complexe[br/]- EDO's linéaires et fonctions spéciales[br/]- Transformation de Fourier[br/]- Initiation à l'analyse dans des espaces à dimension infinie",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Intentions de l'enseignant : présenter succinctement certaines méthodes d'analyse élémentaire qui sont indispensables pour la physique.[br/][br/]Objectifs pour l'étudiant : se familiariser avec certains outils importants d'analyse complexe."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Analyse IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

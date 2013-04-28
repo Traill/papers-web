@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771298&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","661"],
+    "title":"Mechanics of porous media",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771298&ww_x_anneeAcad=2012-2013&ww_i_section=984786&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDME",
+    "program":"EDME",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lms.epfl.ch","http://lms.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105611",
+      "name":"Laloui Lyesse"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"This course will be useful to the students interested in the behaviour of porous materials. Mechanics of porous media play an important role in many branches of engineering, including material science, biomechanics and the petroleum industry, as well as in (geo-) mechanics.[br/]The objective of this interdisciplinary course is to formulate realistic analysis of the behaviour of multiphase porous material (solid, miscible and immiscible fluids) submitted to multiphysics phenomena (mechanics, hydraulic and thermal).[br/][br/]The course includes two main parts:[br/][br/]1) the constitutive behaviour of the porous solid matrix; and,[br/]2) the coupled thermo-hydro-mechanical processes in saturated and unsaturated porous materials.[br/][br/]The constitutive behaviour for deformable porous media takes into account the non-linear thermo-elasto-visco-plastic aspects including hardening.[br/]The thermo-hydro-mechanical interactions are analysed using continuum mechanics theory, as they occur in soil and rock mechanics as well as in trabecular bone and porous membrane biomechanics.[br/]One of the challenges is to combine the non-linear behaviour of the solid matrix with the multiphysics processes occurring in the porous materials.",
+      "Content":"Introduction[br/]1. Experimental evidences on the behaviour of porous materials[br/][br/]Constitutive modelling[br/]2. Cyclic poro-elastoplastic constitutive modelling[br/]3. Constitutive modelling of other effects: temperature, suction, viscosity[br/][br/]Coupled processes[br/]4. Mathematical formulation of the coupled thermo-hydro-mechanical phenomena in saturated porous materials[br/]5. Three-phase (air-liquid-solid) description of the unsaturated porous medium.   ",
+      "Keywords":"Constitutive modelling, Multiphysics processes, Finite element modelling",
+      "Required prior knowledge":"Continuum Mechanics, Vector Analysis"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mechanics of porous media",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lms.epfl.ch","http://lms.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105611",
+      "name":"Laloui Lyesse"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Introduction[br/]1. Experimental evidences on the behaviour of porous materials[br/][br/]Constitutive modelling[br/]2. Cyclic poro-elastoplastic constitutive modelling[br/]3. Constitutive modelling of other effects: temperature, suction, viscosity[br/][br/]Coupled processes[br/]4. Mathematical formulation of the coupled thermo-hydro-mechanical phenomena in saturated porous materials[br/]5. Three-phase (air-liquid-solid) description of the unsaturated porous medium.   ",
+      "Mots clés":"Constitutive modelling, Multiphysics processes, Finite element modelling",
+      "Prérequis":"Continuum Mechanics, Vector Analysis",
+      "Objectifs d'apprentissage":"This course will be useful to the students interested in the behaviour of porous materials. Mechanics of porous media play an important role in many branches of engineering, including material science, biomechanics and the petroleum industry, as well as in (geo-) mechanics.[br/]The objective of this interdisciplinary course is to formulate realistic analysis of the behaviour of multiphase porous material (solid, miscible and immiscible fluids) submitted to multiphysics phenomena (mechanics, hydraulic and thermal).[br/][br/]The course includes two main parts:[br/][br/]1) the constitutive behaviour of the porous solid matrix; and,[br/]2) the coupled thermo-hydro-mechanical processes in saturated and unsaturated porous materials.[br/][br/]The constitutive behaviour for deformable porous media takes into account the non-linear thermo-elasto-visco-plastic aspects including hardening.[br/]The thermo-hydro-mechanical interactions are analysed using continuum mechanics theory, as they occur in soil and rock mechanics as well as in trabecular bone and porous membrane biomechanics.[br/]One of the challenges is to combine the non-linear behaviour of the solid matrix with the multiphysics processes occurring in the porous materials."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Mechanics of porous media",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

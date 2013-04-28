@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837374708&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","331"],
+    "title":"Construction and sustainability V",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=837374708&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108031",
+      "name":"Bolomey Dan-Alexis"
+    },{
+      "url":"http://people.epfl.ch/104348",
+      "name":"Zurbrügg Peter"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The course \"Construction and Sustainability V+VI\" is part of a sequence of courses that deals with constructive and material aspects related to architectural purposes and sustainability.[br/][br/]In the first semester, the focus is on equipment and installations, from an approach of reciprocal influences, energy concept and aspects related to the overall architectural project.[br/][br/]",
+      "Content":"[b]Building services engineering[/b][br/][br/][li]Heating: design process - choice of systems - interaction with other parameters - renewable energy.[br/][li]Ventilation: ventilation of buildings - ventilation / air conditioning design process - air flow - interactions with the architectural project.[br/][li]Water and waste: design and planning - solar heated water.[br/][li]Electricity: design process - artificial lighting - weak current.[br/][li]Fire protection: concept and methods of protection.[br/][li]Coordination: spatial coordination - technical coordination.[br/][li]Integration of appliances into a global architectural concept.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Construction and sustainability V",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108031",
+      "name":"Bolomey Dan-Alexis"
+    },{
+      "url":"http://people.epfl.ch/104348",
+      "name":"Zurbrügg Peter"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Construction et durabilité III et IV. Physique du bâtiment I, II, III, et IV.",
+      "Bibliographie et matériel":"Polycopiés. Fiches thématiques.",
+      "Forme d'enseignement":"Cours ex cathedra. Visites. Exercices.",
+      "Contenu":"[b]Technique du bâtiment [/b][br/][br/][li]Chauffage : démarche de conception - choix des systèmes - interaction avec d'autres paramètres - énergies renouvelables.[br/][li]Ventilation : aération des bâtiments - démarches conception ventilation/climatisation - mouvements d'air.[br/][li]Sanitaire : conception et planification - eau chaude solaire.[br/][li]Electricité : démarche de conception - éclairage artificiel - courant faible.[br/][li]Protection incendie : concept et modalités de protection.[br/][li]Coordination : coordination spatiale.[br/][li]Coordination technique.[br/][li]Intégration des équipements dans un concept architectural global.[br/][br/]",
+      "Forme du contrôle":"Examen écrit portant sur la matière des deux semestres du cours Construction et durabilité V+VI.",
+      "Préparation pour":"Théorie et critique du projet.",
+      "Objectifs d'apprentissage":"Le cours \"Construction et Durabilité V+VI\" s'inscrit dans la succession des cours qui traitent des aspects constructifs et des matériaux en rapport avec les intentions architecturales et la durabilité.[br/][br/]Au premier semestre, l'accent est mis sur le domaine équipement-installations, vu sous l'angle des influences réciproques, du concept technique et des aspects liés au projet architectural global.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Construction et durabilité V",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

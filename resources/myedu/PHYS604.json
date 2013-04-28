@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082284&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","604"],
+    "title":"Optical systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082284&ww_x_anneeAcad=2012-2013&ww_i_section=2140832&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPO",
+    "program":"EDPO",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lob.epfl.ch","http://lob.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120900",
+      "name":"Lasser Theo"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Form of examination":"Oral exam and project report",
+      "Bibliography and material":"Born Wolf: \"Principles of Optics\", Cambridge Press[br/]Mahajan: \"Aberration Theory made simple\" SPIE Optical Engineering Press[br/]Mahajan: \"Optical imaging and aberrations\" Vol. I, II SPIE Optical Engineering Press",
+      "Required prior knowledge":"Basic physics (optics, electrodynamics, wave propagation)[br/][br/]Recommended literature:[br/][br/]Born Wolf: \"Principles of Optics\", Cambridge Press[br/]Mahajan: \"Aberration Theory made simple\" SPIE Optical Engineering Press[br/]Mahajan: \"Optical imaging and aberrations\" Vol. I, II SPIE Optical Engineering Press",
+      "Content":"[li]Optical principles and methods for system design[br/][li]Aberration theory[br/][li]Fourier optics, wave propagation[br/][li]Imaging theory[br/][li]Optical elements[br/][li]Optical systems (telescopes, microscopes, zoom systems etc...)[br/][li]Case studies",
+      "Keywords":"optics, Fourier optics, aberrations, imaging",
+      "Learning outcomes":"This course first presents the underlying optical principles for conceiving and building complex optical systems. During the lecturing period the underlying optical principles will be presented in an unified picture in order to conceive optical system with the help of advanced optical design tools. The second part of this course is hands-on training in optical system design based on selected problems and examples."
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Optical systems",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8194-0536-4&amp;con_lng=ENG\" target=\"blank\">Aberration theory made simple / Virendra N. Mahajan</a>\". Year:1991. ISBN:978-0-8194-0536-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8194-2515-7&amp;con_lng=ENG\" target=\"blank\">Optical imaging and aberrations / Virendra N. Mahajan</a>\". Year:1998. ISBN:978-0-8194-2515-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-64222-1&amp;con_lng=ENG\" target=\"blank\">Principles of optics : electromagnetic theory of propagation, interference and diffraction of light / Max Born and Emil Wolf ; with contrib. by A.B. Bhatia ... [et al.]</a>\". Year:1999. ISBN:0-521-64222-1</li></ul>",
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lob.epfl.ch","http://lob.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/120900",
+      "name":"Lasser Theo"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Prérequis":"Basic physics (optics, electrodynamics, wave propagation)[br/][br/]Recommended literature:[br/][br/]Born Wolf: \"Principles of Optics\", Cambridge Press[br/]Mahajan: \"Aberration Theory made simple\" SPIE Optical Engineering Press[br/]Mahajan: \"Optical imaging and aberrations\" Vol. I, II SPIE Optical Engineering Press",
+      "Bibliographie et matériel":"Born Wolf: \"Principles of Optics\", Cambridge Press[br/]Mahajan: \"Aberration Theory made simple\" SPIE Optical Engineering Press[br/]Mahajan: \"Optical imaging and aberrations\" Vol. I, II SPIE Optical Engineering Press",
+      "Mots clés":"optics, Fourier optics, aberrations, imaging",
+      "Contenu":"[li]Optical principles and methods for system design[br/][li]Aberration theory[br/][li]Fourier optics, wave propagation[br/][li]Imaging theory[br/][li]Optical elements[br/][li]Optical systems (telescopes, microscopes, zoom systems etc...)[br/][li]Case studies",
+      "Forme du contrôle":"Oral exam and project report",
+      "Objectifs d'apprentissage":"This course first presents the underlying optical principles for conceiving and building complex optical systems. During the lecturing period the underlying optical principles will be presented in an unified picture in order to conceive optical system with the help of advanced optical design tools. The second part of this course is hands-on training in optical system design based on selected problems and examples."
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Optical systems",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8194-0536-4&amp;con_lng=FRE\" target=\"blank\">Aberration theory made simple / Virendra N. Mahajan</a>\". Année:1991. ISBN:978-0-8194-0536-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8194-2515-7&amp;con_lng=FRE\" target=\"blank\">Optical imaging and aberrations / Virendra N. Mahajan</a>\". Année:1998. ISBN:978-0-8194-2515-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-64222-1&amp;con_lng=FRE\" target=\"blank\">Principles of optics : electromagnetic theory of propagation, interference and diffraction of light / Max Born and Emil Wolf ; with contrib. by A.B. Bhatia ... [et al.]</a>\". Année:1999. ISBN:0-521-64222-1</li></ul>",
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

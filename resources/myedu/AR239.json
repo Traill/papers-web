@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348210408&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["AR","239"],
+    "title":"Structures and materials I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348210408&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101009",
+      "name":"de Castro San Roman Fest Julia"
+    },{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"[li]- Know the principal mechanical and physical properties of construction materials and the relationships between these properties and structural concepts and forms.[br/]- Describe a structure and break it down into primary and secondary structural elements.[br/]- Explain the mechanical behaviour of structural elements in accordance with the type of action.[br/]- Design structural elements and their joints in accordance with the construction materials used.[br/]- Evaluate static systems and select those most suited to the various project requirements.[br/]- Estimate the principal dimensions of structural elements (height of beams, cross-sectional area of bars and columns, thickness of slabs and walls).[br/]- Facilitate discussion with engineers and communicate using appropriate terms.[br/]",
+      "Content":"[li]Advantages, disadvantages and fields of application of different construction materials.[br/][li]Mechanical and physical properties, durability and fire resistance of materials.[br/][li]Appropriate structural forms and geometries according to the different materials.[br/][li]Design of structural elements and joints : beam systems, trusses and walls.[br/][li]Rules concerning the pre-dimensioning of sections and thicknesses depending on the material and the structural system.[br/][li]-Dimensioning of linear elements : bars, beams and columns.[br/][li]Manufacture and implementation.[br/][br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures and materials I",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/101009",
+      "name":"de Castro San Roman Fest Julia"
+    },{
+      "url":"http://people.epfl.ch/121845",
+      "name":"Keller Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Structures I/II.",
+      "Bibliographie et matériel":"Documents sur le site web du cours : moodle.epfl.ch.",
+      "Forme d'enseignement":"Cours ex cathedra à l'aide de moyens audiovisuels. Exercices et études de cas.",
+      "Contenu":"[li]Avantages, inconvénients et utilisation des différents matériaux de construction.[br/][li]Propriétés mécaniques et physiques ainsi que durabilité et résistance au feu des matériaux.[br/][li]Formes structurales et géométries adaptées aux matériaux.[br/][li]Conception d'éléments porteurs et d'assemblages : systèmes de poutres, treillis et parois porteuses.[br/][li]Règles de pré dimensionnement des sections et des épaisseurs selon le matériau et le système structural [br/][li]Dimensionnement d'éléments linéaires : barres, poutres et colonnes.[br/][li]Fabrication et mise en oeuvre.[br/][br/]",
+      "Forme du contrôle":"Test en cours de semestre pouvant apporter un bonus de 0.5 point à la note finale.",
+      "Préparation pour":"Structure et matériaux II, Conception structurale des bâtiments, Structure et enveloppe, Structures complexes, Unité d'enseignement Architecture et Structures.",
+      "Objectifs d'apprentissage":"[li]Connaître  les principales propriétés mécaniques et physiques des matériaux de construction et les relations entre ces propriétés et les concepts et formes structurales.[br/][li]Décrire une structure et la décomposer en éléments structuraux primaires et secondaires.[br/][li]Expliquer le comportement mécanique des éléments structuraux selon le type de sollicitation.[br/][li]Concevoir des éléments porteurs et leurs assemblages selon le matériau de construction utilisé.[br/][li]Evaluer les systèmes statiques et choisir les plus adaptés aux diverses exigences du projet.[br/][li]Estimer les dimensions principales des éléments structuraux (hauteur des poutres, aire des barres et des colonnes, épaisseur des dalles et des parois porteuses).[br/][li]Faciliter la discussion avec les ingénieurs et communiquer avec une terminologie appropriée.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Structures et matériaux I",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

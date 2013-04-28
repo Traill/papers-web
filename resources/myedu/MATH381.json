@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230597543&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","381"],
+    "title":"Mathematical logic",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230597543&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183376",
+      "name":"Duparc Jacques"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course presents the basic tools, concepts, and results of mathematical logic whose topics are truth, proofs, and computability. Even if its scope is mathematics themselves, mathematical logic is a branch of mathematics, with actually many applications in particular to computer science.",
+      "Content":"Elements from naive set theory. Ordinals, cardinals. Axiom of Choice, Zorn's lemma, and Zermelo Theorem.[br/]Predicate Calculus : [br/]- Syntax : language, formula and decomposition tree. Free vs bounded variable. Closed formulae, substitution.[br/]- Semantic : structure and realisation, sub-structure and restriction. Homomorphism and isomorphism. Interpretation and satisfaction. Evaluation game. Universal equivalence and semantic consequence. Theory, model and consistancy. Complete systems of connectors, normal prenex forms and Skolem forms. Elements of model theory. The compactness theorem and non standard model.[br/]- Proof theory : Hilbert type systems. Natural deduction and sequent calculus. Classical logic vs intuitionistic logic. Cut elimination and sub-formula property. Completeness theorem (Gödel) for classical logic. Kripke model and completeness theorem for intuitionistic logic.[br/]Elements of model theory. Ultraproducts and ultrapowers. ",
+      "Type of teaching":"Ex cathedra lecture and exercises",
+      "Prerequisite for":"Set theory",
+      "Form of examination":"Written: 3 hours"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mathematical logic",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/183376",
+      "name":"Duparc Jacques"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"Voir site web du cours : http://www.hec.unil.ch/logique/enseignement",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"Eléments de théorie naïve des ensembles. Ordinaux et cardinaux. Axiome du Choix, Lemme de Zorn et Théorème de Zermelo.[br/]Calcul des Prédicats :[br/]- Syntaxe : langage, formule et arbres de décomposition, variable libre vs liée, formule close,  substitution.[br/]- Sémantique  : structure et réalisation, sous-structure et restriction. Homomorphisme et isomorphisme. Interprétation et satisfaction. Jeu d'évaluation. Equivalence universelle et conséquence sémantique. Théorie, modèle et consistance. Système complet de connecteur, formes normales prénexes et forme de Skolem. Eléments de théorie des modèles. Théorème de compacité et modèle non standard.[br/]- Théorie de la démonstration : systèmes de Hilbert. Déduction naturelle et Calcul des Séquents. Logique classique vs logique intuitionniste. Elimination des coupures et propriété de la sous-formule. Théorème de complétude de la logique classique (Gödel). Modèle de Kripke et théorème de complétude de la logique intuitionniste.[br/]Eléments de théorie des modèles. Ultrapuissance et ultraprodruits. ",
+      "Forme du contrôle":"Ecrit : 3 heures",
+      "Préparation pour":"Théorie des Ensembles",
+      "Objectifs d'apprentissage":"Ce cours est une introduction aux outils, concepts et résultats de la logique mathématique dont les thèmes sont la vérité, la démonstration et la calculabilité. Bien que son domaine d'étude soit les mathématiques, la logique mathématique est une branche des mathématiques à part entière avec de nombreuses applications, en particulier en informatique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Logique mathématique",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

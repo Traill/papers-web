@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229734874&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","486"],
+    "title":"Organic electronic materials - Synthesis, applications, properties",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229734874&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course aims to give an overview of the molecular requirements, the synthesis, and the basic properties of both low molecular weight organic as well as polymer materials aimed at electronic applications, such as organic semiconducting, light-emitting, and photovoltaic materials. Both the industrial preparation and the state of the research concerning the synthesis of conjugated oligomers (such as oligothiophenes, oligophenylenes, and related classes of molecular materials) and conjugated polymers (such as poly(phenylene vinylene)s, polyphenylenes, polythiophenes, and polyanilines) is discussed in detail.[br/][br/][br/]",
+      "Content":"1.\tIntroduction & motivation[br/]2.\tMolecular requirements of organic electronic materials[br/]3.\tSynthesis of conjugated oligomers [br/]4.\tSynthesis of conjugated polymers [br/]5.\tProperties and applications of organic electronic materials[br/]6.\tMiscellaneous topics[br/][br/]More information: http://lmom.epfl.ch/teaching[br/][br/]",
+      "Type of teaching":"Ex cathedra",
+      "Required prior knowledge":"basic chemistry, polymer science"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Organic electronic materials - Synthesis, applications, properties",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/190315",
+      "name":"Frauenrath Holger"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1.\tIntroduction & motivation[br/]2.\tExigences moléculaires pour les matériaux électroniques organiques [br/]3.\tSynthèse d'oligomères conjugués [br/]4.\tSynthèse de polymères conjugués [br/]5.\tPropriétés et applications des matériaux électroniques organiques[br/]6.\tSujets divers.[br/][br/]Plus d'informations sur : http://lmom.epfl.ch/teaching[br/]",
+      "Prérequis":"Chimie de base, science des polymères",
+      "Objectifs d'apprentissage":"Ce cours a pour objectif de donner une vue d'ensemble des exigences moléculaires, de la synthèse et des propriétés de bases des matériaux organiques et polymères de faibles et grandes masses. Ces derniers sont utilisés par exemple en tant que matériau photovoltaïque, émetteur de lumière et semi conducteur organique. La préparation industrielle et l'état de la recherche actuelle dans le domaine de la synthèse des oligomères et polymères conjugués seront discutés en détail dans ce cours, plus précisément, celle de la synthèse des oligothiophènes, oligophénylènes et des classes de matériaux moléculaires reliées à ces derniers, ainsi que de la synthèse de poly(phénylène vinylène)s, polyphénylènes, polythiophènes et polyanilines."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Organic electronic materials - Synthesis, applications, properties",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

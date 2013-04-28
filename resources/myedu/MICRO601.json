@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24147366&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MICRO","601"],
+    "title":"Integrating sensors with electronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24147366&ww_x_anneeAcad=2012-2013&ww_i_section=2139950&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMI",
+    "program":"EDMI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    },{
+      "url":"http://people.epfl.ch/114934",
+      "name":"Kejik Pavel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li] To understand the characteristics of integrated sensors; understand the interface between the integrated sensors and electronic circuits; and be able to treat and optimize an integrated combination of sensors and electronics as one system. [br/][br/][li] limits of the known and feasible in the field of integrated sensors and integrated electronic circuits by exploiting the potential of integrated sensors, miniaturization, and synergies of sensors and electronics.",
+      "Content":"1. Sensor effects and integrated sensors: a summary [br/]Electrical conductivity - resistive thermometer; PN and MS junctions - diode thermometer; Thermoelectric effect - thermopile; Piezoresistance effect - strain sensor; Electromagnetic induction - coil magnetic sensor; Galvanomagnetic effects - Hall magnetic sensor; Photo effect - photodiode; Surface field-effect - charge (chemical) sensor. Multi-sensor effects: thermo-stress-piezo-(resistance, Hall, ...)-effects. Noise and other parasitic effects.[br/][br/]2. Electronic models of integrated sensors[br/]Criteria for a good model. Examples: Model of a photo-diode; Model of a CMOS-integrated SPAD (single photon avalanche diode); Model of an integrated Hall plate.  [br/][br/]3. Sensor system[br/]Elements of the systems theory: function, components, attributes, relationships. Sensor system vs. Control system. Examples of the system approach to improve sensors: compensation, feed-back, chopping.[br/][br/]4. Integrated sensor systems[br/]Why integrating ? Pragmatic reasons. Quality reasons: from a change in quantity to a new quality; from integrating to merging. Examples of integrated sensor systems: multi-axis Hall magnetic sensor; SPAD array 3D image sensor; and a few other latest examples.[br/][br/]5. Using sensors to improve electronic systems[br/]Using sensor knowledge to minimize the parasitic sensor effects: improving device matching by avoiding the thermal, piezo-resistive and piezo-junction effects; application to the amplifiers and band-gap voltage references.[br/]Using sensors as diagnostic tools; example - piezo Hall effect for measuring the packaging stress. Incorporating sensors into integrated electronic systems - to monitor the chip temperature, to non-invasively monitor a current.",
+      "Required prior knowledge":"Basic knowledge in semiconductor physics, sensors, and electronics"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Integrating sensors with electronics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110635",
+      "name":"Boero Giovanni"
+    },{
+      "url":"http://people.epfl.ch/114934",
+      "name":"Kejik Pavel"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Sensor effects and integrated sensors: a summary [br/]Electrical conductivity - resistive thermometer; PN and MS junctions - diode thermometer; Thermoelectric effect - thermopile; Piezoresistance effect - strain sensor; Electromagnetic induction - coil magnetic sensor; Galvanomagnetic effects - Hall magnetic sensor; Photo effect - photodiode; Surface field-effect - charge (chemical) sensor. Multi-sensor effects: thermo-stress-piezo-(resistance, Hall, ...)-effects. Noise and other parasitic effects.[br/][br/]2. Electronic models of integrated sensors[br/]Criteria for a good model. Examples: Model of a photo-diode; Model of a CMOS-integrated SPAD (single photon avalanche diode); Model of an integrated Hall plate.  [br/][br/]3. Sensor system[br/]Elements of the systems theory: function, components, attributes, relationships. Sensor system vs. Control system. Examples of the system approach to improve sensors: compensation, feed-back, chopping.[br/][br/]4. Integrated sensor systems[br/]Why integrating ? Pragmatic reasons. Quality reasons: from a change in quantity to a new quality; from integrating to merging. Examples of integrated sensor systems: multi-axis Hall magnetic sensor; SPAD array 3D image sensor; and a few other latest examples.[br/][br/]5. Using sensors to improve electronic systems[br/]Using sensor knowledge to minimize the parasitic sensor effects: improving device matching by avoiding the thermal, piezo-resistive and piezo-junction effects; application to the amplifiers and band-gap voltage references.[br/]Using sensors as diagnostic tools; example - piezo Hall effect for measuring the packaging stress. Incorporating sensors into integrated electronic systems - to monitor the chip temperature, to non-invasively monitor a current.",
+      "Prérequis":"Basic knowledge in semiconductor physics, sensors, and electronics",
+      "Objectifs d'apprentissage":"[li] To understand the characteristics of integrated sensors; understand the interface between the integrated sensors and electronic circuits; and be able to treat and optimize an integrated combination of sensors and electronics as one system. [br/][br/][li] limits of the known and feasible in the field of integrated sensors and integrated electronic circuits by exploiting the potential of integrated sensors, miniaturization, and synergies of sensors and electronics."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Integrating sensors with electronics",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

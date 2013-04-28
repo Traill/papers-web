@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71603711&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","105"],
+    "title":"Cellular biology and biochemistry for engineers",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71603711&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150333",
+      "name":"Hirling Harald"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The goal of this course is to teach engineers basic knowledge of cell biology and molecular biology. A broad overview on tissues, cells and molecules that make up biological systems will be given, including a discussion of the major techniques applied in modern biological research.",
+      "Content":"Here a few keywords of the course content: Features of organs, cells, biomolecules; Enzymes; Metabolism; DNA, replication; Gene expression, cloning; Membrane transport; Cell cycle, mitosis; Cell communication; Stem cells, nervous cells, tissues, organs",
+      "Note":"Due to significant overlap, this course is not available to students having taken the course \"Introduction to cell biology and biochemistry for Information Sciences\" by Romain Zufferey.A cause du chevauchement ce cours n'est pas disponible pour des étudiants qui ont pris le cours \"Introduction to cell biology and biochemistry for Information Sciences\" donné par Romain Zufferey",
+      "Bibliography and material":"\"Essential Cell Biology\" by Alberts et al., 2nd edition, Garland Science"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cellular biology and biochemistry for engineers",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=ENG\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Year:2010. ISBN:978-0-8153-4129-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150333",
+      "name":"Hirling Harald"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"A cause du chevauchement ce cours n'est pas disponible pour des étudiants qui ont pris le cours \"Introduction to cell biology and biochemistry for Information Sciences\" donné par Romain Zufferey.",
+      "Bibliographie et matériel":"\"Essential Cell Biology\" by Alberts et al., 2nd edition, Garland Science",
+      "Forme d'enseignement":"Cours ex cathedra with exercises                        ",
+      "Contenu":"Mots clé de la matière: caractéristiques des organes, cellules, biomolécules; enzymes; métabolisme; ADN; réplication; expression de gène; clonage; transport membranaire; cycle cellulaire, mitose; communication cellulaire; cellules souches, cellules nerveuses, tissus, organes",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Le but de ce cours est d'offrir aux ingénieurs des connaissances de base en biologie cellulaire et moléculaire. Introduction aux tissus, cellules et molécules formant les systèmes biologiques. De plus, les approches et techniques principales utilisées dans la biologie moderne seront discutées."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Cellular biology and biochemistry for engineers",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-8153-4129-1&amp;con_lng=FRE\" target=\"blank\">Essential cell biology / Bruce Alberts ... [et al.]</a>\". Année:2010. ISBN:978-0-8153-4129-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=238845350&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=fr",
+    "code":["PHYS","627"],
+    "title":"Magnetic and semiconducting nanostructures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=238845350&ww_x_anneeAcad=2012-2013&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPY",
+    "program":"EDPY",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/165328",
+      "name":"Butté Raphaël"
+    },{
+      "url":"http://people.epfl.ch/161577",
+      "name":"Grandjean Nicolas"
+    },{
+      "url":"http://people.epfl.ch/132653",
+      "name":"Rusponi Stefano"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Introduce students to the magnetic and electronic properties of nanostructures [br/]",
+      "Content":"1) Epitaxial growth of metallic 2D nanostructures (2h):[br/]\ta.\tCluster nucleation and aggregation: the importance of kinetics[br/]\tb.\tControlling shape and composition of 2D clusters grown by self assembly methods[br/]2)\tMagnetism at the nanoscale (4h):[br/]\ta.\tOrbital and spin magnetic moment: from single atoms to 3D clusters[br/]\tb.\tSurface supported nanostructures: the effect of the supporting substrate on the cluster magnetic properties[br/]\tc.\tSuperparamagnetic limit in magnetic data storage[br/]3)\tElectronics vs. spintronics (8h):[br/]\ta.\t2D electron gas at heterogeneous semiconductor interfaces[br/]\tb.\tSingle electron transistor[br/]\tc. \tA new 2D material: the electronic properties of graphene[br/]\td.\tSpin transport: spin valve, GMR and TMR[br/]\te.\tObserving the magnetism of a single atom with Scanning tunnelling microscope[br/]4)\tSemiconductor Materials for Photonics (2h)[br/]\ta.\tPhysical properties[br/]\tb.\tApplications[br/]5)\tFabrication and Structural Properties of quantum dots (4h)[br/]\ta.\tEpitaxial growth (Stranski-Krastanov and pyramidal quantum dots)[br/]\tb.\tChemically synthesized nanoparticles (CdSe quantum dots)[br/]6)\tElectronic Properties of quantum dots (8h)[br/]\ta.\tQuantum confinement effects (from 2D to 0D)[br/]\tb.\tElectronic states: excitonic complexes (excitons, biexcitons, trions), dipole moment (Stark effect)[br/]\tc.\tExciton-phonon interactions (temperature dependent exciton linewidth), phonon wings, polaron complexes [br/]\td.\tLight-matter interaction in quantum dots  (Purcell effect and strong-light-matter coupling) [br/]",
+      "Keywords":"electronic structure, transport, magnetism, semiconductors, quantum dots[br/]",
+      "Note":"URL: http://laspe.epfl.ch/",
+      "Required prior knowledge":"Basic condensed matter physics and quantum physics[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Magnetic and semiconducting nanostructures",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/165328",
+      "name":"Butté Raphaël"
+    },{
+      "url":"http://people.epfl.ch/161577",
+      "name":"Grandjean Nicolas"
+    },{
+      "url":"http://people.epfl.ch/132653",
+      "name":"Rusponi Stefano"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Magnetic and semiconducting nanostructures",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":null,
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

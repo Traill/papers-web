@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348604102&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","304"],
+    "title":"Rock mechanics and tunnel engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=348604102&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163925",
+      "name":"Sandrone Federica"
+    },{
+      "url":"http://people.epfl.ch/169975",
+      "name":"Zhao Jian"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Bibliography and material":"Duplicated notes (polycopié)"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Rock mechanics and tunnel engineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/163925",
+      "name":"Sandrone Federica"
+    },{
+      "url":"http://people.epfl.ch/169975",
+      "name":"Zhao Jian"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Geology I & II (Geologie I & II), Soil Mechanics (Mécanique des sols et écoulements souterrains)",
+      "Bibliographie et matériel":"Duplicated notes (polycopié)",
+      "Forme d'enseignement":"EX Cathedra, Exercises",
+      "Contenu":"[li]Mechanics applicable to rock and discontinuities, strength and failure criteria[br/][li]Geological process and formation of rock mass, inhomogeneity, in situ stresses and groundwater[br/][li]Properties of rock material and discontinuities, failure and strength criteria, laboratory tests and field characterisations[br/][li]Rock mass properties and classifications, rock mass strength and deformation, strength criteria[br/][li]Rock foundations analysis and design: construction, bearing capacity, settlements[br/][li]Rock slopes stability analysis and support methods[br/][li]Geological factors affect tunnelling, methods of geological investigation, ground condition and geo-material properties[br/][li]Stress and displacement of ground with tunnelling, ground-support interaction[br/][li]Methods of tunnel excavation, tunnel boring machines, ground improvements and temporally support, observational method in tunnelling[br/][li]Failure mechanisms of tunnels, methods of tunnel support design, empirical tunnel support design[br/][li]Ground load calculation and segmental concrete lining design for soft ground tunnels[br/][li]Numerical methods for rock mechanics and tunnelling, continuum and discontinuum modelling, modelling of excavation, support and stability[br/][li]Ground losses and displacement, estimation of tunnel settlement[br/][li]Instrumentation and monitoring in tunnelling, back analysis technique",
+      "Forme du contrôle":"Written[br/]Note: an intermediate examination will be programmed at the end of the first part of the course (Rock Mechanics)",
+      "Préparation pour":"Underground Construction Technology, Soil structure interaction (Interaction sol-structure)",
+      "Objectifs d'apprentissage":"Rock Mechanics: [br/][li]To understand of the mechanical behaviour of rock materials and masses, and be able to analyse mechanical properties of rocks for civil engineering applications;[br/][br/]Tunnel Engineering:[br/][li]To be able to use appropriate methods for carrying out analysis and design of tunnel excavation and support by understanding the mechanisms of rock ground masses - support interaction. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Rock mechanics and tunnel engineering",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

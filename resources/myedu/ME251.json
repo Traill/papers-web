@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776892&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ME","251"],
+    "title":"Thermodynamics and energetics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776892&ww_x_anneeAcad=2012-2013&ww_i_section=944263&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GM",
+    "program":"GM",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written exam at the end of the semester",
+      "Bibliography and material":"Borel, Favrat Thermodynamics and  energy systems analysis I, EPFL Press, 2010[br/]Borel, Favrat et al. Thermodynamics and energy systems II, EPFL Press, 2011",
+      "Required prior knowledge":"[li]Improve skills continuously, T23",
+      "Content":"[b]Generalities and fundamentals:[/b] Thermodynamic systems; Zero's Law; Energy and the First Law; Entropy and the 2nd Law; 3rd Law; Gibbs equation[br/][b]Closed systems and basic relations:[/b] Fundamental equation for homogeneous close systems; thermal and calorific factors, specific heats, mathematical relations between state functions and various factors[br/][b]Open systems in steady-state:[/b] Elements of gas dynamics, Fanno curves, nozzles, turbine and compressor efficiencies, etc.[br/][b]Thermodynamic properties of matter:[/b] State and state changes, kinetic gas theory, perfect gas and ideal gas; state equations (Van der Waals, Lee-Kesler, etc.), approximate relations for liquid and solids[br/][b]Thermodynamic processes and diagrams:[br/]Mixtures of perfect and ideal gases:[/b] Partial states, Dalton and Amagat relations[br/][b]Mixtures of gases and condensable substances:[br/]Elements of combustion:[/b][br/]Heating values and simple energy balances.[br/][b]Elementary energy systems analysis applied to reversible cycles and of simple real cycles:[/b][br/]Generalities; general properties of cycles; cycles with two thermal sources for engines and heat pumps. Heat exergy.",
+      "Keywords":"Thermodynamics, energy, matter, cycles",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Master the concepts of mass, energy, and momentum balance, E1[br/][li]Compute the thermodynamic properties of a fluid, E2...[br/][li]Compute the main thermodynamic transformations of compressible and incompressible fluids, E4[br/][li]Understand the main thermodynamic cycles, E5[br/][li]Master the concepts of thermodynamic efficiency, E6[br/][li]Know the principles and limitations of the main energy conversion technologies, E7[br/][br/][b]Transversal skills:[/b][br/][li]Estimate the accuracy level of a process, T18[br/][li]Differentiate between ideal and feasible, T19[br/][li]Work ethically respecting safety and the environment, T21[br/][li]Analyse the consequences of a decision or solution, T20[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Thermodynamics and energetics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-545-5&amp;con_lng=ENG\" target=\"blank\">Thermodynamique et énergétique. Vol. 1 :  De l'énergie à l'exergie / Lucien Borel et Daniel Favrat</a>\". Year:2011. ISBN:978-2-88074-545-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105085",
+      "name":"Favrat Daniel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Développer ses compétences de manière continue, T23",
+      "Bibliographie et matériel":"Borel, Favrat Thermodynamique et énergétique I, PPUR[br/][br/]Borel, Favrat et al. Thermodynamique et énergétique II, PPUR ",
+      "Mots clés":"Thermodynamique, énergie, matière, cycles",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Généralités et principes fondamentaux:[/b] Systèmes thermodynamiques; Principe zéro; Énergie et premier principe; Entropie et deuxième principe; Troisième principe; Équation de Gibbs.[br/][b]Systèmes fermés et relations de base:[/b] Équation fondamentale d'un système homogène fermé; facteurs thermiques et calorifiques; chaleurs spécifiques, relations mathématiques entre fonctions d'état et divers facteurs[br/][b]Systèmes ouverts en régime permanent:[/b] Éléments de dynamique des gaz, courbes de Fanno, tuyères, rendements de compresseur et turbine, etc.)[br/][b]Propriétés thermodynamiques de la matière :[/b] États et changements d'état; Théorie cinétique des gaz; Gaz parfaits et semi-parfaits; Équations d'état (Van der Waals, Lee-Kesler, etc.), relations approchées (solides et gaz)[br/][b]Transformations et diagrammes thermodynamiques:[br/]Mélanges de gaz parfaits ou semi-parfaits:[/b] États partiels, lois de Dalton et d'Amagat, etc.[br/][b]Introduction aux mélanges de gaz et d'une substance condensable:[br/]Éléments de combustion:[/b] Pouvoirs énergétiques et bilans énergétiques simples. [br/][b]Introduction aux cycles réversibles et à quelques cycles réels simples: [/b] Généralités; Propriétés générales des cycles; Cycles bithermes moteurs ou de pompe à chaleur. Notion d'exergie chaleur.",
+      "Forme du contrôle":"Examen écrit en fin de semestre",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Maîtriser les notions de bilans de matière, d'énergie et de quantité de mouvement, E1[br/][li]Calculer les propriétés thermodynamiques d'un fluide, E2...[br/][li]Calculer les principales transformations thermodynamiques des fluides compressibles et incompressibles, E4[br/][li]Comprendre les principaux cycles thermodynamiques, E5[br/][li]Maîtriser les notions de rendements thermodynamiques, E6[br/][li]Connaître les principales technologies de conversion de l'énergie, leurs principes et leurs limites, E7[br/][b]Compétences transversales:[/b][br/][li]Estimer un niveau de précision dans un processus, T18[br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19[br/][li]Travailler éthiquement dans le respect de la sécurité et de l'environnement, T21[br/][li]Analyser les conséquences d'une décision ou d'une solution, T20"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Thermodynamique et énergétique I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-545-5&amp;con_lng=FRE\" target=\"blank\">Thermodynamique et énergétique. Vol. 1 :  De l'énergie à l'exergie / Lucien Borel et Daniel Favrat</a>\". Année:2011. ISBN:978-2-88074-545-5</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

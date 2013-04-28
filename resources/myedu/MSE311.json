@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838975303&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","311"],
+    "title":"Corrosion and protection of metals + Laboratory Work",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=838975303&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"To master the electrochemical thermodynamic and kinetic principles of corrosion and protection of metals. [br/][br/]To understand the mechanisms of corrosion and to be able to specify measures of protection and material conservation. [br/][br/]To familiarize the student with the practice of electrochemical methods in corrosion research and testing. [br/]",
+      "Content":"- Basic principles [br/]- Thermodynamic aspects of corrosion reactions [br/]- Surfaces and interfaces [br/]- Rate of corrosion reactions [br/]- Passivity of metals [br/]- Corrosion mechanisms [br/]- Atmospheric corrosion [br/]- High temperature corrosion [br/]- Stress corrosion cracking [br/]- Corrosion protection [br/][br/]Laboratory experiments carried out by the students include the measurement of the rate of uniform corrosion, the study of pitting corrosion and of galvanic coupling. [br/]",
+      "Type of teaching":"Ex cathedra with excercises and case studies, laboratory experiments.",
+      "Required prior knowledge":"Chimie générale, Introduction aux matériaux, Métaux et alliages"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Corrosion and protection of metals + Laboratory Work",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-11-7&amp;con_lng=ENG\" target=\"blank\">Corrosion and surface chemistry of metals / Dieter Landolt</a>\". Year:2007. ISBN:978-2-940222-11-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-245-5&amp;con_lng=ENG\" target=\"blank\">Corrosion et chimie de surfaces des métaux / Dieter Landolt</a>\". Year:2003. ISBN:2-88074-245-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra avec exercices, études de cas, expériences en laboratoire.",
+      "Contenu":"- Notions de base [br/]- Thermodynamique des réactions de corrosion [br/]- Surfaces et interfaces [br/]- Vitesse des réactions de corrosion [br/]- Passivité des métaux [br/]- Mécanismes de corrosion [br/]- Corrosion atmosphérique [br/]- Corrosion à haute température [br/]- Fissuration sous contrainte [br/]- Protection contre la corrosion [br/][br/]Des essais de laboratoires effectués par l'étudiant comprennent : la mesure de la vitesse de corrosion uniforme, l'étude de la corrosion par piqûres et du couplage galvanique.[br/]",
+      "Prérequis":"Chimie générale, Introduction aux matériaux, Métaux et alliages",
+      "Bibliographie et matériel":"D. Landolt , Traité des matériaux 12, Corrosion et chimie de surfaces des métaux, PPUR",
+      "Objectifs d'apprentissage":"Maîtriser les éléments de base de la thermodynamique et cinétique électrochimiques en relation avec la corrosion et la protection des métaux. [br/][br/]Comprendre les mécanismes de corrosion et savoir spécifier les mesures de protection et de conservation des matériaux[br/][br/]Familiariser l'étudiant avec la pratique des méthodes électrochimiques de recherche et de contrôle du comportement à la corrosion. [br/]"
+    },
+    "practical":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Corrosion et protection des métaux + TP",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-940222-11-7&amp;con_lng=FRE\" target=\"blank\">Corrosion and surface chemistry of metals / Dieter Landolt</a>\". Année:2007. ISBN:978-2-940222-11-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-245-5&amp;con_lng=FRE\" target=\"blank\">Corrosion et chimie de surfaces des métaux / Dieter Landolt</a>\". Année:2003. ISBN:2-88074-245-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

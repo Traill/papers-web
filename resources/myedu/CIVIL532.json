@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774547&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CIVIL","532"],
+    "title":"Materials and structures",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774547&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104926",
+      "name":"Denarié Emmanuel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course aims at giving students in the middle or at the end of their engineering studies the possibility to gain a skill in the use of advanced cement-based materials that are more and more widely employed, and that show continuously increasing performance in various domains. [br/][br/]With this aim in view, starting from basic knowledge of concrete technology, this course develops relations between composition, implementation, structure and properties of these new materials, with a special emphasis on Self Compacting Concretes (SCC) and Ultra High Performance Fibre Reinforced Concretes (UHPFRC).[br/] [br/]This course provides an extended and comprehensive insight into the notions acquired in the basic courses on building materials, with the aim of structural application.[br/][br/]",
+      "Content":"[br/][li] Background;[br/][li] basic components;[br/][li] admixtures and adjunctions;[br/][li] rheology of fresh cementitious materials;[br/][li] optimisation of properties;[br/][li] improvement of the workability (self-compacting concretes);[br/][li] improvement of the mechanical strength (HSC - UHPFRC);[br/][li] improvement of the deformability (adjunction of fibres);[br/][li] mechanics of strain hardening fibre reinforced concretes;[br/][li] improvement of durability;[br/][li] specification of materials and quality insurance;[br/][li] ways towards conceptual design of innovative structures[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Materials and structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104926",
+      "name":"Denarié Emmanuel"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra ; exercices; démonstrations au laboratoire",
+      "Contenu":"[br/][li] Contexte et approche générale [br/][li] composants de base;[br/][li] adjuvants et ajouts;[br/][li] rhéologie des matériaux cimentaires frais[br/][li] optimisation des propriétés;[br/][li] amélioration de l'ouvrabilité (bétons autocompactants);[br/][li] amélioration de la résistance mécanique (BHP - BFUP);[br/][li] amélioration de la déformabilité (ajout de fibres);[br/][li] mécanique des bétons fibrés écrouissants;[br/][li] amélioration de la durabilité;[br/][li] spécification des matériaux et assurance de qualité;[br/][li] ouvertures vers la conception de structures innovantes.[br/]",
+      "Prérequis":"Matériaux de construction I et II + Laboratoires",
+      "Bibliographie et matériel":"notes de cours polycopiées",
+      "Objectifs d'apprentissage":"Ce cours a pour objectif de permettre aux étudiants en fin de cursus d'acquérir la maîtrise des matériaux cimentaires avancés dont l'emploi se répand de plus en plus, et qui présentent des performances sans cesse accrues dans divers domaines.[br/] [br/]Dans ce but, en partant des connaissances de base de la technologie du béton, il fournit les relations entre la composition, la mise en oeuvre, la structure et les propriétés de ces matériaux nouveaux, avec un accent particulier sur les Bétons Autocompactants (SCC) et les Bétons de Fibres Ultra Performants (BFUP). [br/][br/]Ce cours constitue un approfondissement et un élargissement des notions acquises dans les cours de base de matériaux de construction, dans l'optique d'une application structurale.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Matériaux et structures",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

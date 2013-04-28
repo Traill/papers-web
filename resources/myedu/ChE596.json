@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234597759&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ChE","596"],
+    "title":"Engineering internship (Master in Chemical engineering and Biotechnology)",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234597759&ww_x_anneeAcad=2012-2013&ww_i_section=247681&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-ING",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105841",
+      "name":"Meyer Thierry"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":30,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"[li]The objectives of the internship are to immerse the student into the industrial world, to highten him to the teamwork, to familiarize him to the company's processes and the chemical engineer profession requirements.[br/][br/][li]In order to achieve these objectives, the student makes an industrial internship in a field where the chemical engineer competences are brought out.",
+      "Content":"Internship's offers can be found on Is-Academia"
+    },
+    "practical":{
+      "total_hours":680
+    },
+    "language":"Français",
+    "title":"Engineering internship (Master in Chemical engineering and Biotechnology)",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105841",
+      "name":"Meyer Thierry"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":30,
+    "semester":"Automne",
+    "free_text":{
+      "Contenu":"L'offre de stage peut être consultée sur Is-Academia ",
+      "Objectifs d'apprentissage":"[li]Le stage a pour objectifs l'immersion de l'étudiant dans le monde industriel, sa sensibilisation au travail en équipe, sa familiarisation aux processus de l'entreprise et à l'ensemble des exigences de la profession d'ingénieur chimiste. [br/][br/][li]Pour atteindre les objectifs précités, l'étudiant effectue un stage en entreprise dans un domaine d'activité où les compétences de l'ingénieur chimiste sont mises en valeur.  "
+    },
+    "practical":{
+      "total_hours":680
+    },
+    "language":"Français",
+    "title":"Stage d'ingénieur (master en Génie chimique et Biotechnologie)",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

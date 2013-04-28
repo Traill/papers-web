@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597303675&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","723"],
+    "title":"Design of ultra-low power wireless sensor networks",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597303675&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://ulp-wsn.epfl.ch","http://ulp-wsn.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    },{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/106441",
+      "name":"Skrivervik Favre Anja"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The goal of the proposed course is to provide a complete overview of the most relevant subfields related to Wireless Body Sensor Networks (WBSN), to present the perspectives and the underlying technologies in the areas related to ultra-low-power electronic circuits, WBSN system-level architectures and advanced signal processing and data fusion specifically targeting the backgrounds of EDEE, as well as identifying the key bottenecks that form the field of WBSNs research themes.[br/]Its aim is to address all issues related to the using of wearable/wireless sensors and to bring together scientists from computing, electronics, new schemes for biosignal analysis in order to present the latest technological developments and applications of body sensors. Furthermore, the course will include a clear cross-disciplinary conception in its basis as it will include scientists working on different fields-sensors and actuators, signal processing, software, system architecture, application fields.[br/]The course will last for one full semester and will feature a number of different activities:[br/]- Lectures: each day will feature lectures and discussions around various research themes. Each session will include in-depth talks and theoretical lectures with processors on different aspects of WBSN. A Q&A discussion will follow each of these sessions.[br/]- Hands-on labs: the course will integrate each day hands-on with the theoretical classes. Thus, the lab sessions will provide hands-on experience on real devices with the topics covered in the morning lectures[br/]The evaluation will be done through the correction of the exercise sessions and one group project (in pairs of students) that will be developed at the end of the semester.[br/]",
+      "Content":"The course is divide in three different modules: platforms and power management, communication, and applications and signal processing. [br/]The first part of the course will be dedicated to \"platforms\" for WBSN, with sub-topics ranging from design principles and approaches, to the discussion about available platforms and development tools. The development kit proposed for hands-on labs will be presented during this first module of the course. The participants will get familiar with all the instruments that will be using during the following modules of the course. Then, this module will cover how to design complete ultra-low-power WBSN platforms that can be powered with minimal energy, and system-level software management for low-power at hardware and OS level. We will also cover the state-of-the-art and the key techniques to design low-power integrated circuits and SoCs for WBSNs. The hands-on lab of this module is focused on software techniques for the aforementioned topics.[br/]The main topic of the second module is entitled \"communication\": lectures will cover the main issues and challenges related to new protocols, management and optimization of communication for WBSN networks. We will describe the essential concepts and transmission schemes behind current standards and introduce the basics of future emerging communication technologies and signalling schemes relevant to wireless sensor networks. Physical issues such as antennas for sensor nodes and the challenges of the propagation environment will also be addressed. The hands-on exercises related to this module will be focused on the several design trade-offs between high-level (like ZigBee) and low level protocols, as well as communication modeling around the body used as communication channel.[br/]The third module of the course focuses on applications and novel signal processing approaches for biological signals. The participants will have the opportunity to learn the status of the art and advances on signal processing for low-complexity biosignal analysis and user cases features detection related to WBSNs. The hands-on exercises of this module will cover practical issues about software tuning and optimizations for resource-limited platforms targeting WBSN user cases. [br/]",
+      "Keywords":"Wireless sensor networks, body communication, ultra-low power, system-level design, embedded systems, software optimization    ",
+      "Note":"The evaluation will be based on the correction of the exercises of the different modules and a final group project.    ",
+      "Required prior knowledge":" Embedded systems design and programming, basic signal processing and communication concepts.    "
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Design of ultra-low power wireless sensor networks",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://ulp-wsn.epfl.ch","http://ulp-wsn.epfl.ch"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169199",
+      "name":"Atienza Alonso David"
+    },{
+      "url":"http://people.epfl.ch/194090",
+      "name":"Burg Andreas Peter"
+    },{
+      "url":"http://people.epfl.ch/106441",
+      "name":"Skrivervik Favre Anja"
+    },{
+      "url":"http://people.epfl.ch/120906",
+      "name":"Vandergheynst Pierre"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":28
+    },
+    "language":"English",
+    "title":"Design of ultra-low power wireless sensor networks",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

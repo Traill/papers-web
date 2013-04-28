@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241591401&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","707"],
+    "title":"Advanced image processing and analysis",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241591401&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115534",
+      "name":"Thiran Jean-Philippe"
+    },{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Understanding of advanced theories and applications in image processing and analysis",
+      "Content":"Each year, part of the following topics will be selected and taught:[br/]Advanced image filtering and restoration: [br/]   [li] non-quadratic optimisation/regularisation [br/]   [li] Total Variation / wavelets[br/]   [li] Anisotropic diffusion[br/]   [li] PDE's & scale spaces[br/]Segmentation[br/]   [li] graph-based optimisation & segmentation, dynamic programming, Dyskstra[br/]   [li] Active contours and related topics: snakes (parametric), level sets, appearance models[br/]   [li] Spatio-temporal segmentation and tracking: feature-based clustering, Kalman filtering, IMM, particle filters[br/]Super-resolution: multiple images / measurements / views[br/]Motion analysis and optical flow: spatio-temporal constrained, pel-recursive, block matching, phase correlation[br/]Advanced image and video compression: transform-based coding, motion-compensated coding, analysis/synthesis coding",
+      "Keywords":"Image processing, image analysis, filtering, segmentation, motion, compression",
+      "Required prior knowledge":"Image Procesing I and II (Master level EPFL-SMT) or equivalent"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced image processing and analysis",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/115534",
+      "name":"Thiran Jean-Philippe"
+    },{
+      "url":"http://people.epfl.ch/115227",
+      "name":"Unser Michaël"
+    },{
+      "url":"http://people.epfl.ch/152027",
+      "name":"Van De Ville Dimitri"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Each year, part of the following topics will be selected and taught:[br/]Advanced image filtering and restoration: [br/]   [li] non-quadratic optimisation/regularisation [br/]   [li] Total Variation / wavelets[br/]   [li] Anisotropic diffusion[br/]   [li] PDE's & scale spaces[br/]Segmentation[br/]   [li] graph-based optimisation & segmentation, dynamic programming, Dyskstra[br/]   [li] Active contours and related topics: snakes (parametric), level sets, appearance models[br/]   [li] Spatio-temporal segmentation and tracking: feature-based clustering, Kalman filtering, IMM, particle filters[br/]Super-resolution: multiple images / measurements / views[br/]Motion analysis and optical flow: spatio-temporal constrained, pel-recursive, block matching, phase correlation[br/]Advanced image and video compression: transform-based coding, motion-compensated coding, analysis/synthesis coding",
+      "Mots clés":"Image processing, image analysis, filtering, segmentation, motion, compression",
+      "Prérequis":"Image Procesing I and II (Master level EPFL-SMT) or equivalent",
+      "Objectifs d'apprentissage":"Understanding of advanced theories and applications in image processing and analysis"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced image processing and analysis",
+    "recitation":{
+      "total_hours":28
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

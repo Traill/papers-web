@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229734572&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MSE","479"],
+    "title":"Introduction to nanomaterials",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229734572&ww_x_anneeAcad=2012-2013&ww_i_section=249519&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"CGC-CHIM",
+    "program":"MX",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110499",
+      "name":"Coullerez Géraldine Sylvie"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"In this course, an introduction into the physique, chemistry and material science aspects of nanomaterials will be given focussing on students which have not a detailed knowledge of materials science. For important material properties, the difference of bulk and nanomaterial will be explained, for example changing melting point or electrical, magnetic and catalytic properties.[br/]An important subject of the course will be the discussion of existing and potential applications especially for medical, electronic and optical applications. It is evident that aspects of toxicity and safe handling of nanoparticles will be also treated.[br/][br/]",
+      "Content":"1. Introduction into nanomaterials[br/]2. Properties of nanomaterials[br/][li]Electric, optic[br/][li]Magnetic[br/][li]Thermodynamic[br/][li]Mechanic[br/]3. Preparation and synthesis of nanomaterials[br/][li]Chemical and physical methods[br/][li]Self assembly[br/]4. Applications",
+      "Type of teaching":"Courses and presentations from students"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to nanomaterials",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/110499",
+      "name":"Coullerez Géraldine Sylvie"
+    },{
+      "url":"http://people.epfl.ch/105410",
+      "name":"Hofmann Heinrich"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours et présentations par les étudiants",
+      "Contenu":"1. Introduction sur les nanomatériaux[br/]2. Propriétés des nanomatériaux :[br/][li]Eléctrique, optique[br/][li]Magnétique[br/][li]Thermodynamique[br/][li]Mécanique[br/]3. Préparation et synthèse des nanomatériaux[br/][li]Méthodes chimique et physique[br/][li]Auto-assemblage[br/]4. Applications",
+      "Bibliographie et matériel":"Notes of the course (http://ltp.epfl.ch)",
+      "Objectifs d'apprentissage":"Dans ce cours, une introduction traitant des aspects physique, chimique et science des matériaux des nanomatériaux sera donnée pour les étudiants sans connaissance profonde de la science des matériaux. Pour les propriétés importantes des matériaux, la différence entre les matériaux en volume et les nanomatériaux est développée, par exemple le changement du point de fusion, la perte de conductivité électrique ou le changement des effets catalytiques. [br/]Un point fort du cours sera la discussion des applications potentielles, particulièrement dans le domaine des applications médicales, électroniques et optiques. Il est évident que des sujets comme la toxicité et les règles concernant le travail avec des nanomatériaux seront présentés."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Introduction to nanomaterials",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

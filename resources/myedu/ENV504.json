@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71572542&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","504"],
+    "title":"Groundwater and soil remediation",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=71572542&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171550",
+      "name":"Bernier-Latmani Rizlan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"30 % continuous control during the semester (projet)[br/]70 % written test (120 min) during the exam session",
+      "Bibliography and material":"Course notes and reading assignments (these are available on Moodle)",
+      "Prerequisite for":"Specialization in Environmental chemistry and processes",
+      "Required prior knowledge":"General Chemistry[br/]General Biology[br/]Microbiology for engineers",
+      "Content":"Fundamental contaminant partitioning principles[br/]Microbial processes and their quantification[br/]Advanced monitoring techniques for contaminated sites[br/]Physical, chemical and biological approaches to remediation [br/]",
+      "Type of teaching":"Lectures,homework and a project (written report and oral presentation)",
+      "Learning outcomes":"Familiarize students with [br/][li]The different physico-chemical, chemical and biological remediation techniques [br/][li]The key processes defining each of these techniques[br/][br/]Skill set expected to be acquired in this course:[br/][li]Ability to evaluate a given site[br/][li]Ability to choose possible remediation approaches[br/][li]Ability to advise on the selection of a preferred approach.[br/][br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Groundwater and soil remediation",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171550",
+      "name":"Bernier-Latmani Rizlan"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Chimie générale[br/]Biologie générale[br/]Microbiologie pour ingénieurs",
+      "Bibliographie et matériel":"Notes de cours et travaux de lectures (disponibles sur Moodle)",
+      "Forme d'enseignement":"Cours, devoirs et un projet (avec rapport écrit et présentation orale)",
+      "Contenu":"Principes fondamentaux de répartition des contaminants[br/]Processus microbiens et leur quantification[br/]Techniques avancées de contrôle de sites contaminés[br/]Approches physiques, chimiques et biologiques de remédiation[br/]",
+      "Forme du contrôle":"30 % contrôle continu pendant le semestre (projet)[br/]70 % épreuve écrite (120 min) pendant la session d'examen",
+      "Préparation pour":"Spécialisation en chimie et bioprocédés environnementaux",
+      "Objectifs d'apprentissage":"Familiariser les étudiants avec:[br/][li]Les différentes techniques de remédiations physico-chimiques, chimiques et biologiques[br/][li]Les processus clés qui définissent chacune de ces techniques[br/][br/]Ensemble des compétences qui devraient être acquises durant ce cours :[br/][li]Aptitude à évaluer un site donné[br/][li]Aptitude à identifier des approches de remédiation potentielles[br/][li]Aptitude à conseiller sur le choix d'une approche optimale[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Groundwater and soil remediation",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

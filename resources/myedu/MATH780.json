@@ -1,0 +1,69 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597362129&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MATH","780"],
+    "title":"Etale Homotopy Theory and Diophantine Equations",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597362129&ww_x_anneeAcad=2012-2013&ww_i_section=2139509&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMA",
+    "program":"EDMA",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229338",
+      "name":"Harpaz Jonathan"
+    },{
+      "url":"http://people.epfl.ch/229340",
+      "name":"Schlank Tomer Moshe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Content":"In this mini-course we shall present some applications of étale homotopy theory to the study of Diophantine equations. We show how étale homotopy theory provides a very general and natural way to obstruct solutions to Diophantine equations and how these obstructions give a unified description to the known obstructions to the local-global principle. An exposition to modern homotopy theory will be provided as well and will take up the first half of the mini-course."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Etale Homotopy Theory and Diophantine Equations",
+    "recitation":{
+      "total_hours":44
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/229338",
+      "name":"Harpaz Jonathan"
+    },{
+      "url":"http://people.epfl.ch/229340",
+      "name":"Schlank Tomer Moshe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Etale Homotopy Theory and Diophantine Equations",
+    "recitation":{
+      "total_hours":44
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":18
+    }
+  }
+}

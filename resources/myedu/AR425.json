@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1496923419&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["AR","425"],
+    "title":"History of concrete",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1496923419&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126097",
+      "name":"Gargiani Roberto"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To provide the student with a wide vision of the history of construction in concrete, with a special attention to the study of formworks, composition of concrete and surface processing.[br/][br/][b]Learning outcomes[/b][br/][li]Knowledge of the history of construction in concrete from Antiquity to nowadays.[br/][li]Knowledge of the typical building practices of the various historical periods.[br/][li]In-depth knowledge of the most significant masterpieces.[br/][li]Ability to analyze works under the aspect of the relation between form and material.[br/][li]Specific knowledge of the various types of formworks.[br/][li]Acquiring one's own vision of the concept of mould and imprint.[br/][li]Knowledge of some technical methods of producing concrete.[br/][li]Ability to link together various experiences.[br/][li]Acquiring a correct terminology.[br/]",
+      "Content":"The objective of the course is to present the evolution of the application techniques of cement and concrete from Antiquity to nowadays, as worked out by architects, engineers, building contractors and artists."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"History of concrete",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/126097",
+      "name":"Gargiani Roberto"
+    },{
+      "url":"http://people.epfl.ch/126096",
+      "name":"Profs divers *"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex-cathedra, présentés par des professeurs, doctorants et chercheurs (Jean-Pierre Adam, Salvatore Aprea, Alberto Bologna, Roberto Gargiani, Pier Nicola Pagliara, Anna Rosellini, Khuê Tran).",
+      "Contenu":"Le cours se propose de présenter l'évolution des techniques de mise en oeuvre du ciment et du béton, à partir de l'Antiquité jusqu'à aujourd'hui, élaborées par les architectes, ingénieurs, entrepreneurs et artistes.",
+      "Forme du contrôle":"Rédaction d'un mémoire comptant pour 100% de la note finale, à rendre en fin de semestre.[br/]L'étudiant devra choisir parmi les thèmes suivants :[br/]1. Invention d'un nouveau ciment au XIXe siècle : un tournant dans l'histoire de la construction en béton.[br/]2. Le béton des ingénieurs.[br/]3. Les expérimentations sur le béton de Le Corbusier et de Louis I. Kahn.[br/]4. Tadao Ando et le béton modulaire.",
+      "Bibliographie et matériel":"La bibliographie sera fournie durant le cours.",
+      "Objectifs d'apprentissage":"Offrir à l'étudiant une vision élargie de l'histoire de la construction en béton, avec une attention particulière à l'étude des coffrages, de la composition du béton et des traitements de la surface.[br/][br/][b]Acquis de formation[/b][br/][li]Connaissance de l'histoire de la construction en béton de l'Antiquité à aujourd'hui.[br/][li]Connaissance des pratiques constructives typiques des diverses périodes historiques.[br/][li]Connaissance approfondie des chefs-d'oeuvre les plus significatifs.[br/][li]Capacité d'analyse des oeuvres en ce qui concerne les rapports entre forme et matière.[br/][li]Connaissance spécifique sur les divers types de coffrages.[br/][li]Acquisition d'une vision propre du concept du moule et de l'empreinte.[br/][li]Connaissance de quelques modalités techniques de production du béton.[br/][li]Aptitude à mettre en relation les diverses expériences.[br/][li]Acquisition d'une terminologie correcte.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Histoire du béton",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

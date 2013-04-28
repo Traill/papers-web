@@ -1,0 +1,85 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963810129&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MSE","711"],
+    "title":"PVLab School",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=963810129&ww_x_anneeAcad=2012-2013&ww_i_section=2141714&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMX",
+    "program":"EDMX",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://pvlab.epfl.ch/pv_school","http://pvlab.epfl.ch/pv_school"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100192",
+      "name":"Ballif Christophe"
+    },{
+      "url":"http://people.epfl.ch/190209",
+      "name":"Haug Franz-Josef"
+    },{
+      "url":"http://people.epfl.ch/190108",
+      "name":"Würsch Nicolas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Content":"Typical program includes (CF. attachment):[br/][li]State of the art on thin film PV and market situation[br/][li]Deposition techniques[br/][li]Thin film silicon[br/][li]Amorphous and micro or nano silicon materials[br/][li]Photovoltaic devices[br/][li]Back end; Encapsulation and testing[br/][li]TCO and light trapping[br/][li]Tandem solar cells[br/][li]Series interconnection, lasering[br/][li]Cell design and diagnostic[br/][li]Characterisation methods (spectroscopy, electrical measurements, shunts analysis...)[br/][li]Photovoltaic installations[br/]",
+      "Keywords":"Photovoltaic, thin film, silicon, CVD, encapsulation, diagnostic tools",
+      "Note":"This course is organised for industrial partners and 4-5 places are opened to PhD students in the field of photovoltaics",
+      "Required prior knowledge":"Engineer"
+    },
+    "practical":{
+      "total_hours":2
+    },
+    "language":"English",
+    "title":"PVLab School",
+    "recitation":{
+      "total_hours":1
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://pvlab.epfl.ch/pv_school","http://pvlab.epfl.ch/pv_school"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/100192",
+      "name":"Ballif Christophe"
+    },{
+      "url":"http://people.epfl.ch/190209",
+      "name":"Haug Franz-Josef"
+    },{
+      "url":"http://people.epfl.ch/190108",
+      "name":"Würsch Nicolas"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":null,
+    "free_text":{
+      "Remarque":"This course is organised for industrial partners and 4-5 places are opened to PhD students in the field of photovoltaics",
+      "Contenu":"Typical program includes (CF. attachment):[br/][li]State of the art on thin film PV and market situation[br/][li]Deposition techniques[br/][li]Thin film silicon[br/][li]Amorphous and micro or nano silicon materials[br/][li]Photovoltaic devices[br/][li]Back end; Encapsulation and testing[br/][li]TCO and light trapping[br/][li]Tandem solar cells[br/][li]Series interconnection, lasering[br/][li]Cell design and diagnostic[br/][li]Characterisation methods (spectroscopy, electrical measurements, shunts analysis...)[br/][li]Photovoltaic installations",
+      "Prérequis":"Engineer",
+      "Mots clés":"Photovoltaic, thin film, silicon, CVD, encapsulation, diagnostic tools"
+    },
+    "practical":{
+      "total_hours":2
+    },
+    "language":"English",
+    "title":"PVLab School",
+    "recitation":{
+      "total_hours":1
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":42
+    }
+  }
+}

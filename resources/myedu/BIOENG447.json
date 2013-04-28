@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352619709&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIOENG","447"],
+    "title":"Chemical biology - tools and methods",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=352619709&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical biology - tools and methods",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31150-7&amp;con_lng=ENG\" target=\"blank\">Chemical biology : from small molecules to systems biology and drug design / ed. by Stuart L. Schreiber ... [et al.]</a>\". Year:2007. ISBN:978-3-527-31150-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=ENG\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Year:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Classroom participation will count as extra credit (5% of the total grade). Class participation takes the form of participating in classroom discussions and Q/A sessions. ",
+      "Contenu":"This course builds on the knowledge gained from previous course, including organic chemistry, Biological Chemistry I , II, and III. The contents of the course will be presented and discussed in the context of the materials and biological process taught in the bachelor courses. [br/][br/]1. Introduction to the course and review of the key concepts and an overview of the approaches that will be covered during the semester. (Lecture 1)[br/][br/]2. Using small molecules to unravel molecular mechanisms of cell cycle regulation and cancer  (Lecture 2-5)[br/][br/]3. Using small molecules to unravel molecular mechanisms of neuronal functions in health and disease  (Lectures 6-9)[br/][br/]4. Engineering control over protein function and development of novel proteins for applications in biotechnology and medicine. (Lectures 10-11)[br/][br/]5. Chemical Biology in Drug Discovery  (Lectures 12-14)[br/][br/][b]COURSE FORMAT:[/b] Three lectures will be dedicated to each topic. [br/][br/][li]Lecture I: an overview of the topic, including current state-of-the art and scientific challenges and opportunities. Presented by Prof. Lashuel and/or an expert in the field.[br/][br/][li]Lecture II: problem solving session. This will be an interactive session focus on some of the key questions in the field and the different approaches to address these questions. [br/][br/][li]Lecture III: Journal club-type student presentations (team work).[br/]The class will be divided into 4-5 groups. For each topic, 2-3 groups will be assigned   recent papers (1 per group) related to the topic to present. The discussion will focus on the questions being addressed in the paper, the experimental approaches and tools utilized and critical evaluation of the results and significance of the work. The assigned papers will be distributed at the beginning of the course. [br/]",
+      "Préparation pour":"Master",
+      "Bibliographie et matériel":"Reference text book. Lehninger \"Principles of Biochemistry\" by David L. Nelson, Michael M. Cox, 5th edition.In addition, all reading materials will be provided at the beginning of the course.[br/]All assigned reading along with PowerPoint files for each lecture will be posted on a dedicated website (Moodle) by the weekend prior to the lecture. [br/]Selected chapters from \"Chemical Biology: from small molecules to system biology and drug design\" Edited by Stuart L. Schrieiber, Tarun Kapoor, Gunther Wess (Wiley-VCH)  will be used as lecture materials.",
+      "Objectifs d'apprentissage":"Upon completion of the course, students should be able to:[br/]1. Understand how to apply different chemical, molecular, biochemical and biophysical tools to [br/][li]elucidate the function of specific proteins in biological processes[br/][li]engineering control over protein function [br/][li]develop novel diagnostic and therapeutic strategies.[br/]2. Achieve an overall understanding of classical and chemical genetic approaches to elucidate and modulate protein function.[br/]3. Improve their analytical reading, problem solving and presentation skills.[br/][br/]The purpose of this course is to teach the students how different chemical, molecular, biochemical approaches and tools are being used today to: [br/]1. unravel biological mechanism; [br/]2. develop new diagnostic and therapeutic strategies; [br/]3. engineer novel proteins for applications in biology, biotechnology and medicine. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Chemical biology - tools and methods",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-3-527-31150-7&amp;con_lng=FRE\" target=\"blank\">Chemical biology : from small molecules to systems biology and drug design / ed. by Stuart L. Schreiber ... [et al.]</a>\". Année:2007. ISBN:978-3-527-31150-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-7167-7108-1&amp;con_lng=FRE\" target=\"blank\">Lehninger principles of biochemistry / David L. Nelson, Michael M. Cox</a>\". Année:2008. ISBN:978-0-7167-7108-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

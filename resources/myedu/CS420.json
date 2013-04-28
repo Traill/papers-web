@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770703&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CS","420"],
+    "title":"Advanced compiler construction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1770703&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"IN",
+    "program":"IN",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lamp.epfl.ch/teaching/advanced_compiler","http://lamp.epfl.ch/teaching/advanced_compiler"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103610",
+      "name":"Schinz Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Continuous control (mini-project 80%, final exam 20%)",
+      "Bibliography and material":"Andrew W. Appel and Jens Palsberg, Modern Compiler Implementation in Java, Addison-Wesley, 1997 [br/]Keith D. Cooper and Linda Torczon, Engineering a Compiler, Morgan Kaufmann, 2003 [br/]",
+      "Required prior knowledge":"Compiler Construction[br/]Good knowledge of Scala and C programming languages",
+      "Content":"Part 1: implementation of high-level concepts[br/][li]\tfunctional languages: closures, continuations, tail call elimination[br/][li]\tobject-oriented languages: object layout, method dispatch, membership test[br/][br/][br/]Part 2: optimizations[br/][li]\tcompiler intermediate representations (RTL, SSA, CPS),[br/][li]\tinlining and simple optimizations[br/][li]\tcontrol flow analysis[br/][li]\tregister allocation[br/][li]\tscheduling[br/][br/]Part 3: run time support[br/][li]\tmemory management (including garbage collection),[br/][li]\tinterpreters and virtual machines[br/]",
+      "Type of teaching":"Ex Cathedra, mini-project",
+      "Learning outcomes":"This course teaches techniques to efficiently implement modern functional and object oriented languages. Several of these techniques are applied by the student in an implementation of a simple functional language.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced compiler construction",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-088478-0&amp;con_lng=ENG\" target=\"blank\">Engineering a compiler / Keith D. Cooper, Linda Torczon</a>\". Year:2012. ISBN:978-0-12-088478-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82060-X&amp;con_lng=ENG\" target=\"blank\">Modern compiler implementation in Java / Andrew W. Appel with Jens Palsberg</a>\". Year:2002. ISBN:0-521-82060-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lamp.epfl.ch/teaching/advanced_compiler","http://lamp.epfl.ch/teaching/advanced_compiler"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103610",
+      "name":"Schinz Michel"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Compiler Construction[br/]Bonnes connaissances de programmation en Scala et en C",
+      "Bibliographie et matériel":"Andrew W. Appel and Jens Palsberg, Modern Compiler Implementation in Java, Addison-Wesley, 1997 [br/]Keith D. Cooper and Linda Torczon, Engineering a Compiler, Morgan Kaufmann, 2003 [br/]",
+      "Forme d'enseignement":"Ex Cathedra, mini-projet",
+      "Contenu":"Partie 1: mise en oeuvre des concepts de haut niveau[br/][li]\tlangages fonctionnels: fermetures, continuations, élimination des appels terminaux,[br/][li]\tlangages orienté-objets: organisation des objets, appel de méthodes, test d'appartenance.[br/][br/]Partie 2: optimisations[br/][li]\treprésentations intermédiaires (RTL, SSA, CPS),[br/][li]\tmise en ligne et optimisations simples,[br/][li]\tanalyse de flot de contrôle,[br/][li]\tallocation de registres,[br/][li]\tordonnancement[br/][br/]Partie 3: soutien à l'exécution[br/][li]\tgestion mémoire (ramassage de miettes inclus),[br/][li]\tinterprètes et machines virtuelles[br/]",
+      "Forme du contrôle":"Contrôle continu (mini-projet 80%, examen final 20%)",
+      "Objectifs d'apprentissage":"Ce cours présente les techniques utilisées dans la mise en oeuvre de langages de programmation fonctionnels et orienté-objets modernes. Plusieurs de ces techniques sont appliquées par l'étudiant dans le contexte d'une mise en oeuvre d'un langage fonctionnel simple."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Advanced compiler construction",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-12-088478-0&amp;con_lng=FRE\" target=\"blank\">Engineering a compiler / Keith D. Cooper, Linda Torczon</a>\". Année:2012. ISBN:978-0-12-088478-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-82060-X&amp;con_lng=FRE\" target=\"blank\">Modern compiler implementation in Java / Andrew W. Appel with Jens Palsberg</a>\". Année:2002. ISBN:0-521-82060-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

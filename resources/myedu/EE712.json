@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241605190&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","712"],
+    "title":"Advanced microwaves for wireless communications",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241605190&ww_x_anneeAcad=2012-2013&ww_i_section=192994568&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDEE",
+    "program":"EDEE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106441",
+      "name":"Skrivervik Favre Anja"
+    },{
+      "url":"http://people.epfl.ch/106782",
+      "name":"Zürcher Jean-François"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Cover some of the advanced topics necessary for the design of the hardware used in mobile communications. Emphasis will be laid on terminal antenna design, and the measurement ",
+      "Content":"[li]A short summary on Microwave Network Analysis[br/][li]Microwave measurement techniques[br/][li]Terminal antenna design and optimization[br/][li]Selected examples[br/]",
+      "Keywords":"Microwaves, distributed circuits, filter design, measurement",
+      "Form of examination":"Term paper and project report",
+      "Required prior knowledge":"Microwaves, Electromagnetism, Antennas"
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Advanced microwaves for wireless communications",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106441",
+      "name":"Skrivervik Favre Anja"
+    },{
+      "url":"http://people.epfl.ch/106782",
+      "name":"Zürcher Jean-François"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"[li]A short summary on Microwave Network Analysis[br/][li]Microwave measurement techniques[br/][li]Terminal antenna design and optimization[br/][li]Selected examples[br/]",
+      "Mots clés":"Microwaves, distributed circuits, filter design, measurement",
+      "Prérequis":"Microwaves, Electromagnetism, Antennas",
+      "Forme du contrôle":"Term paper and project report",
+      "Objectifs d'apprentissage":"Cover some of the advanced topics necessary for the design of the hardware used in mobile communications. Emphasis will be laid on terminal antenna design, and the measurement "
+    },
+    "practical":{
+      "total_hours":14
+    },
+    "language":"English",
+    "title":"Advanced microwaves for wireless communications",
+    "recitation":{
+      "total_hours":14
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

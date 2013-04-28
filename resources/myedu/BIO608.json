@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30683765&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","608"],
+    "title":"Practical - Brisken Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=30683765&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://brisken-lab.epfl.ch/","http://brisken-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169115",
+      "name":"Brisken Cathrin"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Breast development and cancer[br/][br/]Learn about experimental approaches to study Breast Development and Breast Cancer",
+      "Content":" Introduction to the role of hormones in breast development and breast cancer.[br/][br/]Practical part:[br/][br/][li] Studying mammary gland development: a) wholemounting mouse mammary glands, b)histological analysis of mouse mammary glands[br/][li] Hormones and breast development: Immunostaining for the progesterone receptor[br/][li] The importance of structure: Growing cells in 3D:  Extraction of collagen from rat tails[br/][li] Gene transfer techniques: Discuss different viral vectors",
+      "Keywords":"hormones, breast development, signaling pathways, morphogenesis, breast cancer",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Brisken laboratory cannot take this course. Access is limited to 4 students.",
+      "Required prior knowledge":"Basic biology. Articles to read"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Brisken Lab",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://brisken-lab.epfl.ch/","http://brisken-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/169115",
+      "name":"Brisken Cathrin"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules.  Note also that doctoral students from the Brisken laboratory cannot take this course. Access is limited to 4 students",
+      "Contenu":" Introduction to the role of hormones in breast development and breast cancer.[br/][br/]Practical part:[br/][li] Studying mammary gland development: a) wholemounting mouse mammary glands, b)histological analysis of mouse mammary glands[br/][li] Hormones and breast development: Immunostaining for the progesterone receptor[br/][li] The importance of structure: Growing cells in 3D:  Extraction of collagen from rat tails[br/][li] Gene transfer techniques: Discuss different viral vectors",
+      "Mots clés":"hormones, breast development, signaling pathways, morphogenesis, breast cancer",
+      "Prérequis":"Basic biology. Articles to read",
+      "Objectifs d'apprentissage":"Breast development and cancer[br/][br/]Learn about experimental approaches to study Breast Development and Breast Cancer"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Brisken Lab",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

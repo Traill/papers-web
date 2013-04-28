@@ -1,0 +1,78 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=13347186&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CS","251"],
+    "title":"Theoretical Computer Science",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=13347186&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172233",
+      "name":"Moret Bernard"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam and continuous control",
+      "Prerequisite for":"Advanced Theoretical Computer Science (same semester)",
+      "Required prior knowledge":"Discrete structures, Algorithms",
+      "Content":"[li]\tIntroduction to automata and formal languages :[br/][tab]finite automata, push-down automata, Turing machines[br/][br/][li]\tIntroduction to computability : [br/][tab]decision problems, undecidability, reducibility[br/][br/][li]\tIntroduction to complexity : [br/][tab]time complexity, P and NP problems, NP-completeness[br/]",
+      "Type of teaching":"Ex cathedra with exercises",
+      "Learning outcomes":"This course is an introduction to the \"theory of computation\".[br/][br/]The goal of this course is to provide a solid and mathematically precise understanding of the fundamental capabilities and limitations of computers and software, as well as their relevance to computer and software engineering practice.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Theoretical Computer Science",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-619-21764-8&amp;con_lng=ENG\" target=\"blank\">Introduction to the theory of computation / Michael Sipser</a>\". Year:2006. ISBN:978-0-619-21764-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/","http://moodle.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/172233",
+      "name":"Moret Bernard"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Structures discrètes, Algorithmique",
+      "Bibliographie et matériel":"Michael Sipser, Introduction to the Theory of Computation, 2nd edition, PWS Publishing",
+      "Forme d'enseignement":"Ex cathedra avec exercices",
+      "Contenu":"[li]\tIntroduction aux automates et aux langages formels :[br/][tab]automates finis, automates à pile, machines de Turing[br/][br/][li]\tIntroduction à la calculabilité :[br/][tab]problèmes de décision, indécidabilité, réductibilité[br/][br/][li]\tIntroduction à la complexité : [br/][tab]complexité temporelle, problèmes P et NP, NP-complétude[br/]",
+      "Forme du contrôle":"Examen écrit avec contrôle continu",
+      "Préparation pour":"Informatique théorique avancée (même semestre)",
+      "Objectifs d'apprentissage":"Ce cours est une introduction à la « théorie du calcul ».[br/][br/]Le cours permet de comprendre les capacités et les limitations fondamentales des ordinateurs et des logiciels, en utilisant une approche mathématique. Nous considérons également les implications pratiques de ces limites.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Informatique théorique",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-619-21764-8&amp;con_lng=FRE\" target=\"blank\">Introduction to the theory of computation / Michael Sipser</a>\". Année:2006. ISBN:978-0-619-21764-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

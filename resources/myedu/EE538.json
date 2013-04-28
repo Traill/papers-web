@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=40249190&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","538"],
+    "title":"Optoelectronics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=40249190&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MNIS",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196674",
+      "name":"Broquin Jean-Emmanuel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course deals with the physics and behaviour of optoelectronic devices : Laser diodes, LED, Photodiodes and Photoconductors are treated.",
+      "Content":"[b]1. Optical properties of semiconductors :[/b][br/]Absorption, spontaneous and stimulated emission - Reminder of Einstein - relations and application to the case of semiconductors - coefficients of spontaneous emission, of absorption and gain of a semiconductor - Radiative lifetime and quantum efficiecy.[br/]Gain in a semiconductor [br/][br/][b]2. Light Emitting Devices :[/b][br/]Principle of operation - Interest of double heterostructures. P(i) law and direct modulation[br/][br/][b]3. Photodetectors[/b][br/]Photoconductors : responsivity, photoconduction gain, NEP (sensitivity), bandwidth.[br/]Photodiodes : responsivity, diffusion and generation photocurrent, NEP (sensitivity), bandwidth, PIN and Avalanche photodiodes.[br/][br/][b]4. Laser Diodes[/b][br/]Double hetero junction Lasers - Guided modes and confinement factor- Gain and current thresholdl - Emission spectrum - P(i) law - Direct modulation.[br/]",
+      "Type of teaching":"Ex cathedra",
+      "Required prior knowledge":"Solid state physics (E-k diagram, electron and holes concept). Electromagnetism (plane waves), Device physics (mainly pn-junction), notions of laser physics useful but not required."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optoelectronics",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/196674",
+      "name":"Broquin Jean-Emmanuel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]1. Propriétés optiques des matériaux semiconducteurs[/b][br/]Absorption, émission spontanée et émission stimulée - rappel des relations d'Einstein - application au cas des semi-conducteurs - coefficient d'émission spontanée, d'absorption et gain d'un matériau semi-conducteur - Durée de vie radiative.[br/]Gain dans un matériau semi-conducteur [br/][br/][b]2. Diodes électroluminescentes[/b][br/]Caractéristiques générales - exemples de structures de DEL. Intérêt des hétéro jonctions.[br/][br/][b]3. Photodétecteurs[/b][br/]Photoconducteurs : responsivité, gain de photoconduction, NEP (sensibilité), bande passante.[br/]Photodiodes : responsivité, Photocourant de diffusion et de génération, NEP (sensibilité), bande passante, photodiodes PIN et à Avalanche.[br/][br/][b]4. Lasers à semiconducteurs[/b][br/]Lasers à double hétéro jonction - Modes guidés et facteur de confinement - Gain et courant seuil - Gain modal - Modes longitudinaux - Caractéristiques P(I) - Equations d'évolution et modulation d'un laser semi-conducteur.",
+      "Prérequis":"Physique du solide (notion de bande, trous-électron), Electromagnétisme (notion d'onde plane), Physique des dispositifs (essentiellement la jonction p-n), notions de laser utiles.",
+      "Objectifs d'apprentissage":"Ce cours traite la physique et le fonctionnement des composants optoélectroniques élémentaires : Diodes laser, LED, Photodiodes et photoconducteurs."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Optoelectronics",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513577381&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","223"],
+    "title":"Organometallic chemistry",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1513577381&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The focus of the course will be to understand and rationalise structure and bonding of transition metal organometallic compounds. With this knowledge, the reactivity of such compounds will be investigated and applications in organic synthesis will be provided.[br/] [br/]",
+      "Content":"Organometallic compounds will be defined and their applications and uses surveyed.[br/][br/]Ligands will be classified and electron counting and oxidation states of their subsequent complexes will be described.[br/][br/][br/]Structure and bonding in various organometallic ligands, e.g. carbonyls, alkyls, alkenes, alkynes, cyclobutadiene, cyclopentadienyl, arenes, carbenes and carbynes, will be described. With an understanding of how coordinating an organic molecule to a metal centre modifies the structural and spectroscopic properties of the organic molecule, we will see how the reactivity is also modified so that new chemistry can be done.[br/][br/][br/][br/]The synthesis of organometallic compounds will be described and key reaction types and reagents identified.[br/][br/]Transition metal hydrides, agostic hydrogen atoms and their relevance to reactivity will be explored.[br/][br/]The reactions of organometallic compounds, e.g. association, dissociation, oxidative addition, reductive elimination, alkene insertion and [i]beta[/i]-elimination, will be described and combined, the prediction of organometallic reactions, with an emphasis on examples in organic synthesis will be given. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Organometallic chemistry",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-493-0&amp;con_lng=ENG\" target=\"blank\">Chimie organométallique : avec exercices corrigés / Didier Astruc</a>\". Year:2000. ISBN:2-86883-493-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149418",
+      "name":"Dyson Paul Joseph"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"Les composés organométalliques seront définis et une description de leurs applications sera donnée.[br/][br/]Les différents ligands seront classifiés, une méthode de comptage d'électrons dans les complexes résultants ainsi que la notion de degré d'oxydation seront présentés.[br/][br/]Une description des modes de liaison des divers ligands présents dans les composés organométalliques, tels que carbonyle, alkyles, alcènes, alcynes, cyclobutadiène, cyclopentadiényle, arènes, carbènes et carbynes sera donnée. Sachant que les propriétés structurales et spectroscopiques de molécules organiques peuvent varier lorsque celles-ci sont coordinées à un centre métallique, nous verrons comment la réactivité peut également être modifiée afin de réaliser de nouveaux types de réactions chimiques.[br/][br/]La synthèse de composés organométalliques ainsi que les principaux types de réactions et les réactifs utilisés seront présentés.[br/][br/]Les hydrures de métaux de transition, les atomes d'hydrogène agostiques et leur importance dans la réactivité seront explorés.[br/][br/]Les réactions en chimie organométalliques, telles que association, dissociation, addition oxydante, élimination réductrice, insertion, élimination [i]beta[/i] ainsi que leurs combinaisons seront exposées et illustrées par des exemples en synthèse organique. ",
+      "Bibliographie et matériel":"Publications récentes + \"Chimie Organométallique\", D. Astruc; \"Chimie Organique\", P. Vogel ",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est la connaissance de la structure et des types de liaisons intervenant dans les composés organométalliques des éléments de transition. Ces notions permettront la compréhension de la réactivité de ces composés qui sera illustrée par   des applications en synthèse organique. "
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Organometallic chemistry",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-493-0&amp;con_lng=FRE\" target=\"blank\">Chimie organométallique : avec exercices corrigés / Didier Astruc</a>\". Année:2000. ISBN:2-86883-493-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

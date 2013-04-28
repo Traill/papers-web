@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=335112537&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=fr",
+    "code":["FIN","700"],
+    "title":"Empirical Corporate Finance",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=335112537&ww_x_anneeAcad=2012-2013&ww_i_section=278330796&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDFI",
+    "program":"EDFI",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.hec.unil.ch/schuerhoff/","http://www.hec.unil.ch/schuerhoff/"],["http://personnes.epfl.ch/ruediger.fahlenbrach","http://personnes.epfl.ch/ruediger.fahlenbrach"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192818",
+      "name":"Fahlenbrach Rüdiger"
+    },{
+      "url":"http://people.epfl.ch/199091",
+      "name":"Schuerhoff Norman"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"[li]Develop research capabilities in empirical corporate finance.[br/][li]Introduce methodologies to conduct empirical research in corporate finance.[br/][li]Develop research ideas for term papers and dissertation topics.[br/]",
+      "Content":"Review academic literature in empirical corporate finance. Link contributions in theoretical corporate finance to empirical tests. Provide overview of reduced-form and structural approaches to empirical research in corporate finance. Present and discuss current research topics and seminal contributions. Develop novel research questions and outline future research directions. ",
+      "Keywords":"Empirical research; Corporate finance",
+      "Form of examination":"Written[br/]Term paper",
+      "Required prior knowledge":" first class in econometrics at graduate level."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Empirical Corporate Finance",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.hec.unil.ch/schuerhoff/","http://www.hec.unil.ch/schuerhoff/"],["http://personnes.epfl.ch/ruediger.fahlenbrach","http://personnes.epfl.ch/ruediger.fahlenbrach"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192818",
+      "name":"Fahlenbrach Rüdiger"
+    },{
+      "url":"http://people.epfl.ch/199091",
+      "name":"Schuerhoff Norman"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Review academic literature in empirical corporate finance. Link contributions in theoretical corporate finance to empirical tests. Provide overview of reduced-form and structural approaches to empirical research in corporate finance. Present and discuss current research topics and seminal contributions. Develop novel research questions and outline future research directions. ",
+      "Mots clés":"Empirical research; Corporate finance",
+      "Prérequis":" first class in econometrics at graduate level.",
+      "Objectifs d'apprentissage":"Develop research capabilities in empirical corporate finance.[br/]Introduce methodologies to conduct empirical research in corporate finance.[br/]Develop research ideas for term papers and dissertation topics."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Empirical Corporate Finance",
+    "recitation":null,
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

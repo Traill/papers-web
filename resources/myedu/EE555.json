@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354366234&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","555"],
+    "title":"Systems, architectures and methodologies for information and signal processing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=354366234&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/102553",
+      "name":"Mattavelli Marco"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written",
+      "Bibliography and material":"Notes on the Web",
+      "Prerequisite for":"\"Information technology\" orientation",
+      "Required prior knowledge":"Signal processing",
+      "Content":"[b]Multimedia algorithms and architectures[/b][br/]Recall of basic elements of video compression theory (coding models and entropy coders), digital TV processing, acquisition and rendering stages, system requirements, standard and non-standard algorithms, constraints and video architectures. [br/]MPEG algorithms and architectures, future trends in multimedia processing. [br/][b]Digital integrated systems[/b][br/]Overview of the state of the art of the architectures for signal processing. Features and limits for current and next generation deep-submicron technologies. New challenges of CMOS technology: low power and multi-core platforms.[br/][b]From specification to architecture design/mapping[/b][br/]Algorithmic analysis (complexity, data flow, parallelisation potential measurements and profiling tools), design space exploration methodologies, features and limits of sequential modeling. [br/]Elements, formalisms and tools for data flow modelling. [br/][b]Practical design case studies[/b][br/]Specification and modeling of simple de-interlacing and frame rate upconversion processes, design exploration and algorithm mapping.",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"Information, communication and signal processing systems are day by day continuously evolving. This holds for both processing algorithms and implementation platforms. The course intends to:[br/]- provide the essential knowledge to understand how and why modern systems are implemented[br/]- describe the features of implementation platforms (general purpose processor, DSPs, dedicated SoC, FPGAs, etc) and how they are used to implement complex communication and multimedia systems.[br/]- provide a knowledge of the methodologies for system implementations, from the specifications of the algorithms to the actual implementations."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Systems, architectures and methodologies for information and signal processing",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/102553",
+      "name":"Mattavelli Marco"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Traitement du signal",
+      "Bibliographie et matériel":"Notes sur le Web",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]Architectures et algorithmes multimédias[/b][br/]Rappel des éléments de bases sur la théorie de la compression vidéo (modèles de code et codeurs entropiques), traitements pour la TV numérique, étapes d'acquisition et de rendu, spécifications des systèmes, algorithmes de standard et de non standard, contraintes et architectures vidéos. [br/]Architectures et algorithmes MPEG, futures tendances pour les traitements multimédias.[br/][b]Systèmes intégrés numériques[/b][br/]Vue d'ensemble de l'état de l'art des architectures pour le traitement du signal. Caractéristiques et limites actuelles et futures pour les technologies deep-submicron. Les nouveaux défis de la technologie CMOS: une faible puissance et des plates-formes multi-core.[br/][b]De la spécification à la conception[/b][br/]Analyse algorithmique (complexité, flux de données, mesures de la parallélisation potentielle d'algorithmes et outils de profiling), méthodes d'exploration spatiale, caractéristiques et  limites de la modélisation séquentielle. Éléments, formalismes et outils pour la modélisation flux de données.[br/][b]Conception et études d'un design réel[/b] [br/]Spécification et la modélisation de simple désentrelacement et de procédés d'augmentation de la fréquence de reproduction d'images, exploration de design et mappage des algorithmes.",
+      "Forme du contrôle":"Ecrit",
+      "Préparation pour":"Orientation \"Traitement de l'information\"",
+      "Objectifs d'apprentissage":"De nos jours, les systèmes d'information, de communication et de traitement du signal sont en constante évolution. Ceci s'applique, aussi bien pour les algorithmes de traitement que pour les plates formes d'implantation. Le cours est destiné à :[br/]- Fournir les connaissances essentielles pour comprendre, pourquoi et comment, les systèmes modernes sont implantés.[br/]- Décrire les particularités des plates formes d'implantation (processeur généraliste, DSPs, SOC dédiés, FPGAs, ...) et comment ils sont utilisés pour implanter des communications complexes et des systèmes multimédias.[br/]- Fournir une connaissance des méthodologies pour les implantations de systèmes ; des spécifications d'algorithme aux implantations actuelles."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Systems, architectures and methodologies for information and signal processing",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230323482&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","417"],
+    "title":"Topics in number theory",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=230323482&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178545",
+      "name":"Michel Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Modular forms have a central place in number theory  and occur also in many other branches of mathematics. Starting from the theta series associated to quadratic forms we will introduce the basic concepts associated to modular or automorphic forms. We will then describe the spectral decomposition of the space of automorphic functions and if time permits we will describe applications to number theory.[br/][br/]",
+      "Content":"1-Spherical harmonics, quadratic forms and theta functions[br/]2-Classical modular forms[br/]3-SL_2, the Poincaré upper-half plane and its arithmetic quotients[br/]4-Hecke operators[br/]5-Cusp forms, Eisenstein series : the spectral decomposition[br/]6-Arithmetic applications[br/][br/][br/]",
+      "Type of teaching":"Ex cathedra lecture",
+      "Required prior knowledge":"Analysis II III, Algebra I, Topology I II"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in number theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"Cours d'arithmétique / Jean-Pierre Serre\". Year:1977</li><li>\"Some applications of modular forms / Peter Sarnak\". Year:1990</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8218-0777-3&amp;con_lng=ENG\" target=\"blank\">Topics in classical automorphic forms / Henryk Iwaniec</a>\". Year:1999. ISBN:0-8218-0777-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/178545",
+      "name":"Michel Philippe"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra",
+      "Contenu":"1-Harmoniques sphériques, formes quadratiques et fonction theta[br/]2-Le demi-plan de Poincare, SL_2(R) et leurs quotients par des sous-groupes de congruences [br/]3- Laplacien hyperbolique, Casimir, operateurs différentiels et algèbre enveloppante[br/]4- Operateurs de Hecke[br/]5- Formes cuspidales et Séries d'Eisenstein ; la décomposition spectrale[br/]6- Applications arithmétiques",
+      "Prérequis":"Analyse II III, Algèbre I, Topologie I II",
+      "Bibliographie et matériel":"Serre, Cours d'Arithmétique.[br/]Sarnak, Some Applications of modular forms.[br/]Iwaniec, Topics in Classical Automorphic forms.",
+      "Objectifs d'apprentissage":"Les formes modulaires occupent une place centrale en théorie des nombres mais apparaissent dans de nombreux autres domaines des mathématiques. Partant de l'étude  des séries theta associées aux formes quadratiques nous introduirons progressivement les concepts de bases liés aux formes modulaires (ou automorphes). On décrira ensuite la décomposition spectrale des espaces de fonctions automorphes et si le temps le permet on donnera des applications à la théorie des nombres."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Topics in number theory",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"Cours d'arithmétique / Jean-Pierre Serre\". Année:1977</li><li>\"Some applications of modular forms / Peter Sarnak\". Année:1990</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-8218-0777-3&amp;con_lng=FRE\" target=\"blank\">Topics in classical automorphic forms / Henryk Iwaniec</a>\". Année:1999. ISBN:0-8218-0777-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

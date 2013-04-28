@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24346276&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","215"],
+    "title":"Algebra II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24346276&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Written exam",
+      "Prerequisite for":"3rd year course",
+      "Required prior knowledge":"Linear Algebra, Algebra I",
+      "Content":"Ring theory:[br/]-\trings, subrings, ideals[br/]-\tdomains, field of fractions[br/]-\tprincipal ideal domains, divisibility[br/]-\tpolynomial rings[br/]-\tirreducibility[br/][br/]Field theory:[br/]-\textension fields[br/]-\talgebraic extensions[br/]-\talgebraic and transcendental numbers[br/]-\tfinite fields",
+      "Type of teaching":"Ex cathedra lecture and exercises",
+      "Learning outcomes":"The goal of this course is to introduce the basic notions of algebra, in particular the fundamental algebraic structures and their use. Another goal is to learn to master abstract reasoning."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algebra II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/138858",
+      "name":"Bayer Fluckiger Eva"
+    }],
+    "lab":null,
+    "credits":8,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Algèbre linéaire, algèbre I",
+      "Forme d'enseignement":"Cours ex cathedra + exercices",
+      "Contenu":"Théorie des anneaux :[br/]-\tanneaux, sous-anneaux, idéaux[br/]-\tanneaux intègres, corps des fractions[br/]-\tanneaux principaux, divisibilité[br/]-\tanneaux de polynômes[br/]-\tirréductibilité[br/][br/]Théorie de corps :[br/]-\textensions de corps[br/]-\textensions algébriques[br/]-\tnombres algébriques et transcendants[br/]-\tcorps finis",
+      "Forme du contrôle":"Examen écrit",
+      "Préparation pour":"Cours de 3e année",
+      "Objectifs d'apprentissage":"L'objectif de ce cours est d'introduire les notions de base de l'algèbre, en particulier les structures algébriques fondamentales et leur utilisation. Un objectif complémentaire est l'apprentissage de la maîtrise du raisonnement abstrait."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbre II",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771388&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","413"],
+    "title":"Nanobiotechnology and biophysics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1771388&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224007",
+      "name":"Fierz Beat"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This cours concerns modern biophysical and bioanalytical techniques to investigate the structure and function of biopolymers both in isolated reconstituted systems and in live biological cells, including recent methods to image, track and manipulate single molecules. We will cover the basic principles of the respective methods and discuss examples from the current scientific literature.[br/][br/][br/]The specific goals of this course are that the students:[br/]1. Understand the fundamental principles of the nano-biotechnological and biophysical methods described in this course (as outlined below) [br/]2. Know advantages and disadvantages of the respective biophysical and nano-biotechnological methods[br/]3. Know the limits of the discussed techniques in terms of their respective application and their resolution in space and time[br/]4. Gain the necessary knowledge to critically assess the current scientific literature on topics covered in this course[br/]5. Can decide which methodologies are appropriate to tackle a specific biophysical question",
+      "Content":"Surface sensitive techniques elucidate and quantify molecular interactions[br/]- immobilizing biopolymers on surfaces[br/]- protein and DNA microarrays[br/]- optical & electrical detection techniques[br/][br/]Development and application of microfluidic and nanofluidic sensor devices:[br/]- Miniaturisation of analytical techniques: lab on a chip[br/]- Chemical and biochemical sensors[br/]- Next generation DNA sequencing approaches[br/][br/]Single molecule techniques to monitor the function of single biomolecules and complexes[br/]- Single molecule fluorescence spectroscopy (FRET, confocal and total internal reflection fluorescence microscopy)[br/]- Fluorescence correlation spectroscopy[br/]- Electrical conductance of single ion channels[br/][br/]Force spectroscopy to monitor function of single molecular machines[br/]- scanning probe techniques[br/]- Optical and magnetic tweezers[br/][br/]Fluorescence methods to visualize biomolecule function in vivo[br/]- Microscopy beyond the diffraction limit: Super-resolution microscopy[br/]- FRET microscopy, 2-photon techniques[br/]- Single particle tracking[br/][br/]Engineered biomolecules to manipulate cells or as drug delivery vehicles[br/]- Engineered photocontrollable proteins: Optogenetics[br/]- Nano-containers for drug delivery vectors[br/]- DNA based self-assembly and nanofabrication of complex structures[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanobiotechnology and biophysics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/224007",
+      "name":"Fierz Beat"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra & exercises",
+      "Contenu":"Les techniques qui permettent la détection et la quantification des interactions moléculaires aux surfaces[br/]- immobilisation des biopolymères à une surface[br/]- microstructures de protéines et d'ADN[br/]- techniques optiques et électriques de détection[br/][br/]Le développement et l'application de dispositifs de capteurs de microfluides et nanofluides:[br/]- miniaturisation des techniques analytiques: lab on a chip[br/]- capteurs chimiques et biochimiques[br/]- approches de séquences de la prochaine génération ADN[br/][br/]Techniques de molécule unique permettant de contrôler la fonction de biomolécules uniques et complexes[br/]- spectroscopie en fluorescence de molécule unique (FRET, microscopie de fluorescence de réflexion confocale et interne totale)[br/]-spectroscopie de corrélation en fluorescence[br/]- la conductance électrique d'un canal ionique individuel[br/][br/]Forcer la spectroscopie à contrôler la fonction de machines de molécule unique[br/]- technique de balayage à champ proche[br/]- pinces optiques et magnétiques[br/][br/]Méthodes de fluorescence permettant de visualiser la fonction in vivo de la biomolecule[br/]- microscopie au-délà de la limite de diffraction: microscopie de super résolution[br/]- microscopie FRET, technique 2-photons[br/]- capture de particules individuelles[br/][br/]",
+      "Forme du contrôle":"Examen écrit",
+      "Objectifs d'apprentissage":"Ce cours traite de l'application des techniques modernes de biophysique et de bioanalytique à l'étude de la structure et de la fonction des biopolymères ([i]in vitro[/i] et [i]in vivo[/i]). Le cours aborde aussi des méthodes récentes qui permettent d'imager, de détecter et de manipuler des molécules uniques. Les principes de base des méthodes respectives seront vus et des exemples de littérature scientifique discutés.[br/][br/]Buts spécifiques du cours:[br/]1. Comprendre les principes fondamentaux des méthodes nano-biotechnologiques et biophysiques décrites dans ce cours[br/]2. Connaître les avantages et désavantages des méthodes biophysiques et nano-biotechnologiques respectives [br/]3. Connaître les limites des techniques discutées relatives à leur application respective et leur résolution dans l'espace et le temps[br/]4. Acquérir les connaissances nécessaires permettant d'évaluer la littérature scientifique courante sur les sujets abordés dans ce cours[br/]5. Décider quelles méthodologies sont appropriées pour s'attaquer à une question spécifique de biophysique"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Nanobiotechnology and biophysics",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

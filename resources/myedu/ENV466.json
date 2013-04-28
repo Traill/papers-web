@@ -1,0 +1,75 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2214318&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ENV","466"],
+    "title":"Contracts and professional responsability",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2214318&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188019",
+      "name":"Carrel Matthieu"
+    },{
+      "url":"http://people.epfl.ch/159096",
+      "name":"Dubey Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Having introduced private law, this cours describes the rights and obligations arising from the main contracts applicable to engineers. Examine the various aspects of engineer's professional liability (based on contracts, torts and criminal law) as well as the mechanism of insurances. The legal concepts and theory are illustrated by practical cases.[br/]",
+      "Content":"[li]Introduction to private law [br/][br/][li]Elements of civil law (personnal law, property law, intellectual property)[br/][br/][li]Law of contracts: fundamentals, qualification[br/][br/][li]Rights and duties of the engineers according to construction contracts (work contract, mandate, employment contract).[br/][br/][li]Principles of contractual liability[br/][br/][li]Liability based on fault[br/][br/][li]Strict liability[br/][br/][li]Liability for damages caused by pathogen and genetically modified organisms[br/][br/][li]Insurance contract[br/][br/][li]Case studies[br/][br/]",
+      "Type of teaching":"Interactives courses",
+      "Form of examination":"Two written tests (45 min each) during the semester",
+      "Bibliography and material":"Handout, legal texts"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Contracts and professional responsability",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/188019",
+      "name":"Carrel Matthieu"
+    },{
+      "url":"http://people.epfl.ch/159096",
+      "name":"Dubey Jacques"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Cours interactif ",
+      "Contenu":"[li]Introduction au droit privé (fonction et notion)[br/][br/][li]Notion de droit civil (droit des personnes et de la personnalité, droits réels et la propriété intellectuelle)[br/][br/][li]Les principes de la responsabilité contractuelle[br/][br/][li]Généralités sur le droit des contrats; qualification[br/][br/][li]Les droits et les obligations de l'ingénieur dans le contrat d'entreprise, le contrat de mandat et le contrat de travail[br/][br/][li]Les principes de la responsabilité délictuelle[br/][br/][li]La responsabilité pour faute[br/][br/][li]Les responsabilités objectives[br/][br/][li]La responsabilité en matière d'organismes pathogènes et génétiquement modifiés[br/][br/][li]Études de cas[br/]",
+      "Forme du contrôle":"Deux contrôles écrits de 45 min durant le semestre",
+      "Bibliographie et matériel":"Polycopié, textes législatifs",
+      "Objectifs d'apprentissage":"Après une introduction au droit privé en général, ce cours vise à sensibiliser les étudiant-e-s aux droits et obligations qui découlent des principaux contrats de la vie professionnelle. Il traite des divers aspects de la responsabilité professionnelle (contractuelle, civile, pénale) et des mécanismes d'assurances au moyen d'exemples tirés de la pratique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Droit : contrats et responsabilité professionnelle",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

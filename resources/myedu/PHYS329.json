@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234133976&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","329"],
+    "title":"Quantum information processing I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=234133976&ww_x_anneeAcad=2012-2013&ww_i_section=249847&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"IN",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=11441","http://moodle.epfl.ch/course/view.php?id=11441"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103561",
+      "name":"Savona Vincenzo"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"One optional midterm test. Passing the midterm test gives 1/2 point for the final grade",
+      "Bibliography and material":"M. Le Bellac, A Short Introduction to Quantum Information and Quantum Computation (Cambridge, 2006)[br/]G. Benenti, G. Casati, G. Strini, Principles of Quantum Computation and Information (World Scientific, 2004)[br/]M.A. Nielsen, I. L. Chueang, Quantum Information and Quantum Computation (Cambridge, 2000)[br/]",
+      "Required prior knowledge":"Basic physics and mathematics courses of first and second years",
+      "Content":"1. Introduction[br/]· The \"quantum bit\": mathematical formulation[br/]· Example: the polarization of the photon[br/]· Example: the spin 1/2[br/][br/]2. Introduction to quantum mechanics[br/]· Quantum states and superposition principle[br/]· Postulates[br/]· Theory of measurement [br/]· Heisenberg's uncertainty principle[br/]· Quantum Cryptography[br/][br/]3. The spin 1/2[br/]· Unitary time evolution[br/]· Manipulation of \"qubits\": Rabi oscillations[br/][br/]4. Quantum correlations[br/]· States with several \"qubits\"[br/]· Quantum entanglement[br/]· Bell's inequalities[br/]· Einstein-Podolsky-Rosen pairs[br/]· Quantum teleportation[br/]· Dense coding[br/][br/]5. Quantum gates[br/]· Physical implementation of \"qubits\" and quantum gates[br/]· NMR[br/]· Josephson junctions[br/]· Quantum dots[br/]· Ion traps[br/]· Cavity quantum electrodynamics",
+      "Type of teaching":"Ex cathedra",
+      "Learning outcomes":"Introduction to the concepts, applications and recent developments of quantum information processing."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Quantum information processing I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-86056-7&amp;con_lng=ENG\" target=\"blank\">A short introduction to quantum information and quantum computation / Michel Le Bellac</a>\". Year:2006. ISBN:978-0-521-86056-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-830-3&amp;con_lng=ENG\" target=\"blank\">Principles of quantum computation and information / by Giuliano Benenti, Giulio Casati, Giuliano Strini</a>\". Year:2004-2007. ISBN:981-238-830-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-63235-8&amp;con_lng=ENG\" target=\"blank\">Quantum computation and quantum information / Michael A. Nielsen and Isaac L. Chuang</a>\". Year:2003. ISBN:0-521-63235-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=11441","http://moodle.epfl.ch/course/view.php?id=11441"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/103561",
+      "name":"Savona Vincenzo"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de base de physique et mathématique des première et deuxième années[br/]Obligatoire pour IN/SC : Analyse III, Physique générale I, Physique générale II et Probabilités et statistique",
+      "Bibliographie et matériel":"M. Le Bellac, A Short Introduction to Quantum Information and Quantum Computation (Cambridge, 2006)[br/]G. Benenti, G. Casati, G. Strini, Principles of Quantum Computation and Information (World Scientific, 2004)[br/]M.A. Nielsen, I. L. Chueang, Quantum Information and Quantum Computation (Cambridge, 2000)[br/]",
+      "Forme d'enseignement":"Ex cathédra",
+      "Contenu":"1. Introduction[br/]· Le \"quantum bit\": formulation mathématique[br/]· Exemple: la polarisation du photon[br/]· Exemple: le spin 1/2[br/][br/]2. Introduction à la mécanique quantique[br/]· Etats et principes de superposition[br/]· Postulats[br/]· Théorie de la mesure[br/]· Principe d'incertitudes de Heisenberg[br/]· Cryptographie quantique[br/][br/]3. Le spin 1/2[br/]· Evolution temporelle unitaire[br/]· Manipulation de \"qubits\": oscillations de Rabi[br/][br/]4. Corrélations quantiques[br/]· Etats à plusieurs qubits[br/]· Intrication quantique (\"entanglement\")[br/]· Inégalités de Bell[br/]· Paires d'Einstein-Podolsky-Rosen[br/]· Téléportation quantique[br/]· \"Dense coding\"[br/][br/]5. Portes logiques quantiques[br/]· Implémentation physique de \"qubits\" et portes logiques[br/]· RMN[br/]· Jonctions Josephson[br/]· Boîtes quantiques[br/]· Pièges ioniques[br/]· Cavity quantum electrodynamics",
+      "Forme du contrôle":"Un test de contrôle facultatif durant le semestre: la réussite donne 1/2 point sur la note finale",
+      "Objectifs d'apprentissage":"Familiariser l'étudiant avec les concepts, les applications et les derniers développements du traitement quantique de l'information."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Traitement quantique de l'information I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-521-86056-7&amp;con_lng=FRE\" target=\"blank\">A short introduction to quantum information and quantum computation / Michel Le Bellac</a>\". Année:2006. ISBN:978-0-521-86056-7</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-830-3&amp;con_lng=FRE\" target=\"blank\">Principles of quantum computation and information / by Giuliano Benenti, Giulio Casati, Giuliano Strini</a>\". Année:2004-2007. ISBN:981-238-830-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-521-63235-8&amp;con_lng=FRE\" target=\"blank\">Quantum computation and quantum information / Michael A. Nielsen and Isaac L. Chuang</a>\". Année:2003. ISBN:0-521-63235-8</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

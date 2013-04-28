@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","201(c)"],
+    "title":"General physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775452&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3571","http://moodle.epfl.ch/course/view.php?id=3571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109250",
+      "name":"Pasquarello Alfredo"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Optional test (Up to one point of bonus on the basis of this individual test)",
+      "Prerequisite for":"General physics IV and Electromagnetism II",
+      "Required prior knowledge":"Mathematics and physics courses 1st year",
+      "Content":"[b]Physics of continuous media[/b][br/]- Deformation of solids[br/][b]Waves[/b][br/]- General understanding of wave motion, including energetic aspects[br/]- Description of different waves propagating in a dense medium[br/]- Superposition of waves: reflection, stationary waves, wave modulation, interference, and diffraction[br/][b]Electromagnetism[/b][br/]- Electrostatics: Coulomb law and electric[ field, Gauss law, electric potential, capacity and energy, the electric fields in the dielectric matter[br/]- Electrical currents and AC circuits[br/]- Magnetostatics: the electrical currents and the magnetic field, the two fundamental laws, the magnetic properties of matter, ferromagnetism.[br/]- The Faraday law: the emf force, the law of induction, self and mutual inductances, the magnetic energy[br/]- Maxwell equations: the displacement current and Maxwell equations in vacuum, the EM waves, the Poynting vector and the EM energy[br/] [br/][br/][br/][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations and exercices supervised in class",
+      "Learning outcomes":"To master fundamentals of physical phenomena. To understand and to know how to use mathematical laws of physics which allow to describe and predict phenomena. Application to natural phenomena and technical domains."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-32057-9&amp;con_lng=ENG\" target=\"blank\">Physics / David Halliday, Robert Resnick, Kenneth S. Krane ; with the assistance of Paul Stantley</a>\". Year:2002. ISBN:0-471-32057-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=ENG\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Year:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3571","http://moodle.epfl.ch/course/view.php?id=3571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109250",
+      "name":"Pasquarello Alfredo"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":6,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Cours de mathématiques et physique de 1ère année",
+      "Bibliographie et matériel":"Notes de cours ; University Physics, A. Hudson et R. Nelson, Saunders College publish (1990) ; Physics, D. Halliday, R. Resnick, et K. S. Krane Wiley&sons, 5th edition, Volume 2.",
+      "Forme d'enseignement":"Ex cathedra avec présentation d'exériences et exercices dirigés en classe",
+      "Contenu":"[b]Physique des milieux continus[/b][br/]- Déformation des solides[br/][b]Ondes[/b][br/]- Notions générales sur la propagation d'une onde, y.c. aspects énergétiques[br/]- Célérité et description de diverses ondes se propageant dans un milieu matériel[br/]- Composition d'ondes : réflexion, ondes stationnaires, modulation, phénomènes d'interférence et de diffraction[br/][b]Électromagnétisme[/b][br/]- Électrostatique : la loi de Coulomb et le champ électrique, la loi de Gauss, le potentiel électrique, capacité et énergie, les champs électriques dans la matière diélectrique[br/]- Courant électrique et circuits RC[br/]- Magnétostatique: les courants comme source du champ d'induction magnétique, les lois fondamentales, les propriétés magnétiques de la matière[br/]- L'induction électromagnétique : la force électromotrice, la loi d'induction, inductances, l'énergie magnétique[br/]- Les équations de Maxwell : le courant de déplacement et les équations dans le vide, les ondes électro-magnétiques, vecteur de Poynting et énergie EM[br/] ",
+      "Forme du contrôle":"Test facultatif en cours de semestre (jusqu'à 1 point de bonus sur la base de ce test individuel)",
+      "Préparation pour":"Physique générale IV et Electromagnétisme II",
+      "Objectifs d'apprentissage":"Connaissances et compréhension des phénomènes physiques et des lois qui les gouvernent. Savoir utiliser l'outil mathématique pour établir un lien entre le phénomène et sa formulation. Mettre en évidence les applications en science et technique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-32057-9&amp;con_lng=FRE\" target=\"blank\">Physics / David Halliday, Robert Resnick, Kenneth S. Krane ; with the assistance of Paul Stantley</a>\". Année:2002. ISBN:0-471-32057-9</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=FRE\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Année:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":4,
+      "weeks":14
+    }
+  }
+}

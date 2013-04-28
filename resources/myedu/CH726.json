@@ -1,0 +1,65 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=162036589&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=fr",
+    "code":["CH","726"],
+    "title":"Biomolecular structure and dynamics in solution",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=162036589&ww_x_anneeAcad=2012-2013&ww_i_section=2137742&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCH",
+    "program":"EDCH",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171399",
+      "name":"Vasos Paul Romeo"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course will introduce modern magnetic resonance experiments used to determine biomolecular structure and dynamics in solution. The objective is to explain the multi-nuclear techniques that lead to resonance assignment and structure calculation. The ways to validate an NMR structure and compare it with predictions from homology modelling based on sequence similarities will be explained. The students will become acquainted with the use of magnetic resonance in structural biology, learn how to assign NMR signals, calculate structural restraints, and study dynamic properties, including chemical exchange. These steps are essential for the study of structure-function relationships of biological macromolecules, an integral part of diverse chemical and biological research efforts. At the end of the course, the focus will be placed on hyperpolarisation, a sensitivity enhancement technique that is likely to become increasingly useful for biochemists.[br/]",
+      "Content":"1. Outline and rehearsal of concepts;[br/]2. Resonance assignment: through-bond and through-space magnetization transfer for distance restraints;[br/]3. Resonance assignment: triple resonance and beyond (HNCA, HNCOCA, HCANH);[br/]4. Examples of correlation spectroscopy on aminoacids, peptide fragments (Ala-Ala-Gly), ubiquitin;[br/]5. Other structural restraints from NMR: dihedral angles, residual dipolar couplings (RDCs), effects of a paramagnetic centre;[br/]6. Solution structure of biomolecules - computational methods;[br/]7. How to check the quality of structures: RMSD within an ensemble, validation tools, the Protein Data Bank;[br/]8. Homology modelling based on sequence similarity and internet resources for structure prediction;[br/]9. Combined use of NMR and modelling: the example of the class of bacterial cytochromes c.[br/]10. Chemical exchange and other dynamic phenomena: EXSY, DOSY;[br/]11. Internal dynamics, relaxation of signals and how to limit its effects: sequences and isotope-labelling techniques for large molecules;[br/]12. Sensitivity enhancement by hyperpolarisation.[br/]",
+      "Keywords":"Protein NMR, Resonance Assignment, Structure Determination, Homology Modelling, Structure Validation, Chemical Exchange.[br/]",
+      "Required prior knowledge":"Basic understanding of NMR as given for example in the course \"Nuclear magnetic resonance\".[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomolecular structure and dynamics in solution",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/171399",
+      "name":"Vasos Paul Romeo"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Contenu":"1. Outline and rehearsal of concepts;[br/]2. Resonance assignment: through-bond and through-space magnetization transfer for distance restraints;[br/]3. Resonance assignment: triple resonance and beyond (HNCA, HNCOCA, HCANH);[br/]4. Examples of correlation spectroscopy on aminoacids, peptide fragments (Ala-Ala-Gly), ubiquitin;[br/]5. Other structural restraints from NMR: dihedral angles, residual dipolar couplings (RDCs), effects of a paramagnetic centre;[br/]6. Solution structure of biomolecules - computational methods;[br/]7. How to check the quality of structures: RMSD within an ensemble, validation tools, the Protein Data Bank;[br/]8. Homology modelling based on sequence similarity and internet resources for structure prediction;[br/]9. Combined use of NMR and modelling: the example of the class of bacterial cytochromes c.[br/]10. Chemical exchange and other dynamic phenomena: EXSY, DOSY;[br/]11. Internal dynamics, relaxation of signals and how to limit its effects: sequences and isotope-labelling techniques for large molecules;[br/]12. Sensitivity enhancement by hyperpolarisation.[br/]",
+      "Mots clés":"Protein NMR, Resonance Assignment, Structure Determination, Homology Modelling, Structure Validation, Chemical Exchange.[br/]",
+      "Prérequis":"Basic understanding of NMR as given for example in the course \"Nuclear magnetic resonance\".",
+      "Objectifs d'apprentissage":"The course will introduce modern magnetic resonance experiments used to determine biomolecular structure and dynamics in solution. The objective is to explain the multi-nuclear techniques that lead to resonance assignment and structure calculation. The ways to validate an NMR structure and compare it with predictions from homology modelling based on sequence similarities will be explained. The students will become acquainted with the use of magnetic resonance in structural biology, learn how to assign NMR signals, calculate structural restraints, and study dynamic properties, including chemical exchange. These steps are essential for the study of structure-function relationships of biological macromolecules, an integral part of diverse chemical and biological research efforts. At the end of the course, the focus will be placed on hyperpolarisation, a sensitivity enhancement technique that is likely to become increasingly useful for biochemists.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Biomolecular structure and dynamics in solution",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":14
+    }
+  }
+}

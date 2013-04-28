@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543113942&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["BIO","484"],
+    "title":"Laboratory in behavorial neuroscience",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543113942&ww_x_anneeAcad=2012-2013&ww_i_section=47551855&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"SV-STV",
+    "program":"SV",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160090",
+      "name":"Sandi Perez Maria del Carmen"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Laboratory in behavorial neuroscience",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-393-92795-5&amp;con_lng=ENG\" target=\"blank\">Cognitive neuroscience : the biology of the mind / Michael S. Gazzaniga, Richard B. Ivry, George R. Mangun ; with Megan S. Steven</a>\". Year:2009. ISBN:978-0-393-92795-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-694-6&amp;con_lng=ENG\" target=\"blank\">Principles of cognitive neuroscience / Dale Purves ... [et al.]</a>\". Year:2008. ISBN:978-0-87893-694-6</li></ul>",
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/160090",
+      "name":"Sandi Perez Maria del Carmen"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"This course will be offered as a block course (duration: 1,5 weeks ) ",
+      "Prérequis":"Mandatory : Neuroscience I, II and III.[br/]Only for the orientation \"Neurosciencess and Neuroengineering\"[br/]",
+      "Bibliographie et matériel":"Purves D et al. Principles of Cognitive Neuroscience. 2008. Sinauer Associates: Sunderland, MA.[br/]Gazzaniga MS. Cognitive Neuroscience. 2008 (3rd. Ed.) W. W. Norton & Company.",
+      "Forme d'enseignement":"Practical classes with brief theoretical presentations.                  ",
+      "Contenu":"[li] General introduction: Objectives, methods. [br/][li] Introduction to the concept and facilities of a rodent behavioral phenotyping facility.[br/][li] Tests to evaluate emotionality in rodents: open field, novel object reactivity, elevated plus maze, light-dark box: video-tracking and data analyses.[br/][li] Tests to evaluate learning and memory in rodents: object recognition, social recognition, Y-maze, T-maze, water maze: video-tracking and data analyses.[br/][li] Evaluation of social behaviors in rodents: social preference, resident-intruder test, maternal behavior: video scoring and data analyses.[br/][li] Techniques to link brain function and behavior: biochemistry, molecular biology, immunohistochemistry of immediate early genes (quantification of protein expression in brain slices from experimental animals, use of Paxinos atlas, microscopy inspection and densitometry analyses) psychopharmacology.[br/][li] Techniques to link behavior with genetics.[br/][li] Animal models of psychopathology.[br/][li] Individual project on a specific topic in the field of Behavioral Neuroscience.",
+      "Forme du contrôle":"Oral and written tests during the semester",
+      "Préparation pour":"Master in Life Sciences & Technology",
+      "Objectifs d'apprentissage":"This optional laboratory course will introduce students to methods of Behavioral Neuroscience. Students will learn how to design and analyze behavioral experiments in animals (rodents: rats, mice). The final goal is to convey students the integrative nature of the field, which ranges from the understanding and quantification of overt behaviors to the identification of brain circuits and regions underlying specific behaviors, and their key cellular and molecular substrates. Students will be introduced to the behavioral batteries typically used in rodents to evaluate emotion and cognition (learning and memory), as well as to observational scoring methods to evaluate social behaviors. Practical sessions to set specific experiments will follow the introductory parts of the course. In addition, students will learn how to design behavioral neuroscience experiments, the importance of control groups, and how to analyze and interpret behavioral data. They will also learn the main techniques available to link behavior with brain function and genetics.[br/]Throughout the course, students will be requested to work on a small project with the goal of developing a novel research question by integrating different levels of study included in the course. "
+    },
+    "practical":{
+      "week_hours":4,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Laboratory in behavorial neuroscience",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-393-92795-5&amp;con_lng=FRE\" target=\"blank\">Cognitive neuroscience : the biology of the mind / Michael S. Gazzaniga, Richard B. Ivry, George R. Mangun ; with Megan S. Steven</a>\". Année:2009. ISBN:978-0-393-92795-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-87893-694-6&amp;con_lng=FRE\" target=\"blank\">Principles of cognitive neuroscience / Dale Purves ... [et al.]</a>\". Année:2008. ISBN:978-0-87893-694-6</li></ul>",
+    "lecture":null
+  }
+}

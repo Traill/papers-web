@@ -1,0 +1,68 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776687&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","532"],
+    "title":"Integrated circuits technology",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776687&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106334",
+      "name":"Sallese Jean-Michel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"Describe the practical aspects of the technology used to manufacture integrated circuits. This course will also illustrate the evolution of the semiconductor industry, its future, the economical aspects of this industry as well as the link between technology and design rules. The visit of a Fab, real ultra clean micro environment where chips are manufactured, is planned to illustrate the course.",
+      "Content":"1.\tIntroduction : the Silicon revolution, device scaling, economical aspects of the semiconductor industry.[br/][br/]2.\tThe clean room : a real chip factory.[br/][br/]3.\tCleaning technology in the semiconductor world.[br/][br/]4.\tOxidation and anneals: types and application.[br/][br/]5.\tCVD process ans epitaxy: techniques and applications.[br/][br/]6.\tLithography: optical lithography, OPC, PSM, resist, non optical lithography.[br/][br/]7.\tDry and wet etching : mechanisms, plasma physics, applications of etching processes.[br/][br/]8.\tMetallization : types, deposition techniques, multilevel metallization, isolation, planarization.[br/][br/]9.\tIon implantation : principles, advantages, characterization and applications.[br/][br/]10.\tProcess integration : the chip fabrication from A to Z, design rules, applications.[br/][br/]11.\tSemiconductor memories : principles and technologies.[br/][br/]12.\tConclusions, future prospects.",
+      "Type of teaching":"Ex cathedra",
+      "Form of examination":"Oral"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Integrated circuits technology",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-063062-3&amp;con_lng=ENG\" target=\"blank\">ULSI technology / ed. by C. Y. Chang, S. M. Sze</a>\". Year:1996. ISBN:0-07-063062-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106334",
+      "name":"Sallese Jean-Michel"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"1.\tIntroduction : la révolution du Silicium, la miniaturisation des dispositifs, aspects économiques de l'industrie des semi-conducteurs.[br/][br/]2.\tLa salle blanche : la véritable usine à circuits intégrés.[br/][br/]3.\tLa technologie du nettoyage en microélectronique.[br/][br/]4.\tOxydation et recuits : types et applications.[br/][br/]5.\tDéposition, CVD et épitaxie : techniques et applications.[br/][br/]6.\tLithographie : lithographie optique, OPC, PSM, résines, lithographie non optique.[br/][br/]7.\tGravure sèche et humide : mécanismes, physique des plasmas, applications.[br/][br/]8.\tMétallisation : types, techniques de dépôt, métallisation à plusieurs niveaux, isolation, planarisation.[br/][br/]9.\tImplantation ionique : principes, avantages, caractérisation et applications.[br/][br/]10.\tIntégration des procédés: la fabrication du circuit intégré de A à Z, règles de dessin, applications.[br/][br/]11.\tMémoires à semi-conducteurs : principes et technologies.[br/][br/]12.\tConclusions, extrapolation dans le futur.",
+      "Forme du contrôle":"Oral",
+      "Bibliographie et matériel":"C.Y. Chang, S.M. Sze, \"ULSI Technology\", Mc. Graw Hill International Editions, 1996",
+      "Objectifs d'apprentissage":"Présenter les aspects pratiques de la technologie de fabrication des circuits intégrés (puces). Illustrer l'évolution de l'industrie des semi-conducteurs, son futur probable, les aspects économiques liés à cette industrie et les liens qui existent entre technologie et règles de dessin. La visite d'une Fab, véritable micro-environnement ultra propre où sont fabriquées ces puces, est prévue pour illustrer ce cours."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Integrated circuits technology",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-07-063062-3&amp;con_lng=FRE\" target=\"blank\">ULSI technology / ed. by C. Y. Chang, S. M. Sze</a>\". Année:1996. ISBN:0-07-063062-3</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

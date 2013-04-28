@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1625014898&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","671"],
+    "title":"Practical - Meylan Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1625014898&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://meylan-lab.epfl.ch/","http://meylan-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/212964",
+      "name":"Meylan Etienne"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The objectives are:[br/][br/]1- To comprehend the function of several signaling pathways during lung tumor development;[br/]2- To become familiar with some techniques to detect and manipulate pathway activities;[br/]3- To make a critical analysis of primary research papers in the field of lung tumor biology;[br/]4- To learn about the recent developments and uses of genetically-engineered mouse models of lung cancer.[br/]",
+      "Content":"Theoretical part:[br/][br/]- Lecture and discussion on a selection of signaling pathways that contribute to the progression of lung cancer;[br/]- Discussion and critical analysis of primary research publications;[br/][br/]Practical:[br/][br/]- Preparation of human lung tumor cell lines, transient transfection to modulate a selected pathway. Cell harvesting, followed by pathway activity measurement using real-time PCR, luciferase assay or Western blotting. [br/]- Site-directed mutagenesis to create mutant cDNA.[br/]",
+      "Keywords":"lung cancer, mouse models of cancer, signaling pathways",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Doctoral students from the Meylan laboratory cannot take this course. Access is limited to 4 students.",
+      "Required prior knowledge":"None"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Meylan Lab",
+    "recitation":{
+      "total_hours":3
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":3
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://meylan-lab.epfl.ch/","http://meylan-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/212964",
+      "name":"Meylan Etienne"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Meylan Lab",
+    "recitation":{
+      "total_hours":3
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":3
+    }
+  }
+}

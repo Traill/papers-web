@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584194448&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["MATH","470"],
+    "title":"Martingales in financial mathematics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1584194448&ww_x_anneeAcad=2012-2013&ww_i_section=4590974&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MATH",
+    "program":"MA",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209364",
+      "name":"Schmutz Michael"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"The aim of the course is to apply the theory of martingales in the context of mathematical finance. The course provides a detailed study of the mathematical ideas that are used in modern financial mathematics. Moreover, the concept of complete and incomplete markets will be discussed.",
+      "Content":"Discrete time models and the Fundamental Theorem of Asset Pricing[br/]Binomial and trinomial model[br/]The Snell envelope, optimal stopping, and American options[br/][br/]Geometric Brownian motion and the Black-Scholes model[br/]Option pricing and hedging[br/]Exotic options[br/][br/]On the theory of (no-)arbitrage in continuous time[br/][br/]Selected topics on[br/]Local- and stochastic volatility models[br/]Lévy driven models [br/]",
+      "Required prior knowledge":"Stochastic calculation"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Martingales in financial mathematics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-981-4324-47-2&amp;con_lng=ENG\" target=\"blank\">Change of time and change of measure / Ole E. Barndorff-Nielsen, Albert Shiryaev</a>\". ISBN:978-981-4324-47-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-02-3605-0&amp;con_lng=ENG\" target=\"blank\">Essentials of stochastic finance : facts, models, theory / Albert N. Shiryaev</a>\". Year:2003. ISBN:981-02-3605-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-58488-626-6&amp;con_lng=ENG\" target=\"blank\">Introduction to stochastic calculus applied to finance / Damien Lamberton, Bernard Lapeyre</a>\". Year:2008. ISBN:978-1-58488-626-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/209364",
+      "name":"Schmutz Michael"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"Modèles à temps discret et le Théorème Fondamental d'Asset Pricing[br/]Modèle binomial et trinomial[br/]Enveloppe de Snell, arrêt optimal et options américaines[br/][br/]Mouvement brownien géométrique et le modèle de Black-Scholes[br/]Evaluation et couverture d'options[br/]Options exotiques[br/][br/]Sur la  théorie d'arbitrage en temps continu[br/][br/]Thèmes choisis parmi[br/]Modèles à volatilité locale stochastique[br/]Modèles avec sauts (processus de Lévy)[br/]",
+      "Prérequis":"Calcul stochastique",
+      "Bibliographie et matériel":"Lamberton, D. and Lapeyre, B. (2008), Introduction to Stochastic Calculus Applied to Finance, Second Edition, Chapman and Hall, London.[br/][br/]Shiryaev, A.N. (1999), Essentials of Stochastic Finance: Facts, Models, Theory, World Scientific Publishing, Singapore.[br/][br/]Barndorff-Nielsen, O.E. and Shiryaev, A.N. (2010), Change of Time and Change of Measure, World Scientific Publishing, Singapore.[br/]",
+      "Objectifs d'apprentissage":"L'objectif du cours est d'appliquer la théorie de martingale dans le contexte de mathématiques financières. Ce cours fournit une étude détaillée des concepts mathématiques qui sont utilisés par les mathématiques financières modernes. En outre, le cas des marchés complets et incomplets sera abordé."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Martingales in financial mathematics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-981-4324-47-2&amp;con_lng=FRE\" target=\"blank\">Change of time and change of measure / Ole E. Barndorff-Nielsen, Albert Shiryaev</a>\". ISBN:978-981-4324-47-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-02-3605-0&amp;con_lng=FRE\" target=\"blank\">Essentials of stochastic finance : facts, models, theory / Albert N. Shiryaev</a>\". Année:2003. ISBN:981-02-3605-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-58488-626-6&amp;con_lng=FRE\" target=\"blank\">Introduction to stochastic calculus applied to finance / Damien Lamberton, Bernard Lapeyre</a>\". Année:2008. ISBN:978-1-58488-626-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

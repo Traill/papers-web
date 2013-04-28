@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499254129&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","330"],
+    "title":"IC design II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499254129&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"IC design II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-246053-7&amp;con_lng=ENG\" target=\"blank\">CMOS digital integrated circuits : analysis and design / Sung-Mo (Steve) Kang, Yusuf Leblebici</a>\". Year:2003. ISBN:978-0-07-246053-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112194",
+      "name":"Leblebici Yusuf"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"CS-171, EE-331, EE-332",
+      "Bibliographie et matériel":"Kang & Leblebici[br/]CMOS Digital Integrated Circuits: Analysis and Design, McGraw-Hill, 2003[br/]",
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"* Introduction to CMOS process technology [br/]* MOS transistor structure and characteristics[br/]* Modeling of MOS transistors for digital circuit operation[br/]* Inverter circuits: DC characteristics[br/]* Inverter circuits: Transient characteristics[br/]* Simple Boolean gates: NAND / NOR / AOI[br/]* Sequential circuit blocks, latches and DFF circuits[br/]* Dynamic logic circuits[br/]* Memory cells and memory arrays[br/]",
+      "Forme du contrôle":"Written examination",
+      "Préparation pour":"VLSI Design I (MS cycle)",
+      "Objectifs d'apprentissage":"The goal of the course is to introduce basic circuit design principles for digital integrated circuits, based on CMOS technology. The fundamental issues concerning MOS transistor characteristics and MOS circuit behavior are covered systematically, with the ultimate goal of enabling the student to possess basic skills to design functional digital integrated circuits."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"IC design II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-07-246053-7&amp;con_lng=FRE\" target=\"blank\">CMOS digital integrated circuits : analysis and design / Sung-Mo (Steve) Kang, Yusuf Leblebici</a>\". Année:2003. ISBN:978-0-07-246053-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

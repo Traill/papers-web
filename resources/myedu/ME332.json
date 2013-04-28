@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774762&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","332"],
+    "title":"Mechanical vibrations",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774762&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MX",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105270",
+      "name":"Gmür Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Oral examination",
+      "Bibliography and material":"Del Pedro M., Pahud P., Mécanique vibratoire - Systèmes discrets linéaires, PPUR, Lausanne, 2003, ISBN 2-88074-243-9. Lecture notes. The simulation tool can be downloaded.",
+      "Required prior knowledge":"[li]Apply the concepts of rigid and deformable body mechanics and of continuum mechanics to model and solve analytically problems of statics, structural stress analysis or simple mechanisms, S1 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Apply the principle of statics and structural mechanics to analyse and design assemblies of simple mechanical elements in the framework of statics and buckling. Compute thermal stresses for simple cases, S2 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Physique générale I et II",
+      "Content":"The course first focuses on the vibratory behaviour of discrete or numerically or experimentally discretised systems. The free, forced and harmonic motion of a single-degree-of-freedom oscillator is analysed and the corresponding complex, operational and time admittance, as well as the complex response function, are extracted from the system. The two-degree-of-freedom oscillator is then studied and the coupling between the two degrees of freedom is carefully investigated. The study is generalised to the analysis of the multi-degree-of-freedom oscillator under conservative or dissipative (proportional and general viscous damping), free or forced, motion. In a second part, the course is oriented towards the vibratory behaviour of second-order continuous systems like cables under transverse vibrations, bars under longitudinal vibrations or shafts under torsional vibrations. The analysis is then extended to fourth-order continuous systems such as beams subjected to bending vibrations. Finally, the course gives a brief overview of the elementary non-linear oscillator by investigating the different sources of non-linearity, by describing the free and forced motion of the non-linear system and by discussing some solution methods of time and frequency integration.",
+      "Keywords":"Oscillator, Vibrations, Dynamics, Modal Analysis",
+      "Type of teaching":"Ex cathedra with weekly exercises. The vibratory behaviour of the different oscillators will be regularly simulated numerically and the modal analysis of a real structure will be performed.",
+      "Learning outcomes":"[b]Domain Skills:[/b][br/][li]Apply the concepts of structural dynamics to predict and optimize the vibration (free or forced, conservative or damped) behaviour of multiple-degree-of-freedom or continuum systems, S3[br/][b]Transversal skills:[/b][br/][li]Self-assessment of acquired skills, T2[br/][li]Take notes effectively, T3[br/][li]Be perseverant through difficulties, T15[br/][li]Improve skills continuously, T23"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mechanical vibrations",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-243-9&amp;con_lng=ENG\" target=\"blank\">Mécanique vibratoire : systèmes discrets linéaires / Michel Del Pedro, Pierre Pahud</a>\". Year:2003. ISBN:2-88074-243-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105270",
+      "name":"Gmür Thomas"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"[li]Appliquer les concepts de la mécanique des solides rigides et déformables et de la mécanique des milieux continus pour modéliser et résoudre analytiquement des problèmes de statique et d'analyse de contraintes d'éléments de structures ou de mécanismes simples, S1 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Appliquer les principes de la statique et de la mécanique des structures pour l'analyse et le dimensionnement en statique et en flambage d'assemblage d'éléments mécaniques simples. Calculer les contraintes d'origine thermique dans des cas simples, S2 (Mécanique des structures I et II, Mécanique des milieux continus)[br/][li]Physique générale I et II",
+      "Bibliographie et matériel":"Del Pedro M., Pahud P., Mécanique vibratoire - Systèmes discrets linéaires, PPUR, Lausanne, 2003, ISBN 2-88074-243-9. Notes polycopiées. L'outil de simulation numérique peut être téléchargé.",
+      "Mots clés":"Oscillateur, Vibrations, Dynamique, Analyse modale",
+      "Forme d'enseignement":"Ex cathedra avec exercices hebdomadaires. Des simulations numériques du comportement vibratoire des différents oscillateurs seront régulièrement présentées et une démonstration de l'analyse modale d'une structure réelle est prévue.",
+      "Contenu":"Le cours s'intéresse dans un premier temps au comportement vibratoire des systèmes discrets ou discrétisés numériquement ou expérimentalement. Il commence par aborder les régimes libre, forcé et permanent de l'oscillateur élémentaire à un degré de liberté et passe en revue les admittances complexe, opérationnelle et temporelle de l'oscillateur, ainsi que sa réponse complexe en fréquence. Est étudié ensuite l'oscillateur à deux degrés de liberté, qui se caractérise par l'influence du couplage entre les deux degrés de liberté. Ce système vibratoire ouvre la voie à l'oscillateur généralisé à n degrés de liberté conservatif, dissipatif à amortissement proportionnel ou dissipatif à amortissement visqueux général, en régimes libre ou forcé. Le cours s'attache dans un second temps au comportement vibratoire des systèmes continus du deuxième ordre, tels que les cordes en vibrations latérales, les barres en vibrations axiales ou les arbres en vibrations de torsion. L'étude se poursuit sur les systèmes continus du quatrième ordre comme les poutres en vibrations de flexion. Enfin, le cours présente une brève introduction à l'oscillateur élémentaire non linéaire et s'attarde aux causes des non-linéarités, au comportement libre et forcé du système non linéaire et à quelques méthodes de résolution.",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Appliquer les concepts de la dynamique des structures pour prédire  et optimiser le comportement vibratoire, libre ou forcé, conservatif ou amorti de systèmes continus ou à plusieurs degrés de liberté, S3[br/][b]Compétences transversales:[/b][br/][li]Evaluer sa formation en termes de compétences acquises, T2[br/][li]Prendre des notes de manière efficace, T3[br/][li]Montrer de la persévérance en dépit des obstacles, T15[br/][li]Développer ses compétences de manière continue, T23"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Mécanique vibratoire",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-243-9&amp;con_lng=FRE\" target=\"blank\">Mécanique vibratoire : systèmes discrets linéaires / Michel Del Pedro, Pierre Pahud</a>\". Année:2003. ISBN:2-88074-243-9</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

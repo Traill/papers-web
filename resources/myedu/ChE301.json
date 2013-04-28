@@ -1,0 +1,81 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4149838&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ChE","301"],
+    "title":"Transfert phenomenes I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=4149838&ww_x_anneeAcad=2012-2013&ww_i_section=925516681&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-BIOTECH",
+    "program":"CGC",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/112631",
+      "name":"Foti György"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"to become familiar wiht the theoretical approaches used in the quantitative study of the fundamental physical phenomena of chemical engineering.",
+      "Content":"[br/][li] Mass balance [br/][li] Continuity equation[br/][li] Equation of molecular fluxes [br/][li] Convective transport[br/][li] Momentum balance[br/][li] Navier Stokes equation[br/][li] Non-Newtonian flow[br/][li] Euler and Bernoulli equations[br/][li] Irrational flow[br/][li] Pressure drops[br/][li] Moody diagram[br/][li] Heat transfer"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Transfert phenomenes I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104807",
+      "name":"Comninellis Christos"
+    },{
+      "url":"http://people.epfl.ch/112631",
+      "name":"Foti György"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"Enseignement partiel du module Biotechnologie ",
+      "Prérequis":"Le cours nécessite les connaissances de: Introduction au génie chimique",
+      "Bibliographie et matériel":"Cours polycopié, ouvrages conseillés",
+      "Forme d'enseignement":"Cours avec exercices intégrés",
+      "Contenu":"[br/][li] Bilan massique [br/][li] Equation de continuité[br/][li] Equation de flux moléculaire[br/][li] Transport convective[br/][li] Bilan de moment [br/][li] Equation de Navier Stokes[br/][li] Ecoulement non-Newtonien[br/][li] Equation d'Euler et Bernoulli[br/][li] L'écoulement irrotationnel[br/][li] Perte de charge[br/][li] Diagramme de Moody[br/][li] Transfert de chaleur ",
+      "Forme du contrôle":"Contrôle continu",
+      "Préparation pour":"\"Phénomènes de transfert II\"",
+      "Objectifs d'apprentissage":"Se familiariser avec les approches théoriques utilisées pour l'étude quantitative de phénomènes physiques fondamentaux en génie chimique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Phénomènes de transfert I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

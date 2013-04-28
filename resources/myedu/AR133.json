@@ -1,0 +1,73 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775332&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=fr",
+    "code":["AR","133"],
+    "title":"Building physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775332&ww_x_anneeAcad=2012-2013&ww_i_section=942293&ww_i_niveau=&ww_c_langue=en",
+    "section":"AR",
+    "program":"AR",
+    "plan":"prop"
+  },
+  "en":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106368",
+      "name":"Scartezzini Jean-Louis"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"At the end of the semester the students will be able to:[br/][br/][li]determine the sun path for any given latitude;[br/][br/][li]draw building shadows and determine the appropriate size of sun shades;[br/][br/][li]use a psychrometric diagram (relative humdity, dew point);[br/][br/][li]calculate orders of magnitude of wind pressure on building envelopes;[br/][br/][li]calculate the thermal resistance (and U value) of a multi layers wall;[br/][br/][li]identify weaknesses in the thermal insulation of buildings;[br/][br/][li]build-up comfort zones using different diagrams.[br/][br/]",
+      "Content":"Building-environment interactions: the sun, wet air, wind impacts, hygrothermal comfort.[br/][br/]Heat transfer principles: conduction, convection, radiation, evaporation and condensation.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Building physics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  },
+  "fr":{
+    "coefficient":0.5,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/106368",
+      "name":"Scartezzini Jean-Louis"
+    }],
+    "lab":null,
+    "credits":null,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Cours polycopié. Illustrations architecturales.",
+      "Forme d'enseignement":"Cours ex cathedra. Démonstrations. Website.",
+      "Contenu":"Interaction bâtiment-environnement: le soleil, l'air humide, les effets du vent, le confort hygrothermique.[br/]Base des échanges thermiques: conduction, convection, rayonnement, évaporation et condensation.[br/]",
+      "Forme du contrôle":"Examen écrit de fin de semestre.",
+      "Préparation pour":"Physique du bâtiment II et théorie et critique du projet. Cycle Bachelor. Unités d'enseignement.",
+      "Objectifs d'apprentissage":"A la fin du semestre, l'étudiant(e) sera à même de:[br/][br/][li]déterminer la course solaire à toute latitude;[br/][br/][li]construire les ombres portées et dimensionner une protection solaire;[br/][br/][li]utiliser une table psychométrique (HR, point de rosée);[br/][br/][li]calculer l'ordre de grandeur des pressions autour d'un bâtiment (effet du vent);[br/][br/][li]calculer la résistance thermique (et la valeur U) d'un élément multicouche;[br/][br/][li]identifier les ponts thermiques en plan et en coupe;[br/][br/][li]construire la zone de confort hygrothermique.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique du bâtiment I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":12
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":12
+    }
+  }
+}

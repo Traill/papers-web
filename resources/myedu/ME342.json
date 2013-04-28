@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774387&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ME","342"],
+    "title":"Introduction to turbomachinery",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774387&ww_x_anneeAcad=2012-2013&ww_i_section=84482827&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-ENER",
+    "program":"GM",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    },{
+      "url":"http://people.epfl.ch/106017",
+      "name":"Ott Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"By using the modern fundamental engineering methods, to know how to properly design the primary components of a turbomachine while taking into account such important considerations as performance, durability, pollution and cost. In each chapter, the basic theories and principles are first explained, followed by discussions of practical applications as well as step-by-step descriptions of some typical examples.",
+      "Content":"[b]I HYDRAULIC TURBOMACHINERY[/b][br/]1.\tIntroduction to the hydraulic machine domain, main uses, driving or receiving machines. [br/]2.\tHydraulic characteristics of a piping system, discharge, specific energy of a cross section, energetic losses. [br/]3.\tMotion in a rotating frame of reference: velocity polygon, 1st integral of the moment of momentum of the relative flow, application to the Pelton turbine runner. [br/]4.\tWork received/done by a runner/impeller: Euler equation, hydraulic characteristics of a runner/impeller.[br/]5.\tElementary design of a runner/impeller of a Francis pump-turbine, a wind turbine or a propeller. [br/][b]II THERMAL TURBOMACHINERY[/b][br/]1.\tIntroduction: development, types and use of turbomachines, trends in  development, economical aspects.[br/]2.\tPrinciples of operation: equation of energy in the absolute and relative systems, work in the ideal and real turbomachine, efficiency, principles of gas turbine operation.[br/]3.\tElementary theory of axial and radial turbines: elementary calculation of turbines.[br/]4.\tElementary theory of axial and radial compressors: elementary calculation of compressors.[br/]5.\tCharacteristics of turbomachinery operation.[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction to turbomachinery",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104417",
+      "name":"Avellan François"
+    },{
+      "url":"http://people.epfl.ch/106017",
+      "name":"Ott Peter"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Mécanique des fluides, Transfert de chaleur et de masse, Science des matériaux, Dynamique appliquée, Construction",
+      "Bibliographie et matériel":"cours polycopiés",
+      "Forme d'enseignement":"ex cathedra avec exercices",
+      "Contenu":"[b]I TURBOMACHINES HYDRAULIQUES[/b][br/]1.\tIntroduction au machines hydrauliques, applications principales, machines réceptrices ou motrices. [br/]2.\tCaractéristiques hydrauliques d'un circuit : débit, énergie massique d'une section, pertes énergétiques.[br/]3.\tMouvement en repère tournant : triangle des vitesses, intégrale première de la quantité de mouvement dans le repère relatif, application à la roue de turbine Pelton.[br/]4.\tTravail d'une roue : équation d'Euler, caractéristiques hydrauliques d'une roue en mode pompe ou turbine.[br/]5.\tTracé élémentaire d'une roue de pompe-turbine, d'éolienne ou de propulseur.[br/][b]II TURBOMACHINES THERMIQUES[/b][br/]1.\tIntroduction : Développement, types et utilisation des turbomachines, tendances de développement, aspects économiques.[br/]2.\tPrincipe de fonctionnement : Équation d'énergie dans le système absolu et relatif, travail dans la turbomachine parfaite et réelle, rendement, principe de fonctionnement des turbines à gaz.[br/]3.\tThéorie élémentaire des turbines axiales et radiales : calcul élémentaire des turbines.[br/]4.\tThéorie élémentaire des turbines axiales et radiales : calcul élémentaire des compresseurs.[br/]5.\tCaractéristiques de fonctionnement des turbomachines.",
+      "Forme du contrôle":"écrit",
+      "Préparation pour":"Turbomachines hydrauliques, Turbomachines \tthermiques",
+      "Objectifs d'apprentissage":"Savoir dimensionner les éléments importants des turbomachines en tenant compte de tous les aspects majeurs (écoulement, résistance, nuisances, économie) et en appliquant les bases modernes du travail de l'ingénieur. Dans les différents chapitres les bases théoriques sont expliquées et ensuite des solutions pratiques discutées et des exemples typiques calculés."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Introduction aux turbomachines",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

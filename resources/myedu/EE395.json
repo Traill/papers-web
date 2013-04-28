@@ -1,0 +1,87 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499339552&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["EE","395"],
+    "title":"Lab in information technologies",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1499339552&ww_x_anneeAcad=2012-2013&ww_i_section=943936&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"EL",
+    "program":"EL",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107296",
+      "name":"Gaumier Christian"
+    },{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    },{
+      "url":"http://people.epfl.ch/118757",
+      "name":"Perruisseau-Carrier Julien"
+    },{
+      "url":"http://people.epfl.ch/106544",
+      "name":"Thévenaz Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Get familiar with experimental aspects of the main domains of the orientation \"Information and communication technologies\" (ICT)",
+      "Content":"The teaching labs cover the following topics:[br/]-\tAntennas, waves and acoustics[br/]-\tPhotonics[br/]-\tDigital signal processing[br/]-\tTelecommunications[br/]",
+      "Type of teaching":"Teaching labs",
+      "Prerequisite for":"Master in electrical engineering[br/]",
+      "Form of examination":"During the semester"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"Lab in information technologies",
+    "recitation":null,
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/107296",
+      "name":"Gaumier Christian"
+    },{
+      "url":"http://people.epfl.ch/157878",
+      "name":"Lissek Hervé"
+    },{
+      "url":"http://people.epfl.ch/118757",
+      "name":"Perruisseau-Carrier Julien"
+    },{
+      "url":"http://people.epfl.ch/106544",
+      "name":"Thévenaz Luc"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Travaux pratiques[br/]",
+      "Contenu":"Les TP concernent les branches suivantes :[br/]-\tAntennes, ondes et acoustique[br/]-\tPhotonique[br/]-\tTraitement numérique du signal[br/]-\tTélécommunications[br/]",
+      "Forme du contrôle":"Pendant le semestre",
+      "Préparation pour":"Master en génie électrique[br/]",
+      "Objectifs d'apprentissage":"Se familiariser avec les aspects pratiques des disciplines de l'orientation \"Technologies d'information et de communication\"(TIC)"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"Français",
+    "title":"TP en technologies de l'information",
+    "recitation":null,
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":null
+  }
+}

@@ -1,6 +1,6 @@
 package paper
 
-case class MeasureCluster[A <: DataItem](docs : Map[String, Document[A]], name : String) {
+case class MeasureCluster(docs : Map[String, Document], name : String) {
 
   // returns the clustering of the given name (louvain, spectral2, spectral3, etc)
   def getCluster(id : String) : Int = docs(id).cluster(name)

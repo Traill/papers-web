@@ -1,0 +1,67 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597627987&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","666"],
+    "title":"Practical - Blokesch Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597627987&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://blokesch-lab.epfl.ch/","http://blokesch-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192269",
+      "name":"Blokesch Melanie"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"How to look at tiny things: visualizing protein localization in bacteria using epifluorescence microscopy.",
+      "Content":"Theory:[br/][br/]Basics on protein localization in bacteria.[br/][br/]Practical part:[br/][br/]Preparing bacteria for microscopy.[br/]Staining methods to visualize bacteria.[br/]Epifluorescence microscopy.[br/]Comparison of protein localization depending on protein levels (varying artifical induction).[br/]Basic image analysis (MicrobeTracker).[br/]Independent analysis of an unknown bacterium for cell shape and potential localized fluorescently labeled proteins.",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Doctoral students from the Blokesch laboratory cannot take this course. Access is limited to 3-4 students."
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Blokesch Lab",
+    "recitation":null,
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://blokesch-lab.epfl.ch/","http://blokesch-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/192269",
+      "name":"Blokesch Melanie"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three of EDMS practical modules. Doctoral students from the Blokesch laboratory cannot take this course. Access is limited to 3-4 students.",
+      "Contenu":"Theory:[br/][br/]Basics on protein localization in bacteria.[br/][br/]Practical part:[br/][br/]Preparing bacteria for microscopy.[br/]Staining methods to visualize bacteria.[br/]Epifluorescence microscopy.[br/]Comparison of protein localization depending on protein levels (varying artifical induction).[br/]Basic image analysis (MicrobeTracker).[br/]Independent analysis of an unknown bacterium for cell shape and potential localized fluorescently labeled proteins.",
+      "Objectifs d'apprentissage":"How to look at tiny things: visualizing protein localization in bacteria using epifluorescence microscopy."
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Blokesch Lab",
+    "recitation":null,
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

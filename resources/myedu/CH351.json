@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773347&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["CH","351"],
+    "title":"Molecular dynamics & Monte-Carlo simulations",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1773347&ww_x_anneeAcad=2012-2013&ww_i_section=236572097&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MA-CO",
+    "program":"CGC",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150117",
+      "name":"Röthlisberger Ursula"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Introduction to molecular dynamics and Monte-Carlo simulation methods.[br/]",
+      "Content":"[li] Time-dependent Schrödinger equation[br/][br/][li] Statistical mechanics[br/][br/][li] Short introduction to statistical mechanics[br/][br/][li] Molecular Dynamics simulation[br/][br/][li] Monte Carlo simulation[br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Molecular dynamics & Monte-Carlo simulations",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"During the semester",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/150117",
+      "name":"Röthlisberger Ursula"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices sur ordinateur",
+      "Contenu":"[li] Equation de Schrödinger dépendante du temps[br/][br/][li] Mécanique statistique[br/][br/][li] Simulation par dynamique moléculaire [br/][br/][li] Simulation par Monte Carlo[br/]",
+      "Remarque":"Enseignement partiel du module Chimie computationnelle",
+      "Objectifs d'apprentissage":"Introduction aux méthodes de simulation dites de dynamique moléculaire et de Monte Carlo."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Dynamique moléculaire et simulation Monte-Carlo",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Pendant le semestre",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":1,
+      "weeks":14
+    }
+  }
+}

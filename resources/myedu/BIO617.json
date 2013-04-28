@@ -1,0 +1,83 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23959771&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIO","617"],
+    "title":"Practical - Gönczy Lab",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=23959771&ww_x_anneeAcad=2012-2013&ww_i_section=18351702&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDMS",
+    "program":"EDMS",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://gonczy-lab.epfl.ch/","http://gonczy-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181956",
+      "name":"Afshar Katayoun"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    },{
+      "url":"http://people.epfl.ch/182723",
+      "name":"Hamel Hachet Virginie"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"C. elegans[br/][br/]Give students a feel for some of the approaches pursued to understand mechanisms underlying cell division processes in [i]C. elegans [/i] embryos.",
+      "Content":"Students will get one mystery mutant strain and one mystery RNAi condition.  Each student will perform three types of experiments (DIC time-lapse recordings, dual DIC and GFP time-lapse recordings, indirect immunofluorescence microscopy) that should allow them to formulate a reasonable hypothesis about the function of the two mystery genes by the end of the three days.",
+      "Keywords":"Cell division, [i]C. elegans[/i], developmental biology, genetics, functional genomics.",
+      "Note":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules.  Note also that doctoral students from the Gönczy laboratory cannot take this course. Acces is limited to 4 students. ",
+      "Required prior knowledge":"None. "
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Gönczy Lab",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://gonczy-lab.epfl.ch/","http://gonczy-lab.epfl.ch/"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/181956",
+      "name":"Afshar Katayoun"
+    },{
+      "url":"http://people.epfl.ch/168676",
+      "name":"Gönczy Pierre"
+    },{
+      "url":"http://people.epfl.ch/182723",
+      "name":"Hamel Hachet Virginie"
+    }],
+    "lab":null,
+    "credits":1,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Note that while the course is open to all first year EPFL doctoral students, priority will be given to EDMS students, given that they are mandated to take three EDMS practical modules.  Note also that doctoral students from the Gönczy laboratory cannot take this course. Acces is limited to 4 students. ",
+      "Contenu":"Students will get one mystery mutant strain and one mystery RNAi condition.  Each student will perform three types of experiments (DIC time-lapse recordings, dual DIC and GFP time-lapse recordings, indirect immunofluorescence microscopy) that should allow them to formulate a reasonable hypothesis about the function of the two mystery genes by the end of the three days.",
+      "Mots clés":"Cell division, [i]C. elegans[/i], developmental biology, genetics, functional genomics.",
+      "Prérequis":"None. ",
+      "Objectifs d'apprentissage":"C. elegans[br/][br/]Give students a feel for some of the approaches pursued to understand mechanisms underlying cell division processes in [i]C. elegans [/i] embryos."
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Practical - Gönczy Lab",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":6
+    }
+  }
+}

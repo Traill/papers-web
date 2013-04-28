@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775372&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","309"],
+    "title":"Solid state physics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775372&ww_x_anneeAcad=2012-2013&ww_i_section=945571&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"PH",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104651",
+      "name":"Brune Harald"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The course provides an introduction into the phenomenology and theoretical concepts of condensed matter physics",
+      "Content":"[b]The Drude model of metals:[/b] DC electrical conductivity, Hall effect, AC electrical conductivity, thermal conductivity.[br/][br/][b]The Fermi free electron gas:[/b] ground-state and thermal properties of the free electron gas, Pauli paramagnetism, Sommerfelf theory of conduction in metals.[br/][br/][b]Lattice dynamics:[/b] normal modes of a monoatomic Bravais lattice in 1 and 3 dimensions, 3-dimensional lattice with a basis, quantification of elastic waves, neutron scattering by a crystal.[br/][br/][b]Thermal properties in relation with phonon:[/b] specific heat of the lattice, models of Debye and Einstein, anharmonic effects.[br/][br/]The lecture is accompanied by an introduction to crystallography in real and reciprocal space, and we introduce Fermi-Dirac and Bose-Einstein statistics. The first subject is treated in much more detail in a specialized lecture which, we highly recommend. The second is treated in the second semester of the lecture on statistical Physics.[br/]",
+      "Type of teaching":"Ex cathedra and exercises in class",
+      "Prerequisite for":"Solid State Physics III, IV",
+      "Form of examination":"Oral exam in French, English or German (100%)"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Solid state physics I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-711-0&amp;con_lng=ENG\" target=\"blank\">Introduction to condensed matter physics / Feng Duan [and] Jin Guojun</a>\". Year:2005. ISBN:981-238-711-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-049710-2&amp;con_lng=ENG\" target=\"blank\">Physique de l'état solide / Charles Kittel; trad. par Nathalie Bardou ... [et al.]</a>\". Year:2007. ISBN:978-2-10-049710-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-577-5&amp;con_lng=ENG\" target=\"blank\">Physique des solides / N. W. Ashcroft, N. D. Mermin ; trad. par Franck Biet, Hamid Kachkachi</a>\". Year:2002. ISBN:2-86883-577-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-43870-X&amp;con_lng=ENG\" target=\"blank\">Solid-state physics : an introduction to principles of materials science / Harald Ibach, Hans Lüth</a>\". Year:2003. ISBN:3-540-43870-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104651",
+      "name":"Brune Harald"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Bibliographie et matériel":"Notes polycopiées distribuées et sur web[br/][li] N.W. Ashcroft and N.D. Mermin, Solid State Physics, Holt Saunders Int. Ed. 1976, Physique des Solides, EDP-Sciences 2002[br/][li] Ch. Kittel, Physique de l'état solide, Dunod 2005[br/][li] H. Ibach-H. Lüth : Solid State Physics, Springer, Ed. 1991[br/][li] F. Duan and J. Guojun, Introduction to Condensed Matter Physics, World Scientific Publishing 2005",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"[b]Le modèle de Drude pour les métaux :[/b] conductibilité électrique DC, l'effet Hall, conductibilité électrique AC, conductibilité thermique.[br/][br/][b]Les gaz d'électrons libres de Fermi :[/b] état fondamental du gaz électronique, propriétés thermiques, la susceptibilité paramagnétique de Pauli, la théorie de Sommerfeld de la conduction dans les métaux.[br/][br/][b]La dynamique du réseau :[/b] modes normaux d'un réseau de Bravais monoatomique à une et à 3 dimensions, réseau avec une base, quantification des ondes élastiques, diffraction des neutrons par un cristal.[br/][br/][b]Propriétés thermiques en relation avec les phonons :[/b] chaleur spécifique du réseau, modèles de Debye et Einstein, effets anharmoniques.[br/][br/]Le cours est accompagné d'une introduction à la structure cristalline dans l'espace direct et réciproque et d'une introduction à la statistique de Fermi-Dirac et de Bose Einstein. La cristallographie est l'objet d'un cours spécialisé que nous recommandons. Les fonctions statistiques sont traitées au deuxième semestre du cours Physique statistique. ",
+      "Forme du contrôle":"Examen oral en français, anglais ou  allemand (100%)",
+      "Préparation pour":"Physique du solide III, IV",
+      "Objectifs d'apprentissage":"L'étudiant sera amené à se familiariser avec les phénomènes physiques observés dans les solides et avec les modèles théoriques utiles à leur interprétation."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique du solide I",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=981-238-711-0&amp;con_lng=FRE\" target=\"blank\">Introduction to condensed matter physics / Feng Duan [and] Jin Guojun</a>\". Année:2005. ISBN:981-238-711-0</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-10-049710-2&amp;con_lng=FRE\" target=\"blank\">Physique de l'état solide / Charles Kittel; trad. par Nathalie Bardou ... [et al.]</a>\". Année:2007. ISBN:978-2-10-049710-2</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-86883-577-5&amp;con_lng=FRE\" target=\"blank\">Physique des solides / N. W. Ashcroft, N. D. Mermin ; trad. par Franck Biet, Hamid Kachkachi</a>\". Année:2002. ISBN:2-86883-577-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-43870-X&amp;con_lng=FRE\" target=\"blank\">Solid-state physics : an introduction to principles of materials science / Harald Ibach, Hans Lüth</a>\". Année:2003. ISBN:3-540-43870-X</li></ul>",
+    "lecture":{
+      "week_hours":3,
+      "weeks":14
+    }
+  }
+}

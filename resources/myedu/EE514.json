@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241606295&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["EE","514"],
+    "title":"Brain-computer interaction",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=241606295&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"EL",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149175",
+      "name":"Millán Ruiz José del Rocío"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Bibliography and material":"- Dornhege, G. Millán, J. del R., Hinterberger, T., McFarland, D.J., and Müller, K.-R. (eds.) (2007). Towards Brain-Computing Interfacing. Cambridge, MA: MIT Press"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Brain-computer interaction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-04244-4&amp;con_lng=ENG\" target=\"blank\">Towards brain-computer interfacing / ed. by Guido Dornhege ... [et al.] ; foreword by Terrence J. Sejnowski</a>\". Year:2007. ISBN:978-0-262-04244-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/149175",
+      "name":"Millán Ruiz José del Rocío"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Contenu":"1. Introduction + Overview[br/]2. Basic Neurology: Motor Control & Emotion[br/]3. Peripheral Neuroprosthesis[br/]4. Analysis of Multiunit Recordings[br/]5. Electroencephalogram (EEG)[br/]6. Estimation of Intracranial Sources from EEG[br/]7. EEG-based BCIs: Selected Applications[br/]8. Advanced Issues in EEG-based BCIs[br/]9. Emotion Recognition from Autonomic Signals[br/]10. EEG Correlates of Emotion[br/][br/]Laboratory exercises & Take-home project:[br/]   1. Students will run experiments on acquisition of different kinds of physiological signals and analyze different phenomena.[br/]   2. Recognition of mental states from invasive and non-invasive brain signals[br/][br/]",
+      "Mots clés":"human-computer interaction, brain-computer interfaces, pattern recognition, human physiological signals, neuroscience",
+      "Forme du contrôle":"Oral exam and project report",
+      "Bibliographie et matériel":"- Dornhege, G. Millán, J. del R., Hinterberger, T., McFarland, D.J., and Müller, K.-R. (eds.) (2007). Towards Brain-Computing Interfacing. Cambridge, MA: MIT Press",
+      "Objectifs d'apprentissage":"The goal of this course is to introduce a new and fast-evolving field of direct interaction between the human neural system and machines aiming to augment human capabilities by enabling people (especially disabled) to communicate and control devices by mere \"thinking\". The course will cover different kinds of physiological signals (from muscular activity to brain waves) and the algorithms for recognizing the subject's intent as well as a variety of emotional/cognitive states."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Brain computer interaction",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-262-04244-4&amp;con_lng=FRE\" target=\"blank\">Towards brain-computer interfacing / ed. by Guido Dornhege ... [et al.] ; foreword by Terrence J. Sejnowski</a>\". Année:2007. ISBN:978-0-262-04244-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

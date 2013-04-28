@@ -1,0 +1,72 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47241891&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["EE","530"],
+    "title":"Test of VLSI systems",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=47241891&ww_x_anneeAcad=2012-2013&ww_i_section=48121016&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MNIS",
+    "program":"EL",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=293","http://moodle.epfl.ch/course/view.php?id=293"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108571",
+      "name":"Schmid Alexandre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Fall",
+    "free_text":{
+      "Form of examination":"Written with a mandatory continuous control midterm",
+      "Prerequisite for":"Microinformatics (MICRO-315), projects",
+      "Required prior knowledge":"Basics of VLSI, digital systems",
+      "Content":"This course covers the analysis and implementation of test techniques for digital VLSI. Regular class lectures form the core of the course.[br/][br/]Introduction to test theory[br/]Introductory topics cover the role of testing, automatic test equipment and an overview of the economics of test.[br/][br/]Test methods[br/]In a second part, fault modeling and test methods are studied. The major topics that will be considered are related to fault simulation, automatic test-pattern generation (significant combinational and sequential ATPG algorithms), measures of testability and miscellaneous test methods. Industry popular models and algorithms are presented and exercised. [br/][br/]Design for testability[br/]A third part sets the focus on design for test (DFT) techniques. Tackled topics include scan design, built-in-self-testing (BIST - LFSR and signatures) and the Boundary-Scan standard (JTAG). Testing of memory circuits is also presented.[br/]Aside from theoretical lectures, a number of course modules are devoted to in-class guided exercise sessions, and hand-on computer laboratory sessions, which take place along the semester and complement with a practical-oriented presentation of the topics.[br/]",
+      "Type of teaching":"Ex cathedra and practical exercises",
+      "Learning outcomes":"Upon completing this course, students shall have a theoretical understanding of popular VLSI testing algorithms, and shall be able to incorporate appropriate testing techniques into various phases of VLSI development. Students shall acquire a basic knowledge of  test EDA software tools and their integration in a global design-flow.[br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Test of VLSI systems",
+    "recitation":null,
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7923-7991-8&amp;con_lng=ENG\" target=\"blank\">Essentials of electronic testing for digital, memory, and mixed-signal VLSI circuits / Michael L. Bushnell, Vishwani D. Agrawal</a>\". Year:2000. ISBN:0-7923-7991-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=293","http://moodle.epfl.ch/course/view.php?id=293"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/108571",
+      "name":"Schmid Alexandre"
+    }],
+    "lab":null,
+    "credits":2,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Notions de VLSI, systèmes logiques",
+      "Bibliographie et matériel":"Notes de cours /lecture notes; (M. L. Bushnell, V. D. Agrawal, Essentials of Electronic Testing, Springer, 2000).",
+      "Forme d'enseignement":"Ex cathedra et travaux pratiques",
+      "Contenu":"Ce cours couvre l'analyse et l'implémentation de techniques de test des systèmes VLSI numériques. L'essentiel de l'enseignement  est constitué de cours présentés en classe. [br/][br/]Introduction à la théorie du test[br/]Les sujets d'introduction couvrent le rôle du test, les équipements de test automatique et un survol de l'économie du test.[br/][br/]Méthodes de test[br/]Dans une deuxième partie, les modèles de fautes et les méthodes de test sont étudiées. Les principaux sujets abordés comprennent la simulation de fautes, la génération automatique de vecteurs de test (principaux algorithmes ATPG combinatoires et séquentiels), la mesure de testabilité, ainsi que diverses méthodes additionnelles. Les principales méthodes et algorithmes appliqués en industrie sont présentés et entraînés.[br/][br/]Conception en vue du test[br/]La troisième partie du cours est focalisée sur les techniques de conception en vue du test (DFT). Les sujets abordés comprennent le chemin de scan, l'auto-test intégré (BIST - LFSR et signatures), et le standard Boundary-Scan (JTAG). Le test de circuits de mémoire est également abordé.[br/]Un nombre de modules seront consacrés à des sessions d'exercices assistés en classe, ainsi qu'à des sessions de laboratoires en salle d'ordinateurs tout au long du semestre, visant à présenter un complément pratique aux sujets abordés théoriquement.[br/]",
+      "Forme du contrôle":"Ecrit avec un midterm sous forme de contrôle continu obligatoire",
+      "Préparation pour":"Microinformatique (MICRO-315), projets",
+      "Objectifs d'apprentissage":"Au terme de ce cours, les étudiants auront acquis les connaissances théoriques sur les principaux algorithmes de test VLSI, et seront capables d'incorporer les techniques de test appropriées dans les diverses phases de conception VLSI. Les étudiants acquerront des connaissances de base sur les outils informatiques d'aide à la conception pour le test, ainsi que leur intégration dans un flot de développement global."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Test of VLSI systems",
+    "recitation":null,
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-7923-7991-8&amp;con_lng=FRE\" target=\"blank\">Essentials of electronic testing for digital, memory, and mixed-signal VLSI circuits / Michael L. Bushnell, Vishwani D. Agrawal</a>\". Année:2000. ISBN:0-7923-7991-8</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

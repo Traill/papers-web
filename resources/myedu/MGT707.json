@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80887095&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","707"],
+    "title":"Product lifecycle management - concepts methods and tools",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=80887095&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPR",
+    "program":"EDPR",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course \"Product Lifecycle Management - concepts methods and tools\" studies the concept and application of product lifecycle management over the whole product lifecycle. The principal objective of this course is to provide and improve analytical thinking skills of engineering management of product related data and activities over the whole product lifecycle. Through this course, you will learn the in-depth understanding of lifecycle engineering and a clear recognition of PLM in terms of definition, components, and scope.[br/]This course will present concepts, scope, methods, operational issues, and tools of product lifecycle management. There will be particular emphasis on process and information modeling and decision making through productlifecycle.[br/]",
+      "Content":"The main topics composing this course are the following:[br/]1. Introduction to PLM and related Emerging Technologies[br/]2. Beginning of Lifecycle (BOL) management[br/]3. Middle of Lifecycle (MOL) management[br/]4. End of Lifecycle (EOL) management[br/]5. Information modeling approaches, techniques and tools[br/]\t- Students work in groups on projects using modeling tools on specific industrial case studies[br/]6. Introduction to Petri net modeling and tools including Workflow nets, Coloured Time Petri Nets and Process Planning Petri Nets[br/]\t- Students work in groups on projects using appropriate Petri net tools on specific industrial case studies [br/]7. Best practice of Product Embeded Information Devices (PEID) on a Closed Loop Lifecycle Management industrial case study[br/]",
+      "Keywords":"PLM, product modeling, information modeling, Petri nets, decision making"
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Product lifecycle management - concepts methods and tools",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Oral presentation",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105551",
+      "name":"Kiritsis Dimitris"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"The main topics composing this course are the following:[br/]1. Introduction to PLM and related Emerging Technologies[br/]2. Beginning of Lifecycle (BOL) management[br/]3. Middle of Lifecycle (MOL) management[br/]4. End of Lifecycle (EOL) management[br/]5. Information modeling, two-level Petri nets and stochastic simulation for Modeling, Analysis and Decision Making in PLM[br/]",
+      "Mots clés":"PLM, product modeing, information modeling, decision making",
+      "Objectifs d'apprentissage":"The course \"Product Lifecycle Management - concepts methods and tools\" studies the concept and application of product lifecycle management over the whole product lifecycle. The principal objective of this course is to provide and improve analytical thinking skills of engineering management of product related data and activities over the whole product lifecycle. Through this course, you will learn the in-depth understanding of lifecycle engineering and a clear recognition of PLM in terms of definition, components, and scope.[br/][br/]This course will present concepts, scope, methods, operational issues, and tools of product lifecycle management.  There will be particular emphasis on process and information modeling and decision making through product lifecycle.   "
+    },
+    "practical":{
+      "total_hours":18
+    },
+    "language":"English",
+    "title":"Product lifecycle management - concepts methods and tools",
+    "recitation":{
+      "total_hours":8
+    },
+    "exam_form":"Exposé",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

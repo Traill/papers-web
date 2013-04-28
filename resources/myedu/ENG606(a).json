@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082333&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENG","606(a)"],
+    "title":"Design of experiments (a) - Fall semester",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=3082333&ww_x_anneeAcad=2012-2013&ww_i_section=2142597&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDPR",
+    "program":"EDPR",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105173",
+      "name":"Fuerbringer Jean-Marie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"The course teaches the acquisition of a methodology of designing experiments for optimal quality of the results and of the number of experiments. Specifically the objectives are:[br/][br/][li]To transfer to the student the conceptual basis for designing, performing and analyzing statistical design of experiments[br/][li]To let the student understand the methodology of response surface, with the mathematical concepts that allow the evaluation and the optimization of a matrix of experiments[br/][li]To develop a principle of know-how to evaluate, optimize and analyze design of experiments[br/][li]To develop conceptual understanding of the design of experiments that allows the PhD student to collaborate with statisticians",
+      "Content":"[br/][li]Empirical modeling[br/][li]Model with constant coefficient[br/][li]Model with random coefficients[br/][li]Parametric Model[br/][li]Analysis of variance (Anova)[br/][li]Graeco-latin squares designs[br/][li]Matricial treatment of the multilinear regression[br/][li]Factorial designs[br/][li]Fractional Factorial design[br/][li]Hybrid designs[br/][li]Equiradial designs",
+      "Keywords":"experimental methodology, optimization of experimental plan, applied statistics, empirical models, sensitivity analysis",
+      "Note":"Given during fall semester; 1x/week[br/]",
+      "Required prior knowledge":"Basic statistics, Matrix algebra, Matlab and/or Excel"
+    },
+    "practical":{
+      "total_hours":36
+    },
+    "language":"English",
+    "title":"Design of experiments (a) - Fall semester",
+    "recitation":null,
+    "exam_form":"Project report",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105173",
+      "name":"Fuerbringer Jean-Marie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Remarque":"Given during fall semester; 1x/week",
+      "Contenu":"[br/][li]Empirical modeling[br/][li]Model with constant coefficient[br/][li]Model with random coefficients[br/][li]Parametric Model[br/][li]Analysis of variance (Anova)[br/][li]Graeco-latin squares designs[br/][li]Matricial treatment of the multilinear regression[br/][li]Factorial designs[br/][li]Fractional Factorial design[br/][li]Hybrid designs[br/][li]Equiradial designs",
+      "Mots clés":"experimental methodology, optimization of experimental plan, applied statistics, empirical models, sensitivity analysis",
+      "Prérequis":"Basic statistics, Matrix algebra, Matlab and/or Excel",
+      "Objectifs d'apprentissage":"The course teaches the acquisition of a methodology of designing experiments for optimal quality of the results and of the num-ber of experiments. Specifically the objectives are:[br/][br/][li]To transfer to the student the conceptual basis for designing, performing and analyzing statistical design of experiments[br/][li]To let the student understand the methodology of response surface, with the mathematical concepts that allow the evaluation and the optimization of a matrix of experiments[br/][li]To develop a principle of know-how to evaluate, optimize and analyze design of experiments[br/][li]To develop conceptual understanding of the design of experiments that allows the PhD student to collaborate with statis-ticians"
+    },
+    "practical":{
+      "total_hours":36
+    },
+    "language":"English",
+    "title":"Design of experiments (a) - Fall semester",
+    "recitation":null,
+    "exam_form":"Rapport de TP",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":20
+    }
+  }
+}

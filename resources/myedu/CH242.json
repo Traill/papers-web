@@ -1,0 +1,71 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776887&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CH","242"],
+    "title":"Chemical thermodynamics II",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776887&ww_x_anneeAcad=2012-2013&ww_i_section=246696&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"CGC",
+    "program":"CGC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"Develop a solid base of  thermodynamic theory and treat its  chemical applications.",
+      "Content":"[b]1. Phase equilibria in mixtures[/b][br/]Gibbs phase rule.[br/][br/][b]2. Heterogeneous chemical reactions[/b][br/]Linearly independent reactions in complex systems.[br/][br/][br/][b]3. Ideal solutions[/b][br/]Chemical potential (statistical derivation). Raoult's and Henry's law, separation of compounds in mixtures by distillation, Nernst distribution law and chromatic separation osmotic pressure, boiling point elevation and freezing point depression, eutectic point. [br/][br/][b]4. Real solutions[/b][br/]Standard states, activity coefficients, Phase diagrams, azeotropic mixtures, Gibbs-Duhem's rule, excess functions for the formation of mixtures. [br/][br/][b]5. Regular solutions[/b][br/]Macromolecules (polymers) in solution, Flory Huggin's theory.  [br/][br/][b]6. Chemical reactions in solution[/b][br/]Euqilibirum constants, dependence on pressure and temperature, chemical potential of electrolytes and enthalpy of formation of ions in solution, thermodynamics of physiologically important reactions. [br/][br/][br/][b]7. Basic concepts of irreversible reactions in open systems[/b][br/]Biological applications."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chemical thermodynamics II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58112-771-5&amp;con_lng=ENG\" target=\"blank\">The bases of chemical thermodynamics / Michael Graetzel, Pierre Infelta</a>\". Year:2000. ISBN:1-58112-771-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://scgc.epfl.ch/telechargement_cours_chimie","http://scgc.epfl.ch/telechargement_cours_chimie"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105292",
+      "name":"Graetzel Michael"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra",
+      "Contenu":"[b]1. Équilibre de phases concernant des mélanges[/b][br/]Règle des phases de Gibbs[br/][br/][b]2. Réactions chimiques hétérogènes[/b][br/]Détermination des réactions indépendantes dans des systèmes complexes[br/][br/][b]3. Solutions idéales[/b][br/]Potentiel chimique (dérivation statistique), Loi d'Henry et de Raoult, pression osmotique, séparation de composés d'un mélange par distillation loi de distribution de Nernst, chromatographie, températures de fusion et d'ébullition, point eutectique. [br/][br/][b]4. Solutions réelles[/b][br/]États standard, potentiels chimiques coefficients d'activité, diagrammes de phase, mélanges azéotropes, règle de Gibbs-Duhem, fonction d'excès de formation des mélanges[br/][br/][b]5. Solutions régulières[/b][br/]Macromolécules (polymères) en solution, théorie de Flory-Huggins[br/][br/][b]6. Réactions chimiques en solution[/b][br/]Constante d'équilibre, dépendance de la pression et de température,  potentiel chimiques des électrolytes et enthalpie de formation des ions en solutions, thermodynamiques des réactions chimiques en milieu physiologiques. [br/][br/][b]7. Aperçu de la thermodynamique des processus irréversible impliquant des systèmes ouverts.[/b][br/]Applications biologiques",
+      "Bibliographie et matériel":"M. Graetzel & P. Infelta, The Bases of Chemical Thermodynamics  Vol II.",
+      "Objectifs d'apprentissage":"Développer des bases solides de la théorie thermodynamique et voir leur application."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Thermodynamique chimique II",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=1-58112-771-5&amp;con_lng=FRE\" target=\"blank\">The bases of chemical thermodynamics / Michael Graetzel, Pierre Infelta</a>\". Année:2000. ISBN:1-58112-771-5</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

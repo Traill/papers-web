@@ -1,0 +1,76 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24359768&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","319"],
+    "title":"Lie Algebras",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=24359768&ww_x_anneeAcad=2012-2013&ww_i_section=944590&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MA",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133751",
+      "name":"Testerman Donna"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"The aim is to present the classification of the complex semisimple Lie algebras. This classification has applications to various areas of mathematics, for example Lie groups, algebraic groups and finite reflection groups.[br/]",
+      "Content":"- definitions and first examples[br/]- homomorphisms and ideals[br/]- nilpotent and soluble subalgebras[br/]- Cartan subalgebras[br/]- root systems[br/]- the Cartan decomposition and the classification",
+      "Type of teaching":"Ex cathedra lecture and exercises",
+      "Prerequisite for":"Chevalley Groups",
+      "Required prior knowledge":"Algebra I and II"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Lie Algebras",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"Algèbres de Lie semi-simples complexes / Jean-Pierre Serre\". Year:1966</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-90053-5&amp;con_lng=ENG\" target=\"blank\">Introduction to Lie algebras and representation theory / James E. Humphreys</a>\". Year:2000. ISBN:3-540-90053-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-63832-4&amp;con_lng=ENG\" target=\"blank\">Lie algebras / by Nathan Jacobson</a>\". Year:1979. ISBN:0-486-63832-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50683-4&amp;con_lng=ENG\" target=\"blank\">Simple groups of Lie type / Roger W. Carter</a>\". Year:1989. ISBN:0-471-50683-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/133751",
+      "name":"Testerman Donna"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Algèbre I et II",
+      "Bibliographie et matériel":"Introduction to Lie Algebras and Representation Theory, James. E. Humphreys[br/]Algèbres de Lie Semi-simples Complexes, J-P. Serre.",
+      "Forme d'enseignement":"Cours ex cathedra et exercices",
+      "Contenu":"- définitions et premières exemples[br/]- homomorphisms et idéaux[br/]- sous-algèbres nilpotentes et résolubles[br/]- sous-algèbres de Cartan[br/]- systèmes de racines[br/]- la décomposition de Cartan et la classification",
+      "Préparation pour":"Chevalley Groups",
+      "Objectifs d'apprentissage":"Le but de ce cours est de présenter la classification des algèbres de Lie semi-simples complexes.[br/]Cette classification a des applications dans plusieurs domaines, comme la théorie des groupes de Lie, les groupes algébriques et les groupes de réflexions."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Algèbres de Lie",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"Algèbres de Lie semi-simples complexes / Jean-Pierre Serre\". Année:1966</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=3-540-90053-5&amp;con_lng=FRE\" target=\"blank\">Introduction to Lie algebras and representation theory / James E. Humphreys</a>\". Année:2000. ISBN:3-540-90053-5</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-486-63832-4&amp;con_lng=FRE\" target=\"blank\">Lie algebras / by Nathan Jacobson</a>\". Année:1979. ISBN:0-486-63832-4</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-50683-4&amp;con_lng=FRE\" target=\"blank\">Simple groups of Lie type / Roger W. Carter</a>\". Année:1989. ISBN:0-471-50683-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772412&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["PHYS","400"],
+    "title":"Selected topics in nuclear and particle physics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772412&ww_x_anneeAcad=2012-2013&ww_i_section=132164796&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"PHYS",
+    "program":"PH",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/~bay","http://lphe.epfl.ch/%7Ebay"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122784",
+      "name":"Bay Aurelio"
+    },{
+      "url":"http://people.epfl.ch/179803",
+      "name":"Blanc Frédéric"
+    },{
+      "url":"http://people.epfl.ch/123677",
+      "name":"Tran Minh Tâm"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course aims at introducing and studying several subjects in the field of particle and nuclear physics, some of which are linked to astro-physics. The following subjects will be discussed:[br/]- Neutrino mass and oscillations.[br/]- Motivation and implementation of experiments detecting cosmic neutrinos.[br/]- Cosmologic evidence for \" dark matter \", hypothesis concerning its nature and related research.[br/]- Introduction of the concept of a new status of matter : quark and gluon plasma.[br/][br/]",
+      "Content":"- Neutrino oscillations, MNS matrix.[br/]- Absolute neutrino mass, beta and double beta desintegration experiments. Mass generation mechanism, Majorana and Dirac particles.[br/]- Cosmic neutrinos : origin, energy spectrum and detection. [br/]- Astronomic and cosmologic data on dark matter.[br/]- Relic particles of the \" Big bang\". Candidates for dark matter, link with particle physics beyond the Standard Model.[br/]- Direct and indirect searches of dark matter.[br/]- Quark and gluon plasma. Implications in Astrophysics and Cosmology. Production in ion collisions. Plasma signatures.[br/][br/][br/] ",
+      "Type of teaching":"Ex cathedra and exercises in classrooms",
+      "Form of examination":"oral exam (100%)",
+      "Required prior knowledge":"Nuclear and particle physics I and II, Quantum mechanics I and II[br/]Wished:Elementary particles physics I or Relativistic quantum fields I"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Selected topics in nuclear and particle physics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://lphe.epfl.ch/~bay","http://lphe.epfl.ch/%7Ebay"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/122784",
+      "name":"Bay Aurelio"
+    },{
+      "url":"http://people.epfl.ch/179803",
+      "name":"Blanc Frédéric"
+    },{
+      "url":"http://people.epfl.ch/123677",
+      "name":"Tran Minh Tâm"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours Physique nucléaire et corpusculaire I et II, Physique quantique I et II[br/]Souhaité: Particules élémentaires I ou Relativistic quantum fields I",
+      "Bibliographie et matériel":"Polycopié",
+      "Forme d'enseignement":"Ex cathedra et exercices en classe",
+      "Contenu":"- Oscillations de neutrinos, matrice MNS.[br/]- Masse absolue des neutrinos, expériences de désintégration beta et double beta. Mécanisme de génération des masses, particules de Majorana et Dirac.[br/]- Neutrinos cosmiques : origine, spectre en énergie et détection. [br/]- Données astronomiques et cosmologiques sur la matière noire.[br/]- Particules reliques du big-bang. Candidats pour la matière noire, lien avec la physique des particules au delà du modèle Standard.[br/]- Recherche directe et indirecte de matière noire.[br/]- Le plasma de quarks et gluons. Implications en Astrophysique et[br/]Cosmologie. Production par collision d'ions. Signatures du plasma.[br/]",
+      "Forme du contrôle":"examen oral (100%)",
+      "Préparation pour":"Introduction aux cours de 3ème Cycle.",
+      "Objectifs d'apprentissage":"Ce cours a pour but d'introduire et traiter plusieurs sujets de recherche active en physique des particules et physique nucléaire, en lien avec l'astrophysique pour certains d'entre eux. En particulier, les objectifs sont les suivants :[br/]- Présenter les oscillations et les masses des neutrinos.[br/]- Présenter les motivations et l'implémentation des expériences détectant des neutrinos cosmiques.[br/]- Montrer la nécessité cosmologique de l'existence de la \"matière noire\", les hypothèses concernant sa nature ainsi que les recherches directes et indirectes correspondantes.[br/]- Introduire le concept d'un nouvel état de la matière : le plasma de quarks et gluons. [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Chapitres choisis de physique nucléaire et corpusculaire",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

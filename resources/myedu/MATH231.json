@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775647&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MATH","231"],
+    "title":"Probabilities and statistics I",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775647&ww_x_anneeAcad=2012-2013&ww_i_section=945901&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SV",
+    "program":"MA",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151741",
+      "name":"Goldstein Darlène"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"This course introduces the students to the basics of the calculus of probabilities, statistical modeling and the planning and the analysis of experiments.",
+      "Content":"-  Experiments and measurements, histograms, intuitive concept of distribution[br/]-  Median, quartiles, box plot[br/]-  Uniform density, exponential and normal densities[br/]-  Draws with and without replacement, some combinatorial formulas[br/]-  Independence and conditional probabilities[br/]-  Formula of the total probability, Bayes formula[br/]-  Discrete random variables, expectation and variance, binomial and Poisson distribution[br/]-  Continuous random variables, expectation and variance, moments of higher order[br/]-  Transforming random variables, centering, standardizing.[br/]-  Random vectors, joint distribution, covariance matrix, correlation.[br/]-  Properties of estimators[br/]-  Central Limit Theorem[br/]-  Confidence intervals[br/]-  Hypothesis tests",
+      "Type of teaching":"Ex cathedra lecture and exercises in groups",
+      "Required prior knowledge":"None"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilities and statistics I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-734-3&amp;con_lng=ENG\" target=\"blank\">Introduction à la statistique / Stephan Morgenthaler</a>\". Year:2007. ISBN:978-2-88074-734-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-287-59678-X&amp;con_lng=ENG\" target=\"blank\">Premiers pas en statistique / Yadolah Dodge</a>\". Year:1999. ISBN:2-287-59678-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/151741",
+      "name":"Goldstein Darlène"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Forme d'enseignement":"Cours ex cathedra et exercices en groupes",
+      "Contenu":"-  Essais à résultats incertains, concept intuitif de la répartition[br/]-  Médiane, quartiles, diagramme en boîte[br/]-  Densités : uniforme, exponentielle, normale[br/]-  Tirage sans et avec remise, quelques formules combinatoires[br/]-  Probabilités conditionnelles et indépendance[br/]-  Formule de la probabilité totale, formule de Bayes[br/]-  Variables aléatoires discrètes, espérance et variance, la loi Binomiale et la loi de Poisson[br/]-  Variables aléatoires continues, espérance et variance, moments[br/]-  Transformations de variables aléatoires, centrer et réduire[br/]-  Vecteurs aléatoires, densités conjointes, matrice de covariance, corrélation[br/]-  Propriétés d'estimateurs[br/]-  Théorème Central Limite[br/]-  Intervalles de confiance[br/]-  Tests d'hypothèses",
+      "Prérequis":"aucun",
+      "Bibliographie et matériel":"Yadolah Dodge. Premiers pas en statistique. Springer, 1999.[br/]Stephan Morgenthaler. Introduction à la statistique. PPUR, 2007.",
+      "Objectifs d'apprentissage":"Le cours offre une introduction aux notions de base du calcul des probabilités, à la modélisation statistique et à la planification et l'analyse d'expériences."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Probabilités et statistique I",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-734-3&amp;con_lng=FRE\" target=\"blank\">Introduction à la statistique / Stephan Morgenthaler</a>\". Année:2007. ISBN:978-2-88074-734-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-287-59678-X&amp;con_lng=FRE\" target=\"blank\">Premiers pas en statistique / Yadolah Dodge</a>\". Année:1999. ISBN:2-287-59678-X</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

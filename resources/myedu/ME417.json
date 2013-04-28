@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774162&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=fr",
+    "code":["ME","417"],
+    "title":"Computer-aided engineering",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1774162&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683147&ww_c_langue=en",
+    "section":"MT",
+    "program":"GM",
+    "plan":"master"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112844",
+      "name":"Stroud Ian Anthony"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral examination",
+      "Bibliography and material":"Lecture material and references",
+      "Required prior knowledge":"[li]Geometry",
+      "Content":"The goal of this course is to expose the student to the basic computer-aided modelling concept, methodologies and their application in the area of CAD (computer-aided design).  Feature-based modelling techniques will be presented together with their importance in the interactive design process and for manufacturing.  Furthermore, students will practice their knowledge with modern interactive CAD software,[br/][br/]-\tData structures[br/]-\tModelling operations[br/]-\tNon-manifold topology[br/]-\tFundamentals of feature-based modelling[br/]-\tCAD/CAM data exchange[br/]-\tMechanical assembly modelling",
+      "Keywords":"CAE, boundary-representation modelling, features, data exchange",
+      "Type of teaching":"Course, exercises, tasks and project",
+      "Learning outcomes":"[b]Domain skills:[/b][br/][li]Choose suitable methods and tools for the development, the modelling and simulation, the analysis and solution selection of an engineering problem in the mechanical engineering domain (product design, manufacturing process and system production), CP1 [br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP6 [br/][li]Realize, analyse and discuss a model: 3D complex geometries and assemblies, static, kinematic, dynamic, thermal and ultimate behaviour, life-cycle and costs of a system (product, manufacturing process or production system), CP8 [br/][li]Evaluate the methodological choices for the building of a model and validate the results with respect to the analysis and modelling objectives, CP9 [br/][b]Transversal skills:[/b][br/][li]Document and communicate a project, T12 [br/][li]Differentiate between ideal and feasible, T19 [br/][li]Evaluate the needs for personal development, T22  [br/][li]Share knowledge and experience with peers, T25 [br/]"
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Computer-aided engineering",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/112844",
+      "name":"Stroud Ian Anthony"
+    }],
+    "lab":null,
+    "credits":5,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"[li]Géométrie",
+      "Bibliographie et matériel":"Polycopié et références du cours",
+      "Mots clés":"CFAO, modélisation par frontière, entités, échange des données",
+      "Forme d'enseignement":"Cours, exercices, tâches et projet",
+      "Contenu":"Le but du cours est de transmettre aux étudiants les concepts de base de la modélisation assistée par ordinateur, ainsi que les méthodologies et applications du domaine de la CAO.  Les techniques de modélisation « feature-based » sont présentées, ainsi que leur importance dans le processus de conception interactive et de fabrication.  De plus les étudiants mettent leurs connaissances en pratique avec des logiciels de CAO interactifs et modernes,[br/][br/]-\tStructures des données[br/]-\tOpérations de modélisation[br/]-\tTopologie non-manifold[br/]-\tBases de la modélisation « feature-based »[br/]-\tEchange des données CFAO[br/]-\tModélisation d'assemblages mécaniques",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"[b]Compétences de domaine:[/b][br/][li]Choisir les méthodologies et les outils adéquats pour le développement, la modélisation et simulation, l'analyse et la sélection de solutions à un problème d'ingénierie du domaine du Génie mécanique (conception de produit, processus de fabrication et de systèmes de production), CP1 [br/][li]Poser/extraire les hypothèses de modélisation adaptées et choisir les méthodes et outils en fonction des ressources pour le traitement du problème, CP6[br/][li]Formulate the modelling hypotheses to tackle a problem and choose the respective solution methods and tools considering the available resources, CP8 [br/][li]Evaluer les choix méthodologiques sur la construction du modèle et valider les résultats en fonction des objectifs d'analyse et de modélisation, CP9 [br/][br/][b]Compétences transversales:[/b][br/][li]Documenter et communiquer un projet, T12 [br/][li]Distinguer entre ce qui est idéal et ce qui est réalisable, T19 [br/][li]Evaluer ses besoins de développement, T22 [br/][li]Partager ses connaissances et expériences avec ses pairs, T25 "
+    },
+    "practical":{
+      "week_hours":3,
+      "weeks":14
+    },
+    "language":"English",
+    "title":"Computer-aided engineering",
+    "recitation":null,
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

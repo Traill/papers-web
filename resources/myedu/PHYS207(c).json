@@ -1,0 +1,84 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775462&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","207(c)"],
+    "title":"General physics IV",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775462&ww_x_anneeAcad=2012-2013&ww_i_section=945244&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MT",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3571","http://moodle.epfl.ch/course/view.php?id=3571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109250",
+      "name":"Pasquarello Alfredo"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Optional test (Up to one point of bonus on the basis of this individual test)",
+      "Prerequisite for":"Electromagnetism II",
+      "Required prior knowledge":"Mathematics and physics courses 1st year and third semester[br/]",
+      "Content":"[b]Electromagnetic waves[/b][br/]- Interaction between light and matter: emission and scattering by dipoles[br/]- Geometrical optics: reflection and refraction, spherical mirrors, thin lenses, optical instruments[br/]- Physical optics: optical interference phenomena, diffraction through a slit and a diffraction grating, resolving power, polarized light, and birefringence[br/][br/][b]Quantum mechanics[/b][br/]- The limits of classical physics: black body radiation, photoelectric effect, quantum nature of radiation, Compton effect[br/]- Dual nature (wave-particle) of matter, relations of Louis de Broglie, uncertainty principle[br/]- Wave function and Schrödinger equation: particle in a well, barrier tunneling, atomic structure, emission and absorption of radiation[br/][br/]",
+      "Type of teaching":"Ex cathedra with demonstrations and exercises supervised in class",
+      "Learning outcomes":"To master fundamentals of physical phenomena. To understand and to know how to use mathematical laws of physics which allow to describe and predict phenomena. Application to natural phenomena and technical domains."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"General physics IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-40194-3&amp;con_lng=ENG\" target=\"blank\">Physics / David Halliday, Robert Resnick, Kenneth S. Krane ; with the assistance of Paul Stantley</a>\". Year:2002. ISBN:0-471-40194-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=ENG\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Year:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://moodle.epfl.ch/course/view.php?id=3571","http://moodle.epfl.ch/course/view.php?id=3571"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/109250",
+      "name":"Pasquarello Alfredo"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de mathématiques et physique de 1ère année et 3ème semestre",
+      "Bibliographie et matériel":"Notes de cours ; University Physics, A. Hudson et R. Nelson, Saunders College publish (1990) ; Physics, D. Halliday, R. Resnick, et K. S. Krane Wiley&sons, 5th edition, Volume 2.",
+      "Forme d'enseignement":"Ex cathedra avec présentation d'expériences et exercices dirigés en classe",
+      "Contenu":"[b]Ondes électromagnétiques[/b][br/]- Interaction lumière-matière : émission et diffusion de dipôle[br/]- Optique géometrique : réflexion et réfraction, miroirs sphériques, lentilles minces, instruments d'optique[br/]- Optique physique : les phénomènes d'interférence en optique, diffraction par une fente, un réseau, pouvoir de résolution, la lumière polarisée et la biréfringence[br/][br/][b]Mécanique quantique[/b][br/]- Limites de la physique classique: corps noir, effet photoélectrique, la nature quantique des radiations, effet Compton[br/]- Nature duale (onde-corpuscule) de la matière, relations de Louis de Broglie, principe d'incertitude[br/]- Fonction d'onde et équation de Schrödinger : puits et barrière de potentiel, effet tunnel, structure atomique, émission et absorption de rayonnement[br/]",
+      "Forme du contrôle":"Test facultatif en cours de semestre (jusqu'à un point de bonus sur la base de ce test individuel)",
+      "Préparation pour":"Électromagnétisme II",
+      "Objectifs d'apprentissage":"Connaissances et compréhension des phénomènes physiques et des lois qui les gouvernent. Savoir utiliser l'outil mathématique pour établir un lien entre le phénomène et sa formulation. Mettre en évidence les applications en science et technique."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Physique générale IV",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-471-40194-3&amp;con_lng=FRE\" target=\"blank\">Physics / David Halliday, Robert Resnick, Kenneth S. Krane ; with the assistance of Paul Stantley</a>\". Année:2002. ISBN:0-471-40194-3</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=0-03-046979-1&amp;con_lng=FRE\" target=\"blank\">University physics / Alvin Hudson, Rex Nelson</a>\". Année:1990. ISBN:0-03-046979-1</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

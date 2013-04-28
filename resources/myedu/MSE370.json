@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775002&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["MSE","370"],
+    "title":"Materials modelling",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1775002&ww_x_anneeAcad=2012-2013&ww_i_section=944917&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"MX",
+    "program":"MX",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104937",
+      "name":"Desbiolles Jean-Luc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Spring",
+    "free_text":{
+      "Form of examination":"Oral exam",
+      "Bibliography and material":"M. Rappaz, M. Bellet, M. Deville, \"Traité des Matériaux 10, Modélisation numérique en science et génie des matériaux\", Lausannne, PPUR, 1998",
+      "Required prior knowledge":"Courses of programming, Numerical analysis, Continiuum mechanics",
+      "Content":"[br/][li]Theory reminder on conservation equations and boundary conditions.[br/][li] Finite difference method for 1-dimensional stationary or non-stationary diffusion-type problems with or without transport. Upwinding scheme, time-stepping schemes, stability criteria. Extension to two dimensions. Finite volume method.[br/][li] Finite element method for diffusion problems with transport.[br/][li] Storage of matrices and resolution methods.[br/][li] Introduction to the simulation of fluid flow and solid mechanics.[br/][li]  Exercises: application to one- and two-dimensional problems. [br/][br/][br/][br/][br/]",
+      "Type of teaching":"Courses and computer assisted exercises",
+      "Learning outcomes":"Give the theoretical background which is necessary to material scientist for the understanding of process modelling, microstructure formation simulation and materials behaviour calculation. Special emphasis is brought to the finite difference and finite element methods.[br/][br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Materials modelling",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-365-6&amp;con_lng=ENG\" target=\"blank\">Modélisation numérique en science et génie des matériaux / Michel Rappaz, Michel Bellet, Michel Deville</a>\". Year:1998. ISBN:2-88074-365-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/104937",
+      "name":"Desbiolles Jean-Luc"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Cours de programmation, Analyse numérique, Milieux continus",
+      "Bibliographie et matériel":"M. Rappaz, M. Bellet, M. Deville, \"Traité des Matériaux 10, Modélisation numérique en science et génie des matériaux\", Lausannne, PPUR, 1998",
+      "Forme d'enseignement":"Cours et exercices pratiques sur ordinateur",
+      "Contenu":"- Rappel sur les équations de conservation et les conditions aux limites.[br/]- Méthode des différences finies pour des problèmes de type diffusif à une dimension, stationnaires et instationnaires,   avec ou sans transport. Méthode de décentrement, schéma de résolution temporel, critères de stabilité. Extension à des problèmes bidimensionnels. Méthode des volumes finis.[br/]- Méthode des éléments finis pour des problèmes de diffusion avec transport.[br/]- Méthodes de stockage des matrices et de résolution de systèmes d'équations linéaires.[br/]- Introduction à la résolution de problèmes de dynamique des fluides et de déformation des solides.[br/]- Exercices : application à des problèmes mono- et bidimensionnels.",
+      "Forme du contrôle":"Examen oral",
+      "Objectifs d'apprentissage":"Donner les bases théoriques nécessaires à l'ingénieur en science des matériaux sur les méthodes de modélisation utilisées pour aborder les problèmes associés au génie des procédés, à la formation des microstructures et au comportement des matériaux. Sont abordées notamment les méthodes des différences finies et des éléments finis"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Modélisation des matériaux",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=2-88074-365-6&amp;con_lng=FRE\" target=\"blank\">Modélisation numérique en science et génie des matériaux / Michel Rappaz, Michel Bellet, Michel Deville</a>\". Année:1998. ISBN:2-88074-365-6</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

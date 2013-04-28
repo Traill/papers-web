@@ -1,0 +1,82 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=359060026&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["PHYS","201(e)"],
+    "title":"General physics III",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=359060026&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"PH",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176429",
+      "name":"Rønnow Henrik"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Learning outcomes":"To know the fundamental physical phenomena as well as the underlying laws. To be able to use the mathematical notation and tools for studying and describing the physical systems. [br/]Be aware of their application in science and technology.",
+      "Content":"[b]Electromagnetism[/b][br/]Electrostatics, electric field and potential. Stationary electrical currents.[br/]Magnetostatics.[br/]Electrical and magnetic fields in the condensed matter. Polarization and[br/]magnetization of matter. Maxwell equations, electrical circuits with direct[br/]currents (DC) or alternating currents (AC).[br/]",
+      "Type of teaching":"Ex cathedra and exercises supervised in class",
+      "Form of examination":"Ronnow: written test (120 min.) with 1 point bonus possible during the semester",
+      "Required prior knowledge":"General physics I, II"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"General physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4876-4&amp;con_lng=ENG\" target=\"blank\">Physics for scientists and engineers / John W. Jewett, Raymond A. Serway</a>\". Year:2010. ISBN:978-1-4390-4876-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176429",
+      "name":"Rønnow Henrik"
+    },{
+      "url":"http://people.epfl.ch/190495",
+      "name":"Schaerer Businger Valérie"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Prérequis":"Physique générale I, II",
+      "Bibliographie et matériel":"Ouvrages recommandés annoncés à la 1ère leçon[br/]Chapitres 23-33 de \"Physics for Scientists and Engineers\" par Serway & Jewett[br/][br/]Recommended books will be announced on the 1st course[br/]Chapters 23-33 of \"Physics for Scientists and Engineers\"  Serway & Jewett[br/]",
+      "Forme d'enseignement":"Ex cathedra et exercices dirigés en classe",
+      "Contenu":"[b]Électromagnétisme[/b][br/]Électrostatique, champ et potentiel électrique. Courants électriques[br/]stationnaires. Magnétostatique.[br/]Champ électrique et magnétique dans la matière, polarisation et[br/]aimantation, équations de Maxwell, circuits électriques.[br/][br/]",
+      "Forme du contrôle":"Ronnow: Epreuve écrite de 120 min. avec possibilité de 1 point de bonus durant le semestre.",
+      "Objectifs d'apprentissage":"Connaître les phénomèmes physiques fondamentaux et comprendre les lois qui les décrivent. Apprendre à utiliser l'outil mathématique pour décrire les systèmes physiques ainsi que leur évolution. [br/]Connaître les applications en science et technique."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"General physics III",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-1-4390-4876-4&amp;con_lng=FRE\" target=\"blank\">Physics for scientists and engineers / John W. Jewett, Raymond A. Serway</a>\". Année:2010. ISBN:978-1-4390-4876-4</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

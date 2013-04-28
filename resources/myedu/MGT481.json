@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229912643&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=fr",
+    "code":["MGT","481"],
+    "title":"Financial & managerial accounting",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=229912643&ww_x_anneeAcad=2012-2013&ww_i_section=84483036&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-MTE",
+    "program":"MTE",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[["http://www.myaccountinglab.com/register","http://www.myaccountinglab.com/register"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/164209",
+      "name":"Siegrist Alain"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      "Note":"Final exam is open-book",
+      "Form of examination":"30% presentations[br/]70% final exam",
+      "Bibliography and material":"[b]Mandatory reference book:[/b][br/]Accounting - an introduction, E. Mc Laney, P. Atrill, FT Prentice Hall 2010",
+      "Content":"1. Basic accounting concepts (techniques and conventions) and corporate annual reports.[br/]2. Essential concepts and techniques of managerial accounting and their application to the business.[br/]3. The ways and means by which analytical techniques are brought to bear on the operational decision-making process that enable operating managers in making effective economic decisions",
+      "Keywords":"Financial accounting, managerial accounting",
+      "Type of teaching":"Lectures, discussions/case studies, homework, exercises",
+      "Learning outcomes":"[li] Understand the mechanisms in financial and managerial accounting and be able to interpret major accounting documents.[br/][li] The necessary insight and analytical skills related to how a firm's managers go about managing their business."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial & managerial accounting",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-273-73320-1&amp;con_lng=ENG\" target=\"blank\">Accounting : an introduction / Eddie McLaney and Peter Atrill</a>\". Year:2010. ISBN:978-0-273-73320-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-240569-0&amp;con_lng=ENG\" target=\"blank\">Introduction to management accounting : [chapters 1-17] / Charles T. Horngren, Gary L. Sundem, William O. Stratton... [et al.]</a>\". Year:2007. ISBN:978-0-13-240569-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[["http://www.myaccountinglab.com/register","http://www.myaccountinglab.com/register"]],
+    "instructors":[{
+      "url":"http://people.epfl.ch/164209",
+      "name":"Siegrist Alain"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"L'examen final est à livre ouvert",
+      "Bibliographie et matériel":"[b]Livre de référence obligatoire:[/b][br/]Accounting - an introduction, E. Mc Laney, P. Atrill, FT Prentice Hall 2010",
+      "Mots clés":"Comptabilité générale, comptabilité analytique",
+      "Forme d'enseignement":"Cours, discussions/études de cas, devoirs, exercices",
+      "Contenu":"1. Concepts de base en comptabilité (techniques et conventions) et rapports annuels de gestion.[br/]2. Outils de la comptabilité analytique et leur application en entreprise.[br/]3. Utiliser des techniques analytiques pour faciliter la prise de décision en matière de fonctionnement et permettre de prendre des décisions économiques rentables.",
+      "Forme du contrôle":"30% présentations[br/]70% examen final",
+      "Objectifs d'apprentissage":"[li] Comprendre les mécanismes de la gestion comptable et analytique et savoir interpréter les différents documents comptables.[br/][li] Acquérir les connaissances et qualités d'analyse nécessaires à la gestion d'une entreprise."
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Financial & managerial accounting",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-273-73320-1&amp;con_lng=FRE\" target=\"blank\">Accounting : an introduction / Eddie McLaney and Peter Atrill</a>\". Année:2010. ISBN:978-0-273-73320-1</li><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-0-13-240569-0&amp;con_lng=FRE\" target=\"blank\">Introduction to management accounting : [chapters 1-17] / Charles T. Horngren, Gary L. Sundem, William O. Stratton... [et al.]</a>\". Année:2007. ISBN:978-0-13-240569-0</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

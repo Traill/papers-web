@@ -1,0 +1,79 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772817&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["CIVIL","330"],
+    "title":"Bridge design",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772817&ww_x_anneeAcad=2012-2013&ww_i_section=942623&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"GC",
+    "program":"GC",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105637",
+      "name":"Lebet Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course is an introduction to the main aspects governing the design of bridges.  It deals with the selection of the bridge structural system, the main dimensions of the structural elements, the structural material, the construction technique and  the design criteria.  The focus is on steel-concrete composite and prestressed concrete road bridges.  The application of the design principles to different situations (bridge site, function, owner's requirements) is studied.[br/][br/]",
+      "Content":"[br/][li]\tIntroduction and history of bridge construction .[br/][li]\tStudy of the different types of bridges and discovery of the function of different structural elements.[br/][li]\tOverview of the main construction methods for prestressed concrete and steel-concrete composite bridges. [br/][li]\tOverview of loads acting on bridges, service and esthetical requirements. [br/][li]\tDesign of composite and concrete beam and plate girder bridges .[br/][li]\tBehaviour of bridge girders with box-girder sections and with multiple beam cross-sections. [br/]"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Bridge design",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-765-7&amp;con_lng=ENG\" target=\"blank\">Ponts en acier : conception et dimensionnement des ponts métalliques et mixtes acier-béton / Jean-Paul Lebet et Manfred A. Hirt ; dessins de Claudio Leonardi</a>\". Year:2009. ISBN:978-2-88074-765-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/105637",
+      "name":"Lebet Jean-Paul"
+    },{
+      "url":"http://people.epfl.ch/133346",
+      "name":"Muttoni Aurelio"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Prérequis":"Structures en béton, Structures en métal, Matériaux I et II ",
+      "Bibliographie et matériel":"Feuilles résumées, TGC vol. 12",
+      "Forme d'enseignement":"Ex cathedra + diapositives +vidéo",
+      "Contenu":"[br/][li]\tIntroduction et historique du développement des ouvrages d'art.[br/][li]\tAnalyse des types de pont et découverte de la fonction des éléments structuraux.[br/][li]\tInventaire des méthodes de construction des ouvrages en béton et en construction mixte acier-béton.[br/][li]\tInventaire des charges et actions ainsi que des exigences fonctionnelles et esthétiques.[br/][li]\tConception des ponts poutres en béton et en construction mixte.[br/][li]\tComportement des sections transversales ouvertes et fermées.[br/][li]\tFabrication, montage et équipements.[br/][li]\tConception des piles, culées et fondations.[br/][li]\tAnalyse de la stabilité longitudinale et transversale des ouvrages.[br/][li]\tEtude de ponts existants au moyen de la rédaction de posters par les étudiants",
+      "Préparation pour":"Ponts en béton, ponts en métal, projets de construction, projet de Master",
+      "Objectifs d'apprentissage":"Ce cours est une introduction aux principaux aspects régissant la conception et le dimensionnement des ponts.  Il porte notamment sur le choix du type de pont, des principales dimensions des éléments structuraux, du matériau, du mode de construction, et des exigences à satisfaire lors de la conception et du dimensionnement.  L'accent est mis sur les ponts routiers en construction mixte ou en béton précontraint.  L'application des principes de conception et dimensionnement à diverses situations (site, fonction, exigences du maître de l'ouvrage) est étudiée.   "
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Conception des ponts",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":"<ul><li>\"<a href=\"http://opac.nebis.ch/F?local_base=nebis&amp;func=find-b&amp;find_code=020&amp;request=978-2-88074-765-7&amp;con_lng=FRE\" target=\"blank\">Ponts en acier : conception et dimensionnement des ponts métalliques et mixtes acier-béton / Jean-Paul Lebet et Manfred A. Hirt ; dessins de Claudio Leonardi</a>\". Année:2009. ISBN:978-2-88074-765-7</li></ul>",
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

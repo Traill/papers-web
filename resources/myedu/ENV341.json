@@ -1,0 +1,74 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776767&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=fr",
+    "code":["ENV","341"],
+    "title":"Remote sensing",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1776767&ww_x_anneeAcad=2012-2013&ww_i_section=942953&ww_i_niveau=6683117&ww_c_langue=en",
+    "section":"SIE",
+    "program":"SIE",
+    "plan":"bachelor"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176402",
+      "name":"Berne Alexis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Spring",
+    "free_text":{
+      "Learning outcomes":"This course introduces the basic principles of remote sensing and presents different techniques for the observation of the environment. The aim is to provide the students the background to understand basic remote sensing concepts and applications.",
+      "Content":"[b]Introduction[/b][br/]- Presentation of the course, organizsation, etc...[br/]- History of remote sensing, applications[br/][b]Electromagnetic waves[/b][br/]- Spectrum[br/]- Reflection and polarization[br/]- Absorption and diffusion[br/][b]Passive sensing[/b][br/]- Optical[br/]- Microwave[br/][b]Active sensing[/b][br/]- Lidar[br/]- Radar[br/][b]Image analysis[/b][br/]- Radiometric corrections[br/]- Geometric corrections[br/]- Enhancement[br/]- Non-spectral images[br/]- Classifications",
+      "Type of teaching":"Ex cathedra and exercises",
+      "Form of examination":"30 % spot check during the semester[br/]10 % continuous control during the semester[br/]60 % final written test (90 min) during exam session"
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Remote sensing",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Written",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176402",
+      "name":"Berne Alexis"
+    }],
+    "lab":null,
+    "credits":3,
+    "semester":"Printemps",
+    "free_text":{
+      "Forme d'enseignement":"Ex cathedra et exercices",
+      "Contenu":"[b]Introduction[/b][br/]- Présentation du cours, de son organisation, etc...[br/]- Historique de la télédétection, domaine d'application[br/][b]Ondes électromagnétiques[/b][br/]- Spectre[br/]- Réflection et polarisation[br/]- Absorption et diffusion[br/][b]Capteurs passifs[/b][br/]- Optique[br/]- Micro-onde[br/][b]Active sensing[/b][br/]- Lidar[br/]- Radar[br/][b]Traitement des images[/b][br/]- Transformations radiométriques[br/]- Transformations géométriques[br/]- Rehaussements[br/]- Images non-spectrales[br/]- Classifications",
+      "Forme du contrôle":"30 % contrôle ponctuel pendant le semestre[br/]10 % contrôle continu pendant le semestre[br/]60 % épreuve écrite (90 min) pendant la session d'examen",
+      "Bibliographie et matériel":"Articles scientifiques, notes de cours",
+      "Objectifs d'apprentissage":"Introduire les principes fondamentaux de la télédétection et présenter les différentes techniques pour l'observation de l'environnement, dans le but de fournir aux étudiants un bagage suffisant pour maîtriser les notions de base de la télédétection."
+    },
+    "practical":null,
+    "language":"Français",
+    "title":"Télédétection",
+    "recitation":{
+      "week_hours":1,
+      "weeks":14
+    },
+    "exam_form":"Ecrit",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}

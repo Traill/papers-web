@@ -1,0 +1,77 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412899812&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=fr",
+    "code":["ENV","716"],
+    "title":"Active Remote Sensing of the Atmosphere",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=412899812&ww_x_anneeAcad=2012-2013&ww_i_section=327379170&ww_i_niveau=&ww_c_langue=en",
+    "section":"EDCE",
+    "program":"EDCE",
+    "plan":"edoc"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176402",
+      "name":"Berne Alexis"
+    },{
+      "url":"http://people.epfl.ch/107964",
+      "name":"Simeonov Valentin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Learning outcomes":"Provide the students the basics to understand and analyze remotely sensed measurements from active systems like lidar (in particular temperature, humidity, aerosols) and radar (weather and cloud radar, wind profiler).",
+      "Content":"Optical remote sensing:[br/]1. Structure and composition of the atmosphere[br/]2. Light propagation in the atmosphere[br/]3. Fundamentals of the lidar techniques[br/]4. Atmospheric lidar types [br/]5. Basics of the lidar hardware[br/]6. Long open-path techniques[br/]    [br/]Microwave remote sensing:[br/]1. Precipitation and cloud microphysics[br/]2. Principle of weather radar[br/]3. Multiparameter weather radar[br/]4. Sources of error[br/]5. Cloud radar[br/]6. Wind profiler[br/]",
+      "Keywords":"LIDAR, RADAR, atmospheric profiling"
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Active Remote Sensing of the Atmosphere",
+    "recitation":{
+      "total_hours":19
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/176402",
+      "name":"Berne Alexis"
+    },{
+      "url":"http://people.epfl.ch/107964",
+      "name":"Simeonov Valentin"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":null,
+    "free_text":{
+      "Contenu":"Optical remote sensing:[br/]1. Structure and composition of the atmosphere[br/]2. Light propagation in the atmosphere[br/]3. Fundamentals of the lidar techniques[br/]4. Atmospheric lidar types [br/]5. Basics of the lidar hardware[br/]6. Long open-path techniques[br/]    [br/]Microwave remote sensing:[br/]1. Precipitation and cloud microphysics[br/]2. Principle of weather radar[br/]3. Multiparameter weather radar[br/]4. Sources of error[br/]5. Cloud radar[br/]6. Wind profiler[br/]",
+      "Mots clés":"LIDAR, RADAR, atmospheric profiling",
+      "Objectifs d'apprentissage":"Provide the students the basics to understand and analyze remotely sensed measurements from active systems like lidar (in particular temperature, humidity, aerosols) and radar (weather and cloud radar, wind profiler)."
+    },
+    "practical":{
+      "total_hours":9
+    },
+    "language":"English",
+    "title":"Active Remote Sensing of the Atmosphere",
+    "recitation":{
+      "total_hours":19
+    },
+    "exam_form":"Multiple",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "total_hours":28
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "study_plan_entry":{
+    "url_fr":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543115907&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=fr",
+    "code":["BIOENG","486"],
+    "title":"Neuroprosthetics",
+    "url":"http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1543115907&ww_x_anneeAcad=2012-2013&ww_i_section=1582689904&ww_i_niveau=&ww_c_langue=en",
+    "section":"MIN-NEUPRO",
+    "program":"SV",
+    "plan":"min"
+  },
+  "en":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220184",
+      "name":"Courtine Grégoire"
+    },{
+      "url":"http://people.epfl.ch/218366",
+      "name":"Micera Silvestro"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Fall",
+    "free_text":{
+      
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neuroprosthetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  },
+  "fr":{
+    "coefficient":null,
+    "links":[],
+    "instructors":[{
+      "url":"http://people.epfl.ch/220184",
+      "name":"Courtine Grégoire"
+    },{
+      "url":"http://people.epfl.ch/218366",
+      "name":"Micera Silvestro"
+    }],
+    "lab":null,
+    "credits":4,
+    "semester":"Automne",
+    "free_text":{
+      "Remarque":"This ambitious course will be challenging for the students. A clear dedication to the subject and personal work is expected by all participants.",
+      "Prérequis":"[b][u]Those prerequisite are mandatory:[/b][/u] Neurophysiology, Neurosciences II, III, signal and systems, signal treatment.",
+      "Mots clés":"Neurosciences, sensorimotor control, neuroprosthetics, neurorehabilitation, neurocomputimg, signal treatment, ",
+      "Forme d'enseignement":"Ex cathedra and project",
+      "Contenu":"[u][b]Sensorimotor Neuroprosthetics[/b][/u][br/][br/][b]History:[/b] Emergence of the field of neuroprosthetics, current evolution of neuroprosthetics towards enabling systems for neurorehabilitation, entrepreneurial opportunities and challenges [br/][br/][b]Neural control of movement:[/b] organization of supraspinal and spinal neuronal systems underlying the production of locomotion, reaching and grasping. Disease specific alteration of neural control processes after CNS disorders and limb amputation.[br/][br/][b]Computational motor control:[/b] General principles associated with the production of movements, analysis of kinetics, kinematics, muscle synergy, ensemble cortical modulation, internal models, finger enslavement. [br/][br/][b]Neurorehabilitation after CNS disorders:[/b] basic principles underlying learning and plasticity in the CNS, impact of neurorehabilitation on the recovery of sensorimotor functions, activity-dependent reorganization of neuronal circuits, practical use of neuroprosthetic systems for neurorehabilitation in animals and humans[br/][br/][b]Upper limb and hand neuroprostheses:[/b] current strategies for the development of neuroprosthesis for the restoration of reaching and grasping in specific types of motor disorders such as stroke, spinal cord injury, and amputation. (1) neurocontrolled hand prostheses; (2) invasive and non-invasive neuroprostheses based on neuromuscular electrical stimulation; (3) robot-based neuroprostheses. [br/][br/][b]Lower limb neuroprostheses:[/b] current strategies for the development of neuroprosthesis for the restoration of walking in severely paralyzed people. (1) neurocontrolled full body exoskeleton; (2) invasive and non-invasive electrical neuroprostheses; (3) invasive electrochemical neuroprosthesis; (4) Hybrid neuroprosthetic system.[br/][br/][b]Student project:[/b] Approximately half of the course will involve a group project in which the students will conceive their own neuroprosthetic system.",
+      "Forme du contrôle":"Based on the courses given at the start of the nsemester, students will select a project done by group. A report will be required from each group and evaluated given 50% of the final score. Individual oral examination on both the course and the project will permit top attribute the remaining 50% of the final score. ",
+      "Préparation pour":"Master in Life Sciences and Technology (neuroscience track), Minor in neuroprosthetics.",
+      "Objectifs d'apprentissage":"1. The student will acquire the basic principles underlying the neural control of locomotion, reaching, and grasping in healthy and disabled subjects[br/]2. The student will develop a broad view on existing neuroprosthetic systems, and should be able to identify current limitations and challenges for future applications.[br/]3. The student will learn the conceptual and practical bases for the development of a novel neuroprosthesis (group project) [br/]"
+    },
+    "practical":null,
+    "language":"English",
+    "title":"Neuroprosthetics",
+    "recitation":{
+      "week_hours":2,
+      "weeks":14
+    },
+    "exam_form":"Oral",
+    "project":null,
+    "library_recommends":null,
+    "lecture":{
+      "week_hours":2,
+      "weeks":14
+    }
+  }
+}
