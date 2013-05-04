@@ -16,7 +16,7 @@ object Cache {
   RegisterJodaTimeConversionHelpers()
 
   println(Properties.envOrNone("MONGOHQ_URL"));
-  val MongoSetting(mongoDB) = Some(Properties.envOrElse("MONGOHQ_URL", "mongodb://heroku:9f4db15648e7d65475777fb389aed51a@alex.mongohq.com:10092/app11027994"))
+  val MongoSetting(mongoDB) = Properties.envOrNone("MONGOHQ_URL")
 
   // Constants
   val basedir = "cache" + File.separator
