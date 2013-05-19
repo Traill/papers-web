@@ -20,7 +20,7 @@ object PaperModel {
 
   // Must be called to initialize all data from disk
   def init(path : String) : Unit = { 
-    A = Analyzer.fromCache(path).load
+    A = Analyzer.fromCache(path)
   }
 
   // Function for getting an abstract
