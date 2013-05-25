@@ -183,13 +183,22 @@ define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"
 	// Go through all the nodes to find the nodes that have the ID.
 	nodeList.getNodeFromID = function(id) {
 		var index = nodeList.getIndex(id);
+		if (index == undefined) throw Error("ID: " + id + " does not exist in nodeList");
 		return nodeList.nodes[index]
 	}
 
 
 	// Returns the index of a node
 	nodeList.getIndex = function(id) {
-		return nodeList.indexMap[id];
+		var index = nodeList.indexMap[id];
+		if (index == undefined) throw Error("ID: " + id + " does not exist in nodeList");
+		return index;
+	}
+
+
+	// Checks if a given id exists
+	nodeList.hasID = function(id) {
+		return !(nodeList.indexMap[id] == undefined)
 	}
 
 

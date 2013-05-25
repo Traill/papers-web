@@ -1,3 +1,5 @@
+// Saves the current state of the graph under a given link
+
 define(["jquery", "models/saveLink", "radio", "lib/history"], function ($, saveLink, radio, h) {
 
 
