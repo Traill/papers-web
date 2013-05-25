@@ -55,7 +55,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		else {
 
 			// Set clusterspread
-			var clusterName = cluster.type + (cluster.spread * 5 + 15);
+			var clusterName = cluster.type + (16 - cluster.spread);
 
 			// Check if we already have the clustering for 'n'
 			if (cluster.groups[clusterName] == undefined) {
