@@ -7,9 +7,6 @@ import scala.io.Codec
 
 trait ISIT2013 extends XMLParser with PDFLoader {
 
-  val csvPath = "resources/isit2013/isit2013.csv" // TODO: shouldn't be hardcoded
-  val metaData : Map[String,Map[String,String]] = getMeta(csvPath)
-
   def parseDoc(doc : Document) : Option[Document] = {
     val pdfName : String = Analyzer.filePath + doc.id + ".pdf"
     println(pdfName)
@@ -35,7 +32,9 @@ trait ISIT2013 extends XMLParser with PDFLoader {
       }).toList
     }
 
-    return metaData.get(doc.id) map { meta =>
+    val csvPath = "resources/isit2013/isit2013.csv" // TODO: shouldn't be hardcoded
+
+    return getMeta(csvPath).get(doc.id) map { meta =>
       val as = getAuthors(meta("authors"))
       val p = paper.setAbstract(meta("abstract")).setTitle(meta("title")).setAuthors(as)
       doc.setMeta(meta).setPaper(p)
@@ -54,7 +53,6 @@ trait ISIT2013 extends XMLParser with PDFLoader {
               val authors = data(3)
               val session = data(5)
               val dateString = data(7)
-              print(dateString)
               val timestamp = getDate(dateString.split(" ")(0), dateString.split(" ")(1))
               val room = data(6) // TODO: This is not the true room number
               id -> Map("title" -> title, "abstract" -> abstr, 
