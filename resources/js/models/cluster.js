@@ -4,7 +4,7 @@
 
 define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"], function(radio, $, linkList, nodeList, graph) {
 
-	
+
 	//////////////////////////////////////////////
 	//											//
 	//               Interface					//
@@ -21,6 +21,8 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//////////////////////////////////////////////
 
 	cluster.groups = new Object();
+	cluster.spread = 0;
+	cluster.type = "louvain"
 	
 	//////////////////////////////////////////////
 	//											//
@@ -29,9 +31,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//////////////////////////////////////////////
 
 	cluster.init = function () {
-
 		// What goes here?
-
 	}
 
 
@@ -42,21 +42,38 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	//////////////////////////////////////////////
 	
 	// Fetch clustering from server and render
-	cluster.makeClusters = function(n) {
+	cluster.makeClusters = function() {
 
-		// Check if we already have the clustering for 'n'
-		if (cluster.groups[n] == undefined) {
-			$.getJSON("ajax/clusters/" + n, function(data) { 
-				console.debug(data);
-				cluster.groups[n] = toIndex(data);
-				render(n);
-			})
+		radio("save:cluster").broadcast(cluster.spread);
+
+		// Check if we are unclustering:
+		if (cluster.spread == 0) {
+			unCluster();
 		}
 
-		// If not, render straight away
-		else render(n)
+		// If not fetch clustering
+		else {
+
+			// Set clusterspread
+			var clusterName = cluster.type + (16 - cluster.spread);
+
+			// Check if we already have the clustering for 'n'
+			if (cluster.groups[clusterName] == undefined) {
+				$.getJSON("ajax/clusters/" + clusterName, function(data) { 
+					cluster.groups[clusterName] = toIndex(data);
+					render(clusterName);
+				})
+			}
+
+			// If not, render straight away
+			else render(clusterName)
+		}
 	}
 
+
+	cluster.setSpread = function(n) {
+		cluster.spread = n;
+	}
 
 
 	//////////////////////////////////////////////
@@ -78,11 +95,25 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 	}
 
 
+	var unCluster = function() {
+
+		// Now delete all the links that are going between two different clusters
+		linkList.getAllLinks().forEach(function (l) {
+
+			// show link
+			radio("link:show").broadcast(l);
+		})
+
+		// Render graph
+		graph.set(nodeList.getNodes(), linkList.getLinks(), 300)
+	}
+
+
 	// Render a clustering
-	var render = function(n) {
+	var render = function(clusterType) {
 
 		// Get groups
-		g = cluster.groups[n];
+		g = cluster.groups[clusterType];
 
 		// Now delete all the links that are going between two different clusters
 		linkList.getAllLinks().forEach(function (l) {

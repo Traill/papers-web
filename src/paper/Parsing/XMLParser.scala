@@ -18,7 +18,7 @@ trait XMLParser extends TitleExtractor1
 
    // The function for actually parsing a paper
    def parseFile(d : Document, f : File) : Option[Paper] = {
-      val xml = getXMLObject(Source.fromFile(f))
+      val xml = getXMLObject(Source.fromFile(f)("UTF-8"))
       f.delete
 
 	  if(xml == None) {

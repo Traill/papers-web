@@ -7,49 +7,47 @@ import scala.io.Source
 // Compagnion object
 object Analyzer extends GetFiles {
 
-  var path : String = ""
+  var filePath : String = ""
   val resourceDir : String = "resources"
   val cacheDir : String = Cache.basedir
+  var collection : String = ""
+
 
   // Initialize files from directory
-  def initialize(p : String) : Analyzer = {
+  def initialize(path : String) : Analyzer = {
 
-    // Set the path of the analyzer
-    path = p
+    // Set db collection to same name as the filepath
+    collection = path
 
-    // Compile full path
-    val fullPath = resourceDir + File.separator + path
+    // Update parent
+    filePath = resourceDir + File.separator + path + File.separator
 
     // Return analyzer
-    getAnalyzer(fullPath, "pdf")
+    getAnalyzer
   }
 
+
   // Load files from cache
-  def fromCache(p : String) : Analyzer = {
+  def fromCache(c : String) : Analyzer = {
 
-    // Set the path of the analyzer
-    path = p
+    // Set db collection to same name as the filepath
+    collection = c
 
-    // Compile full path
-    val fullPath = cacheDir + File.separator + path
-
-    // Return analyzer
-    getAnalyzer(fullPath, Cache.suffix)
-
+    Analyzer(Map.empty).load
   }
 
 
   // Function for initializing the analyzer
-  private def getAnalyzer(fullPath : String, suffix : String) : Analyzer = {
+  private def getAnalyzer : Analyzer = {
 
     // Utility function for getting a document
     def doc(id : String, f : File) : Document = {
       println("Initializing " + id)
-      Document.emptyDoc.setFile(f).setId(id)
+      Document.emptyDoc.setId(id)
     }
 
     // Create new Analyze object
-    val ds = for ((id, f) <- getFiles(fullPath, suffix)) yield (id -> doc(id, f))
+    val ds = for ((id, f) <- getFiles(filePath)) yield (id -> doc(id, f))
     return Analyzer(ds)
   }
 
@@ -57,7 +55,7 @@ object Analyzer extends GetFiles {
 
 
 case class Analyzer(docs : Map[String, Document]) extends GetFiles
-                                                     with ITA2013
+                                                     with ISIT2012
                                                      with ExtendPaper
                                                      with BagOfWordsLSI
                                                      with XMLScheduleParser {
@@ -96,7 +94,7 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   def schedule(file : String) : Analyzer = {
 
     // get map of values
-    val path = Analyzer.resourceDir + File.separator + Analyzer.path + File.separator + file
+    val path = Analyzer.resourceDir + File.separator + Analyzer.collection + File.separator + file
     val s = getXMLSchedule(path)
 
     // For each paper add these values to the corresponding paper
@@ -112,30 +110,21 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   def save : Analyzer = {
 
     // Save all documents
-    for ((_, d) <- docs) Cache.save(d, Analyzer.path)
+    for ((id, d) <- docs) Cache.putItem[Document](Analyzer.collection, id, d)
 
     return this
   }
 
 
   /**
-   * Load from cache and if document isn't found, parse it
+   * Load from cache
    */
   def load : Analyzer = {
 
-    // Load all documents
-    val docOption = for ((id, _) <- docs) yield (id -> Cache.load(id, Analyzer.path))
+    val docs = Cache.getQuery[Document](Analyzer.collection, Map.empty)
+    val docMap = docs.map { d => (d.id -> d) } toMap
 
-    // Parse all those that weren't found
-    val ds = for ((id, d) <- docs) yield { 
-      if (docOption(id) == None) (id -> parseDoc(d))
-      else (id -> Some(docOption(id).get))
-    }
-
-    // Filter those that didn't parse
-    val filtered = for ((id, d) <- ds; if d != None) yield (id, d.get)
-
-    return Analyzer(filtered)
+    return Analyzer(docMap)
   }
 
 
@@ -176,12 +165,14 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Cluster the documents with louvain clustering
    */
-  def louvain : Analyzer = {
+  def louvain(limit : Int = 5) : Analyzer = {
+
+    val overTreshold : Analyzer = limitNLinks(limit)
 
     // clusters organized by id
-    val clusters : Map[String, Int] = Louvain.cluster(Louvain.init(docs))
+    val clusters : Map[String, Int] = Louvain.cluster(Louvain.init(overTreshold.docs))
 
-    val ds = for((id, d) <- docs) yield (id -> d.setCluster("louvain" -> clusters(id)))
+    val ds = for((id, d) <- docs) yield (id -> d.setCluster(("louvain" + limit.toString) -> clusters(id)))
 
     return Analyzer(ds)
   }
@@ -207,16 +198,26 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Filters the links
    */
-  def overNLinks(n : Int) : Analyzer = {
+  def limitNLinks(n : Int) : Analyzer = {
+
+    val allWeights : List[Int] = {
+      for ((id, d) <- docs; l <- d.links) yield l.weight
+    }.toList.sorted.reverse
+
+    val treshold : Int = allWeights.size match {
+      case k if k > docs.size*n => allWeights.drop(docs.size*n)(0)
+      case otherwise            => allWeights(0)
+    }
 
     // Take only links over a certain treshold
-    def overN(n : Int)(ls : List[Link]) : List[Link] = ls.filter(_.weight > n)
+    def tresholdN(treshold : Int)(ls : List[Link]) : List[Link] = ls.filter(_.weight > treshold)
 
     // Filter links
-    val ds = for ((id, d) <- docs) yield (id -> d.setLinks(overN(n)(d.links)))
+    val ds = for ((id, d) <- docs) yield (id -> d.setLinks(tresholdN(treshold)(d.links)))
 
     return Analyzer(ds)
   }
+
 
 
   /**

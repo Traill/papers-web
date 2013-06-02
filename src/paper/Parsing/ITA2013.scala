@@ -29,9 +29,10 @@ trait ITA2013 extends XMLParser with PDFLoader
 
   // Sets info of paper according to information we have from ITA2013
   private def setInfo(doc : Document, paper : Paper) : Document = {
-    val f = doc.file
-    val info : List[String] = Source.fromFile(f).getLines.toList
-    if (info.length < 8) throw new Exception("Corrupted paper file: " + f.getName)
+    val path = Analyzer.filePath + doc.id
+    println(path)
+    val info : List[String] = Source.fromFile(path).getLines.toList
+    if (info.length < 8) throw new Exception("Corrupted paper file: " + doc.id + ".txt")
 
     val authors = getAuthors(info(3))
     val title = info(2)
@@ -60,7 +61,7 @@ trait ITA2013 extends XMLParser with PDFLoader
       val firstlast : String = name.split(',').toList match {
         case last :: first :: Nil => first.trim + " " + last.trim
         case name :: Nil => name.mkString.trim
-        case Nil => throw new Exception("Malformed author: " + authors)
+        case otherwise => throw new Exception("Malformed author: " + authors)
       }
 
       // Return
@@ -86,7 +87,7 @@ trait ITA2013 extends XMLParser with PDFLoader
     var c = Calendar.getInstance
 
     // Set starting point
-    c.set(yearNum, monthNum-1, dayNum-1, hourNum, minNum)
+    c.set(yearNum, monthNum-1, dayNum, hourNum, minNum)
     c.set(Calendar.SECOND,0)
     c.set(Calendar.MILLISECOND,0)
 
@@ -107,7 +108,7 @@ trait ITA2013 extends XMLParser with PDFLoader
   // Check if we have a pdf file
   private def getPdf(doc : Document) : Option[Paper] = {
     var paper : Option[Paper] = None
-    val pdfName : String = doc.file.getParent + "/files/" + doc.id + ".pdf"
+    val pdfName : String = Analyzer.filePath + "files" + File.separator + doc.id + ".pdf"
     val pdfFile : File = new File(pdfName)
     if (pdfFile.exists) paper = parseFile(doc, pdfToXML(pdfFile))
     return paper
@@ -123,7 +124,7 @@ trait ITA2013 extends XMLParser with PDFLoader
 
     // Then get abstract
     var abstr : Option[String] = None
-    val abstrName : String = doc.file.getParent + "/files/abstract_" + doc.id + ".txt"
+    val abstrName : String = Analyzer.filePath + "files" + File.separator + "abstract_" + doc.id + ".txt"
     val abstrFile : File = new File(abstrName)
     if (abstrFile.exists) abstr = Some(cleanUnicode(Source.fromFile(abstrFile).getLines.mkString(" ")))
     return abstr

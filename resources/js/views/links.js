@@ -1,4 +1,5 @@
-define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "params"], function(d3, radio, arrrr, nodeList, graph, config) {
+define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "params", "models/linkList"], 
+	function(d3, radio, arrrr, nodeList, graph, config, linkList) {
 	
 	
 	// GLOBAL VARIABLES: 
@@ -79,20 +80,17 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		// Find all edges belinging to current node and update them
 		for( var index in node.links ){
 			link = node.links[index];
+			if (!linkList.isHidden(link.link)) {
 
-			if(!link.link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
-			
-			var e = d3.event;
-			
-			link.link.domLink.classed('clikable', true)
-					 		 .style("stroke-width", graph.strokeWidth(link.link, config["edgeSize_hover"]));
-			showClickable(node, link.targetNode, link.link);
+				if(!link.link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
 
-			
-			
+				var e = d3.event;
+
+				link.link.domLink.classed('clikable', true)
+				.style("stroke-width", graph.strokeWidth(link.link, config["edgeSize_hover"]));
+				showClickable(node, link.targetNode, link.link);
+			}
 		};
-		
-			
 	}
 	
 	// Show a little clikable dom object to go from one node to second. 
@@ -165,29 +163,30 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 
 	// remove all the clickable item of the old node.
 	var deselect = function(node) {
-		 
-		 
-		 for( var index in node.links ){
+		for( var index in node.links ){
 			link = node.links[index].link;
-			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
-			var e = d3.event;
-			node.links[index].clickable.remove();
-			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
-			link.domLink.classed('clikable', false);
-			link.domLink.classed('hover', false);
-			
-		};
+			if (!linkList.isHidden(link)) {
+				if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
+				var e = d3.event;
+				node.links[index].clickable.remove();
+				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
+				link.domLink.classed('clikable', false);
+				link.domLink.classed('hover', false);
+			}
+		}
 	}
 		
 	var hover = function(node) {
 		
 		for (var index in node.links) {
 			var link = node.links[index].link;
-			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
-			
-			var e = d3.event;
-			link.domLink.classed('hover', true);
-			link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
+			if (!linkList.isHidden(link)) {
+				if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
+				
+				var e = d3.event;
+				link.domLink.classed('hover', true);
+				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize_hover"]));
+			}
 			
 		}
 	}
@@ -197,13 +196,15 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		if( nodeList.selected == null || nodeList.selected.index != node.index){
 			for (var index in node.links) {
 				var link = node.links[index].link;
-				// Check if note selected
-				if(link.domLink != null ) {
-					var e = d3.event;
-					
-					link.domLink.classed('hover', false);
-					link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
+				if (!linkList.isHidden(link)) {
+					// Check if note selected
+					if(link.domLink != null ) {
+						var e = d3.event;
+						
+						link.domLink.classed('hover', false);
+						link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 
+					}
 				}
 			}
 		}

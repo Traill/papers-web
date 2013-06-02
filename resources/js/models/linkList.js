@@ -76,6 +76,10 @@ define(["ajax/edges", "radio", "util/array", "models/linkFactory", "models/nodeL
 	}
 
 
+	linkList.isHidden = function(link) {
+		return (linkList.hidden[link.index] == link)
+	}
+
 
 
 	//////////////////////////////////////////////
@@ -139,10 +143,6 @@ define(["ajax/edges", "radio", "util/array", "models/linkFactory", "models/nodeL
 
 	var isVisible = function(link) {
 		return (linkList.hidden[link.index] == undefined)
-	}
-
-	var isHidden = function(link) {
-		return (linkList.hidden[link.index] != undefined)
 	}
 
 	var showLink = function(link) { linkList.hidden[link.index] = undefined; }

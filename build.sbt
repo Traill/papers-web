@@ -15,9 +15,9 @@ scalacOptions ++= Seq("-unchecked", "-Ywarn-dead-code", "-deprecation")
 libraryDependencies  ++= Seq(
             // other dependencies here
             // pick and choose:
-			"org.scalanlp" %% "breeze-math" % "0.2-SNAPSHOT",
-            "org.scalanlp" %% "breeze-learn" % "0.2-SNAPSHOT",
-            "org.scalanlp" %% "breeze-process" % "0.2-SNAPSHOT",
+			"org.scalanlp" %% "breeze-math" % "0.3-SNAPSHOT",
+            "org.scalanlp" %% "breeze-learn" % "0.3-SNAPSHOT",
+            "org.scalanlp" %% "breeze-process" % "0.3-SNAPSHOT",
 			"net.databinder" %% "unfiltered-filter" % "0.6.7",
 			"net.databinder" %% "unfiltered-json" % "0.6.7",
 			"net.databinder" %% "unfiltered-netty-server" % "0.6.7",
