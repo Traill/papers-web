@@ -168,7 +168,8 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 			if (!linkList.isHidden(link)) {
 				if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
 				var e = d3.event;
-				node.links[index].clickable.remove();
+				var c = node.links[index].clickable 
+				if (c != undefined) c.remove();
 				link.domLink.style("stroke-width", graph.strokeWidth(link, config["edgeSize"]));
 				link.domLink.classed('clikable', false);
 				link.domLink.classed('hover', false);

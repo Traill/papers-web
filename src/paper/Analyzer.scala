@@ -55,7 +55,7 @@ object Analyzer extends GetFiles {
 
 
 case class Analyzer(docs : Map[String, Document]) extends GetFiles
-                                                     with ISIT2012
+                                                     with ISIT2013
                                                      with ExtendPaper
                                                      with BagOfWordsLSI
                                                      with XMLScheduleParser {

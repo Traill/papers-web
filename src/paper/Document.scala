@@ -101,12 +101,12 @@ abstract class AbstractPaper {
     Paper(title, authors, Abstract(newAbstract), body, refs)
   def setAbstract(newAbstract : Abstract) : Paper = 
     Paper(title, authors, newAbstract, body, refs)
-    
+
   def setBody(newBody : String) : Paper = 
     Paper(title, authors, abstr, Body(newBody), refs)
   def setBody(newBody : Body) : Paper = 
     Paper(title, authors, abstr, newBody, refs)
-    
+
   def setReferences(newRefs : List[Reference]) : Paper = 
     Paper(title, authors, abstr, body, newRefs)
 }
