@@ -10,25 +10,12 @@ import paper.BagOfWordsLSI
 
 trait WeightedLSI extends BagOfWordsLSI{
   
-  //override var matrixOfWeights : breeze.linalg.DenseMatrix[Int] = breeze.linalg.DenseMatrix.zeros[Int](0,0)
 
   override def init(papers : List[Paper]) : Unit = {
     matrixOfWeights = createTDMatrix(papers,50)
   }
 
-  override def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights,i1).valueAt(i2)
-
-
-  
-  override def getScores(matrixOfScores: breeze.linalg.DenseMatrix[Int], column: Int): DenseVector[Int] ={
-
-	  val matrixOfScoresTranspose = matrixOfScores.t
-
-	  return matrixOfScoresTranspose(::,column)
-
-	}
-
-	//Creating the matrix:
+	//Creating the matrix, changed weighting of the result:
   override def createTDMatrix(papers: List[Paper], approximation: Int): breeze.linalg.DenseMatrix[Int] = {
 		val datasetSize = papers.length
 

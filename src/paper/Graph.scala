@@ -6,6 +6,7 @@ import java.io.File
 
 case class Graph(nodes : List[Node], edges : List[Edge])
 case class Node(id : String, title : String, authors : List[String], room : String, time : String)
+  
 case class Edge(source : String, target : String, value : Int)
 
 object Graph {
@@ -18,9 +19,10 @@ object Graph {
   private def makeNode(id : String, d : Document) : Node = {
     Node(id, 
          d.paper.title.text, 
-         d.paper.authors.map(_.name), 
+         d.paper.authors.map(_.name),
          d.meta("room"), 
-         d.meta("date"))
+         d.meta("date")
+		 )
   }
 
 
