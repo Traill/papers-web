@@ -210,7 +210,9 @@ define(["models/nodeList", "models/search", "models/cluster", "radio", "util/arr
 		// Schedule the right nodes
 		nodeList.unscheduleAll();
 		data.scheduled.forEach(function(id) {
-			radio("node:schedule").broadcast(nodeList.getNodeFromID(id)); 
+			if (nodeList.hasID(id)) {
+				radio("node:schedule").broadcast(nodeList.getNodeFromID(id)); 
+			}
 		});
 
 		// Prepare list of selected filters

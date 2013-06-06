@@ -55,7 +55,7 @@ object Analyzer extends GetFiles {
 
 
 case class Analyzer(docs : Map[String, Document]) extends GetFiles
-                                                     with ISIT2012
+                                                     with ISIT2013
                                                      with ExtendPaper
                                                      with BagOfWordsLSI
                                                      with XMLScheduleParser {
@@ -165,14 +165,14 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Cluster the documents with louvain clustering
    */
-  def louvain(treshold : Int = 20) : Analyzer = {
+  def louvain(limit : Int = 5) : Analyzer = {
 
-    val overTreshold = overNLinks(treshold)
+    val overTreshold : Analyzer = limitNLinks(limit)
 
     // clusters organized by id
     val clusters : Map[String, Int] = Louvain.cluster(Louvain.init(overTreshold.docs))
 
-    val ds = for((id, d) <- docs) yield (id -> d.setCluster(("louvain" + treshold.toString) -> clusters(id)))
+    val ds = for((id, d) <- docs) yield (id -> d.setCluster(("louvain" + limit.toString) -> clusters(id)))
 
     return Analyzer(ds)
   }
@@ -198,13 +198,22 @@ case class Analyzer(docs : Map[String, Document]) extends GetFiles
   /**
    * Filters the links
    */
-  def overNLinks(n : Int) : Analyzer = {
+  def limitNLinks(n : Int) : Analyzer = {
+
+    val allWeights : List[Int] = {
+      for ((id, d) <- docs; l <- d.links) yield l.weight
+    }.toList.sorted.reverse
+
+    val treshold : Int = allWeights.size match {
+      case k if k > docs.size*n => allWeights.drop(docs.size*n)(0)
+      case otherwise            => allWeights(0)
+    }
 
     // Take only links over a certain treshold
-    def overN(n : Int)(ls : List[Link]) : List[Link] = ls.filter(_.weight > n)
+    def tresholdN(treshold : Int)(ls : List[Link]) : List[Link] = ls.filter(_.weight > treshold)
 
     // Filter links
-    val ds = for ((id, d) <- docs) yield (id -> d.setLinks(overN(n)(d.links)))
+    val ds = for ((id, d) <- docs) yield (id -> d.setLinks(tresholdN(treshold)(d.links)))
 
     return Analyzer(ds)
   }
