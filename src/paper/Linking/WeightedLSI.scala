@@ -1,20 +1,26 @@
-package src.paper
+package paper
+
+import breeze.linalg._
+import breeze.classify
+import org.netlib.lapack.LAPACK
+import org.netlib.util.intW
+import breeze.linalg.support.{CanCopy}
 
 import paper.BagOfWordsLSI
 
 trait WeightedLSI extends BagOfWordsLSI{
   
-  var matrixOfWeights : breeze.linalg.DenseMatrix[Int] = breeze.linalg.DenseMatrix.zeros[Int](0,0)
+  //override var matrixOfWeights : breeze.linalg.DenseMatrix[Int] = breeze.linalg.DenseMatrix.zeros[Int](0,0)
 
   override def init(papers : List[Paper]) : Unit = {
     matrixOfWeights = createTDMatrix(papers,50)
   }
 
-  def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights,i1).valueAt(i2)
+  override def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights,i1).valueAt(i2)
 
 
   
-  def getScores(matrixOfScores: breeze.linalg.DenseMatrix[Int], column: Int): DenseVector[Int] ={
+  override def getScores(matrixOfScores: breeze.linalg.DenseMatrix[Int], column: Int): DenseVector[Int] ={
 
 	  val matrixOfScoresTranspose = matrixOfScores.t
 
