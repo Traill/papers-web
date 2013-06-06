@@ -265,7 +265,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 						//.linkDistance(40)
 						//.friction(0.8)
 						//.theta(0.8)
-						.charge(-500)
+						.charge(-400)
 						.linkDistance(20)
 						.friction(0.8)
 						.theta(0.8)
