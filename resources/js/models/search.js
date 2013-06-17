@@ -93,6 +93,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 			f = f.or(new_f);
 		});
 
+
 		// Add location and time
 		f = f.interval(data.from, data.to);
 		f = f.location(data.location);
@@ -104,6 +105,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// Update current filter
 		search.current = createCurrent();
+
+		// Get the number of results
+		data.hits = search.results.length;
 
 		// Draw the update
 		radio("filter:publish").broadcast(data, index);
@@ -157,7 +161,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		search.current = createCurrent();
 
 		// Update graph
-		updateResults();
+		updateResults(index);
 
 	}
 
@@ -172,7 +176,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		search.current = createCurrent();
 
 		// Update graph
-		updateResults();
+		updateResults(index);
 	}
 
 
@@ -198,7 +202,7 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 
 	// Updates the graph with the search results
-	var updateResults = function() {
+	var updateResults = function(index) {
 
 		// Get the old nodes
 		var oldNodes = search.results;
@@ -212,8 +216,11 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		// For each of the new nodes, mark it
 		search.results.forEach(function(node) { radio("search:add").broadcast(node); });
 
+		// Get the number of results
+		search.data.hits = search.results.length;
+
 		// Make sure we save the data
-		radio("save:filters").broadcast(search.data);
+		radio("save:filters").broadcast(search.data, index);
 	}
 
 	// Add all the node in the schedule

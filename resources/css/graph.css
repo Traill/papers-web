@@ -195,10 +195,11 @@ img.imgdownload				{ padding-left:2px; }
 img.imgpresentation			{ padding-top:2px; }
 span.listItemLabel p		{ float: left; width: 180px; }
 
-div.minitoolbar				{ position: absolute; margin-left: 240px; margin-top: 5px; }
+div.minitoolbar				{ position: absolute; margin-left: 225px; margin-top: 5px; }
 .minitoolbar img 			{ width: 10px; }
 .minitoolbar a				{ float: left; display: inline; margin-left: 5px; }
 /*.listItemRemove 			{} */
+.minitoolbar .itemHits 		{ text-shadow: none; float: left; display: inline; margin-left: 5px; width: 10px; height: 10px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-size: 7px; text-align: center; line-height: 10px; color: #CFCFCF; background: #3C3C3D;}
 
 ul.infoList					{ position: relative; display: block; padding-left:0; margin: 10px 0 10px 10px; list-style: none; }
 li.infoItem 				{ position: relative; padding-left: 2px; list-style: none; border-bottom: 1px solid #ddd; width: auto; margin: 0 5px -1px 0; line-height: 1em;clear:both; }
