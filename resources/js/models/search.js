@@ -58,6 +58,9 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// Do an action on a filter (is this really necessary?)
 		// radio("filter:action").subscribe(action);
+		
+		// Schedule all current nodes in results
+		radio("filter:scheduleAll").subscribe(scheduleAll);
 	}
 
 
@@ -115,6 +118,8 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 			radio("filter:deselect").broadcast(i);
 		});
 	}
+
+	
 
 	//////////////////////////////////////////////
 	//											//
@@ -209,6 +214,14 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// Make sure we save the data
 		radio("save:filters").broadcast(search.data);
+	}
+
+	// Add all the node in the schedule
+	var scheduleAll = function(){
+
+		// For each of the new nodes, add it in the schedule
+		search.results.forEach(function(node) { radio("node:schedule").broadcast(node); });
+
 	}
 
 

@@ -122,6 +122,12 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 		// Make removable
 		f.find("a.listItemRemove").click(function() { radio("filter:remove").broadcast(index); return false; });
 
+		// Make removable
+		f.find("a.listScheduleAll").click(function(e) { 
+			e.preventDefault();
+			radio("filter:scheduleAll").broadcast(index);
+		});
+
 		// now add text and add it
 		$("#filterList").append(f)
 	}
