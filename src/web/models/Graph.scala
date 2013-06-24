@@ -4,8 +4,9 @@ package web
 import paper.Cache
 import net.liftweb.json._
 import net.liftweb.json.Serialization.{read, write}
+import scala.util.{Try,Success,Failure}
 
-case class UserGraph(scheduled : List[String], filters : List[Filter], selected : String)
+case class UserGraph(scheduled : List[String], filters : List[Filter], selected : String, spread : BigInt)
 case class Filter(keywords : String, from : BigInt, to : BigInt, context : List[String], removed : Boolean, selected : Boolean)
 
 object GraphModel {
@@ -16,16 +17,16 @@ object GraphModel {
   private var graphs : Map[String, String] = Map.empty
 
   // Saves a particular graph
-  def set(id : String, data : String) : Unit = {
-    println(data)
-    Cache.putItem(collection, id, fromJSON(data))
+  def set(id : String, data : String) : Unit = fromJSON(data) match {
+    case Some(g) => Cache.putItem(collection, id, g)
+    case None => println("Problem saving graph: " + data)
   }
 
   // Loads a particular graph
   def get(id : String) : String = {
     val g : Option[UserGraph] = Cache.getItem[UserGraph](collection, id)
-    println(g)
-    g.map { toJSON(_) } getOrElse("")
+    println("Getting data: " + g)
+    g.map { toJSON(_).getOrElse("") } getOrElse("")
   }
 
   // Checks if we already have a particular id saved
@@ -40,10 +41,10 @@ object GraphModel {
   implicit val formats = DefaultFormats
 
   // Convert graph to json
-  def toJSON(g : UserGraph) : String = write(g)
+  def toJSON(g : UserGraph) : Option[String] = Try(write(g)).toOption
 
   // Convert JSON to paper
-  def fromJSON(json : String) : UserGraph = read[UserGraph](json)
+  def fromJSON(json : String) : Option[UserGraph] = Try(read[UserGraph](json)).toOption
 
   // Example saved graph:
   // {"scheduled":["203","257","1840","175","508","2309","658","1509"],

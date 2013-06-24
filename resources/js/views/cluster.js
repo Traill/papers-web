@@ -78,6 +78,7 @@ define(["radio", "models/cluster", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js'
 	
 
 	var setSpread = function(n) {
+		console.debug("Moving slider to: " + n)
 		$("#slider").slider({ value: n });
 		if (n != 0) {
 			$("#spread").html(n)
