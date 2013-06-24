@@ -136,9 +136,13 @@ curl(
 				<li id="listItemTemplate" class="listItem">
 
 				<a class="listItemPdfLink" href="#" target="_blank">
-					<a href="#" class="listItemRemove">
-						<img src="/img/icons/remove.png" />
-					</a>
+					
+					<div class="minitoolbar" style="margin-left: 240px;">
+						<a href="#" class="listItemRemove">
+							<img src="/img/icons/remove.png" />
+						</a>
+					</div>
+					
 					<span class="listItemLabel">
 						<div class="clear" style="height: 8px;"></div>
 						<img src="/img/icons/paper.png" />
@@ -216,19 +220,26 @@ curl(
 				<div class="clear" style="height: 20px;"></div>
 				<ul id="filterList">
 					<li id="filterItemTemplate" class="filterItem">
+						
+						<div class="minitoolbar">
+							<a href="#" class="listScheduleAll">
+								<img src="/img/icons/calendar.png" />
+							</a>
 
-					<a href="#" class="listItemRemove">
-						<img src="/img/icons/remove.png" />
-					</a>
+							<a href="#" class="listItemRemove">
+								<img src="/img/icons/remove.png" />
+							</a>
 
+							<div class="itemHits"></div>
+						</div>
 
-					<span class="listItemLabel">
-						<div class="clear" style="height: 8px;"></div>
-						<img src="/img/filter.png" />
-						<p class="filterItem"></p>
-						<div class="clear" style="height: 8px;"></div>
-					</span>
-					<div class="clear"></div>
+						<span class="listItemLabel">
+							<div class="clear" style="height: 8px;"></div>
+							<img src="/img/filter.png" />
+							<p class="filterItem"></p>
+							<div class="clear" style="height: 8px;"></div>
+						</span>
+						<div class="clear"></div>
 					</li>
 				</ul>
 			</div>

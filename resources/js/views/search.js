@@ -26,6 +26,9 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 
 		// When a filter is deselected
 		radio("filter:deselect").subscribe(deselect);
+
+		// When we change the model, update the view
+		radio("save:filters").subscribe(updateHits);
 	}
 
 
@@ -122,8 +125,26 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 		// Make removable
 		f.find("a.listItemRemove").click(function() { radio("filter:remove").broadcast(index); return false; });
 
+		// Make removable
+		f.find("a.listScheduleAll").click(function(e) { 
+			e.preventDefault();
+			radio("filter:scheduleAll").broadcast(index);
+		});
+
+		// Print the number of hits:
+		f.find("div.itemHits").html(filter.hits);
+
 		// now add text and add it
 		$("#filterList").append(f)
+	}
+
+	// Update the number of hits 
+	var updateHits = function(data, index){
+		// Get the filter
+		var f = $("#filter" + index);
+
+		// Print the number of hits:
+		f.find("div.itemHits").html(data.hits);
 	}
 
 
