@@ -59,7 +59,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 			// Check if we already have the clustering for 'n'
 			if (cluster.groups[clusterName] == undefined) {
-				$.getJSON("ajax/clusters/" + clusterName, function(data) { 
+				$.getJSON("/ajax/clusters/" + clusterName, function(data) { 
 					cluster.groups[clusterName] = toIndex(data);
 					render(clusterName);
 				})

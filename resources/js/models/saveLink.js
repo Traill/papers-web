@@ -14,7 +14,7 @@ define(["models/nodeList", "models/search", "models/cluster", "radio", "util/arr
 	//               Properties					//
 	//											//
 	//////////////////////////////////////////////
-	saveLink.data = { scheduled:[], filters:[] }
+	saveLink.data = { scheduled:[], filters:[], spread:0 }
 	saveLink.capture = true;
 	saveLink.id = "";
 
@@ -47,6 +47,7 @@ define(["models/nodeList", "models/search", "models/cluster", "radio", "util/arr
 
 		// Load cookie
 		var g = JSON.parse(cookie("graph"));
+		console.log(g)
 		if (typeof g == "string") g = JSON.parse(g);
 
 		// Check if cookie is set
@@ -235,12 +236,13 @@ define(["models/nodeList", "models/search", "models/cluster", "radio", "util/arr
 
 		// Set the right amount of clustering
 		if (data.spread != undefined && data.spread != 0) {
-			radio("slider:move").broadcast(data.spread)
 			cluster.setSpread(data.spread)
+			radio("slider:move").broadcast(data.spread)
 		}
 
 		// Update data
 		saveLink.data = data;
+		console.debug(data)
 
 		// Switch back noSave flag so changes are saved
 		saveLink.capture = true;
