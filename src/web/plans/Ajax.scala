@@ -34,7 +34,6 @@ object Ajax extends async.Plan with ServerErrorResponse {
     // Get cluster of type k
     case req @ Path(Seg("ajax" :: "clusters" :: k :: Nil)) => {
       val json : String = PaperModel.getClusters(k)
-      println(json)
       req.respond(JsonContent ~> ResponseString(json))
     }
 

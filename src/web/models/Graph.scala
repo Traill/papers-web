@@ -25,7 +25,6 @@ object GraphModel {
   // Loads a particular graph
   def get(id : String) : String = {
     val g : Option[UserGraph] = Cache.getItem[UserGraph](collection, id)
-    println("Getting data: " + g)
     g.map { toJSON(_).getOrElse("") } getOrElse("")
   }
 
