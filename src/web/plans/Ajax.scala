@@ -63,10 +63,7 @@ object Ajax extends async.Plan with ServerErrorResponse {
 
     // Load a graph
     case req @ Path(Seg("ajax" :: "loadPos" :: id :: Nil))  => {
-      val pos : String = id match {
-            case "default.js" => "define(function() { return ".concat(PositionModel.get("default") ).concat(" });")
-            case _ => PositionModel.get(id)
-      }
+      val pos : String = PositionModel.get(id);
       req.respond(JsonContent ~> ResponseString(pos))
     }
 

@@ -36,6 +36,7 @@ define(["util/merge", "util/array", "util/levenshtein", "util/curry"],
 					and			: andFilter,
 					or			: orFilter,
 					not			: not,
+					hits		: 0,
 					_nodes		: undefined,
 					_filter		: defaultFilter, // Always returns true
 					_options	: {
@@ -219,6 +220,9 @@ define(["util/merge", "util/array", "util/levenshtein", "util/curry"],
 
 		// We filter the nodes
 		this._nodes = this._nodes.filter(this._filter);
+
+		// Update the number of it:
+		this.hits = this._nodes.length;
 
 		return this._nodes;
 	}

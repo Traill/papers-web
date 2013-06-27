@@ -106,8 +106,8 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 		// Update current filter
 		search.current = createCurrent();
 
-		// Get the number of results
-		data.hits = search.results.length;
+		f.nodes(nodeList.nodes);
+		data.hits = f.hits;
 
 		// Draw the update
 		radio("filter:publish").broadcast(data, index);
@@ -215,9 +215,6 @@ define(["filter", "radio", "models/nodeList"], function (filter, radio, nodeList
 
 		// For each of the new nodes, mark it
 		search.results.forEach(function(node) { radio("search:add").broadcast(node); });
-
-		// Get the number of results
-		search.data.hits = search.results.length;
 
 		// Make sure we save the data
 		radio("save:filters").broadcast(search.data, index);

@@ -46,6 +46,9 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 		radio("save:cluster").broadcast(cluster.spread);
 
+		// Change the graph id:
+		graph.id = cluster.spread == 0 ? "default": cluster.type + cluster.spread;
+
 		// Check if we are unclustering:
 		if (cluster.spread == 0) {
 			unCluster();
@@ -105,7 +108,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		})
 
 		// Render graph
-		graph.set(nodeList.getNodes(), linkList.getLinks(), 300)
+		graph.set(nodeList.getNodes(), linkList.getLinks(), 100)
 	}
 
 
@@ -127,8 +130,11 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 			else radio("link:show").broadcast(l);
 		});
 
+		// Change the graph id:
+		graph.id = cluster.spread == 0 ? "default": cluster.type + cluster.spread;
+
 		// Render graph
-		graph.set(nodeList.getNodes(), linkList.getLinks(), 300)
+		graph.set(nodeList.getNodes(), linkList.getLinks(), 100)
 	}
 
 

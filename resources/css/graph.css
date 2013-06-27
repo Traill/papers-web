@@ -195,7 +195,7 @@ img.imgdownload				{ padding-left:2px; }
 img.imgpresentation			{ padding-top:2px; }
 span.listItemLabel p		{ float: left; width: 180px; }
 
-div.minitoolbar				{ position: absolute; margin-left: 225px; margin-top: 5px; }
+div.minitoolbar				{ height: 20px; margin-bottom: -20px; margin-left: 225px; margin-top: 5px; }
 .minitoolbar img 			{ width: 10px; }
 .minitoolbar a				{ float: left; display: inline; margin-left: 5px; }
 /*.listItemRemove 			{} */

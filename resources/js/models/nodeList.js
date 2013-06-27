@@ -100,6 +100,9 @@ define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"
 		// When some code calls toggleSelect, we check if the node is 
 		// selected or not and call the proper event back
 		radio("node:toggleScheduled").subscribe(toggleScheduled);
+
+		// Update the position when we received async new position:
+		radio("position:loaded").subscribe(updatePos);
 	};
 
 
@@ -318,6 +321,18 @@ define(["ajax/nodes", "radio", "util/array", "util/cookie", "models/nodeFactory"
 //	var select = function(node) {
 //		nodeList.selected = node;
 //	}
+//	
+	
+	// Update the position of all nodes:
+	var updatePos = function(new_position){
+		
+		nodeList.nodes.forEach(function (n) { 
+			var pos = new_position.get(n.id);
+			n.x = pos.x;
+			n.y = pos.y;
+		});
+
+	}
 
 
 

@@ -47,7 +47,6 @@ define(["models/nodeList", "models/search", "models/cluster", "radio", "util/arr
 
 		// Load cookie
 		var g = JSON.parse(cookie("graph"));
-		console.log(g)
 		if (typeof g == "string") g = JSON.parse(g);
 
 		// Check if cookie is set
@@ -242,7 +241,7 @@ define(["models/nodeList", "models/search", "models/cluster", "radio", "util/arr
 
 		// Update data
 		saveLink.data = data;
-		console.debug(data)
+		//console.debug(data)
 
 		// Switch back noSave flag so changes are saved
 		saveLink.capture = true;

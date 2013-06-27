@@ -6,8 +6,8 @@
  * TODO: Change every event to pass id and not the complete node object!
  */
 
-define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "params", "views/loader", "models/nodeList"], 
-	   function(d3, screen, radio, levenshtein, zoom, config, loader, nodeList) {
+define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "params", "views/loader", "models/nodeList", "controllers/position"], 
+	   function(d3, screen, radio, levenshtein, zoom, config, loader, nodeList, position) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -15,7 +15,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	//											//
 	//////////////////////////////////////////////
 	var graph = {}
-
+	graph.id = "default";
 
 
 	//////////////////////////////////////////////
@@ -97,8 +97,12 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Initialize events
 		graph.events(nodes);
 
+		// Find the position:
+		position.load(graph.id);
+
 		// Render the updated graph if we haven't already done that 
 		graph.render(nodes, links, iter);
+		
 	}
 
 
@@ -195,7 +199,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Define some conditions to stop:
 		var treshold = 1.5; //3.1 is ideal
 		//var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
-		var nbTotIter = (iter) ? iter : 500; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = (iter) ? iter : 100; // Wait less than 10s to avoid unreachead minimum 
 		
 		// Hide all edges
 		radio("link:hideAll").broadcast();
@@ -239,7 +243,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			radio("loader:hide").broadcast();
 			
 			// Broadcast the event that the graph has changed:
-			radio("graph:changed").broadcast(nodes);
+			radio("graph:changed").broadcast(nodes, graph.id);
 		}
 	}
 
