@@ -214,11 +214,11 @@ div.scheduleSelect			{ filter:progid:DXImageTransform.Microsoft.gradient(startCo
 
 /* Graph style */
 #graph circle						{ cursor: pointer; }
-#graph circle.node 				{ fill: #ffbf44; stroke: #ffd; stroke-width: 1.5px; }
-#graph circle.scheduled		{ fill: #3C6E70; stroke: #86B5B3; stroke-width: 1px; }
+#graph circle.node 				{ fill: #ffbf44; stroke: #ffd; stroke-width: 3.5px; }
+#graph circle.scheduled		{ fill: #3C6E70; stroke: #86B5B3; stroke-width: 5px; }
 #graph circle.hover				{ fill: #D76534; stroke: #fdd; }
 #graph circle.selected				{ fill: #990C00; stroke: #dff; }
-#graph circle.search				{ stroke: #FFF200; fill: #D9B82D; stroke-width:3px; }
+#graph circle.search				{ stroke: #FFBB22; stroke-width:8px; }
 /*{ stroke: #4CBDFF; fill: #4C94FF; stroke-width:3px; }*/
 
 /* Line value:*/
