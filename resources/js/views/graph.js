@@ -88,6 +88,12 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 		// Deselect it
 		node.domNode.classed("scheduled", false);
+		if (domNode.classed("selected")) {
+			domNode.transition().attr('r', config['radius_selected']);
+		}
+		else {
+			domNode.transition().attr('r', config['radius']);
+		}
 	}
 
 
@@ -142,7 +148,12 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 		// Make node red
 		domNode.classed("selected", false);
-		domNode.transition().attr('r', config['radius']);
+		if (domNode.classed("scheduled")) {
+			domNode.transition().attr('r', config['radius_scheduled']);
+		}
+		else {
+			domNode.transition().attr('r', config['radius']);
+		}
 		
 		nodes.selected = null;
 		

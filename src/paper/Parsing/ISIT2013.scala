@@ -57,9 +57,22 @@ trait ISIT2013 extends XMLParser with PDFLoader {
               val room = data(6) // TODO: This is not the true room number
               id -> Map("title" -> title, "abstract" -> abstr, 
                         "authors" -> authors, "session" -> session,
-                        "date" -> timestamp, "room" -> room)
+                        "date" -> timestamp, "room" -> getRoom(room))
     }
     return m.toMap
+  }
+
+
+  private def getRoom(r : String) : String = r(3) match {
+    case '1' => "Anadolu"
+    case '2' => "Marmara"
+    case '3' => "Dolmabahce A"
+    case '4' => "Dolmabahce B"
+    case '5' => "Dolmabahce C"
+    case '6' => "Topkapi A"
+    case '7' => "Topkapi B"
+    case '8' => "Galata"
+    case '9' => "Halic"
   }
 
   private def sanitizeLine(line : String) =

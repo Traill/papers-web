@@ -18,12 +18,13 @@ define(function () {
 	// config['zoomInit'] = 0.5;
 
 	// Radius for the node:
-	config['radius'] = 4;
-	config['radius_selected'] = 6;
+	config['radius'] = 6;
+	config['radius_selected'] = 15;
+	config['radius_scheduled'] = 10;
 	
 	// Width of a edge:
-	config['edgeSize'] = 1;
-	config['edgeSize_hover'] = 3;
+	config['edgeSize'] = 1.5;
+	config['edgeSize_hover'] = 5;
 	
 	
 	// Zoom parameters:
