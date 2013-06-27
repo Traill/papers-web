@@ -43,9 +43,9 @@ define(function () {
 
 
 	config['conference_data'] = "http://ipgwww.epfl.ch/~arnfred/papers/";
-	config['conference_abbr'] = "ita2013";
-	config['conference_name'] = "Information Theory and Applications Workshop";
-	config['conference_place'] = "Catamaran Resort, San Diego";
+	config['conference_abbr'] = "isit2013";
+	config['conference_name'] = "IEEE International Symposium on Information Theory";
+	config['conference_place'] = "Istanbul, Turkey";
 
 	return config; 
 
