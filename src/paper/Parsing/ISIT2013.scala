@@ -51,9 +51,10 @@ trait ISIT2013 extends XMLParser with PDFLoader {
               val title = data(1)
               val abstr = data(2)
               val authors = data(3)
-              val session = data(5)
+              val session = data(6)
               val dateString = data(7)
-              val timestamp = getDate(dateString.split(" ")(0), dateString.split(" ")(1))
+              val sessionNumber = data(9)
+              val timestamp = getDate(dateString.split(" ")(0), dateString.split(" ")(1), sessionNumber.toInt)
               val room = data(6) // TODO: This is not the true room number
               id -> Map("title" -> title, "abstract" -> abstr, 
                         "authors" -> authors, "session" -> session,
@@ -86,7 +87,7 @@ trait ISIT2013 extends XMLParser with PDFLoader {
     case l                  => l.takeWhile(_ != ',') :: chopLine(l.dropWhile(_ != ',').drop(1))
   }
 
-  private def getDate(date : String, time : String) : String = {
+  private def getDate(date : String, time : String, sessionNumber : Int) : String = {
     import java.util.Calendar
     import java.sql.Timestamp
 
@@ -98,8 +99,11 @@ trait ISIT2013 extends XMLParser with PDFLoader {
     // Get Calendar
     var c = Calendar.getInstance
 
+    val addMinutes = (sessionNumber - 1) * 20) % 60
+    val addHours = ((sessionNumber - 1) * 20) / 60
+
     // Set starting point
-    c.set(yearNum, monthNum-1, dayNum, hourNum, minNum)
+    c.set(yearNum, monthNum-1, dayNum, hourNum + addHours, minNum + addMinutes)
     c.set(Calendar.SECOND,0)
     c.set(Calendar.MILLISECOND,0)
 
