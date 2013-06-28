@@ -7,6 +7,8 @@ import scala.io.Codec
 
 trait ISIT2013 extends XMLParser with PDFLoader {
 
+  var meta : Map[String, Map[String, String]] = Map.empty
+
   def parseDoc(doc : Document) : Option[Document] = {
     val pdfName : String = Analyzer.filePath + doc.id + ".pdf"
     println(pdfName)
@@ -34,7 +36,10 @@ trait ISIT2013 extends XMLParser with PDFLoader {
 
     val csvPath = "resources/isit2013/isit2013.csv" // TODO: shouldn't be hardcoded
 
-    return getMeta(csvPath).get(doc.id) map { meta =>
+    // Fetch meta if we haven't done so already
+    if (meta == Map.empty) meta = getMeta(csvPath)
+
+    return meta.get(doc.id) map { meta =>
       val as = getAuthors(meta("authors"))
       val p = paper.setAbstract(meta("abstract")).setTitle(meta("title")).setAuthors(as)
       doc.setMeta(meta).setPaper(p)
@@ -44,21 +49,21 @@ trait ISIT2013 extends XMLParser with PDFLoader {
   private def getMeta(path : String) : Map[String, Map[String, String]] = {
 
     val lines = Source.fromFile(path).getLines.drop(1)
-    val m = for ((l,i) <- lines.zipWithIndex) yield {
-              val data = chopLine(l)
+    val m = for (l <- lines) yield {
+      val data = chopLine(l)
 
-              val id = data(0)
-              val title = data(1)
-              val abstr = data(2)
-              val authors = data(3)
-              val session = data(6)
-              val dateString = data(7)
-              val sessionNumber = data(9)
-              val timestamp = getDate(dateString.split(" ")(0), dateString.split(" ")(1), sessionNumber.toInt)
-              val room = data(6) // TODO: This is not the true room number
-              id -> Map("title" -> title, "abstract" -> abstr, 
-                        "authors" -> authors, "session" -> session,
-                        "date" -> timestamp, "room" -> getRoom(room))
+      val id = data(0)
+      val title = data(1)
+      val abstr = data(2)
+      val authors = data(3)
+      val session = data(6)
+      val sessionCode = data(7)
+      val dateString = data(8)
+      val sessionNumber = data(10)
+      val timestamp = getDate(dateString.split(" ")(0), dateString.split(" ")(1), sessionNumber.toInt)
+      id -> Map("title" -> title, "abstract" -> abstr, 
+                "authors" -> authors, "session" -> session,
+                "date" -> timestamp, "room" -> getRoom(sessionCode))
     }
     return m.toMap
   }
@@ -95,12 +100,13 @@ trait ISIT2013 extends XMLParser with PDFLoader {
     val monthNum : Int = date.split('-')(1).toInt
     val yearNum : Int = date.split('-')(0).toInt
     val hourNum : Int = time.split(':').head.toInt
-    val minNum : Int = time.split(':').last.takeWhile(_.isDigit).toInt
+    val minNum : Int = time.split(':')(1).takeWhile(_.isDigit).toInt
     // Get Calendar
     var c = Calendar.getInstance
 
-    val addMinutes = (sessionNumber - 1) * 20) % 60
+    val addMinutes = ((sessionNumber - 1) * 20) % 60
     val addHours = ((sessionNumber - 1) * 20) / 60
+
 
     // Set starting point
     c.set(yearNum, monthNum-1, dayNum, hourNum + addHours, minNum + addMinutes)
