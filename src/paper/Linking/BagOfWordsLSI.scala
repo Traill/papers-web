@@ -14,7 +14,8 @@ trait BagOfWordsLSI extends ComparePaper {
   var matrixOfWeights : breeze.linalg.DenseMatrix[Int] = breeze.linalg.DenseMatrix.zeros[Int](0,0)
 
   override def init(papers : List[Paper]) : Unit = {
-    matrixOfWeights = createTDMatrix(papers,40)
+    val diagonal_size = scala.math.sqrt(papers.length.toFloat).toInt * 2
+    matrixOfWeights = createTDMatrix(papers, diagonal_size)
   }
 
   def getWeight(p1 : Paper, p2 : Paper, i1 : Int, i2 : Int) : Int = getScores(matrixOfWeights,i1).valueAt(i2)

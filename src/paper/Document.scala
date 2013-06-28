@@ -2,14 +2,12 @@ package paper
 
 import net.liftweb.json._
 
-
 case class Document(id : String,
                     paper : Paper, 
                     links : List[Link], 
                     meta : Map[String, String],
                     cluster : Map[String, Int]) extends AbstractDocument
 
-// TODO: delete meta
 case class Paper(title:     Title, 
                  authors:   List[Author], 
                  abstr:     Abstract, 

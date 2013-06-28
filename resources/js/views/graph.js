@@ -32,6 +32,9 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 
 		// On node mouseout
 		radio("node:mouseout").subscribe(hoverOut);
+
+		// On unschedule
+		radio("node:unschedule").subscribe(unschedule);
 		// Idem when over an arrow
 		radio("arrow:out").subscribe(hoverOut);
 
@@ -86,8 +89,10 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 	// unschedule a particular node
 	var unschedule = function(node) {
 
+		domNode = node.domNode;
 		// Deselect it
-		node.domNode.classed("scheduled", false);
+		domNode.classed("scheduled", false);
+		radio("node:mouseout").broadcast(node);
 		if (domNode.classed("selected")) {
 			domNode.transition().attr('r', config['radius_selected']);
 		}
@@ -182,8 +187,6 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 		domNode.classed("search",false);
 	}
 	
-	
-	// Question: Jonas where do you see setFocus?
 	
 	// Focus on a particular node
 	var setFocus = function(node) {

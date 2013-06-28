@@ -241,7 +241,6 @@ define(["models/nodeList", "models/search", "models/cluster", "radio", "util/arr
 
 		// Update data
 		saveLink.data = data;
-		//console.debug(data)
 
 		// Switch back noSave flag so changes are saved
 		saveLink.capture = true;
