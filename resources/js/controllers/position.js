@@ -1,4 +1,4 @@
-define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], function ($, radio, config, arrrr, res) {
+define(["jquery", "radio", "params","util/array"], function ($, radio, config, arrrr) {
 
 	//////////////////////////////////////////////
 	//											//
@@ -7,7 +7,8 @@ define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], funct
 	//////////////////////////////////////////////
 	var position = {};
 
-	
+
+
 	//////////////////////////////////////////////
 	//											//
 	//               Properties					//
@@ -16,7 +17,7 @@ define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], funct
 
 	// Will be something like:
 	// {"ididididid": {'x':12, 'y': 13}, ... }
-	var pos_data = res ? res: {} ;
+	var pos_data = {} ;
 
 	//////////////////////////////////////////////
 	//											//
@@ -36,8 +37,10 @@ define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], funct
 	//											//
 	//////////////////////////////////////////////
 	position.init = function() {
-			// Nothing here
-
+			// Load the correct position:
+			// Do we load it, or wait the graph.set?
+			
+			//this.load("default");
 			return this;
 	}
 
@@ -62,10 +65,12 @@ define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], funct
 		if(!id) id = "default";
 		//if (config['save_position']) return
 		data = {};
+		//console.log("Saving graph "+id);
 		// Get the position of the node.
 		nodes.forEach(function(el){
 			data[el.id] = {'x': el.x, 'y': el.y}
 		});
+		console.log(data);
 		// Save with ajax
 		$.ajax({
 			type: "POST",
@@ -85,12 +90,19 @@ define(["jquery", "radio", "params","util/array", "ajax/loadPos/default"], funct
 	// Loads the position
 	position.load = function(id) {
 
-		
+		console.log("Loading graph "+id);
+
 		// Make ajax call to get data
 		$.getJSON("ajax/loadPos/"+id, function (response) {
-
 			if (response) {
 				pos_data = response;
+				//console.log(response['1569686529']);
+				// Just for test
+				//setTimeout(function(){
+					radio("position:loaded").broadcast(position);
+				//}, 80);
+				
+				
 			}
 		});
 

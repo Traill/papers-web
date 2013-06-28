@@ -131,20 +131,24 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 			radio("filter:scheduleAll").broadcast(index);
 		});
 
-		// Print the number of hits:
-		f.find("div.itemHits").html(filter.hits);
-
+		
 		// now add text and add it
-		$("#filterList").append(f)
+		$("#filterList").append(f);
+
+		// Update the hits:
+		updateHits(filter, index);
 	}
 
 	// Update the number of hits 
 	var updateHits = function(data, index){
 		// Get the filter
 		var f = $("#filter" + index);
-
+		
 		// Print the number of hits:
-		f.find("div.itemHits").html(data.hits);
+		if( !isNaN(data.hits) ){
+			f.find("div.itemHits").html(data.hits);
+			console.log('ok')
+		}
 	}
 
 

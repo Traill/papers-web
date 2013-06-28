@@ -34,7 +34,7 @@ object PositionModel {
   // we can save the position per user!
   def set(id : String, data : String) : Unit = {
     positions += (id -> data)
-    println("position saved")
+    println("position saved " + id)
 
     // write file
     var out = new PrintStream(new FileOutputStream("positions.dat"))
@@ -52,9 +52,15 @@ object PositionModel {
   }
 
   // Load the position of a graph
-  def get(id : String) : String = positions.getOrElse(id,"")
-  // Save the position of the graph
-  // There is still an id so that later on
-  // we can save the position per user!
+  def get(id : String) : String = {
+
+    println("position loaded " + id)
+
+    positions.getOrElse(id,"")
+    // Save the position of the graph
+    // There is still an id so that later on
+    // we can save the position per user!
+    
+  }
 
 }

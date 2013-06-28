@@ -124,7 +124,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		 						//.attr('width', 4)
 		 						.attr('fill', '#990C00')
 		 						.classed('handle', true)
-		 						.attr('transform', "translate("+posx+", "+posy+") scale("+0.1+") rotate("+a+")" );
+		 						.attr('transform', "translate("+posx+", "+posy+") scale("+0.15+") rotate("+a+")" );
 		 						//.attr('y', );
 		
 		

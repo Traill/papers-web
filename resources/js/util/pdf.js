@@ -148,7 +148,7 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 				if(with_summary){
 			  		doc.pos += 5;
 			  		
-			  		var summary = node.getCachedAbstract().substr(11).replace(/(\r\n|\n|\r)/gm,"").paragraphy(60);
+			  		var summary = node.getCachedAbstract().replace(/(\r\n|\n|\r)/gm,"").paragraphy(60);
 			  		summary.forEach(function(string) {
 
 			  			if( doc.pos > MAX_PAGE_POS-1 ) {

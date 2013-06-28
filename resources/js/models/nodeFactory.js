@@ -111,8 +111,8 @@ define(["controllers/position", "util/merge", "params", "util/unixTime"],
 		var pos = {};
 		if(position.get(id) == null){
 			
-			pos.x = config['graph_width']*Math.random();
-			pos.y = config['graph_height']*Math.random();
+			pos.x = config['graph_width'] * Math.random();
+			pos.y = config['graph_height']* Math.random();
 			
 		}else {
 			pos = position.get(id);
