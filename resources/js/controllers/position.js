@@ -68,7 +68,7 @@ define(["jquery", "radio", "params","util/array"], function ($, radio, config, a
 		//console.log("Saving graph "+id);
 		// Get the position of the node.
 		nodes.forEach(function(el){
-			data[el.id] = {'x': el.x, 'y': el.y}
+			data[el.id] = {'x': parseInt(el.x), 'y': parseInt(el.y)}
 		});
 		console.log(data);
 		// Save with ajax
