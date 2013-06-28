@@ -112,6 +112,8 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 		// clone filter template
 		var f = $("#filterItemTemplate").clone()
 
+		
+
 		// Add info
 		var info = makeInfo(filter);
 		f.find("p.filterItem").append(info);
@@ -121,6 +123,8 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 
 		// Make clickable
 		f.find("span.listItemLabel").click(function() { radio("filter:selectToggle").broadcast(index); return false; });
+
+		
 
 		// Make removable
 		f.find("a.listItemRemove").click(function() { radio("filter:remove").broadcast(index); return false; });
@@ -135,6 +139,15 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 		// now add text and add it
 		$("#filterList").append(f);
 
+		// Get the size:
+		// Pb width jquery and async html parsing:
+		// make it at the right size;
+		//f.find("span.listItemLabel").css('width',( 265 - 55 ) + 'px' );
+
+		
+
+		
+
 		// Update the hits:
 		updateHits(filter, index);
 	}
@@ -147,7 +160,6 @@ define(["jquery", "radio", "util/datepicker", "models/search"], function ($, rad
 		// Print the number of hits:
 		if( !isNaN(data.hits) ){
 			f.find("div.itemHits").html(data.hits);
-			console.log('ok')
 		}
 	}
 
