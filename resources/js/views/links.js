@@ -57,7 +57,7 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 		radio("node:schedule").subscribe(scheduled)
 
 		// When a node is unscheduled
-		radio("node:schedule").subscribe(unscheduled)
+		radio("node:unschedule").subscribe(unscheduled)
 	}
 	
 
@@ -258,18 +258,26 @@ define(["lib/d3", "radio", "util/array", "models/nodeList", "models/graph", "par
 	}
 	
 	var unscheduled = function(node) {
-		
-		if( nodeList.selected == null || nodeList.selected.index != node.index){
+
+		for (var index in node.links) {
+			var link = node.links[index].link;
+			if(!link.domLink) throw new Error("Link with index: " + link.index + " has no DOM object");
 			
-			for (var index in node.links) {
-				var link = node.links[index];
-				if(link.domLink) {
-					var e = d3.event;
-					// Check if note selected
-					link.domLink.classed('scheduled', false);
-				}
-			}
+			var e = d3.event;
+			link.domLink.classed('scheduled', false);
+			
 		}
+		//if( nodeList.selected == null || nodeList.selected.index != node.index){
+		//	
+		//	for (var index in node.links) {
+		//		var link = node.links[index];
+		//		if(link.domLink) {
+		//			var e = d3.event;
+		//			// Check if note selected
+		//			link.domLink.classed('scheduled', false);
+		//		}
+		//	}
+		//}
 	}
 
 
