@@ -35,8 +35,8 @@ define(function () {
 
 
 	// graph force layout size:
-	config['graph_width'] = 1200;
-	config['graph_height'] = 700;
+	config['graph_width'] = 2400;
+	config['graph_height'] = 1400;
 	
 
 	config['talk_duration'] = 30;
