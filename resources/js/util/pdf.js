@@ -1,5 +1,16 @@
 define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/dateFormat', 'util/paragraphy'], function($, Class, jspdf, config, dateFormat, paragraphy) {
 
+	///////////////
+	// I shoul move this in its own file...
+	String.prototype.stripaccent = function() {
+	    var translate_re = /[àáâãäçèéêëìíîïñòóôõöùúûüýÿÀÁÂÃÄÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝ]/g;
+	    var translate = 'aaaaaceeeeiiiinooooouuuuyyAAAAACEEEEIIIINOOOOOUUUUY';
+	    return (this.replace(translate_re, function(match){
+	        return translate.substr(translate_re.source.indexOf(match)-1, 1); })
+	    );
+	}
+	///////////////
+
 	var MAX_PAGE_POS = 275; // end of page is at 295 for a font of 10
 	var yoffset = 90;
 
@@ -196,6 +207,8 @@ define(["jquery", "lib/jquery-class", "js!lib/jspdf.js!order", 'params', 'util/d
 			doc.setFontType("italic");
 			doc.setFontSize(10);
 			node.authors.forEach(function(author) {
+				// Encode it:
+				author = author.stripaccent();
 				if( (authors[i]+author).length < 60 ) authors[i] =  authors[i]  == ""? authors[i]+author: authors[i]+", "+author;
 				else {
 					i++;
