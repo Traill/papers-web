@@ -70,7 +70,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			});
 		});
 
-		
 		// Broadcast when the mouse exits a node
 		nodes.forEach(function(node){
 			node.domNode.on("mouseout", function(d, i) { 

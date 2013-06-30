@@ -70,7 +70,6 @@ define(["jquery", "radio", "params","util/array"], function ($, radio, config, a
 		nodes.forEach(function(el){
 			data[el.id] = {'x': parseInt(el.x), 'y': parseInt(el.y)}
 		});
-		console.log(data);
 		// Save with ajax
 		$.ajax({
 			type: "POST",
@@ -89,8 +88,6 @@ define(["jquery", "radio", "params","util/array"], function ($, radio, config, a
 
 	// Loads the position
 	position.load = function(id) {
-
-		console.log("Loading graph "+id);
 
 		// Make ajax call to get data
 		$.getJSON("ajax/loadPos/"+id, function (response) {
