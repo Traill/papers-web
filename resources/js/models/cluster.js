@@ -108,7 +108,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		})
 
 		// Render graph
-		graph.set(nodeList.getNodes(), linkList.getLinks(), 100)
+		graph.set(nodeList.getNodes(), linkList.getLinks(), 300)
 	}
 
 
@@ -134,7 +134,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		graph.id = cluster.spread == 0 ? "default": cluster.type + cluster.spread;
 
 		// Render graph
-		graph.set(nodeList.getNodes(), linkList.getLinks(), 100)
+		graph.set(nodeList.getNodes(), linkList.getLinks(), 300)
 	}
 
 
