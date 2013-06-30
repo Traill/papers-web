@@ -30,7 +30,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 	graph.zoom = zoom;
 
-
+	// Var to test if we have loaded some position from the server
+	var positionLoaded = false;
+	// Var to know if we are rendering or not:
+	var isRendering = false;
 
 	//////////////////////////////////////////////
 	//											//
@@ -133,6 +136,12 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 		// Create a new force Layout
 		//graph.set(nodes, links);
+		//
+		
+		// Listen to some events:
+		
+		// Listen when we have loaded the position:
+		radio("position:loaded").subscribe(positionLoadedFct);
 
 	}
 
@@ -199,8 +208,11 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		// Define some conditions to stop:
 		var treshold = 1.5; //3.1 is ideal
 		//var nbTotIter = 1000; // Wait less than 10s to avoid unreachead minimum 
-		var nbTotIter = (iter) ? iter : 100; // Wait less than 10s to avoid unreachead minimum 
+		var nbTotIter = (iter) ? iter : 300; // Wait less than 10s to avoid unreachead minimum 
 		
+		// Set the var:
+		isRendering = true;
+
 		// Hide all edges
 		radio("link:hideAll").broadcast();
 		
@@ -225,7 +237,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			graph.moveNodes(nodes);
 		
 		// Recourse
-		if (nbChanges(nodes) > treshold && iterations > 0){ 
+		if (nbChanges(nodes) > treshold && iterations > 0 && !positionLoaded ){ 
 
 			setTimeout(function() { graph.animate(nodes, links, treshold, iterations-1); }, 1);
 		}
@@ -243,7 +255,15 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			radio("loader:hide").broadcast();
 			
 			// Broadcast the event that the graph has changed:
-			radio("graph:changed").broadcast(nodes, graph.id);
+			radio("graph:changed").broadcast(nodes, graph.id, positionLoaded);
+
+			// Move one last time if we just loaded them:
+			if( positionLoaded )  graph.moveNodes(nodes);
+
+			// Reset the positionLoaded var
+			positionLoaded = false;
+			// Reset the isRendering var
+			isRendering = false;
 		}
 	}
 
@@ -327,7 +347,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	}
 
 	
-	
+	// Display the position has been loaded
+	var positionLoadedFct = function(){
+		if(isRendering) positionLoaded = true;
+	}
 
 	//////////////////////////////////////////////
 	//											//
