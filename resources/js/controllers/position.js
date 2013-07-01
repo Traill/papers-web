@@ -95,8 +95,6 @@ define(["jquery", "radio", "params","util/array"], function ($, radio, config, a
 	// Loads the position
 	position.load = function(id) {
 
-		console.log("Loading graph "+id);
-
 		// Make ajax call to get data
 		$.getJSON("ajax/loadPos/"+id, function (response) {
 			if (response && response != "" && !$.isEmptyObject(response) ) {

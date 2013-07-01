@@ -73,7 +73,6 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			});
 		});
 
-		
 		// Broadcast when the mouse exits a node
 		nodes.forEach(function(node){
 			node.domNode.on("mouseout", function(d, i) { 
@@ -101,11 +100,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.events(nodes);
 
 		// Find the position:
-		position.load(graph.id);
+		//position.load(graph.id);
 
 		// Render the updated graph if we haven't already done that 
 		graph.render(nodes, links, iter);
-		
 	}
 
 
