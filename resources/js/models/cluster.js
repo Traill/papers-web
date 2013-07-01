@@ -114,10 +114,10 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 
 	// Render a clustering
 	var render = function(clusterType) {
-
+		
 		// Get groups
 		g = cluster.groups[clusterType];
-
+		
 		// Now delete all the links that are going between two different clusters
 		linkList.getAllLinks().forEach(function (l) {
 

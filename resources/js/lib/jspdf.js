@@ -950,7 +950,7 @@ function jsPDF(/** String */ orientation, /** String */ unit, /** String */ form
 			case 'datauri':
 			case 'dataurl':
 				//document.location.href = 'data:application/pdf;base64,' + btoa(buildDocument()); break;
-				var form = $('<form action="pdf/schedule.pdf" method="post"></form>').appendTo('body');
+				var form = $('<form action="pdf/schedule.pdf" method="post" target="_blank"></form>').appendTo('body');
 				$('<input type="hidden" name="content" value="'+btoa(buildDocument())+'" />').appendTo(form);
 				form.submit(); break;
 			default: throw new Error('Output type "'+type+'" is not supported.') 
