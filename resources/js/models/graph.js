@@ -100,11 +100,10 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.events(nodes);
 
 		// Find the position:
-		position.load(graph.id);
+		//position.load(graph.id);
 
 		// Render the updated graph if we haven't already done that 
 		graph.render(nodes, links, iter);
-		
 	}
 
 

@@ -25,7 +25,7 @@ define(["radio", "models/nodeList", "models/linkList", "models/search", "models/
 
 	// If we have a clustering in the saved data then load that, if not render graph
 	if (saveLink.hasCluster()) cluster.makeClusters();
-	else graph.set(nodeList.getNodes(), linkList.getLinks())
+	else graph.set(nodeList.getNodes(), linkList.getLinks(), 500)
 
 
 	// Return the controller

@@ -43,10 +43,11 @@ define(function () {
 
 
 
-	config['conference_data'] = "http://ipgwww.epfl.ch/~arnfred/papers/";
+	config['conference_data'] = "http://yannik-messerli.com/isit2013/"; //"http://ipgwww.epfl.ch/~arnfred/papers/";
 	config['conference_abbr'] = "isit2013";
 	config['conference_name'] = "IEEE International Symposium on Information Theory";
 	config['conference_place'] = "Istanbul, Turkey";
+
 
 	return config; 
 

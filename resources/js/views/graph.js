@@ -67,12 +67,11 @@ define(["radio", "util/screen", "models/zoom", 'params', 'lib/d3', "models/nodeL
 	}
 
 
-	
 
-	//////////////////////////////////////////////	
+	//////////////////////////////////////////////
 	//											//
-	// 		PRIVATE FUNCTION FOR EVENTS:		//
-	// 											//
+	//		PRIVATE FUNCTION FOR EVENTS:		//
+	//											//
 	//////////////////////////////////////////////
 	
 	
