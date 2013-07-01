@@ -39,7 +39,7 @@ define(function () {
 	config['graph_height'] = 1400;
 	
 
-	config['talk_duration'] = 30;
+	config['talk_duration'] = 20;
 
 
 
@@ -47,6 +47,7 @@ define(function () {
 	config['conference_abbr'] = "isit2013";
 	config['conference_name'] = "IEEE International Symposium on Information Theory";
 	config['conference_place'] = "Istanbul, Turkey";
+	config['timezone'] = "Europe/Istanbul";
 
 
 	return config; 

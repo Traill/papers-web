@@ -94,7 +94,7 @@ define(["jquery", "lib/jquery-class", 'params', 'util/dateFormat'], function($, 
 
 	var BEGIN = "BEGIN:VCALENDAR\nVERSION:2.0\nMETHOD:PUBLISH";
 	var END = "\nEND:VCALENDAR";
-	var preDateTZID = ";TZID=Europe/Zurich:";
+	var preDateTZID = ";TZID=" + config['timezone'] + ":";
 
 	// TODO genreated UID:
 	var UID = function(){
@@ -112,7 +112,7 @@ define(["jquery", "lib/jquery-class", 'params', 'util/dateFormat'], function($, 
 
 	// Add the time zone definition of our timestamp:
 	docLine.push('BEGIN:VTIMEZONE');
-	docLine.push('TZID:Europe/Zurich');
+	docLine.push('TZID:' + config['timezone']);
 	docLine.push('BEGIN:STANDARD');
 	docLine.push('TZOFFSETFROM:+0200');
 	docLine.push('TZOFFSETTO:+0100');
