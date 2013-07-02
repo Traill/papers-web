@@ -187,6 +187,15 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 	}
 
 
+	// Move all nodes smoothly so that we have a nice animation:
+	graph.moveNodesSmoothly = function(nodes) {
+		nodes.forEach(function(el){
+			el.domNode.transition().duration(400).attr('cx', el.x);
+			el.domNode.transition().duration(400).attr('cy', el.y);
+		});
+	}
+
+
 	// Move all edges
 	graph.moveLinks = function(links) {
 		links.forEach(function(link) {
@@ -244,7 +253,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		else {
 
 			// Stats
-			//console.debug("iterations left: " + iterations)
+			//console.debug("iterations left: 	" + iterations)
 			
 			// Move links and display them	
 			graph.moveLinks(links);
@@ -255,8 +264,8 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			// Broadcast the event that the graph has changed:
 			radio("graph:changed").broadcast(nodes, graph.id, positionLoaded);
 
-			// Move one last time if we just loaded them:
-			if( positionLoaded )  graph.moveNodes(nodes);
+			// Move smoothly if we just loaded them:
+			if( positionLoaded )  graph.moveNodesSmoothly(nodes);
 
 			// Reset the positionLoaded var
 			positionLoaded = false;
