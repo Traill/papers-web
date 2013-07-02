@@ -100,7 +100,7 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 		graph.events(nodes);
 
 		// Find the position:
-		//position.load(graph.id);
+		position.load(graph.id);
 
 		// Render the updated graph if we haven't already done that 
 		graph.render(nodes, links, iter);
@@ -188,11 +188,12 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 
 
 	// Move all nodes smoothly so that we have a nice animation:
-	graph.moveNodesSmoothly = function(nodes) {
+	graph.moveNodesSmoothly = function(nodes, callback) {
 		nodes.forEach(function(el){
-			el.domNode.transition().duration(400).attr('cx', el.x);
-			el.domNode.transition().duration(400).attr('cy', el.y);
+			el.domNode.transition().duration(500).attr('cx', el.x);
+			el.domNode.transition().duration(500).attr('cy', el.y);
 		});
+		setTimeout(callback, 550);
 	}
 
 
@@ -255,22 +256,31 @@ define(["lib/d3", "util/screen", "radio", "util/levenshtein", "models/zoom", "pa
 			// Stats
 			//console.debug("iterations left: 	" + iterations)
 			
-			// Move links and display them	
-			graph.moveLinks(links);
-			
-			// Enable user interaction:
-			radio("loader:hide").broadcast();
-			
-			// Broadcast the event that the graph has changed:
-			radio("graph:changed").broadcast(nodes, graph.id, positionLoaded);
+			var end = function(){
+				// Move links and display them	
+				graph.moveLinks(links);
+				
+				// Enable user interaction:
+				radio("loader:hide").broadcast();
+				
+				// Broadcast the event that the graph has changed:
+				radio("graph:changed").broadcast(nodes, graph.id, positionLoaded);
+
+				// Reset the positionLoaded var
+				positionLoaded = false;
+				// Reset the isRendering var
+				isRendering = false;
+			}
 
 			// Move smoothly if we just loaded them:
-			if( positionLoaded )  graph.moveNodesSmoothly(nodes);
+			if( positionLoaded )  {
+				graph.moveNodesSmoothly(nodes, end);
 
-			// Reset the positionLoaded var
-			positionLoaded = false;
-			// Reset the isRendering var
-			isRendering = false;
+			}else{
+				end();
+			}
+
+			
 		}
 	}
 
