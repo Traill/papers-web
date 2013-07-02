@@ -457,7 +457,9 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
   				domEl.find('.authors').css('width', '100%');
 			}));
 			
-			domEl.find('.pdf_dwn').remove();
+			// Show the link to the pdf:
+			//domEl.find('.pdf_dwn').remove();
+			domEl.find('.pdf_dwn').attr('href', params['conference_data'] + id + ".pdf").attr("target", "_blank");
 			domEl.find('.title').html(title);
 			domEl.find('.time b').html(  time.format("HH:MM  mmm d, yyyy") );
 
