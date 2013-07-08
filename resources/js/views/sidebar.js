@@ -107,7 +107,7 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
 		$(".downpdf").click("click", function () { abstractVerify(0); });
 		
 		// Make generate schedule button work
-		$(".downicn").click("click", function () { abstractVerify(1); });
+		$(".downicn").click("click", function () { downloadIcal(0); });
 
 		// Call events
 		sidebar.events();
