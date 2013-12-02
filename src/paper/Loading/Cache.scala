@@ -17,7 +17,8 @@ object Cache {
 
   println(Properties.envOrNone("MONGOHQ_URL"));
   //val MongoSetting(mongoDB) = Properties.envOrNone("MONGOHQ_URL")
-  val MongoSetting(mongoDB) = Some(Properties.envOrElse("MONGOHQ_URL", "mongodb://heroku:9f4db15648e7d65475777fb389aed51a@alex.mongohq.com:10092/app11027994"))
+  val mongo_hq = "mongodb://heroku:vl6kXScord1AyVXfipBeCKtulBkQizw5vG8VzskZkCI7sqpyefSH0nXo9iUa_XBBSvvGPgW1q8ynAin5l-C6Uw@alex.mongohq.com:10092/app11027994"
+  val MongoSetting(mongoDB) = Some(Properties.envOrElse("MONGOHQ_URL", mongo_hq))
 
   // Constants
   val basedir = "cache" + File.separator
@@ -72,7 +73,8 @@ object MongoSetting {
   val localDbName = "trailhead"
 
   def unapply(url: Option[String]): Option[MongoDB] = {
-    val regex = """mongodb://(\w+):(\w+)@([\w|\.]+):(\d+)/(\w+)""".r
+    // Example string:
+    val regex = """mongodb://(\w+):([\w-]+)@([\w|\._]+):(\d+)/(\w+)""".r
     url match {
       case Some(regex(u, p, host, port, dbName)) =>
         val db = MongoConnection(host, port.toInt)(dbName)
