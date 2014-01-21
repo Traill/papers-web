@@ -31,7 +31,7 @@ define(["radio", "models/cluster", 'js!lib/jquery/jquery-ui-1.9.1.custom.min.js'
 			range: "min",
 			value: 0,
 			min: 0,
-			max: 11,
+			max: 10,
 			step: 1,
 			slide: function( event, ui ) {
 				radio("slider:move").broadcast(ui.value)

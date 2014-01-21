@@ -2,7 +2,7 @@
  *	This module is in charge of clustering
  */
 
-define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"], function(radio, $, linkList, nodeList, graph) {
+define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph", "params"], function(radio, $, linkList, nodeList, graph, params) {
 
 
 	//////////////////////////////////////////////
@@ -57,8 +57,8 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 		// If not fetch clustering
 		else {
 
-			// Set clusterspread
-			var clusterName = cluster.type + (16 - cluster.spread);
+			// Set clusterspread based on particular conference
+			var clusterName = cluster.type + params['cluster_spreads'][cluster.spread];
 
 			// Check if we already have the clustering for 'n'
 			if (cluster.groups[clusterName] == undefined) {
@@ -69,7 +69,7 @@ define(["radio", "jquery", "models/linkList", "models/nodeList", "models/graph"]
 			}
 
 			// If not, render straight away
-			else render(clusterName)
+			else render(clusterName);
 		}
 	}
 

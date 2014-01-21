@@ -46,6 +46,8 @@ define(function () {
 	//config['conference_data'] = //"http://yannik-messerli.com/isit2013/"; //"http://ipgwww.epfl.ch/~arnfred/papers/";
 	config['conference_data'] = "http://ipgwww.epfl.ch/~arnfred/papers/ita2014/";
 	config['conference_abbr'] = "ita2014";
+	config['cluster_spreads'] = [26, 20, 15, 11, 8, 6, 5, 4, 3, 2];
+    //config['cluster_spreads'] = [71, 60, 50, 41, 33, 26, 20, 15, 11, 8, 6, 5]
 	config['conference_name'] = "IEEE International Symposium on Information Theory";
 	config['conference_place'] = "Istanbul, Turkey";
 	config['timezone'] = "Europe/Istanbul";
