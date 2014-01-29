@@ -115,6 +115,7 @@ define(["jquery", "models/nodeList", "radio", "models/zoom", "params"], function
 			selectedNode = null;
 		}
 	}
+
 	
 	// when moving the canvas, we want that the clickwrap follow the node:
 	
