@@ -122,7 +122,7 @@ trait ITA2014 extends XMLParser with PDFLoader
 
     // Then get abstract
     var abstr : Option[String] = None
-    val abstrName : String = Analyzer.filePath + "abstracts" + File.separator + "abstract_" + doc.id + ".txt"
+    val abstrName : String = Analyzer.filePath + "abstract" + File.separator + "abstract_" + doc.id + ".txt"
     val abstrFile : File = new File(abstrName)
     if (abstrFile.exists) abstr = Some(cleanUnicode(Source.fromFile(abstrFile).getLines.mkString(" ")))
     return abstr
