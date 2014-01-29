@@ -23,7 +23,7 @@ libraryDependencies  ++= Seq(
 			"net.databinder" %% "unfiltered-netty-server" % "0.6.7",
 			"com.dongxiguo" %% "fastring" % "0.2.1",
 			"org.mongodb" %% "casbah" % "2.5.0",
-			"com.novus" %% "salat" % "1.9.2-SNAPSHOT",
+			"com.novus" %% "salat" % "1.9.2",
 			"joda-time" % "joda-time" % "2.2",
 			"org.joda" % "joda-convert" % "1.2"
 )
