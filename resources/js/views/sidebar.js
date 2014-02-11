@@ -452,14 +452,20 @@ function(radio, truncate, Pdf, nodeList, iCal, param, arrrr, tabbbb, tabbb, tabb
 			var baseurl = params['conference_data'] + params['conference_abbr'] + '/';
 
 			// Add thumb:
-			domEl.find('.thumb').append($('<img src="' + baseurl + id +'.jpg" width="50" />').error(function() {
-  				domEl.find('.thumb').remove();
-  				domEl.find('.authors').css('width', '100%');
-			}));
+			// domEl.find('.thumb').append($('<img src="' + baseurl + id +'.jpg" width="50" />').error(function() {
+  	// 			domEl.find('.thumb').remove();
+  	// 			domEl.find('.authors').css('width', '100%');
+			// }));
 			
 			// Show the link to the pdf:
-			//domEl.find('.pdf_dwn').remove();
-			domEl.find('.pdf_dwn').children('a').attr('href', params['conference_data'] + id + ".pdf").attr("target", "_blank");
+			var valid_node = { "108": true, "1082": true, "1187": true, "1258": true, "1279": true, "13": true, "1324": true, "133": true, "1436": true, "1438": true, "151": true, "152": true, "1528": true, "153": true, "1568": true, "1606": true, "1660": true, "1714": true, "173": true, "1847": true, "1861": true, "205": true, "217": true, "221": true, "230": true, "2335": true, "2357": true, "242": true, "264": true, "27": true, "273": true, "2750": true, "2751": true, "2774": true, "2938": true, "2996": true, "3027": true, "3037": true, "3051": true, "3069": true, "3071": true, "3082": true, "310": true, "311": true, "3205": true, "3340": true, "3345": true, "3365": true, "3369": true, "3378": true, "3386": true, "3398": true, "3415": true, "3417": true, "3423": true, "3431": true, "3437": true, "3446": true, "3449": true, "3473": true, "3492": true, "3497": true, "3501": true, "362": true, "375": true, "422": true, "436": true, "54": true, "738": true, "831": true, "888": true, "92": true, "973": true };
+			
+			if(valid_node[node.id])
+				domEl.find('.pdf_dwn').children('a').attr('href', params['conference_data'] + id + ".pdf").attr("target", "_blank");
+			else
+				domEl.find('.pdf_dwn').remove();
+			
+			
 			domEl.find('.title').html(title);
 			domEl.find('.time b').html(  time.format("HH:MM  mmm d, yyyy") );
 
